@@ -1,0 +1,930 @@
+{
+  "user_repo": "dropwizard/metrics",
+  "dep_repo": "FasterXML/jackson-databind",
+  "dep_date": "2012-06-07 05:23:00 UTC",
+  "dep_commit_id": "e307a9181676d81961d092ddeec7165d87e3b81e",
+  "social_date": "2013-03-05 19:40:16 UTC",
+  "devs": [
+    "chids",
+    "joschi"
+  ],
+  "interactions": [
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "c82bcb80ccd2d254439e26afab4dd102b1818531",
+      "date": "2011-11-16T15:53:43Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "6c52872cbfc34d60c01d6088c3223402c5b0cbba",
+      "date": "2011-11-28T23:52:54Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "7daa87e141e87fb8b011ddd5b6ff08b661fbc987",
+      "date": "2011-11-20T09:58:40Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "7f81c9d0c8cd02f8d93d5e8167d4acb553ef9352",
+      "date": "2011-11-19T12:37:55Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "529b7ff788b988c759935cfc75ca09878e5790e8",
+      "date": "2011-11-19T12:36:32Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "16036191a49159445ec85de6e82db3e64c96478b",
+      "date": "2011-11-19T12:32:29Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "f0000c5932f5cf79a928f98086c12e58360d9cf6",
+      "date": "2011-11-19T12:29:24Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "a2d87c523ceb773eb32e248b2a46eebc6d11271f",
+      "date": "2011-11-19T12:18:06Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "9ec85fd282c1055dce316d4072f493dea4d5666c",
+      "date": "2011-11-19T12:13:26Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "d9d988a6a1f7580698369ecb22399f96e2a4a4d4",
+      "date": "2011-11-19T12:12:54Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "90138a0c270dbeee34487f48314f188e5ab16a37",
+      "date": "2011-11-19T11:56:53Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "e4a03e4ede0f9e15caef5c228bfdad21e699be39",
+      "date": "2011-11-19T11:46:43Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "85d852e1ce37549198ddb0f08aab07d7865e1859",
+      "date": "2011-11-19T02:10:38Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "8ab9a9b8d48737b4ab3628a8c6c2452851ac1438",
+      "date": "2011-11-19T01:36:59Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "19b498e302b5157ebf677dc41bdf9ee4cdba008c",
+      "date": "2011-11-19T01:33:55Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "881b62c5e4e70c91e1a251fb4acefb2829a43917",
+      "date": "2011-11-18T14:17:31Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "e8744da8fca3198910be7d80de3fbc46c1f6d61b",
+      "date": "2011-11-17T20:55:32Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "df0566c51c0c302f40b54951e061b0899d24847c",
+      "date": "2011-11-17T19:03:56Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "7ab8fa4c06150b89b1e1b6b3efc265d3b19e7612",
+      "date": "2011-11-16T21:26:24Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "a398edae09bfcc4913155912a1ef7702eaa48567",
+      "date": "2011-09-30T13:07:43Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "90871c05f69562a08bcc616f492a6de43dd5971c",
+      "date": "2011-09-15T17:50:32Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "fbc4c4b2adfb1460e6398d61bc4371c91ef3a0e0",
+      "date": "2011-03-23T22:15:29Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "8eb026a969c611c704192530e7613e850f75a528",
+      "date": "2011-05-09T13:36:50Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "d870a0f64a6268022098db259e258ef7ae448812",
+      "date": "2011-05-10T09:08:09Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 1136296,
+      "date": "2011-05-11T08:02:45Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2195899,
+      "date": "2011-09-26T08:14:57Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2766128,
+      "date": "2011-11-16T19:11:56Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2767977,
+      "date": "2011-11-16T21:11:36Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2780397,
+      "date": "2011-11-17T19:15:15Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2781896,
+      "date": "2011-11-17T20:59:18Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2783522,
+      "date": "2011-11-17T23:14:21Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2783591,
+      "date": "2011-11-17T23:22:45Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2783824,
+      "date": "2011-11-17T23:49:28Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2786454,
+      "date": "2011-11-18T07:11:05Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2798494,
+      "date": "2011-11-19T12:01:50Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2799916,
+      "date": "2011-11-19T17:43:50Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 2834008,
+      "date": "2011-11-22T12:57:42Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 3031656,
+      "date": "2011-12-06T12:36:55Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 3048465,
+      "date": "2011-12-07T15:30:09Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 3657904,
+      "date": "2012-01-25T20:03:52Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 3658112,
+      "date": "2012-01-25T20:14:33Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 3682845,
+      "date": "2012-01-27T06:59:07Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 3744192,
+      "date": "2012-01-31T17:59:33Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 3744935,
+      "date": "2012-01-31T18:36:02Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 4299902,
+      "date": "2012-03-03T10:48:27Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 6008574,
+      "date": "2012-05-30T12:36:00Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 6147083,
+      "date": "2012-06-06T10:12:42Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 6243624,
+      "date": "2012-06-11T12:58:29Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14460604,
+      "date": "2013-03-05T19:40:16Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14467701,
+      "date": "2013-03-05T21:51:30Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14896872,
+      "date": "2013-03-14T11:09:46Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 246,
+      "date": "2012-05-28T18:24:45Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 149,
+      "date": "2012-01-27T01:33:14Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 148,
+      "date": "2012-01-26T10:03:57Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 127,
+      "date": "2011-11-30T15:23:21Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 125,
+      "date": "2011-11-28T23:55:53Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 122,
+      "date": "2011-11-22T12:54:39Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 120,
+      "date": "2011-11-19T19:44:19Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 119,
+      "date": "2011-11-19T12:40:16Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 118,
+      "date": "2011-11-19T01:38:24Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 117,
+      "date": "2011-11-18T14:22:12Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 113,
+      "date": "2011-11-17T20:57:33Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 112,
+      "date": "2011-11-17T20:49:25Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 111,
+      "date": "2011-11-17T19:05:48Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 109,
+      "date": "2011-11-16T21:28:16Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 108,
+      "date": "2011-11-16T21:10:59Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 107,
+      "date": "2011-11-16T10:42:03Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 52,
+      "date": "2011-07-07T15:03:08Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 19,
+      "date": "2011-05-10T11:02:35Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 17,
+      "date": "2011-05-09T13:37:07Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "issue",
+      "id": 110,
+      "date": "2011-11-17T14:44:49Z"
+    },
+    {
+      "dev_id": "chids",
+      "repo": "dropwizard/metrics",
+      "type": "issue",
+      "id": 46,
+      "date": "2011-06-22T14:04:35Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "4daed60e0fca4ebad63c006e3446058e8f7a7067",
+      "date": "2014-12-25T20:57:27Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "e9c6e44050bb0fc1137aff588ac40217d9ecf458",
+      "date": "2014-12-16T13:46:18Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "09a0f1a83a6a40cf5b3977f3f9c76e9bf8423841",
+      "date": "2014-12-16T13:44:11Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "e8fc420a6c542410c2f2000e22bf7788cb2544f0",
+      "date": "2014-09-07T13:30:27Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "efef8dba9cf8c12fa1d35f372a801c13efa86b74",
+      "date": "2014-09-07T13:20:27Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "da284472f195d8a4d26d060cf9da22149b18ab8b",
+      "date": "2014-09-07T13:29:20Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "bc617d2f06f52d28b077002736a894a20a88282d",
+      "date": "2014-09-07T13:23:15Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "f41ca6c8cc1b17387d056489d8650845e6b2c0e8",
+      "date": "2014-09-07T12:07:20Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "f72a685eee80c895265b38592644cb2cd685cabf",
+      "date": "2014-09-07T12:04:45Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "958600aff7c025a6dd65e60369b870064b559f3b",
+      "date": "2014-09-07T11:57:00Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "6f1b3db8ff3c8332ec0297faa012a25de01584b4",
+      "date": "2014-09-07T11:47:40Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "f72fc6758de17aca73b749f74574a70c36b64c2e",
+      "date": "2014-09-07T10:59:25Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "add67fee32e70163d6327edca5a00285cf3277c2",
+      "date": "2014-09-07T10:53:34Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "8ea8321a990d3d1debd427e4346ebccd9fb4daf8",
+      "date": "2014-09-05T15:44:43Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "e3eefba047bd099634c5f7efce0e4bef9e634287",
+      "date": "2014-09-05T15:26:18Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "92f7d920deac3c0065ae504784a3b271d6b46fe7",
+      "date": "2014-02-01T23:32:14Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "33bb7e814ea3efa47bed1a6dd56caf9bf160f620",
+      "date": "2014-06-01T13:54:32Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "4fd4f8289e272523c8af82d18297a9b765785252",
+      "date": "2014-06-01T13:47:20Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "cb183d4496e1d61abfa1f7394b2f93fee5e30e75",
+      "date": "2014-06-01T13:34:52Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "d334e0d9559d3a01b663f68d532dca51ff4b0496",
+      "date": "2014-06-01T13:30:02Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "0a17336ea426ee1a2c683fbfb594ed26b8b00c3c",
+      "date": "2014-06-01T12:32:37Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "1e62cb218787261a101c91292e7c168270d61f47",
+      "date": "2014-06-01T12:22:42Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "8cb4a5d13779984e7d43dc802ffff3b92e83987a",
+      "date": "2014-06-01T12:18:12Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "059b619b147cfcb8c8e355b3c4aaa6da20bd1871",
+      "date": "2014-06-01T11:53:16Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "585419c28bca8c49e9bf979574c4a6f2a5030fcf",
+      "date": "2014-06-01T11:33:04Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "ab53cf1586f008ca6f2d80d3f224956c15d517c9",
+      "date": "2014-06-01T11:17:16Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "commit",
+      "id": "d290eb709a2bf01b890e2a6535c9702c7c31b7fe",
+      "date": "2014-02-01T22:49:09Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 31208364,
+      "date": "2013-12-26T01:30:24Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 31296710,
+      "date": "2013-12-28T13:39:04Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 32111978,
+      "date": "2014-01-12T00:51:13Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 34444268,
+      "date": "2014-02-07T15:05:40Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 44089886,
+      "date": "2014-05-24T15:03:40Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 44273881,
+      "date": "2014-05-27T13:14:11Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 44777266,
+      "date": "2014-06-01T13:03:23Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 44778233,
+      "date": "2014-06-01T13:50:46Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 44792033,
+      "date": "2014-06-01T22:57:17Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 46321894,
+      "date": "2014-06-17T15:21:57Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 51700738,
+      "date": "2014-08-09T22:47:39Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 51709560,
+      "date": "2014-08-10T08:49:32Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 54031522,
+      "date": "2014-09-01T07:58:49Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 54031966,
+      "date": "2014-09-01T08:05:02Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 54043153,
+      "date": "2014-09-01T10:14:29Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 54050568,
+      "date": "2014-09-01T11:50:22Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 54744357,
+      "date": "2014-09-07T11:40:47Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "com",
+      "id": 54744640,
+      "date": "2014-09-07T11:56:55Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 38370054,
+      "date": "2014-03-23T01:16:13Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 38392433,
+      "date": "2014-03-23T18:45:39Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 728,
+      "date": "2014-12-25T20:59:35Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 650,
+      "date": "2014-09-07T13:30:38Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 649,
+      "date": "2014-09-07T13:24:00Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 648,
+      "date": "2014-09-07T13:23:49Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 646,
+      "date": "2014-09-05T15:56:47Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 645,
+      "date": "2014-09-05T15:32:46Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 520,
+      "date": "2014-02-01T22:49:36Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 513,
+      "date": "2014-01-12T00:49:29Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 506,
+      "date": "2013-12-27T14:29:57Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 505,
+      "date": "2013-12-27T14:26:23Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "pr",
+      "id": 493,
+      "date": "2013-12-01T15:36:03Z"
+    },
+    {
+      "dev_id": "joschi",
+      "repo": "dropwizard/metrics",
+      "type": "issue",
+      "id": 644,
+      "date": "2014-09-05T14:44:46Z"
+    }
+  ]
+}

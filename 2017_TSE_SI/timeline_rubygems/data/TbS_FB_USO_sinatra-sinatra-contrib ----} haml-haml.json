@@ -1,0 +1,4332 @@
+{
+  "user_repo": "sinatra/sinatra-contrib",
+  "dep_repo": "haml/haml",
+  "dep_date": "2011-03-29 17:40:32 UTC",
+  "dep_commit_id": "e180dcadc4ea0c70c761752ee9443b4cd64d0f55",
+  "social_date": "2011-04-17 06:56:24 UTC",
+  "devs": [
+    "mattwildig",
+    "rkh"
+  ],
+  "interactions": [
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "9b8ce72a0872a4122a747fe0ccd724cfba985821",
+      "date": "2015-06-08T22:09:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b09e4589ad0b9f21779854cf0eb7ceb04e171964",
+      "date": "2015-03-18T18:22:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8749bf5b12e824a13bf14de8773491c924fa7f6f",
+      "date": "2015-02-04T13:48:03Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "85e659259b5932d3a06ef77562b813c29c624147",
+      "date": "2015-02-01T21:08:40Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "5c17bfdef85062aa77532eaa83c808318af3e0e0",
+      "date": "2014-11-29T18:53:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "52501ccfced4649e5d1653469b689ba24a653775",
+      "date": "2014-11-29T02:34:11Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "79e66dfa8eaa1a97c732f9f6b8700a6c3321b6e6",
+      "date": "2014-11-29T01:49:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "bed93305a46745cd2e00c578e851d65334336c1d",
+      "date": "2014-11-29T01:40:34Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "2470947e01ee130d22404a53757b5d00b4900247",
+      "date": "2014-11-28T23:43:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "71a50788f738c44b115961bcfcb337ea02fcadd6",
+      "date": "2014-11-27T22:07:22Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b09bf0a900ef95216ecf571e08c4a068ff563360",
+      "date": "2014-11-26T19:55:49Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "908fad0dc4f2374980d594f3bac4af2da37a6a60",
+      "date": "2014-11-26T19:48:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "d5a186e12b81f89386b086035339c9be829ad6b0",
+      "date": "2014-11-19T22:07:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "360ac4869013a98a66cd208451c369b35e09dc48",
+      "date": "2014-11-19T21:44:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e9d44f87a1aa2680b4769e2e0239083b095277f4",
+      "date": "2014-11-19T21:43:25Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "05a23576a298edcf9774c12810fbef7c80cd9176",
+      "date": "2014-11-19T16:04:02Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "85917047e0b2eab54b1e05e1b1b1dc2f02c837fa",
+      "date": "2014-04-17T22:18:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "2cf8462a211959bf7e88c63d468d1d264455a91f",
+      "date": "2014-03-25T22:25:18Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ace2e4f531c0563615e4ddf7bdc9edb641cc72fc",
+      "date": "2014-03-25T22:23:14Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "40b222694ed828b7889aa6f6631f585fde5cdfc7",
+      "date": "2014-03-25T21:19:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "62a24aca539605ecfeef9c99c759a54357b5cb3b",
+      "date": "2014-03-25T21:07:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "7c0b082ff23a8c7e27800a899bbc57fd58e75e3c",
+      "date": "2014-03-06T14:16:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "fb9a2b19b3f0591cb062de902965abfa6d0c0036",
+      "date": "2014-03-05T22:51:23Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "48abdcc55429dc182fb6a91ce289bcfd65850ba1",
+      "date": "2014-03-05T22:37:23Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "dd530babee5b894f5433db59d2e7517b3d9a9c50",
+      "date": "2014-03-05T19:56:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "6b7a09bdecb449e29b0eae38241aaf70cf4a37ae",
+      "date": "2014-03-05T19:52:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e24457564802a0fb61973ed51cf6608477f880c8",
+      "date": "2014-02-18T15:03:41Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "611c8552202a9120f997846edf52ee89c4d42641",
+      "date": "2014-02-15T02:03:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8c8aaae20c1bc7b9040576dc0a614f68c13b8953",
+      "date": "2014-02-15T02:02:41Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "2f66a890c82fac2f58f77a0cb92a91fba0895e0c",
+      "date": "2014-02-15T01:54:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8a37b08a057f893022a6359d86683ba027a55a64",
+      "date": "2014-02-15T02:29:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4c5812fd3692e9ec2d5b756cfac6c413869c35c3",
+      "date": "2014-02-14T23:16:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "84b9efe0bdd461a198eab608de50b405c59118ae",
+      "date": "2014-02-14T22:35:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "38126b555ae3a96840892b3a45e4f5f498647984",
+      "date": "2014-02-02T20:03:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "1a588cff4b2dd9375515d807dd2dc1bc996ff049",
+      "date": "2013-10-17T20:21:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "2887b2486480b38007ce9c2297ff3d503474a7a4",
+      "date": "2013-10-10T11:44:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "03bf40b890106c9d8603308e5fb55fbfd96cc404",
+      "date": "2013-10-10T11:44:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "221230b5df0ad75111e057da802c1888218cfe5e",
+      "date": "2013-09-11T20:36:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "09d14bcbef256ed99ef3bc24bd400db339d19175",
+      "date": "2013-09-11T20:36:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "9ed5fef5149d2d27862079dc13ffc01a534f7261",
+      "date": "2013-09-04T16:17:54Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b93abe8598e31b75f48cdb194f14885f40cb7c0d",
+      "date": "2013-09-04T16:09:52Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ccfcd6497f8ee093408c297023141b665d08459d",
+      "date": "2013-09-04T16:09:52Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8ea4e61d5013d2b47435055c14d1ba5d7a3d1ee2",
+      "date": "2013-09-04T15:12:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "754ac46ec73cb8a6cbeee0f5ceba77439237ebd9",
+      "date": "2013-09-04T15:12:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "f3e9e806b3f33c543ad29e331a0fbdc3333c1190",
+      "date": "2013-08-21T22:22:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b41a702595d3b240706375dcb1a8a6ab8c421642",
+      "date": "2013-08-21T21:45:52Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "cef861858d02feb5ad9f81fd7814e2f159ecca2c",
+      "date": "2013-08-21T21:43:59Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "41a5d9da316b7ca2b6264642c69452c9366d09db",
+      "date": "2013-08-21T21:26:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "9d7711bbc29482988e3562d713ccb91f92deef42",
+      "date": "2013-08-03T21:01:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e9452b269fb3b6f9df0cd9c4e7487775710c6e6e",
+      "date": "2013-07-28T18:11:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "0dcd6d125138b644dc08176ede012b95d11cae31",
+      "date": "2013-07-28T17:51:04Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ef3b721256c493b712d63adcdef9cd66270e2ae2",
+      "date": "2013-07-17T19:28:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "48ab37b6e35bceb8856b8561559e6dfc7bcd252b",
+      "date": "2013-07-17T19:26:08Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "04d6e68163bbd1ed0e24c0feb1c1024c1b004140",
+      "date": "2013-05-05T19:56:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "be94090fa5c9984c0b936c595b73e215c95a4438",
+      "date": "2013-05-05T19:50:18Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "63d72675792f0866dfdf5d2477a4fb8f35f00671",
+      "date": "2013-05-15T20:48:39Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "6eba09dba4a04d51fdfd5e4bcfbc2a1817ec0fa3",
+      "date": "2013-05-06T01:22:14Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b93ae45c018acfa2c319e15a40b8f0017fa9f2a4",
+      "date": "2013-04-05T23:04:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "c434e8cfd08d79f51d1ecf3b0ea3a1c5c52620f3",
+      "date": "2013-05-05T19:56:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "79318cad6d51877ad0a7d6e14e3d34bce92ee26d",
+      "date": "2013-05-05T19:50:18Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4fd9c4154e1b93769fcfabc8942fa5c026cc8c19",
+      "date": "2013-05-15T20:48:39Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4e9b1719a0ab2ff2422c1695b62d6edaaf764242",
+      "date": "2013-05-08T17:48:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4511a75288728577000bec69a667e269faf0c78c",
+      "date": "2013-05-08T17:48:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "6b71174ed778641efe41d61abf50bc871d94caaf",
+      "date": "2013-05-06T01:22:14Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "aaaca088f9098e1c5df60d4bee5f9c6b0a8fda06",
+      "date": "2013-04-05T23:04:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "dc0e22b336baf8cdcab418334071fd54899eda1a",
+      "date": "2013-04-05T21:26:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "a45154af0bf869e671c4ab733153a046be91f1b0",
+      "date": "2013-03-21T22:32:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "7ccb8f58f70cc1153477e1cb5b51a7cf9264fa6b",
+      "date": "2013-04-03T21:52:10Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "682aed132275bc3bc5f9552c8a6e0c7bf51ef7ba",
+      "date": "2013-04-03T21:43:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "1a700cec5ef9e56d353c4d57c654aac11c2cc8dd",
+      "date": "2013-04-04T00:51:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "510af3bed826ae435717ea3bee95ba209cd2703b",
+      "date": "2013-04-04T00:37:56Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "d8a770f484e9833a4da84ff04ace78a565346766",
+      "date": "2013-04-04T00:32:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "12ff53042420f326132319c2903019ae8f8c27cb",
+      "date": "2013-04-04T00:24:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e6594acce6fe2b445af815c773f63668fcbbb5f3",
+      "date": "2013-03-24T23:24:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "d440e6c3775a647518d9f105f83dee21949abf74",
+      "date": "2013-03-27T23:07:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "3766c39e671122cb9bc7522bf25ddc63f17ca6b0",
+      "date": "2013-04-04T00:51:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "600b494feb2cb4be152d0672a1a3e586bae9b916",
+      "date": "2013-04-04T00:37:56Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "461140504d52f9e4528b1afed79ebd84823ea888",
+      "date": "2013-04-04T00:32:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "c5766b0e8d351050c7fa76ec1cca1b2b48828b67",
+      "date": "2013-04-04T00:24:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "db78aa5c9442a659803a3e35c9060c1c299b5a5d",
+      "date": "2013-03-27T23:07:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "322525fa14380ec45d1d53d0acfa18734b4ad4e3",
+      "date": "2013-03-24T23:24:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b281da770408854094c5ca9996b9e9313ec3ca7c",
+      "date": "2013-03-24T23:20:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8aa89a3084b9cef9a13bed2789a62a2fa3c41889",
+      "date": "2013-03-08T21:13:11Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "66a8ee080a9fb82907618227e88ce5c2c969e9d1",
+      "date": "2013-03-08T00:24:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e475b015d3171fb4c4f140db304f7970c787d6e3",
+      "date": "2013-02-21T00:34:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "0ea157839f7fbc98d058cf4af2dac0d007ea4416",
+      "date": "2013-02-21T00:21:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "441fdf4af5fcbb26a3a3db56c1b72b6b13808440",
+      "date": "2013-02-14T21:58:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4d3d0b27a7ded9f4deccbf4d4f86dab78c52909c",
+      "date": "2013-01-18T22:26:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ba8b4c169457db4cb497193d089b12bfb58172b7",
+      "date": "2013-01-18T20:26:21Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "f23cecb699fca59810b2dc45f0e2e1bcf1c9a839",
+      "date": "2013-01-15T22:36:52Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ffd54f64b5ec0c32101e790af84a210baa52e704",
+      "date": "2013-01-15T22:24:39Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4ea337b49de926edc178696f5b2546c08d3b0845",
+      "date": "2012-12-18T19:05:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "f32b60909c95cf9b53ac2312568a9ec0c775aabc",
+      "date": "2012-12-17T20:57:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "df37fa13d9495687d7a677cf1049bd02b6d9dc2f",
+      "date": "2012-12-17T16:22:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "9cf27ed182f196170d60d34cc9b535db1dc98fd2",
+      "date": "2012-12-15T14:41:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4c17dfa07985452886660fa9bf02bfa518ea2b88",
+      "date": "2012-12-15T14:36:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "68977f3368941a5569c9345d3e9012f8184b0419",
+      "date": "2012-12-14T09:59:20Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "3d7b799d7e23f845184e49428ae5445e6c58653e",
+      "date": "2012-12-15T14:23:52Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "9ef847f24fe1675a3d6f76f9f1b3f4959c4535f5",
+      "date": "2012-11-21T21:33:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ec352d01980efa04a8bb44b0147d909949fabc40",
+      "date": "2012-11-21T00:27:54Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "839389c3b8bbd6259ddfb0ecb24b9be41774ea47",
+      "date": "2012-11-20T16:14:18Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ec3157f4db4e945911196978aee56227d865d8a6",
+      "date": "2012-10-05T20:24:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "12e6fd427d8654ce96e6024fbe2c544f981b10ea",
+      "date": "2012-10-07T21:20:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "45f65125138446d27e9f5f7e993b2b21cfa17389",
+      "date": "2012-10-05T22:17:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "3641442c821432d2cab90c5dde1b1b2b23e51e58",
+      "date": "2012-08-22T00:54:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b020556d6ece3f30496cdf6dd97a11c4599692a1",
+      "date": "2012-08-21T00:05:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "fe623cfd32d828227932222b3af8791913ff7f2d",
+      "date": "2012-08-21T00:05:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "7cb7d55faba606d5d2a02f8ba21adb2a274d508d",
+      "date": "2012-08-17T00:28:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "9a77742f365a3db99ced39fa68231f25467362ba",
+      "date": "2012-08-17T00:25:08Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "3197921eb39d9516eb043cea6724bce6810c24a4",
+      "date": "2012-08-14T23:18:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "079a8c3a4e6c0a2900aff17ae2587b7cd4af2502",
+      "date": "2012-08-14T23:13:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "a1cfc8dceef46c9170112b7e846fcdcb7834be8d",
+      "date": "2012-08-10T18:54:59Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "609d49323e9e4c19c9db58d6920a799527d797e0",
+      "date": "2012-08-10T18:46:54Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "3460dfe9c252cbe4ea5e57e576c99cc5c963a39f",
+      "date": "2012-08-10T18:43:23Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b64d293043549cf843305364d0266fae71e91426",
+      "date": "2012-06-27T21:15:04Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "2049f99820a5864841f563fd5b4adbb2d55848a6",
+      "date": "2012-08-07T22:05:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "3548b821cc46ce92f6049cc61740fd112d1e4928",
+      "date": "2012-08-07T21:59:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8fb5a12659ac93073a1deb9567ce77b634481fc2",
+      "date": "2012-08-07T22:05:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "3b684d30cf773eb0000a6d15a3b34e970b0f0012",
+      "date": "2012-08-07T21:59:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "260ebf926c74650f865ec4e745a4bd61dd67c1f3",
+      "date": "2012-07-13T23:02:17Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8a476a789de48b06605166d3df2cb7b4dddaec0e",
+      "date": "2012-07-13T22:58:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "80b319b024bd1370b6c67c55d6c83bf37c553328",
+      "date": "2012-07-05T22:05:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4df50d56aca160c215d9c7159471e8e9269d657a",
+      "date": "2012-07-04T22:53:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "33dd90fcd0d6d1775682c94b2cbdb96869076400",
+      "date": "2012-06-28T21:23:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4113e09b6f636c61c08ace96ed0424095051f2eb",
+      "date": "2012-06-27T21:15:04Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "04ae44fb31076ca66fd83b40c1717de503f29ff1",
+      "date": "2012-06-26T22:07:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "d2da2ba0120271802372a3c260a8f6177c82f2db",
+      "date": "2012-06-26T21:34:39Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "a520408f512331dc7dc4167cb3a48f81006572ac",
+      "date": "2012-06-25T20:31:01Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "b793ab5d24b851e52f5e6faa3d52a7d5e9042199",
+      "date": "2012-06-25T20:24:22Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "0eb03d17733806a08e027368e582be99ad53d15a",
+      "date": "2012-06-24T21:49:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "a2c0987d5688ed01f8131203779080712e6e8b85",
+      "date": "2012-06-24T00:52:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "8402defbe6f5b59311a7adcace3b838f822599f8",
+      "date": "2012-06-24T00:23:39Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e3c99d970c79b3e88856dd78f646170e1a114ccf",
+      "date": "2012-06-23T23:14:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "1c8c11cd3dd83c7398f49d24d5a65824c3a29ee7",
+      "date": "2012-06-13T16:47:15Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "a69f439b6ea7f9e76e1b5999a7dd9c513db35cde",
+      "date": "2012-06-13T16:44:08Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "f9b83de99017629fd2f14fa38be7ab1353761026",
+      "date": "2012-06-13T16:37:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e8ac2c1ea55891773f736c6e1a0e05488c541d2f",
+      "date": "2012-06-13T16:34:04Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "f8b5e8cf2ebbe3aaeb52e799d15b6adc3c45be46",
+      "date": "2012-06-13T04:59:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "c5131dcb59299672a3b40e6b480896acebc2cbdf",
+      "date": "2012-06-03T16:58:23Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "c98f6b1ec97188053983fc750ac50250aa01e5b4",
+      "date": "2012-05-30T19:48:19Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "68e233f91715cef624d8653ecf1d10734b97cd75",
+      "date": "2012-05-30T15:10:47Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "c5f72c378afc05aa23deb0cdbfb3e6c96d6553c7",
+      "date": "2012-05-29T17:14:02Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "1d3735feb73f196878a3ccf22217033f37068c00",
+      "date": "2012-05-29T16:57:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "499a7ad303561473449adbfec4b6b9d2311ffa62",
+      "date": "2012-05-29T16:52:16Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "406628e6527c96f1a28ed20d9dbff7de8ccfbc14",
+      "date": "2012-05-29T16:45:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "f0e16d2ebd501fd2b05cf4e44e4b7d33c432ee4c",
+      "date": "2012-05-24T23:14:48Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e1510319a4bc15b3e3b8b6dc06be59aa554e274a",
+      "date": "2012-05-27T23:19:40Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "535840d97b1b41deeb56ca771cdb58c852994f5d",
+      "date": "2012-05-27T21:56:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "018de75dfcc701c784b08a48e7fea28d9959ce79",
+      "date": "2012-05-27T21:53:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "074425e29d41780c7a864833ae2211cf5a95afad",
+      "date": "2012-05-27T21:16:10Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4735d75d0e394d71aab341298c297d17d516209d",
+      "date": "2012-05-26T21:11:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "f87c7ad79da7785976973025206dbc3bb615c2ed",
+      "date": "2012-05-24T21:15:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "12cb6d263a910e0969006b8ac3e92d63328b2773",
+      "date": "2012-05-24T21:15:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e62101b44f8ab68954576ae4b3bc662a29fcd5a5",
+      "date": "2012-05-15T22:40:07Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4d699ad276ebfaafcf29f30e82446f9bdbb9e722",
+      "date": "2012-05-09T01:56:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e10b690c45156741518d53561ee78f4df8197522",
+      "date": "2012-05-09T01:30:48Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "4b6f9c0cd131dbf811aab799c4b46f766aa7ca4a",
+      "date": "2012-05-22T21:31:44Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ce2d5ca45a6199b57c204794a5ffd4be3d07f187",
+      "date": "2012-05-22T21:25:57Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "e2c939b57527c50e24f328601013afa150b6efa6",
+      "date": "2012-05-22T21:14:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "d374c3676cd2b0887205ebd8f189c50e14618e69",
+      "date": "2012-05-23T14:50:11Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "cabe2a76390bd08c874337d13d21a489302280bc",
+      "date": "2012-05-06T21:35:39Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "ab37190e85e2e3760691b636553d946a152e4a29",
+      "date": "2012-05-06T21:19:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "42c7110a042198e7e581a650357ca1898ea76524",
+      "date": "2012-05-06T21:16:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "de9c7c34669f75fed80711f868617126cde61ab5",
+      "date": "2012-05-06T21:13:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "9e3574bd9ea23867f3b2c7a9231d492a7dc674c1",
+      "date": "2012-01-23T03:26:49Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "284a0a261a42f544560cd03089ede24f57f0bc01",
+      "date": "2011-09-10T02:03:41Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "commit",
+      "id": "32635eaf15838ef262564f9479d36c95ee88d07d",
+      "date": "2011-09-10T02:03:41Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 5881034,
+      "date": "2012-05-23T18:35:34Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 5919403,
+      "date": "2012-05-24T22:33:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 5957085,
+      "date": "2012-05-27T22:40:22Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6037995,
+      "date": "2012-05-31T14:55:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6559366,
+      "date": "2012-06-25T20:52:48Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6560345,
+      "date": "2012-06-25T21:28:03Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6589458,
+      "date": "2012-06-26T22:14:47Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6589692,
+      "date": "2012-06-26T22:26:03Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6641781,
+      "date": "2012-06-28T21:10:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6643027,
+      "date": "2012-06-28T22:01:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6747520,
+      "date": "2012-07-03T21:48:54Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6977941,
+      "date": "2012-07-13T23:27:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6978005,
+      "date": "2012-07-13T23:33:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 6983169,
+      "date": "2012-07-14T14:11:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 7559686,
+      "date": "2012-08-07T16:58:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 7743834,
+      "date": "2012-08-14T23:23:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 7800152,
+      "date": "2012-08-16T21:28:44Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 7800202,
+      "date": "2012-08-16T21:30:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 8028300,
+      "date": "2012-08-25T22:58:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 9212765,
+      "date": "2012-10-07T21:33:37Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 9212841,
+      "date": "2012-10-07T21:42:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 9910097,
+      "date": "2012-10-30T15:33:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 10574312,
+      "date": "2012-11-20T21:38:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 10574543,
+      "date": "2012-11-20T21:44:22Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11285214,
+      "date": "2012-12-12T11:19:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11300049,
+      "date": "2012-12-12T17:54:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11353509,
+      "date": "2012-12-13T21:12:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11354771,
+      "date": "2012-12-13T21:42:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11356336,
+      "date": "2012-12-13T22:22:47Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11370197,
+      "date": "2012-12-14T09:37:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11371064,
+      "date": "2012-12-14T10:10:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11383017,
+      "date": "2012-12-14T16:49:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11383515,
+      "date": "2012-12-14T17:03:18Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11448090,
+      "date": "2012-12-17T16:19:42Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11462392,
+      "date": "2012-12-17T21:30:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11929882,
+      "date": "2013-01-06T15:43:20Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 11930231,
+      "date": "2013-01-06T16:09:57Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12002668,
+      "date": "2013-01-08T15:53:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12182279,
+      "date": "2013-01-12T18:43:11Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12182301,
+      "date": "2013-01-12T18:44:40Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12287023,
+      "date": "2013-01-15T20:20:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12289540,
+      "date": "2013-01-15T21:13:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12294516,
+      "date": "2013-01-15T22:58:07Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12296732,
+      "date": "2013-01-15T23:54:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12662173,
+      "date": "2013-01-24T17:21:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12756943,
+      "date": "2013-01-27T16:43:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12799350,
+      "date": "2013-01-28T19:28:10Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12799962,
+      "date": "2013-01-28T19:38:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 12801406,
+      "date": "2013-01-28T20:06:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 14577130,
+      "date": "2013-03-07T18:19:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 14578318,
+      "date": "2013-03-07T18:42:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 14664977,
+      "date": "2013-03-09T15:38:16Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 14872395,
+      "date": "2013-03-13T22:20:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 14874392,
+      "date": "2013-03-13T23:05:59Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 14883552,
+      "date": "2013-03-14T02:34:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 14988042,
+      "date": "2013-03-15T22:19:16Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15270940,
+      "date": "2013-03-21T22:41:20Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15272231,
+      "date": "2013-03-21T23:10:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15347001,
+      "date": "2013-03-23T22:21:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15370698,
+      "date": "2013-03-24T22:17:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15373266,
+      "date": "2013-03-25T00:39:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15558833,
+      "date": "2013-03-27T23:06:49Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15676114,
+      "date": "2013-03-30T15:16:52Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15868464,
+      "date": "2013-04-03T22:06:21Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15868523,
+      "date": "2013-04-03T22:07:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15868739,
+      "date": "2013-04-03T22:12:14Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15868992,
+      "date": "2013-04-03T22:17:47Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15971863,
+      "date": "2013-04-05T18:15:44Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15975645,
+      "date": "2013-04-05T19:26:23Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15977152,
+      "date": "2013-04-05T19:55:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 15982654,
+      "date": "2013-04-05T21:48:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 16087301,
+      "date": "2013-04-09T00:19:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 16517885,
+      "date": "2013-04-17T16:47:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 17136643,
+      "date": "2013-04-28T16:17:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 17143179,
+      "date": "2013-04-28T21:32:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 17462927,
+      "date": "2013-05-06T01:08:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 17966277,
+      "date": "2013-05-15T21:06:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 18163159,
+      "date": "2013-05-20T18:14:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 18217766,
+      "date": "2013-05-21T15:45:57Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 18348168,
+      "date": "2013-05-23T14:49:04Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 19542741,
+      "date": "2013-06-17T12:54:15Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 20275443,
+      "date": "2013-07-01T11:09:11Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 20275528,
+      "date": "2013-07-01T11:11:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 20491957,
+      "date": "2013-07-04T20:04:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 21687650,
+      "date": "2013-07-28T17:54:01Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 21687677,
+      "date": "2013-07-28T17:55:16Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 21687894,
+      "date": "2013-07-28T18:07:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 21688611,
+      "date": "2013-07-28T18:50:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 22213529,
+      "date": "2013-08-06T21:37:37Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 22744416,
+      "date": "2013-08-16T02:34:14Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 22745039,
+      "date": "2013-08-16T02:57:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 23055600,
+      "date": "2013-08-21T22:30:38Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 23368274,
+      "date": "2013-08-27T20:33:02Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 23425831,
+      "date": "2013-08-28T15:55:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 23434399,
+      "date": "2013-08-28T17:56:03Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 23796093,
+      "date": "2013-09-04T14:59:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 23798578,
+      "date": "2013-09-04T15:27:47Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 23799057,
+      "date": "2013-09-04T15:33:21Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 24241916,
+      "date": "2013-09-11T14:02:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 26046898,
+      "date": "2013-10-10T11:49:21Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 29083132,
+      "date": "2013-11-22T15:56:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 29090221,
+      "date": "2013-11-22T17:09:07Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 31303213,
+      "date": "2013-12-28T19:35:42Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 31501394,
+      "date": "2014-01-03T02:15:17Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 32197576,
+      "date": "2014-01-13T18:42:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 33912226,
+      "date": "2014-02-02T20:54:11Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 33914193,
+      "date": "2014-02-02T21:52:34Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35144932,
+      "date": "2014-02-15T02:16:48Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35145264,
+      "date": "2014-02-15T02:32:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35146011,
+      "date": "2014-02-15T03:13:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35408834,
+      "date": "2014-02-18T17:20:42Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35443784,
+      "date": "2014-02-18T22:35:02Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35450191,
+      "date": "2014-02-18T23:50:02Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35451023,
+      "date": "2014-02-19T00:02:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35457327,
+      "date": "2014-02-19T01:41:19Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 35458194,
+      "date": "2014-02-19T01:57:16Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36414285,
+      "date": "2014-03-01T03:00:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36431930,
+      "date": "2014-03-01T18:14:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36769466,
+      "date": "2014-03-05T17:33:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36790623,
+      "date": "2014-03-05T20:39:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36806381,
+      "date": "2014-03-05T23:09:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36891717,
+      "date": "2014-03-06T14:21:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36916318,
+      "date": "2014-03-06T17:57:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 36918434,
+      "date": "2014-03-06T18:16:54Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 37186121,
+      "date": "2014-03-10T14:16:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 37186770,
+      "date": "2014-03-10T14:22:21Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 38329831,
+      "date": "2014-03-21T22:11:52Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 38643862,
+      "date": "2014-03-26T02:21:42Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 38825110,
+      "date": "2014-03-27T16:15:07Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 40320642,
+      "date": "2014-04-13T21:34:18Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 40518766,
+      "date": "2014-04-15T18:45:45Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 40770567,
+      "date": "2014-04-17T22:35:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 40770772,
+      "date": "2014-04-17T22:38:44Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 41168612,
+      "date": "2014-04-23T14:39:17Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 41665493,
+      "date": "2014-04-29T11:34:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 43148124,
+      "date": "2014-05-14T22:52:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 43348314,
+      "date": "2014-05-16T15:58:49Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 43565583,
+      "date": "2014-05-19T22:17:57Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 43960888,
+      "date": "2014-05-23T00:48:38Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44212675,
+      "date": "2014-05-26T19:25:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44269314,
+      "date": "2014-05-27T12:35:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44646597,
+      "date": "2014-05-30T12:47:42Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44690370,
+      "date": "2014-05-30T19:29:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44694437,
+      "date": "2014-05-30T20:12:48Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44789184,
+      "date": "2014-06-01T21:00:42Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44858163,
+      "date": "2014-06-02T16:17:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 44902068,
+      "date": "2014-06-02T23:05:53Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 48340262,
+      "date": "2014-07-08T14:06:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 50793360,
+      "date": "2014-07-31T17:45:55Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 51463429,
+      "date": "2014-08-07T12:13:59Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 51513306,
+      "date": "2014-08-07T18:37:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 51516156,
+      "date": "2014-08-07T18:58:44Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 55878686,
+      "date": "2014-09-17T11:04:02Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 55935398,
+      "date": "2014-09-17T18:08:01Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 56945526,
+      "date": "2014-09-26T10:36:40Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 57055084,
+      "date": "2014-09-27T14:55:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 60372722,
+      "date": "2014-10-24T10:57:40Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 61308056,
+      "date": "2014-10-31T18:35:47Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 61309907,
+      "date": "2014-10-31T18:46:57Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 61311087,
+      "date": "2014-10-31T18:53:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 61313033,
+      "date": "2014-10-31T19:05:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 61322967,
+      "date": "2014-10-31T20:07:04Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 63062529,
+      "date": "2014-11-14T13:12:44Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 63076870,
+      "date": "2014-11-14T15:08:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 64460909,
+      "date": "2014-11-25T19:57:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 64725617,
+      "date": "2014-11-26T23:27:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 64832834,
+      "date": "2014-11-27T21:57:10Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 65237375,
+      "date": "2014-12-02T14:24:26Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 70293952,
+      "date": "2015-01-16T17:59:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 72385092,
+      "date": "2015-02-01T21:26:15Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 74260880,
+      "date": "2015-02-13T14:27:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 75754259,
+      "date": "2015-02-24T13:17:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 76007641,
+      "date": "2015-02-25T17:18:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 76772192,
+      "date": "2015-03-02T18:32:04Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 77705554,
+      "date": "2015-03-07T19:30:16Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 78311386,
+      "date": "2015-03-11T17:23:10Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 80771512,
+      "date": "2015-03-15T00:22:37Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 83117822,
+      "date": "2015-03-18T18:45:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 94179976,
+      "date": "2015-04-18T16:46:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 94226058,
+      "date": "2015-04-19T02:35:31Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 94227053,
+      "date": "2015-04-19T02:48:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 100639335,
+      "date": "2015-05-10T13:12:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 110161142,
+      "date": "2015-06-08T22:18:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 112045423,
+      "date": "2015-06-15T12:29:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 812,
+      "date": "2014-11-19T22:29:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 770,
+      "date": "2014-04-17T22:27:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 765,
+      "date": "2014-03-25T22:36:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 757,
+      "date": "2014-03-05T23:09:13Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 756,
+      "date": "2014-03-05T20:02:22Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 751,
+      "date": "2014-02-24T20:49:01Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 744,
+      "date": "2014-02-15T02:13:03Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 742,
+      "date": "2014-02-14T22:42:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 741,
+      "date": "2014-02-02T20:11:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 714,
+      "date": "2013-09-11T20:47:38Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 705,
+      "date": "2013-07-28T17:13:39Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 676,
+      "date": "2013-05-05T20:15:00Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 662,
+      "date": "2013-04-03T22:04:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 655,
+      "date": "2013-03-21T22:39:06Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 649,
+      "date": "2013-03-10T17:41:01Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 647,
+      "date": "2013-03-08T00:35:25Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 637,
+      "date": "2013-02-21T00:47:27Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 633,
+      "date": "2013-02-14T22:05:05Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 621,
+      "date": "2013-01-18T22:35:56Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 620,
+      "date": "2013-01-15T22:41:50Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 608,
+      "date": "2012-11-20T16:18:35Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 597,
+      "date": "2012-10-05T20:31:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 586,
+      "date": "2012-08-22T01:10:56Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 581,
+      "date": "2012-08-10T18:58:51Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 566,
+      "date": "2012-06-26T21:42:28Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 564,
+      "date": "2012-06-25T20:42:24Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 552,
+      "date": "2012-06-03T17:07:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 548,
+      "date": "2012-05-29T17:18:36Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 547,
+      "date": "2012-05-27T22:49:17Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 546,
+      "date": "2012-05-27T22:39:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 545,
+      "date": "2012-05-26T21:20:16Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 544,
+      "date": "2012-05-24T23:21:30Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 543,
+      "date": "2012-05-24T21:20:43Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 542,
+      "date": "2012-05-23T22:43:15Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 541,
+      "date": "2012-05-23T19:16:21Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 538,
+      "date": "2012-05-22T21:49:29Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 537,
+      "date": "2012-05-22T21:36:57Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 530,
+      "date": "2012-05-09T02:12:33Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 527,
+      "date": "2012-05-06T21:58:32Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 484,
+      "date": "2012-01-23T03:33:48Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "pr",
+      "id": 429,
+      "date": "2011-09-10T02:18:58Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 70,
+      "date": "2012-10-23T22:27:59Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 816,
+      "date": "2014-11-29T03:01:37Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 815,
+      "date": "2014-11-26T17:34:09Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 761,
+      "date": "2014-03-10T14:31:12Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 748,
+      "date": "2014-02-21T21:49:03Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 678,
+      "date": "2013-05-14T21:12:25Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 656,
+      "date": "2013-03-25T00:11:49Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 648,
+      "date": "2013-03-10T00:11:46Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 602,
+      "date": "2012-10-31T00:32:08Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 585,
+      "date": "2012-08-21T23:20:59Z"
+    },
+    {
+      "dev_id": "mattwildig",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 574,
+      "date": "2012-07-14T19:47:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "1aed2897edebbea5e18a5772af9e060a689013fe",
+      "date": "2013-04-23T22:23:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6da79a0309ccc652c18e6edfd29d59f66b251a39",
+      "date": "2013-04-06T22:08:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "d01d2cd0f5ed5919af05128d4b72d80af139e5fd",
+      "date": "2013-04-06T22:08:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "fa76fb051094192923b574cb6a27385b78bb7f1c",
+      "date": "2013-04-05T07:50:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "7e39d6d1b709cf5ee50192b2f6d58c5e8fcde0af",
+      "date": "2013-03-17T18:00:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "cd8a4b89fd7a437a45ce786435cb419069f80c53",
+      "date": "2013-03-17T17:58:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "7010ce5d3272efb1a2eded50fdef378f3184e932",
+      "date": "2013-03-17T17:53:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "2698909bed51ab62c2a08e537cf962b16a51a070",
+      "date": "2013-03-17T17:51:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "c65ab611a5de74787618ad55ad755efeee4bdf6c",
+      "date": "2013-03-16T14:18:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "38738b79ab414f54cc1777cf12d0223caafef480",
+      "date": "2013-03-16T14:18:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "d116e689da607667c3093801d52bff26bc583c4a",
+      "date": "2013-03-10T17:01:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "113e02f0c74a4a1c5cbc374b7bc3fef537bf8fd8",
+      "date": "2013-03-10T16:40:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "cf4f5660dd9c3429d2116dc1506f8c1d670dfdef",
+      "date": "2013-02-08T06:49:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "9fadb1fa141e378d65889c27fa132277591834cf",
+      "date": "2012-12-02T15:55:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "f788be38f3e967730af51f1f6875e08fb47b4c4e",
+      "date": "2012-12-01T22:01:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "95098299ff244bffe0391e597f08468f806bc4af",
+      "date": "2012-12-01T21:59:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "64f1d70d8f7d0dc188ae6c5de2c621b554678101",
+      "date": "2012-11-23T13:27:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "59cd6af54a5ef6619154e8d0f199d4688e657887",
+      "date": "2012-11-09T14:15:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "e1023ef12553d75895b6efe89576416450f0d71e",
+      "date": "2012-07-08T09:17:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "42745cb9d318f9788670e38a27f4d6bf47ef876c",
+      "date": "2012-05-23T15:41:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "c5c2d32e688123a1a1cab4b391447e995957c94f",
+      "date": "2012-05-14T13:42:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "180008c696f8cebe2f8a2de0ebcd63fc06d5c7fa",
+      "date": "2012-05-07T12:39:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "384f33951dbeaab1b13ae19ac881acf99610e673",
+      "date": "2012-03-22T08:34:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "a430748f9806faf1798b1d9b7bea4ca813cbd426",
+      "date": "2012-03-15T08:02:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "706d023f7dd47f914d9579cef615a0cf89674171",
+      "date": "2011-12-15T21:32:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "0fce87a2836753949cea0346929e6c674096c482",
+      "date": "2011-12-05T11:15:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "c7ab526a8eec352dee4cf197b3791bac55504f2e",
+      "date": "2011-11-28T22:27:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "ec5c3d6c496bf857920efaa27abb9a9f8de3880c",
+      "date": "2011-11-28T22:27:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "f1f2c527a68011c99873893591aa5563e6833a06",
+      "date": "2011-11-28T22:27:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "632162ae98fac1ee417af01f006f1003d50daf32",
+      "date": "2011-11-28T22:27:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "4b99907658db0892bfc3de8dbf9c012ca8c2ac89",
+      "date": "2011-11-11T12:52:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "747c0950aa035c4656bd57cc4ba266bb524635c8",
+      "date": "2011-10-01T20:02:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "b2862527bf1fd5afd1b4859e7d967d5f64cde829",
+      "date": "2011-10-01T20:01:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "5e7aeb51b1095cb2fab4c204d08ba627f180d0cc",
+      "date": "2011-10-01T19:59:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "35a92b64c3fc562a093f382e86013a0475e7f8b8",
+      "date": "2011-10-01T01:35:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "d57eeeffd1b030eebb77860a3dadcb8cb1d8f38b",
+      "date": "2011-10-01T01:31:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6ac7b368ba290de28dcdf31a8abd3b657e6670a8",
+      "date": "2011-09-05T07:41:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "da5876de559c46fcc1ecf30920e8ef18a22d8626",
+      "date": "2011-09-05T01:26:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "ace8e6dd42f0f7b04f1b5d3e271a631448297b2e",
+      "date": "2011-09-05T01:13:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "12b184d170428ca3ac1abd2100df57b5aad46cae",
+      "date": "2011-09-05T01:13:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "563b24200ec8d824b029146d57b5667ef93e10bc",
+      "date": "2011-09-02T21:02:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "a1f81561de149a20cffe71ea334d3a15eb9a83e0",
+      "date": "2011-09-02T21:01:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "eee4f22c7f3f5160bb2b8a5c65fb08b43c89f383",
+      "date": "2011-08-29T21:49:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "e887061515fd8652e8058ccd13996872efcd36a7",
+      "date": "2011-08-22T20:54:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "b4cab67404898e8ac97f8ddfc236b732b868fb2f",
+      "date": "2011-08-22T16:50:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "a3c227c3aee56b162db232ea5f14b892c8a1f17b",
+      "date": "2011-08-22T16:49:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "ca0ee5957fba12f1298f06931179c720e92ab4a4",
+      "date": "2011-08-18T10:06:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "f6be96147a5501a8067ba104d8ba22139368e813",
+      "date": "2011-08-18T08:13:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "650c67b755f0941b877b52d01c4043a41fea4d00",
+      "date": "2011-08-18T08:10:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "34cfd3cbe90a3a2408d679f0e946ff87dc094836",
+      "date": "2011-08-18T07:21:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "aca8d1d42d6171c1862253e89716d06559ff6a78",
+      "date": "2011-08-17T11:57:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6d8e69cc6a00ef3ec6475420d16c48cc47b51166",
+      "date": "2011-08-17T11:20:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "c68d56743e2911edfab592674255a7c14a83ae9f",
+      "date": "2011-08-17T11:08:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "7c4eb00e4d7839d6675a4bd463813d3ad2edf802",
+      "date": "2011-08-17T11:07:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "a946e99f19772a8cf9d72025e0af06947f631d4b",
+      "date": "2011-08-17T10:32:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "26f0061e370b28cf88e0b4295d36c12aaebe809d",
+      "date": "2011-08-17T10:26:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "b422ea6248283172e035577dfa4a71ebabbe30ae",
+      "date": "2011-08-17T10:25:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "352323333f874f4e3c778703e13cda24f7789561",
+      "date": "2011-08-17T10:16:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "c7b5a5996e8f01cf6bcd0229b7efcc784397e105",
+      "date": "2011-06-15T14:23:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "88a2197d3936d0117b092132444241c97d0812d5",
+      "date": "2011-05-24T17:50:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "9f41818c961af443a7848adc1c97309136606089",
+      "date": "2011-05-12T19:18:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6a8046e19fb0c0e7de689f8e073dea268bb0fae7",
+      "date": "2011-05-12T18:13:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "e91b0332992598cc3948c98487d87e52cb2a83cb",
+      "date": "2011-05-12T17:03:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "11c8617a284b35403d01364421204443ba1b2e69",
+      "date": "2011-05-12T16:00:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "973bc57a23d43267370c058aba11ecda36291772",
+      "date": "2011-05-12T15:47:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "7851e8f891e4a08975ef2f0070bd033bb3b48a92",
+      "date": "2011-05-09T06:53:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "3f970a28ff4884486940334206a72a06f7b97d9b",
+      "date": "2011-05-09T06:47:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "a5fa3d21298cad288b5cf6f97f00ce32a26d7449",
+      "date": "2011-05-09T06:36:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "3c1085b3b4f6f9c262d2fcd9a39cd0e1df480fd6",
+      "date": "2011-05-09T06:28:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "3aa3321583c076887019a5d2e03806ff89cd5551",
+      "date": "2011-05-09T06:03:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6c66bf4f9d399fa69c7ad26aba4550eba110b08c",
+      "date": "2011-05-09T05:52:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "deadf7a2bb894f99d717130e2bef8d8b67085903",
+      "date": "2011-04-26T20:19:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "a8fdea056a31146ae7b92f87a87194314d3989e2",
+      "date": "2011-04-26T20:19:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "13bf6cde0db3ea98ca99feac0cfaeb748de6a81c",
+      "date": "2011-04-26T12:27:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "4c827327f15acd228783b4d8fc50ffbb8f1445bd",
+      "date": "2011-04-26T11:15:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6d03aa44f09dcfbdd53188b00e8bcedf312106b6",
+      "date": "2011-04-26T09:05:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "4a586a2cce474f020036cea04e69a6d0235e35d4",
+      "date": "2011-04-26T07:11:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "402ace2a25145dd381dd83321518d3d47fefd31e",
+      "date": "2011-04-26T06:43:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "b2368f1f4c71f5cca4bd7c25e2749bfa871b0f0d",
+      "date": "2011-04-26T06:41:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "4038b15143da7834db5b7cccf5b6467d812f1d30",
+      "date": "2011-04-25T19:59:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "4dcaa07d0e34b61975ffade8939d528fa8fa1756",
+      "date": "2011-04-25T19:57:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "8db79da471d6f06d7a70ed88f3bb03db6d5bc212",
+      "date": "2011-04-22T21:04:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6d8d4aae40d0372be7b6eb66b2d5ed558e96d411",
+      "date": "2011-04-22T12:02:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "c730022d413d0691371762bda85649792a200040",
+      "date": "2011-04-22T11:56:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "63de40f87d0675298d5da4556ce914ae10691cb4",
+      "date": "2011-04-22T11:48:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "dd6421567558924895a88737f5fe0818fd0b5b9b",
+      "date": "2011-04-22T11:44:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "9de803bcb06e8ae1add9a0cdcebfd53e88717af7",
+      "date": "2011-03-31T07:30:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "2d2fd504312920019bd113420ff86242fa1ac286",
+      "date": "2011-03-30T20:35:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6b6dfd76f0d09557806e626a08e2ebb7bef9a65a",
+      "date": "2011-03-30T18:49:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "a6ecb20a12dca800a315e239bf28574ac49faf4a",
+      "date": "2011-03-30T18:47:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "bafd449b9fb40bb6488f26868361f841743a76d9",
+      "date": "2011-03-30T18:01:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "cd3c7112a5ba8abf0b00a237ec44d750dab598ae",
+      "date": "2011-03-30T17:59:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "8d96be5c3822113b42fd05233239cb95a811e47f",
+      "date": "2011-03-30T17:55:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "b68f889c5f2b60e3f5e378e0f01ed5fee211cf67",
+      "date": "2011-03-30T17:55:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "ea5e8b1ee6ea0b68a0915f6a5b2fe9d021718e3c",
+      "date": "2011-03-29T17:40:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "e180dcadc4ea0c70c761752ee9443b4cd64d0f55",
+      "date": "2011-03-29T17:40:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "aaf66d7f67c3172003fac378a311d6dc5d0bd295",
+      "date": "2011-03-29T08:08:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "10a2734ef7366d00e2b349d541d49573349d6933",
+      "date": "2011-03-29T08:05:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "558634481527274695394687d828fd4c0ccf9537",
+      "date": "2011-03-29T08:05:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "34d463e6c54e19cebf2eabb704fe5d8267c4b971",
+      "date": "2011-03-29T08:05:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "86a83b1ff77963e3139be29678d0b8b8d669a843",
+      "date": "2011-03-28T15:12:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "7f219b2ef3effee488da226fb2b633c832df9b13",
+      "date": "2011-03-28T14:57:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "e0f7934c1d610914c886cdb3b11f1b2dd7d35ceb",
+      "date": "2011-03-28T14:56:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "95b59979481478f866c4e1481d2f841bce322f30",
+      "date": "2011-03-28T14:33:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "328e64c22c950db7392e220c6337aee00c72c6b8",
+      "date": "2011-03-28T14:22:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "37a0de08d865fb28058abf7d3f311a50df0e19c6",
+      "date": "2011-03-28T14:06:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "1dc5de8c4afd8d1d5f06cab86f990de7fbd77956",
+      "date": "2011-03-28T08:11:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "56298227675400afc6997d3198f2f36468342591",
+      "date": "2011-03-27T16:02:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "6be09e6aa7a2429a417a2fbedcf16290db9c2a95",
+      "date": "2011-03-27T15:53:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "7a806e1eda990de9b9abe959d4c931cb97ca1e80",
+      "date": "2011-03-27T15:52:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "3a38b4d9b720905ee61e996c5f967fde8fc7b446",
+      "date": "2011-03-25T23:40:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "08c399fcf69731f0e9b467e3110983ed0ec3fced",
+      "date": "2011-03-25T23:39:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "dbad633035ce45eb9a8bbda53b31ccdc250e5aae",
+      "date": "2011-03-25T23:22:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "907d43cf597278866dbe3de03e5b304f264f56e1",
+      "date": "2011-03-25T23:16:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "9a27404a501ad1dd7d0998f0ba15de9207ba589e",
+      "date": "2011-03-25T23:13:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "0895ddf78d9e653827fdcc9b23a6dcf3602e424b",
+      "date": "2011-03-25T23:02:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "095acdc14e11789c14bc780e9058338d604469a3",
+      "date": "2011-03-24T09:25:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "d065b2aae20b1515e60b145ed6fe2f329cce677c",
+      "date": "2011-03-24T07:57:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "b90d0bf08ad4d395ff048d6b1c70534232468303",
+      "date": "2011-03-24T07:47:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "fb6f1e61e43fa688e5f5dc3f853924fd4b024b1d",
+      "date": "2011-03-24T07:46:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "e729d9b138d09674318475646cbb2711698bc766",
+      "date": "2011-03-24T07:46:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "202a8b61b6043623a058c92b370eaa928ad83c8f",
+      "date": "2011-03-24T07:45:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "22ada43faa40e0386b2dda9ee3c03b7b151bddc1",
+      "date": "2011-03-24T07:45:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "commit",
+      "id": "4bfeb5d70eb8ca7c504b0070faf0ec0d2eebc1da",
+      "date": "2011-03-24T07:43:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057316,
+      "date": "2011-04-26T09:12:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057345,
+      "date": "2011-04-26T09:22:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057388,
+      "date": "2011-04-26T09:38:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057422,
+      "date": "2011-04-26T09:50:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057498,
+      "date": "2011-04-26T10:10:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057554,
+      "date": "2011-04-26T10:25:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057660,
+      "date": "2011-04-26T11:05:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1057721,
+      "date": "2011-04-26T11:24:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1936741,
+      "date": "2011-08-29T21:49:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 1994829,
+      "date": "2011-09-05T01:21:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 2195673,
+      "date": "2011-09-26T07:41:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 2240085,
+      "date": "2011-09-29T16:47:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 2323397,
+      "date": "2011-10-07T16:00:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 2707752,
+      "date": "2011-11-11T12:51:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 2748650,
+      "date": "2011-11-15T18:15:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 2748946,
+      "date": "2011-11-15T18:34:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 2798805,
+      "date": "2011-11-19T13:41:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 3168056,
+      "date": "2011-12-15T20:07:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 3169376,
+      "date": "2011-12-15T21:32:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 3368294,
+      "date": "2012-01-05T11:00:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 3368319,
+      "date": "2012-01-05T11:03:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 3397617,
+      "date": "2012-01-07T19:29:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 3401202,
+      "date": "2012-01-08T09:34:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 3977693,
+      "date": "2012-02-15T10:01:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4172514,
+      "date": "2012-02-25T12:30:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4172517,
+      "date": "2012-02-25T12:31:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4203494,
+      "date": "2012-02-27T21:27:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4211174,
+      "date": "2012-02-28T07:57:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4220783,
+      "date": "2012-02-28T17:28:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4222721,
+      "date": "2012-02-28T18:58:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4535471,
+      "date": "2012-03-16T07:56:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4634368,
+      "date": "2012-03-22T08:34:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4662303,
+      "date": "2012-03-23T16:16:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4673849,
+      "date": "2012-03-24T14:12:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4749846,
+      "date": "2012-03-28T07:06:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4749849,
+      "date": "2012-03-28T07:06:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4749924,
+      "date": "2012-03-28T07:13:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4750058,
+      "date": "2012-03-28T07:25:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 4759891,
+      "date": "2012-03-28T12:23:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 5439283,
+      "date": "2012-05-01T14:11:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 5442329,
+      "date": "2012-05-01T16:37:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 5497893,
+      "date": "2012-05-03T20:43:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 5549047,
+      "date": "2012-05-07T12:39:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 5669651,
+      "date": "2012-05-12T16:15:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 5677803,
+      "date": "2012-05-13T17:22:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 7274160,
+      "date": "2012-07-26T10:27:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 7752610,
+      "date": "2012-08-15T10:18:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 9403895,
+      "date": "2012-10-13T12:56:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 9594981,
+      "date": "2012-10-19T09:41:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 10659566,
+      "date": "2012-11-23T13:31:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 10920238,
+      "date": "2012-12-01T18:26:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 10920257,
+      "date": "2012-12-01T18:27:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 10933064,
+      "date": "2012-12-02T18:35:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 10933303,
+      "date": "2012-12-02T18:52:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 10933439,
+      "date": "2012-12-02T19:04:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 10990499,
+      "date": "2012-12-04T09:56:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 11994667,
+      "date": "2013-01-08T12:05:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 11995588,
+      "date": "2013-01-08T12:39:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 12113348,
+      "date": "2013-01-10T19:10:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 12260953,
+      "date": "2013-01-15T10:30:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 13279018,
+      "date": "2013-02-08T06:50:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 13857814,
+      "date": "2013-02-20T21:30:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 14019161,
+      "date": "2013-02-24T23:46:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 14607497,
+      "date": "2013-03-08T07:31:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 15640474,
+      "date": "2013-03-29T13:25:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 15766015,
+      "date": "2013-04-02T09:47:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 15824734,
+      "date": "2013-04-03T08:35:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 15881718,
+      "date": "2013-04-04T06:26:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 16005313,
+      "date": "2013-04-06T22:25:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 18029209,
+      "date": "2013-05-16T21:08:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 18168992,
+      "date": "2013-05-20T20:01:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 22471652,
+      "date": "2013-08-12T03:23:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 22901034,
+      "date": "2013-08-19T20:20:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 30317827,
+      "date": "2013-12-11T12:54:10Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "com",
+      "id": 37021545,
+      "date": "2014-03-07T12:58:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 1016043,
+      "date": "2011-04-17T06:56:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "haml/haml",
+      "type": "com",
+      "id": 1016399,
+      "date": "2011-04-17T10:25:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 60,
+      "date": "2012-08-12T09:10:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 19,
+      "date": "2011-10-18T23:33:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 16,
+      "date": "2011-09-27T17:44:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 11,
+      "date": "2011-05-29T13:42:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 10,
+      "date": "2011-05-17T07:28:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 9,
+      "date": "2011-05-17T07:28:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 8,
+      "date": "2011-05-17T07:27:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 7,
+      "date": "2011-05-17T07:26:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 6,
+      "date": "2011-05-17T07:16:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 4,
+      "date": "2011-05-02T07:30:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 3,
+      "date": "2011-04-26T09:16:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/sinatra-contrib",
+      "type": "issue",
+      "id": 1,
+      "date": "2011-04-14T07:44:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "haml/haml",
+      "type": "issue",
+      "id": 498,
+      "date": "2012-03-13T09:20:32Z"
+    }
+  ]
+}

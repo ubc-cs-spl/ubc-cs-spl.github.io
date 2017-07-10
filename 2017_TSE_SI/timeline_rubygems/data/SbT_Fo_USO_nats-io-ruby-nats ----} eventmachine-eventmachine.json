@@ -1,0 +1,4724 @@
+{
+  "user_repo": "nats-io/ruby-nats",
+  "dep_repo": "eventmachine/eventmachine",
+  "dep_date": "2010-10-30 22:32:15 UTC",
+  "dep_commit_id": "d00c111024f5cee73d4136c48d10ba2f6d749277",
+  "social_date": "2010-10-29 20:07:33 UTC",
+  "devs": [
+    "derekcollison",
+    "wallyqs"
+  ],
+  "interactions": [
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "62491bafd05eef8e5ec9966dcfa05378e89a53aa",
+      "date": "2015-09-30T09:16:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "49ddf0e6c6b6c887904ec998fc5b2e3ee761851c",
+      "date": "2015-08-07T05:26:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "51bd443b708777a842af274a1d8d69b980cd67af",
+      "date": "2015-08-07T05:03:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c95735a60ce48e900e44e682900d55bb69a2fb03",
+      "date": "2015-08-07T04:55:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e8e1500fc94511f197d1d58f739baac8ea71ce7b",
+      "date": "2015-08-06T18:46:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4ff1086603da9551d94d7d428f4dcceb82e8ecce",
+      "date": "2015-08-06T15:22:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9b7b372da6484bc066f4691bb5db0a7c715ba716",
+      "date": "2015-06-19T21:21:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f8848e5456b0097d5a06b7c812ad8fc5af34990b",
+      "date": "2015-06-19T21:01:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "bb3ccca042b565f6a4d1f9ec33f65cbe5a1f9861",
+      "date": "2015-06-19T20:46:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "fa48d49ef8d9ab20b7f9dfaf081a941f1a84803f",
+      "date": "2015-06-19T19:56:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1ec29eb2e521ccb4c141f3cef963b33e45945d9d",
+      "date": "2015-06-19T19:48:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b606faae692acc66150bc6ef25cc53d2f4150ce8",
+      "date": "2015-06-19T19:22:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f0e56588a1e5b971f6343650913f49f80565f3dc",
+      "date": "2015-06-19T19:21:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3eb6427da2902c1e7bc394ce4d8444b0504881e2",
+      "date": "2015-06-19T19:16:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b17f6bb6025fc01d2d3643772706dffe5cad2ce7",
+      "date": "2015-06-19T15:36:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "be5e96b848d0b8972c6424b2fdbf5f6f777c508b",
+      "date": "2015-03-26T19:59:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "721bd536869eb255bc2e9545ed978e20528e0f19",
+      "date": "2015-02-03T05:50:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f39c084c13e066e97a56d228dd1cebd5b1be21c8",
+      "date": "2014-12-14T01:10:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "47c499e860af0ba5d6985eb3db8d83c703c0ee78",
+      "date": "2014-12-12T00:37:48Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "718a58dddc22a431de1052814ab90381305d4daa",
+      "date": "2014-12-12T00:19:26Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6e82382b935f7a1251899021df83e10c101a4bdc",
+      "date": "2014-12-12T00:19:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6a000ae1842aaf4517c56b5930926752e0ccda06",
+      "date": "2014-12-11T18:10:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "fe8bbc6bd9bef66bbea0be908ac3ac12e836ae4d",
+      "date": "2014-12-10T21:37:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d000e9a30ee797f78d7f86fa9dade6f2a77d7fd6",
+      "date": "2014-12-10T00:32:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "22f8e50dff943d15873f1a72a06c722eef18f148",
+      "date": "2014-12-10T00:31:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c790e342783c958fe4021ef884015beb222cfef9",
+      "date": "2014-12-09T00:01:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "74db547c875a2c9612f1d21f19f71fe44cd99d55",
+      "date": "2014-12-08T23:55:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8f339c1acb64f99792a1767ed4167efda066da13",
+      "date": "2014-12-08T22:59:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ef971cf95690907054147d4e63c81f1110acf144",
+      "date": "2014-12-07T02:30:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5d1f1563df004e26c41ec101e509fb681c07e938",
+      "date": "2014-12-07T02:09:48Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c15f33d8dedcb27e5b2535bf30862a045e2efe9a",
+      "date": "2014-12-06T20:32:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "20d2d72f4b5b433e66f7d697cee2c148f98f3c15",
+      "date": "2014-12-05T22:45:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a839594314f48fe70a972fd5eec4e057996323ae",
+      "date": "2014-12-05T22:45:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3a042c22b5076b62dc0748913221e217fd778e8d",
+      "date": "2014-12-05T07:24:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "43ae9d0d48edc87e3925d08435faae507169f6e7",
+      "date": "2014-12-05T07:16:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "905a58f663836a114a0ee5ac969faa6534fdc14e",
+      "date": "2014-12-05T07:14:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "cbc3c34377f46d0c42af3a964de041b6286936cc",
+      "date": "2014-08-07T23:15:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f8f831e0cf93253cbbbd94d35fc4d1705839f349",
+      "date": "2014-06-26T23:34:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "612b6c507e25f8cafc0972436da977e3fe390a78",
+      "date": "2014-06-26T20:27:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3a36f25edaf9d22b405ac5f1fa49f971af0892f1",
+      "date": "2014-01-18T02:53:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2a2531bea8933980e24c4d477264f0801393b85a",
+      "date": "2014-01-18T02:34:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c15edfcedd2ad490dafc72c8ee02861f6d3a0280",
+      "date": "2014-01-18T02:34:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "27f606707273562666fa8a17261045d6254a5965",
+      "date": "2014-01-18T02:30:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0dc41e7b5b0724b17f3d42a403a3b2daa877d91f",
+      "date": "2014-01-18T02:25:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "dae3c1f10a8f5009ca88a29019ec323ef3bf3e4d",
+      "date": "2013-10-12T01:08:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "748885000469a46c4a54fdb8700118caa027bab6",
+      "date": "2013-10-02T02:52:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "43ece18eed2d642c62f9c0e934c7bb1ee9455727",
+      "date": "2013-10-02T02:44:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4ccfc85ae8eb2c4962b0f75ff5f54ef09be179f3",
+      "date": "2013-10-02T02:33:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a6be2a0d7eb2e3221b8f9cba1bc3b557100a7db9",
+      "date": "2013-10-02T02:23:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1b8c4a4e6118e4adc8e2b3bd757797fd673ae17f",
+      "date": "2013-10-02T02:22:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f60cd65fc9355a177e13097d009a9625c8841afb",
+      "date": "2013-10-02T02:21:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "06bc410ca80b0a7c8d31f5822aabe65d6ab6ceee",
+      "date": "2013-09-03T03:40:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "076927684cce5542bfe62ac2e4c319cd1a7776ca",
+      "date": "2013-09-03T03:08:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "656be503ac548e970911250bb83f89fdf6450b95",
+      "date": "2013-09-03T00:41:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ba4b2936508620c654b3c78f119797a77dfe4abd",
+      "date": "2013-09-03T00:39:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4dd0c597b526e3b78229da5a92cf2328c71f35a5",
+      "date": "2013-09-02T23:16:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "df1b16b06817cc1733356a3edfd61dc3fb6c912b",
+      "date": "2013-09-02T22:58:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d444f52d9b3492ac7559c48d65c2d92fb3955e38",
+      "date": "2013-09-02T22:58:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "817691ff90ad5e1a85fd17ce2c7206c0af3e17a2",
+      "date": "2013-09-02T19:18:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9e2a1f6c6d202f23c61ce0d003a357e86515fb0f",
+      "date": "2013-07-27T02:15:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7c5f53f283a2a3f10877c0dcf808fe25800a6a3f",
+      "date": "2013-07-27T02:11:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b7678c6007e65b6eb708dbb9d4f0c1331f3f1422",
+      "date": "2013-07-27T02:08:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f5dbc8526440bb11e785e42ed7c4234441546966",
+      "date": "2013-07-27T02:06:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6db2992bb3a4e57dd7056814d18f80ff6e39db56",
+      "date": "2013-07-27T01:01:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "935b5a6c242755f869c136fe089e68bed5fed2df",
+      "date": "2013-07-27T00:22:32Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "38cb78e606206ab0582420ac11894cf3d1edf3cd",
+      "date": "2013-07-27T00:22:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "057c8c3da5e3716b34f66c2c8bacc7a3f1753d3f",
+      "date": "2013-07-27T00:14:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "253e4fe7e8f4cf9a4c595ea6e75d173e3ca0f51a",
+      "date": "2013-07-27T00:12:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7df698e72fa23cd24726193f07f6562a27c47b49",
+      "date": "2013-07-27T00:11:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0d73601def1085ac10bc7e9067f0a6004220c00f",
+      "date": "2013-07-27T00:11:17Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0c192b0e3e3b69291bb41896430c404782967561",
+      "date": "2013-07-26T14:47:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ede67fbb97291f9d4e1c689b9b4785ba62f950b7",
+      "date": "2013-07-18T22:17:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "830af3bc645274d04f8337c9de36f20371be1cf0",
+      "date": "2013-07-18T22:17:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b486d77e45c299dafd0986dff3d223a86d47b6be",
+      "date": "2013-06-01T17:42:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "85728ff748aacdaf65874b17b401ee9117215ebd",
+      "date": "2013-06-01T17:40:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7f2582b7a56b144a9b1a5cbf28607f9554fb9d1e",
+      "date": "2013-05-16T22:11:32Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f61047b690b8d5fe3dd64a056d85504f69d02973",
+      "date": "2013-05-16T22:11:32Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c104d9def6bc7dc6998a5d6c593774a410323ccd",
+      "date": "2013-04-08T04:25:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "717efe1e841883f546bbf8500e195e97bbe17740",
+      "date": "2013-04-08T04:10:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "afc6d4f8196ec013dca8e7bd68d75045ee4d6c12",
+      "date": "2013-04-08T04:05:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f1814e5cbdf36842dfb458b1aa80b8abba615bcb",
+      "date": "2013-04-08T04:05:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "957e5eee4a5df6a46300118bf542819a1a7d3fc9",
+      "date": "2013-04-07T15:22:04Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "312ad0053327a866346ca000679324cd285caf79",
+      "date": "2013-03-11T04:47:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7730cd7aa23ccce8f31f775531d4745aea9d5454",
+      "date": "2013-03-10T22:58:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "55d9d16195e5639e52a46ac975c0007b068e9a75",
+      "date": "2013-03-04T01:48:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "cd9207bf61331a408354f9e6c80097462b2cef42",
+      "date": "2013-03-04T01:35:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "27d1ee6feb44eec823e326fa9c5461b175f2a823",
+      "date": "2013-03-04T01:35:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f10b4e8e99e926fb65c8292bbc14d1092cb62e54",
+      "date": "2013-03-01T17:15:04Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9f20bd0d6851d965ea9a700ab4ca1bb134056c2c",
+      "date": "2013-01-24T17:36:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a8125d75dbc9400a502c53f2b34ff7b49b362d5f",
+      "date": "2013-01-24T17:35:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a7412d56ea02e917ec6cb92effc4ccb28c3f46bd",
+      "date": "2012-12-04T03:04:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2a7a79495380d3cf9658a4ef8e79ddcc8de91616",
+      "date": "2012-12-04T02:30:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "df9c75b65fde14d5f405dc3756d9c21db49d3991",
+      "date": "2012-11-13T19:21:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "15da1a6315092ec82a9fa763f15534a12c7e50c5",
+      "date": "2012-11-13T19:20:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "858ed927e66de70eca33ab98826026d92a662e4d",
+      "date": "2012-11-13T19:19:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d3a64913d8827106fa79f10f975edb1538583efd",
+      "date": "2012-10-25T14:01:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "537f5c9e7cdee6fc5e975d9f7824ba217b3b2ec4",
+      "date": "2012-09-22T14:23:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "966b52b0d1c81a700be9d22b6c02ec0eb7052420",
+      "date": "2012-09-22T14:21:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "451305e5fbed13982f8db51bbea7b9ee0902ece5",
+      "date": "2012-09-22T12:57:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e9fed66d1b91838dc0f990cb353393760cc8d21a",
+      "date": "2012-09-17T21:53:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9d61a276511aef4eaa9bb0221189358f3ae3a9ca",
+      "date": "2012-09-17T21:53:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ac8bcd9643dd416067f5ef047b475ebeb15f02e6",
+      "date": "2012-09-17T21:53:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8135af1c516daf58d079c0e3b30994331ef5e912",
+      "date": "2012-09-10T20:40:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "69feed50c075e8e1273f1cd6aa79fef3675a725f",
+      "date": "2012-09-10T16:00:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8bef7603bcde63664884d0b9baada6f5e3aa6da2",
+      "date": "2012-09-10T15:57:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5a233bb98fc7ad6cffc23e14183aaee2da67df30",
+      "date": "2012-09-10T15:57:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d7055cc25899be9f2d829a7942d4e7f1545e81f4",
+      "date": "2012-09-10T15:57:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c98fa59c043b070e887688fd704498dedca873a5",
+      "date": "2012-09-10T15:56:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "73ca142f64f3969a2e11357f152d0be25ad7a203",
+      "date": "2012-08-01T19:36:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "42e57ce08d46a179a3e3e957bb26378ad9171e9b",
+      "date": "2012-08-01T19:35:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d4aa85fb51102c04d8391941e1715b777c5359e3",
+      "date": "2012-07-31T19:11:25Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7492a894283fdd734e96912b098bac0fa0da0614",
+      "date": "2012-07-31T19:09:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ac7c05a914ce6b1b54ba6c9a856111a04a6f9566",
+      "date": "2012-07-31T18:59:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "331a5b3a450e67ed249100299438f04964c0ff95",
+      "date": "2012-07-30T19:45:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e5ff64567a3f9b379ea042f991488e9174007766",
+      "date": "2012-07-12T16:38:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c1ded8c0050b35011ea4fc671e463801b54acec1",
+      "date": "2012-06-26T19:08:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f9a933dad5ec45eaebf16e193205f0409e78e44f",
+      "date": "2012-06-26T18:04:45Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ea9cd82de838624bc3b6d61bd6dc71ce8129f44b",
+      "date": "2012-06-11T23:13:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "39ef15712f583c149cd8172c42f65fe5aeb3facc",
+      "date": "2012-06-11T23:07:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "351a8634d1406b4068d93236cb02d6c2540592a1",
+      "date": "2012-06-11T23:07:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2ea0d80ee4c87a171237f215e57f3663fde5cca1",
+      "date": "2012-06-11T23:06:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6ea5f64bedb5a57fcf0e577e33b5e3e0fd32856b",
+      "date": "2012-06-07T15:13:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2281f1740ef1e1704d83f9d6409127a560149cac",
+      "date": "2012-06-07T15:12:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "aff46a73d0081e2264c02d0560ec257991f9326d",
+      "date": "2012-06-06T16:45:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e4651f9d20c89e373b115602ca7ae8a46cb640a4",
+      "date": "2012-06-06T16:44:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "63fb68ad8df2cc65453788edbb69f8bf614948cc",
+      "date": "2012-06-06T16:43:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a8fbc0c1fbc363662e12daddd12fd79a946659cc",
+      "date": "2012-06-06T16:43:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7813040b95a8ef47d3855568a9ad50c5c0941813",
+      "date": "2012-06-06T16:42:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "718f980972f96fc7dbbba831599d58de688f00dc",
+      "date": "2012-06-06T16:42:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "357147b48e99cb61f781befe432ccf32e5ab2e31",
+      "date": "2012-06-04T21:24:34Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c0e4499604028f5298f873a295862d21f7b288c5",
+      "date": "2012-06-04T21:13:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3deff94c44a97d0f9d8a1fd7778e33ba31c93274",
+      "date": "2012-06-04T21:06:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "56dda48522470a14476af2070969cd8c8416bc95",
+      "date": "2012-05-25T04:43:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6ea320c2be23b5314032fab0d66a71dbfc268b22",
+      "date": "2012-05-25T04:30:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "118610bc3829bbb09e2dc177737e8e9c9573792a",
+      "date": "2012-05-25T04:29:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a099439e94d4c1defcbe1566aea9e12331635cc8",
+      "date": "2012-05-25T04:27:04Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9482b27901187306d763b017f46dccf973467e61",
+      "date": "2012-05-25T04:12:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f386dd591cc0e2afb23335efea2c2ee46034cebd",
+      "date": "2012-05-25T02:56:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "20f456b249af83ba068a3422b65df0d297e4956e",
+      "date": "2012-05-25T02:54:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4b0d1dbf6efa935e4fa0f773cc8f270e88453281",
+      "date": "2012-05-24T21:17:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e50c4e9a0b41429fb21c2b52f01799fa03fab3a5",
+      "date": "2012-05-07T15:47:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d31ee217352d7f94d3ddbcd54af2cd9d0ffb695e",
+      "date": "2012-05-07T15:45:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d69c2dcd3b5607b33ccd61c7b9631596cf5cba33",
+      "date": "2012-04-30T23:28:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0c13b3b123db7dcecb3a5b352ad0b25658af8faf",
+      "date": "2012-04-30T20:24:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "035fec9edd16d6834505fbc053fb92dff6351cee",
+      "date": "2012-04-30T17:56:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "98f87b787e96e25e76b03bd23f66382e55990976",
+      "date": "2012-04-19T06:00:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ed5710ac12e6fe8fcee25450e8d906f65f59da60",
+      "date": "2012-03-05T17:16:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "da6f674a0b1e8f0d8fd2ffd4f2bad0b0bff203c3",
+      "date": "2012-02-07T19:43:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e8fb1f377162fef2c2f49b52be18fa6521740ad4",
+      "date": "2012-02-07T19:37:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "39830c3f615a055b6b0d032f97a87b231cd96a13",
+      "date": "2012-02-06T21:13:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "acb43a4d8bc422f2bab19613ebd24eb92b78469b",
+      "date": "2012-02-06T21:11:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "39afbd07627a89fdc8f57ef9a7defa74609f8d1f",
+      "date": "2012-02-06T21:11:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "29a78c47e4cbd22da09512e901574031c116de58",
+      "date": "2012-01-30T14:14:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4fe54b0352ea8912084d39ca68a76d6ef642b729",
+      "date": "2012-01-30T14:13:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4e9efd7a0b535443855578fbafbaece9ae240f99",
+      "date": "2012-01-20T17:22:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "87106f257ffdb7baa726fc6da119a9e209caa52f",
+      "date": "2012-01-20T17:16:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "40d5473560aff00bc706bbac2f733843e138e332",
+      "date": "2012-01-20T17:14:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d9e6d1cf5ea23201d10ee85aaea4c75ff7e6bc80",
+      "date": "2012-01-19T20:18:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a3e9baae2da0f124797d15f8d6feb0a869944bb1",
+      "date": "2012-01-19T00:56:17Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5815b8faec625474e8614fe9a7419c83fae85dbb",
+      "date": "2012-01-19T00:51:26Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9ee7ec4a7ef780169ce7f596e1a3543740efd12b",
+      "date": "2012-01-18T01:05:25Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1500e24596beb332993d05bc716d96c969b37e08",
+      "date": "2012-01-18T01:04:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0190116cd85eec2ea18eb5ef1f5ef9afd29752a9",
+      "date": "2012-01-18T01:04:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b5703611ac3ab7927e7425236039f6cc507f5067",
+      "date": "2012-01-17T23:42:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "af82566c51b7aeeae02a24b5d400b13636071e03",
+      "date": "2012-01-17T23:41:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "538610f4c62f22db873c1973e589b5c81400cdbb",
+      "date": "2012-01-17T23:41:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "bf24d5d0e7b618444a436933606c9c403069ec76",
+      "date": "2012-01-17T23:40:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ac624e22f3b64bc0a48785b96e8f31b80cfa04aa",
+      "date": "2012-01-17T22:46:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "303b713947fc118159016fdd31a0461d7e19b328",
+      "date": "2012-01-16T02:26:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b447c4e28ce879329b43a786e9e20e40b47ee958",
+      "date": "2012-01-16T02:06:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "bca036e29c3857226faab0f70ee34d334eb20a9f",
+      "date": "2012-01-16T01:04:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5d4c0743bb78c1d97947a9395d3bf884850b298f",
+      "date": "2012-01-16T00:55:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6b72bfdf47214fde8d47c0be25456d16e73d43cf",
+      "date": "2012-01-16T00:54:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "29de6f44195ba8ba573209a740e2b280302a1bab",
+      "date": "2012-01-16T00:54:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "839743f15df43dd143e1cfefbae574326f4a3967",
+      "date": "2012-01-16T00:01:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a1bc31e07a29c79fbf6b9dc8ca2590bd7ae3283e",
+      "date": "2012-01-15T20:46:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "19ff5b4a10a160973c7ae38ce3edf1982a512d4b",
+      "date": "2012-01-15T20:44:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1775c15e03a2eb07ae761d8cba07e23e4ccc327f",
+      "date": "2012-01-15T20:44:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1a91179a5da97f515b8912cdf463b8143b0cb596",
+      "date": "2012-01-15T20:21:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "38d772eb10c6adcb2b440ac5e902310c8b67889e",
+      "date": "2012-01-15T20:20:45Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2e28960f08287dbb74899ec828a3f2aed9cdf511",
+      "date": "2012-01-15T20:19:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "913a17d2ea886d6ebdc4876955445a2a62992549",
+      "date": "2012-01-15T18:58:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a90ad4df834f49850e30261793854a194d046038",
+      "date": "2012-01-15T18:28:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b6c0e075a9125c71c32f77ee51e68d56e3a2096a",
+      "date": "2012-01-15T15:41:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "bdae344e7b34091e049ba6b8a7e8ba3869f876d9",
+      "date": "2012-01-14T01:11:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a48602d3d7f0496ed220c719ab1259e6b536d04c",
+      "date": "2012-01-14T01:10:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1b0a0536122476702cc92ceb90d37074999ad7eb",
+      "date": "2012-01-14T01:09:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1309d9d47a0c9692d8d239e1b4444b63fbea7f99",
+      "date": "2012-01-14T01:07:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "58705ef99283298bfe865d0559f7c3ec216b5fe0",
+      "date": "2012-01-14T00:42:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7e15780992d4a238874018a151cf8518924a2f99",
+      "date": "2012-01-14T00:27:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2e72e0c83651ea130075c06a162675aff07c6053",
+      "date": "2012-01-14T00:26:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "77e6212746de111cb9a4e81ed415df21b9ec35ee",
+      "date": "2012-01-14T00:25:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5aaba2f24665c85a03bbc187b77b538c751d1ec1",
+      "date": "2012-01-13T20:16:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d96292da0dc0bbd3d9b709c0bdade54503604ddd",
+      "date": "2012-01-13T20:15:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "279d17f7bec6791bb29b704ce6d258f351315476",
+      "date": "2012-01-13T18:17:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1205d1e751700e5832b64ff673ac0d98e3101caa",
+      "date": "2012-01-13T17:58:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f5ce32d3531f2c9c0936f838fa1ec0878a0a0bcb",
+      "date": "2012-01-13T17:53:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5e100a48906121b4025b71bacb200a1e093b5c41",
+      "date": "2012-01-13T17:52:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "82afc00514520c9d1180f6f8bbb69afa4edc6085",
+      "date": "2012-01-13T17:52:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9f80895e36c2661a2163b026bde940be9d834018",
+      "date": "2012-01-13T17:30:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9c72afe59f7d7b5e8a4c6103161a24d6ecc1c428",
+      "date": "2012-01-13T17:14:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e55ee48ca0664d122d1d94d0d3b2af26075f2705",
+      "date": "2012-01-13T17:13:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "62873920279c122cdc1103202d64788c8e017abb",
+      "date": "2012-01-13T07:03:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b48af4ddc30240a8bcfef56b7b7d676a3942fbed",
+      "date": "2012-01-09T21:12:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "29e55afdd4e3527def0ca7cae302c050eb6569fd",
+      "date": "2012-01-09T20:42:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "39b05900efd1e8bde27d588358fad261090fcd4c",
+      "date": "2012-01-09T20:40:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c6986e9519a71a691f3054028a76397e9ce74f65",
+      "date": "2012-01-09T20:39:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "977c2c3361454b5d7e08d8653c9aab8cae4e0a0f",
+      "date": "2012-01-09T20:14:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e5481cf0a352e274577d517096bbe35c3381f3a9",
+      "date": "2012-01-06T21:52:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6188ceb7d74b3286f79ed9428ae4c10df7de470d",
+      "date": "2012-01-06T17:23:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "809458902a2e8d67487dd5c8e42587864bea572d",
+      "date": "2012-01-03T22:23:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0900ff2bb90dc467b48d1b3174c5794de1134204",
+      "date": "2011-12-23T23:16:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "aadca074ed74914af91a599c1313551c7285cae9",
+      "date": "2011-12-22T19:46:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "01b1205b8c950045841d14acc4c198e30f53a5d3",
+      "date": "2011-12-22T19:45:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "46d84b9ddc128f421ccb2a7880f119664315b2ca",
+      "date": "2011-12-22T19:32:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0560a30b3cad4639914c652801fcf982d114eace",
+      "date": "2011-12-22T19:30:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "64142a765ab722ea2fa2f844d3baeabb0129b38b",
+      "date": "2011-12-22T19:29:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0fdb39999b7405ff21f84d6e22d1bfc2e79f2b23",
+      "date": "2011-12-22T19:25:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6c705c5a1bf3accf909ce31a2a7ae7d88352b24e",
+      "date": "2011-12-22T18:02:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b0af1ce035b8f1633ab90968be2fdcff91632979",
+      "date": "2011-12-22T17:18:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "63cb37871fca7fe628ad7fc3fbfb7e09fbc9ef3e",
+      "date": "2011-12-22T17:07:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "99b3597661ad2ff32a9f1f9eea381db7943123e3",
+      "date": "2011-12-22T17:03:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "218af3fafe7ce91baaba65731e5b32e03d8d17e6",
+      "date": "2011-12-22T17:01:48Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9fb0118a05e6b76c87891303ec24918016a7a76b",
+      "date": "2011-12-22T16:40:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a338deb56a072c3e1e9ecd6e84fdaa33af62bc34",
+      "date": "2011-12-22T16:40:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d0945feaacfe63251280269488ee934b673b99d0",
+      "date": "2011-12-21T20:52:04Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0cd406effdbebac7138fa65233976405e1709fd4",
+      "date": "2011-12-21T20:39:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ba707778d8a070454e927a0a607e347e2a9fe4fb",
+      "date": "2011-12-21T18:01:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "00f070143aac036942b589b1e481d92eee1e983a",
+      "date": "2011-12-21T06:06:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c381710a0ea4c709aa668dd113a126167591cdb4",
+      "date": "2011-12-21T02:39:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ac2c9079e4cb7c475bd41ef6f45655947288bfb7",
+      "date": "2011-12-21T02:20:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "805c1f8c09ce35489214edf7f8109cf4dc1d3c7f",
+      "date": "2011-12-21T02:19:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "014d15583ce7e88392efa5043e9053460a716f20",
+      "date": "2011-12-21T02:19:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7e3e68ec34b52e369f6bf7c7bf531e8f1050e2f7",
+      "date": "2011-12-20T23:04:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d239c97939d6207c755df307ce41136520448695",
+      "date": "2011-12-20T23:04:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "907d2dc85943237057a292599c9bdd66d48e11e9",
+      "date": "2011-12-20T21:57:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b2fddbd8edaadf456f73319b0cc204bc03e31bd2",
+      "date": "2011-12-20T21:49:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "56364f2ff346af859e795862825e8fbe7acc02bd",
+      "date": "2011-12-20T21:49:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7954fafe1542481ed5a78982c527e9edc7bbf9c3",
+      "date": "2011-12-20T21:29:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "30f685e03a841712de61e4fc38b5ba2398757f2c",
+      "date": "2011-12-20T21:28:17Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c60bf490ddd595ce9b94aaf1f6b51fe91093a184",
+      "date": "2011-12-20T21:23:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "15bd8e1699591ef8c7754ee3e89ad9e1452a8482",
+      "date": "2011-12-20T21:18:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e20dab42b836ea9d466177a01547e284d354a946",
+      "date": "2011-12-05T23:37:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4a56acb3c803f78baec39fbc299c1dd4d6e6a590",
+      "date": "2011-12-05T23:34:45Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8689bcc1ba1bfc9b67b2221b87ccc98103e658c2",
+      "date": "2011-12-05T23:33:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "824de1ee921ba747ab1703c6d340ff1f340fb901",
+      "date": "2011-11-29T22:41:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f40a2ffe4f7f0b1df05a0c691a166ced4c202f89",
+      "date": "2011-11-22T23:54:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "71b78583cf577f6bc18db9c81efeb77f37d6ef07",
+      "date": "2011-11-22T23:53:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c9b0e5a09bd78618ee1428501952b046811398a2",
+      "date": "2011-11-22T23:49:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9ad78fc71bfc39a47f3b2b3d1ae906448fc72b5c",
+      "date": "2011-11-22T23:15:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "eba6475cf1035cb0307cf0cbd0a1dd3bb3298f3c",
+      "date": "2011-11-22T20:46:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "44053b9757288337ae88c88bd61f27bdfa90876d",
+      "date": "2011-11-22T20:25:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "46ded976406004efb0ebd3cc208716a7ef2d6d45",
+      "date": "2011-10-19T22:18:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b0acaeb2bc9208bd1374dd432fbcc537272ad89d",
+      "date": "2011-10-19T16:13:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0715e05dc0b1d7fb9622549b11ef6e8b114ceb84",
+      "date": "2011-10-14T23:18:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "591248b1dd3d3ea5177305e5da72deb866b7adb8",
+      "date": "2011-10-13T04:09:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0e44e77886e4a412c36a6afded91aee8697e295a",
+      "date": "2011-10-13T03:34:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a64116f7ca6ec93cb70fdbc6ded4542c8b777f0c",
+      "date": "2011-10-13T03:03:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "092ae02d177654519a9b64b8ea49ea8e68446b13",
+      "date": "2011-10-13T02:36:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a9d1dfc9e5f0391e9e211c2116095a1384d2395a",
+      "date": "2011-10-05T18:52:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b7d02037127607cbcbae3e785901e8e813275baa",
+      "date": "2011-09-23T02:21:34Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8a51f4018fdf64fe3fd4e510bb4759378753ad9d",
+      "date": "2011-09-22T11:14:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b881fffa7820b7fd07c2336b35cf3a79dd732156",
+      "date": "2011-09-22T00:36:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d408c11089a5a0ec93fff257d1647132e8ce0aa3",
+      "date": "2011-09-19T01:25:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "772ea3bd28e313ef2736c73df987ed330e888202",
+      "date": "2011-09-18T19:12:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7758c78a9e4f0ad899ebcea0314243fe96668d33",
+      "date": "2011-09-18T16:58:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e09e5339418f45be3e0dacd002c1ec71016ffea0",
+      "date": "2011-09-18T15:59:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "951c0b45c509a0ca1aad3e4b53c996e3184c6cbc",
+      "date": "2011-09-18T15:58:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "213466b5a47ee8ec761675a11e876e57ad036a37",
+      "date": "2011-09-18T14:16:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7be9347afc56b069000afc4aba415e9286802ffd",
+      "date": "2011-08-24T16:27:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "418e656910bd88e7f018534a1c08989ac7c67e8f",
+      "date": "2011-08-23T21:51:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c418686720883d0e9c17bca8c870059cc0ad3034",
+      "date": "2011-08-23T21:44:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "09e18a5fa3d21f3add1dbaa4533b910fed60c25c",
+      "date": "2011-08-23T18:04:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b7131aa5efff17014eb35361cb02184201af90c2",
+      "date": "2011-08-23T01:58:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "73c456ce3448cba36a274f379d92e151b46782a8",
+      "date": "2011-08-23T01:46:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "81db1a6767629d4d2f640f237b4f1eaefa5ceeb7",
+      "date": "2011-08-23T00:35:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9b653ac444e9276f6f9bfbabd58bbf6351030518",
+      "date": "2011-08-23T00:32:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "db054d26344874035394bea6f97ffd10208c6cd0",
+      "date": "2011-08-23T00:30:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3ade7b5e6b5aa3494d658c395bf17daec1dc6ca1",
+      "date": "2011-08-23T00:30:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8769a884d4fd21ae369cf41fb61a13d353e7c243",
+      "date": "2011-08-23T00:29:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8f05464800710761489210a5be1f06b49eb3fda4",
+      "date": "2011-08-23T00:27:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "bf94f18bba49c0a4c426c7454968f04827b56ec3",
+      "date": "2011-08-22T19:01:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b36502cec8541373b76cab1f45f43ce8aa9adb04",
+      "date": "2011-08-22T18:59:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "071f5b445e11516ed903cd4fb53c36e73bdeddd5",
+      "date": "2011-08-15T18:18:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "239a5bf1c257b2b68b173fd67483af398d4d7c21",
+      "date": "2011-08-15T18:16:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "85ca6838ee8e1733dbdc1a26f1d905f01d81c660",
+      "date": "2011-08-15T18:15:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6a146005129b2f2ea5fc5c18392b2c47f0604852",
+      "date": "2011-08-15T18:13:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "280a372f0996b80f8439d37ac9414f0081b2344c",
+      "date": "2011-08-13T19:45:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a32bfa9785011ca50b9575009efed4b270950b4e",
+      "date": "2011-08-13T19:45:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b1c91021e0da27fbc07c87bf64105040247e78c9",
+      "date": "2011-08-05T21:38:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d66f63420e463fc96c1cc6c27edec1ad6e55e48f",
+      "date": "2011-08-05T21:36:22Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e9a07e49655711d71257a1e6cee75c6566171edb",
+      "date": "2011-08-05T20:30:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5fbc024bff084033a40ed103c43d2ef825a39756",
+      "date": "2011-08-03T17:34:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ee3bcabe13e663e9726e910cf60fc08fe5ea3cb1",
+      "date": "2011-08-03T17:15:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b7ae63404c1ac3128340f7b653b3b6630e24835b",
+      "date": "2011-08-03T17:06:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2544eaa3f9132d9db5d0632e3fb4bd0cf9ab48e6",
+      "date": "2011-08-03T04:33:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7ad432b22f4c4e75e18015ae8b23858a02b6eace",
+      "date": "2011-08-01T17:13:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "af4523e00b3e3a687b97487ba3c0fb89792dfb28",
+      "date": "2011-08-01T16:35:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "be06600b6ddfdb219766fa098d249277a20f55ff",
+      "date": "2011-08-01T16:14:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "88383cd599ccdb726e4e59564399da4ef8e3f6c4",
+      "date": "2011-08-01T14:36:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8218bee00492db147012dd8d5c6fb8fa278293e4",
+      "date": "2011-07-28T00:50:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "99488ca2d52fd0ea98607ea7cd94a0b53b8ea85e",
+      "date": "2011-07-27T05:30:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3582b28ee01c8701aca467b091259f974a6c9220",
+      "date": "2011-07-26T05:25:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8029c94c868bb8dcd1d3c8926afcb5dc3bd2ec53",
+      "date": "2011-07-12T14:25:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ed0ecb1f861edbebf8256110de2230744d58d683",
+      "date": "2011-07-07T14:25:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a6b9a05a7603012970293560d8fac93376808ea9",
+      "date": "2011-06-14T13:02:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "a507afac1b2cfd97b6696c5a4be57e32b7b28837",
+      "date": "2011-06-14T13:02:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7ddcecfd417df7498d1495a557dbf9ad2cb34ca0",
+      "date": "2011-06-14T13:01:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "256737d6939c29f72f92804cc958ee36382b7dc3",
+      "date": "2011-06-04T14:31:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0f048b5b636c3520dcc489cb2cd04c1ef51864cf",
+      "date": "2011-06-02T08:54:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c1f08528630b753a563526f37658f1edbede7991",
+      "date": "2011-04-21T20:28:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b8afe9cc0dbc2f0ea424272f209a8ac9410ad218",
+      "date": "2011-04-21T20:27:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3bdb137b5941f6fee6dcb844e670023bf84f0d28",
+      "date": "2011-04-15T15:14:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "77f4430288b523d9edc19a1da8f6e74ebc4fa9f3",
+      "date": "2011-04-02T14:43:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "36bf64ba2ab9f37421abb995f4804c34645f7c53",
+      "date": "2011-04-02T14:42:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3fb68db1271c25b6a93076486ec432eb5325c5bd",
+      "date": "2011-04-02T14:41:17Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2a03da971a23642e4bb1de6f2ea891a205dae9a6",
+      "date": "2011-04-02T14:33:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c3bc1a4c0a18af625f6b8499db4cb112eb986712",
+      "date": "2011-04-02T14:20:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "364921d672885d50026f3ef5ccd3de0f57cf1e58",
+      "date": "2011-04-02T13:46:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "89da831a63c9e5ef16d92cc8446af10fae2dc145",
+      "date": "2011-04-02T02:03:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ad0e06537e27bfb334bd4935a40cb273aa354cf4",
+      "date": "2011-04-01T23:06:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8325c6d1b841591606672538f49d19dd808344b8",
+      "date": "2011-04-01T23:04:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ba2ecb57f94c0c747880527444d3be6f3f7f849c",
+      "date": "2011-04-01T22:44:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b517a59dc823d1d673d203193c8be7fefd4dd532",
+      "date": "2011-04-01T22:05:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "20c14df1e63b42cb06897506655267f23f5c7bfe",
+      "date": "2011-03-12T14:03:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f8ed527ae89ccff2a204944d283bf6c24b022145",
+      "date": "2011-03-12T14:01:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "68850a292498711fd928f806542a2953af0dc61b",
+      "date": "2011-03-12T13:26:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "43e112d35d4b216c9ab6da2a09af038896ed5681",
+      "date": "2011-03-07T17:11:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "71bb1b0a9b404d96994d94c4fc4efd9cd61813ec",
+      "date": "2011-03-07T17:10:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ad8648f81b2b75329bac6dff214ae5be49d58092",
+      "date": "2011-03-07T17:09:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1a67ee5126de976449e37f277457fbc874ae54d6",
+      "date": "2011-03-07T17:09:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f684f281894b2baaac4d83d5b692d8d949963c00",
+      "date": "2011-03-07T17:08:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "72dfb0d16886de4de053725aeb6d147e57f29d7f",
+      "date": "2011-03-07T17:08:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d64cbc46225e9a7ff7ef01e85e171bee638b1439",
+      "date": "2011-03-07T17:06:48Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8c5e45ae24d59c92811a65b7fe30161b04d2467f",
+      "date": "2011-03-07T17:06:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e8e4c268a5a80842bed0c9839604a4cc9d2b13dc",
+      "date": "2011-03-07T04:11:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "aa618d77063be0702b48341e19339dcdc356dcfd",
+      "date": "2011-02-21T03:54:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d822141aeb38bd1421722f408f9f8cd5573ef24e",
+      "date": "2011-02-21T03:52:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "51519d58f3f93629ee67fc468894c58fe02ceb23",
+      "date": "2011-02-21T03:28:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "68a69812b27fa43819a40c608ac067abd1ca43de",
+      "date": "2011-02-18T19:20:41Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b6f255bf6bf0fb60946588624428d179a338178e",
+      "date": "2011-02-18T17:34:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9b2d4fc5700304c55b9a58f8b7635825e91ef0eb",
+      "date": "2011-02-18T17:31:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4a2bb772cab01e73fe15740dc9d58c915ab83803",
+      "date": "2011-02-18T06:09:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "062151f0ea2f169934bc235ea84f6f3ca44a8745",
+      "date": "2011-02-15T13:32:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9e8587382ddd21f115aeb16e529cf9016b4087bb",
+      "date": "2011-02-15T13:04:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2cd4f11a0a88d144118118f3139de9c7881160c4",
+      "date": "2011-02-15T12:48:34Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6950cf769fb213e0ddc04042693d8e2fdac0c701",
+      "date": "2011-02-15T12:26:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "722b49f32a8398559567e1be20d3e1cb5b5b6cbe",
+      "date": "2011-02-15T12:26:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "02e32b9b38ea675c587bcb34de74bfc70c49386d",
+      "date": "2011-02-15T12:25:45Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f367257b5403b52b1f918ac836839509dbda1afc",
+      "date": "2011-02-14T16:26:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7beac7cb6d2cc8ad8a7656469fdabb070b94718a",
+      "date": "2011-02-13T23:43:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6fc0ea86f70eeb2687ec9d3a73d3352d4e6bb728",
+      "date": "2011-02-12T12:50:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "89e9049bccc91f1ecbb20f1fcdaea083997da854",
+      "date": "2011-02-12T12:36:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "934665a7e1c66d5c843e5f10a6c7171a0b67ed4b",
+      "date": "2011-02-12T12:33:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e381ab3cf9c2faaccbae37408295c3e26360cc2c",
+      "date": "2011-02-12T12:31:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "804ff48ce11fcde65c73ef456e2e370ab778e92a",
+      "date": "2011-02-11T17:36:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3d8c3d7aa04c584f368b5efbaa1feca4d326eae7",
+      "date": "2011-02-11T17:36:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d0684d1d9f9100d3976c5ec297801da75e52224a",
+      "date": "2011-02-10T03:30:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c5a708fb5a0b18c913b6cb5c7f53891903350aed",
+      "date": "2011-02-10T01:59:32Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "50114dc6ced8a1bd95e1086b0a026be5b899c961",
+      "date": "2011-02-09T06:17:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "10a9023950945653fd2cb7db0dfd7e8d30dd6171",
+      "date": "2011-02-09T03:41:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ed5b1a21ab623cbeb427d7652983d9d26052c0f2",
+      "date": "2011-02-09T03:41:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "87c96fee03ac98bcca3c0d8f6c757cee6dd9d69a",
+      "date": "2011-02-09T00:40:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5b5e3bb8346e0660880342891fd9eb6abb4bc865",
+      "date": "2011-02-09T00:10:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "81e086cccfd193712f1780f66b81d3ea3c5ad30a",
+      "date": "2011-02-09T00:09:26Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "067a4e43fdbe2e6cda944b36779416783c7156ef",
+      "date": "2011-02-09T00:09:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "39eea06aba2e411dd0c820cff0172f0d65744425",
+      "date": "2011-02-09T00:07:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9eae3a803499c690c23f554090c068f31f590fe8",
+      "date": "2011-02-09T00:06:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "02b0c37d7ce0df991015fc17a6e343931efea3a5",
+      "date": "2011-02-09T00:05:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b2cdce2c9cd0b9f13cda2cd4caaf91a43e4f4b34",
+      "date": "2011-02-08T17:28:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e56c6e8031ec042716330a73b35e22fe477e798e",
+      "date": "2011-02-06T21:58:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8076192f21d0224e45ca969d7cba16538173af31",
+      "date": "2011-02-03T01:40:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "03a0d5400ffda9c171d4eecdef72e739131f7d63",
+      "date": "2011-02-03T00:52:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3e90450e65960274480c7241338ea62321e735f9",
+      "date": "2011-02-03T00:50:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "fe769a05dce8c993e863b0a4543031e4e4d15899",
+      "date": "2011-02-03T00:28:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "321a67de43148012d6122799f876c347951c0a8d",
+      "date": "2011-02-02T23:58:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7760fdf30003cb2ed22f209f3866d6c2db2b61b1",
+      "date": "2011-02-02T23:30:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5e1cfe8fbb182c28d87e0e9421d2c32e1e777adb",
+      "date": "2011-02-02T23:29:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "72f4d29a03e0a8f2505acb61a34d286af87f303e",
+      "date": "2011-02-02T23:29:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2da6ed2773a4b82ebaa030b033ff4b18f087abdb",
+      "date": "2011-02-02T23:20:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "44bb3826f761a8770498454a91e7504aa35c1c7f",
+      "date": "2011-02-02T23:20:04Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "06b857633f10f5f3931b68a4fe27ad54ac9df4e9",
+      "date": "2011-02-02T23:19:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1969cd9e4ec302cf1e12365e96fab5115610b462",
+      "date": "2011-01-17T21:38:45Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9265d29bce2232a79f93c00a2a885655de159b89",
+      "date": "2010-11-22T01:23:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d0f82aa18d1150a1012fd56b763a4dbb85d43744",
+      "date": "2010-11-22T01:21:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "51844d70451ddf32f9fe05ee9e911121249a4a12",
+      "date": "2010-11-21T22:55:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "62e59d51484d9f4eb07a3e64090aa02fcf2664cc",
+      "date": "2010-11-21T19:21:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0b61e0c633d70690034657bb3b847f0095b43f37",
+      "date": "2010-11-08T17:01:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ae73f88b8fbf3f1a790384b51a5d6a0bfb70f4e7",
+      "date": "2010-11-08T14:53:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d6739513b31b127e4e51edc4cd043f36ff086650",
+      "date": "2010-11-07T17:24:22Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e2af66ab1bbb8f5ecff6d17f2ccc9bd70e793d18",
+      "date": "2010-11-07T05:54:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "04660b192e3f56c91c90896c810efca7631655d2",
+      "date": "2010-11-06T17:47:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "60def3734774b72f82e98e3127fd7cee1c8b66bc",
+      "date": "2010-11-06T13:43:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "56c9bb2e34f549e89bd4bd1090b9a4db123f69c8",
+      "date": "2010-11-06T13:15:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "bcc60a8a16319f2827ed7d1010ac431c82f50193",
+      "date": "2010-11-03T17:20:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "04eebba0eef75eba4edba63c0cdacefb12484c43",
+      "date": "2010-11-03T15:39:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c740fe4f48d839ff43a0ee69cc73ac4a1f59dbfc",
+      "date": "2010-11-03T15:34:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c5eb13567fa460309be10e16cd559ee42c045023",
+      "date": "2010-11-03T15:23:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "cf5c21d65997def64403b870d96ba6191eaa1298",
+      "date": "2010-11-03T11:51:26Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "42f57e0886a685edaa9d6aee2f756c87002b9c83",
+      "date": "2010-11-03T05:33:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c75c2976bbafff042b82525cdcec338911d40785",
+      "date": "2010-11-03T05:10:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "32111f91c31fed52e377399117adeb30d63e8b48",
+      "date": "2010-11-02T23:12:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6ad18499f5986a707ccc16ad4ebc4fbbec99decd",
+      "date": "2010-11-02T22:46:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "73b1363b527ac1cc0543e1e31c052859ff7c20bb",
+      "date": "2010-11-02T20:35:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7dc92dbfeb4738c2650b77ede390d152887bedfa",
+      "date": "2010-11-02T19:45:34Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e1d6203f7df51900d2be34c07d2116ead5d80cc8",
+      "date": "2010-11-02T17:52:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "aad3ddb8d6f899f1630e055721dc7c615e927886",
+      "date": "2010-11-02T17:08:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "eec9a387a3e53c82fc5e133d376f2ca9c061a229",
+      "date": "2010-11-02T16:46:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "096d88b4f174261b42fcda433a9f09fb330361d0",
+      "date": "2010-11-02T16:45:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "871de2b5d06b66d82c73925c36348e45b07b7927",
+      "date": "2010-11-02T16:42:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "fb6bfaa636510b6f7d128d78a45b3a6384fbda8b",
+      "date": "2010-11-02T16:38:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "81917eb7b440869bad4a879ef4810e9ca3355652",
+      "date": "2010-11-02T15:57:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "fe3f80e6823d8372f71a9f981df6ef4a933a4a8a",
+      "date": "2010-11-02T15:47:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9511ea474b26c8f36ebe3880d2ac5c9c8700eca8",
+      "date": "2010-11-02T15:00:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b581469629c7ae5e928d6353d07e37ec706e8789",
+      "date": "2010-11-02T14:57:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b9070d7052e7a80efb61166328367885f401c958",
+      "date": "2010-11-02T14:54:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b2154a7dc0f2d1dd88c5e988dc3f8358144ee448",
+      "date": "2010-11-02T14:46:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ff274458aca9602ba40a544d039286c67b8ebb1e",
+      "date": "2010-11-02T14:45:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c195915c574650bce879655f4a04ea3da40d3a9b",
+      "date": "2010-11-02T14:44:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d742792d11f6f2d3d4d48769a390801f1b21e8e2",
+      "date": "2010-11-02T07:29:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e109221c713399f877cb68baf92cabee4b66e73a",
+      "date": "2010-11-02T07:10:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "97f170ebec76be1640535b64b3b7d4dd774072c8",
+      "date": "2010-11-02T06:22:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "666096a1429c867f1f6b80fca18bd8c8229e19e8",
+      "date": "2010-11-02T06:10:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ec889fc0e1e4fb8d90958256b221ced91b9243a2",
+      "date": "2010-11-02T06:10:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "dd10aff411d913d947125190c438e989361ad2eb",
+      "date": "2010-11-02T06:09:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5b4f796212c7918d7179a39af77f906f75f0f17a",
+      "date": "2010-11-02T03:20:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "8536471f5161ed3308a17d08d07a56b319496a40",
+      "date": "2010-11-02T03:12:04Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b88b837673e82ff60c2de7f49d6282f0c98f059c",
+      "date": "2010-11-02T02:55:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1272b08ad8230f296d5e5aea61f8933ba152fe42",
+      "date": "2010-11-02T02:51:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5de9fda7d7a4cda9aaa44c26b74bb427dfa7142d",
+      "date": "2010-11-02T02:50:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b6ff9096110104b3eb0e75a443e54cc671546926",
+      "date": "2010-11-02T02:49:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e7d76307b9267f90bf2eae15c6b6b07c2be0efed",
+      "date": "2010-11-02T02:18:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3879034fd5429df7066f84d799b6833e2b24c03e",
+      "date": "2010-11-02T02:17:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5d2b3064a926a105c3504347bb1acbad137f4797",
+      "date": "2010-11-01T23:47:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d41b075da01fea15a4b26d753b3f24f99c7ff33b",
+      "date": "2010-11-01T16:27:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d11e97a2f5d5941e534259f3e7e138d5589035d7",
+      "date": "2010-11-01T16:27:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e402712cc5ec0d610f2aa5bb74925eeb21345382",
+      "date": "2010-11-01T12:32:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "32ce1ea8bd80f99c157b72dd7d8ae56429e49ff8",
+      "date": "2010-11-01T12:21:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1085cbf35822912e15f19a730125831292a61cc5",
+      "date": "2010-11-01T11:16:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4a648c1f1a289928d7847608ca1d31b176ce6fec",
+      "date": "2010-11-01T10:45:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7518d5865297bbb1559070af5f721491acebdca9",
+      "date": "2010-11-01T10:24:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "721f1c7b0c4d53d8cb68d65ba280b9968b9a6eda",
+      "date": "2010-11-01T10:23:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "b860f6418057c774059df0eed834d791f223a25d",
+      "date": "2010-11-01T10:21:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "f9876d327eb2f7dbfd8292bca8281922bcd2d867",
+      "date": "2010-11-01T10:20:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4a15340a07081bd15f0525662d16b99a20ccc597",
+      "date": "2010-11-01T10:19:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e6ce5f88ef16cc08eead1f6c06f35ba4bbe4ed75",
+      "date": "2010-11-01T10:18:25Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c22655be389569b51b765375389921488bef99d1",
+      "date": "2010-10-31T22:34:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7b5ef87d044991ef198d9057fd6c0db00a7f3006",
+      "date": "2010-10-31T22:34:32Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "48af6a8832d010b2473ad01b6419aebed1edcf40",
+      "date": "2010-10-31T22:14:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "3d5a9266f76b4c947c66f8664f712f36fe071e09",
+      "date": "2010-10-31T22:12:22Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7a9746b44dc183b61b094fcaa9660ad2825422b5",
+      "date": "2010-10-31T22:03:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9eec110e9da5123c4589984581efc01d15596e33",
+      "date": "2010-10-31T21:05:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "01376386258dbaad4ca54abb65007274921eade3",
+      "date": "2010-10-31T20:35:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4e98230723a3585448979bec44d57bbabe78877e",
+      "date": "2010-10-31T20:33:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0b44e7b04daeae368ab59bbc8b0fd785f64b33c8",
+      "date": "2010-10-31T20:32:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d51e86ed6ec4e871f5e655d7e85582cbcee8b721",
+      "date": "2010-10-31T20:15:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d8e4ff3b64024b9b88c8d80bb2fc80ac47280614",
+      "date": "2010-10-31T20:11:22Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e9a1dc2c440d4b4ad0124e4b141aa1b16bb0f845",
+      "date": "2010-10-31T20:09:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6516256cca4a796e05e0d5938dff08fe455be4a2",
+      "date": "2010-10-31T20:04:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "196ddd6d3dfb00ee6270032592c7c1d5c950e90f",
+      "date": "2010-10-31T16:32:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1ee349a93fba9bfa287528add1890516f88d577a",
+      "date": "2010-10-31T14:30:45Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7717c93820498bb2a1b300397ac5cd1a7f2f5ffa",
+      "date": "2010-10-31T14:26:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "45f51701d7bacf18d639d9546bf94b5ed8c155d6",
+      "date": "2010-10-31T14:23:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5f1f60366c6e976828bfde4cb45b13a9cac86516",
+      "date": "2010-10-31T14:23:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "c1772d51feebf2c9f6126009bed33f017e82f4f7",
+      "date": "2010-10-31T14:01:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4753ea1c8d284b126ee3462c50f5c9b5ea8fa2f4",
+      "date": "2010-10-31T14:01:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "448f3387f1e0f8171bccbc6f57c4c3543c8f600f",
+      "date": "2010-10-31T13:30:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "bf38a918eb17bf2832df02573869b597d9333a01",
+      "date": "2010-10-31T13:29:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2952113b991408613e176e941c9e0e9e9790cff9",
+      "date": "2010-10-31T13:28:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "2be1d5b710b83e95db6d131d6267145c29bc25f3",
+      "date": "2010-10-31T13:28:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "cc378011e0737f147fc392737b519eef7e9f367f",
+      "date": "2010-10-31T12:56:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "14d156048e6e177da839df2cf98dc9b1376d1e37",
+      "date": "2010-10-31T01:37:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "ac01a30d0f9a60c801902a075041c2830946d4f7",
+      "date": "2010-10-30T23:00:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "0c615b8a8afc8221426e680ca830b4e83158d28d",
+      "date": "2010-10-30T22:56:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "4d13596adfc7e57918a20f1373e44851daa6fd40",
+      "date": "2010-10-30T22:56:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "07cbe7dc948a936cb29a57576d8a613ee1b38e0c",
+      "date": "2010-10-30T22:53:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "1b140875b36faed2091960134d711e4663da1ebf",
+      "date": "2010-10-30T22:48:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "5ff50bfcca0a0ed9561e25c8c6dffa113596c9ed",
+      "date": "2010-10-30T22:43:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "7415af2bd51ef74953fce19dea7ae2b94d5b4268",
+      "date": "2010-10-30T22:42:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "9479d29a0658c4d41606acfa0d331b2f87cfcb1d",
+      "date": "2010-10-30T22:33:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d00c111024f5cee73d4136c48d10ba2f6d749277",
+      "date": "2010-10-30T22:32:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 524156,
+      "date": "2010-11-07T17:23:24Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 541644,
+      "date": "2010-11-15T13:26:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 542134,
+      "date": "2010-11-15T15:44:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 555805,
+      "date": "2010-11-20T17:15:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 931591,
+      "date": "2011-03-29T15:57:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 948802,
+      "date": "2011-04-02T13:50:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 948805,
+      "date": "2011-04-02T13:51:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 948807,
+      "date": "2011-04-02T13:51:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 948881,
+      "date": "2011-04-02T14:42:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1007615,
+      "date": "2011-04-15T15:07:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1477999,
+      "date": "2011-06-30T20:51:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1554361,
+      "date": "2011-07-12T13:57:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1554399,
+      "date": "2011-07-12T14:02:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1554521,
+      "date": "2011-07-12T14:20:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1554569,
+      "date": "2011-07-12T14:25:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1661361,
+      "date": "2011-07-27T05:30:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1669201,
+      "date": "2011-07-28T00:50:26Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1723893,
+      "date": "2011-08-04T02:31:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1730962,
+      "date": "2011-08-04T21:25:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1751114,
+      "date": "2011-08-08T02:25:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 1767097,
+      "date": "2011-08-09T20:32:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 2206861,
+      "date": "2011-09-27T03:23:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3484479,
+      "date": "2012-01-13T19:00:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3504905,
+      "date": "2012-01-16T01:01:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3504989,
+      "date": "2012-01-16T01:12:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3584933,
+      "date": "2012-01-20T15:17:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3586903,
+      "date": "2012-01-20T17:15:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3744286,
+      "date": "2012-01-31T18:03:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3745688,
+      "date": "2012-01-31T19:08:15Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3747668,
+      "date": "2012-01-31T20:48:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3749560,
+      "date": "2012-01-31T22:32:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3750932,
+      "date": "2012-02-01T00:00:26Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3779671,
+      "date": "2012-02-02T15:26:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 3970978,
+      "date": "2012-02-14T22:25:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 4316926,
+      "date": "2012-03-05T05:17:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 4323574,
+      "date": "2012-03-05T14:27:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 4326764,
+      "date": "2012-03-05T17:02:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 4326842,
+      "date": "2012-03-05T17:05:49Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 4329242,
+      "date": "2012-03-05T19:00:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 4468270,
+      "date": "2012-03-13T06:45:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 5422414,
+      "date": "2012-04-30T17:22:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 5422426,
+      "date": "2012-04-30T17:22:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 5422497,
+      "date": "2012-04-30T17:25:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 5427031,
+      "date": "2012-04-30T20:35:21Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6198029,
+      "date": "2012-06-08T09:35:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6247878,
+      "date": "2012-06-11T15:43:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6254705,
+      "date": "2012-06-11T20:13:30Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6396401,
+      "date": "2012-06-18T13:54:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6396433,
+      "date": "2012-06-18T13:55:48Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6415818,
+      "date": "2012-06-19T04:27:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6446193,
+      "date": "2012-06-20T06:48:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 6584971,
+      "date": "2012-06-26T19:10:53Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8134776,
+      "date": "2012-08-29T17:54:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8134870,
+      "date": "2012-08-29T17:58:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8625685,
+      "date": "2012-09-17T18:33:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8625726,
+      "date": "2012-09-17T18:34:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8632589,
+      "date": "2012-09-17T21:55:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8651678,
+      "date": "2012-09-18T12:13:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8689204,
+      "date": "2012-09-19T12:24:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 8691560,
+      "date": "2012-09-19T13:49:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 10277731,
+      "date": "2012-11-12T05:29:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 10981792,
+      "date": "2012-12-04T02:33:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 12756597,
+      "date": "2013-01-27T16:25:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 12757276,
+      "date": "2013-01-27T17:05:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 12945494,
+      "date": "2013-01-31T14:47:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 13170143,
+      "date": "2013-02-06T07:25:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 14506348,
+      "date": "2013-03-06T15:50:55Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 14525314,
+      "date": "2013-03-06T20:51:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 17332555,
+      "date": "2013-05-02T11:24:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 17788505,
+      "date": "2013-05-13T00:33:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 17811721,
+      "date": "2013-05-13T13:37:04Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 17874433,
+      "date": "2013-05-14T13:04:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 17923639,
+      "date": "2013-05-15T07:21:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 18032488,
+      "date": "2013-05-16T22:11:25Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 18822463,
+      "date": "2013-06-03T05:22:32Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 18823480,
+      "date": "2013-06-03T06:12:35Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 18839749,
+      "date": "2013-06-03T13:10:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 18885949,
+      "date": "2013-06-04T02:36:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 19816570,
+      "date": "2013-06-21T13:45:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 19826024,
+      "date": "2013-06-21T16:26:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 19826728,
+      "date": "2013-06-21T16:39:50Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 19902504,
+      "date": "2013-06-24T11:57:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 20144672,
+      "date": "2013-06-27T18:20:38Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 20348517,
+      "date": "2013-07-02T14:25:17Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 20349947,
+      "date": "2013-07-02T14:46:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 20855437,
+      "date": "2013-07-12T02:43:32Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 21352376,
+      "date": "2013-07-22T15:32:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 21359284,
+      "date": "2013-07-22T17:05:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 21655679,
+      "date": "2013-07-27T00:23:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 21655700,
+      "date": "2013-07-27T00:24:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 25340236,
+      "date": "2013-09-30T06:40:26Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 25412596,
+      "date": "2013-09-30T22:39:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 25500405,
+      "date": "2013-10-01T23:07:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 25510514,
+      "date": "2013-10-02T03:02:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 25722556,
+      "date": "2013-10-04T19:00:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 25722580,
+      "date": "2013-10-04T19:00:25Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 25739012,
+      "date": "2013-10-05T00:57:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 27003197,
+      "date": "2013-10-24T15:39:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 31743559,
+      "date": "2014-01-07T14:55:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 41056152,
+      "date": "2014-04-22T15:43:40Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 41189569,
+      "date": "2014-04-23T17:23:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 42303857,
+      "date": "2014-05-06T13:49:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 43630129,
+      "date": "2014-05-20T14:09:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 44750410,
+      "date": "2014-05-31T14:59:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 44848711,
+      "date": "2014-06-02T15:07:08Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 44878128,
+      "date": "2014-06-02T19:09:02Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 44966546,
+      "date": "2014-06-03T13:50:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 45117129,
+      "date": "2014-06-04T16:52:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 46312780,
+      "date": "2014-06-17T14:20:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 46321490,
+      "date": "2014-06-17T15:19:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 46325059,
+      "date": "2014-06-17T15:44:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 46330518,
+      "date": "2014-06-17T16:23:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 46384475,
+      "date": "2014-06-18T00:55:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 46499997,
+      "date": "2014-06-18T21:59:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 46684337,
+      "date": "2014-06-20T14:30:54Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 47274368,
+      "date": "2014-06-26T20:16:07Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 47275485,
+      "date": "2014-06-26T20:26:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 47348208,
+      "date": "2014-06-27T14:08:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 47388284,
+      "date": "2014-06-27T19:04:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 50484707,
+      "date": "2014-07-29T14:39:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 50845073,
+      "date": "2014-08-01T03:16:45Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 50845699,
+      "date": "2014-08-01T03:31:33Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 50849562,
+      "date": "2014-08-01T05:13:09Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 51082953,
+      "date": "2014-08-04T16:27:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 52509024,
+      "date": "2014-08-18T15:33:16Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 52517618,
+      "date": "2014-08-18T16:30:29Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 52518630,
+      "date": "2014-08-18T16:37:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 52579109,
+      "date": "2014-08-19T01:23:11Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 52579488,
+      "date": "2014-08-19T01:29:31Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 55164008,
+      "date": "2014-09-10T18:50:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 55742534,
+      "date": "2014-09-16T13:35:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 55742620,
+      "date": "2014-09-16T13:35:39Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 58369383,
+      "date": "2014-10-08T14:48:23Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 61412725,
+      "date": "2014-11-02T16:22:48Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65186045,
+      "date": "2014-12-02T05:43:13Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65243973,
+      "date": "2014-12-02T15:06:42Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65244321,
+      "date": "2014-12-02T15:08:51Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65300015,
+      "date": "2014-12-02T20:37:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65302474,
+      "date": "2014-12-02T20:53:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65472807,
+      "date": "2014-12-03T19:33:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65479724,
+      "date": "2014-12-03T20:06:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65818153,
+      "date": "2014-12-05T16:53:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65925136,
+      "date": "2014-12-07T03:36:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 65925195,
+      "date": "2014-12-07T03:40:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 66566674,
+      "date": "2014-12-11T04:11:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 66579718,
+      "date": "2014-12-11T06:48:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 66580336,
+      "date": "2014-12-11T06:58:56Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 66673264,
+      "date": "2014-12-11T19:26:05Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 112911517,
+      "date": "2015-06-17T18:47:19Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 128409532,
+      "date": "2015-08-06T15:23:34Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 128410365,
+      "date": "2015-08-06T15:27:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 128410660,
+      "date": "2015-08-06T15:28:37Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 128411086,
+      "date": "2015-08-06T15:30:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 128470890,
+      "date": "2015-08-06T18:43:20Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 128472087,
+      "date": "2015-08-06T18:48:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 128603548,
+      "date": "2015-08-07T05:30:14Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 129192430,
+      "date": "2015-08-09T14:39:36Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 142194604,
+      "date": "2015-09-22T06:38:27Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 151617377,
+      "date": "2015-10-27T19:26:28Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 154894185,
+      "date": "2015-11-09T00:49:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 503427,
+      "date": "2010-10-29T22:33:01Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 503737,
+      "date": "2010-10-30T02:08:10Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 503742,
+      "date": "2010-10-30T02:10:46Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "pr",
+      "id": 85,
+      "date": "2015-06-19T19:18:57Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "pr",
+      "id": 84,
+      "date": "2015-06-19T19:11:47Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 57,
+      "date": "2013-07-22T15:32:44Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 48,
+      "date": "2013-01-24T16:59:12Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 12,
+      "date": "2011-04-22T19:33:00Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 10,
+      "date": "2011-04-13T16:47:58Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 8,
+      "date": "2011-04-01T15:42:03Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 7,
+      "date": "2011-03-29T15:57:18Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 6,
+      "date": "2011-03-28T06:17:52Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 5,
+      "date": "2011-03-26T11:43:59Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 4,
+      "date": "2011-03-24T22:55:06Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "nats-io/ruby-nats",
+      "type": "issue",
+      "id": 3,
+      "date": "2011-01-07T21:27:43Z"
+    },
+    {
+      "dev_id": "derekcollison",
+      "repo": "eventmachine/eventmachine",
+      "type": "issue",
+      "id": 118,
+      "date": "2010-10-29T20:07:33Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "6bc6cb080bc54bacd20cf4742916de6280b9490e",
+      "date": "2015-11-09T18:21:25Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "e0e978ada32bb81852fce646cc5e323329d7b8b8",
+      "date": "2015-11-09T18:16:16Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d9fa4374e9547df30f595abff96d7f38575b07a2",
+      "date": "2015-09-29T06:02:47Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "commit",
+      "id": "d93269377bc7080e74ef332421d4609c5bb1d111",
+      "date": "2015-06-30T00:03:16Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 144084753,
+      "date": "2015-09-29T14:52:54Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 148153557,
+      "date": "2015-10-14T18:45:51Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 151609018,
+      "date": "2015-10-27T18:54:21Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 151646281,
+      "date": "2015-10-27T21:15:26Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 155125389,
+      "date": "2015-11-09T17:03:02Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 155125585,
+      "date": "2015-11-09T17:03:23Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 155134768,
+      "date": "2015-11-09T17:36:54Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "com",
+      "id": 155144454,
+      "date": "2015-11-09T18:15:08Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151608813,
+      "date": "2015-10-27T18:53:30Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "pr",
+      "id": 90,
+      "date": "2015-09-29T14:49:15Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "nats-io/ruby-nats",
+      "type": "pr",
+      "id": 86,
+      "date": "2015-06-30T00:07:14Z"
+    },
+    {
+      "dev_id": "wallyqs",
+      "repo": "eventmachine/eventmachine",
+      "type": "issue",
+      "id": 638,
+      "date": "2015-09-29T15:08:53Z"
+    }
+  ]
+}

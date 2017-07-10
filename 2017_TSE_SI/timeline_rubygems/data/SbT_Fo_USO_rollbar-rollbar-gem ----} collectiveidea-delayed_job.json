@@ -1,0 +1,4465 @@
+{
+  "user_repo": "rollbar/rollbar-gem",
+  "dep_repo": "collectiveidea/delayed_job",
+  "dep_date": "2014-10-20 00:51:10 UTC",
+  "dep_commit_id": "f6a946cbe30c29f7c3a5454e5f1f095d05ecb008",
+  "social_date": "2011-12-19 21:32:12 UTC",
+  "devs": [
+    "jjb",
+    "brianr"
+  ],
+  "interactions": [
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "40418c4d690ed9a5ba4773b056d97c4cff3a45de",
+      "date": "2015-02-05T21:51:42Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "bcee4e813019782e3caf2467949ea368da5e15c4",
+      "date": "2015-02-04T21:00:38Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d28f1f37064a768c9790fc03a61956344eba0671",
+      "date": "2015-02-02T21:53:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "93fc5d8297ecb8b736f18bafb47de9ac88664bf7",
+      "date": "2015-02-02T20:30:59Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cc6abeb74d1b5f06706c02dd6a2e318d1991dc67",
+      "date": "2015-01-08T14:50:25Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "02c927b8dbb290fecd1beb9a5acff45221ce417d",
+      "date": "2015-02-02T20:25:39Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "eb6372cb8debe1092d5d4e253d4d9126c64c4042",
+      "date": "2015-02-02T20:18:48Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "58c9c987f544aaac1bf225b678d19fc8c12f54b6",
+      "date": "2015-02-02T20:17:35Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69189605,
+      "date": "2015-01-08T14:55:36Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69189654,
+      "date": "2015-01-08T14:55:59Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69375153,
+      "date": "2015-01-09T18:20:11Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69379973,
+      "date": "2015-01-09T18:52:19Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72547174,
+      "date": "2015-02-02T21:59:49Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72547530,
+      "date": "2015-02-02T22:01:44Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72783363,
+      "date": "2015-02-04T03:16:23Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72938278,
+      "date": "2015-02-04T21:02:04Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72975559,
+      "date": "2015-02-05T01:09:00Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 73117402,
+      "date": "2015-02-05T20:10:07Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 73120360,
+      "date": "2015-02-05T20:28:09Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 73121281,
+      "date": "2015-02-05T20:33:58Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 73137011,
+      "date": "2015-02-05T21:52:26Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 73148295,
+      "date": "2015-02-05T22:58:13Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 73149721,
+      "date": "2015-02-05T23:07:33Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4406455,
+      "date": "2012-03-09T00:34:14Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4529756,
+      "date": "2012-03-15T21:50:09Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4552532,
+      "date": "2012-03-17T08:03:53Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4552539,
+      "date": "2012-03-17T08:04:48Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4708150,
+      "date": "2012-03-27T01:39:37Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4825600,
+      "date": "2012-03-29T16:46:58Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4825667,
+      "date": "2012-03-29T16:50:23Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4984961,
+      "date": "2012-04-05T20:27:24Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 4986955,
+      "date": "2012-04-05T22:09:50Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5121949,
+      "date": "2012-04-13T18:12:48Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5122187,
+      "date": "2012-04-13T18:25:09Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5122209,
+      "date": "2012-04-13T18:26:09Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5122609,
+      "date": "2012-04-13T18:47:57Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5127783,
+      "date": "2012-04-14T01:16:01Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5136248,
+      "date": "2012-04-15T01:43:48Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5137362,
+      "date": "2012-04-15T06:44:31Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5137364,
+      "date": "2012-04-15T06:44:51Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 5140969,
+      "date": "2012-04-15T17:50:53Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 8832650,
+      "date": "2012-09-24T20:06:38Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 8832703,
+      "date": "2012-09-24T20:08:14Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 8833583,
+      "date": "2012-09-24T20:32:44Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "pr",
+      "id": 209,
+      "date": "2015-02-02T20:20:38Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rollbar/rollbar-gem",
+      "type": "pr",
+      "id": 197,
+      "date": "2015-01-08T05:36:31Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "issue",
+      "id": 433,
+      "date": "2012-09-20T18:17:18Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "issue",
+      "id": 363,
+      "date": "2012-03-17T08:00:33Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "issue",
+      "id": 362,
+      "date": "2012-03-15T21:48:34Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "collectiveidea/delayed_job",
+      "type": "issue",
+      "id": 320,
+      "date": "2011-12-19T21:32:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "079ebde97eeaa10380c3ced0949e625dc0086614",
+      "date": "2015-09-21T22:34:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "93c1988e4c54dc03f022d0e664dbd005fb1990e7",
+      "date": "2015-08-14T20:27:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "aef28312ef785af67637a7514eab41d814320ddf",
+      "date": "2015-08-11T20:31:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "6de1d34fddd6308912dca3795969e3c409da8fae",
+      "date": "2015-07-20T17:08:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "582cf88f3243c1e001d0c1d16901e06245b53ad4",
+      "date": "2015-07-14T17:34:50Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "fa8661ba9b622c07c4dedf4e8be4ca1771e89b93",
+      "date": "2015-05-28T21:22:56Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4531968802520903eb063b988ab5933bcf26db1f",
+      "date": "2015-05-28T21:21:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "fd2c383da4d228dbd1cef2d73d53ea87b5f3d08f",
+      "date": "2015-04-16T05:31:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a309a19873f8d1dd4803d0705d7f9f80af75098d",
+      "date": "2015-04-02T15:55:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "21d10c98ff18c4829f6325100e14da77df1d2c3d",
+      "date": "2015-04-02T15:52:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "355e63c36efa0158d2d885de892aaee3d284608a",
+      "date": "2015-04-01T04:14:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f6547385ba14fcccacd3cde30edd4522840dde5b",
+      "date": "2015-04-01T04:13:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d19a9d39bdf5575d1de779126e9e54c08a57d24d",
+      "date": "2015-03-19T00:05:58Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "74ceb1f1005b073ada2291f70685ce45ad1c8994",
+      "date": "2015-03-03T20:47:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7eb97447b207f60fba51bf8af8779d7aa2c9cc28",
+      "date": "2015-02-12T02:45:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "34ea77849fd71f551c65bd195d42d1b0df06cd96",
+      "date": "2015-02-12T02:45:04Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f84270c609a365f185778f532c58e3cca9e5c97c",
+      "date": "2015-02-05T23:56:45Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "ab32a71c60ae6dd8722313dc8eb6d5f226bdb948",
+      "date": "2015-02-05T23:47:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0e21cd87fc428dc44df2c04805fa8a652d16456d",
+      "date": "2015-02-05T23:46:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "2fa998f22321f86c7160f61e6a7327fba17ba64d",
+      "date": "2015-02-05T23:43:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5b4d1c7bf56c61f0dca1d388094dea1885c2f092",
+      "date": "2015-02-04T23:40:22Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0f8161fce93e60ec447dc01ba3529ea32c8f8155",
+      "date": "2015-02-04T22:50:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f0d126b39a6bd6d7d5b61476ee94565c9939274b",
+      "date": "2015-02-04T20:20:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "86a9b69da13f5013ae6cceb3330d1ebc5601aea0",
+      "date": "2015-02-04T18:45:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cdd2f28c630d7ccf8134ddcba9fcc618d47aafcb",
+      "date": "2015-02-04T18:44:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8f3fe7ed08afef7161c67de356885151c5dec7c5",
+      "date": "2015-02-04T18:27:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "6f86ae7cd70533caa7415ccad9497d7a22e25060",
+      "date": "2015-02-02T22:02:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0add24df74861b4ba2edddf7f8dbfc83ea5d4771",
+      "date": "2015-01-26T19:28:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a467f2f44088cd60494399d171150232642e515b",
+      "date": "2015-01-20T23:57:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5af3c04e7997dd1b29af30003d7685a6318e9d67",
+      "date": "2015-01-20T23:53:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "514cc511b9d5001ee834e88dd7cf476c11838b37",
+      "date": "2015-01-20T23:52:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9244c49f259e104ac7bb54fd37cc21bf8720dc2e",
+      "date": "2015-01-20T23:43:25Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "017dfb713f632aa15a3e7b8ed7ecdd4ff9b091c2",
+      "date": "2015-01-13T22:10:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9469885050ed84ec55415d445bddfac1c57bfc26",
+      "date": "2015-01-13T22:03:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "fe2627d3c4e70450df26079e1b29ba3ec8386188",
+      "date": "2015-01-09T17:35:36Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "6b8e88aeff6d43389ffa91830b64883f721f4235",
+      "date": "2015-01-09T17:33:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4cf88f70a9d69fcb652a1e8029550e93e0d74aea",
+      "date": "2014-12-19T03:47:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "2ee7d59ba5754421bd0d0e294c5aee4e6aaff097",
+      "date": "2014-12-19T03:42:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "694259bc981ba35921482311dddf785993e06501",
+      "date": "2014-12-11T18:26:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "278ce5e858d36d488240a03e907040a697b217e3",
+      "date": "2014-12-05T01:28:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9f70277c73dae7ecafe1be3b84d1d79cd00cdf79",
+      "date": "2014-12-05T01:23:24Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0fc9ac0fe67c06cafb262112143f479037f97305",
+      "date": "2014-12-04T19:19:24Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "559d04e5617bdf53187b03fd438e36ab220725ef",
+      "date": "2014-12-04T18:24:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "6051f7c34d49f7e23384a2e8b7f0954a5c0c951e",
+      "date": "2014-12-03T20:36:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5ffe8d8679f31b9284dc506c0931689f2e65de1f",
+      "date": "2014-12-03T20:35:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d8a48bcebe0f580569743331a0f615c1edc94491",
+      "date": "2014-12-02T23:00:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8966a19107c8e4c15dcac15c26a13ee101c0cc3e",
+      "date": "2014-12-02T22:57:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7e07d93dd1d48a3ae3cc076fedde6b9bcd319edc",
+      "date": "2014-12-02T18:14:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "996fbbe048d48ca7d4b929b21ef4f0dc4057b998",
+      "date": "2014-11-26T21:57:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "88067b82316322f492c6c60075fcea2dc20547e5",
+      "date": "2014-11-24T07:13:27Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "023bbde4377879171339a1b33ca57d0059c57958",
+      "date": "2014-11-24T07:08:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5df43ace628a2d15f79c44c9f683eb61ff91ca01",
+      "date": "2014-11-24T06:29:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "00e0e477160005f165c9be5c6310bc2464dd5f0c",
+      "date": "2014-11-21T16:49:56Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "46200cf6d0dcd08fa6aac79bcb25d6b1cea92714",
+      "date": "2014-11-20T00:02:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "fd7d03a7de9fb0b406a040a68db8235035fc2ff4",
+      "date": "2014-11-19T23:59:24Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4e345edb12786376796ac3bbc7fdbfd0431c2877",
+      "date": "2014-11-16T22:13:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5b705fa2656a7ae9428b42d00066eea35f90ce89",
+      "date": "2014-11-13T19:27:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "640885b14e81dbce6c2bf5944d8d1aa1a2263d78",
+      "date": "2014-11-13T18:50:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f2c8b0f61568856bf31c894d7666a796012efde0",
+      "date": "2014-11-13T18:48:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a591f49592b45a980737836e2755b791db95c8ed",
+      "date": "2014-11-13T18:43:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "217523b4c1771f1cf92afba103eb12b18788a9b7",
+      "date": "2014-11-13T02:16:50Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f56cfa79df61e4fe476b14f6531f66327c256667",
+      "date": "2014-11-13T02:14:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "87dbdf7be6f4d1b5d12e571571457e6ee14b9d02",
+      "date": "2014-11-13T00:05:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "25c043086084513e9190dbcd587fde7e3f3ac333",
+      "date": "2014-11-12T02:29:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "bfabb4e70d7cb6c5107d979a979f8001351185e0",
+      "date": "2014-11-12T02:25:58Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a5e239c42a36463572137a8cba9d109663890acf",
+      "date": "2014-11-11T01:39:49Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5d05af1675c2943d535180b4b99bd9c15e58eb37",
+      "date": "2014-11-11T01:38:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "55f46aa13a6e7511888f9a560200e600e638ca41",
+      "date": "2014-11-07T18:14:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5f49d68ceea1da7a3197807ca0ee4ee0a8f7661e",
+      "date": "2014-11-07T18:12:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f1cc4d6d92fb703b5a3f0a169fbcf84c2a66a59d",
+      "date": "2014-11-05T00:58:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3320850723db89ace542b631144dfc87e413be89",
+      "date": "2014-11-05T00:55:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cdd07ea41e7f48cef287574576294a0f0e90f858",
+      "date": "2014-10-31T22:08:22Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "44535b92a6475ccc0db6c0027e2bf36aad18883f",
+      "date": "2014-10-31T22:06:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "aba35da2a7bbfc8e9ae1e52a550d2d856f2240a1",
+      "date": "2014-10-31T21:57:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4d580c5a626c8bfa71a914c64708b7f4c9da0e46",
+      "date": "2014-10-28T16:51:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "535697ac744c9e6055798d8401988680889641be",
+      "date": "2014-10-28T16:48:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "428f8883e43a983200feaf7f5b0e841bcba23f1c",
+      "date": "2014-10-28T00:43:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e4431c258c707f7f258432a62fcd35e2ecdb2c1b",
+      "date": "2014-10-28T00:32:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e379d3a2505bae0444dde5bcc20d170f70fbd6f7",
+      "date": "2014-10-28T00:29:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "15986b347e18687dfcac92f9703a9dbbb19dd583",
+      "date": "2014-10-27T20:36:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "c6899b4a0416742e8e17aaba1e0effacb8abd467",
+      "date": "2014-10-27T17:24:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "deedd4ca91a3fe803337e657a3878e9c232b9a1a",
+      "date": "2014-10-27T17:22:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "efe3d6e1d4adb3ea7127c720055a2549fdaa0b1f",
+      "date": "2014-10-23T17:15:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "80e14cb847dd56a200da136d1ad521520366f644",
+      "date": "2014-10-23T16:23:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7ace88955df2984df43177f7d5e64f53a4ddbc03",
+      "date": "2014-10-23T16:21:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "482d8b4f14a0449366b24b21d3671d807170a0c3",
+      "date": "2014-10-22T21:24:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "51733bbd0bf9a5210fb39f98237356800a6a8908",
+      "date": "2014-10-22T21:21:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8d53752625ea6bb93b25e09d16b4250331e57076",
+      "date": "2014-10-22T18:13:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3747e9eb54538305f62dfff514c03f3521fdc475",
+      "date": "2014-10-21T02:16:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "48074c81466d4a605dd5b02028da06110a644059",
+      "date": "2014-10-21T02:13:25Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "dc0ad4298d8d6147bd3d87bf258ed17a0ff14b06",
+      "date": "2014-10-21T01:58:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7d921b7889aa9f253095b3685fc0313b10f24943",
+      "date": "2014-10-21T00:54:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cf3ed2e185f953903df809e0b6511fba279d17f0",
+      "date": "2014-10-20T01:45:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "1e072f2c60b2b317a5d0b7e6d0905a4d149687a8",
+      "date": "2014-10-20T01:44:04Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7f526b100e6a70799022a22a80b4415cfaf7eb1a",
+      "date": "2014-10-17T17:13:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "efd5939139a3b18bafa79e71e19352436538f07c",
+      "date": "2014-10-17T17:11:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e010cb44c4b7154e6730421cf213458e971727bd",
+      "date": "2014-10-17T04:39:00Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5b2093c1aa10e443c633012338d23dffa7247834",
+      "date": "2014-10-17T04:25:36Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3163cd29a070e1f91302bad3a639bb549dfd9def",
+      "date": "2014-10-17T04:23:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f8f6e326bcd08fb58861846da16dd3d6eafcc39f",
+      "date": "2014-10-16T23:02:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "096c8fa360f8e094d0ebc9bb81cefd82422a3660",
+      "date": "2014-10-16T22:50:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e3afbe5699770778cd68a371b031e3c3f753a9f1",
+      "date": "2014-10-13T20:20:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f6eb9c16bb7420a94afc266fadc6ddb97878d879",
+      "date": "2014-10-09T17:08:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f0d388695121f2e0d0be411ca7c7d29c52c8066e",
+      "date": "2014-10-08T00:03:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3d8fc437e9d2a7d366951be8aec009ec13270eb6",
+      "date": "2014-10-07T23:21:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a9dd476fc121d57748e8c8f2b35ae8c4b004354d",
+      "date": "2014-10-07T23:19:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "b14a9605ccf29a6c3d842683570a172989ef7998",
+      "date": "2014-10-03T18:25:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cdaae626f5eba0819ee31130caba58bf3a116ae5",
+      "date": "2014-10-03T18:22:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5856e0841840273ecd66082c726ea9f95bbec509",
+      "date": "2014-09-30T22:00:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "372543c2261ddbf4621cc1138348e63ff70c822d",
+      "date": "2014-09-30T21:59:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7d5a4440d2d8737514a90af5b489ea73671bb97b",
+      "date": "2014-09-30T00:41:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4cd4040863d885000d9957ec4f874b3e7e28aa56",
+      "date": "2014-09-30T00:38:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9ddee76a897345bbb610b387e4ad519283497aaa",
+      "date": "2014-09-23T19:12:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "18731e9d7229ab3a1825a1364d3541b2f3b623e0",
+      "date": "2014-09-22T18:39:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "984305f7a4e487176a369a8435ba7c04c4133540",
+      "date": "2014-09-04T00:55:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d74ca7b153fc019c14dda61047070a07629f1f3e",
+      "date": "2014-09-04T00:37:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5403e9eb495691e29af282596aed407515ce7c39",
+      "date": "2014-09-04T00:34:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cc5e7ddf0c65e0438baf2c733a72b4946ac52159",
+      "date": "2014-07-25T03:06:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "91ab848befa137e9105d195c306ce62d19a3adac",
+      "date": "2014-07-24T20:10:25Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "bed207f7557dae049488659c35288f6cb207d896",
+      "date": "2014-07-18T00:57:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "784e24ac3e41689a75965a3072e42a87fa643213",
+      "date": "2014-05-15T21:24:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "ee276872e00c38f180fe857bd086d467391ce13c",
+      "date": "2014-04-12T00:56:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "787e53d3d9c1999f71ea311f83987b6889bd9d9a",
+      "date": "2014-04-05T00:05:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4b7df925a9837e7f19d2af8898d40e7fc4dd28c9",
+      "date": "2014-04-05T00:04:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9ba97ad972a1dbc166516f00a9ae2080bec17217",
+      "date": "2014-03-07T19:48:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3fc34a738cd23000085ada217050f2e8604e1637",
+      "date": "2014-03-07T18:55:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a219e13d76e55303b174f12284c9f0b05b71c521",
+      "date": "2014-02-14T18:13:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5b15d57a172fabc1386ca02fb8579d91de79355e",
+      "date": "2014-02-04T21:42:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7de44f20f366cea12a2f497835fba094180229c0",
+      "date": "2014-01-13T18:21:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "656c78068b78b05dafda6371c326ee62fac28178",
+      "date": "2013-12-11T00:22:56Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "90d30e1fb941f9c4cb13e71a03c5a921dab1c897",
+      "date": "2013-12-07T21:52:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "26826dcc4813d88a3fa2194b4ed9b13181c4ebb9",
+      "date": "2013-12-03T20:32:27Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4444b23b376f74acf0286ab9b9ade64605afcf75",
+      "date": "2013-10-23T19:33:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "966add9f4ae50d126a46c1f45d6a3fd42e37d245",
+      "date": "2013-09-27T03:17:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f03d7fb13b3322762a817f9232390e9d6e75817c",
+      "date": "2013-09-13T19:12:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f2f71368cd4a0ebd81248c8d954a8a08d21d6b23",
+      "date": "2013-09-06T06:14:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "271fe653b9fcf7bfb46ec30277a54b8fab426ba5",
+      "date": "2013-09-06T06:12:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0da612fdd03bca208e72ea7d1bdf9c4917cfcc43",
+      "date": "2013-08-29T21:55:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "1e3fbba9146976f5fa660eff9bd898a16ca73ba7",
+      "date": "2013-08-21T21:00:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "ab853cf30a3f525d5b8268a29e8f65fd944df4ba",
+      "date": "2013-08-07T21:49:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "77dea30385de2165137cafeb672d1b3ce3f12be2",
+      "date": "2013-08-07T21:38:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f91d990981dca34b23a6d649cc6617a10c5d71e3",
+      "date": "2013-08-06T01:58:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5b31ab86113e8e393835c1efbb6a61ef5165c353",
+      "date": "2013-08-06T01:51:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "df1ed123837c3bb8de4856486ddb32454b64d00f",
+      "date": "2013-08-06T01:28:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8bc96ba9b760ae3f50cf8822bc95748a01557d9b",
+      "date": "2013-08-05T22:32:57Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "1bbc04d5db5caecd118839484b93111b1f61e2bb",
+      "date": "2013-08-05T22:31:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3a5dd188330aaa032c60a1d67397e8d290c9754a",
+      "date": "2013-08-02T23:16:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a5f6b4834dc1ab6c4ae11fd877647634a511f225",
+      "date": "2013-08-02T23:15:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "2af153b0fe0f3c93d7924c6ca51fb57b8776591c",
+      "date": "2013-08-02T23:12:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "01fdddad3922f5f5e1cb946c381944faf2d8004c",
+      "date": "2013-08-02T22:25:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "346712741ecbf05b21e10326f141f1725a5222ec",
+      "date": "2013-06-28T20:24:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "eb86b9f4fbfa80e0ee6bf0d524a43a880e9ff486",
+      "date": "2013-06-11T22:42:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "1485ffbce6321460e2d76a08b49ff5675f92e8f0",
+      "date": "2013-05-29T16:55:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "09293ae80baef661cee1a749abc5ca36335511e1",
+      "date": "2013-05-29T16:53:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7f684b83bb1abccfa4bff122c3f5180ec6aed775",
+      "date": "2013-05-29T16:39:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9537e64fac9a5f418f81478fd85d31633c6e7242",
+      "date": "2013-05-17T04:21:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "81e19ed7e65dec56a2f1c0f3858d7a7a8197fd62",
+      "date": "2013-05-15T20:00:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a9b41b768fa4125f1df8687b40242e1067bfcfde",
+      "date": "2013-04-25T04:06:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5d10a169c411e956767e3c98757fcfe547385388",
+      "date": "2013-04-25T03:49:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d7d7c8a023de10a23a76fa9dd1dbb7a8b048b0b6",
+      "date": "2013-04-25T03:42:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "2738cd5431b71f85e471cc2db5c8fa908b10a135",
+      "date": "2013-04-17T16:55:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "80a6690427a1cb8fa9e26cb88efd90755493dd82",
+      "date": "2013-04-17T16:50:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "85dfcb11aed3eb96b7719b17963d6079d63ef011",
+      "date": "2013-04-17T16:50:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "51c3ceba305684e4f3d3501d120d24ef2bb49b98",
+      "date": "2013-04-17T04:19:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "01de78c3e5c40e309f8db19fde176c3417d0cdf3",
+      "date": "2013-04-11T22:15:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9410046b9e7bd8a74ca865b6e7eb6bc8629b8111",
+      "date": "2013-04-03T21:54:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f69ec5b0f9a375d420c791466b100f5a9ba9984f",
+      "date": "2013-03-26T21:39:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e45f422a29eb36342fc6a91b05506a2bbefaff2b",
+      "date": "2013-03-26T21:37:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7f3f5695dc6656e8be2c560e9b1f0a907e752c28",
+      "date": "2013-03-20T20:05:45Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "721df36cc4c5644d50ae4b9d0a315ffbb452c132",
+      "date": "2013-03-15T01:43:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "bc08956aa2051f0b34e08e174fb78cd6a1e6f9cf",
+      "date": "2013-03-13T20:41:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "59174c3968bed0f3149561fe001aef6d0d217c5c",
+      "date": "2013-03-12T19:31:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "b76422b01ce8a56b3a0960ce2821818ee060885c",
+      "date": "2013-03-12T19:30:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "45b0c26482191ca09d728fb1ad783645ac7d9ffe",
+      "date": "2013-03-12T00:58:58Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f7638fb87d20ae8214b1e85d5c1fa36aa8902c77",
+      "date": "2013-03-08T21:12:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "64590b9a663881326f57f27aa3cff26f8bcbe3f8",
+      "date": "2013-03-08T21:10:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "862a37fcacbb90c84c6b092d1ed680ca0404ad1f",
+      "date": "2013-03-08T02:23:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "b68cbe2e9a2ff3cabb08f485ca55606581395631",
+      "date": "2013-03-08T02:18:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d645cde06b52296f059bc52cc29219270398a3b3",
+      "date": "2013-03-01T01:30:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5f83a7e2a2a9f35a7c0134527d91451469266e60",
+      "date": "2013-02-28T09:33:22Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0433b82a7c3548eb7980ce2c53e8d44bc725a993",
+      "date": "2013-02-28T01:54:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7203dc6643ebc32507abffc309028361d3c76067",
+      "date": "2013-02-27T21:03:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f849a7e181de87f94837ff73096335e0c437fa2d",
+      "date": "2013-02-27T21:03:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0a506fe13ace7c2dbf11adeb44ce3d220ca7da12",
+      "date": "2013-02-26T06:34:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4e69b47071f6f02c008a9baf904c06a1bb0bcac8",
+      "date": "2013-02-22T05:50:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "af18838b210bc32ed81bdb6fe06766ca80740a60",
+      "date": "2013-02-21T00:23:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cc4c3b48c711c8ddd4ddb55b22fd5b9c2e6830c9",
+      "date": "2013-02-21T00:22:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5b4c952f5f10e175b6d9b08e9cfa868fa4a15645",
+      "date": "2013-02-17T22:17:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d9fbdabb20b5ca606c0e837550ceee4facf370fd",
+      "date": "2013-02-15T22:19:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5d0174566d1ba9120077ed4189cec66eb773c772",
+      "date": "2013-02-14T22:48:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "049adb5ba7b9dc1660ee124fc0ca212c34fcaef7",
+      "date": "2013-02-14T20:21:04Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "2ed69ce9fbed886ba1e58995674352dc2be6e215",
+      "date": "2013-02-14T20:15:49Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5feb650c1fa2e618c7b12b1d3353bac942c5ec4b",
+      "date": "2013-02-11T19:19:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "b9a357aa889fc8b6ebd9508eaf42a96d32462c27",
+      "date": "2013-02-01T21:21:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4eb301610275b067d09f9cb2a61035ed47c4f4ba",
+      "date": "2013-02-01T02:35:25Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cf175e8b18f9b2b44b6a31dc3d36303e5b0e8fe8",
+      "date": "2013-01-29T22:16:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "30a10b3d8bd432844a062ab6e15edb3341dee5fe",
+      "date": "2013-01-29T22:06:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "23902506d44cb5af8188ceace8b6b8e15b459a21",
+      "date": "2013-01-27T04:00:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4af6a135252806ab6d65f35defd1126aa07c44f5",
+      "date": "2013-01-27T03:29:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a9f944777dac489024442a4dccb585869e021b62",
+      "date": "2013-01-26T22:55:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "c9cbcbaddca7f68e73df835b5fe0c8b4535645f3",
+      "date": "2013-01-26T02:26:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "93d016cebeda1ad8eeb58d32dc58b63f7115c36c",
+      "date": "2013-01-25T22:11:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "1f6f18a1a3a67fc57cf49da0f98f1e46777469ff",
+      "date": "2013-01-23T00:36:24Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "900e83dd71670d14830b026f2810c065d74240f4",
+      "date": "2013-01-22T19:57:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "1941f3c2c86ded8088c4b8ab99dee0762fa3e987",
+      "date": "2013-01-22T19:50:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "aa35db5cc0e8e0d7a5449c9bca2e3fb99f206be0",
+      "date": "2013-01-22T01:34:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "77ec9e4b389c4075b3925ed63e49a44b7f4a4c74",
+      "date": "2013-01-22T01:27:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9fa8186a837f9b484b605961d6da87e278070e97",
+      "date": "2013-01-21T07:57:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "486ddc81a50eab09934e724931352e3adb906b67",
+      "date": "2013-01-21T07:49:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8e99ac8813aec258e9f8deec37f1d55e03d5022f",
+      "date": "2013-01-21T07:46:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3759ed937c6b01d0d78910e9d1f438bd823f5693",
+      "date": "2013-01-21T06:24:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "fa0e345e2ab8e23484062f4f0cfbae7dee7f140b",
+      "date": "2013-01-21T05:58:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "69ed5e0d7cbb533151db930b7807079cd2aa7cf6",
+      "date": "2013-01-14T20:58:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "4bbe7f9e244540350c988db677d4c9a23f2ed539",
+      "date": "2013-01-08T02:08:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5db9243aa74507a13a1b44e4c1e6e758504ef8f6",
+      "date": "2013-01-08T02:07:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f14eace24ab652df4dd636abb0414fe7ad9f2c81",
+      "date": "2012-12-20T01:38:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d07969b8df9c477394451600f402efa5c8668677",
+      "date": "2012-12-20T01:30:56Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "720c08a048992cf40243635fd56cd202be21d770",
+      "date": "2012-12-20T01:24:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f8df7cc4a1eb5d851a1122ea7326644f2bcfb016",
+      "date": "2012-12-12T23:28:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8ecf8f872c5654967582afe0b3473c0b6f2cc437",
+      "date": "2012-12-03T19:50:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5ace62d22bdad7ac19bdf89487d5eeb043f8d181",
+      "date": "2012-12-03T19:37:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "577c8d9e02d27dca4c36fff7fdb616adce4ca68a",
+      "date": "2012-12-03T19:27:49Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a94c5748cd09eb422da9a1ec6ebba528f6247a69",
+      "date": "2012-11-30T07:58:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "def6d5b4c7d08ce120874472316259ab9c251335",
+      "date": "2012-11-27T20:03:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7d238acd187408bf34bdea28b782ecb5e5dc06c6",
+      "date": "2012-11-26T23:03:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "2cd6ebca85e10b59a39939ebdf8088fcd0c389fb",
+      "date": "2012-11-26T22:56:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "b38616935d43f65817e9c67dc7485a52792fa27b",
+      "date": "2012-11-26T22:09:57Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5f1958f013cfd2d867d7f3107af7dd07124ed487",
+      "date": "2012-11-26T20:34:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f8a6d6348f85127d8c19fef787c69f61203a1e8e",
+      "date": "2012-11-26T20:25:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e8e822cbbbbf26f95d5723359bb70ae64dddfb63",
+      "date": "2012-11-26T19:52:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0f765acdf88ad224a94d4a9317bfce8e78127f23",
+      "date": "2012-11-26T19:48:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "df83249f8b2365281aa83d4bd8f34ad159b72779",
+      "date": "2012-11-26T18:53:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0980a88340daffb2d90279900a185283f72b6fb7",
+      "date": "2012-11-26T18:47:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "fc01722dcc6ae319ab37a483c1e539aed8b83937",
+      "date": "2012-11-26T07:22:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e7ebf704f0786b1285bc58cc87ef5a9bcd34fa12",
+      "date": "2012-11-22T16:22:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "ddf67a7b799e89f24cee0b89a0ec8e77c8a9a7d5",
+      "date": "2012-11-22T16:04:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "488d7e51feb803bcd5d5ebf308338c1bd062e053",
+      "date": "2012-11-22T00:50:58Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "42cee24390ed0315819efb9e6d452947b66b76e2",
+      "date": "2012-11-21T23:43:57Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e9b0266b037c76f21df10941bfd63b505d351c50",
+      "date": "2012-11-21T21:08:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "0b4a2f9e3646fa1c01b4832dad5854d57f7411c8",
+      "date": "2012-11-21T21:01:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "928dd799911328a9c4946b96128e2d1113703bfe",
+      "date": "2012-11-21T21:00:36Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "a270f38b03ba09851c60eb7737bfb7f859fd5951",
+      "date": "2012-11-21T20:58:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "aefe3306d0685e87f6aff02f71f212543053bf90",
+      "date": "2012-11-21T08:21:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5ed3157c28060126810f4e378cff46ab4711ecde",
+      "date": "2012-11-21T08:15:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "05642d907574d18acc1a3262dba084f224cafaed",
+      "date": "2012-11-21T01:20:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d6a5f810c8a2edffafb793bfb0ea9f8f1a48437c",
+      "date": "2012-11-21T00:58:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3f363de912b60abc6ed38256339675dc71a2ef04",
+      "date": "2012-11-21T00:43:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3ec1b4a58a791359fd1e9b25a462ba0e5fd8cc1e",
+      "date": "2012-11-21T00:36:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "80b36161cb96069f22d4b27fe4e165c63964c68a",
+      "date": "2012-11-21T00:13:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "d8b28813c6812981f5d029b079d9471a3d741921",
+      "date": "2012-11-20T23:50:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "dd7795ccb2a1a26b58381b9ff5e3c3734051581f",
+      "date": "2012-11-15T21:46:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "69d390f24cb79766d67a8ca4a1ab2109f453049f",
+      "date": "2012-11-13T18:28:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "784674e34996312aaf336b90e62ec64cb49024eb",
+      "date": "2012-11-08T19:34:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "76fae13dd07bf044a7bb42524c23260cba6f42d6",
+      "date": "2012-11-07T20:32:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7439e7671bcb9f17d97246241f6c7302d096b49c",
+      "date": "2012-11-07T20:21:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "86b16a6b1bbb577105a05c60b3a5ae7975674737",
+      "date": "2012-11-07T20:14:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "009231378712df6b0eb8c370e05a5d149b095cf2",
+      "date": "2012-11-06T04:26:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cdfa81b1ac0f87180056e9ebbb865993b29b32b2",
+      "date": "2012-10-25T00:15:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "9720cbd1b16a4945b1906687b84d065b7de98938",
+      "date": "2012-10-25T00:15:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "f4600d1884f08eaad83c889217dfa3249eafcb4d",
+      "date": "2012-10-23T23:37:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "c85ce30ddc85c287a3eeea1c918e0703e77180ba",
+      "date": "2012-10-23T23:20:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "35080b10cc4a6b07571d0d3a2d56256455afcf25",
+      "date": "2012-10-19T23:09:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "b78103b1b8daeefe02904b1fdd206b19bc935bf1",
+      "date": "2012-10-19T23:09:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "5e1a07efd690594cacb81dc4d820ba99eb998436",
+      "date": "2012-10-19T23:04:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "52eb7e8b7cc310ae4d70dcd57206205301d4375e",
+      "date": "2012-10-17T21:24:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8745e318de35ab5a235e46f9ced09967cf0c61a3",
+      "date": "2012-09-28T22:31:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "cf394419289721c6ab8cd4f3dae51bc22d41756c",
+      "date": "2012-09-07T06:39:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "3c62eefcd42010a0574657e8e624e59a17657357",
+      "date": "2012-08-28T17:28:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "7695ddc8fdd21834e9d3c19c216be7d66a56c52e",
+      "date": "2012-08-28T04:55:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "99926379cd67d26769cbef24d88f75df594ec05a",
+      "date": "2012-08-28T04:52:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "e41a97e93bfe77e4695f1cb4af71909264359986",
+      "date": "2012-08-28T02:44:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "855c27e5881cb7b17b93b5076ff56f0b328e7f31",
+      "date": "2012-08-28T02:41:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8f491a9139c80a337013f7ddce245953ce2e7ded",
+      "date": "2012-08-27T06:41:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "03880f1d861c11eed84b494678435b10e47c3a2e",
+      "date": "2012-08-27T04:19:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8af316c3df889d200ef9bfb847d4f3c19ca96e26",
+      "date": "2012-08-27T03:57:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "8afaf2983a547dd580ee20ac74d3b8dd2a2b9012",
+      "date": "2012-08-27T03:53:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "c8b7a20e4feab28e73b03e21e857f50634de147d",
+      "date": "2012-08-27T02:58:00Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "c9699dea340a56acece5ebcc62e95e37e6159987",
+      "date": "2012-08-27T02:52:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "1d7ca5a16c7cb14e1aceb7d8556b0720bc82ce7f",
+      "date": "2012-08-27T02:35:49Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "eb35f785fee81ff7de07d51592e4b8f4beca00d8",
+      "date": "2012-08-27T01:22:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "commit",
+      "id": "b4ad4d3abd640c82ed49bb2ea9d015d79e20c338",
+      "date": "2012-08-26T01:05:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 9722095,
+      "date": "2012-10-23T23:16:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 10333843,
+      "date": "2012-11-13T17:06:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 10337103,
+      "date": "2012-11-13T18:30:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 10639161,
+      "date": "2012-11-22T16:21:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 10706589,
+      "date": "2012-11-26T07:16:25Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 10732378,
+      "date": "2012-11-26T20:29:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 10736968,
+      "date": "2012-11-26T22:25:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 10881380,
+      "date": "2012-11-30T08:00:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 11277825,
+      "date": "2012-12-12T05:59:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 11961904,
+      "date": "2013-01-07T17:43:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 11968568,
+      "date": "2013-01-07T19:59:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 11981236,
+      "date": "2013-01-08T01:55:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 11981559,
+      "date": "2013-01-08T02:11:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12485163,
+      "date": "2013-01-21T05:38:36Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12485840,
+      "date": "2013-01-21T06:18:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12487586,
+      "date": "2013-01-21T07:54:57Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12526446,
+      "date": "2013-01-22T01:30:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12526492,
+      "date": "2013-01-22T01:31:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12563077,
+      "date": "2013-01-22T19:58:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12563094,
+      "date": "2013-01-22T19:58:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12604427,
+      "date": "2013-01-23T16:39:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12723166,
+      "date": "2013-01-25T22:06:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12723346,
+      "date": "2013-01-25T22:11:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12729589,
+      "date": "2013-01-26T02:28:27Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12814794,
+      "date": "2013-01-29T00:57:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12862226,
+      "date": "2013-01-29T22:27:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 12862376,
+      "date": "2013-01-29T22:30:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13035911,
+      "date": "2013-02-02T19:33:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13162869,
+      "date": "2013-02-06T01:46:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13163330,
+      "date": "2013-02-06T02:03:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13576042,
+      "date": "2013-02-14T20:16:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13630012,
+      "date": "2013-02-15T21:50:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13631341,
+      "date": "2013-02-15T22:22:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13698003,
+      "date": "2013-02-17T22:11:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13698144,
+      "date": "2013-02-17T22:19:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 13796810,
+      "date": "2013-02-19T20:27:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14198748,
+      "date": "2013-02-27T20:53:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14199363,
+      "date": "2013-02-27T21:02:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14199478,
+      "date": "2013-02-27T21:04:00Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14598431,
+      "date": "2013-03-08T01:49:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14599294,
+      "date": "2013-03-08T02:20:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14752850,
+      "date": "2013-03-12T00:59:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14867175,
+      "date": "2013-03-13T20:41:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14887247,
+      "date": "2013-03-14T05:25:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14938317,
+      "date": "2013-03-15T00:48:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14938560,
+      "date": "2013-03-15T00:56:58Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 14939693,
+      "date": "2013-03-15T01:40:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 15420337,
+      "date": "2013-03-25T19:58:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 15490450,
+      "date": "2013-03-26T21:40:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 15660215,
+      "date": "2013-03-29T20:54:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 15660690,
+      "date": "2013-03-29T21:05:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 15867855,
+      "date": "2013-04-03T21:55:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16264762,
+      "date": "2013-04-11T22:05:04Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16265255,
+      "date": "2013-04-11T22:16:49Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16271167,
+      "date": "2013-04-12T01:17:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16511945,
+      "date": "2013-04-17T15:16:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16518411,
+      "date": "2013-04-17T16:56:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16518488,
+      "date": "2013-04-17T16:57:45Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16987284,
+      "date": "2013-04-25T03:48:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16987372,
+      "date": "2013-04-25T03:52:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16987406,
+      "date": "2013-04-25T03:53:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 16987732,
+      "date": "2013-04-25T04:07:49Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 18043298,
+      "date": "2013-05-17T04:31:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 18574121,
+      "date": "2013-05-28T19:30:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 18630008,
+      "date": "2013-05-29T16:46:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 18637679,
+      "date": "2013-05-29T18:46:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 21805183,
+      "date": "2013-07-30T16:51:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22022342,
+      "date": "2013-08-02T17:54:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22024228,
+      "date": "2013-08-02T18:26:04Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22040209,
+      "date": "2013-08-02T22:25:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22042351,
+      "date": "2013-08-02T23:12:27Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22042594,
+      "date": "2013-08-02T23:17:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22081712,
+      "date": "2013-08-04T23:56:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22146062,
+      "date": "2013-08-05T22:36:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22149706,
+      "date": "2013-08-06T00:00:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22149919,
+      "date": "2013-08-06T00:06:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22152121,
+      "date": "2013-08-06T01:06:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22154077,
+      "date": "2013-08-06T02:07:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22218468,
+      "date": "2013-08-06T23:02:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22284977,
+      "date": "2013-08-07T21:20:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 22287117,
+      "date": "2013-08-07T21:51:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23033354,
+      "date": "2013-08-21T17:10:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23033511,
+      "date": "2013-08-21T17:13:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23033681,
+      "date": "2013-08-21T17:15:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23043306,
+      "date": "2013-08-21T19:29:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23049944,
+      "date": "2013-08-21T21:00:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23920403,
+      "date": "2013-09-06T05:57:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23920792,
+      "date": "2013-09-06T06:12:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 23920909,
+      "date": "2013-09-06T06:16:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 25188901,
+      "date": "2013-09-26T17:55:57Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 25210284,
+      "date": "2013-09-26T22:46:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 25219862,
+      "date": "2013-09-27T03:18:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 25867978,
+      "date": "2013-10-08T06:44:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 25923999,
+      "date": "2013-10-08T20:21:25Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 25926009,
+      "date": "2013-10-08T20:46:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 26085099,
+      "date": "2013-10-10T19:49:36Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 26529544,
+      "date": "2013-10-17T17:26:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 26733336,
+      "date": "2013-10-21T16:35:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 26733535,
+      "date": "2013-10-21T16:38:00Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 27032836,
+      "date": "2013-10-24T21:29:50Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 27038908,
+      "date": "2013-10-24T22:43:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 27711492,
+      "date": "2013-11-04T18:50:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 27801779,
+      "date": "2013-11-05T19:02:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 27829717,
+      "date": "2013-11-06T01:01:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 28726452,
+      "date": "2013-11-18T18:55:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 29675867,
+      "date": "2013-12-03T01:28:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 31990792,
+      "date": "2014-01-10T00:02:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 32195701,
+      "date": "2014-01-13T18:22:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 33767936,
+      "date": "2014-01-31T08:08:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 34828896,
+      "date": "2014-02-12T01:17:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 35109323,
+      "date": "2014-02-14T18:13:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 35459106,
+      "date": "2014-02-19T02:14:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 35459826,
+      "date": "2014-02-19T02:29:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 37054690,
+      "date": "2014-03-07T18:49:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 37055957,
+      "date": "2014-03-07T19:02:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 37250494,
+      "date": "2014-03-11T00:14:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 37250938,
+      "date": "2014-03-11T00:22:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 38627688,
+      "date": "2014-03-25T22:10:36Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 39372864,
+      "date": "2014-04-02T19:27:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 39622733,
+      "date": "2014-04-05T00:04:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 39622758,
+      "date": "2014-04-05T00:04:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 40114658,
+      "date": "2014-04-10T17:38:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 40114743,
+      "date": "2014-04-10T17:39:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 40256162,
+      "date": "2014-04-11T21:41:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 40256225,
+      "date": "2014-04-11T21:42:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 41847858,
+      "date": "2014-04-30T20:43:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 42463495,
+      "date": "2014-05-07T18:20:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 42472032,
+      "date": "2014-05-07T19:27:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 42475149,
+      "date": "2014-05-07T19:55:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 43267021,
+      "date": "2014-05-15T21:24:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 43922797,
+      "date": "2014-05-22T18:02:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 44558735,
+      "date": "2014-05-29T17:24:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 45116468,
+      "date": "2014-06-04T16:49:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 45359369,
+      "date": "2014-06-06T16:54:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 47395192,
+      "date": "2014-06-27T20:14:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 47556445,
+      "date": "2014-06-30T16:55:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 47602298,
+      "date": "2014-06-30T23:58:22Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 47691467,
+      "date": "2014-07-01T18:18:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 50189647,
+      "date": "2014-07-25T18:52:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 50189938,
+      "date": "2014-07-25T18:54:56Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 50373721,
+      "date": "2014-07-28T17:56:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 50678329,
+      "date": "2014-07-30T20:54:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 51104995,
+      "date": "2014-08-04T19:22:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 51381678,
+      "date": "2014-08-06T19:07:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 53754798,
+      "date": "2014-08-28T16:53:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 53763991,
+      "date": "2014-08-28T17:43:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 53769929,
+      "date": "2014-08-28T18:13:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 53918929,
+      "date": "2014-08-29T19:17:24Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 54389093,
+      "date": "2014-09-04T00:34:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 56419259,
+      "date": "2014-09-22T18:39:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 56573636,
+      "date": "2014-09-23T19:12:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 56590266,
+      "date": "2014-09-23T21:09:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 57251808,
+      "date": "2014-09-30T00:38:25Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 57389922,
+      "date": "2014-09-30T21:59:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 57400869,
+      "date": "2014-09-30T23:53:59Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 57682170,
+      "date": "2014-10-02T18:46:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 57714532,
+      "date": "2014-10-02T21:42:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 57887256,
+      "date": "2014-10-04T00:27:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 58115048,
+      "date": "2014-10-06T23:17:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 58115867,
+      "date": "2014-10-06T23:27:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 58116227,
+      "date": "2014-10-06T23:31:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 59464815,
+      "date": "2014-10-17T04:24:00Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 59660728,
+      "date": "2014-10-19T19:04:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 59675264,
+      "date": "2014-10-20T01:48:04Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 59675329,
+      "date": "2014-10-20T01:49:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 59857475,
+      "date": "2014-10-20T23:37:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60107127,
+      "date": "2014-10-22T15:50:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60108454,
+      "date": "2014-10-22T15:57:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60158286,
+      "date": "2014-10-22T21:25:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60158435,
+      "date": "2014-10-22T21:26:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60266603,
+      "date": "2014-10-23T16:26:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60639962,
+      "date": "2014-10-27T18:04:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60641298,
+      "date": "2014-10-27T18:12:17Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60664598,
+      "date": "2014-10-27T20:36:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60668138,
+      "date": "2014-10-27T20:58:50Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60670094,
+      "date": "2014-10-27T21:12:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60690151,
+      "date": "2014-10-27T23:56:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60690347,
+      "date": "2014-10-27T23:58:13Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60690437,
+      "date": "2014-10-27T23:59:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60690641,
+      "date": "2014-10-28T00:01:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60690877,
+      "date": "2014-10-28T00:03:51Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60691071,
+      "date": "2014-10-28T00:06:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60691998,
+      "date": "2014-10-28T00:17:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60692522,
+      "date": "2014-10-28T00:23:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60692956,
+      "date": "2014-10-28T00:29:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60693483,
+      "date": "2014-10-28T00:36:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60693922,
+      "date": "2014-10-28T00:41:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60694161,
+      "date": "2014-10-28T00:42:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60694643,
+      "date": "2014-10-28T00:49:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60695023,
+      "date": "2014-10-28T00:54:22Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60695594,
+      "date": "2014-10-28T01:02:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60695604,
+      "date": "2014-10-28T01:02:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60698319,
+      "date": "2014-10-28T01:41:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 60712233,
+      "date": "2014-10-28T05:41:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 61516539,
+      "date": "2014-11-03T17:41:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 61516651,
+      "date": "2014-11-03T17:42:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 61851020,
+      "date": "2014-11-05T17:52:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62182522,
+      "date": "2014-11-07T17:36:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62488211,
+      "date": "2014-11-11T01:36:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62657940,
+      "date": "2014-11-12T01:59:43Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62659902,
+      "date": "2014-11-12T02:26:28Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62818941,
+      "date": "2014-11-13T00:06:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62830280,
+      "date": "2014-11-13T02:15:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62952025,
+      "date": "2014-11-13T19:35:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62952040,
+      "date": "2014-11-13T19:35:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62952064,
+      "date": "2014-11-13T19:35:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62952095,
+      "date": "2014-11-13T19:35:24Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62952116,
+      "date": "2014-11-13T19:35:32Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62952134,
+      "date": "2014-11-13T19:35:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 62952209,
+      "date": "2014-11-13T19:36:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 63242179,
+      "date": "2014-11-16T22:13:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 63399396,
+      "date": "2014-11-17T23:54:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 63434327,
+      "date": "2014-11-18T08:00:23Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 63738727,
+      "date": "2014-11-20T00:03:06Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 64155907,
+      "date": "2014-11-24T06:28:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 64157813,
+      "date": "2014-11-24T07:14:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 64708442,
+      "date": "2014-11-26T20:48:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 64716557,
+      "date": "2014-11-26T21:57:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65299831,
+      "date": "2014-12-02T20:36:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65321821,
+      "date": "2014-12-02T22:59:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65486171,
+      "date": "2014-12-03T20:38:27Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65499119,
+      "date": "2014-12-03T22:01:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65534904,
+      "date": "2014-12-04T04:04:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65535540,
+      "date": "2014-12-04T04:14:45Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65686740,
+      "date": "2014-12-04T19:20:50Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65686810,
+      "date": "2014-12-04T19:21:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65733906,
+      "date": "2014-12-05T01:23:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 65734387,
+      "date": "2014-12-05T01:29:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 66168184,
+      "date": "2014-12-08T19:09:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 66388603,
+      "date": "2014-12-10T01:06:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 66392031,
+      "date": "2014-12-10T01:46:52Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 66664621,
+      "date": "2014-12-11T18:28:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 67514341,
+      "date": "2014-12-18T16:39:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 67595469,
+      "date": "2014-12-19T03:50:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69138917,
+      "date": "2015-01-08T05:46:56Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69368775,
+      "date": "2015-01-09T17:36:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69780106,
+      "date": "2015-01-13T17:09:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 69829479,
+      "date": "2015-01-13T22:03:40Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 70154029,
+      "date": "2015-01-15T20:18:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 70308467,
+      "date": "2015-01-16T19:31:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 70758082,
+      "date": "2015-01-20T23:43:49Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 70759641,
+      "date": "2015-01-20T23:57:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72547677,
+      "date": "2015-02-02T22:02:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72567182,
+      "date": "2015-02-03T00:16:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72728611,
+      "date": "2015-02-03T20:32:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72909791,
+      "date": "2015-02-04T18:27:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72912918,
+      "date": "2015-02-04T18:44:05Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72931120,
+      "date": "2015-02-04T20:21:46Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72964846,
+      "date": "2015-02-04T23:41:48Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72964856,
+      "date": "2015-02-04T23:41:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 72964879,
+      "date": "2015-02-04T23:42:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 73849210,
+      "date": "2015-02-11T08:47:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 74007896,
+      "date": "2015-02-12T02:39:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 77205645,
+      "date": "2015-03-04T17:37:09Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 83242633,
+      "date": "2015-03-19T01:07:35Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 88271648,
+      "date": "2015-03-31T22:30:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 88344258,
+      "date": "2015-04-01T04:15:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 88586676,
+      "date": "2015-04-01T18:31:02Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 88590306,
+      "date": "2015-04-01T18:41:41Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 95264074,
+      "date": "2015-04-22T17:00:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 100328496,
+      "date": "2015-05-08T18:59:36Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 101445946,
+      "date": "2015-05-12T22:40:03Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 119744024,
+      "date": "2015-07-08T21:58:53Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 121404689,
+      "date": "2015-07-14T21:59:42Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 122373564,
+      "date": "2015-07-17T18:59:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 123134206,
+      "date": "2015-07-21T02:57:22Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 123209775,
+      "date": "2015-07-21T08:18:20Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 123808987,
+      "date": "2015-07-22T17:57:54Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 127401355,
+      "date": "2015-08-03T20:41:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 127727157,
+      "date": "2015-08-04T19:20:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 128487019,
+      "date": "2015-08-06T20:00:19Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 130879469,
+      "date": "2015-08-13T23:27:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 131194862,
+      "date": "2015-08-14T17:56:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 133589423,
+      "date": "2015-08-21T23:35:01Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 135826563,
+      "date": "2015-08-28T16:33:30Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 135917526,
+      "date": "2015-08-28T23:58:14Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 136545976,
+      "date": "2015-09-01T01:29:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 138716644,
+      "date": "2015-09-08T22:02:04Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 139412928,
+      "date": "2015-09-10T23:48:50Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 140186566,
+      "date": "2015-09-14T19:43:31Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 140206809,
+      "date": "2015-09-14T21:10:15Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 146078770,
+      "date": "2015-10-07T05:10:07Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 147475734,
+      "date": "2015-10-12T17:58:18Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 148549130,
+      "date": "2015-10-15T23:16:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "com",
+      "id": 149720291,
+      "date": "2015-10-20T22:24:39Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "collectiveidea/delayed_job",
+      "type": "com",
+      "id": 31989075,
+      "date": "2014-01-09T23:35:38Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "pr",
+      "id": 213,
+      "date": "2015-02-05T23:47:16Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "pr",
+      "id": 182,
+      "date": "2014-11-24T06:42:10Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 249,
+      "date": "2015-06-03T20:19:27Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 200,
+      "date": "2015-01-15T16:00:34Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 177,
+      "date": "2014-11-18T23:50:12Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 165,
+      "date": "2014-11-06T21:53:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 159,
+      "date": "2014-10-29T19:08:21Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 132,
+      "date": "2014-09-18T18:08:44Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 125,
+      "date": "2014-07-25T18:57:47Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 118,
+      "date": "2014-06-16T18:08:22Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 117,
+      "date": "2014-06-05T18:16:33Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 112,
+      "date": "2014-05-22T06:40:11Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 108,
+      "date": "2014-04-11T18:06:08Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 98,
+      "date": "2014-03-03T20:48:55Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 86,
+      "date": "2014-01-24T22:48:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 77,
+      "date": "2013-12-03T01:24:29Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 71,
+      "date": "2013-10-22T21:21:37Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 68,
+      "date": "2013-10-16T16:47:26Z"
+    },
+    {
+      "dev_id": "brianr",
+      "repo": "rollbar/rollbar-gem",
+      "type": "issue",
+      "id": 52,
+      "date": "2013-08-06T00:04:57Z"
+    }
+  ]
+}

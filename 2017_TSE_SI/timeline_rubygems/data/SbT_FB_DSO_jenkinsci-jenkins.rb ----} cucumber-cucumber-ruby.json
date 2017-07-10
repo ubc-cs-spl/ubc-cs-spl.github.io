@@ -1,0 +1,2828 @@
+{
+  "user_repo": "jenkinsci/jenkins.rb",
+  "dep_repo": "cucumber/cucumber-ruby",
+  "dep_date": "2011-04-08 16:08:41 UTC",
+  "dep_commit_id": "357eb4248bc6e9294d294f1bb469211b0a76c315",
+  "social_date": "2010-05-27 08:07:57 UTC",
+  "devs": [
+    "rtyler",
+    "cowboyd",
+    "drnic"
+  ],
+  "interactions": [
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c85ec39eb3b521bd99b1d5e6c5a165fc28788a16",
+      "date": "2012-07-30T07:28:05Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "74074335996b4428e13905407bc7ba475155902b",
+      "date": "2012-07-30T06:35:14Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "611803b6599f52fe013b0fbc30a0364040f53c89",
+      "date": "2012-07-30T04:45:48Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ed3f6e5be028fd85fc94ef731af9061a7930f6ab",
+      "date": "2012-07-30T04:45:33Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "58bed7d47171de06aab4452856db9c00bc61c709",
+      "date": "2012-07-30T04:44:34Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b165bd6609b3a214d3a92cb18215e7badf5e39e0",
+      "date": "2012-07-30T03:17:19Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "253c0f2d727d4680822f492028c34e16d9a257f5",
+      "date": "2012-07-30T02:53:01Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "5ddfe401fdbd02be8c4d6bf5ce523ad5b33d5aeb",
+      "date": "2012-07-30T02:43:19Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "2c55d05998beaae2c19d458dba3f166513207438",
+      "date": "2012-07-30T02:23:20Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "32ef8ceea5c5cad415d9e01f0e215bfd4396d346",
+      "date": "2012-07-30T02:22:08Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0e9d80be2dd3176a97bcd0cd104e48b05181e04f",
+      "date": "2012-07-30T02:13:55Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d5fc65a824a2feffad0b9a91e2463967a5c8fed3",
+      "date": "2012-07-30T02:12:28Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "61f382c41643efc4b767357c1bdc594bdf4bd332",
+      "date": "2011-10-26T04:36:52Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f31adfbc2b6101f0d9d34be99bac3a84e2566a50",
+      "date": "2011-10-05T03:32:59Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "b9ce6d60ab6e1cd4bd41f19f797979736404cbd4",
+      "date": "2012-04-24T17:22:14Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "ce8b3df14f92dc1a3fdb1de8aed911d5566e6561",
+      "date": "2012-04-17T03:00:59Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "847848f4c283a77d390ae99ca589a18c549429cd",
+      "date": "2012-04-02T05:28:07Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "4d1bccdeaf273881b294d5cbc91c428c5c2fa1ae",
+      "date": "2012-04-02T04:42:32Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "143d2b8866609683557dfa24e9a0e319f2666390",
+      "date": "2012-04-02T04:19:14Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "3197955bdc621edc5a06cf5c5ad629c9f72ea4c4",
+      "date": "2012-04-02T03:48:12Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 1113764,
+      "date": "2011-05-06T21:39:56Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 1114682,
+      "date": "2011-05-07T05:09:55Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 1115756,
+      "date": "2011-05-07T16:26:14Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 7358941,
+      "date": "2012-07-30T02:16:07Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 7358992,
+      "date": "2012-07-30T02:22:04Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 7359218,
+      "date": "2012-07-30T02:47:38Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 7359224,
+      "date": "2012-07-30T02:48:31Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 7359282,
+      "date": "2012-07-30T02:55:30Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 7359300,
+      "date": "2012-07-30T02:57:04Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 4872729,
+      "date": "2012-04-02T05:52:30Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5167451,
+      "date": "2012-04-17T03:05:23Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5167460,
+      "date": "2012-04-17T03:06:51Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5167465,
+      "date": "2012-04-17T03:07:11Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5203595,
+      "date": "2012-04-18T17:09:39Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5203662,
+      "date": "2012-04-18T17:12:54Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5310378,
+      "date": "2012-04-24T17:29:22Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5828592,
+      "date": "2012-05-21T17:30:29Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5834062,
+      "date": "2012-05-21T21:21:07Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 5851799,
+      "date": "2012-05-22T16:32:07Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 8277738,
+      "date": "2012-09-04T20:33:09Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 8385194,
+      "date": "2012-09-08T07:04:16Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 14629818,
+      "date": "2013-03-08T16:46:01Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 54,
+      "date": "2012-07-30T07:32:46Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 53,
+      "date": "2012-07-30T03:20:06Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 52,
+      "date": "2012-07-30T02:54:05Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 51,
+      "date": "2012-07-30T02:45:43Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 50,
+      "date": "2012-07-30T02:19:21Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "pr",
+      "id": 311,
+      "date": "2012-09-07T20:04:46Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "pr",
+      "id": 259,
+      "date": "2012-04-02T05:47:45Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 68,
+      "date": "2013-02-19T18:58:48Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 19,
+      "date": "2011-05-06T22:00:24Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 18,
+      "date": "2011-05-06T21:50:55Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 17,
+      "date": "2011-05-06T21:39:22Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "issue",
+      "id": 258,
+      "date": "2012-04-02T03:58:43Z"
+    },
+    {
+      "dev_id": "rtyler",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "issue",
+      "id": 257,
+      "date": "2012-04-02T03:58:42Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b42be74b85f84298aea98dc10ed63f1bf1a4766c",
+      "date": "2012-04-25T04:43:21Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b0fb641e22e6f11b5c29dfda79fc6aab79882357",
+      "date": "2012-04-25T04:42:16Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "3cc659295d61304f8fcbbf75760af5587c2ba0a6",
+      "date": "2012-04-19T16:17:22Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "244b2de1ec7f178f5923714d0b0d05c636ddd691",
+      "date": "2012-04-19T16:16:38Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b0b4ed0aeae633e99066a98d4c38c16bad781d7f",
+      "date": "2012-04-19T16:14:26Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "5aaaa7edae809c2c4d4700f9449abc837bbde5a8",
+      "date": "2012-04-04T14:06:19Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "241a577489a7580f16cc3ab95fe278cd64adf58a",
+      "date": "2012-04-04T14:02:41Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "25a26c39a0e7056239c121d9405f9c97d0c3c6f5",
+      "date": "2012-04-04T14:00:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "4336e63535ad7f59e928ab25d158df47af3cba5d",
+      "date": "2012-04-03T21:30:54Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "45aac6e8b00d37561f20fe6c924f0324ba561660",
+      "date": "2012-03-30T14:28:45Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "9e49067bc8fbf952e589f3db35fbe12e863d2e9a",
+      "date": "2012-03-30T14:26:43Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "78d18b7ce93d028552272479dd1db2593907a256",
+      "date": "2012-03-30T03:04:30Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "2fe7eae584e69c36ad9d8493c130a8480d6b4be1",
+      "date": "2012-03-30T02:41:27Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c3e71bdf8a645474bedb445ff16463ed11092e1a",
+      "date": "2012-03-30T02:28:16Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6415886ac7f787ed7df3a43078d8065c3909f48a",
+      "date": "2012-03-30T02:24:09Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "fd3b0df2e69b2ce9304681d7a3f8c58c65bc6f02",
+      "date": "2012-03-29T15:57:30Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "15d50603144e206fd9bd930d317c8f10bdae2253",
+      "date": "2012-03-29T15:52:14Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "739e0a023da73ef7edbc1b061f211d8c646da856",
+      "date": "2012-03-29T15:45:41Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "db8b24101b2e24cb50b366dccfeb136cde3abbe3",
+      "date": "2012-03-29T15:44:03Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f78d18dfb8f359c33d1c9e75d33d9f3d342d56dc",
+      "date": "2012-03-26T03:31:37Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a5442dfede17a7511cd3b37ec612c60252036e9a",
+      "date": "2012-03-22T18:21:13Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "bfd53bfb94bc1dbec7708d223365d546bd03ba66",
+      "date": "2012-03-22T17:58:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6d0d9bb3c51d328c746fe6629a3ab1296cc24fa6",
+      "date": "2012-03-22T17:58:16Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f83a008e9ed87c77024c4cf2fdaadf72eb1cd5ad",
+      "date": "2012-03-22T15:21:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6d96b0cac1046f4987c3d0d986dfaebcdac9c045",
+      "date": "2012-03-21T21:58:37Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ccd4520ec20a9225d113cc0ac1e8f8ff3da61439",
+      "date": "2012-03-08T16:18:20Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "df2f051cbc5434537bfbba4a03ca8a911cf9e4a5",
+      "date": "2012-03-07T06:09:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f6df715bf5d1f2534a928c1c28495f46de771f4d",
+      "date": "2012-03-07T06:08:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6ed9306abee412cb9fdca8f283d5b21122d67722",
+      "date": "2012-02-09T17:43:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "286441ffdd0c71d72829fb7bf032a18512a76f12",
+      "date": "2012-02-09T17:42:42Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "70e82b1dd309cb29b950b35a27021b9bb0708c8d",
+      "date": "2012-02-09T17:39:57Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "75cb2b64a36018f1a69225b20cb9be668341aea2",
+      "date": "2012-02-09T17:36:51Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "141f17135da7be6c39ce2554c584508ab6acf45b",
+      "date": "2012-02-09T17:34:21Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "05ce8b4b837cfd02ea41f281a0563baceb01848b",
+      "date": "2012-02-09T17:28:51Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ae2c33cf7ba4fb2468b05fd7f6d1d3a3d0580528",
+      "date": "2012-02-09T17:27:37Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "17136bdbe8cbc136d0859f1e8c71f6a37d00ce6b",
+      "date": "2012-02-09T17:26:57Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "4e0d9d04cad8d32c8af988dcc87b06ae568ec86b",
+      "date": "2012-02-09T17:19:56Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "de89783b52ca183d12267c435fff2315340501b2",
+      "date": "2012-02-09T17:16:12Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0877e6ceab6e54ea385b32dd4e97a0eb583cba7f",
+      "date": "2012-02-03T22:59:53Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "dbce65eb88f00f6bde1bb916ad1493fcde1e6071",
+      "date": "2012-02-03T22:59:22Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "bafb878e6fe79a4e9598021b440393de2ce66ff4",
+      "date": "2012-02-03T22:57:38Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "35b8a13f71d8c9122848585d325b71efcda0a2b9",
+      "date": "2012-02-03T22:51:38Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "77c8e098b725d9361bcb2b34a94b42259a5be615",
+      "date": "2012-02-03T22:50:32Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7f2f33b8aacc998dfd3a50ecfee4071f1c7d2c66",
+      "date": "2012-02-03T22:43:59Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "06a636f6e7e8f93ac93c3537c4f057fc7ebcba44",
+      "date": "2012-02-03T22:01:20Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "e031f5fed1c8efb78b9b0e5dc89391b277a2f60b",
+      "date": "2012-02-03T16:44:02Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c63b661a8e115d312f201af938b85be20afd220c",
+      "date": "2012-02-03T15:24:48Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6463caf51bb16f5a804f89172b9c499c9f53cc61",
+      "date": "2012-02-03T15:21:18Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "94adbc9d06ec4250aa2802689d29c65b7630b3b6",
+      "date": "2012-02-02T16:49:22Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1b2cbe3feaccff9c5a9c9e0121967337f31d267d",
+      "date": "2012-01-30T22:27:09Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "cb2ad899edd2901e4656f5790e3c64b6a6e2bec8",
+      "date": "2012-01-30T22:26:21Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "fba0ce5e2af9d5200e2ff1c1d5e08892cf0b4fe7",
+      "date": "2012-01-30T16:47:03Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "644b4a8d851fb350819882cfddd9acdac07afe9c",
+      "date": "2012-01-30T15:54:02Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "758a729b95cd6d66aba2ec490ff3408fabf5872f",
+      "date": "2012-01-30T15:50:04Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c24f4ea3f5e3d64a899d5a7ac17a1b98a940ea26",
+      "date": "2012-01-27T03:28:57Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "359ce07ffa865e5efb586d46a2e1c18bf3d271bf",
+      "date": "2012-01-26T18:30:20Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a14db8094838c85e740d8b6e3c5c587db38f286a",
+      "date": "2012-01-26T16:44:53Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "930768d85bedadff3b583162f3cad40430643f3b",
+      "date": "2012-01-26T16:39:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "41a0a62c8f27b5a4b9b9e6e53df40ade365959f7",
+      "date": "2012-01-26T13:03:55Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7db94fa8ff9dd93aa6bfc7acd53de0149f9283f7",
+      "date": "2012-01-26T12:32:02Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6fa3e71decedbd9deff0054bf2bd8fc68e7ac1dc",
+      "date": "2012-01-25T19:10:42Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f91dbc7fa546c281548b85d5a50dfe0b0a7af312",
+      "date": "2012-01-25T19:10:19Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d601e9fbb427539cf4be8cb419cdce76a218a8a8",
+      "date": "2012-01-25T19:09:54Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "51b3e9e1035ecfd5132b4c76d54843eb71fd9f72",
+      "date": "2012-01-25T19:06:52Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7b20ebd08bd592cf053808c58f0bf1c3ad83add6",
+      "date": "2012-01-13T05:18:01Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "4c3ec89e2576374b244f253da4f1f3a76fc9e961",
+      "date": "2012-01-12T20:36:43Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ae0da883888854d2df9b6185ecd7d9cba7a2c247",
+      "date": "2012-01-12T20:36:27Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "626a79c796bdac315e09188735adc4516575f6b2",
+      "date": "2012-01-12T18:57:10Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7c70b668f86de5d03ba4a8a7abec5d27bb920891",
+      "date": "2012-01-12T18:51:33Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c25330e1297ff43ae695e2d3bce54ec7b7eb3ba6",
+      "date": "2012-01-10T23:01:22Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "54ef330d6d8a599a4551aa7da116c94bbd1878bd",
+      "date": "2012-01-10T03:20:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c241fd972b9336c1a66292f14632677ee2564bf8",
+      "date": "2012-01-10T03:19:51Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "bd537132e4c31bad118cd51ba226ae68b2b1b240",
+      "date": "2012-01-10T03:04:48Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "4f5e41e09c1c3e7472899b67f618911f93f2ed9e",
+      "date": "2012-01-10T02:55:54Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6964e8348d773964914564f75bd1766b81bd3640",
+      "date": "2012-01-10T02:18:10Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "35a7c7cb00da986e798523bb979830f56e21a746",
+      "date": "2012-01-10T02:17:52Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "66767ccf5259c81f5cb3500c7a22c08dba84a8fe",
+      "date": "2012-01-09T17:32:00Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ff7f5c90fc8f166d575236b84a64cbc8be2e68d3",
+      "date": "2012-01-06T03:46:53Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "379e512535024939462a7116abeff3e74cf26e32",
+      "date": "2012-01-05T18:47:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "36083acaac285fa132f47d02d714b23479d60cba",
+      "date": "2012-01-05T18:43:37Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f4b7522d16e812e5106d68b4775ca0cd862bbe59",
+      "date": "2012-01-05T18:31:11Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c89e6525add09e2c8424f995b22ac68888ec8d49",
+      "date": "2011-12-19T17:21:57Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "aa864f57da07a4f3b9b9c09efb937f8182ed4f6f",
+      "date": "2011-12-19T17:12:08Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "df6c46d1b678e5059a493eac2044da134049f4bf",
+      "date": "2011-12-15T20:41:30Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b6d489cb18ae2c5b0ebad34e87f238965b3d0600",
+      "date": "2011-12-15T20:12:31Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "3cfde2eb7249f7a33c8abc0a0dd63ef2dd74e246",
+      "date": "2011-12-15T20:12:07Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ca6359f957d7dc447a522654f52dbe2cf46f0306",
+      "date": "2011-12-05T21:19:31Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "696ab6bb7f930c09e67d5660e9c6e7edd6810b5f",
+      "date": "2011-12-05T21:17:27Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1ad0de719c5fd692915ceb40fdb09e65adffdf3d",
+      "date": "2011-12-05T20:46:02Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6c794b78e4460a67f7d2a933a743c0128918b9fb",
+      "date": "2011-12-05T18:34:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "788c7123690b1cb03f4492008d28860074a4644d",
+      "date": "2011-12-05T18:28:29Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "fc2ad40c4a58d9e12817b1e52f1c3553e50d70d8",
+      "date": "2011-12-05T18:13:35Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "296cb2b2d2612417d4ea02a9f8bfa19b991a6451",
+      "date": "2011-12-05T18:02:23Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "beaedbbc532ed841852c48fd852e0ce676ea8f36",
+      "date": "2011-12-05T18:00:13Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1e48d0a624619c5d346f99f47c13b0e2ba0e7d00",
+      "date": "2011-12-05T17:56:25Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d1cbb56f2b3c31aecaaa505c3e953a7d01500192",
+      "date": "2011-12-05T17:54:48Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "5e05f1ab03b710f9d52951acb4663751b0eef96a",
+      "date": "2011-12-05T17:50:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "692ed5fc5d9323b0a20ae24dda0be24799ae490f",
+      "date": "2011-12-05T16:59:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "e13124f3459459826d8945210adb079cb9215a4e",
+      "date": "2011-11-18T04:05:07Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0df0728988cef2eeb742733913539c091fe8a94e",
+      "date": "2011-11-13T21:57:52Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "329cb102beace875c2ff02e17ecf59f26222ca35",
+      "date": "2011-11-13T21:56:34Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "49e4f8509b475a6f84caf8f1b0c5179a840d1625",
+      "date": "2011-11-03T15:38:34Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c287674f598d611561bf2e9a3bae54ddcc7249c6",
+      "date": "2011-11-03T14:48:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0d62ba61b5427c7db5f39f57ac0445a8095ddbb8",
+      "date": "2011-11-03T14:47:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ab9a79a60529cadcd799e07eb0afd45e58edd966",
+      "date": "2011-11-01T11:44:21Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "bf085a646002003fa0547c718c1a162406fbb5b9",
+      "date": "2011-10-31T14:04:00Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7c69d9d2937eef87854d36f504c754bfaa773738",
+      "date": "2011-10-31T13:54:12Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "77b4111bda297333a48fc0dde6d18a143b93485d",
+      "date": "2011-10-31T13:21:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "66fdeaf3941678db6cc8b60bc34302bba57efc10",
+      "date": "2011-10-26T19:54:29Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "51e6f72d8811791dc174714a6335ac1a3cf3f11b",
+      "date": "2011-10-26T19:41:11Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "95b105c65965abb9f2e521b26937da82ed926d4e",
+      "date": "2011-10-26T11:53:09Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "15e04628b5bf94f1674a71674b35aa457e9e1aba",
+      "date": "2011-10-26T11:49:41Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a39d49f997a3a073062d3b135f3e5bc22d56cf5c",
+      "date": "2011-10-26T11:48:10Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "acf7f66f193803a9967b5be3cf30258980e1d5c5",
+      "date": "2011-10-21T16:22:16Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "196ec9422b19b70d8455f57c0c43fdc80d0e5fc5",
+      "date": "2011-10-21T16:10:18Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d24e7e2cd56ab0b775e16eb540205a65c22cdf9c",
+      "date": "2011-10-21T15:05:44Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "e77f47ef21154b958a449c72bda5a55f9f5738ce",
+      "date": "2011-10-05T11:30:45Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "107c16979a73515e26888d1b1725a0f277811139",
+      "date": "2011-10-05T11:30:28Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "8c81e59ba6aa4955d97ead248860e0280af7a0f8",
+      "date": "2011-10-04T21:13:15Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "44617a532bef6771e674af62c40e06eac2959c58",
+      "date": "2011-10-04T21:10:22Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1b6f4a1f92b9ec20daa45fdfcd0fe0181ffa6e97",
+      "date": "2011-10-01T22:39:59Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "3032baa54f593412517e81f44d24c07205b50bee",
+      "date": "2011-10-01T22:39:52Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "fa4e304efe3c93a50e022b121e6e9c36f1af57a5",
+      "date": "2011-10-01T22:39:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "011431b3760cc7a0e5ed4e4bae2535ddb61f9503",
+      "date": "2011-10-01T22:17:40Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "30d866d7fe53b15432f1f466d8c76a62e1fc1ae2",
+      "date": "2011-10-01T22:06:40Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "3ef20171b89fe11900de344b44bffd97b94c83d5",
+      "date": "2011-10-01T21:58:39Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "40b754190e45fd6eb53c5e546e70619091b7b91e",
+      "date": "2011-10-01T21:58:29Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a8b638daf290f0f5a2b34823afc58a6927bd9e54",
+      "date": "2011-10-01T21:46:09Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d0670496619a6101efae91dfa3924c3346ea0517",
+      "date": "2011-09-30T21:27:27Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "67d6e1b42863f0ceae74a68892a5ad0673103535",
+      "date": "2011-09-30T21:27:18Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "9b4c701a8e1adf22c7f2334f6f141d55f53f9fc0",
+      "date": "2011-09-30T18:06:39Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "61a69375fd9c9d2c278573d1bc374ba4ba8fad94",
+      "date": "2011-09-30T17:45:56Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0e6066dd38dcb6d2e7e63a5fd1206639fe790e18",
+      "date": "2011-09-23T16:34:50Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "53c699556a67deb6d4d1d74e95a10ea4c8742f02",
+      "date": "2011-09-23T16:13:27Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "fbfcae30d4d918586c9f7f8919114102f2d89736",
+      "date": "2011-09-23T13:33:42Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c12cfb7371b0a4e894d53fbe655cc9fa3b96091c",
+      "date": "2011-09-22T12:56:24Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "69d4c5f41e840b866e5b866faa1597bf7cb03e9c",
+      "date": "2011-09-22T12:48:07Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "74024fbe4556f90124aebf12e2a537526b9728db",
+      "date": "2011-09-19T19:13:26Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ef8a1485c1266da845bb2870863ae041a57351ae",
+      "date": "2011-09-19T17:10:10Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f508e3d18e692ced9a667e0dde11709287c6339d",
+      "date": "2011-09-19T17:09:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "135e716fc9583091f1221eca5149f61dd2745993",
+      "date": "2011-09-19T17:09:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "ec0ef8cdc1fc228f50fde074123d3a6dfa167839",
+      "date": "2011-09-19T16:42:25Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "82f0c6369b6427408ef9b849ad8e1c0a5896b823",
+      "date": "2011-09-19T16:38:06Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7bc8543fffa055f3a406d9b9104d6fcdfa5ca05e",
+      "date": "2011-09-19T15:41:00Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0e932e17fef4cdf1454dd1710e3176575cd8f1db",
+      "date": "2011-09-19T15:35:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "8fc598a6a9a1b4b5a77a83324a20c21da051c694",
+      "date": "2011-09-19T15:04:55Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "aa0cae317bd2f8782235d7bb9bc81fccc1358147",
+      "date": "2011-09-19T14:06:20Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f065428037603802699f22056f495f3c776028b3",
+      "date": "2011-09-19T13:37:31Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "121fec02adfe21dc735c29abf910113501fe5d93",
+      "date": "2011-09-19T13:35:06Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6faaa029f01c2f8b49385c734646c7e6054267cd",
+      "date": "2011-09-16T22:12:33Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "78acca0e9f8fa598c86069aafa149f79a6a9ce20",
+      "date": "2011-09-16T22:12:12Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "529dde622565d4dc789756ad58ef064c690de3c1",
+      "date": "2011-09-16T22:03:22Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "57a41d551b89c154e155478567ebe36eb0cb7450",
+      "date": "2011-09-16T22:02:10Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "eea1c3de28669913a0fdbd4cffdde2a64ec36d75",
+      "date": "2011-09-16T21:39:02Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b62526df8cb02633db188c47f66fd392fe666023",
+      "date": "2011-09-16T21:18:25Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1ffd3f430d7c6fb9ddc6961a5b7bfcdf09acc839",
+      "date": "2011-09-16T19:46:35Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6862304badabd91271c596e8b152b7c97911e46a",
+      "date": "2011-09-16T15:11:03Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c8e5b32f91fbcb2c1a85723e017e18d04deb135e",
+      "date": "2011-09-16T15:09:01Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c2b753a0efa1ae00326ef046fa92666080477b0d",
+      "date": "2011-09-13T16:01:26Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "44e10ea4c9f6fd9e26dca9ed086dee78fcbb3405",
+      "date": "2011-09-13T15:49:29Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "4eee3a621173d4f8583dbc5d630ab5541fbeb84a",
+      "date": "2011-09-13T15:47:35Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "023e80ee4a239f98cba5ea1d55d850737a314ff0",
+      "date": "2011-09-13T15:46:54Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f5d973124ab0b5f353e8770cce3dc740d9e4f016",
+      "date": "2011-09-09T16:10:21Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d90c15dd2d867740c15804426c2b73eb282f16a2",
+      "date": "2011-09-09T13:22:02Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "32fe9e59032467c5758e36a7ed6b391f61deed42",
+      "date": "2011-09-02T21:07:48Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "9160ce5b5bfba443f705d20c3dfb772846f8332f",
+      "date": "2011-09-02T21:04:19Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "de45043b019d12a6d71ffb992d9c244afbdab882",
+      "date": "2011-09-02T20:58:38Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "bbe36b220682c2edc6f217d5c9f76a664150edf5",
+      "date": "2011-09-02T20:19:40Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "776d3ded0a90fe8545604b458498a0c234f4294c",
+      "date": "2011-09-02T14:07:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "829b2ce280007bb84c4ff3f2f3d1ead01c2536cb",
+      "date": "2011-08-30T14:51:26Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "85126b620fe568fe8dc8fe4e7ae82d0bcd7da96c",
+      "date": "2011-08-30T14:50:57Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c51d56ed4b0caa8f563eded0b2c4406551a56955",
+      "date": "2011-08-30T04:09:40Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "e5fb7150e0a3264df7177741ac333fdd0d6593f2",
+      "date": "2011-08-30T03:42:59Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6281a59852b9a9bc58857ee65f4587191fdfc8fd",
+      "date": "2011-08-30T03:40:50Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a397eb5d167505a143bac8239225b46b141e56c3",
+      "date": "2011-08-30T01:46:56Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "87de2a269e45440c1965c63b286f2e8a12224e77",
+      "date": "2011-08-29T18:30:23Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "47211a7d75f5fa2aa45edee6ade241f4b756e365",
+      "date": "2011-08-29T18:22:06Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1b170f79833e7226c90490629e2ee901acaeea51",
+      "date": "2011-08-26T20:43:40Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "26dc65d68a9ccdcff8ea2ee4d6c014d49e913f5e",
+      "date": "2011-08-26T20:37:42Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "4c6ad6ba80d4397ee18bab18192130c72d8b10c1",
+      "date": "2011-08-26T19:46:39Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "9bb1dcc0a7710213f2bb051f1bc6d207a1398be3",
+      "date": "2011-08-22T16:40:49Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "cdf1004b89110423fd9551068ee21cd3d3d08f68",
+      "date": "2011-08-22T15:14:23Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b76ba123e3245f908252e2b791efa45d01a1af72",
+      "date": "2011-08-19T22:47:59Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "8ae062943e11b31d0c26109272e04fed2b8b3aba",
+      "date": "2011-08-19T18:37:39Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c855dba214fb31b64b8b23a70129d53f1dc48e53",
+      "date": "2011-08-19T17:56:50Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "887412f300543ccdc13f6dff6fa81b58c3e60243",
+      "date": "2011-08-19T15:07:59Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "fd63f8000f65d2bfbe4c2668aeb2f9ffc2c89a7b",
+      "date": "2011-08-19T14:41:55Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6f8504c190eafdfd33667e71f996967c1fc9f13d",
+      "date": "2011-08-19T14:41:48Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "8045bc0936b89249da4c9a959b08854ff54e5987",
+      "date": "2011-08-19T14:34:51Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "619257b1f3c47b405d1e09c2f4a4804c401b80b8",
+      "date": "2011-08-19T13:55:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "eb5ea4e5e57a15880a2cc9ac16257c9e61dcc618",
+      "date": "2011-08-19T13:55:33Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "833a40efdad172241993abcf4f7aadedc7421c6e",
+      "date": "2011-07-05T20:34:07Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c3e621fff53f94397c53a9c2d6ad2633b192d16b",
+      "date": "2011-07-05T17:48:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7b11bb71463e84f5146b3d70ceeafb3ab23cad0b",
+      "date": "2011-07-05T17:41:27Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "2cdddf1fd071ba13be1c1f1153fc0e2607f9e5c0",
+      "date": "2011-07-05T17:06:16Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6d404c6ffa0add58d3eba443412756eac8d49e94",
+      "date": "2011-07-05T16:23:31Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "5b11d841b617285423031cc0c6bbd44309fdc17f",
+      "date": "2011-07-05T16:12:41Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "36de1eb88499eaa7ab22f19687ff8f0d268b101b",
+      "date": "2011-07-05T16:12:13Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "67f97be95a34927f273f29721e2c61a4889cd37a",
+      "date": "2011-05-27T01:52:19Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f4cad92b660e55eef569d1625dd393344b12c68a",
+      "date": "2011-05-20T17:59:48Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "48ceb72c1655dcfa69d9894566fee50ed3a5ceab",
+      "date": "2011-05-06T23:06:01Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0a6651898be5676fda68230f74a7a2aaaecc875b",
+      "date": "2011-05-06T22:54:16Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "561e44938ec9dbad1ed6fced2690257a02bfc330",
+      "date": "2011-03-20T02:03:25Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "39e5a44229be1d59f0a99900004d110de9297e5c",
+      "date": "2011-03-18T12:23:53Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "26a81b7f5ab3bfa2a072ff6f424ad07cbaedf5d8",
+      "date": "2011-03-18T12:10:26Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "3a1d235d3577d17c789d12ef3472138097b95e65",
+      "date": "2011-02-10T14:12:02Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "fd443e3661037da4d16496bb863079a1ca32497d",
+      "date": "2011-02-09T23:31:00Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "357eb4248bc6e9294d294f1bb469211b0a76c315",
+      "date": "2011-04-08T16:08:41Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "56808a4b16bea9d531c3d0fce6d3ea33eb69c2d7",
+      "date": "2010-06-03T13:12:54Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "325d0fb03d876ede6a10e687fd1a5b57e7848919",
+      "date": "2010-05-26T07:51:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 255420,
+      "date": "2010-05-27T10:02:31Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 350148,
+      "date": "2010-08-11T14:06:18Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 500157,
+      "date": "2010-10-28T18:23:56Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 500610,
+      "date": "2010-10-28T21:08:53Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 530627,
+      "date": "2010-11-10T01:46:35Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 787369,
+      "date": "2011-02-18T23:42:57Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 889012,
+      "date": "2011-03-18T12:21:31Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 996289,
+      "date": "2011-04-13T16:19:14Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 1092004,
+      "date": "2011-05-03T03:55:45Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 1096533,
+      "date": "2011-05-03T21:27:55Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 1097725,
+      "date": "2011-05-04T02:52:18Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 1132885,
+      "date": "2011-05-10T19:20:55Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 3358233,
+      "date": "2012-01-04T17:59:10Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 3653245,
+      "date": "2012-01-25T16:05:56Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 3720385,
+      "date": "2012-01-30T14:34:44Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 3760903,
+      "date": "2012-02-01T15:48:45Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 4644610,
+      "date": "2012-03-22T18:03:22Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 4835603,
+      "date": "2012-03-30T03:04:25Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 4881448,
+      "date": "2012-04-02T15:54:09Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 4882105,
+      "date": "2012-04-02T16:21:08Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 4883609,
+      "date": "2012-04-02T17:30:25Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 4887635,
+      "date": "2012-04-02T20:28:13Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 4888273,
+      "date": "2012-04-02T20:53:23Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 5071862,
+      "date": "2012-04-11T15:45:59Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 5074012,
+      "date": "2012-04-11T17:23:06Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 5074077,
+      "date": "2012-04-11T17:25:46Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 6254295,
+      "date": "2012-06-11T19:59:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16627598,
+      "date": "2013-04-19T02:53:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16628826,
+      "date": "2013-04-19T03:08:44Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16628877,
+      "date": "2013-04-19T03:11:32Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16629404,
+      "date": "2013-04-19T03:19:15Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16629887,
+      "date": "2013-04-19T03:23:18Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16630368,
+      "date": "2013-04-19T03:27:09Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16630377,
+      "date": "2013-04-19T03:27:13Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16630867,
+      "date": "2013-04-19T03:31:36Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633099,
+      "date": "2013-04-19T03:50:14Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633331,
+      "date": "2013-04-19T03:51:52Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633518,
+      "date": "2013-04-19T04:00:39Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633738,
+      "date": "2013-04-19T04:11:47Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16634292,
+      "date": "2013-04-19T04:22:37Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16655147,
+      "date": "2013-04-19T14:13:38Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16655511,
+      "date": "2013-04-19T14:21:17Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 42841108,
+      "date": "2014-05-12T14:48:29Z"
+    },
+    {
+      "dev_id": "cowboyd",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 43,
+      "date": "2012-04-04T13:58:56Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "2a42905ca40c5e7f6e8744b4b0b34e9d09a16d45",
+      "date": "2013-04-19T17:10:53Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "730971eb68d15a06dea21f7ca3032ef4dca42362",
+      "date": "2013-04-19T17:08:16Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "31e3ca7f48f939efa584de66b1947aeb74113023",
+      "date": "2013-04-19T15:36:36Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b6799165162e41b80113a856fe65b4f090894ec8",
+      "date": "2013-04-19T05:02:28Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0675b36a509cd926c95c0daab8ccde0e494df4c3",
+      "date": "2013-04-19T04:27:00Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "63b1012cf0cde47c3499eeaada233b80cf916d00",
+      "date": "2013-04-19T04:12:51Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d84c9225517ff1c5113480868b095ae1d266bf9e",
+      "date": "2013-04-19T04:11:20Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "b7afcaf45c7bb7782125119d5517c0b7ec4ee2e4",
+      "date": "2013-04-19T03:11:16Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "5ba29a8435bb521ff8edf929718f6759aa910d35",
+      "date": "2013-04-19T02:33:02Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0ade77c4622ec5b7246d4640ad5a62a35f7743ab",
+      "date": "2013-04-19T00:57:36Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1bde2a30d36cf5418a2f000c33c9654f2417f5b4",
+      "date": "2013-04-19T00:50:49Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "6c1476df52caef806dafb233bdbf3779a66d80f8",
+      "date": "2013-04-18T22:26:31Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "52d207b95bcfbba9e5c841e56d480e1d9a26ecd9",
+      "date": "2013-04-19T00:09:16Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "7a2781b1274eb34071fc13340d71c7cf5f2ad399",
+      "date": "2013-04-18T22:07:02Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "bc12ee151d3d12250119d0d4d4e695a70d9546f1",
+      "date": "2013-04-18T21:56:16Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "43119eab109b108cb775bfe2ff8bded0849f3f2c",
+      "date": "2013-04-18T21:51:21Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d27d82f6cf33a6a707fe54e2c90487ad7dcebfa2",
+      "date": "2013-04-18T21:51:02Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "c85f1d285882055590a9f489af970939167cff83",
+      "date": "2013-04-18T21:50:31Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "dbf472eebb85c421f622b8bc284c2973b8825a8f",
+      "date": "2013-04-18T21:49:14Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "64d5d5bd18943e5a51109cceae46722887b71e0e",
+      "date": "2013-04-18T21:48:21Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "1d511d572b037d0bb26c5be930f7d5a5ff8db38a",
+      "date": "2013-04-18T21:40:20Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a2f7b6482f732f4a4796adfac07dbad3da078981",
+      "date": "2011-12-30T16:36:41Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "0fa62d76956081d77d0b41099c22ef1ad082577a",
+      "date": "2011-04-14T02:57:34Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a706162f2c30233af488fca33cf7a0be83d3a68c",
+      "date": "2011-04-13T19:59:55Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "d686e4736d0a4143ef146fa4decfc775045d045d",
+      "date": "2011-04-13T19:57:44Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "2da52a0309f162681d980b51a563661cffbd700a",
+      "date": "2011-04-13T15:28:35Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "a626a9ac0b80c962afa0f79d8491b191b90fb797",
+      "date": "2011-04-13T15:20:25Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "f8dfa36e9e1ebe7d23333763d0f3e42465685a92",
+      "date": "2011-04-13T05:25:35Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "commit",
+      "id": "08eead227c855c31c06953d9eec40fd955021b8f",
+      "date": "2011-04-13T04:38:14Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "e0bf9bdf72a36ee668850403b1a8d61058684240",
+      "date": "2008-10-18T01:08:29Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "b21133af7981f71c97c16dc34fb6f77f2f3c368d",
+      "date": "2008-10-18T01:08:29Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "178e6ec77aee28abd2f3abebbaadf07f4326ac6b",
+      "date": "2008-10-18T01:05:32Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "commit",
+      "id": "570dfb799d7365d66e75b355f663ec287f5f2e83",
+      "date": "2008-10-18T01:05:32Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 532095,
+      "date": "2010-11-10T16:43:57Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 532134,
+      "date": "2010-11-10T16:55:25Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 532136,
+      "date": "2010-11-10T16:55:44Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 532144,
+      "date": "2010-11-10T16:57:26Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 532491,
+      "date": "2010-11-10T18:58:15Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 543031,
+      "date": "2010-11-15T17:57:53Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 996139,
+      "date": "2011-04-13T15:44:23Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 996293,
+      "date": "2011-04-13T16:20:05Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 3314814,
+      "date": "2011-12-30T16:52:03Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16612794,
+      "date": "2013-04-18T21:44:16Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16613439,
+      "date": "2013-04-18T21:53:00Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16613572,
+      "date": "2013-04-18T21:54:50Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16613673,
+      "date": "2013-04-18T21:56:11Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16615990,
+      "date": "2013-04-18T22:28:48Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16622042,
+      "date": "2013-04-19T00:52:21Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16622227,
+      "date": "2013-04-19T00:59:30Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16626230,
+      "date": "2013-04-19T02:43:22Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16626362,
+      "date": "2013-04-19T02:44:13Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16626377,
+      "date": "2013-04-19T02:44:18Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16628795,
+      "date": "2013-04-19T03:06:25Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16628807,
+      "date": "2013-04-19T03:07:16Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16628890,
+      "date": "2013-04-19T03:12:34Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16628907,
+      "date": "2013-04-19T03:13:46Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16629001,
+      "date": "2013-04-19T03:15:34Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16629731,
+      "date": "2013-04-19T03:21:57Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16629877,
+      "date": "2013-04-19T03:23:13Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16630162,
+      "date": "2013-04-19T03:25:35Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16630608,
+      "date": "2013-04-19T03:29:12Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16631010,
+      "date": "2013-04-19T03:32:57Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16631172,
+      "date": "2013-04-19T03:34:23Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16631331,
+      "date": "2013-04-19T03:35:41Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16632595,
+      "date": "2013-04-19T03:46:09Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633323,
+      "date": "2013-04-19T03:51:48Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633361,
+      "date": "2013-04-19T03:53:19Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633387,
+      "date": "2013-04-19T03:54:20Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633428,
+      "date": "2013-04-19T03:56:11Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633661,
+      "date": "2013-04-19T04:07:48Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633756,
+      "date": "2013-04-19T04:12:43Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633775,
+      "date": "2013-04-19T04:13:28Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16633788,
+      "date": "2013-04-19T04:13:54Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16634312,
+      "date": "2013-04-19T04:22:56Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16660885,
+      "date": "2013-04-19T15:44:17Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "com",
+      "id": 16660915,
+      "date": "2013-04-19T15:44:59Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 21729,
+      "date": "2009-06-29T01:36:19Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 21730,
+      "date": "2009-06-29T01:36:38Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 21731,
+      "date": "2009-06-29T01:37:23Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 21733,
+      "date": "2009-06-29T01:40:13Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "cucumber/cucumber-ruby",
+      "type": "com",
+      "id": 21734,
+      "date": "2009-06-29T01:45:13Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 75,
+      "date": "2013-04-19T05:25:15Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 74,
+      "date": "2013-04-18T22:27:53Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 73,
+      "date": "2013-04-18T21:50:04Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 72,
+      "date": "2013-04-18T21:48:57Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "pr",
+      "id": 71,
+      "date": "2013-04-18T21:43:32Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 44,
+      "date": "2012-04-10T23:25:59Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 13,
+      "date": "2011-04-13T15:38:50Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 9,
+      "date": "2010-11-15T18:00:59Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 8,
+      "date": "2010-11-15T18:00:01Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 6,
+      "date": "2010-11-10T16:52:03Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 5,
+      "date": "2010-11-10T16:45:04Z"
+    },
+    {
+      "dev_id": "drnic",
+      "repo": "jenkinsci/jenkins.rb",
+      "type": "issue",
+      "id": 1,
+      "date": "2010-05-27T08:07:57Z"
+    }
+  ]
+}

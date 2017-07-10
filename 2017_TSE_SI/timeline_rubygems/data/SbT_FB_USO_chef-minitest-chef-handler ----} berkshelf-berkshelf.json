@@ -1,0 +1,2923 @@
+{
+  "user_repo": "chef/minitest-chef-handler",
+  "dep_repo": "berkshelf/berkshelf",
+  "dep_date": "2013-03-24 18:56:38 UTC",
+  "dep_commit_id": "fb14339d6cdd948c8475d54282b5ca54657b9cad",
+  "social_date": "2012-08-21 01:43:49 UTC",
+  "devs": [
+    "lamont-granquist",
+    "tknerr",
+    "matschaffer",
+    "erikh",
+    "dpetzel",
+    "grosser",
+    "btm"
+  ],
+  "interactions": [
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "9f60abbc4726315483495a2be21cecc7f81e4b91",
+      "date": "2015-07-07T17:22:38Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "566346d068fd98f943fc1d6c7bf6701029ef7228",
+      "date": "2014-12-06T19:02:34Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "c1fab2de3d05e70b15ec513b1d7469b319545dc0",
+      "date": "2014-04-17T18:30:33Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65909714,
+      "date": "2014-12-06T19:07:07Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65910464,
+      "date": "2014-12-06T19:30:10Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65946507,
+      "date": "2014-12-07T18:02:29Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65955956,
+      "date": "2014-12-07T21:28:25Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101758196,
+      "date": "2015-05-13T17:50:50Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101769946,
+      "date": "2015-05-13T18:32:45Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101770624,
+      "date": "2015-05-13T18:35:12Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 118117205,
+      "date": "2015-07-02T18:29:40Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119275925,
+      "date": "2015-07-07T17:27:44Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119276676,
+      "date": "2015-07-07T17:30:57Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119277317,
+      "date": "2015-07-07T17:33:49Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119278674,
+      "date": "2015-07-07T17:37:00Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 30464783,
+      "date": "2013-12-12T21:41:31Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 33526456,
+      "date": "2014-01-28T21:17:41Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40425319,
+      "date": "2014-04-14T22:20:14Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40426059,
+      "date": "2014-04-14T22:29:38Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40427998,
+      "date": "2014-04-14T22:54:25Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40544195,
+      "date": "2014-04-15T22:51:07Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40654618,
+      "date": "2014-04-16T21:28:26Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40757733,
+      "date": "2014-04-17T20:17:00Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40757852,
+      "date": "2014-04-17T20:18:04Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 42090500,
+      "date": "2014-05-03T00:09:26Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 47294460,
+      "date": "2014-06-26T23:58:01Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 47295145,
+      "date": "2014-06-27T00:08:56Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 60469572,
+      "date": "2014-10-25T02:59:47Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 83787972,
+      "date": "2015-03-19T22:35:50Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 83789453,
+      "date": "2015-03-19T22:47:03Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 85,
+      "date": "2014-12-06T19:06:24Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 1136,
+      "date": "2014-04-17T18:36:01Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 1130,
+      "date": "2014-04-15T17:19:17Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 1126,
+      "date": "2014-04-12T18:19:51Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 999,
+      "date": "2014-01-28T20:17:49Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "9f0f165349c99df1c5e5fcafec2fa45d1ba5acf3",
+      "date": "2013-06-03T06:29:32Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "20844aa1d7c65d0e0dc7002947f59ed972453fcd",
+      "date": "2012-11-13T07:32:36Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "4172ba6fdcb4ddd669bef9607f5cbe5e0963404a",
+      "date": "2012-11-12T16:09:13Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "114c02c18293fa1a21425a99418101702b6c1037",
+      "date": "2012-10-28T16:03:06Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "970ac8358dd12ad8839cc4eac8aecec895b9badb",
+      "date": "2012-10-28T15:59:14Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8086696,
+      "date": "2012-08-28T10:01:23Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8093078,
+      "date": "2012-08-28T14:20:29Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 8925925,
+      "date": "2012-09-27T05:00:06Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 8926016,
+      "date": "2012-09-27T05:08:00Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 8929558,
+      "date": "2012-09-27T08:35:36Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 8929589,
+      "date": "2012-09-27T08:36:45Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9045516,
+      "date": "2012-10-01T19:07:42Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9732294,
+      "date": "2012-10-24T08:57:35Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9846055,
+      "date": "2012-10-28T14:09:57Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9846339,
+      "date": "2012-10-28T14:39:53Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9846729,
+      "date": "2012-10-28T15:26:30Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9846986,
+      "date": "2012-10-28T15:56:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9871714,
+      "date": "2012-10-29T15:44:55Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9990871,
+      "date": "2012-11-01T18:40:42Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 10943548,
+      "date": "2012-12-03T07:16:06Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 10988455,
+      "date": "2012-12-04T08:40:48Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 11185905,
+      "date": "2012-12-10T09:03:46Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 13076880,
+      "date": "2013-02-04T13:32:30Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 13082876,
+      "date": "2013-02-04T15:49:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 13085014,
+      "date": "2013-02-04T16:29:06Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 13086973,
+      "date": "2013-02-04T17:05:22Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 13087951,
+      "date": "2013-02-04T17:23:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 13167313,
+      "date": "2013-02-06T05:03:22Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 14686208,
+      "date": "2013-03-10T18:27:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 14689410,
+      "date": "2013-03-10T21:13:32Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 15326171,
+      "date": "2013-03-22T23:18:48Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18263585,
+      "date": "2013-05-22T08:17:26Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18308668,
+      "date": "2013-05-22T21:18:46Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18310837,
+      "date": "2013-05-22T21:59:14Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18327975,
+      "date": "2013-05-23T07:39:52Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18352430,
+      "date": "2013-05-23T15:50:22Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18390415,
+      "date": "2013-05-24T07:29:20Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18390577,
+      "date": "2013-05-24T07:34:14Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18707563,
+      "date": "2013-05-30T20:53:17Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18709072,
+      "date": "2013-05-30T21:17:04Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18709572,
+      "date": "2013-05-30T21:26:23Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18712888,
+      "date": "2013-05-30T22:35:20Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18714252,
+      "date": "2013-05-30T23:08:44Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18715572,
+      "date": "2013-05-30T23:44:31Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18715811,
+      "date": "2013-05-30T23:51:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18716601,
+      "date": "2013-05-31T00:15:04Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18716796,
+      "date": "2013-05-31T00:21:26Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18718051,
+      "date": "2013-05-31T01:06:12Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18812611,
+      "date": "2013-06-02T19:54:59Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18812643,
+      "date": "2013-06-02T19:56:42Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18812777,
+      "date": "2013-06-02T20:04:48Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18814855,
+      "date": "2013-06-02T22:00:01Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18814862,
+      "date": "2013-06-02T22:00:28Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18823619,
+      "date": "2013-06-03T06:18:29Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18823861,
+      "date": "2013-06-03T06:27:39Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18826302,
+      "date": "2013-06-03T07:48:05Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18827175,
+      "date": "2013-06-03T08:11:18Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18827259,
+      "date": "2013-06-03T08:13:26Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 18827410,
+      "date": "2013-06-03T08:17:07Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19005339,
+      "date": "2013-06-05T20:14:17Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19012311,
+      "date": "2013-06-05T22:07:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19013375,
+      "date": "2013-06-05T22:26:51Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19095113,
+      "date": "2013-06-07T08:32:44Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19230018,
+      "date": "2013-06-10T22:12:41Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19234816,
+      "date": "2013-06-11T00:29:50Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19234921,
+      "date": "2013-06-11T00:32:54Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19235885,
+      "date": "2013-06-11T01:09:33Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19235950,
+      "date": "2013-06-11T01:12:20Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19236257,
+      "date": "2013-06-11T01:26:16Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19236945,
+      "date": "2013-06-11T01:57:12Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19246344,
+      "date": "2013-06-11T07:15:44Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19246446,
+      "date": "2013-06-11T07:19:33Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19322812,
+      "date": "2013-06-12T12:41:53Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19323116,
+      "date": "2013-06-12T12:48:31Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19554550,
+      "date": "2013-06-17T15:54:55Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19573107,
+      "date": "2013-06-17T20:39:07Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19593948,
+      "date": "2013-06-18T06:48:34Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19625054,
+      "date": "2013-06-18T16:59:37Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19663214,
+      "date": "2013-06-19T05:03:55Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 19846864,
+      "date": "2013-06-21T23:57:07Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20027616,
+      "date": "2013-06-26T05:17:28Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20229732,
+      "date": "2013-06-29T13:23:21Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20243990,
+      "date": "2013-06-30T08:27:49Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20307798,
+      "date": "2013-07-01T20:24:42Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20310663,
+      "date": "2013-07-01T21:11:38Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20310712,
+      "date": "2013-07-01T21:12:17Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20311032,
+      "date": "2013-07-01T21:17:29Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20311593,
+      "date": "2013-07-01T21:26:01Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20311986,
+      "date": "2013-07-01T21:31:48Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20326533,
+      "date": "2013-07-02T04:58:37Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20327321,
+      "date": "2013-07-02T05:29:46Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20484996,
+      "date": "2013-07-04T16:21:30Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20551194,
+      "date": "2013-07-06T08:38:25Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20586556,
+      "date": "2013-07-08T05:41:13Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 20654335,
+      "date": "2013-07-09T05:34:55Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 21023063,
+      "date": "2013-07-16T06:06:12Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 21050971,
+      "date": "2013-07-16T15:42:52Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 21163347,
+      "date": "2013-07-18T05:26:51Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 21387322,
+      "date": "2013-07-23T01:13:33Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 21533557,
+      "date": "2013-07-25T05:10:19Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 21584871,
+      "date": "2013-07-25T21:09:39Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 22615117,
+      "date": "2013-08-14T05:02:21Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 22615488,
+      "date": "2013-08-14T05:17:21Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 22617564,
+      "date": "2013-08-14T06:37:27Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 22622136,
+      "date": "2013-08-14T08:44:03Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 22686002,
+      "date": "2013-08-15T05:31:26Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 25152544,
+      "date": "2013-09-26T08:54:39Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 25178768,
+      "date": "2013-09-26T15:46:59Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 25179767,
+      "date": "2013-09-26T15:58:25Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 25181358,
+      "date": "2013-09-26T16:17:51Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 25182552,
+      "date": "2013-09-26T16:34:04Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 26728197,
+      "date": "2013-10-21T15:38:29Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 27035086,
+      "date": "2013-10-24T21:58:37Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 27631889,
+      "date": "2013-11-02T20:35:22Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 33865521,
+      "date": "2014-02-01T07:13:37Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 33869814,
+      "date": "2014-02-01T12:02:46Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 34790804,
+      "date": "2014-02-11T18:52:54Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 40890497,
+      "date": "2014-04-20T08:33:45Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 44805606,
+      "date": "2014-06-02T06:34:18Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 44894417,
+      "date": "2014-06-02T21:33:51Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 45025293,
+      "date": "2014-06-03T21:49:49Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46015522,
+      "date": "2014-06-13T14:11:17Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46019817,
+      "date": "2014-06-13T14:46:38Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46043996,
+      "date": "2014-06-13T18:22:31Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46045264,
+      "date": "2014-06-13T18:34:33Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46045788,
+      "date": "2014-06-13T18:39:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46046126,
+      "date": "2014-06-13T18:42:16Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46053472,
+      "date": "2014-06-13T19:57:38Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46053635,
+      "date": "2014-06-13T19:59:04Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46056823,
+      "date": "2014-06-13T20:33:59Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46080545,
+      "date": "2014-06-14T07:07:25Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46082126,
+      "date": "2014-06-14T08:39:53Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46116952,
+      "date": "2014-06-15T14:22:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46125539,
+      "date": "2014-06-15T19:40:54Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 46553690,
+      "date": "2014-06-19T12:24:24Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 69119380,
+      "date": "2015-01-08T00:49:13Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 139385783,
+      "date": "2015-09-10T21:34:16Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 712,
+      "date": "2013-07-01T21:07:01Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 602,
+      "date": "2013-06-03T06:46:29Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 216,
+      "date": "2012-11-13T07:35:03Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 210,
+      "date": "2012-11-12T16:11:11Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 176,
+      "date": "2012-10-28T16:02:12Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 31,
+      "date": "2012-08-28T09:59:04Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 1378,
+      "date": "2015-01-26T21:15:13Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 792,
+      "date": "2013-08-05T05:55:08Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 724,
+      "date": "2013-07-04T06:51:38Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 709,
+      "date": "2013-06-29T13:19:54Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 691,
+      "date": "2013-06-21T19:09:17Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 676,
+      "date": "2013-06-18T06:47:08Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 633,
+      "date": "2013-06-10T21:45:50Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 601,
+      "date": "2013-06-02T20:02:30Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 597,
+      "date": "2013-05-30T22:18:05Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 594,
+      "date": "2013-05-30T20:35:03Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 263,
+      "date": "2012-12-08T00:03:42Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 243,
+      "date": "2012-11-23T11:49:55Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 215,
+      "date": "2012-11-13T07:27:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 209,
+      "date": "2012-11-12T16:07:20Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 140,
+      "date": "2012-09-26T16:04:45Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 139,
+      "date": "2012-09-26T14:19:53Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "ace7729a6a9e31d69d04571ecfba464e6df52308",
+      "date": "2012-08-20T00:40:54Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "300ad1e1c30443be5862ef9aa45e1b686a3571bf",
+      "date": "2012-08-19T12:10:36Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "b16c0cedecab2ed42bf24a71ac6c8558835474b4",
+      "date": "2012-08-19T02:52:05Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "f8feff38b087689cd499562ccb336af4a11d5138",
+      "date": "2012-08-21T01:47:14Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "447202363ca954003e0f8908ad4ba35dde400c3e",
+      "date": "2012-08-21T01:46:45Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "983d41e1ecbc9788c121ab3f1fc4f05d0b858bdb",
+      "date": "2012-08-21T01:43:49Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7852704,
+      "date": "2012-08-19T12:11:59Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7858590,
+      "date": "2012-08-20T00:42:00Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7952306,
+      "date": "2012-08-22T21:18:05Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 7889979,
+      "date": "2012-08-21T02:38:20Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9794589,
+      "date": "2012-10-25T21:20:09Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9800925,
+      "date": "2012-10-26T02:05:23Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 9810784,
+      "date": "2012-10-26T12:06:02Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 30,
+      "date": "2012-08-19T02:57:03Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 110,
+      "date": "2012-08-21T01:49:36Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 109,
+      "date": "2012-08-21T01:44:18Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 29,
+      "date": "2012-08-16T03:43:14Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 170,
+      "date": "2012-10-25T13:40:13Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "01a64dc765153c0b04ebba53cfc2177471aea32a",
+      "date": "2012-07-09T01:09:17Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "9a68497517abf22d992d240af57349330e55aa2c",
+      "date": "2012-07-09T01:08:49Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "1c970ad7caf53913fc7a8f3587b4abd68b109407",
+      "date": "2012-07-09T01:08:03Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "12b6648a6e10309b536a7a160bdb351f2fea292b",
+      "date": "2012-07-09T01:05:51Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "4de23dca436b07c51ba637f53af2235222826b86",
+      "date": "2012-07-09T01:05:31Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "12a32fadc4eb35cd4f7ee7a24533a3fe9e82ee3f",
+      "date": "2012-07-09T01:05:16Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "6c5598c7fa89631b91f783e9977a380c4c307f10",
+      "date": "2012-07-05T08:07:25Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "963a645c34b26d0781e0aa5a14f609408697e441",
+      "date": "2012-07-05T07:41:38Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "6b83da9bcfa3f1d051ee96a1bab4ad7eb5ed065a",
+      "date": "2012-06-29T09:57:48Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "94932ac2ebcd427df4825eff4127662e718aa16b",
+      "date": "2012-06-29T09:54:47Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "b56dc12599adaa052f75f968712517d1579fd3b8",
+      "date": "2012-06-29T09:53:37Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "f3fa8b1f6c71cc594062749200497fa56c2a59eb",
+      "date": "2012-06-29T09:48:33Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "4f4fc67b4633f67153334b5da2c92859710a359b",
+      "date": "2012-06-29T11:11:00Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "cbb126cda3d432af98645bfa72c632e5567a3fb0",
+      "date": "2012-06-29T09:21:07Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "c7634b29148e0603ecdd0233f2c71fc07cf126d5",
+      "date": "2012-06-29T09:20:46Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "5f68d49adf2d5d59f7907dba8a0cae06342d608b",
+      "date": "2012-05-24T13:13:50Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "dd24a859b3b104c0dfe60667371bfbb31f6d3f00",
+      "date": "2012-05-24T13:13:50Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "5e31030b0cb093be098b4dfead0bd2a614acfab1",
+      "date": "2012-05-23T16:02:16Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "d362f65c110a4d554b851736e76cf9a1ad204e2b",
+      "date": "2012-05-23T06:02:20Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "53d80e2d4239241e4ecf051a758e4c5cebd61ded",
+      "date": "2012-05-14T04:20:33Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "4f9752b22d2f029c095f9bd509d419f788fb4f01",
+      "date": "2012-05-14T03:47:13Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "1a459b51bd2057835c098da5badb22328fda9d65",
+      "date": "2012-05-12T16:21:16Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "9a26b17de66052998964953d16cd966f1a70cccc",
+      "date": "2012-05-12T16:18:02Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "1f24c6d895a8be9d5a8b79d55fed9df250cd5b83",
+      "date": "2012-05-12T15:44:41Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "b2e74ae326ee9a457d4a7b8676e30c012d4e21ad",
+      "date": "2012-05-12T15:32:35Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "db37e0e4d2ba1748a3ed87e8831f4bb5a1a30797",
+      "date": "2012-05-12T15:25:43Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "f0b44105ba4ebd78ee42481e34631d2922cb480e",
+      "date": "2012-05-13T14:18:57Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "b6b99f91f6c1c7e9797e351d341d3deb4a06a2d7",
+      "date": "2012-05-12T16:21:16Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "fcd58b973355eaba7c3f24aba303f9e3e22b9c3f",
+      "date": "2012-05-12T16:18:02Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "01452a761fb9856f3e0101efa9c90232f991f284",
+      "date": "2012-05-12T15:44:41Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "a43699ca54a5c30c0ac156dde134fcbbd788788d",
+      "date": "2012-05-12T15:32:35Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "2e1a0c9bf234f87053e4c20762b3d47e1965f68c",
+      "date": "2012-05-12T15:25:43Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "940252f9bee80a5e38c2b1a6d140fdbc439fb972",
+      "date": "2012-05-12T15:11:54Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "07f4310e4a9dd13aae539306c7092d12f9db321d",
+      "date": "2012-05-07T14:49:51Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "f8015d378aa40048cc5c969eb16c740f1da69867",
+      "date": "2012-05-05T18:50:48Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "fb0fca3b1c48280062d8eab1dfeb1927887612d0",
+      "date": "2012-05-05T18:39:44Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "948f460873b9d81c38c1a308520b052c13255799",
+      "date": "2012-05-05T18:10:41Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "64d47f00d542918f682810f13077624335881301",
+      "date": "2012-05-05T10:22:46Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "c4ca3ac07243c0e957aa5677c03bf96c908f0c12",
+      "date": "2012-05-05T10:12:03Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "71464518141cd99c647c450649585cb5177adc49",
+      "date": "2012-05-05T10:07:48Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "c6fe27f9c470e6fee1edb439e1f303617250f3ce",
+      "date": "2012-05-05T08:55:46Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "4452249b64ad4171b83a3f20d10181e16431d89e",
+      "date": "2012-05-05T08:39:13Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "618bdc0222348d9f97106ae16242a1565c898523",
+      "date": "2012-05-05T00:34:46Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "cbc189d1f27e4179b4f87a4b52b71dea89188499",
+      "date": "2012-05-03T21:18:48Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "4d7fc0d9922cb4cbaae4831687129adda631e2c6",
+      "date": "2012-05-03T20:17:18Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "5f01a5cf51c6f8d49041c4b933992541581e3efc",
+      "date": "2012-05-04T00:58:57Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "bb9bdccb2eb51b9cc7e64a2912e4f4319f8573a6",
+      "date": "2012-05-03T19:28:25Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "f4568cf49dd98c67d40b1319c73937254256eb7d",
+      "date": "2012-05-03T17:46:47Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "a55863de07cd7c6277fc2e5aa96ed58ef0ff0779",
+      "date": "2012-05-03T17:44:39Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "a63a8331d4846110dbeb9cbae2fd9c22dc59844a",
+      "date": "2012-05-03T17:43:40Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "4ffa706ff87c7a368a8bb5cece014d8a70e6cd01",
+      "date": "2012-05-03T17:33:13Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "16f2e1c0f20cf92ea7848327abc2843cc1f7fb0e",
+      "date": "2012-05-03T17:30:27Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "a40055e6dd823dc5e7e98b88687d2d5636a14bc8",
+      "date": "2012-05-03T17:25:12Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "b72348fe04d74c7567cfd0c23af7b8d609032ef7",
+      "date": "2012-05-03T17:17:47Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "ce11b042f165a58079f395df9ef2eba802ead667",
+      "date": "2012-05-03T16:03:19Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "5f45d52c51cd98d292c5928e6d42c1cdecf4a4bf",
+      "date": "2012-05-03T15:47:38Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "3d2e0a4b8a51a06a9e6d3db3a527afb38850f891",
+      "date": "2012-05-03T04:09:12Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "192652c749ce761042500002269a0ca3053c2bb7",
+      "date": "2012-05-03T03:43:52Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "70813fa6e38d34067187f5427c53f488f4d6c640",
+      "date": "2012-05-03T03:18:31Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "8dd0f69e509458b8c6639b9b1262aad3d89460c2",
+      "date": "2012-05-03T03:17:00Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "ac68060092e3083a8a7c3b5afc831a2ec2ec0ceb",
+      "date": "2012-05-03T03:16:23Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "906eb1aa0deac5379ce11459bfdaaf92b20df2d7",
+      "date": "2012-05-03T03:16:05Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "b3985c197f96d862f7a527b5bcd2cf68b018fed4",
+      "date": "2012-05-03T02:11:08Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "9ad763d92a8fd2364b04b56e67d1952b7ad61bd1",
+      "date": "2012-05-03T02:10:56Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "d35c0266ae043c951b7d04d97f55bb58948b1006",
+      "date": "2012-05-03T02:05:49Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "f718c8f0b0252fb1a84ed92d193fa92dc983d5d0",
+      "date": "2012-05-03T01:59:23Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "3157b09c91f3d82a32e3ccc7e42cbcd938ef6b3d",
+      "date": "2012-05-03T01:56:01Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "commit",
+      "id": "1c1f61f48e05f53f3b218864b0a021fbbf5f23ba",
+      "date": "2012-05-03T01:54:02Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9999031,
+      "date": "2012-11-01T22:49:49Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9999046,
+      "date": "2012-11-01T22:50:17Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5480556,
+      "date": "2012-05-03T03:59:00Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5502153,
+      "date": "2012-05-04T00:48:00Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5525509,
+      "date": "2012-05-05T08:57:15Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5525938,
+      "date": "2012-05-05T10:13:16Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5551762,
+      "date": "2012-05-07T14:53:03Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5682072,
+      "date": "2012-05-14T03:27:07Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5682075,
+      "date": "2012-05-14T03:28:10Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5682220,
+      "date": "2012-05-14T03:47:36Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5682296,
+      "date": "2012-05-14T03:59:14Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5682517,
+      "date": "2012-05-14T04:29:55Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5705415,
+      "date": "2012-05-15T00:03:20Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5729953,
+      "date": "2012-05-15T23:07:17Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5883837,
+      "date": "2012-05-23T20:34:00Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5899767,
+      "date": "2012-05-24T13:14:39Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5958817,
+      "date": "2012-05-28T03:52:51Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 5999718,
+      "date": "2012-05-30T00:44:34Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6000616,
+      "date": "2012-05-30T02:00:57Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6029231,
+      "date": "2012-05-31T07:01:20Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6052217,
+      "date": "2012-06-01T02:12:00Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6148816,
+      "date": "2012-06-06T12:03:47Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6176897,
+      "date": "2012-06-07T14:18:16Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6445383,
+      "date": "2012-06-20T05:28:59Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6653952,
+      "date": "2012-06-29T07:39:39Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6654077,
+      "date": "2012-06-29T07:48:48Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6688156,
+      "date": "2012-06-30T20:14:34Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6688172,
+      "date": "2012-06-30T20:16:21Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6688564,
+      "date": "2012-06-30T21:14:41Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6773351,
+      "date": "2012-07-05T08:08:52Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 6836860,
+      "date": "2012-07-09T01:12:46Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 14271676,
+      "date": "2013-03-01T03:31:38Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 14272612,
+      "date": "2013-03-01T04:22:48Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 14274980,
+      "date": "2013-03-01T06:28:33Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 392,
+      "date": "2013-03-01T03:23:14Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 69,
+      "date": "2012-06-29T11:13:12Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 68,
+      "date": "2012-06-29T09:56:35Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 67,
+      "date": "2012-06-29T09:23:05Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 41,
+      "date": "2012-05-26T01:12:40Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 39,
+      "date": "2012-05-24T13:14:30Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 34,
+      "date": "2012-05-23T16:05:13Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 33,
+      "date": "2012-05-23T06:02:25Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 23,
+      "date": "2012-05-14T04:21:37Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 21,
+      "date": "2012-05-13T14:19:52Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 20,
+      "date": "2012-05-12T16:20:04Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 19,
+      "date": "2012-05-12T15:12:30Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 13,
+      "date": "2012-05-07T14:52:08Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 12,
+      "date": "2012-05-05T10:12:50Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 11,
+      "date": "2012-05-05T08:56:56Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 10,
+      "date": "2012-05-05T00:37:21Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 7,
+      "date": "2012-05-03T17:48:09Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 6,
+      "date": "2012-05-03T16:05:32Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 5,
+      "date": "2012-05-03T03:47:17Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 3,
+      "date": "2012-05-03T03:19:17Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 2,
+      "date": "2012-05-03T02:12:11Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 1,
+      "date": "2012-05-03T01:54:58Z"
+    },
+    {
+      "dev_id": "erikh",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 82,
+      "date": "2012-07-09T01:53:23Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "c73f308fcb6e513fc9013a0e9931f9e3f4eb95d8",
+      "date": "2014-12-06T16:02:37Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65883894,
+      "date": "2014-12-06T03:36:13Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 108907460,
+      "date": "2015-06-04T13:57:44Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 108997178,
+      "date": "2015-06-04T18:17:27Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 115343592,
+      "date": "2015-06-25T17:52:24Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 10344488,
+      "date": "2012-11-13T21:29:33Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 12702708,
+      "date": "2013-01-25T14:30:12Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146279512,
+      "date": "2015-10-07T18:02:46Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146284940,
+      "date": "2015-10-07T18:24:53Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146292460,
+      "date": "2015-10-07T18:52:48Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146301940,
+      "date": "2015-10-07T19:22:45Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146681671,
+      "date": "2015-10-08T20:51:49Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146686021,
+      "date": "2015-10-08T21:10:27Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146691227,
+      "date": "2015-10-08T21:29:04Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146877149,
+      "date": "2015-10-09T13:53:03Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146946215,
+      "date": "2015-10-09T17:50:44Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 146949885,
+      "date": "2015-10-09T18:05:58Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 84,
+      "date": "2014-12-06T16:07:33Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "pr",
+      "id": 1367,
+      "date": "2015-01-11T14:08:14Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 1466,
+      "date": "2015-10-08T20:45:58Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 1464,
+      "date": "2015-10-07T17:53:57Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 221,
+      "date": "2012-11-13T20:56:45Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "bb17d7628b98fd3414b27e67863408fed778ab57",
+      "date": "2013-03-27T05:24:24Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "40a728fe4c7a50f2012c570527af58a1d6e72c6f",
+      "date": "2013-03-27T05:22:33Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "24a0e754d49dbc57792909b4561e69eb8d744844",
+      "date": "2013-03-27T01:43:55Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "fe4ed673ebcba5748bba13eed70e622c5892d879",
+      "date": "2013-03-26T05:37:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "fb14339d6cdd948c8475d54282b5ca54657b9cad",
+      "date": "2013-03-23T19:11:24Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "f391fb15cfda9bac30f3599e7c25a46cb66eead5",
+      "date": "2013-03-24T14:31:07Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "350d308ec095b175fe2f9d46816ebfecc6528867",
+      "date": "2013-03-23T15:50:46Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "fe9029f7db4a42ff8111a602844eee7291966dc4",
+      "date": "2013-02-09T05:51:18Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13320124,
+      "date": "2013-02-08T23:28:05Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13321496,
+      "date": "2013-02-08T23:55:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14271883,
+      "date": "2013-03-01T03:42:56Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14720204,
+      "date": "2013-03-11T15:37:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14720504,
+      "date": "2013-03-11T15:42:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15339287,
+      "date": "2013-03-23T15:57:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15340999,
+      "date": "2013-03-23T17:32:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15341109,
+      "date": "2013-03-23T17:37:24Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15359888,
+      "date": "2013-03-24T14:36:03Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15365990,
+      "date": "2013-03-24T18:58:01Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15562152,
+      "date": "2013-03-28T00:40:03Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15656553,
+      "date": "2013-03-29T19:25:40Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 14583383,
+      "date": "2013-03-07T20:13:13Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 14583615,
+      "date": "2013-03-07T20:17:54Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 15396029,
+      "date": "2013-03-25T14:26:45Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 15462493,
+      "date": "2013-03-26T14:48:36Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 15483791,
+      "date": "2013-03-26T19:43:57Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 15999979,
+      "date": "2013-04-06T17:15:46Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 17683531,
+      "date": "2013-05-09T19:10:11Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 17685912,
+      "date": "2013-05-09T19:55:08Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 17685956,
+      "date": "2013-05-09T19:56:00Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 17686845,
+      "date": "2013-05-09T20:11:55Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 17688214,
+      "date": "2013-05-09T20:36:57Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 17692560,
+      "date": "2013-05-09T21:56:55Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 54,
+      "date": "2013-03-27T01:48:25Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 53,
+      "date": "2013-03-23T19:12:25Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 52,
+      "date": "2013-03-23T15:55:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 46,
+      "date": "2013-02-09T05:52:08Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 45,
+      "date": "2013-02-08T22:44:21Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 50,
+      "date": "2013-03-05T00:16:17Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 49,
+      "date": "2013-03-04T23:48:13Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 404,
+      "date": "2013-03-11T15:49:42Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "berkshelf/berkshelf",
+      "type": "issue",
+      "id": 400,
+      "date": "2013-03-07T19:55:59Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5049205,
+      "date": "2012-04-10T15:53:37Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5049353,
+      "date": "2012-04-10T16:00:29Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5049684,
+      "date": "2012-04-10T16:16:48Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5124512,
+      "date": "2012-04-13T20:39:04Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 72787582,
+      "date": "2015-02-04T04:09:13Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101759919,
+      "date": "2015-05-13T17:58:42Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101762743,
+      "date": "2015-05-13T18:11:57Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101766101,
+      "date": "2015-05-13T18:20:15Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101767678,
+      "date": "2015-05-13T18:24:55Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101772560,
+      "date": "2015-05-13T18:43:01Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101772654,
+      "date": "2015-05-13T18:43:25Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101773806,
+      "date": "2015-05-13T18:47:27Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "berkshelf/berkshelf",
+      "type": "com",
+      "id": 49766336,
+      "date": "2014-07-22T16:49:03Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 4,
+      "date": "2012-04-10T15:45:36Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 3,
+      "date": "2012-04-10T15:36:55Z"
+    }
+  ]
+}

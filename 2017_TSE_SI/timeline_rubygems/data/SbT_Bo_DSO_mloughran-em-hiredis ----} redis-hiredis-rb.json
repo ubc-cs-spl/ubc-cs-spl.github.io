@@ -1,0 +1,2806 @@
+{
+  "user_repo": "mloughran/em-hiredis",
+  "dep_repo": "redis/hiredis-rb",
+  "dep_date": "2011-02-03 12:11:53 UTC",
+  "dep_commit_id": "710660babb713b16535db8ff5a6155740e51354c",
+  "social_date": "2011-02-03 11:45:32 UTC",
+  "devs": [
+    "pietern",
+    "mloughran"
+  ],
+  "interactions": [
+    {
+      "dev_id": "pietern",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "6c73b404fc430f5eb8b659ef42f903a1d02b79e1",
+      "date": "2011-02-13T22:57:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "272ca8f6c51902e5c853998ee36e671d1459d204",
+      "date": "2014-05-30T15:31:13Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "e8d536027fa3fa749412ed7127e0709335698c81",
+      "date": "2014-05-30T15:29:29Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1963e0b912a0027365b0241273e8215d70aa6c7e",
+      "date": "2014-05-30T14:57:43Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "691a320241ff7a3fdeebf8145a5631375978b881",
+      "date": "2014-04-10T15:37:06Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "199afc6ddd73a3ad09faad4b2f6257cd271edc80",
+      "date": "2014-04-10T15:32:15Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "c38090e5a9871d5544314057a1418c6f9d93ff59",
+      "date": "2014-04-01T06:16:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f7d9b1eed1e7d96db6157683d41e82b9a65f0298",
+      "date": "2014-04-01T06:06:18Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "8ccecc42d4367941bc9115dba9877f09c10bf318",
+      "date": "2014-03-27T19:40:15Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "00ac34bffc4e0ed0409a5d6c702c0cf9b366eedd",
+      "date": "2014-03-27T06:51:29Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "88c58e48e73cc9abbe9f5e4f706985ea2ea509a1",
+      "date": "2014-03-27T06:51:18Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "14c5ef5bee88e4010f60dd8127eed015ff7d970c",
+      "date": "2014-03-27T06:47:25Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "8276edf4e731ae175f30913aab78f157c074434e",
+      "date": "2014-03-27T06:29:38Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0841f588bf744ee6682649a2cf1f93d59f5cce02",
+      "date": "2014-03-27T06:23:20Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "c749f6e93d48fce88df545ca251aad1eb2da9a1f",
+      "date": "2014-03-27T06:19:08Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ade3de4ed9319719d93b6941581430f5f85132fe",
+      "date": "2014-03-27T06:16:54Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "39da562c6973ca69650698a9f5f0d5c040c80e6a",
+      "date": "2014-03-27T06:04:28Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f85e8c65f70f2ab27e10caa18b294c8c43f1d0f6",
+      "date": "2014-03-27T05:54:11Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5f2a92034d2d6955cbbd105ba6d0a15dd1d60f0b",
+      "date": "2014-03-27T05:05:07Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "79b7e6c1adcf80a13c53995687dd017ee9300c45",
+      "date": "2014-03-27T05:04:46Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "e0e32c747d66fe43ef26e33d476095916371b728",
+      "date": "2014-03-27T04:55:29Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "daa2169ea8a9e21e5fa32280e891444297a0e932",
+      "date": "2014-03-27T04:46:38Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "456e785626585b984fa60b352e1c8c51b20c4387",
+      "date": "2014-03-27T04:39:30Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a4c7326e0e485750825bb8845b843dff96420794",
+      "date": "2012-03-19T17:54:26Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "fbfabb5e87605ce68f15fad81d2a5bf5436fdda5",
+      "date": "2012-03-19T17:53:11Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "dfa039eee0d4f1157b441d5267e7e52394350178",
+      "date": "2012-03-19T17:40:24Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "51159a745f3cee2a9882bd2f56e0105424319066",
+      "date": "2012-03-19T16:25:00Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "fbb3670210ca413a991748013f284e762248a89b",
+      "date": "2012-03-16T20:59:17Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "e39e1fc8d9c62920775d8b1525c88281b48a2dc4",
+      "date": "2012-03-16T20:59:10Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "064998fabaf4f7e7ce8400009219928c72b3acd8",
+      "date": "2012-03-16T20:54:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "bd79255b9c19195179872c308fe60d08ad84cc6a",
+      "date": "2012-03-16T20:46:14Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5cb6de69d3632647bed4e4d14c93ecbf6c1689bb",
+      "date": "2012-03-16T20:34:48Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0a9d7e8fd9584120084a685bb350ac305bceaef9",
+      "date": "2012-03-16T19:42:11Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5f87f5d0232b5f63b5139d8dbaa714ac4e16d47a",
+      "date": "2012-03-16T19:37:44Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "cce141da08fc5dcdb61a44985295b8c5b6b4ac96",
+      "date": "2012-03-16T19:22:45Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1b054eb0e02748ef8e909494ecac83060203cb47",
+      "date": "2011-12-20T02:14:22Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "12e180c1b0bd73554d0f2e09ed1fc5fcd488f5a2",
+      "date": "2011-12-20T02:13:18Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "65b434b08f894473028c8611cf91d09e2a71f87b",
+      "date": "2011-12-20T02:05:38Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a638d2f70f4de32ac0db292877e3b2d6946e1296",
+      "date": "2011-12-01T22:31:52Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "eb5062c2070ccdacc150d20f634b2ff9ce77708e",
+      "date": "2011-12-01T22:29:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5ac1fe021d16d49346133c4adebf1e62fe7217c8",
+      "date": "2011-12-01T22:03:52Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a79653c55708da85e2f6c200aca8a5951397c624",
+      "date": "2011-12-02T19:00:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ab35f9c75cf3eb0fcbf37f2837564af8c5924be2",
+      "date": "2011-12-02T18:59:43Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1ef107c01ad91dba003b4c4262109d87b40c19a5",
+      "date": "2011-12-02T18:55:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "b0a52baf7f8b0e2949f27eb41c962374f35cd261",
+      "date": "2011-12-02T18:48:08Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6cd8e35c7adba0c7b21025044d3a5a4aad1cb7f5",
+      "date": "2011-10-26T22:27:24Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f729f0b318727f6d5788a5a95bee9469c7773173",
+      "date": "2011-10-26T22:27:09Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "db9955f4c3d44d6f774040c0f63ef2dd8481296d",
+      "date": "2011-10-26T21:59:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "26bac7e99c13e4ab725208a05d2c437815d85519",
+      "date": "2011-10-26T21:56:12Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f657c7361e666e0bcafe402b5f581c51c508a771",
+      "date": "2011-10-26T21:41:13Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "24be1981ee760b69248d79191a767cbfa4335746",
+      "date": "2011-10-26T21:40:23Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5c5e89d20ee900acba6bc0d817ce1ec2cf5b758a",
+      "date": "2011-10-26T19:17:51Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "9fce116254ab9e072a40a8c875637c5e5dea1731",
+      "date": "2011-10-26T19:04:11Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "4b5e221580156cf2fc67f0e6024892cd16820840",
+      "date": "2011-10-26T19:01:30Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "27c395f6ee5781c0899dece8925d89a00ff396c3",
+      "date": "2011-10-26T19:00:04Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0efd8a59977c5309f0c71dc41722bdeada67c750",
+      "date": "2011-09-02T14:23:54Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f7ffb60860423e4d0e0f64408d5f966d09e30ad4",
+      "date": "2011-09-02T12:42:55Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "18a41d5a088b396a0d0d88382659a5d82ab4ab72",
+      "date": "2011-09-02T12:42:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a1d559d8c0cd4edca241b6cc2ee1335ff59873af",
+      "date": "2011-09-01T15:51:24Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5b27b55834fa4939bc6a0df649f873a648d9d033",
+      "date": "2011-09-01T15:45:56Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1ce64152099ffb4f3652b978192e15c3dadeed4e",
+      "date": "2011-09-01T15:45:30Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "991fc708891908004940a20f4ca1c4bf522cae81",
+      "date": "2011-09-01T15:45:07Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "64c2e78665e7e1b72b947c0dabcf3d4a312a478c",
+      "date": "2011-09-01T14:24:27Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a1f3dc6cb3e987f667862b7c4bc248bfe6468a75",
+      "date": "2011-09-01T14:05:08Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "400cef5f647a0ce61da8e57839dd7a64eb86e95f",
+      "date": "2011-09-01T14:04:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "e12acf9654d632d97e383c9dba54c567efbe51dd",
+      "date": "2011-09-01T14:04:02Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "2c19574c2abcd353b201a291616d243bb6454a81",
+      "date": "2011-09-01T13:46:52Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f45cb531d96d4be854290fadff2c495f3a14b8de",
+      "date": "2011-09-01T13:46:42Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "209bf8e8f7eb7ca012a9d49c16fb6fcdb46f2038",
+      "date": "2011-09-01T13:23:42Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f1ae555d3068606dfc30e20432f4da8d0b8da59c",
+      "date": "2011-09-01T13:09:50Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1a6258c7e53dbe4041abfa3935e145dbbd2375d7",
+      "date": "2011-09-01T13:05:50Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "bdec2fc91d492198683bcda3bbc8cb9923d85c07",
+      "date": "2011-09-01T12:40:59Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ad14c1a139c08e6a90d0098f66ab2320099098c3",
+      "date": "2011-09-01T12:14:24Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5e3af7503791f19b7653dab5a43409e832b3375d",
+      "date": "2011-09-01T11:44:20Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "fe43d1a3a1a0af83be62328881a8e14fe7d63b5a",
+      "date": "2011-09-01T08:57:55Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "06eaa0314b83f1bd69f464e282a77123654513dc",
+      "date": "2011-09-01T08:57:04Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "b9f63f36ef63e629be6199d57a6fe0f04f5f41a4",
+      "date": "2011-09-01T07:02:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "19e2dbce46ad0a03530a2dcede90e5a0ebcc3da7",
+      "date": "2011-08-31T21:50:50Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "791dc7f555953da2adf70f2e3c2a06e34ee99315",
+      "date": "2011-08-31T18:15:04Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "7ea9d1475d7967e18457dbebd53507bad4644f79",
+      "date": "2011-08-31T12:56:11Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "7fea41f3a9a3f3604649fec2fc4beb05b1b11549",
+      "date": "2011-05-17T10:02:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f3479b49c1c64cf58246ad1f52d2417cc399e3d5",
+      "date": "2011-05-17T10:00:58Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "bee890dcfd4b14a521c1ab8ab93e6f685f2c2e05",
+      "date": "2011-05-17T09:35:49Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "c8e789580276dd294c33424afbb5a8e4d296fa16",
+      "date": "2011-05-17T09:05:41Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "4f3972f7bca0d981b63998c5838c1f96753bd9b0",
+      "date": "2011-05-17T08:48:48Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0be5ed2abc1d05bd23def2dbab8db6024738d181",
+      "date": "2011-05-17T08:15:51Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "fc234bb8d01e030772fc02266f1e9ca5ad5a6add",
+      "date": "2011-05-17T08:13:49Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "320dd88cc97b541b00cf1ef97657a822e5d15b52",
+      "date": "2011-03-30T13:29:25Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0c05a799b8bba1ad1a3708c38e920805d9946c1a",
+      "date": "2011-02-23T23:01:46Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "221012d52f30baabe6bf8a3bd938630c4c4e567c",
+      "date": "2011-02-07T11:32:55Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "4478d6aeca2daa53b15a6e8bd81b2c3dd8df1546",
+      "date": "2011-02-07T11:32:29Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "317349cbad663434fc5c24ca5f6705aee842174b",
+      "date": "2011-02-04T18:33:31Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "2bb4072f92ed005519bba649cd5eba443d1deb50",
+      "date": "2011-02-04T18:33:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "df7043517b94dad91f3a84969d984d3a282c15dd",
+      "date": "2011-02-04T15:54:12Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f787504eb1e252ba200b2641fedbd74b71498e11",
+      "date": "2011-02-04T14:32:55Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "dbdb663ea31b173c5974b521f0bd9a876c829c19",
+      "date": "2011-02-04T14:31:57Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "8c857646cc80424eb9ec42e68992706127585225",
+      "date": "2011-02-04T10:39:23Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "087ae53f2fe28cc27992ae7e39f950201daef671",
+      "date": "2011-02-04T10:30:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5c1e20524aa3fe905b39a1aec8582b65161cc2b9",
+      "date": "2011-02-04T10:11:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5abfb61af5b8a60767aad7dae82275c804263622",
+      "date": "2011-02-04T10:08:05Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1359166809b57bc29238c3f586f0c8ee3d6b1c1c",
+      "date": "2011-02-04T09:57:52Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6a6fe30b002b3b8c0ad9d438448c212717755270",
+      "date": "2011-02-04T09:55:35Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "60eeb9cd991d05df2497705745b549f4eedcd674",
+      "date": "2011-02-04T09:44:31Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "2a70c11bdd69aba0b0ab8425c81d04b05c567a1f",
+      "date": "2011-02-04T09:38:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0036b6206627c55423da4533e3b24152ba922424",
+      "date": "2011-01-21T00:06:53Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0f792e5237adaa1b93b809f1c6672d6ed5d0fc8c",
+      "date": "2011-01-21T00:03:01Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "da9a7937ce49de03a8b92399eb663bc195b8125b",
+      "date": "2011-01-20T23:37:56Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "8a36462ce6e26ea1ecae529a2a0d4bccebd6dba9",
+      "date": "2011-01-20T22:04:36Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "b205dc46c7eaf840aa0c2ff37f35a43e06c9890f",
+      "date": "2011-01-20T21:59:06Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "4ca613c3bd237e47e3a549b802142da8c707a9b5",
+      "date": "2011-01-20T21:43:27Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "830c5b234ec8d49abb80d1852515be9fbbc16ebb",
+      "date": "2011-01-20T20:10:45Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "750c16a380550123f5798fa33fbc7f991da08a82",
+      "date": "2011-01-20T20:10:20Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "383629d3037b8123cadf7fba9acf47f8882089ce",
+      "date": "2011-01-20T20:08:01Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "bed2d2a8df6ff7fdee80ffe3dd4ca519bc4cf3e2",
+      "date": "2011-01-20T15:15:02Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "9c52b1d438a6b0f31dd19f383f5993f5443c645a",
+      "date": "2011-01-20T14:23:04Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "70f4ef91cd7b3dff851831b1468b542b10a182bc",
+      "date": "2011-01-20T14:10:15Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "9a09a8ec1944392f41ad4ba67efa37b1927a1071",
+      "date": "2011-01-20T13:55:08Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f438da40eddb3ea7a2f807d6d632e80e5f557557",
+      "date": "2011-01-20T13:43:25Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "cf6a7c1ae7e15519f1493869db5ba36cfda78f8b",
+      "date": "2011-01-20T13:39:20Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "66204946dea857bfabfdcd51e14a6ea1a2e80451",
+      "date": "2011-01-20T12:18:32Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "19c1460ffed6cdeab5451d282e17938018a68e56",
+      "date": "2011-01-19T17:52:34Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5296b8027960dec01daa1d97ceb08fd9b9fb165b",
+      "date": "2011-01-19T17:23:09Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "be413ac4d179e91e5c53451753f52dd07b964845",
+      "date": "2011-01-19T17:22:44Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ecf8732e76e06492b286fde3a41aca27c1184225",
+      "date": "2011-01-19T17:22:38Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "4d3615f26a8dc1e5c21f2e8a21d2350b59e61c00",
+      "date": "2011-01-19T15:36:29Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "625feae6b64c927c0243b59afa9d2a1d9173c72b",
+      "date": "2011-01-19T14:33:45Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "3b132af1e8f09e3d3ffea122f41ad681948e76eb",
+      "date": "2011-01-19T14:17:14Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "c40f3e05fc620e2d5d52a3f2c02fe424ad07d03b",
+      "date": "2011-01-18T17:43:02Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "393ccb00e4dd27186a67e718a8641d583fb78848",
+      "date": "2011-01-07T14:57:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "599b7dcc0cbb1e84a3dbb599c77a5acce3f5dc2e",
+      "date": "2011-01-07T14:54:48Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ada15000301eaa2b0281b77fad5b3a2f2399ab8e",
+      "date": "2011-01-07T14:39:36Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "4d28659f38535159f15189ca02ddb219881cf16d",
+      "date": "2011-01-07T13:31:57Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "277d060aa3932a20ff01c647e7cc08be3c959e35",
+      "date": "2011-01-07T12:56:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "2e29cc7dba2c1d8402d46d78680a55ecd69959d9",
+      "date": "2011-01-07T12:47:01Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a3446395a4b5450663eaa4061037e845b9b06fd6",
+      "date": "2011-01-07T12:45:56Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "7a324dc0cfb1ae1b0e7d67eb290cec985573c513",
+      "date": "2011-01-07T12:05:36Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "75ac0796885bb517e7675cd0faf9c6beaa8c0b23",
+      "date": "2011-01-06T19:25:15Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0817a8340117840a2388927e08045918d340c273",
+      "date": "2011-01-06T19:21:43Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "2874b0d42fb4fd1e9665c8d87b8d46fabf8f6698",
+      "date": "2011-01-06T19:10:43Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "9962e0c0417d5545575c42548ad7a3e0405cf399",
+      "date": "2010-12-06T19:13:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a34de4c2c735a0fdaf89e173b9bfe5ac72a81a1c",
+      "date": "2010-12-06T19:10:45Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "92dd6f46881ae7bd9f8fcbc9eeab40efe83dc93a",
+      "date": "2010-11-05T13:40:14Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "41c56494b0b3ecfb8e4c6e7927c9ff3af064faf4",
+      "date": "2010-11-05T00:00:58Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "45b644fb35e8e2cf8c33fd8b5bf5cd2dd942388c",
+      "date": "2010-11-05T00:00:42Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "59ad73d95fb97894f7ff5ad757c913d5f99e7095",
+      "date": "2010-11-05T00:00:01Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a18107c639d5a99dc98f1161c9dd4fb35f6846e3",
+      "date": "2010-11-04T23:49:33Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "b25d4ab3788cceb797dbd8c299ca5a189d8a362c",
+      "date": "2010-11-04T23:49:14Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "50ed6450917147d36139e62a018882b3da99f109",
+      "date": "2010-11-04T23:44:26Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "540a067ee99b57aecafca6f8aa025d6c4e9536cc",
+      "date": "2010-11-04T23:28:42Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "7f8277e7ead9ce30ca5957c6cef640e0c3e8a1fc",
+      "date": "2010-11-04T23:18:33Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "3096d9b091cc8fe133082337a241a85d15a72248",
+      "date": "2010-11-04T23:07:29Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "8b2a350eeaacf6d7a85b256fb848a3ab57f7f869",
+      "date": "2010-11-04T23:06:41Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ef252848becafa53e07e337a6e9a2942d4d28f28",
+      "date": "2010-11-04T23:04:04Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "19ccaed056dd1ea3c2285b93a54e5ffafdc200b0",
+      "date": "2010-11-04T22:56:20Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6d8285a98eb493836dd9833e6d1b6c3f76fb3b73",
+      "date": "2010-11-04T22:56:02Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "dddb9747728db29f4704328873b06534b91aba3e",
+      "date": "2010-11-04T22:53:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0fec22ad62648dd3846e55b8338c08baed15851c",
+      "date": "2010-11-04T22:18:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "e6911b30c0ea7d3eb752d15dddd0c616b78dc904",
+      "date": "2010-11-04T22:15:10Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "33155ab20a3ce103f8d76f28eb43e0f719ec8fdf",
+      "date": "2010-11-04T22:06:06Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a179556a0e294ab8a9b73e88dab4d09165eeb07e",
+      "date": "2010-11-04T21:12:39Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "fee5c8fd225cc36887385c0c970e476dd5a5ae9e",
+      "date": "2010-11-04T20:19:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "4a9563624413e70429bedf2384cdbab0d01cf679",
+      "date": "2010-11-04T20:02:12Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0aa897849d97b695079a0acf367f7edf9bd441a3",
+      "date": "2010-11-04T19:58:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1898ce72c1ae68ab52163219ea32b8ca72e4c706",
+      "date": "2010-11-04T16:30:45Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6b87a074216f289fe47ac14eec1ebcad73d44498",
+      "date": "2010-11-02T23:44:22Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f0f4d386fce3bbc5ad3327213fb0183f0561bc0c",
+      "date": "2010-11-02T23:43:51Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "843b04c2baf1b26216fe3b97e0bd1e65d76ae25c",
+      "date": "2010-11-02T23:42:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "59ba536c2339b489233a5c3d3ac5b7368ffd943a",
+      "date": "2010-11-02T23:39:37Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "62f46c04398a8a6aab689f24ee15dc5cc61fbab3",
+      "date": "2010-11-02T22:38:15Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1af2a38c5dd4db9adcac0f7144f8162af9f49c63",
+      "date": "2010-11-02T22:02:05Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "d644f5c7612d3204eef78761f9362cb48b2d2ad2",
+      "date": "2010-11-02T22:01:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "38c75584cd14a62ef6b759dd66612d5bb38025f7",
+      "date": "2010-11-02T21:59:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a883e6379b84297c8d7b848a4d892d20b3f2ea3c",
+      "date": "2010-11-02T21:59:05Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "bf631fdb47facb8be5e09814d20eb13e174eb346",
+      "date": "2010-11-02T21:53:46Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "09f3af8a5ca97850f71dd9266cfba81c8d93b6d2",
+      "date": "2010-11-02T21:40:27Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "efb8a8f3340299e32caf0c30040476072b85d50e",
+      "date": "2010-11-02T21:34:01Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "9ad399597fa3ddcb4d8f1c1149fa12dcd5a2c561",
+      "date": "2010-11-02T21:33:35Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "e3e24dd3269232f942eb24c9c20acedda95c371e",
+      "date": "2010-11-02T19:44:07Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "b7bd17e104a58ccd6cd7a386011b0e08130c3de0",
+      "date": "2010-11-02T19:43:37Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "2938ea3d8533022caf5e678c0541b4c2552e2ed4",
+      "date": "2010-11-02T19:32:42Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6c90e173475e4fec35e984eaeef85b3899a57f11",
+      "date": "2010-11-02T11:49:06Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "006f31bdc8393261377df18b28ac3e79146a95ce",
+      "date": "2010-11-01T19:28:27Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1d2c4e9bd90b2c1796072e1367e41d1a4f34ce89",
+      "date": "2010-11-01T19:18:26Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "f73d63f1c34d4afabf53e35f514478f98d650852",
+      "date": "2010-11-01T16:56:08Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "8c81da728beb54a50da97156f29f6f250c83fe6f",
+      "date": "2010-11-01T13:39:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6b478937ce25a2088d68041119395850df6e7aad",
+      "date": "2010-10-29T12:23:33Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a043db3ca109186ba7d197979679c308c9859c90",
+      "date": "2010-10-07T18:36:01Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "a25554ca12c7eae3efb2420981cf0ca4442934ec",
+      "date": "2010-10-07T18:35:06Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ff607e90f7cb306af0c15f8248f1250c12b16436",
+      "date": "2010-10-07T17:12:30Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "d1800c8b6bb81a1837bc7576b455604257dd987f",
+      "date": "2010-09-21T19:55:09Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6c4d9f2bcdf5b1d8be3cb868517a92c8e22eb1d8",
+      "date": "2010-09-21T19:51:57Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "db424039e66d412bec111f6ae4def75416b0c274",
+      "date": "2010-09-21T19:45:38Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "29dd36b846df23c985c3ce183902812bec85f051",
+      "date": "2010-09-21T19:42:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "5351ff0ffcc988bbb5fea234e87f344bfae8b6cb",
+      "date": "2010-09-21T19:32:54Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "bf8ebd96cc30c2d930395cf631802833b63c8339",
+      "date": "2010-09-21T19:18:31Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "17ecd4ec9fd65950048e0f9b1a2eacaaab0c869a",
+      "date": "2010-09-21T15:09:54Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "77729e40f239221389c01d1f28a270518b84aa5c",
+      "date": "2010-09-21T15:06:38Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "6ea8cac4fcfaac2da428e034b410fff2a037129e",
+      "date": "2010-09-21T15:06:09Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "025e8cc84bd925c32c446ec94b672b00aba38f2f",
+      "date": "2010-09-21T15:04:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "37fedf4162623e366e8e44b1cb91a8d7513dfeec",
+      "date": "2010-09-21T13:18:49Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "ab6f842693cad218f32a8451f61c28b9f73bf6a7",
+      "date": "2010-09-21T13:17:53Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "0e6ecd8c48b73edd173099e0989f634f7929528f",
+      "date": "2010-09-21T12:51:47Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "c463c42c5b3dbe94fde909589461d3499fdb1cd9",
+      "date": "2010-09-21T12:51:04Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "1c09e6762f61f9ddfbf210b16ed7bca70a5d2262",
+      "date": "2010-09-21T12:40:28Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "e3b2d6982058d2391b938b50338af7e2ae43d525",
+      "date": "2010-09-21T10:24:57Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4060938,
+      "date": "2012-02-20T20:18:24Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4557368,
+      "date": "2012-03-17T21:49:23Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1188789,
+      "date": "2011-05-17T09:11:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1195478,
+      "date": "2011-05-18T07:13:05Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1274875,
+      "date": "2011-06-01T15:04:37Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1275900,
+      "date": "2011-06-01T17:42:34Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1277781,
+      "date": "2011-06-01T22:44:31Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1550454,
+      "date": "2011-07-11T22:14:39Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1550817,
+      "date": "2011-07-11T23:10:41Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 1643979,
+      "date": "2011-07-25T07:33:45Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 2965116,
+      "date": "2011-11-30T19:48:50Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 2978517,
+      "date": "2011-12-01T18:31:12Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 35305176,
+      "date": "2014-02-17T17:28:21Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38768789,
+      "date": "2014-03-27T04:47:17Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38769004,
+      "date": "2014-03-27T04:52:34Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38769012,
+      "date": "2014-03-27T04:52:40Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38769138,
+      "date": "2014-03-27T04:56:17Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38769585,
+      "date": "2014-03-27T05:08:37Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38771901,
+      "date": "2014-03-27T06:08:14Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38771923,
+      "date": "2014-03-27T06:08:52Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38772360,
+      "date": "2014-03-27T06:19:26Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38772389,
+      "date": "2014-03-27T06:20:15Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38772604,
+      "date": "2014-03-27T06:25:24Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 38772706,
+      "date": "2014-03-27T06:28:00Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39105089,
+      "date": "2014-03-31T15:53:03Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39105272,
+      "date": "2014-03-31T15:54:17Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39110731,
+      "date": "2014-03-31T16:39:55Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39115993,
+      "date": "2014-03-31T17:25:27Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39172140,
+      "date": "2014-04-01T05:29:49Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39172381,
+      "date": "2014-04-01T05:35:51Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39172961,
+      "date": "2014-04-01T05:50:44Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39174244,
+      "date": "2014-04-01T06:21:27Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 39233244,
+      "date": "2014-04-01T17:25:36Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 40046053,
+      "date": "2014-04-10T06:08:32Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 40100002,
+      "date": "2014-04-10T15:32:13Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 40101452,
+      "date": "2014-04-10T15:43:54Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 41125157,
+      "date": "2014-04-23T05:04:58Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 43581884,
+      "date": "2014-05-20T03:01:01Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 43679597,
+      "date": "2014-05-20T20:37:56Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 44660850,
+      "date": "2014-05-30T15:03:04Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 44667238,
+      "date": "2014-05-30T15:57:25Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 44668336,
+      "date": "2014-05-30T16:07:06Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 45499667,
+      "date": "2014-06-09T14:56:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 48971432,
+      "date": "2014-07-14T23:03:32Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 48985379,
+      "date": "2014-07-15T03:02:19Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 54009640,
+      "date": "2014-09-01T02:18:44Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "com",
+      "id": 64994190,
+      "date": "2014-11-30T18:22:39Z"
+    },
+    {
+      "dev_id": "pietern",
+      "repo": "redis/hiredis-rb",
+      "type": "issue",
+      "id": 15,
+      "date": "2014-01-20T22:54:29Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "8a67d2165eac9e38bcd70d15b998b0d940e2735e",
+      "date": "2015-11-11T22:40:27Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "0fb3fb34ae30a51c53bd090e86d2bc1c62233239",
+      "date": "2015-11-11T22:39:29Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "cae1c8686973f40818209a15f35bff0998edb597",
+      "date": "2015-01-29T14:24:06Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "283f664255299cfbe0a25ebdfc68f9e13c5c7f0f",
+      "date": "2014-07-15T12:42:10Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "210c9d2844b98b340f4572d30f6e104a7ffb3f51",
+      "date": "2014-07-15T12:38:38Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "2b4d6b718a90c5ea527c4ca1c0dc6c07b40106c7",
+      "date": "2014-06-30T14:29:51Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "75bf82f9204889b3c9a3a9538d2a113ee34f64bc",
+      "date": "2014-06-30T14:29:13Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "400efa9e49cde2540783a95edfde86de76083de4",
+      "date": "2014-06-30T14:27:39Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "00d07a7f75a45bd4b336d93f98f4719ddff6bd08",
+      "date": "2014-06-30T14:25:55Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "35d18f6e6def4b2979739e9a7cea28b1544f595f",
+      "date": "2014-06-30T11:26:56Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "07066be635810fab31ccd29dabec00619d6135a2",
+      "date": "2014-06-30T11:17:38Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "6ffdcc60b04d12589abe9913b349ae52e4e7fa10",
+      "date": "2014-02-03T17:31:30Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "c45570a29e0cf03a130571b8ef8d9663b5e99ed7",
+      "date": "2014-02-03T17:30:21Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "07b1f0aa6513f57a3af4a9fac186f39a64804399",
+      "date": "2014-02-03T17:22:24Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "500b1dfcf8eb52359eae087e37d676fa355a7d3b",
+      "date": "2014-02-03T17:22:10Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "1ed431ee3fa7ece0384f251bc324460c99c8a206",
+      "date": "2013-06-05T10:34:38Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "4b7ec0273790cfe491d686b97894e04297d07c64",
+      "date": "2013-06-05T10:33:29Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "d29b6aac4ee6df6893aef0b3fe5642c40960b759",
+      "date": "2013-06-04T21:45:19Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "84e4cfc077059e044f14ccad78667d0ade42a65a",
+      "date": "2013-04-22T10:30:40Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "39deecffcfe8e47caa6f19c0b43c2af390dfa9df",
+      "date": "2013-04-22T10:22:28Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "e4e708984512d028dafd5868f0cb50ed4e175953",
+      "date": "2013-04-13T17:33:57Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "e42aa30078417ae138b64f87d249459970d97d24",
+      "date": "2013-04-12T23:01:29Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "26770823805c4a43da00ecd58f058a03b75e0636",
+      "date": "2013-04-12T22:59:05Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "f94b41c0e4a620b3e4fa63415f546386f6c63ae6",
+      "date": "2013-04-12T22:57:39Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "5522a5852ece57cd73de3e009db6d4b9e40c5f28",
+      "date": "2013-04-12T22:56:56Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "40a4eb18a73f01c6e8d7b82ca0c2784de9ff30bb",
+      "date": "2013-04-08T18:29:09Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "0d12f21f80a4bc274ec7ad3db78aec713447c379",
+      "date": "2013-04-05T15:47:53Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "e44078c1e0c47bfef1095066b98136bfc596c5d4",
+      "date": "2013-04-05T15:46:40Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "f74c63d3c36335ac79d444fa1835b17be23d22af",
+      "date": "2013-04-05T15:40:49Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "6c5144631b582ca65589150272adaa021682bc8c",
+      "date": "2013-04-05T15:40:25Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "42f3bb8c21d59c03234920f9b74354cc66fafcc0",
+      "date": "2013-02-08T18:32:41Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "d47d993b2dde67bc5e5d554964c39ec86cf168d4",
+      "date": "2013-02-08T18:32:01Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "c277b16765a4a259ec857332ff16fa6cff07d45a",
+      "date": "2013-02-08T18:18:07Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "4e53873d00f5294b41ba7a81ee911ef984056b3c",
+      "date": "2013-02-08T18:17:41Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "7495fd37afe3f70702b24bb8fce5d3e388b32cd0",
+      "date": "2013-02-08T18:16:34Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "5039456c38766383d26db962d884edd940dc3134",
+      "date": "2013-02-08T18:13:56Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "cf54c022ca70d8d913e565e3d659328a5b45e882",
+      "date": "2013-02-08T16:07:41Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "8427493e7c326d1fb474e0366e143145491c50b8",
+      "date": "2012-12-11T18:37:05Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "53f18b568c379ad3ac6bd2e492049ba8c6821cd6",
+      "date": "2012-12-04T17:50:39Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "34315438283c72fa904c9708aa75110ec01c4b1b",
+      "date": "2012-11-27T01:20:44Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "2090aed3850228f91113568ddb836290f2f5835c",
+      "date": "2012-11-26T15:02:56Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "f8ba04ba0a6e21b1d3ee78deed83380dc28dda22",
+      "date": "2012-10-10T15:00:24Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "aa5ae6bd019946a492e1879f5f8f860fef9b49f0",
+      "date": "2012-06-19T09:57:35Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "ace4a7697f66f2543c6a5d237ae91c7581b468c7",
+      "date": "2012-02-27T14:33:34Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "d019dd0e0e6ba22d6188db6581a8673c71c00dea",
+      "date": "2012-02-27T14:35:08Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "33a477d6a307314f86ee67ac3cb2d37bd024eb59",
+      "date": "2012-02-27T14:33:34Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "9296fedea990e29262289d6749a08863f0a637ea",
+      "date": "2012-01-11T15:55:01Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "55813d052667601d4d4c316543eb3ecd850fc396",
+      "date": "2012-01-11T15:54:21Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "c4f35f62c3480493b9b579aeac2e0318ef5db681",
+      "date": "2012-01-11T15:51:19Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "17d6dd5a43501604232020ba7cb48239ce7c606e",
+      "date": "2012-01-11T15:47:54Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "f90242078f2438417e4a285d45fbd7b208ea4f30",
+      "date": "2011-12-19T15:25:07Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "9230aaeeb01d3ff7e072ae8b772150452a9100c5",
+      "date": "2011-12-19T15:23:58Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "c01ee6abd21a400f0f6cc6478ae3ff33e4852075",
+      "date": "2011-12-19T15:19:12Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "76c9bff852fb1136a9b447db4b91495439085edd",
+      "date": "2011-12-13T12:44:13Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "61a37bce4804530e9de10cbc26373bd521440e45",
+      "date": "2011-12-13T12:22:57Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "8f2fc0ffc1b1876966e0666ea64963d94cb60ded",
+      "date": "2011-12-13T12:20:13Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "5382f870f4d59b7d306f998ccf359089c02aee2c",
+      "date": "2011-12-09T23:49:58Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "3f22b0794c05556057277c781ea5e505a995477c",
+      "date": "2011-12-09T22:04:16Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "e001bb1152ccff35d5f25d516bcd9fe8eb6e14e5",
+      "date": "2011-12-09T21:05:16Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "11368e2036d2ba9d99fa9bd958872386f4d80600",
+      "date": "2011-12-09T21:04:59Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "213eb0aa23b250b878b7f32837d878a11fae6062",
+      "date": "2011-12-09T21:03:48Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "c3cd21feec54ae748088f19e474c9675648d9f6b",
+      "date": "2011-12-09T21:01:47Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "eb2ee2b215fa038f7fec54248e3f957f1292783d",
+      "date": "2011-12-09T19:08:26Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "50cf86afdf985c3570ef9b54916e19f1fe2e68ef",
+      "date": "2011-12-09T18:34:41Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "a450ee4884902882ad4564d5a21a4dfff192a35b",
+      "date": "2011-12-09T18:13:46Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "509ad3bfacf4e042cb62e23418f3e83f42e143c6",
+      "date": "2011-12-09T18:06:27Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "9944e6117321d51dd4ef5f309d6cf6c12cb566a8",
+      "date": "2011-12-09T17:58:53Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "0a406f2dbb118b668d2ea0eb07c7fc7d71d3e34a",
+      "date": "2011-12-09T17:50:00Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "1273a8737ffe65415a719906304a039b84de06fb",
+      "date": "2011-12-09T17:44:23Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "0d216087694c8d96babf3a002cc54ecd0e932f12",
+      "date": "2011-12-09T17:31:09Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "febb3bd404a1266dbfdc9936d8154a4d4af9fb59",
+      "date": "2011-12-09T17:21:23Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "c5dadd483182f663f7e109088ba79b4bc16621af",
+      "date": "2011-12-09T17:02:15Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "60639a662b6fe52bf73baf81feed412c6f00ad46",
+      "date": "2011-12-09T17:01:11Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "34faf9ce419ca408049f1a21c5480fa53b680d64",
+      "date": "2011-12-09T17:00:43Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "02e23095df3a222898448d1f3e3dedd60d535490",
+      "date": "2011-12-09T16:46:38Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "e876c7c2be41d4becc882b22dd1cf1d25eea0df3",
+      "date": "2011-12-08T19:28:27Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "71c909ea390f96941e17e0ab9d70e2c8aa373ad6",
+      "date": "2011-11-17T14:27:43Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "4f1d24bd8e21a18d42758fb53f01eb2d5e936dba",
+      "date": "2011-10-26T17:56:58Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "0f4df0526e4d18a33303ce906c7ea39600831f99",
+      "date": "2011-09-16T17:35:58Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "c8553a16e7f05e120c9cc017c47860b866748971",
+      "date": "2011-09-16T14:38:37Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "fb116b1123cc345e9ed1df7a750189d77e6c124d",
+      "date": "2011-09-16T14:01:05Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "d007ce4c3cff230cdb5a26cf0733101b20fb9966",
+      "date": "2011-09-16T13:28:30Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "6849c2f0eb3534a6439cefc80600574b5a73b1c2",
+      "date": "2011-09-16T13:27:57Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "0ef0ce625c0f5b6e77ee538509e592009eafe55c",
+      "date": "2011-09-15T21:00:00Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "5fc1784afd458f8de04a35dbbef1d5de7e019116",
+      "date": "2011-09-15T20:47:57Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "fe3244ad924a3666ce629726398b995d80b678a3",
+      "date": "2011-09-15T20:35:28Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "3edb7a4a9c1232dabeecb7bb457aa18ac520f91d",
+      "date": "2011-09-15T19:59:07Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "58b772b5373c3c6e05cbf3d2351ef3148aac8e3d",
+      "date": "2011-09-15T19:44:37Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "42551c084db1c57da28109abbdec29f2e8eb94cc",
+      "date": "2011-09-15T15:13:45Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "36e77ff3617662524bac3cacd60ba339ad5d692d",
+      "date": "2011-09-14T14:57:09Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "ec1afecf4fa2089a867282800e2efac8312847b6",
+      "date": "2011-08-31T22:28:56Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "7bf868617a7ed0d48993508a9b486373dc0a5807",
+      "date": "2011-05-03T23:26:15Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "6f1008ffd6be85e8497c99d2f73191aaee58c0a0",
+      "date": "2011-05-03T23:14:30Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "6183015651f6847e4a5472d85c3069248db70ec6",
+      "date": "2011-05-03T23:03:42Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "f5ed102f423a14ef71ed9b86b456f7915c0705e9",
+      "date": "2011-05-03T22:31:52Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "ae0aeb05e4b18c0f920a723ccbbb9c474bbe3ba4",
+      "date": "2011-04-21T23:14:55Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "5ec06f21e9db3a38bb5546331d3bb7fff34e1383",
+      "date": "2011-04-14T16:47:55Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "bda197e6ae16debe10a9cc1b4503e13022dd7f69",
+      "date": "2011-03-30T17:01:05Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "0ce6400c5a8340ee923b3cbae46317372ead9334",
+      "date": "2011-02-08T14:42:26Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "dad308b6f6f90ca28cc694589a18ce019240bb22",
+      "date": "2011-02-03T12:50:16Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "ac640fd61e296b3ac0f949c92d6f59ed11f41a97",
+      "date": "2011-02-03T12:49:59Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "710660babb713b16535db8ff5a6155740e51354c",
+      "date": "2011-02-03T12:11:53Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "commit",
+      "id": "f1505abbfb2a39ae999f1a8d145a4672b7772a1c",
+      "date": "2011-02-03T11:45:32Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "redis/hiredis-rb",
+      "type": "commit",
+      "id": "74acf45c0052cd8bec2b11d211a8d5cf618d2870",
+      "date": "2011-01-19T18:07:37Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 937119,
+      "date": "2011-03-30T17:01:49Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 1041947,
+      "date": "2011-04-21T23:14:17Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 1043504,
+      "date": "2011-04-22T10:53:47Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 1097091,
+      "date": "2011-05-03T23:29:03Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 1314293,
+      "date": "2011-06-07T08:13:22Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 2038438,
+      "date": "2011-09-08T10:20:06Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 2577100,
+      "date": "2011-10-31T13:55:21Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 2718176,
+      "date": "2011-11-12T16:43:48Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 2718235,
+      "date": "2011-11-12T16:59:50Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 2776465,
+      "date": "2011-11-17T14:27:37Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 3868927,
+      "date": "2012-02-08T15:03:04Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 3869245,
+      "date": "2012-02-08T15:27:32Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 3873142,
+      "date": "2012-02-08T18:38:52Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 3878971,
+      "date": "2012-02-08T23:43:58Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4052839,
+      "date": "2012-02-20T12:34:06Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4194633,
+      "date": "2012-02-27T14:43:42Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4194683,
+      "date": "2012-02-27T14:47:13Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4194747,
+      "date": "2012-02-27T14:50:23Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4571488,
+      "date": "2012-03-19T11:30:48Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4575566,
+      "date": "2012-03-19T15:25:10Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4986626,
+      "date": "2012-04-05T21:50:24Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 4994289,
+      "date": "2012-04-06T12:18:08Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 6420914,
+      "date": "2012-06-19T09:57:29Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 9823079,
+      "date": "2012-10-26T18:48:21Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 9825641,
+      "date": "2012-10-26T20:17:57Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 9979497,
+      "date": "2012-11-01T13:06:50Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 10736359,
+      "date": "2012-11-26T22:10:20Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 16077947,
+      "date": "2013-04-08T20:56:42Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 16100982,
+      "date": "2013-04-09T08:46:51Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 16322003,
+      "date": "2013-04-12T23:03:29Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 16322051,
+      "date": "2013-04-12T23:04:53Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 44862191,
+      "date": "2014-06-02T16:52:08Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 45775787,
+      "date": "2014-06-11T17:50:52Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 47539013,
+      "date": "2014-06-30T14:35:53Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 47539538,
+      "date": "2014-06-30T14:40:04Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 47539556,
+      "date": "2014-06-30T14:40:16Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 48497483,
+      "date": "2014-07-09T16:18:19Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 49025967,
+      "date": "2014-07-15T12:45:34Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 56032666,
+      "date": "2014-09-18T12:45:02Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 71933441,
+      "date": "2015-01-28T22:48:56Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 71997426,
+      "date": "2015-01-29T09:56:26Z"
+    },
+    {
+      "dev_id": "mloughran",
+      "repo": "mloughran/em-hiredis",
+      "type": "com",
+      "id": 74970251,
+      "date": "2015-02-18T23:21:01Z"
+    }
+  ]
+}

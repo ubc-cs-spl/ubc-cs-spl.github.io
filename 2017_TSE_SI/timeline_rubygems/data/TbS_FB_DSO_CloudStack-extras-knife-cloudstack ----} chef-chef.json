@@ -1,0 +1,2812 @@
+{
+  "user_repo": "CloudStack-extras/knife-cloudstack",
+  "dep_repo": "chef/chef",
+  "dep_date": "2011-11-12 05:40:53 UTC",
+  "dep_commit_id": "f42e2b4ca1b4af99657c9f1b3ca1a22e6f91340b",
+  "social_date": "2012-02-27 23:53:10 UTC",
+  "devs": [
+    "sbotman",
+    "benlangfeld",
+    "marbe",
+    "chirag-jog",
+    "kcbraunschweig",
+    "lusis",
+    "agoddard",
+    "dpnl87"
+  ],
+  "interactions": [
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "cf89af2fc216b8c543c740dda8005e8d0f723fc3",
+      "date": "2015-09-30T19:29:39Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "10ece50b917c8d3184122734ad1905caae64fd6b",
+      "date": "2015-07-03T13:04:46Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "4d57c0b1e9983707f768bdaa990e4e83a55b44d0",
+      "date": "2015-07-03T12:53:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "de691f340ecfe4a25765686b872dac2686b5e1d3",
+      "date": "2015-04-24T10:35:25Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f23bb6eebfbc05f51ebef2b3f1b3a774e85a0c28",
+      "date": "2015-03-25T09:31:31Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "d9d063ce8aa21666b733e2df063db4ad558eff9b",
+      "date": "2015-03-19T20:04:54Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "49db360c8a43eb39996e9558063a55251feac09a",
+      "date": "2015-03-19T19:58:16Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6d7381283fa9add9b85da961da8dba7802674a52",
+      "date": "2015-03-19T19:56:50Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "d1793a03afe6308b6cbf630f3ecdc09c9d20ea59",
+      "date": "2015-03-19T19:48:20Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "dd9da43ffb9a07e609dc0b16236700a9d6d0df0b",
+      "date": "2014-12-29T16:57:29Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "4bb1ba78bc1f2e11e2dbf317673a804deedb4297",
+      "date": "2014-09-26T11:20:16Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "1b42e5877e252cb401554d92f0a1c0fedf0fbb2d",
+      "date": "2014-05-10T10:43:25Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "89a575396e3ecd034b56feffa3ce642a34d8bc2c",
+      "date": "2014-04-25T11:35:09Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "25260e6066bf377c81c6869d518a36a22e710066",
+      "date": "2014-04-25T11:31:09Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b47b8cd7de4417c85f79ccbadcd949a073b4fb75",
+      "date": "2014-04-25T11:26:41Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "27c247f9130a37842568c589e5bf8c1645419ebb",
+      "date": "2014-04-03T11:30:12Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7678cbe33fa1978bf57fe8cb1456b207f1719080",
+      "date": "2014-04-03T11:22:39Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "139ebd3bc230183a0bc480ad3433f49a4503bc11",
+      "date": "2014-04-03T11:22:15Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "14d85196494d08c8ab47bdb1d175572c6813989a",
+      "date": "2014-04-03T11:21:19Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "61078ff441d9e77b71448115ca18b2cc31e93532",
+      "date": "2014-04-03T10:36:30Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "872fd0fc52ffce95fc6d956c4cf8753905af4414",
+      "date": "2014-04-02T08:19:11Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "ee13e003e0cf35e35bba7e7bd50b76f0691249cd",
+      "date": "2014-04-02T08:18:05Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f8370a52032922956bda369a1ca8e52e480acd17",
+      "date": "2014-04-02T08:17:07Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "13a2dee049377412c1d07f7a71affddf192700ce",
+      "date": "2014-03-05T16:18:02Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "88e20fc76adcb2f5b1013d5dd553d7c4bbbf1f87",
+      "date": "2014-03-05T13:07:31Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "962af6ee7e6201be0cc8e88c211005f6badf0235",
+      "date": "2014-02-12T16:03:27Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "809f406f673ad5a46a6e36c9b1ca14f4f0a7f8de",
+      "date": "2014-02-12T12:59:31Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "ea43c2ea067d303ca3f30de56308c84e3fade7b0",
+      "date": "2014-02-12T12:36:34Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "039bb3e48f7d3a6851d4bacb97961995ee95f794",
+      "date": "2014-02-12T12:21:04Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7e4554f073ebe1d7fc1e0880f3ffb6685a54de74",
+      "date": "2014-02-12T12:17:00Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "9840c24febe297709880082dd0819a910ff4f3c4",
+      "date": "2014-02-12T11:23:24Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "80b178f413a6af26b49e3ee7baea5d96d888e3f9",
+      "date": "2014-02-12T09:35:24Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "96d7afc2af94338295de934f51373cf3737ca4d2",
+      "date": "2014-02-11T22:20:50Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7a04832998212755b8c474209e0a1f48cc1bcbef",
+      "date": "2014-02-11T22:20:05Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "be555edf8af0fbc9ef5fd5a003f4902dee7e0b7d",
+      "date": "2014-01-31T12:40:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "3c143cc3b747b47bbe9c72e7e939588bdd18c0ba",
+      "date": "2014-01-30T17:53:35Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "1f86fe9c5591e801c205550535ee81717b85ee91",
+      "date": "2013-12-16T17:47:51Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "5185dd57f4e1f7a038807b32d35af309f8fce30b",
+      "date": "2013-12-16T17:46:15Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "55b011a8dbf0e8cc139f30dd74def48a0a939537",
+      "date": "2013-12-03T15:36:38Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b2be6d084d1f493b37512acc885fe7b5ce6d6abd",
+      "date": "2013-11-29T15:59:16Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b40e18d0062467ead295cdb249a1ae2a1c2191de",
+      "date": "2013-11-29T15:55:05Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "c8af86c451b83d07f0239aad3f67c31ad77e4e29",
+      "date": "2013-11-29T15:52:17Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "78f69600a7d0348ffe65ece0eb56ac6aa99befc5",
+      "date": "2013-11-28T16:31:46Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "fa2ca8a598b5b545692abd1259e3f8fdce815726",
+      "date": "2013-11-28T16:30:51Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "c56d1d8c97d43250145d533ca01f5797f3839ca0",
+      "date": "2013-11-28T16:16:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "4161383bfa882265f652926f7accf6fd451a5ffa",
+      "date": "2013-11-28T16:12:25Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "24e8de5418d84fe9ab327875652b130cd3ff618e",
+      "date": "2013-11-28T15:08:42Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "9b54ee28808056c3e6284517ae1c8aaf3f00a27e",
+      "date": "2013-11-28T14:26:04Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "9ba4d65ea52a158a825d0521ef47669feafbdaaa",
+      "date": "2013-11-24T15:05:49Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "22e8192ebba37ea5ef78d6db40cad1e7518875ce",
+      "date": "2013-11-08T00:12:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "8d410d9c43dad4a554a29ccc192c5aea246e5eec",
+      "date": "2013-11-07T23:05:37Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "3093327f9761eb22b7cda26bbb4bd9193f45cc90",
+      "date": "2013-11-07T23:02:09Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "8b2a27f2eb915a35eeef2b1d5240e54d3fcae237",
+      "date": "2013-11-04T13:52:18Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "94f2e198c8f6b65a5655ad1f848fa2785358ee83",
+      "date": "2013-11-04T12:51:21Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e16734a4bc478d8c0e14851dbfea1381c5f5c831",
+      "date": "2013-11-04T12:42:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "8c5de7e9b2d44fe8e0ea04a6a23af51edee8c722",
+      "date": "2013-11-04T00:21:42Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "3862eb58b0c8535617a9ef6c145db947227b0520",
+      "date": "2013-11-03T23:41:26Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "9302f40fc9f397ac125fc2e8c14227f026962c1c",
+      "date": "2013-11-03T22:28:11Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6b9691449ce60542bed4d8da89438e1b01826977",
+      "date": "2013-11-03T22:09:10Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6f9a35937b54516cc43abf6c0dd39d31225bfb07",
+      "date": "2013-11-03T22:01:06Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "c5b54a17bcc17a8edbff8897564b3b124e9def4d",
+      "date": "2013-11-03T21:52:22Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "3321d719bd3cf783d4b66cedff5ac8d300580502",
+      "date": "2013-11-03T21:43:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "3ed33654907ab1d4aa876cd92c6b37d7cf48ee2b",
+      "date": "2013-11-03T21:42:18Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "ea9bd95f5916b7fb3b00ed84c17e1048b5ca978a",
+      "date": "2013-11-03T20:43:08Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "07ad5ff717313954858cb9f547aae52f97900bcc",
+      "date": "2013-11-03T20:24:08Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "d9b8469913eda8caca51d2ab914fc30b751c314a",
+      "date": "2013-11-03T20:21:06Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "bec83a760e7b76f0d09975b78b562d44628d11bc",
+      "date": "2013-11-03T20:19:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e6c69c9b8e4e840ff0e4788f2da53ce5b371660d",
+      "date": "2013-11-03T20:19:23Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7b8b73dd3f4533865dd2c43a365298e96234ac35",
+      "date": "2013-10-18T10:12:12Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "fdad0718573fbe693701c453c45dc6392e76c6ae",
+      "date": "2013-10-17T22:12:02Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "bc9089839f4c5096cc24c3b99297336902e60bea",
+      "date": "2013-10-15T12:54:32Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6edb232d9024f8c881c38c3306d39eb79edfd7b4",
+      "date": "2013-10-15T12:51:12Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f1f49b7ab256308aa17116e73805897c9ad30330",
+      "date": "2013-09-03T15:41:35Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "eb9fd25d903c4d1ab9f0844328418a42853c06ea",
+      "date": "2013-08-28T14:25:27Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "8f4152e4376b71f71bc79314f51f559fedd5ac44",
+      "date": "2013-08-28T14:22:56Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e5dd47ece541ead89cc3090b08862f903f300145",
+      "date": "2013-08-28T14:22:23Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "831bcd14b37838927d4cba6efbeb28beb1d22c5a",
+      "date": "2013-08-28T14:17:57Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f6231c2d95b0c3960f0460f7bddb4f5bfd7e39c2",
+      "date": "2013-08-28T14:02:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "5a4165260e6a19513363d4a35be10b5def2040c4",
+      "date": "2013-08-28T13:59:36Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "871c2d1f5ce02f914cd459f13ed760941a0d0506",
+      "date": "2013-08-07T08:11:36Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e42cc270d4f7c90d3d330c8a4e5cf692da86fdd2",
+      "date": "2013-08-06T11:48:41Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "669432630057b7f77671c2f32e80e395770a20cf",
+      "date": "2013-08-06T10:27:31Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "0e37b3c8ab8ccfd1262b93762b04de3dc8493415",
+      "date": "2013-08-06T08:38:51Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b1084ffa5301f4b87c6826f1f4492dc6e23b5a73",
+      "date": "2013-08-06T08:37:51Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "d032e813f54294a6e312ed688b93b98645b78fe2",
+      "date": "2013-08-06T08:33:32Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "730be01ba6d6dc4209cc1685303e73dc9adfc7d2",
+      "date": "2013-08-06T08:32:43Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "81646e66394452963f13263165ddaad1b0ad1035",
+      "date": "2013-08-01T14:23:20Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "23ce461caf44409dd5ef190abddad528fe4161a7",
+      "date": "2013-06-13T15:19:03Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "440c02036944681b1963185a8ef95bb05cefbabb",
+      "date": "2013-06-13T15:12:56Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "dde3743891df509444720eef1aec611e79724d51",
+      "date": "2013-05-29T10:53:05Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "371e413675ef8778f9d4ae94058ff88c951655db",
+      "date": "2013-04-20T12:47:30Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "27afa01359e05b08bdc93d8cc907d5ef9c01b9fb",
+      "date": "2013-04-20T12:47:03Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b7696b6c886f681d559f159923c694bcd276f4c8",
+      "date": "2013-04-20T12:46:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "55ca480f814d8a197376a471d0502d2dc9c369ff",
+      "date": "2013-04-13T22:11:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "8da0bd2a41b3b99b7510f7608e2db0b3dc29c8ef",
+      "date": "2013-04-13T11:18:38Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "2025514ec62b7b60799daeea6ddc055890ad0afa",
+      "date": "2013-04-13T11:09:40Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e0713f83135fbd96099214afd2cc6323e7972712",
+      "date": "2013-04-13T11:04:02Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "ba96fa6f0cb60e43e54d6aeb975df17d9698263d",
+      "date": "2013-04-13T00:36:21Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "cdb929d153160c95d50319d2f62e109df622cc39",
+      "date": "2013-04-13T00:29:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "89c7c142e82592f1ee8eaec3e0b5ad1ab7127905",
+      "date": "2013-04-13T00:27:51Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "cadaea4be51279aebada2514fb6575ebb878aad1",
+      "date": "2013-04-13T00:20:53Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "cfde5731ebfc6ce84d27b2dbf952ffd2e3fb6405",
+      "date": "2013-04-13T00:13:39Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "dc3fe7579e06aa0bbb587b6744e434c10c74c87b",
+      "date": "2013-04-13T00:05:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "1f76738dcc4fe2e01777345039ee02d6260ff72e",
+      "date": "2013-04-12T23:13:25Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "02ced370787c73d252827ce7bb709c5d658e2be1",
+      "date": "2013-04-12T23:07:22Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "949394bceffe9ccea96a2b5c02a7dcd58093d10c",
+      "date": "2013-04-12T21:46:35Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "0a7438be3feca96402582163b926286a2e35cd20",
+      "date": "2013-04-12T13:21:34Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "9792d444975f4c98ce4e07f2ca9daf58b70879c0",
+      "date": "2013-04-12T08:25:57Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "27dedc6015d2ba3d4b1381865bc9f49424e4a24a",
+      "date": "2013-04-11T20:12:32Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "11f75b6fcca396e73eff39f050c51cab985b6a7f",
+      "date": "2013-04-11T20:06:48Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "0cd7f5180b72508348e246df043280099faf3138",
+      "date": "2013-04-11T12:58:44Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "162e5637371b439560cd08da6e712b137d3953f8",
+      "date": "2013-04-11T12:39:41Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "58a8f1becc6b0879ba99b4297b41e852b3c62ecb",
+      "date": "2013-04-11T00:21:56Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b424071566da2e754f9b48dc530907b562a4e60c",
+      "date": "2013-04-11T00:20:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "008a19a1ca9539004601ad6c2896fcc36fb92d2b",
+      "date": "2013-04-11T00:16:41Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "07dfd05f441b93be28a444b9836de4c388cfc749",
+      "date": "2013-04-10T23:33:49Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "95fabbc46af8cd73afa91929976b765dc8f8c088",
+      "date": "2013-04-10T22:33:08Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f8f85c2c1bc4c048951172c71e967daeba285c02",
+      "date": "2013-04-10T22:26:44Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "8790f167086d42da11e14199670716247eccb503",
+      "date": "2013-04-10T21:56:09Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "724387c8f40176453445885f8f502093e6b20c5a",
+      "date": "2013-04-10T21:37:31Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "032520b57c392184a731fbdd812163d4c3120ec3",
+      "date": "2013-04-10T20:52:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e7040d6eb576b759289edb6ab83252577afd8255",
+      "date": "2013-04-10T20:48:04Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "73fea1f7398c1f609199b599ee415b9f29393e13",
+      "date": "2013-04-10T20:39:38Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "0bcf26ce7fc066de06dc6859fd4adeba6c536b56",
+      "date": "2013-04-10T20:38:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "204edee3e36e224a954bc7a3ce3c0bb6fbd220bb",
+      "date": "2013-04-10T20:37:37Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e61c868a51a9b38557e256cf16f453ff54fad1f7",
+      "date": "2013-04-10T20:31:34Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "817336c7c5c03aa9a9adc3e7273181bed2eec511",
+      "date": "2013-04-10T20:25:30Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "87bcfb61f0901a59daa720ad46b8ab9f5a781481",
+      "date": "2013-04-10T20:23:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f00a41628beabdb0df71b379972e3a99cb9b296f",
+      "date": "2013-04-10T20:21:14Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "565862cd8ff2270b6a944d0cb0dd66dc99435146",
+      "date": "2013-04-10T20:10:53Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "862a63325eabcab34866f349373768071e210f6f",
+      "date": "2013-04-05T11:03:49Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "1919d9cf1bd952461f7c27de87269af40742642d",
+      "date": "2013-04-05T10:18:11Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "271a75d92e1550527f0c37f3e7943efd03c75766",
+      "date": "2013-04-05T09:57:29Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "16bb68092ec6a80c0e9c4c7fe87a801e81487ff1",
+      "date": "2013-04-05T09:51:36Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6ad18f8fabc73daaa43a9ff548e80ac949fe9a5b",
+      "date": "2013-04-05T09:49:38Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "a89719cda29c7f745c66ba267c8d1fb9a8ee8309",
+      "date": "2013-04-05T09:16:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "d10d42c651a02bab86add792a6835bd8b6d453ec",
+      "date": "2013-04-04T09:55:00Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "118c20111dff3f4fcf4d503eff0cf6f6cba1a423",
+      "date": "2013-04-03T18:54:19Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7e58749788329f5a3184a7d69319a37635d3a3f0",
+      "date": "2013-04-03T18:11:51Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "36020f0fd470f4f1f44e03b2d787baec0aa169fd",
+      "date": "2013-04-03T18:00:56Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e531e20c3ff74873f4bb64df78cd71adb20ce155",
+      "date": "2013-04-03T16:43:18Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "2f927a2bf5f736e25b7ad409367a0c064f3027e4",
+      "date": "2013-04-03T16:31:36Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "700dc515a970e77f2412eadf2b4b6ceb068d907b",
+      "date": "2013-04-03T16:30:09Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7c4f017c66939dc51719626ae7712e600c01dde6",
+      "date": "2013-04-03T16:28:20Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "741d76698d51e7278ab97df4e0137727c4940b77",
+      "date": "2013-04-03T16:17:57Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "bf377f5fca098ca9debfec0f1b231a8a216bd378",
+      "date": "2013-04-03T09:49:17Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "bae74ba0082c9feacc725b22eba4662871d66f6a",
+      "date": "2013-04-03T08:14:40Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "bd9783d43bcd9e8905b6190180f86b0cbe44d6e2",
+      "date": "2013-04-02T21:58:14Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "8198f6bde52e158817235437813b1ff5795d676a",
+      "date": "2013-04-01T20:56:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f3c0c31e58ca3a4438e96dfd834d1e4e608bcced",
+      "date": "2013-04-01T20:51:51Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "153646c5d619c28aca81faf3a4595f4849aa78e3",
+      "date": "2013-04-01T20:38:25Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "02f0c34bee6884389ec91a3b1d80e49ef469568a",
+      "date": "2013-04-01T20:21:41Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "87b60d60d5a03fe40bc48d0f10a8f81fbb066763",
+      "date": "2013-04-01T19:48:15Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "40aba63908d47c44739f17d0b074ed337ac78ae1",
+      "date": "2013-03-31T22:00:00Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "0e7fd996ac824f644869f9d68e92052eb4ada77b",
+      "date": "2013-03-31T21:57:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "84047add41a0421283e8505c00dbd28bdc82f83c",
+      "date": "2013-03-30T01:55:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7d017dfafb83e6111d15630da9eab2fca8d9b8cf",
+      "date": "2013-03-30T01:50:44Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "2fad4cbf853bac70937716d757bbe04a1b19ba50",
+      "date": "2013-03-30T01:42:58Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "10e385922f773e8674ccaacd4d8ecd32714bee36",
+      "date": "2013-03-30T01:39:58Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b9af3c85435ca440452c5463fc3d305a931bc809",
+      "date": "2013-03-30T01:16:01Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7222543cb2cc48270e2d4eeffd313f0bb6b8f858",
+      "date": "2013-03-30T01:07:45Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "440bb59a5569b80ed0c3b6391b71c31175f165f0",
+      "date": "2013-03-30T00:37:57Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6839cbedf9ef52e37ae4ac9646fcd6d6795a6fc1",
+      "date": "2013-03-30T00:24:50Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "1473270662241b60009b945d667b4ca40445b94b",
+      "date": "2013-03-30T00:10:30Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "c30d10b94282bce8e2dbd425565fa238e22a2e3e",
+      "date": "2013-03-29T23:58:21Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "5114af1eda0181f5d3ba57ffbb71bfcae330dd97",
+      "date": "2013-03-29T23:25:17Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "97ff2aa246ca4c64849123c9f5296f1babc7f90f",
+      "date": "2013-03-29T23:19:11Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "518f754bce0820f2b79eafa2b7ca31c8b30f3f5a",
+      "date": "2013-03-29T23:15:34Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "56cd1cf807d58bc0ae79fdb25037eeeac15942fa",
+      "date": "2013-03-29T22:16:13Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "4eba9923503e7b050e8442b988c31d9ea28b7f36",
+      "date": "2013-03-29T22:15:20Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "f893814577552f8d70cddd0c7cbab947323825bf",
+      "date": "2013-03-29T22:14:15Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "2a4448e3dc2d3865513feab666556cf59c089ed4",
+      "date": "2013-03-29T21:43:31Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "0e70bd1daa4b77dca5e41b0c167a67272413e81a",
+      "date": "2013-11-05T22:54:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "f16fe644dea2497e7512724ad71bfe877dfa312e",
+      "date": "2013-11-04T20:31:43Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "973b0cddb6f48bd0fa62282c8d6765aa71d7fed2",
+      "date": "2013-10-25T18:51:20Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "82a4fcc80e68d4aa620cfc84d137d1bb782a664a",
+      "date": "2013-04-16T21:23:27Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "b410751b753a076488cd8239d2ceeb8e52937624",
+      "date": "2013-04-15T21:16:31Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 13262562,
+      "date": "2013-02-07T21:57:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15662031,
+      "date": "2013-03-29T21:41:11Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15662119,
+      "date": "2013-03-29T21:43:22Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15666729,
+      "date": "2013-03-30T00:31:37Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15667499,
+      "date": "2013-03-30T01:21:39Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15667917,
+      "date": "2013-03-30T01:57:16Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15777857,
+      "date": "2013-04-02T14:21:08Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15779300,
+      "date": "2013-04-02T14:44:23Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 15805439,
+      "date": "2013-04-02T21:58:09Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16070295,
+      "date": "2013-04-08T18:48:07Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16203912,
+      "date": "2013-04-10T21:37:17Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16205579,
+      "date": "2013-04-10T22:08:44Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16225908,
+      "date": "2013-04-11T10:00:08Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16393892,
+      "date": "2013-04-15T15:58:27Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16409760,
+      "date": "2013-04-15T20:35:32Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16411510,
+      "date": "2013-04-15T21:07:49Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16411730,
+      "date": "2013-04-15T21:12:14Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 19397089,
+      "date": "2013-06-13T14:55:12Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 21939758,
+      "date": "2013-08-01T14:24:03Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 22164819,
+      "date": "2013-08-06T08:35:04Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 22173313,
+      "date": "2013-08-06T11:45:34Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 22173516,
+      "date": "2013-08-06T11:50:38Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 22173676,
+      "date": "2013-08-06T11:53:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 22236091,
+      "date": "2013-08-07T08:11:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 22236168,
+      "date": "2013-08-07T08:13:49Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 23546856,
+      "date": "2013-08-30T08:17:52Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 23717105,
+      "date": "2013-09-03T14:36:22Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 23717284,
+      "date": "2013-09-03T14:38:26Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 27979461,
+      "date": "2013-11-07T16:13:08Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 28016872,
+      "date": "2013-11-07T23:18:19Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 28430454,
+      "date": "2013-11-13T20:24:53Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 29386168,
+      "date": "2013-11-27T14:03:03Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 29524558,
+      "date": "2013-11-29T16:02:38Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 29525026,
+      "date": "2013-11-29T16:11:14Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 29719694,
+      "date": "2013-12-03T15:36:34Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 36649378,
+      "date": "2014-03-04T17:18:07Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 36649511,
+      "date": "2014-03-04T17:19:26Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 36740357,
+      "date": "2014-03-05T13:12:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 36760896,
+      "date": "2014-03-05T16:24:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 41232100,
+      "date": "2014-04-24T00:50:49Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 41232169,
+      "date": "2014-04-24T00:52:12Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 42738479,
+      "date": "2014-05-10T10:43:15Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 83727223,
+      "date": "2015-03-19T19:23:39Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 83737130,
+      "date": "2015-03-19T19:49:17Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 83737671,
+      "date": "2015-03-19T19:51:35Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 83739116,
+      "date": "2015-03-19T19:57:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 83753580,
+      "date": "2015-03-19T20:33:41Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 118323200,
+      "date": "2015-07-03T11:36:30Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 118326026,
+      "date": "2015-07-03T11:42:18Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 134315411,
+      "date": "2015-08-24T17:50:41Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 27143975,
+      "date": "2013-10-26T10:58:44Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 27823091,
+      "date": "2013-11-05T23:08:48Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 54976011,
+      "date": "2014-09-09T14:22:00Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 54980781,
+      "date": "2014-09-09T14:51:44Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 63522382,
+      "date": "2014-11-18T18:44:05Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 63529593,
+      "date": "2014-11-18T19:28:38Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 63804590,
+      "date": "2014-11-20T13:05:13Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 63818030,
+      "date": "2014-11-20T14:46:13Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 63900573,
+      "date": "2014-11-20T23:37:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 85,
+      "date": "2013-11-28T16:16:32Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 84,
+      "date": "2013-11-28T15:07:57Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 80,
+      "date": "2013-11-04T13:52:10Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 63,
+      "date": "2013-04-13T11:09:26Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 62,
+      "date": "2013-04-13T00:36:04Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 61,
+      "date": "2013-04-12T23:13:04Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 60,
+      "date": "2013-04-12T13:21:17Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 59,
+      "date": "2013-04-11T20:12:05Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 58,
+      "date": "2013-04-11T00:20:20Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 57,
+      "date": "2013-04-10T22:32:15Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 56,
+      "date": "2013-04-10T20:52:50Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 55,
+      "date": "2013-04-10T20:39:17Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 54,
+      "date": "2013-04-10T20:38:46Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 53,
+      "date": "2013-04-10T20:37:20Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 49,
+      "date": "2013-04-05T11:03:15Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 42,
+      "date": "2013-04-01T20:56:11Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 41,
+      "date": "2013-03-31T21:59:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 40,
+      "date": "2013-03-30T01:50:12Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 39,
+      "date": "2013-03-30T01:15:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 38,
+      "date": "2013-03-30T00:24:23Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 32,
+      "date": "2012-12-10T17:55:47Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 2444,
+      "date": "2014-11-18T19:25:18Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 1113,
+      "date": "2013-11-05T23:02:33Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 718,
+      "date": "2013-04-16T21:29:55Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 716,
+      "date": "2013-04-15T21:20:02Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "issue",
+      "id": 2441,
+      "date": "2014-11-18T14:16:59Z"
+    },
+    {
+      "dev_id": "sbotman",
+      "repo": "chef/chef",
+      "type": "issue",
+      "id": 2016,
+      "date": "2014-09-09T13:15:19Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b9d47730a3e92622eb549a395ade1c0fc198e2ba",
+      "date": "2013-12-03T13:51:20Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7f46cdd152660ac7d32650261e5b4cbaa7eb4c9e",
+      "date": "2013-11-28T23:45:05Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "aed4d825b0f14d16b22222a4b1496735ea74bb4f",
+      "date": "2013-11-28T23:42:30Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "0e59016a19af5420451845dad4b6baec17903190",
+      "date": "2013-10-22T02:59:31Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 29387104,
+      "date": "2013-11-27T14:16:57Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 27046418,
+      "date": "2013-10-25T00:34:38Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 88,
+      "date": "2013-12-03T13:51:23Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 87,
+      "date": "2013-11-28T23:45:10Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 86,
+      "date": "2013-11-28T23:42:33Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 1075,
+      "date": "2013-10-22T03:00:11Z"
+    },
+    {
+      "dev_id": "benlangfeld",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "issue",
+      "id": 83,
+      "date": "2013-11-26T19:29:10Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "5c484efd091ad6fd8dca2d7d141d56687f848ccd",
+      "date": "2013-04-17T16:55:36Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "0cc9248bff5a637ef081945d234746dbaf0b8ab9",
+      "date": "2013-04-09T16:04:32Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "fdb0bf42c2cb92acd078c89ff1dba541d223e367",
+      "date": "2013-04-09T13:45:42Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "c99665770f2e9f8e118179b807cdd8ffebbd3e63",
+      "date": "2013-09-02T12:20:07Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 16111188,
+      "date": "2013-04-09T13:07:04Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 23698629,
+      "date": "2013-09-03T09:04:38Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 23725881,
+      "date": "2013-09-03T16:24:46Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 66,
+      "date": "2013-04-17T17:11:31Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 52,
+      "date": "2013-04-09T16:14:17Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 51,
+      "date": "2013-04-09T15:03:54Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 50,
+      "date": "2013-04-09T09:51:18Z"
+    },
+    {
+      "dev_id": "marbe",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 972,
+      "date": "2013-09-02T12:23:52Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "fc75d47c42f015e0d00fe45b0a24ed9e1cc94971",
+      "date": "2012-11-22T14:39:36Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "68448984f5e478b13c57f2acf26db60241743aab",
+      "date": "2012-11-22T14:38:59Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b989eb283920a80ca9dc3703346f0f0d73124ee9",
+      "date": "2012-11-22T14:37:42Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "4f301bc8ad45600caa4a8a5d91163e4957fcce66",
+      "date": "2012-11-22T11:18:49Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "873179d7b9bf5428a3accde93442f9a4fdb10aa6",
+      "date": "2012-11-22T11:18:24Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "3d00427091ccf2841a89c4d5db8f000b6556c28e",
+      "date": "2012-11-22T06:59:27Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b52fa7ae9695e26f87339a3e92137a2d63992746",
+      "date": "2012-11-21T17:03:53Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "869b56b4cb206672f1f88a61499fe94d7179aca2",
+      "date": "2012-11-21T13:21:27Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "56fede8a8b16143ed64a5b7f6a4216dca215a285",
+      "date": "2012-11-20T19:30:01Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e2521e8fd213982cf68fb9a589da1b3696bd13a4",
+      "date": "2012-11-20T19:24:45Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "04aba6348b7e804474fb12e12eb410824db40777",
+      "date": "2012-11-20T12:53:19Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "4fc53f08b619e2ae8d368c1ffeeec8fbc1f294a0",
+      "date": "2012-11-08T08:38:44Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "b3123f45ba11b9b11c38336a9aaa751e4e4f26cb",
+      "date": "2012-08-28T13:56:36Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "553990316760351ced2e658a02e0e4936161e7e6",
+      "date": "2012-08-28T13:55:54Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "0c56d276907befe8cb478ec4e6ece6a7e082f377",
+      "date": "2012-08-28T13:55:12Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "bbfcd871da3e6a9b3445734d73d73465ae1ed014",
+      "date": "2013-07-30T05:04:44Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "b4b717931578ef0dcbf578d80f18bb421f08b61b",
+      "date": "2013-07-29T18:45:30Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "5d3065807b42bad189d32db316b6ddbee4abe904",
+      "date": "2013-07-26T20:07:49Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "3a5cca14ad4fd9770a0131ebf892454bbb7a88eb",
+      "date": "2013-07-23T07:38:40Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "5cc6b7910985fbdf3557a2dddfb33a512f0024cd",
+      "date": "2013-07-10T20:28:22Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "ca156b248faf15949831d2ff8ceeb19af017b05c",
+      "date": "2013-07-10T20:15:17Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "010c705bd62e26585422ee711727b17d93e3a82c",
+      "date": "2013-07-10T20:14:44Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "6a2d289893ceb514e71ae28fa566d7ffe17a0993",
+      "date": "2013-07-10T18:17:59Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "40e3f602a6e2482e478308212d8d6b9ff3814136",
+      "date": "2013-04-03T08:32:39Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "41acffc992a1b1c69807ad01d43a78a878fc4476",
+      "date": "2013-04-02T18:37:02Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "1d166a16226879ec3762bda4eadb4d0375556413",
+      "date": "2013-03-27T00:59:51Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "584c79291914386ad9d7fe2440d5a5b9dd6c0ffa",
+      "date": "2013-03-27T00:39:12Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "4deb3555e8c15bd3320b029b2378a326867abc50",
+      "date": "2013-03-11T14:10:07Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "74c02fa24b45b4a0f5a951aed86f93e0f7ebb0b8",
+      "date": "2013-03-28T02:52:28Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "6722d436f638179ce6bae5f11aa305527b15d3f4",
+      "date": "2013-03-27T00:59:51Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "631b4bd6154a1ffcc325a4bb69b16a27f280ebb9",
+      "date": "2013-03-27T00:39:12Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "57201dca8ba9b45606817cb641f5515fdbe52aab",
+      "date": "2013-03-12T15:48:58Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "745101f34f6b7c0e1c255d1ca9763b12456a5331",
+      "date": "2013-03-12T15:48:26Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "57a83a332098ab92fcb654952a05bf18aaecc0d0",
+      "date": "2013-03-11T14:10:07Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 20408703,
+      "date": "2013-07-03T11:08:20Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 879,
+      "date": "2013-07-05T11:43:03Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 701,
+      "date": "2013-04-03T08:40:51Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 693,
+      "date": "2013-03-28T16:16:01Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 680,
+      "date": "2013-03-15T16:10:47Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "586fa55a0c1fa613ddf571aa2e86f3ea53c5779a",
+      "date": "2012-06-11T22:12:25Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "90d15934cc0fecf39212d176bb35a9400aa336c4",
+      "date": "2012-05-16T00:47:51Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "2135a1ccdfb32939453793e81bc6fb1a10297383",
+      "date": "2011-11-23T21:50:34Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "0437552664befece50350caddea784e16e572a48",
+      "date": "2011-11-22T03:01:24Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "c84479a6642e02eed3222e8ec43a84ce5cf98111",
+      "date": "2011-11-19T01:56:46Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "118f1d863d12f4fcdcaad263c3e06fe234c73c24",
+      "date": "2011-05-23T20:57:00Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "7369d46e5f8dee81299c0cece14cc2cee7e60f30",
+      "date": "2011-05-20T19:33:39Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4206349,
+      "date": "2012-02-27T23:53:10Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4207131,
+      "date": "2012-02-28T00:48:05Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4207262,
+      "date": "2012-02-28T00:59:07Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4268636,
+      "date": "2012-03-01T19:41:43Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4298049,
+      "date": "2012-03-03T03:27:42Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 5058310,
+      "date": "2012-04-10T22:51:26Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 5757562,
+      "date": "2012-05-17T03:31:11Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6156746,
+      "date": "2012-06-06T17:17:27Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6413299,
+      "date": "2012-06-19T00:43:02Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6497506,
+      "date": "2012-06-21T23:47:19Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6973877,
+      "date": "2012-07-13T20:06:41Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 183,
+      "date": "2011-11-19T02:09:14Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 86,
+      "date": "2011-05-20T19:43:46Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "issue",
+      "id": 18,
+      "date": "2012-06-16T00:08:45Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "issue",
+      "id": 17,
+      "date": "2012-06-16T00:07:03Z"
+    },
+    {
+      "dev_id": "kcbraunschweig",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "issue",
+      "id": 5,
+      "date": "2012-03-03T03:38:54Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "c67da0d454e45e076f9c9e5a6312d70dc8e3e9aa",
+      "date": "2014-04-01T23:33:33Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "c0b3465d1f84aced1e0ad613a974cecb8dc1c24a",
+      "date": "2013-12-13T17:39:52Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6e72bd8d4fc3e8a81aa9d5dfbbf5c39659334c27",
+      "date": "2013-11-24T05:19:28Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "4a4979de1bfc6d3bf5edec8d3bf2f8e7e14fcae5",
+      "date": "2013-11-24T04:54:48Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "7aee6ca8692302e6b530cfeb552ffd7dcf679ac0",
+      "date": "2012-04-06T05:55:28Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "146b4e25f804011b1c3d96b55c236dd963de96ad",
+      "date": "2012-04-06T05:55:16Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "6a2623fe73fcb681e7d0a33f3c8c6a4ea289da90",
+      "date": "2012-03-10T21:41:14Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "5d460025273daf83f3e10e9eba95709a1c8103df",
+      "date": "2012-03-09T22:23:44Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "8ac73e71c8d54e733aadf9fdcbd8d76cf63e54b1",
+      "date": "2012-03-09T04:20:38Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "efdd52512f679a415a25b4f96756f4f5b7fd7d77",
+      "date": "2011-05-02T19:07:16Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4671871,
+      "date": "2012-03-24T06:11:07Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4671873,
+      "date": "2012-03-24T06:11:23Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4871583,
+      "date": "2012-04-02T02:35:30Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4871587,
+      "date": "2012-04-02T02:35:52Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 4991358,
+      "date": "2012-04-06T06:27:24Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 5822627,
+      "date": "2012-05-21T13:39:41Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6964345,
+      "date": "2012-07-13T14:21:39Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6972813,
+      "date": "2012-07-13T19:22:05Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 102,
+      "date": "2014-04-01T23:35:24Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 92,
+      "date": "2013-12-13T17:45:55Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 82,
+      "date": "2013-11-24T04:55:34Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 24,
+      "date": "2012-07-13T19:22:46Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 8,
+      "date": "2012-03-10T21:44:31Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 7,
+      "date": "2012-03-10T21:43:33Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 245,
+      "date": "2012-03-09T04:22:03Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 77,
+      "date": "2011-05-02T19:12:58Z"
+    },
+    {
+      "dev_id": "lusis",
+      "repo": "chef/chef",
+      "type": "pr",
+      "id": 38,
+      "date": "2010-12-09T05:07:18Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "7dbfdebc0e2695d9ca8856b1af10347eab51718e",
+      "date": "2011-06-02T13:42:23Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "3b02f5bc41dabea4ecc2f3c45e7abc0ae9b8a60e",
+      "date": "2011-05-21T03:35:27Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "chef/chef",
+      "type": "commit",
+      "id": "ee2890e890811275758d61518951d535bb5bcb73",
+      "date": "2011-05-21T02:21:13Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6688193,
+      "date": "2012-06-30T20:18:57Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6780764,
+      "date": "2012-07-05T14:55:01Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6854991,
+      "date": "2012-07-09T18:20:29Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6888611,
+      "date": "2012-07-10T20:50:09Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6889018,
+      "date": "2012-07-10T20:57:19Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6895064,
+      "date": "2012-07-11T00:38:47Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6895784,
+      "date": "2012-07-11T01:32:12Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6895946,
+      "date": "2012-07-11T01:44:56Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 6904188,
+      "date": "2012-07-11T11:40:26Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 65326385,
+      "date": "2014-12-02T23:36:19Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 20,
+      "date": "2012-07-09T18:18:38Z"
+    },
+    {
+      "dev_id": "agoddard",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "issue",
+      "id": 23,
+      "date": "2012-07-11T01:33:47Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "e14c6d694dfad5cef00bdd36bf7ba28ccb8dda2f",
+      "date": "2013-12-04T22:43:31Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "commit",
+      "id": "ddb950288bc0c234238e3ccaa22378f23839bc83",
+      "date": "2013-12-04T20:12:29Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 29842873,
+      "date": "2013-12-04T20:36:58Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "com",
+      "id": 29849832,
+      "date": "2013-12-04T21:56:14Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 77889922,
+      "date": "2015-03-09T16:34:21Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "chef/chef",
+      "type": "com",
+      "id": 77890619,
+      "date": "2015-03-09T16:37:35Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 91,
+      "date": "2013-12-04T22:46:01Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "pr",
+      "id": 90,
+      "date": "2013-12-04T20:35:19Z"
+    },
+    {
+      "dev_id": "dpnl87",
+      "repo": "CloudStack-extras/knife-cloudstack",
+      "type": "issue",
+      "id": 89,
+      "date": "2013-12-04T20:32:33Z"
+    }
+  ]
+}

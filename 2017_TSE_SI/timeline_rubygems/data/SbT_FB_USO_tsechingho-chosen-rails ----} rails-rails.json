@@ -1,0 +1,4266 @@
+{
+  "user_repo": "tsechingho/chosen-rails",
+  "dep_repo": "rails/rails",
+  "dep_date": "2011-11-28 05:23:54 UTC",
+  "dep_commit_id": "bc89db4196161f138a521c8312aae6fc945648c6",
+  "social_date": "2011-08-30 10:05:01 UTC",
+  "devs": [
+    "asanghi",
+    "Nerian",
+    "ugisozols",
+    "jrochkind",
+    "tsechingho",
+    "dgilperez"
+  ],
+  "interactions": [
+    {
+      "dev_id": "asanghi",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "efc21c5087443fecde85d80c443b7966ef261f95",
+      "date": "2013-01-20T10:12:40Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "7ab289f30e3d04dbf6c710acfa73c0627de78e8d",
+      "date": "2013-01-04T21:47:49Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c26402cc973dc2195e8ddd521ed7bc28cc4f6105",
+      "date": "2015-06-08T07:38:08Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3c190646103d838f6259eda0f6833da6efc03a84",
+      "date": "2013-01-16T11:29:45Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2bacacd653a01a027488c8208a7f4f7da8224db2",
+      "date": "2013-01-04T15:34:57Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "193c31c9a65eb4de29391509a1a7af7c31a5730f",
+      "date": "2012-11-30T09:26:54Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e8502edae76e2b1a4fd0c7865579ec41e6f38415",
+      "date": "2012-11-20T13:38:51Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "74bd13479b4d779a824873d67d771b007567398d",
+      "date": "2012-10-10T09:56:21Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b12d04808af92ec10bf9a9d14d512909e1869b18",
+      "date": "2012-10-10T09:43:56Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f16ec8c864ba12c2315713af76b11be5887cfa3a",
+      "date": "2012-10-10T09:22:02Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fd6b9f3ce17a0223ce09d0e0b8da3ed8e9c8b235",
+      "date": "2012-09-06T20:32:33Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d016decb47b3bc1a9ab7f4e2f82cf54de1f23965",
+      "date": "2012-09-06T20:17:27Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "75dc1950e08151fc800ab610f9fd5b6986275a8e",
+      "date": "2012-09-06T20:09:27Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8fc8763fde2cc685ed63fcf640cfae556252809b",
+      "date": "2012-08-20T13:22:12Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "951503819e067ee87569137111016e375d7b6a2b",
+      "date": "2012-08-06T18:38:25Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7c8424e057b53cf12ce1c748b09601e720be6a09",
+      "date": "2012-07-30T18:27:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d6c831c198baee2542a070c62f1608f88fe60e34",
+      "date": "2012-04-25T02:56:41Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "67ede880550836ce9f66164c56c8afeb397a54da",
+      "date": "2012-04-17T20:54:44Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6f80ea2aec83523640b505ddd5b6e87f0100a85b",
+      "date": "2012-04-17T19:18:59Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0232543e0d885902b5b3ea9c4cf0638d76583a35",
+      "date": "2012-04-17T10:01:05Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "41af36f5d37dedef6897b6aa6701d429d13efe6b",
+      "date": "2012-04-13T20:15:48Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f49ec92866f6d8f27617b5723bff99ac0f7ca92f",
+      "date": "2012-02-18T06:28:43Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "abcaa9be82277f96e7ddeaf4e32e6efb39edec02",
+      "date": "2012-02-18T06:15:52Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "910f7aab50321b2a8b347864782d8dc4f09915d8",
+      "date": "2012-02-18T06:08:30Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e4f6e6ad2d00cf2a205a405c18b4c7f284d153fd",
+      "date": "2011-05-22T11:47:04Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a59a67d01cbae485a8b46066b8a94f11db591765",
+      "date": "2011-05-10T14:37:27Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5e235278c479b9060f8dd1eb32a1abd0894b7070",
+      "date": "2011-05-06T20:07:14Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a8cfceca55b36129f87a512c7852901e416a1ee9",
+      "date": "2011-05-06T15:32:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cdf1842caafb805e42c3354795e08e20cf2902f1",
+      "date": "2011-05-06T15:29:15Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9b5c29038df3ffc4a4038aac7e5cba0c5b088729",
+      "date": "2011-05-06T14:59:11Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "75e1e2175d81b7047145768e72a0541b3266abed",
+      "date": "2011-05-06T12:34:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "65a9563209c741757a9a0177019eff3b10de98a8",
+      "date": "2011-05-06T10:21:09Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ae7d0d816db3f9a94008d36ab9efbe7583700981",
+      "date": "2010-11-29T15:15:43Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7d0f26796d4bff7bb3fdc6c105bb3a4f5555b75a",
+      "date": "2011-05-05T10:11:14Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8bce6e761d52afd68bb06ca9ff8222f072e06cc8",
+      "date": "2011-04-29T04:51:16Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "36ee2bafec9f38fc3de404d7708f27a66960ee10",
+      "date": "2011-04-29T04:23:02Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bf5cf5db86fa0aeb818d32541a35310de992f426",
+      "date": "2011-04-28T21:24:37Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "610e4d9f24b8fe0c372104481a733b48d2270c3f",
+      "date": "2011-04-28T20:33:56Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a869382a9fa241f72a7a73d4a9738531c4c37ba5",
+      "date": "2011-04-28T20:19:45Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3a7c7dc73d6111e7c821a81d9c56024dd35769a5",
+      "date": "2011-03-23T17:06:22Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6fc3750471ff9642395c4e0462d5059c2133d9aa",
+      "date": "2010-12-15T10:43:36Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7a237d56aa38c51987af0fd52d001989c4f3da07",
+      "date": "2010-11-29T12:43:17Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f07ff29ea9347b0320181b6c4d4ee8f665f11554",
+      "date": "2010-11-29T16:11:48Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6308f1f0fc5d85963e90787190e1164da7ac364e",
+      "date": "2010-11-29T16:10:39Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2025775adb12371456d987d229513912c6381cc6",
+      "date": "2010-11-29T16:09:18Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8601f163a8017950a4693855ebaa9141d443e277",
+      "date": "2010-11-29T16:06:43Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "04922bafda9456ca9b6b8c59f231c402cb7952b7",
+      "date": "2010-11-27T14:26:08Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f28916194cc19759dd6b1ce4f22ef59b49f0c8f8",
+      "date": "2010-11-27T09:50:46Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5b9f6a74db1a58c5557087cd924fd67dd9cf43e0",
+      "date": "2010-11-26T11:11:33Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "330d65d31222148019855d6914e35c8cd9f90cd5",
+      "date": "2010-11-14T12:57:08Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "920660b19c5419c6df1c234a84e7fec71b169544",
+      "date": "2010-10-15T17:13:01Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3ca16650389aa0d186a441f74b54a409cce4b392",
+      "date": "2010-10-29T04:43:48Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "74f3f74b6e6a33abe645a5e9d1bb04cb58676575",
+      "date": "2010-10-29T04:31:43Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5a36f9f89d7ea58c36b486411fc887f9fe6dfc63",
+      "date": "2010-10-16T20:39:47Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "40398a1f47e4fd83c4b5c4346c8ba9685bb0bd2d",
+      "date": "2010-10-16T20:38:15Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a0b53b25b6dc422bf29d2879a8f1a53b9983ac77",
+      "date": "2010-10-12T20:09:22Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "582a088ba7f3e720a259f6e01b3fabcda87484b7",
+      "date": "2010-10-03T19:35:44Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "36862511e065d5ea02dae9d2dcb7f498af99cab1",
+      "date": "2010-10-09T15:31:32Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ae812e9fc9232a56daebd7e20f56a18981480d8c",
+      "date": "2010-10-06T06:29:11Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "990719bb59b89c614ec81aa25f2fc83f3323c9ea",
+      "date": "2010-10-05T15:31:01Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "297cf0b26658ff9c7f19fc703de5bd8939e31d06",
+      "date": "2010-10-02T12:09:12Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8d1df887d32643f0aee2d71f7216ec98fdfe4fdb",
+      "date": "2010-09-29T12:45:36Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "de880302bdee5453ab83373f27ac6d33a9066c54",
+      "date": "2010-09-25T09:34:25Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "db8b3e71dc30e326a665f3b9d5c70473b8f08fa4",
+      "date": "2010-09-25T09:19:28Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c94e92e2b080ef824bc63dae771173fd4f57e28e",
+      "date": "2010-09-25T09:01:19Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 12000999,
+      "date": "2013-01-08T15:17:21Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1072450,
+      "date": "2011-04-28T21:31:19Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1073856,
+      "date": "2011-04-29T04:53:17Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1110461,
+      "date": "2011-05-06T09:52:45Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1110630,
+      "date": "2011-05-06T10:43:22Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1110759,
+      "date": "2011-05-06T11:14:06Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1110785,
+      "date": "2011-05-06T11:26:01Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1110907,
+      "date": "2011-05-06T12:00:51Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1111228,
+      "date": "2011-05-06T13:20:22Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1111347,
+      "date": "2011-05-06T13:48:45Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1111702,
+      "date": "2011-05-06T15:02:55Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1111891,
+      "date": "2011-05-06T15:33:48Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1113210,
+      "date": "2011-05-06T19:40:54Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1113777,
+      "date": "2011-05-06T21:42:16Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1122197,
+      "date": "2011-05-09T10:51:37Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1123336,
+      "date": "2011-05-09T15:19:11Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1123424,
+      "date": "2011-05-09T15:36:32Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1124657,
+      "date": "2011-05-09T16:42:07Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1125328,
+      "date": "2011-05-09T18:29:09Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1133224,
+      "date": "2011-05-10T20:11:35Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1136302,
+      "date": "2011-05-11T08:04:38Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1136615,
+      "date": "2011-05-11T09:22:09Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1138140,
+      "date": "2011-05-11T11:46:08Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1152213,
+      "date": "2011-05-13T10:47:10Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1162589,
+      "date": "2011-05-14T14:38:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1162603,
+      "date": "2011-05-14T14:40:53Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1163588,
+      "date": "2011-05-14T20:13:48Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1165639,
+      "date": "2011-05-15T10:51:25Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1171511,
+      "date": "2011-05-16T05:16:35Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1171525,
+      "date": "2011-05-16T05:23:38Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1171538,
+      "date": "2011-05-16T05:26:45Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1208479,
+      "date": "2011-05-20T07:14:14Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1208486,
+      "date": "2011-05-20T07:16:07Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1208812,
+      "date": "2011-05-20T08:48:44Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1209162,
+      "date": "2011-05-20T10:22:57Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1211657,
+      "date": "2011-05-20T18:33:07Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1216631,
+      "date": "2011-05-22T08:19:23Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1226094,
+      "date": "2011-05-24T05:07:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1252052,
+      "date": "2011-05-27T22:12:15Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1594020,
+      "date": "2011-07-18T09:46:26Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1594215,
+      "date": "2011-07-18T10:19:53Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1594645,
+      "date": "2011-07-18T12:03:58Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1594866,
+      "date": "2011-07-18T12:36:19Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1927913,
+      "date": "2011-08-29T07:20:08Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1990904,
+      "date": "2011-09-04T11:29:53Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2011358,
+      "date": "2011-09-06T08:50:25Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2015530,
+      "date": "2011-09-06T13:13:21Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2015817,
+      "date": "2011-09-06T13:44:52Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2015964,
+      "date": "2011-09-06T14:01:08Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2090783,
+      "date": "2011-09-14T08:04:44Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2809070,
+      "date": "2011-11-20T22:37:34Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3673753,
+      "date": "2012-01-26T18:23:24Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3698612,
+      "date": "2012-01-28T06:16:47Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3739478,
+      "date": "2012-01-31T14:07:29Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4016480,
+      "date": "2012-02-17T07:47:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4017316,
+      "date": "2012-02-17T09:16:07Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4032359,
+      "date": "2012-02-18T06:30:34Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5147782,
+      "date": "2012-04-16T08:22:40Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5169401,
+      "date": "2012-04-17T06:59:17Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5170680,
+      "date": "2012-04-17T08:46:47Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5170850,
+      "date": "2012-04-17T08:59:51Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5182900,
+      "date": "2012-04-17T18:53:01Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5183849,
+      "date": "2012-04-17T19:36:54Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5185836,
+      "date": "2012-04-17T20:59:54Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5228554,
+      "date": "2012-04-19T18:26:13Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5281002,
+      "date": "2012-04-23T13:30:25Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5320819,
+      "date": "2012-04-25T00:13:22Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7500426,
+      "date": "2012-08-04T09:05:34Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7500996,
+      "date": "2012-08-04T11:01:45Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7501014,
+      "date": "2012-08-04T11:06:28Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7812196,
+      "date": "2012-08-17T08:08:05Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7937292,
+      "date": "2012-08-22T15:07:52Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8117586,
+      "date": "2012-08-29T07:41:53Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8270866,
+      "date": "2012-09-04T17:07:31Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 9132092,
+      "date": "2012-10-04T06:43:48Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10554883,
+      "date": "2012-11-20T13:58:21Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10885379,
+      "date": "2012-11-30T10:56:11Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10914426,
+      "date": "2012-12-01T07:17:03Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10920728,
+      "date": "2012-12-01T19:07:18Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10920920,
+      "date": "2012-12-01T19:23:04Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 11707787,
+      "date": "2012-12-27T13:28:41Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 11751671,
+      "date": "2012-12-29T11:29:46Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 11752922,
+      "date": "2012-12-29T14:03:53Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 11893307,
+      "date": "2013-01-04T18:14:22Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 11894506,
+      "date": "2013-01-04T18:46:27Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "tsechingho/chosen-rails",
+      "type": "pr",
+      "id": 17,
+      "date": "2013-01-20T10:14:13Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "tsechingho/chosen-rails",
+      "type": "pr",
+      "id": 15,
+      "date": "2013-01-04T23:44:35Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 20474,
+      "date": "2015-06-08T07:38:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8963,
+      "date": "2013-01-16T11:32:04Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8753,
+      "date": "2013-01-04T17:58:04Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8747,
+      "date": "2013-01-04T15:36:39Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8632,
+      "date": "2012-12-27T13:56:54Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8382,
+      "date": "2012-11-30T09:29:09Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8280,
+      "date": "2012-11-20T13:45:20Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7899,
+      "date": "2012-10-10T10:02:00Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7549,
+      "date": "2012-09-06T20:10:35Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7397,
+      "date": "2012-08-20T13:31:47Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7275,
+      "date": "2012-08-06T18:46:29Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7202,
+      "date": "2012-07-30T18:39:13Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5880,
+      "date": "2012-04-17T19:35:10Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5875,
+      "date": "2012-04-17T10:07:03Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5874,
+      "date": "2012-04-17T09:32:53Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5835,
+      "date": "2012-04-13T20:16:59Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5073,
+      "date": "2012-02-17T09:49:10Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 1201,
+      "date": "2011-05-22T04:45:55Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 414,
+      "date": "2011-05-06T12:38:03Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 413,
+      "date": "2011-05-06T11:47:10Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 410,
+      "date": "2011-05-06T10:25:58Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 396,
+      "date": "2011-05-05T10:26:09Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 344,
+      "date": "2011-04-28T21:30:52Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 343,
+      "date": "2011-04-28T20:40:50Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "tsechingho/chosen-rails",
+      "type": "issue",
+      "id": 16,
+      "date": "2013-01-20T10:06:22Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 8286,
+      "date": "2012-11-21T10:22:50Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 7105,
+      "date": "2012-07-19T10:19:01Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 2971,
+      "date": "2011-09-10T14:50:32Z"
+    },
+    {
+      "dev_id": "asanghi",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 2502,
+      "date": "2011-08-12T09:26:02Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "25ceac85e9bd0ff86ea6b0bc1982d40b68883a85",
+      "date": "2012-04-10T17:28:38Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2ebf47aea21ff8ac10681e53e78dd7a0e5c31c6e",
+      "date": "2013-07-27T16:37:28Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 74372532,
+      "date": "2015-02-14T12:03:41Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "tsechingho/chosen-rails",
+      "type": "pr",
+      "id": 1,
+      "date": "2012-04-10T17:28:43Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 11628,
+      "date": "2013-07-27T19:26:37Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 11626,
+      "date": "2013-07-27T18:33:49Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 11624,
+      "date": "2013-07-27T16:43:57Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 10169,
+      "date": "2013-04-10T20:24:51Z"
+    },
+    {
+      "dev_id": "Nerian",
+      "repo": "tsechingho/chosen-rails",
+      "type": "issue",
+      "id": 19,
+      "date": "2013-02-13T21:20:12Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "33eec08dfd5672ffdd84a9d00e6115144bfa8bc7",
+      "date": "2013-06-19T09:19:06Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9fb4803016fbc2108b9446b441dc40d8189c9cfb",
+      "date": "2012-11-27T13:11:30Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1a6b0828085eac4a9e9ee1d003a927e7476c5af3",
+      "date": "2012-10-24T13:14:59Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b47d5bb77ea04babe9d098872cac934d27fb7277",
+      "date": "2012-09-13T18:36:26Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bd9953f11e8e72f8a8a507182d7328f3c8802e27",
+      "date": "2012-05-23T08:45:08Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "770c2411da905b23aba67dbffdd9961e08b50cf7",
+      "date": "2012-04-28T10:31:53Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "15338530f8e82e335d940f2938f1b22ef986c5da",
+      "date": "2012-04-25T05:04:23Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "acab767c9d042031320b1ed7a7e2faa653ab1bb9",
+      "date": "2011-12-26T19:44:50Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2d1cbd02b4600625dc5db6b70ab003127a8b5559",
+      "date": "2011-12-25T13:41:50Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e4a1868bec4cae45fb18e441530639607cd169ac",
+      "date": "2011-12-25T13:28:25Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ee69ef62a8edf6adfa4aba33e5d4f61ad55b6a25",
+      "date": "2011-12-21T07:25:29Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8d827325d08e2e080be3d1ed4a827eaa97d20bf9",
+      "date": "2011-12-15T04:52:05Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d645aed91f488ed00bd4b143e04c5e9b30e00c54",
+      "date": "2011-12-05T21:11:20Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d2f46d053f640c568a9cea25db66c227b6dc4ec6",
+      "date": "2011-12-05T19:24:09Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1c65962b9da73d5ee231d38794166a94c80e4a74",
+      "date": "2011-12-05T18:37:08Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a607a9d978c4a84935fa23556de1dde5aea274d8",
+      "date": "2011-11-25T12:24:14Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9a45867b094c0a41303e24b68414bc69d2263bc8",
+      "date": "2011-11-25T12:22:36Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4015080efda2258d1eca87c92fc4039192969657",
+      "date": "2011-10-07T13:42:44Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "62a9e5a96008ac0300c181ad7b182a4d5390920e",
+      "date": "2011-09-29T11:33:32Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "663031801cac577a88931cdfe6f062555112f370",
+      "date": "2011-09-17T07:00:53Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9584e15d3967a9fd4b38dca26db2de68add96dd2",
+      "date": "2011-09-06T14:13:30Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "70cafa2bff345fe50837ad9879e01258a27b89b7",
+      "date": "2011-06-11T21:41:42Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ad3e057e4878a3abc7c30210cbf15680b359a2fb",
+      "date": "2011-05-20T17:26:20Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8f141d0ce759541bc86d273adb96ada885b85145",
+      "date": "2010-10-25T19:27:56Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "604c21102f05c4950c7b9fd5493a47a9818ca008",
+      "date": "2010-10-25T19:18:20Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4f0b119b2d36526d7eb35c9e6dd290bedde1758c",
+      "date": "2010-10-25T13:48:59Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a37e1a6a692cd2cc82b9b885f2a289d28bc35a33",
+      "date": "2010-10-13T20:31:37Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5360014a5d77e8b6db71530dae49ac651392536d",
+      "date": "2010-07-03T00:16:04Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15242554,
+      "date": "2013-03-21T14:45:16Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15243624,
+      "date": "2013-03-21T15:02:41Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15243746,
+      "date": "2013-03-21T15:04:45Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15261207,
+      "date": "2013-03-21T19:48:41Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2990926,
+      "date": "2011-12-02T14:58:47Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3031894,
+      "date": "2011-12-06T13:00:00Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3246154,
+      "date": "2011-12-22T06:58:39Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3582561,
+      "date": "2012-01-20T12:00:12Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3583008,
+      "date": "2012-01-20T12:46:59Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4001241,
+      "date": "2012-02-16T14:10:26Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4365518,
+      "date": "2012-03-07T10:11:26Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4366645,
+      "date": "2012-03-07T11:39:16Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4416710,
+      "date": "2012-03-09T14:02:41Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4417123,
+      "date": "2012-03-09T14:31:12Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4481785,
+      "date": "2012-03-13T18:49:00Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4749663,
+      "date": "2012-03-28T06:48:03Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5569831,
+      "date": "2012-05-08T08:17:10Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7930571,
+      "date": "2012-08-22T10:44:45Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8487549,
+      "date": "2012-09-12T09:48:56Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8584012,
+      "date": "2012-09-15T11:43:50Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8584056,
+      "date": "2012-09-15T11:54:45Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 9739405,
+      "date": "2012-10-24T13:36:47Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 9740118,
+      "date": "2012-10-24T13:55:42Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "tsechingho/chosen-rails",
+      "type": "pr",
+      "id": 21,
+      "date": "2013-03-21T13:44:37Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 11007,
+      "date": "2013-06-19T09:19:44Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8338,
+      "date": "2012-11-27T13:12:53Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8021,
+      "date": "2012-10-24T13:17:57Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 6455,
+      "date": "2012-05-23T08:53:43Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5342,
+      "date": "2012-03-08T21:06:27Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 4086,
+      "date": "2011-12-21T07:31:19Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 3990,
+      "date": "2011-12-15T04:54:13Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 3866,
+      "date": "2011-12-05T19:25:34Z"
+    },
+    {
+      "dev_id": "ugisozols",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 3244,
+      "date": "2011-10-07T13:43:59Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5b7cfc5eeae3c5aa8e2ab5e3a0b9bd63b8465168",
+      "date": "2012-09-11T14:38:27Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cb6f839359bd894feb0a1105b79af72b336aa41e",
+      "date": "2012-05-23T16:08:11Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cdc9031402e9d754518d8955a093820d528456a3",
+      "date": "2012-04-24T19:47:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "27ebb3dc8cb57d17a2ef7aa0e358489bc7bf4c86",
+      "date": "2012-03-12T15:14:22Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 36683715,
+      "date": "2014-03-04T21:59:21Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 36756032,
+      "date": "2014-03-05T15:48:56Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 37190750,
+      "date": "2014-03-10T14:55:47Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2097635,
+      "date": "2011-09-14T20:21:43Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2097685,
+      "date": "2011-09-14T20:26:32Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2097726,
+      "date": "2011-09-14T20:30:57Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2233874,
+      "date": "2011-09-29T04:15:19Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 2519372,
+      "date": "2011-10-25T16:26:59Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3075410,
+      "date": "2011-12-09T04:27:27Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3302511,
+      "date": "2011-12-29T16:56:41Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3441830,
+      "date": "2012-01-11T04:15:58Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3446762,
+      "date": "2012-01-11T13:53:56Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3446798,
+      "date": "2012-01-11T13:57:33Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3449820,
+      "date": "2012-01-11T17:08:43Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3458580,
+      "date": "2012-01-12T05:15:53Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3467274,
+      "date": "2012-01-12T17:48:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3654672,
+      "date": "2012-01-25T17:18:54Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3654779,
+      "date": "2012-01-25T17:24:17Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3656602,
+      "date": "2012-01-25T18:58:19Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3656711,
+      "date": "2012-01-25T19:04:17Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3657873,
+      "date": "2012-01-25T20:01:31Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3657959,
+      "date": "2012-01-25T20:06:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3658199,
+      "date": "2012-01-25T20:18:52Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3658810,
+      "date": "2012-01-25T20:55:26Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3659724,
+      "date": "2012-01-25T21:44:15Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3659858,
+      "date": "2012-01-25T21:52:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3659985,
+      "date": "2012-01-25T21:58:13Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3661208,
+      "date": "2012-01-25T23:14:05Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3669376,
+      "date": "2012-01-26T14:13:15Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3672669,
+      "date": "2012-01-26T17:24:34Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3674370,
+      "date": "2012-01-26T18:59:14Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3676595,
+      "date": "2012-01-26T21:04:45Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3676767,
+      "date": "2012-01-26T21:13:20Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3686610,
+      "date": "2012-01-27T13:32:00Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3687473,
+      "date": "2012-01-27T14:35:26Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3689040,
+      "date": "2012-01-27T16:06:28Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3690327,
+      "date": "2012-01-27T17:16:53Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3740561,
+      "date": "2012-01-31T15:03:50Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3778246,
+      "date": "2012-02-02T13:57:46Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4196918,
+      "date": "2012-02-27T16:24:56Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4374306,
+      "date": "2012-03-07T18:41:32Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4375847,
+      "date": "2012-03-07T19:55:07Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4375945,
+      "date": "2012-03-07T19:59:28Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4375991,
+      "date": "2012-03-07T20:01:27Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4378700,
+      "date": "2012-03-07T21:23:13Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4381117,
+      "date": "2012-03-07T23:07:45Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4392140,
+      "date": "2012-03-08T14:31:31Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4402121,
+      "date": "2012-03-08T20:58:27Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4405030,
+      "date": "2012-03-08T23:05:34Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4406030,
+      "date": "2012-03-09T00:04:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4406288,
+      "date": "2012-03-09T00:21:10Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4416916,
+      "date": "2012-03-09T14:16:36Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4420988,
+      "date": "2012-03-09T17:44:19Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4421054,
+      "date": "2012-03-09T17:48:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4421307,
+      "date": "2012-03-09T18:04:02Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4421490,
+      "date": "2012-03-09T18:14:02Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4421575,
+      "date": "2012-03-09T18:18:29Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4422770,
+      "date": "2012-03-09T19:25:51Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4422877,
+      "date": "2012-03-09T19:31:24Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4453391,
+      "date": "2012-03-12T14:53:28Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4453540,
+      "date": "2012-03-12T14:59:50Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4459442,
+      "date": "2012-03-12T19:17:21Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4461478,
+      "date": "2012-03-12T20:55:47Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4465037,
+      "date": "2012-03-13T00:25:14Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4465308,
+      "date": "2012-03-13T00:45:49Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4472287,
+      "date": "2012-03-13T12:31:39Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4489238,
+      "date": "2012-03-13T23:47:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4489945,
+      "date": "2012-03-14T00:46:59Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4489959,
+      "date": "2012-03-14T00:48:14Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4490024,
+      "date": "2012-03-14T00:53:40Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4498295,
+      "date": "2012-03-14T13:48:55Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4505702,
+      "date": "2012-03-14T19:16:44Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4525337,
+      "date": "2012-03-15T18:04:55Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4650712,
+      "date": "2012-03-22T23:31:57Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4831388,
+      "date": "2012-03-29T21:18:08Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4871267,
+      "date": "2012-04-02T01:44:33Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4871276,
+      "date": "2012-04-02T01:45:30Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4892079,
+      "date": "2012-04-03T00:34:56Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4980532,
+      "date": "2012-04-05T16:43:32Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4981093,
+      "date": "2012-04-05T17:12:34Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4981204,
+      "date": "2012-04-05T17:18:42Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5410761,
+      "date": "2012-04-30T01:47:50Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5416969,
+      "date": "2012-04-30T13:10:27Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5474919,
+      "date": "2012-05-02T23:06:10Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5475664,
+      "date": "2012-05-03T00:01:26Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5475746,
+      "date": "2012-05-03T00:07:34Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5476112,
+      "date": "2012-05-03T00:37:59Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5489793,
+      "date": "2012-05-03T15:09:23Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5524162,
+      "date": "2012-05-05T03:42:57Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5524170,
+      "date": "2012-05-05T03:44:31Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5590163,
+      "date": "2012-05-09T00:27:41Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5590241,
+      "date": "2012-05-09T00:33:40Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5704765,
+      "date": "2012-05-14T23:20:30Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5704875,
+      "date": "2012-05-14T23:26:30Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5848832,
+      "date": "2012-05-22T14:45:06Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5872593,
+      "date": "2012-05-23T13:20:48Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5872795,
+      "date": "2012-05-23T13:28:41Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5873236,
+      "date": "2012-05-23T13:46:45Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5878999,
+      "date": "2012-05-23T17:21:33Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5879303,
+      "date": "2012-05-23T17:23:33Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5881364,
+      "date": "2012-05-23T18:50:38Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5882669,
+      "date": "2012-05-23T19:46:05Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5887633,
+      "date": "2012-05-23T23:56:36Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5888003,
+      "date": "2012-05-24T00:24:43Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5933564,
+      "date": "2012-05-25T15:42:13Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5933816,
+      "date": "2012-05-25T15:52:17Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5933868,
+      "date": "2012-05-25T15:54:29Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5934055,
+      "date": "2012-05-25T16:02:51Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5934191,
+      "date": "2012-05-25T16:09:47Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5934473,
+      "date": "2012-05-25T16:22:07Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5934492,
+      "date": "2012-05-25T16:23:05Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5940830,
+      "date": "2012-05-25T21:43:45Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5993763,
+      "date": "2012-05-29T19:46:01Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6014144,
+      "date": "2012-05-30T16:15:49Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6020367,
+      "date": "2012-05-30T20:24:51Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6045772,
+      "date": "2012-05-31T19:54:39Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6046284,
+      "date": "2012-05-31T20:17:25Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6047511,
+      "date": "2012-05-31T21:06:23Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6048038,
+      "date": "2012-05-31T21:26:17Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6061680,
+      "date": "2012-06-01T14:30:55Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6061782,
+      "date": "2012-06-01T14:34:36Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6061830,
+      "date": "2012-06-01T14:36:36Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6062047,
+      "date": "2012-06-01T14:44:47Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6063862,
+      "date": "2012-06-01T15:57:03Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6071081,
+      "date": "2012-06-01T21:22:24Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6128292,
+      "date": "2012-06-05T15:43:45Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6413140,
+      "date": "2012-06-19T00:30:21Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6423202,
+      "date": "2012-06-19T12:23:20Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7261389,
+      "date": "2012-07-25T20:41:04Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7261451,
+      "date": "2012-07-25T20:43:04Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7265925,
+      "date": "2012-07-26T00:01:46Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7266000,
+      "date": "2012-07-26T00:06:03Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7269230,
+      "date": "2012-07-26T04:42:23Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7497832,
+      "date": "2012-08-04T00:40:30Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8462585,
+      "date": "2012-09-11T14:47:42Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8632473,
+      "date": "2012-09-17T21:51:56Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8632682,
+      "date": "2012-09-17T21:59:23Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8632891,
+      "date": "2012-09-17T22:06:13Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8661990,
+      "date": "2012-09-18T17:00:20Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8669204,
+      "date": "2012-09-18T20:29:05Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8676314,
+      "date": "2012-09-19T01:20:54Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8676337,
+      "date": "2012-09-19T01:22:40Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8676598,
+      "date": "2012-09-19T01:38:52Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8677423,
+      "date": "2012-09-19T02:33:00Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8769616,
+      "date": "2012-09-21T16:09:29Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8772323,
+      "date": "2012-09-21T16:38:55Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8826807,
+      "date": "2012-09-24T17:20:19Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8830402,
+      "date": "2012-09-24T19:01:59Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8854263,
+      "date": "2012-09-25T13:33:37Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10053981,
+      "date": "2012-11-04T19:06:17Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10055423,
+      "date": "2012-11-04T21:06:29Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10075098,
+      "date": "2012-11-05T15:40:24Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10233680,
+      "date": "2012-11-09T15:48:18Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10307519,
+      "date": "2012-11-12T22:40:46Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10373463,
+      "date": "2012-11-14T16:48:06Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10479872,
+      "date": "2012-11-17T22:36:16Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10516390,
+      "date": "2012-11-19T14:59:18Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10740132,
+      "date": "2012-11-26T23:53:54Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10740294,
+      "date": "2012-11-26T23:58:40Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10740350,
+      "date": "2012-11-27T00:00:30Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10740385,
+      "date": "2012-11-27T00:01:39Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10866621,
+      "date": "2012-11-29T21:13:09Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10868342,
+      "date": "2012-11-29T21:58:08Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10868351,
+      "date": "2012-11-29T21:58:25Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7684,
+      "date": "2012-09-18T16:38:06Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7675,
+      "date": "2012-09-17T21:36:10Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7601,
+      "date": "2012-09-11T14:46:51Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 6463,
+      "date": "2012-05-23T16:31:31Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5423,
+      "date": "2012-03-13T22:37:12Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5422,
+      "date": "2012-03-13T22:34:27Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5393,
+      "date": "2012-03-12T15:36:51Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5391,
+      "date": "2012-03-12T15:10:47Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 5344,
+      "date": "2012-03-08T22:53:35Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "tsechingho/chosen-rails",
+      "type": "issue",
+      "id": 52,
+      "date": "2014-03-04T20:10:46Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 20510,
+      "date": "2015-06-10T19:03:58Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 20114,
+      "date": "2015-05-11T16:41:20Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 19098,
+      "date": "2015-02-26T17:14:35Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 17106,
+      "date": "2014-09-29T19:28:37Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 17105,
+      "date": "2014-09-29T18:27:20Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 17103,
+      "date": "2014-09-29T18:15:20Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 17008,
+      "date": "2014-09-22T16:32:09Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 8376,
+      "date": "2012-11-29T21:04:51Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 8326,
+      "date": "2012-11-26T20:14:00Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 8220,
+      "date": "2012-11-14T14:08:04Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 7534,
+      "date": "2012-09-05T19:50:06Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 7257,
+      "date": "2012-08-04T00:32:45Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 6573,
+      "date": "2012-05-31T19:34:00Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 6538,
+      "date": "2012-05-29T17:26:14Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 6441,
+      "date": "2012-05-22T14:40:51Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 6124,
+      "date": "2012-05-02T20:21:57Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5657,
+      "date": "2012-03-29T16:47:19Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5450,
+      "date": "2012-03-15T17:34:59Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5395,
+      "date": "2012-03-12T17:48:16Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5330,
+      "date": "2012-03-07T18:21:50Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5193,
+      "date": "2012-02-27T16:20:24Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 4708,
+      "date": "2012-01-26T18:35:50Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 4707,
+      "date": "2012-01-26T18:18:23Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 4671,
+      "date": "2012-01-25T16:45:39Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 4670,
+      "date": "2012-01-25T16:38:56Z"
+    },
+    {
+      "dev_id": "jrochkind",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 3024,
+      "date": "2011-09-14T20:18:30Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "a1ba6d34a972cdc4d7e70281cedc49388cbea112",
+      "date": "2015-09-08T10:16:39Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "eb10ac07b325ad6c83e948283b0c8b22aaddf332",
+      "date": "2015-08-29T03:03:28Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "795ad3fa5b908ade593128da2cd6d4bef011d7e6",
+      "date": "2015-08-29T02:59:26Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "4074c06958474f1a162bab06611d33c875d4d969",
+      "date": "2015-08-29T02:57:49Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "c316ca1300fd7fab6a4ffee44b2e51a5eaaf84fd",
+      "date": "2015-05-30T04:52:17Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "75c446d03ed905b1bbf94e0e78d243dfcb4a04c2",
+      "date": "2015-05-30T04:51:08Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "5ecfdb73dfb4cfaba4144ebe2c53350e7c1458b2",
+      "date": "2015-05-30T03:31:15Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "b262ffbc99869b825301ce34c87fde21b3df1f43",
+      "date": "2015-03-11T13:56:50Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "465fb6549ba2bde05d98aa3f5d8661d8b4d36b55",
+      "date": "2015-03-11T13:56:09Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "94bd8b23ec4da75fcc01a89c28ff35df4665f31f",
+      "date": "2015-01-09T05:51:26Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "384567a733eb31bca401b85c4f2f2fbd02bbe05c",
+      "date": "2015-01-09T05:50:05Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "5021f8413b924134f985a5affa73e2d96e45288a",
+      "date": "2015-01-09T05:47:08Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "b31b58ab3226972f9db54607e9c5500575baac5c",
+      "date": "2014-10-13T02:18:08Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "3e1a405f336806525c53e19175a83aacc117bcbb",
+      "date": "2014-09-26T11:03:49Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "df77bfe51514d1cc33edc9945e2c06fc5e50ab08",
+      "date": "2014-09-17T15:57:38Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "839b468b2a805341029269a581c9a60094aee9ae",
+      "date": "2014-09-17T15:54:08Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "41e2de93116a9ec3635dfec178efe0784796b00e",
+      "date": "2014-02-10T16:05:33Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "c1cfb502a95b19105ffc33b73b8a5e1b88dfe5cf",
+      "date": "2014-02-10T16:02:14Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "4c7175fe5e4f1c5fe7bcd2b04f3a26ad53fa7c40",
+      "date": "2013-12-17T02:41:40Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "6ca229dcab33b96564213fb87df07232383e524b",
+      "date": "2013-12-17T02:40:48Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "695be58c63bc04eaf62e7f881dea4ffe17e91ea1",
+      "date": "2013-12-17T02:35:37Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "510ec51a277406246759e563cf1e558655a06248",
+      "date": "2013-10-10T08:42:46Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "89730d926b6271b5ba8d07aa49ae1302d77c2f80",
+      "date": "2013-10-10T08:41:41Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "98b4c20fe227c03efbb511148b4095c28623a29f",
+      "date": "2013-10-10T08:32:22Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "541d5744b32d5061dcca3eb0f1daf1b0319d1188",
+      "date": "2013-10-10T08:31:58Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "7e89321f8822b4535dd0532571031b12bf010b85",
+      "date": "2013-08-07T02:48:12Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "1326c9911b3c1295ac2414ea26f16a06df10d345",
+      "date": "2013-08-07T02:47:48Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "fc4acb25d6c8b5c5a2f2839bd974eba0c596e3c5",
+      "date": "2013-08-07T02:40:16Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "d9d5ef722f25e3bac4ca8319ed84f39ab644c111",
+      "date": "2013-07-23T01:52:31Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "2dadbda9417a210b3ab7227cdbcdaae4fd049f5e",
+      "date": "2013-07-22T06:46:12Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "ce9159e2b881c971ea580fff925a03a1348a6634",
+      "date": "2013-07-22T05:07:08Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "2de7a333789f5efc4cb6136e9a13f343cb72d906",
+      "date": "2013-07-22T04:55:20Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "b16492fc208c79a4aace83c033e95906a8b51428",
+      "date": "2013-07-22T04:55:02Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "98c865e49661be14376a58009a953e1ed23cb41b",
+      "date": "2013-07-22T04:47:18Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "aa99617b5edb913eb1e418117b04728defd28fbb",
+      "date": "2013-07-22T04:45:00Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "23cbe88ab36fd804d17a1f393f353d8c6207f04b",
+      "date": "2013-07-11T03:08:03Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "76b20536ea7574706bba76f1e2437298e594ba70",
+      "date": "2013-07-11T03:05:51Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "2f41cfbb616058ec6c4b7b7572944335d6f5356d",
+      "date": "2013-07-02T16:59:41Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "a7fadc88c231a039008690a4e305c656fe4b0b0b",
+      "date": "2013-07-02T16:53:37Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "a9d815c46076d3afc5b3bcf007ce453022dc7966",
+      "date": "2013-07-02T16:40:04Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "e55f4f8074a4312d87c57deda3412e9548144b0f",
+      "date": "2013-06-13T03:05:17Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "c7447863cd751ffde35ff37f1c3e04fbd614d175",
+      "date": "2013-06-04T02:11:05Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "26e12ed5fd481915eb6634c5c13c1478c87ca491",
+      "date": "2013-06-04T02:08:52Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "779495e71f726ecb8dcc93df0727f5d95ffe134b",
+      "date": "2013-05-06T05:59:58Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "720c86b2318dc3196394022cd4145152e771fbae",
+      "date": "2013-05-06T05:56:35Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "b05d2f028dcf8bc5c4fb77f6a49b5170374674a1",
+      "date": "2013-05-06T05:28:26Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "51c516fe51ee473aa9238ae452f7b4b8e0f54f78",
+      "date": "2013-05-06T04:17:32Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "07ea96b7c28b86466ac22d4790c8bd48ac30d36b",
+      "date": "2013-04-24T05:48:12Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "3904c3fee07e274932bfb003e0748e6bc16dfe30",
+      "date": "2013-04-24T05:43:45Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "0f4a76a8cbeb3c913b4db5fd229d0b0d6a58de4c",
+      "date": "2013-04-24T05:46:33Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "338f9a57b6ba925f81c2a9afff124c2e64939695",
+      "date": "2013-03-27T08:56:05Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "da7285cce2480cfa553a990424337d45637ad9b7",
+      "date": "2013-03-23T08:45:32Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "ac1824d801f3099b8bc402902eb5d98496ce5977",
+      "date": "2013-03-07T05:35:35Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "bab0c5c16de039bc76df29f95d0c28ccf3502312",
+      "date": "2013-03-07T05:28:02Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "4ac234ca7a7aeff827446265489e17b893628d2f",
+      "date": "2013-03-04T02:27:17Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "30defd4eb42629498a5bc7d956cc1faf3fb249aa",
+      "date": "2013-01-21T03:32:17Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "8f25248aab7d5e03086a7f37843fb5552f8c37de",
+      "date": "2013-02-18T02:52:43Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "57722d942570f04dd70c16ac520957a39a268139",
+      "date": "2013-01-21T02:56:57Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "a76ccb6d03cd8475126c9e232f3e5d2f7a67ca22",
+      "date": "2013-01-21T02:56:21Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "70374c8eff4b09a9ef5b583c2aef5ca5ddf17ed8",
+      "date": "2013-01-21T02:56:10Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "194a8c0fd6ad07ca542561efd311af80b6f9816f",
+      "date": "2013-01-21T02:55:33Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "1e743d4c83a81f82cea0ddbc61cc3946eaeaa348",
+      "date": "2013-01-18T06:22:21Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "be2d556818eac7fb9fd6753b1e912fbee50660c7",
+      "date": "2013-01-21T02:41:23Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "92c81915d235e2dd19a6b5f85efa7ea80576435e",
+      "date": "2013-01-08T15:55:57Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "0b6a183ded360d87f0595aaa7203835a65553d0b",
+      "date": "2013-01-08T15:53:53Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "e9ab23b33cd0011bafdf658b62cdee1c37a093eb",
+      "date": "2013-01-05T03:20:11Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "ef6d95fc922b95274d05b6acc1cad54eba038b9b",
+      "date": "2012-12-17T14:37:10Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "f69cfbfa455715c690f911919a4dbbd918d171cb",
+      "date": "2012-12-09T03:35:47Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "5eb2bb863a3c44a0dc3e87ce8aa7eec135070b21",
+      "date": "2012-11-29T01:25:17Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "ca73b72e9d0599d525544fb6229749697de70aa2",
+      "date": "2012-11-29T01:22:52Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "57c3a16cf0bd5665ba338c6f73555baf1e29bc86",
+      "date": "2012-11-29T01:17:07Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "a45857826c39e3e766e9e0e25a61d0e6c696391c",
+      "date": "2012-09-07T06:03:33Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "ece0c7f97242e9401ee92043e26cf9cca5e15ead",
+      "date": "2012-09-07T06:03:07Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "ed54d947ed982e12698ec52351962814323567ca",
+      "date": "2012-08-20T03:18:23Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "d7f85c1f97fd16a9617dd6c9c1e37b98a74f5760",
+      "date": "2012-08-20T03:17:20Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "1e12287c7ebb70660019a4ba33eb8530c91e9649",
+      "date": "2012-07-04T02:36:01Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "365d6b195759610ee1af89f562fbcc554d5a9d64",
+      "date": "2012-07-04T02:32:35Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "1802760bf8aa5001c1fdf51d4aa0f624bd0b85c3",
+      "date": "2012-04-11T07:02:35Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "5b8c544b4dfd8128d433505124660a99e552fdf9",
+      "date": "2012-03-15T02:35:43Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "b2f651513949c76a5a8202967c94ba9896b7d704",
+      "date": "2012-03-15T02:31:08Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "b60786b36162e012d19fb02ad07b2d92d26e7255",
+      "date": "2012-02-26T11:33:20Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "f14f8f5e48889574eb523ea6b3a698dfcef8272e",
+      "date": "2012-02-26T11:31:33Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "9ce618b77fb24f3241a6ee073227817dcbd4c62b",
+      "date": "2012-02-01T05:38:11Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "e6bb7205a3f325ca674e6d6fd8f5aa21eb91583f",
+      "date": "2011-12-22T03:39:38Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "38bb7ea233672ae200952b0c1f36d35ee3ef3189",
+      "date": "2011-12-22T03:37:07Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "b4892f82dca310980b668e6ed9a8b22aad45fb94",
+      "date": "2011-12-22T03:34:57Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "ac228b9f3e2055b8e5e7f90366df24220e5dcc5b",
+      "date": "2011-12-22T03:28:59Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "308ddea3d40c4cdb3050b6d36fbe4b7d5bd87361",
+      "date": "2011-12-22T03:18:33Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "8f050690b03f45ab3e3555bc465b4ad4604310f3",
+      "date": "2011-11-28T05:23:22Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "bc89db4196161f138a521c8312aae6fc945648c6",
+      "date": "2011-11-28T05:22:50Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "9062ce2c736f3565517416153dc14f7c7cb1b2c4",
+      "date": "2011-11-28T01:18:28Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 6751333,
+      "date": "2012-07-04T02:22:13Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 7860045,
+      "date": "2012-08-20T03:20:40Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 8020680,
+      "date": "2012-08-25T06:28:14Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 8609652,
+      "date": "2012-09-17T10:14:22Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 8610609,
+      "date": "2012-09-17T10:53:13Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 9228044,
+      "date": "2012-10-08T14:44:51Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 9228927,
+      "date": "2012-10-08T15:11:15Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 9833678,
+      "date": "2012-10-27T08:27:06Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 10648773,
+      "date": "2012-11-23T02:47:14Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 10648840,
+      "date": "2012-11-23T02:54:49Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 12008101,
+      "date": "2013-01-08T17:44:30Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 13217644,
+      "date": "2013-02-07T02:11:05Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 13704572,
+      "date": "2013-02-18T02:57:09Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 13704948,
+      "date": "2013-02-18T03:17:28Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 13705505,
+      "date": "2013-02-18T03:49:15Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15242014,
+      "date": "2013-03-21T14:36:27Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15243099,
+      "date": "2013-03-21T14:54:39Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15244340,
+      "date": "2013-03-21T15:13:40Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 15262148,
+      "date": "2013-03-21T20:05:36Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 17612901,
+      "date": "2013-05-08T15:24:14Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 18885110,
+      "date": "2013-06-04T02:05:58Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 19369653,
+      "date": "2013-06-13T03:05:40Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 19436617,
+      "date": "2013-06-14T02:40:25Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 19810354,
+      "date": "2013-06-21T11:16:07Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 20359374,
+      "date": "2013-07-02T16:56:49Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 20406221,
+      "date": "2013-07-03T10:05:57Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 20787552,
+      "date": "2013-07-11T03:12:25Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 21327213,
+      "date": "2013-07-22T06:48:12Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 22226628,
+      "date": "2013-08-07T02:54:24Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 22227266,
+      "date": "2013-08-07T03:16:35Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26030898,
+      "date": "2013-10-10T06:00:46Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26031128,
+      "date": "2013-10-10T06:08:55Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26033032,
+      "date": "2013-10-10T07:05:17Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26033730,
+      "date": "2013-10-10T07:23:09Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26034055,
+      "date": "2013-10-10T07:31:13Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26035175,
+      "date": "2013-10-10T07:57:58Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26035496,
+      "date": "2013-10-10T08:05:02Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26035821,
+      "date": "2013-10-10T08:12:24Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26036074,
+      "date": "2013-10-10T08:17:44Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26036107,
+      "date": "2013-10-10T08:18:25Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 26121294,
+      "date": "2013-10-11T08:17:36Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 34648693,
+      "date": "2014-02-10T16:08:09Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 55916354,
+      "date": "2014-09-17T16:00:38Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 56948331,
+      "date": "2014-09-26T11:10:27Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 68330156,
+      "date": "2014-12-30T04:52:39Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 69297107,
+      "date": "2015-01-09T06:04:42Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 106989536,
+      "date": "2015-05-30T04:54:13Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 106990059,
+      "date": "2015-05-30T04:58:31Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 106990218,
+      "date": "2015-05-30T05:01:51Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1940769,
+      "date": "2011-08-30T10:05:01Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 1990318,
+      "date": "2011-09-04T08:02:50Z"
+    },
+    {
+      "dev_id": "tsechingho",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3341007,
+      "date": "2012-01-03T15:14:41Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "tsechingho/chosen-rails",
+      "type": "commit",
+      "id": "1a4daf131a2e259f6778bc802bb6654a29f7e6e0",
+      "date": "2015-01-29T18:30:48Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 22224446,
+      "date": "2013-08-07T01:38:20Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 22246142,
+      "date": "2013-08-07T12:02:28Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "tsechingho/chosen-rails",
+      "type": "com",
+      "id": 135852225,
+      "date": "2015-08-28T18:18:32Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4409476,
+      "date": "2012-03-09T03:51:05Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 11021873,
+      "date": "2012-12-05T00:09:53Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "tsechingho/chosen-rails",
+      "type": "pr",
+      "id": 68,
+      "date": "2015-01-29T18:31:58Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "tsechingho/chosen-rails",
+      "type": "pr",
+      "id": 36,
+      "date": "2013-08-06T22:05:00Z"
+    },
+    {
+      "dev_id": "dgilperez",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 11488,
+      "date": "2013-07-18T13:05:57Z"
+    }
+  ]
+}

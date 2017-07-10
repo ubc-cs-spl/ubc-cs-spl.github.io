@@ -1,0 +1,1885 @@
+{
+  "user_repo": "mhfs/devise-async",
+  "dep_repo": "mperham/sidekiq",
+  "dep_date": "2012-05-14 21:00:44 UTC",
+  "dep_commit_id": "5a4515168acffb69f0db8c7a5266f2fc1081ee66",
+  "social_date": "2012-07-31 03:20:47 UTC",
+  "devs": [
+    "rymai",
+    "mhfs",
+    "denniskuczynski",
+    "jjb",
+    "kmayer"
+  ],
+  "interactions": [
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "e96410f32c2a099a8962ed85078ba6029e98b89e",
+      "date": "2013-11-19T15:26:36Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "bf649d7a5f6f874ede48bf964c82b479597ef2cc",
+      "date": "2013-11-19T15:11:09Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "545cbf79a3b05d1363a62517360a3709d10042fc",
+      "date": "2013-06-25T12:31:56Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "c7d48e37a6283255e90a6312002c53962a010a90",
+      "date": "2013-02-20T13:09:41Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28796762,
+      "date": "2013-11-19T15:05:43Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28798310,
+      "date": "2013-11-19T15:21:54Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28802314,
+      "date": "2013-11-19T16:04:25Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28804338,
+      "date": "2013-11-19T16:24:27Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28807977,
+      "date": "2013-11-19T16:52:21Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28809941,
+      "date": "2013-11-19T17:11:35Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 13835363,
+      "date": "2013-02-20T14:50:36Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "pr",
+      "id": 43,
+      "date": "2013-11-19T15:12:25Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mhfs/devise-async",
+      "type": "pr",
+      "id": 34,
+      "date": "2013-06-25T12:32:11Z"
+    },
+    {
+      "dev_id": "rymai",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 721,
+      "date": "2013-02-20T13:18:53Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "e9d96eaa00ac98634ba9d425beb0a26650125588",
+      "date": "2014-11-29T23:54:31Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "63fcdb3574a6d7d4dd0d81209d2cc0f7f2bd21e3",
+      "date": "2014-11-29T23:54:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "ca26d1eb1d7f7758fcd8271df932b3631f5ebb25",
+      "date": "2014-11-29T23:39:09Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "0d190ea9a299e216c85404e3ad7aa088c66969b2",
+      "date": "2014-05-01T02:36:32Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "5e67de20f62ad9fddf6cc6ef6220c9cc3c589ace",
+      "date": "2013-11-19T16:14:52Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "1e9057144ae524f8d3948e1b821736407325a049",
+      "date": "2013-11-19T16:10:08Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "ca5947decfffd406d71e089b8bebbf8961aa960c",
+      "date": "2013-11-19T16:09:00Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "1e56525483a9ff1dc4708c710fdd2d3796d4e401",
+      "date": "2013-09-08T23:56:23Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "c6e26b508f2a9e5cedeb1f247b4fe3f1a8803905",
+      "date": "2013-09-08T23:54:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "03e6a7a6bf0e46becd228edef6bdcfec16a0e5f0",
+      "date": "2013-09-08T23:54:24Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "e6085b364559db7218699e33462a2f654cc6e8f1",
+      "date": "2013-09-08T23:44:51Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "96e8cc90d532c5f791444bc2de2e58a44c6e395d",
+      "date": "2013-09-08T23:26:20Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "48e243facf818b78aed7adb7d30ba8f675de11ce",
+      "date": "2013-09-08T23:21:20Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "3862aad490912b44c060e6c7845ea86a5bb2ce58",
+      "date": "2013-09-08T23:08:20Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "1623fc653a8c0ca9b18ec9aecc45e206635198a5",
+      "date": "2013-09-08T23:06:14Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "4934e532d94c0f40ce551d8a7525cfd43e377a54",
+      "date": "2013-09-08T22:42:30Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "58af148540b5de54b1cd022c222b1bb151070656",
+      "date": "2013-09-08T22:14:11Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "e7cfa0e8739c8fb31e13938d1511f0b507da3105",
+      "date": "2013-06-25T12:37:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "f65f88eb2603a0217e363f6f619a7a84581c3921",
+      "date": "2013-06-11T14:48:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "d0d6c8ea87695047ca5cf053ee349fe7b4463049",
+      "date": "2013-04-04T14:05:41Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "89dc65f27eaf9b4955adccc4f08116cb83187227",
+      "date": "2013-03-20T18:09:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "6aaa43f50f81eb37657a394738cbd8b8a86b2e9f",
+      "date": "2013-03-20T17:28:19Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "5f10f5013e4a14691e41de10cadb2c6564a1ff27",
+      "date": "2013-03-20T17:28:05Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "eebb6f7c0b7fc72a254e995ca5b327ff2915e1fb",
+      "date": "2013-03-20T17:27:41Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "b3c425083c8b569d1aa8d75404ea52133a1b5468",
+      "date": "2013-03-20T15:12:31Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "66065e385bbb2d084f649800e1be331d79ef35d9",
+      "date": "2013-02-20T23:52:38Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "0643b4ce892758129d6e5a9ee027e94eefcf1fd0",
+      "date": "2013-02-20T23:44:34Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "c6f5abddd2a33d0017fd04fc8b76fd69eca35d51",
+      "date": "2013-02-02T13:21:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "0639e4d96fda470b8e8b3374d64fd90bd1c8a410",
+      "date": "2013-01-18T21:58:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "db477e1d02c27a5c63a37a4f552dc6a797b897e2",
+      "date": "2013-01-18T21:38:33Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "d02b4e7a755bdfd40eea92542aa5ea2babba96d7",
+      "date": "2013-01-18T21:26:58Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "a7aefb3813c16eef266a14e7ed199f6ea5b83c86",
+      "date": "2013-01-18T21:20:51Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "a060843a1e39d593dbfee6039f3ae4514715e0f8",
+      "date": "2013-01-18T20:41:39Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "d7c8ad0f7ee83f984f5216b00c572c73e74d74df",
+      "date": "2012-11-24T18:38:48Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "0c54711101d6562942b1ab5bc50858921ec10c22",
+      "date": "2012-11-24T18:22:59Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "fb2150e1c8e762fce394a1d6f1a721def7c9e0d1",
+      "date": "2012-11-23T17:37:06Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "4d910ed119813c003f406c401484d5881fedc85c",
+      "date": "2012-11-23T17:14:54Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "50a925813c752abf842c8c4160aa400a14e33ae3",
+      "date": "2012-11-04T12:13:22Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "f5f304a655296c67183a8955e7f6a875a394b1a5",
+      "date": "2012-11-01T01:34:32Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "f194bd4967e0eaf1fcd636744386543453edfb25",
+      "date": "2012-11-01T01:32:15Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "cf64b776827dd6968431880828569b0abf0a2132",
+      "date": "2012-11-01T01:27:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "696a65bea04cbaaf74fa1ea95fa7de845fa310d0",
+      "date": "2012-11-01T00:53:17Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "98c7bbf83c9c6f119d4632f23767d289cfba3cb9",
+      "date": "2012-10-12T14:34:37Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "26a23c40d848ece386ad84dee8f3d28447f7afd1",
+      "date": "2012-08-15T20:29:40Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "261aea09cf6450924dafbc0388815ad244f37849",
+      "date": "2012-08-07T22:17:19Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "c7674e7367c63c0bd462eedc86cbca43ef377f5c",
+      "date": "2012-08-07T22:11:44Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "8b74e840760e077aaefbcf836de37844e8259758",
+      "date": "2012-08-07T22:00:00Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "870038492bbc9195e456a7503e51e3f7871b101a",
+      "date": "2012-07-21T19:58:42Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "b54ae2eeb03283d8b9aba8bf28ba89d349e077e9",
+      "date": "2012-07-21T19:47:13Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "f68b6ec1ca119c0bb0ebae40381ae9293b997e48",
+      "date": "2012-07-21T19:46:52Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "03696a80588b0d6e892452189c35b585af31a93e",
+      "date": "2012-07-21T19:39:48Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "691c8f62f122bb7a60c199d14ce3bb134efcedb7",
+      "date": "2012-07-21T18:32:35Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "e9936ff7a643af3b8e8a10007303cd9be64179e2",
+      "date": "2012-06-15T21:30:50Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "78263758af8a36fcc1854b12f347ba9ab3116996",
+      "date": "2012-06-06T01:39:00Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "027bccfd134fa4fc04737b870c96e3a1305dc263",
+      "date": "2012-06-01T00:01:27Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "663aa1118cf19f2533dd68aa81e1594228e083ca",
+      "date": "2012-06-01T00:00:52Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "d0a52ef6c3ec5f7eb5d6f7ae6525d302005d694d",
+      "date": "2012-05-31T23:58:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "5a452573f3b01c74d9d7fb33f7c8e52086f7f03b",
+      "date": "2012-05-31T02:55:03Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "68aac9629e34df6a73b57a0130902ead5b9732f6",
+      "date": "2012-05-31T02:18:31Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "3f6167770762659788e60e1cbd2a8ddc0b391c92",
+      "date": "2012-05-27T14:27:59Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "e24f29058dfb152de5311b63e9709710efd61cd0",
+      "date": "2012-05-27T14:25:13Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "8ac9d2d585e58d704b1b1de0246d1a5f0bf672a5",
+      "date": "2012-05-26T14:36:59Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "0e115633255d7d351eb3d69bbd804836ded5f985",
+      "date": "2012-05-26T14:34:04Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "82c74d5a095a23d8cedd70ea2ed571f0c4185242",
+      "date": "2012-05-19T16:51:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "740bb779cccf7779112bf8a314be5a4841dbf95d",
+      "date": "2012-05-18T22:22:27Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "750ed9f22868d249c67b63c5289fa3420b8859e3",
+      "date": "2012-05-18T22:20:01Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "0ef9833ae8bd076b5b959736871bedeada34b4f2",
+      "date": "2012-05-18T21:58:31Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "544f15ed4ad724eaf4aff54bf3f13dd54454a3d3",
+      "date": "2012-05-18T21:51:06Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "6b70ac59e21242e0432e1d880b8ed193a8c11842",
+      "date": "2012-05-18T20:29:07Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "50122681226e13473429c22f2f609edb92ec938c",
+      "date": "2012-05-18T20:11:05Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "10c0b2c36f225bb01b8e02faf9e002e7ea72ef37",
+      "date": "2012-05-18T19:55:04Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "a1dd658444ee03d6bf620f3b125c464a4ad920ee",
+      "date": "2012-05-18T19:09:06Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "d55053e26411be6c1848eef93aa7a160c60e1c6d",
+      "date": "2012-05-18T19:03:58Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "df590d8e0b515cacbdf60ee507323816492da548",
+      "date": "2012-05-18T18:57:19Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "81fd3c8b88275a9467190b1cabc62179e690301b",
+      "date": "2012-05-18T18:50:29Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "27d4f66760d135eac043b59ebb1daa375629783c",
+      "date": "2012-05-18T18:49:13Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "4f8b62f078b5a86042fd1f3df25f01ef3bd73168",
+      "date": "2012-05-18T18:46:24Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "c707a4ceca17128887fdd7909391d0bb16c8bf96",
+      "date": "2012-05-14T21:59:47Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "5a4515168acffb69f0db8c7a5266f2fc1081ee66",
+      "date": "2012-05-14T21:00:44Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "efce87b91f60048e88bed2e084d71c033cb1b7e9",
+      "date": "2012-05-14T20:37:48Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "f8a830b8a99beb6a491a10cc930d40a24d38962c",
+      "date": "2012-05-14T18:12:01Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "ff6036f6d6eb87db3b73ba1f988d8304e97b3856",
+      "date": "2012-05-09T19:06:58Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "e185234e1d966203d6ef32d566df69fbb3c7f15a",
+      "date": "2012-05-09T18:29:30Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "374022f9a963538f38da1289ddc8203ba6ccbaa0",
+      "date": "2012-05-09T16:19:13Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "51b4544633466f4262581dbed537efa681cd03c8",
+      "date": "2012-05-09T04:53:32Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "400f21e6eecd48b9a0362c3bb3290aa03f24e8e4",
+      "date": "2012-05-09T04:52:41Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "9bf46381826edab41a2df8ec800754572306e677",
+      "date": "2012-05-09T04:49:06Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "34325e8b7210f033dcaad60baba68c842b328067",
+      "date": "2012-05-09T02:39:09Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "de911d13a8058dd301ffa95697f8b83d4fa040dc",
+      "date": "2012-05-09T02:05:14Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "5a1df9b5f41a9657a093f46ece4eb27589a7700d",
+      "date": "2012-08-21T15:06:20Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "a6933e82201938177ae0f7d732b03a3be00910ae",
+      "date": "2012-08-20T22:40:24Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "4e2dae3c249f673e633623b320a7a1df8bc941ea",
+      "date": "2012-08-20T22:28:14Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 5947370,
+      "date": "2012-05-26T14:44:16Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 5953895,
+      "date": "2012-05-27T14:34:11Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 5965916,
+      "date": "2012-05-28T14:06:14Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6026934,
+      "date": "2012-05-31T03:07:02Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6034861,
+      "date": "2012-05-31T12:49:50Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6035295,
+      "date": "2012-05-31T13:10:27Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6037504,
+      "date": "2012-05-31T14:36:04Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6050715,
+      "date": "2012-06-01T00:03:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6082066,
+      "date": "2012-06-03T01:07:53Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6082097,
+      "date": "2012-06-03T01:15:47Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6141330,
+      "date": "2012-06-06T01:41:47Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6257514,
+      "date": "2012-06-11T22:08:39Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6358617,
+      "date": "2012-06-15T14:58:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6367146,
+      "date": "2012-06-15T21:33:20Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6367544,
+      "date": "2012-06-15T21:55:10Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6367714,
+      "date": "2012-06-15T22:04:54Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6555549,
+      "date": "2012-06-25T18:24:48Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7156231,
+      "date": "2012-07-21T20:09:41Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7261133,
+      "date": "2012-07-25T20:31:40Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7280538,
+      "date": "2012-07-26T15:18:24Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7280752,
+      "date": "2012-07-26T15:25:17Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7282423,
+      "date": "2012-07-26T16:18:38Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7568752,
+      "date": "2012-08-07T22:18:16Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7568773,
+      "date": "2012-08-07T22:19:17Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7568799,
+      "date": "2012-08-07T22:20:24Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7568822,
+      "date": "2012-08-07T22:21:06Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7587920,
+      "date": "2012-08-08T15:53:51Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7768186,
+      "date": "2012-08-15T20:28:15Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7768472,
+      "date": "2012-08-15T20:38:43Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7768511,
+      "date": "2012-08-15T20:40:04Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 8443279,
+      "date": "2012-09-11T00:32:26Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 8444332,
+      "date": "2012-09-11T01:33:02Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 9282835,
+      "date": "2012-10-09T22:41:20Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 9285030,
+      "date": "2012-10-10T00:20:37Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 9351769,
+      "date": "2012-10-11T18:15:05Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 9351942,
+      "date": "2012-10-11T18:19:07Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 9378424,
+      "date": "2012-10-12T14:33:37Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 9967928,
+      "date": "2012-11-01T01:08:03Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10049709,
+      "date": "2012-11-04T11:59:53Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10049857,
+      "date": "2012-11-04T12:17:34Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10049874,
+      "date": "2012-11-04T12:18:50Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10049898,
+      "date": "2012-11-04T12:20:57Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10225638,
+      "date": "2012-11-09T12:57:56Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10665449,
+      "date": "2012-11-23T17:16:08Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10665890,
+      "date": "2012-11-23T17:36:59Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 10682207,
+      "date": "2012-11-24T18:45:34Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12427734,
+      "date": "2013-01-18T15:49:50Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12440105,
+      "date": "2013-01-18T20:41:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12441853,
+      "date": "2013-01-18T21:29:31Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12443000,
+      "date": "2013-01-18T22:02:07Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12500588,
+      "date": "2013-01-21T14:46:22Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12697650,
+      "date": "2013-01-25T11:43:12Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12697817,
+      "date": "2013-01-25T11:48:45Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12698208,
+      "date": "2013-01-25T12:02:38Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12699122,
+      "date": "2013-01-25T12:36:03Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 12699276,
+      "date": "2013-01-25T12:40:49Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 13863628,
+      "date": "2013-02-20T23:25:57Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 13864010,
+      "date": "2013-02-20T23:35:12Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 13864283,
+      "date": "2013-02-20T23:42:09Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 13864410,
+      "date": "2013-02-20T23:44:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 13864444,
+      "date": "2013-02-20T23:45:57Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 13864470,
+      "date": "2013-02-20T23:46:46Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 13890266,
+      "date": "2013-02-21T14:13:07Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 14378320,
+      "date": "2013-03-04T12:27:35Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 14795919,
+      "date": "2013-03-12T18:59:17Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15192286,
+      "date": "2013-03-20T17:54:33Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15192333,
+      "date": "2013-03-20T17:55:12Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15192355,
+      "date": "2013-03-20T17:55:38Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15192570,
+      "date": "2013-03-20T17:58:59Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15193297,
+      "date": "2013-03-20T18:10:33Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15817653,
+      "date": "2013-04-03T04:36:16Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15898975,
+      "date": "2013-04-04T14:05:35Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 15900002,
+      "date": "2013-04-04T14:22:03Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 18298878,
+      "date": "2013-05-22T18:41:52Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 18344722,
+      "date": "2013-05-23T13:58:02Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 18406849,
+      "date": "2013-05-24T14:07:04Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 18408146,
+      "date": "2013-05-24T14:29:25Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 18409205,
+      "date": "2013-05-24T14:46:57Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 18429676,
+      "date": "2013-05-24T20:59:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 19972904,
+      "date": "2013-06-25T12:38:01Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 24031186,
+      "date": "2013-09-08T22:37:31Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 24031371,
+      "date": "2013-09-08T22:48:49Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 24031771,
+      "date": "2013-09-08T23:11:14Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 24032087,
+      "date": "2013-09-08T23:16:39Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 24032727,
+      "date": "2013-09-08T23:57:27Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28796883,
+      "date": "2013-11-19T15:07:18Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28802986,
+      "date": "2013-11-19T16:11:14Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28803862,
+      "date": "2013-11-19T16:19:49Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 41458703,
+      "date": "2014-04-26T03:30:45Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 41458731,
+      "date": "2014-04-26T03:32:36Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 41458904,
+      "date": "2014-04-26T03:42:51Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 41458986,
+      "date": "2014-04-26T03:48:46Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 41874306,
+      "date": "2014-05-01T02:37:11Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 58674547,
+      "date": "2014-10-10T15:47:38Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 64969567,
+      "date": "2014-11-29T23:39:38Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 64969940,
+      "date": "2014-11-29T23:55:08Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 64969958,
+      "date": "2014-11-29T23:55:55Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 64970018,
+      "date": "2014-11-29T23:58:35Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 64970081,
+      "date": "2014-11-30T00:01:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 64970131,
+      "date": "2014-11-30T00:03:19Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 64970189,
+      "date": "2014-11-30T00:05:05Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 70144170,
+      "date": "2015-01-15T19:19:02Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 97891722,
+      "date": "2015-04-30T17:35:33Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 7784229,
+      "date": "2012-08-16T12:46:12Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 7886129,
+      "date": "2012-08-20T22:44:38Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 8004447,
+      "date": "2012-08-24T15:20:21Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 9959298,
+      "date": "2012-10-31T19:46:20Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 363,
+      "date": "2012-08-21T15:13:45Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 361,
+      "date": "2012-08-20T22:31:04Z"
+    },
+    {
+      "dev_id": "mhfs",
+      "repo": "mhfs/devise-async",
+      "type": "issue",
+      "id": 64,
+      "date": "2015-01-15T06:45:40Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "9ed9085414481606b5c1e3d902968db3a28f606e",
+      "date": "2012-07-25T21:06:50Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 6555311,
+      "date": "2012-06-25T18:16:24Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7179625,
+      "date": "2012-07-23T14:38:02Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7251379,
+      "date": "2012-07-25T15:00:22Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7252130,
+      "date": "2012-07-25T15:26:48Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7261405,
+      "date": "2012-07-25T20:41:46Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7552560,
+      "date": "2012-08-07T13:08:14Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 7583222,
+      "date": "2012-08-08T13:20:00Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 7388829,
+      "date": "2012-07-31T03:20:47Z"
+    },
+    {
+      "dev_id": "denniskuczynski",
+      "repo": "mhfs/devise-async",
+      "type": "pr",
+      "id": 7,
+      "date": "2012-07-25T21:11:58Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28932364,
+      "date": "2013-11-20T21:23:46Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28932588,
+      "date": "2013-11-20T21:26:19Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 28935786,
+      "date": "2013-11-20T22:01:18Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 74584744,
+      "date": "2015-02-16T22:50:25Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 76207082,
+      "date": "2015-02-26T16:15:46Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 76311552,
+      "date": "2015-02-27T01:04:57Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 76413177,
+      "date": "2015-02-27T15:35:22Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 77094758,
+      "date": "2015-03-04T04:20:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 77095346,
+      "date": "2015-03-04T04:28:42Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 77163044,
+      "date": "2015-03-04T14:07:35Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 32792057,
+      "date": "2014-01-20T20:00:54Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 33399164,
+      "date": "2014-01-27T17:31:47Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 36036980,
+      "date": "2014-02-25T17:52:40Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 36037090,
+      "date": "2014-02-25T17:53:35Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 37372071,
+      "date": "2014-03-12T03:23:33Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 37373057,
+      "date": "2014-03-12T03:47:47Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 69389658,
+      "date": "2015-01-09T19:57:37Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 69390643,
+      "date": "2015-01-09T20:04:31Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 69394794,
+      "date": "2015-01-09T20:35:12Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 69396862,
+      "date": "2015-01-09T20:50:25Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 72547965,
+      "date": "2015-02-02T22:04:18Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 83243639,
+      "date": "2015-03-19T01:10:17Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 2242,
+      "date": "2015-03-19T00:34:39Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "issue",
+      "id": 67,
+      "date": "2015-02-25T21:34:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mhfs/devise-async",
+      "type": "issue",
+      "id": 44,
+      "date": "2013-11-20T03:28:30Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 2128,
+      "date": "2015-01-09T18:51:32Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1548,
+      "date": "2014-03-12T02:56:36Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1514,
+      "date": "2014-02-25T17:20:49Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1442,
+      "date": "2014-01-20T16:47:23Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "b34d9750a6c0a88b1242ca2f23cbc66f48686adb",
+      "date": "2014-05-30T21:11:04Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "commit",
+      "id": "8a3ac911da6b485e74c4912284faa9da8fb98997",
+      "date": "2014-05-30T21:08:15Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 35656817,
+      "date": "2014-02-20T19:05:39Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 35661939,
+      "date": "2014-02-20T19:54:52Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 41760692,
+      "date": "2014-04-30T04:54:19Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 44782108,
+      "date": "2014-06-01T16:40:07Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 57907790,
+      "date": "2014-10-04T14:51:24Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "com",
+      "id": 105658209,
+      "date": "2015-05-26T20:38:51Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "pr",
+      "id": 51,
+      "date": "2014-04-30T04:52:59Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "pr",
+      "id": 48,
+      "date": "2014-02-07T20:39:55Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mhfs/devise-async",
+      "type": "pr",
+      "id": 47,
+      "date": "2014-02-07T20:09:21Z"
+    },
+    {
+      "dev_id": "kmayer",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1143,
+      "date": "2013-08-28T18:26:10Z"
+    }
+  ]
+}

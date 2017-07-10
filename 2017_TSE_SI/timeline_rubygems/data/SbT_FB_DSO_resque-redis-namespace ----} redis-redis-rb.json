@@ -1,0 +1,3978 @@
+{
+  "user_repo": "resque/redis-namespace",
+  "dep_repo": "redis/redis-rb",
+  "dep_date": "2010-05-18 00:02:01 UTC",
+  "dep_commit_id": "fb108b2a079c01e8d6b8c0401c7f121f3ca42bce",
+  "social_date": "2009-10-13 21:48:51 UTC",
+  "devs": [
+    "badboy",
+    "yaauie",
+    "czarneckid",
+    "defunkt",
+    "manuelmeurer"
+  ],
+  "interactions": [
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "bd258e116cfa551d120f9268b81b9daa8c4864da",
+      "date": "2015-11-06T17:56:03Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "58f2b806c127b1b22de12a1611bd97a9cb39f94e",
+      "date": "2015-11-06T17:51:52Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "d2b776665eeb22258f488ef182e2c7a0ddf0f09c",
+      "date": "2015-02-24T19:53:36Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "2ba7b2e7d8e7910bb3a0cf85207cd130b91ca75b",
+      "date": "2015-02-24T19:32:32Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "15aea3e7a728f9243634a0208263898307c09fcd",
+      "date": "2015-02-23T21:25:27Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "6ebeaac5aa509898de6f0251148f9583dc8e6742",
+      "date": "2015-02-23T21:23:04Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "2ab051737d59dabc7f245dc8a22ccf6bb08171e5",
+      "date": "2015-02-23T19:47:24Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "cb42c1a41bd3e2548a4e65dbb1b8b6a5534ae976",
+      "date": "2015-02-23T19:47:07Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "3ec1762946c246e755bb856f3e5eb16e81a6952b",
+      "date": "2015-02-13T22:35:29Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "b651d62e6054a512a06e60d1845f7a71ad7013b9",
+      "date": "2015-02-12T18:39:33Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "769efea21a6752fd9ad6fbb1e46f6ee2a0c8df6a",
+      "date": "2015-02-04T21:43:17Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "cc634ea73ac86e9fbfb4d4b0c1c327b2e6ecc7a6",
+      "date": "2015-01-11T11:41:33Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "7aa417a90df30cd6ecb280c39ec883b8d401d32a",
+      "date": "2015-01-11T11:28:35Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "d97779c3d0289b3552dde000c10f851978a05539",
+      "date": "2014-12-10T12:30:37Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "bfc221cf8b0620444f9f10b588d42d57793d8762",
+      "date": "2014-11-09T01:14:01Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "4ca0fa35c2b66e991c1e56c2f941b94a19955c5d",
+      "date": "2014-11-09T01:09:31Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "8add9cc8e84ec3b0227798c47db308b86cfdca9f",
+      "date": "2014-10-28T23:02:50Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "628011ce136fefd39f95c8f2eb1b1b353c7ffb71",
+      "date": "2014-05-06T09:11:13Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "49294de18eea230b76c9dacdfe89441b9ac37f2f",
+      "date": "2014-02-27T21:43:41Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "ef464ecb9ba0ebbf764d533bd6e76880525a042e",
+      "date": "2013-10-31T21:31:43Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "5f6bce28f9de62fc185a012ba39d5f3fdacfe857",
+      "date": "2013-10-31T21:31:27Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "461dd435a7aa3f3b0077f481c5d4219913d6705c",
+      "date": "2013-10-30T20:37:55Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 6902714,
+      "date": "2012-07-11T10:09:25Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 6948802,
+      "date": "2012-07-12T21:47:40Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 22061451,
+      "date": "2013-08-03T20:51:48Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 19445579,
+      "date": "2013-06-14T08:41:22Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 19448421,
+      "date": "2013-06-14T09:50:32Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 27498949,
+      "date": "2013-10-31T16:03:43Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 27502007,
+      "date": "2013-10-31T16:33:56Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42283356,
+      "date": "2014-05-06T09:42:11Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42460625,
+      "date": "2014-05-07T17:57:03Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45313580,
+      "date": "2014-06-06T08:22:01Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46840470,
+      "date": "2014-06-23T12:51:44Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49148372,
+      "date": "2014-07-16T10:38:07Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49209176,
+      "date": "2014-07-16T18:45:47Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49229555,
+      "date": "2014-07-16T21:26:12Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49974072,
+      "date": "2014-07-24T07:02:37Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50862547,
+      "date": "2014-08-01T08:47:54Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 51651710,
+      "date": "2014-08-08T20:13:24Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 51660967,
+      "date": "2014-08-08T21:41:23Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 51903455,
+      "date": "2014-08-12T11:44:45Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52158681,
+      "date": "2014-08-14T08:54:59Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 53247824,
+      "date": "2014-08-25T10:10:26Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 53974772,
+      "date": "2014-08-31T00:40:58Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 54857730,
+      "date": "2014-09-08T17:41:32Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 54864776,
+      "date": "2014-09-08T18:25:10Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55374755,
+      "date": "2014-09-12T08:27:13Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55407663,
+      "date": "2014-09-12T14:04:57Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55411319,
+      "date": "2014-09-12T14:32:54Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 58417098,
+      "date": "2014-10-08T19:56:11Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 59648477,
+      "date": "2014-10-19T12:35:37Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 60756398,
+      "date": "2014-10-28T13:42:50Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 60843472,
+      "date": "2014-10-28T22:31:51Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 60922910,
+      "date": "2014-10-29T13:27:14Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 60955393,
+      "date": "2014-10-29T16:24:04Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 60966440,
+      "date": "2014-10-29T17:22:56Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 61076073,
+      "date": "2014-10-30T11:11:09Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 61262284,
+      "date": "2014-10-31T13:50:38Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 61416637,
+      "date": "2014-11-02T18:06:15Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 61417172,
+      "date": "2014-11-02T18:20:06Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 61417663,
+      "date": "2014-11-02T18:33:20Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62298288,
+      "date": "2014-11-09T10:18:36Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62342515,
+      "date": "2014-11-10T05:18:11Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 63972928,
+      "date": "2014-11-21T13:59:00Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 63973206,
+      "date": "2014-11-21T14:01:23Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 64182074,
+      "date": "2014-11-24T11:42:39Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 64986565,
+      "date": "2014-11-30T14:16:34Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 65505244,
+      "date": "2014-12-03T22:42:09Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 66442055,
+      "date": "2014-12-10T12:01:46Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 66442548,
+      "date": "2014-12-10T12:06:35Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 66443177,
+      "date": "2014-12-10T12:12:51Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 66444017,
+      "date": "2014-12-10T12:21:46Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 66444388,
+      "date": "2014-12-10T12:25:35Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 66445758,
+      "date": "2014-12-10T12:39:23Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 66992552,
+      "date": "2014-12-15T13:18:19Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 67008842,
+      "date": "2014-12-15T15:19:24Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 67471885,
+      "date": "2014-12-18T11:09:16Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 67766504,
+      "date": "2014-12-21T10:51:35Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 68297159,
+      "date": "2014-12-29T20:04:34Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 68306946,
+      "date": "2014-12-29T21:49:25Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 68352074,
+      "date": "2014-12-30T12:18:15Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 68438253,
+      "date": "2014-12-31T12:04:13Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 69490896,
+      "date": "2015-01-11T11:16:35Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70176313,
+      "date": "2015-01-15T22:39:30Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70260486,
+      "date": "2015-01-16T14:27:48Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70271049,
+      "date": "2015-01-16T15:39:08Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70411830,
+      "date": "2015-01-18T15:15:54Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70573134,
+      "date": "2015-01-19T22:32:27Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70575820,
+      "date": "2015-01-19T22:55:58Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 71491539,
+      "date": "2015-01-26T16:42:20Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 71707083,
+      "date": "2015-01-27T19:05:46Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 71715179,
+      "date": "2015-01-27T19:50:19Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 71730816,
+      "date": "2015-01-27T21:23:39Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 72942790,
+      "date": "2015-02-04T21:26:27Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 72945916,
+      "date": "2015-02-04T21:43:43Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 72951591,
+      "date": "2015-02-04T22:15:22Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73066351,
+      "date": "2015-02-05T15:37:16Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73114183,
+      "date": "2015-02-05T19:52:03Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73418745,
+      "date": "2015-02-08T16:42:51Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73604692,
+      "date": "2015-02-09T22:30:13Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73604853,
+      "date": "2015-02-09T22:31:07Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73661669,
+      "date": "2015-02-10T08:28:22Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73663713,
+      "date": "2015-02-10T08:47:23Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73936948,
+      "date": "2015-02-11T18:36:45Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 73937805,
+      "date": "2015-02-11T18:41:28Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74096970,
+      "date": "2015-02-12T16:05:58Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74114003,
+      "date": "2015-02-12T17:30:27Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74119343,
+      "date": "2015-02-12T18:00:06Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74125996,
+      "date": "2015-02-12T18:37:59Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74160538,
+      "date": "2015-02-12T21:50:44Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74168889,
+      "date": "2015-02-12T22:38:48Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74273750,
+      "date": "2015-02-13T15:45:52Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74339334,
+      "date": "2015-02-13T22:35:20Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 75451814,
+      "date": "2015-02-22T19:12:45Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 75820192,
+      "date": "2015-02-24T18:52:23Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 82316667,
+      "date": "2015-03-17T12:20:12Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 83987608,
+      "date": "2015-03-20T11:12:26Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 84089931,
+      "date": "2015-03-20T18:03:22Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 84893853,
+      "date": "2015-03-23T08:56:20Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 84930873,
+      "date": "2015-03-23T10:15:12Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 88917052,
+      "date": "2015-04-02T14:04:21Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 92897425,
+      "date": "2015-04-14T15:12:48Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 100196036,
+      "date": "2015-05-08T11:05:46Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 100703381,
+      "date": "2015-05-10T21:17:26Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 100703849,
+      "date": "2015-05-10T21:28:03Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 108827754,
+      "date": "2015-06-04T10:21:10Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 109387022,
+      "date": "2015-06-05T18:21:42Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 109917503,
+      "date": "2015-06-08T08:57:39Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 111043143,
+      "date": "2015-06-11T08:39:46Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 111054427,
+      "date": "2015-06-11T09:14:58Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 111080679,
+      "date": "2015-06-11T10:31:48Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 126591059,
+      "date": "2015-07-31T07:21:07Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 134565490,
+      "date": "2015-08-25T12:08:00Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 136862804,
+      "date": "2015-09-01T21:12:33Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 138384020,
+      "date": "2015-09-07T22:03:32Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 139176146,
+      "date": "2015-09-10T09:03:37Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 148955679,
+      "date": "2015-10-17T22:18:31Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 149047201,
+      "date": "2015-10-18T21:02:50Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 151134411,
+      "date": "2015-10-26T13:33:47Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 153787138,
+      "date": "2015-11-04T16:42:15Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 154036622,
+      "date": "2015-11-05T11:32:41Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 154826720,
+      "date": "2015-11-08T13:33:19Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 154827456,
+      "date": "2015-11-08T13:50:49Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 155001921,
+      "date": "2015-11-09T09:09:21Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 562,
+      "date": "2015-11-06T18:25:37Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 560,
+      "date": "2015-11-03T22:04:09Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 514,
+      "date": "2015-02-23T19:11:55Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 508,
+      "date": "2015-02-12T18:39:37Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 498,
+      "date": "2015-01-11T11:42:27Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 497,
+      "date": "2015-01-11T11:29:23Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 484,
+      "date": "2014-12-10T12:32:39Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 473,
+      "date": "2014-10-29T10:18:19Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 412,
+      "date": "2014-02-27T21:44:46Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 378,
+      "date": "2013-10-31T21:56:52Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 376,
+      "date": "2013-10-30T20:40:46Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "resque/redis-namespace",
+      "type": "issue",
+      "id": 64,
+      "date": "2013-08-03T19:37:41Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 493,
+      "date": "2014-12-30T10:31:12Z"
+    },
+    {
+      "dev_id": "badboy",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 331,
+      "date": "2013-04-04T12:29:39Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "4479a968a1125412dabf2e3bab389adbd9a2c179",
+      "date": "2015-03-30T22:04:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "285980ce138c17bd47412f0368d053f1b163fcf1",
+      "date": "2015-03-30T21:28:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "54162eb251281c08ebbb7c75deaaceb978dcd4ff",
+      "date": "2015-03-03T16:34:12Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "a943bddd0666a9f618322119f5548021e67a052d",
+      "date": "2014-08-14T17:57:04Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "1da8b029c3a6ce01b3b1b6b0edc5ceccd07e9d02",
+      "date": "2014-08-01T21:12:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "965d9cbee161e0aa00d379ba525b57cadf3934c5",
+      "date": "2014-08-01T21:05:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "e053fb96c22a8b65fd404c1982f20b2c4132b3fc",
+      "date": "2014-07-14T16:56:14Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "309f2cf2fcb0ab089bfc541679485c83017861e3",
+      "date": "2014-06-29T20:28:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "3fc259b2754d8bc93fccc5517a09e0273ba4877f",
+      "date": "2014-06-29T20:04:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "681e26899a5aff90e039768d373418388e9d851a",
+      "date": "2014-06-29T19:22:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "3614d174acc43f888c7227c40c3ceee29d32dcfd",
+      "date": "2014-06-29T19:19:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "60f13be44d32925757e4b68c7c9098a3c0768607",
+      "date": "2014-06-29T19:06:37Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "64efbdabc53fd4543871207b497f4a1338e9754e",
+      "date": "2014-06-29T06:45:22Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "18316c59d70305c0a9289ef2620d0cdda4a6b07c",
+      "date": "2014-06-29T06:19:46Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "96957722a23df56bb34c75f7d9916342993075c7",
+      "date": "2014-06-24T08:01:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "04706e55cae582c0ba80685406944ba536d091fe",
+      "date": "2014-06-24T07:55:42Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "fdd8ff33fdbfefd9d43382c848bbdaf9b9d8e004",
+      "date": "2014-06-24T07:41:39Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "2c9b8ba6c6d9215d5451119b10951b1ceda75386",
+      "date": "2014-06-24T07:33:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "469b8c3a611494a0f39a58f452fd2131a4c09675",
+      "date": "2014-06-24T07:30:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "c7eab302ae6b97254845c7041ea3d3cde1dfc162",
+      "date": "2014-06-24T07:13:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "6fcea18cf6aee2f16e8180d9d36d51bb2a93e259",
+      "date": "2014-06-24T06:54:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "4deeac41a7c05f4f5029df757b12a1a839a59ff4",
+      "date": "2014-06-24T06:21:47Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "5c1f71e502d0a260903a3b451a628a4362be0f82",
+      "date": "2014-06-23T22:25:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "0ff09bae9ab52b6a3c623d136b326206b08362a3",
+      "date": "2014-06-23T21:17:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "63167a7bb9f2542c32ac65ed8e1586e97c628e2a",
+      "date": "2014-06-23T17:36:05Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "a80c1a5646850c6bc9c4a1436b67d06b4153a215",
+      "date": "2014-06-22T10:05:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "3df9d3d0c82366fe8827c02f1638f936c8cba92e",
+      "date": "2014-06-22T07:16:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "8dea679ef1c13ef0e646a28f2298f7da1940838f",
+      "date": "2014-06-06T06:59:36Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "9e9315ae6f63ad1803dd72d488867991a1c44f3a",
+      "date": "2013-12-05T08:51:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "491a41a79cb9bbeb09a95ef44fc288208c6ae39c",
+      "date": "2013-12-05T08:33:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "962736744d621f9c297f84c08ab2805cc23bd9da",
+      "date": "2013-12-05T08:32:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "5cfa354d96d7a19038d8654ed1bbff539df27591",
+      "date": "2013-12-05T08:22:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "c7f3dc30bb058c09eed2d525d7f81c84e07839f4",
+      "date": "2013-12-05T07:24:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "874e57e8d25a9eee9d23945b003e38ff3d9f0632",
+      "date": "2013-12-05T06:44:37Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "7be9388b365cb5eaab80cb8c81f454434e8a5f6c",
+      "date": "2013-12-05T02:25:42Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "6f15bbe047a51c026e577cff7535cbbd7f422d9d",
+      "date": "2013-12-04T02:55:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "84a176d3780173b740357bcb519fe256407083d5",
+      "date": "2013-12-04T02:49:02Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "c6d22325a218f9dfb9163d04aef5bfe9c695b3f0",
+      "date": "2013-12-04T06:45:07Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "f97841fa174ff5a953112a974c4b768cdb31ad09",
+      "date": "2013-12-04T06:40:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "cf67db1e2bea99b6a679dc792aaa04009f0ffff3",
+      "date": "2013-12-04T06:39:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "3caa97c440dfee0d976673eb3f5c4a9de210ae97",
+      "date": "2013-12-04T06:36:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "30be049c20c69fb50daf440b600e10359eaae086",
+      "date": "2013-12-04T06:25:54Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "2d3067198bdec2d6de5ab780f7cd455f542c87d8",
+      "date": "2013-12-04T03:07:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "63d59669e645f28810bb19de477310ab62bef288",
+      "date": "2013-12-04T03:06:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "e4e49d3b8b86cb70ea5bd694a09515598bd84a14",
+      "date": "2013-11-16T03:35:02Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "26921b1122b2f9dd3865724b9eedb0e84891d735",
+      "date": "2013-11-08T09:44:33Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "1d1f93332e60213e2e4ee624304c06cccf91fd50",
+      "date": "2013-11-06T07:26:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "05b457413d4029157394ee91b7bd694687386692",
+      "date": "2013-11-06T07:03:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "016b057b2183437ed010702e05147598ac3c2c68",
+      "date": "2013-11-03T01:39:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "46b3d0e04984e4a0da8e2122e6f44060b8153e87",
+      "date": "2013-10-30T07:50:27Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "fb45646d54357aaf868f2fb3fe62d30f0e620649",
+      "date": "2013-10-30T07:23:47Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "0279af5601cb8870e67f7692f1226d2c4c0894fb",
+      "date": "2013-10-30T07:06:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "bb6b177c917dfaa01100b6a66d72ae22106e9a2b",
+      "date": "2013-10-30T06:18:07Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "e1c9a5ac7a97d36a15e5059f070bb2dd0e4c8392",
+      "date": "2013-10-30T06:16:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "2895e5f1dcdeca4fd6e00246d661dd8ea8667b35",
+      "date": "2013-10-30T06:15:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d787a3fd969b14f32773cead24488bcff2f14112",
+      "date": "2013-10-21T13:55:56Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "cb8c2fb72b75f35283f8e4c22c74c3c3c61488cb",
+      "date": "2013-04-10T21:06:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "7597f90eb83570d2784841f3d251a474d979417f",
+      "date": "2012-01-09T20:46:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "b8bfb62156d9318eccbe84767b6a65a4ee93dafb",
+      "date": "2014-08-14T19:34:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "7db6501edd642569e692d6b721263652fbb3646d",
+      "date": "2014-08-02T04:36:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "30d0e12defe11178af97596daaad6743e20e4c2b",
+      "date": "2014-08-01T10:12:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "f6dd362c47608efefc07359724a634bf8a22c5fb",
+      "date": "2014-06-12T04:48:15Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "7c4a95413009cefa0c74d8d320f1ae90a1c953c2",
+      "date": "2014-06-06T06:47:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "3b57cd3e5749ffee7f6c83787eb677a9007c1130",
+      "date": "2014-06-06T06:34:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "e221f90745445f35e6cd528bcad09e9ad7fe7451",
+      "date": "2014-06-06T05:58:46Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "dad7c6f31a2678f91978f49991225d34fee289e2",
+      "date": "2014-06-06T05:55:04Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "a38414076d968b0f6f42a6d60266e5d6d0e4d605",
+      "date": "2014-06-05T15:35:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "bf8c7a000feb78f779e5efce8afc775d232564e7",
+      "date": "2014-06-05T07:49:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "c0fb67c25c3aa362a7e70925601ec5cebc489b84",
+      "date": "2014-06-05T05:26:56Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "dbb1fc8907d0c3699c5880d7399bad17fc97267c",
+      "date": "2014-06-05T05:12:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "48e6327d185546eb536c7668ce5a5dccd36b6b87",
+      "date": "2014-06-05T04:47:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "ff80100c36eaff761ca5a525374069ee7482f477",
+      "date": "2014-06-05T04:20:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "d15b396060bdb6911ca8333352346828600508fd",
+      "date": "2014-06-04T23:12:53Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "d5146a8f9592c6dd162beafcda1433d96946a6cc",
+      "date": "2014-06-03T16:54:42Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "ed865742856ee68812747a287dd4980cc68248c9",
+      "date": "2014-06-03T09:33:22Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "b4d7869f011b6a5cccab6be7bb1fd14ca03b2ff8",
+      "date": "2014-06-03T09:32:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "08e134668d3cf7f017fa2c8a18718d61d11163ec",
+      "date": "2014-06-03T07:10:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "59c71f4f75951aec4c4cfbaeb019b91fca1517db",
+      "date": "2014-06-03T06:45:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "8b41f01231a144b628f9fa7d67be2b5f11162c33",
+      "date": "2014-06-03T06:44:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "5eb0c1460b21245e282318f35cb86c82ab882564",
+      "date": "2014-06-03T06:39:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "522e7a567c4bbcaf2f6ae1189a728958083ad26a",
+      "date": "2014-06-03T06:37:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "abe0a2e1b45ba9d9d0d2727381ccdcd448e062fb",
+      "date": "2014-06-03T06:37:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "8e9d1f054d215bd1ba963109e71ab86d973d016e",
+      "date": "2014-06-03T06:36:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "82c6d2068e9db0c66ce4fe0bb67feb363b5bd829",
+      "date": "2014-05-07T18:00:05Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "9c45c6c1ec9a2d4871a44e50c061e2d5188cf149",
+      "date": "2014-05-07T17:44:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "4f85a6bb10b16c3b862e49130505f838d7fcd9a4",
+      "date": "2014-03-14T21:12:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 3420383,
+      "date": "2012-01-09T21:10:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 3421356,
+      "date": "2012-01-09T22:13:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 3422640,
+      "date": "2012-01-09T23:50:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 3422651,
+      "date": "2012-01-09T23:51:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 3471405,
+      "date": "2012-01-12T22:04:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 13631590,
+      "date": "2013-02-15T22:28:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 15263287,
+      "date": "2013-03-21T20:28:07Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 15263380,
+      "date": "2013-03-21T20:29:31Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 15928741,
+      "date": "2013-04-04T22:40:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 15928846,
+      "date": "2013-04-04T22:42:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 16157072,
+      "date": "2013-04-10T06:05:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 16207528,
+      "date": "2013-04-10T22:54:15Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 18091617,
+      "date": "2013-05-17T23:56:53Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 19644037,
+      "date": "2013-06-18T21:36:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 24180400,
+      "date": "2013-09-10T17:46:53Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27369162,
+      "date": "2013-10-30T07:11:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27370555,
+      "date": "2013-10-30T07:51:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27370619,
+      "date": "2013-10-30T07:53:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27536325,
+      "date": "2013-10-31T23:00:05Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27637356,
+      "date": "2013-11-03T02:21:41Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27637358,
+      "date": "2013-11-03T02:21:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27637373,
+      "date": "2013-11-03T02:23:01Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 27637383,
+      "date": "2013-11-03T02:23:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 29671341,
+      "date": "2013-12-03T00:01:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 45308409,
+      "date": "2014-06-06T06:59:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 45308429,
+      "date": "2014-06-06T07:00:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 45308621,
+      "date": "2014-06-06T07:03:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46616265,
+      "date": "2014-06-19T21:02:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46616356,
+      "date": "2014-06-19T21:03:37Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46616611,
+      "date": "2014-06-19T21:05:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46719441,
+      "date": "2014-06-20T19:51:14Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46752520,
+      "date": "2014-06-21T12:32:23Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46763418,
+      "date": "2014-06-21T20:07:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46776082,
+      "date": "2014-06-22T09:13:38Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46777191,
+      "date": "2014-06-22T10:17:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46777207,
+      "date": "2014-06-22T10:18:38Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46777243,
+      "date": "2014-06-22T10:19:56Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46786675,
+      "date": "2014-06-22T17:11:53Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46891774,
+      "date": "2014-06-23T19:42:43Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46940494,
+      "date": "2014-06-24T07:37:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46942725,
+      "date": "2014-06-24T08:04:41Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46943908,
+      "date": "2014-06-24T08:19:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46944224,
+      "date": "2014-06-24T08:22:57Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46945127,
+      "date": "2014-06-24T08:32:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 47184019,
+      "date": "2014-06-26T03:21:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 48926307,
+      "date": "2014-07-14T16:58:33Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 50937944,
+      "date": "2014-08-01T21:40:25Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 52218460,
+      "date": "2014-08-14T17:56:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 67952914,
+      "date": "2014-12-23T13:57:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 77256515,
+      "date": "2015-03-04T21:46:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 86271647,
+      "date": "2015-03-26T01:02:37Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 87833297,
+      "date": "2015-03-30T21:14:16Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 87836513,
+      "date": "2015-03-30T21:29:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 87842979,
+      "date": "2015-03-30T21:54:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 87849190,
+      "date": "2015-03-30T22:05:16Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 87849824,
+      "date": "2015-03-30T22:06:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 89821541,
+      "date": "2015-04-05T18:01:41Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 115462935,
+      "date": "2015-06-26T02:06:38Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 119306907,
+      "date": "2015-07-07T19:12:00Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 119307912,
+      "date": "2015-07-07T19:17:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 119703530,
+      "date": "2015-07-08T19:20:07Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 145686829,
+      "date": "2015-10-05T22:25:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 37700764,
+      "date": "2014-03-14T21:53:43Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 39283178,
+      "date": "2014-04-02T02:31:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41881256,
+      "date": "2014-05-01T05:11:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41881883,
+      "date": "2014-05-01T05:21:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41882151,
+      "date": "2014-05-01T05:27:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883059,
+      "date": "2014-05-01T05:52:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883225,
+      "date": "2014-05-01T05:57:27Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883467,
+      "date": "2014-05-01T06:04:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883947,
+      "date": "2014-05-01T06:18:11Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42301883,
+      "date": "2014-05-06T13:31:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42341123,
+      "date": "2014-05-06T18:34:43Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42376383,
+      "date": "2014-05-07T00:27:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43574985,
+      "date": "2014-05-20T00:38:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43926587,
+      "date": "2014-05-22T18:34:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43933759,
+      "date": "2014-05-22T19:32:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43961588,
+      "date": "2014-05-23T01:02:11Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44342955,
+      "date": "2014-05-27T22:19:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44342996,
+      "date": "2014-05-27T22:19:54Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44854595,
+      "date": "2014-06-02T15:49:14Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44872205,
+      "date": "2014-06-02T18:14:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44922244,
+      "date": "2014-06-03T05:45:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44926263,
+      "date": "2014-06-03T06:59:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44943215,
+      "date": "2014-06-03T09:35:38Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45030058,
+      "date": "2014-06-03T22:44:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45030103,
+      "date": "2014-06-03T22:44:54Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45030213,
+      "date": "2014-06-03T22:46:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45031164,
+      "date": "2014-06-03T22:58:01Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45031453,
+      "date": "2014-06-03T23:01:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45032558,
+      "date": "2014-06-03T23:16:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45033090,
+      "date": "2014-06-03T23:23:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45037259,
+      "date": "2014-06-03T23:56:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45039610,
+      "date": "2014-06-04T00:34:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45039926,
+      "date": "2014-06-04T00:40:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45043293,
+      "date": "2014-06-04T01:44:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45180507,
+      "date": "2014-06-05T04:44:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45181481,
+      "date": "2014-06-05T05:08:39Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45185557,
+      "date": "2014-06-05T06:37:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45189366,
+      "date": "2014-06-05T07:36:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45189819,
+      "date": "2014-06-05T07:42:36Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45194275,
+      "date": "2014-06-05T08:35:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45237537,
+      "date": "2014-06-05T15:53:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308068,
+      "date": "2014-06-06T06:53:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308091,
+      "date": "2014-06-06T06:54:00Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308115,
+      "date": "2014-06-06T06:54:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308145,
+      "date": "2014-06-06T06:54:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308153,
+      "date": "2014-06-06T06:54:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308197,
+      "date": "2014-06-06T06:55:57Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308239,
+      "date": "2014-06-06T06:56:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308266,
+      "date": "2014-06-06T06:57:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308275,
+      "date": "2014-06-06T06:57:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45342587,
+      "date": "2014-06-06T14:29:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45680472,
+      "date": "2014-06-10T22:30:23Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45692345,
+      "date": "2014-06-11T01:28:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45828944,
+      "date": "2014-06-12T04:26:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46318377,
+      "date": "2014-06-17T14:57:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46340566,
+      "date": "2014-06-17T17:42:36Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46340816,
+      "date": "2014-06-17T17:45:00Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46761979,
+      "date": "2014-06-21T19:05:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46763313,
+      "date": "2014-06-21T20:02:46Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 47756198,
+      "date": "2014-07-02T09:42:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 48531877,
+      "date": "2014-07-09T20:47:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49074769,
+      "date": "2014-07-15T18:41:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49218637,
+      "date": "2014-07-16T20:00:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49902847,
+      "date": "2014-07-23T16:57:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49913538,
+      "date": "2014-07-23T18:18:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49973135,
+      "date": "2014-07-24T06:48:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50376159,
+      "date": "2014-07-28T18:13:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50386192,
+      "date": "2014-07-28T19:25:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50682747,
+      "date": "2014-07-30T21:29:23Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50729628,
+      "date": "2014-07-31T08:11:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50821260,
+      "date": "2014-07-31T21:28:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50869190,
+      "date": "2014-08-01T10:12:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50903950,
+      "date": "2014-08-01T16:18:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50953685,
+      "date": "2014-08-02T04:31:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50953769,
+      "date": "2014-08-02T04:37:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 51862889,
+      "date": "2014-08-12T01:24:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 51875871,
+      "date": "2014-08-12T05:46:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52134798,
+      "date": "2014-08-14T01:48:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52135169,
+      "date": "2014-08-14T01:54:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52215779,
+      "date": "2014-08-14T17:36:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52232371,
+      "date": "2014-08-14T19:35:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52361144,
+      "date": "2014-08-15T21:43:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52361214,
+      "date": "2014-08-15T21:44:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52424941,
+      "date": "2014-08-17T15:33:12Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52438401,
+      "date": "2014-08-17T22:59:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52438723,
+      "date": "2014-08-17T23:10:18Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52439364,
+      "date": "2014-08-17T23:35:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52813476,
+      "date": "2014-08-20T17:39:22Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55329772,
+      "date": "2014-09-11T21:13:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55331923,
+      "date": "2014-09-11T21:31:16Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55932671,
+      "date": "2014-09-17T17:49:04Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55933335,
+      "date": "2014-09-17T17:53:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55935079,
+      "date": "2014-09-17T18:05:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 56053294,
+      "date": "2014-09-18T15:14:25Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 58400920,
+      "date": "2014-10-08T18:07:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 58462338,
+      "date": "2014-10-09T04:35:37Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 59595826,
+      "date": "2014-10-18T02:14:11Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 60842500,
+      "date": "2014-10-28T22:23:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62167816,
+      "date": "2014-11-07T16:12:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62244680,
+      "date": "2014-11-08T04:05:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62988143,
+      "date": "2014-11-13T23:47:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62988849,
+      "date": "2014-11-13T23:54:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 64970943,
+      "date": "2014-11-30T00:39:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 68284082,
+      "date": "2014-12-29T18:36:12Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 69389045,
+      "date": "2015-01-09T19:53:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70210276,
+      "date": "2015-01-16T05:31:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 71791744,
+      "date": "2015-01-28T07:23:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74218268,
+      "date": "2015-02-13T08:06:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74586676,
+      "date": "2015-02-16T23:08:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74594821,
+      "date": "2015-02-17T00:13:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 78418218,
+      "date": "2015-03-12T03:33:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 90205489,
+      "date": "2015-04-06T19:26:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 100277513,
+      "date": "2015-05-08T15:47:18Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 101714286,
+      "date": "2015-05-13T15:24:05Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 104348657,
+      "date": "2015-05-21T16:41:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 104369586,
+      "date": "2015-05-21T17:47:36Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 104744794,
+      "date": "2015-05-22T19:04:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 115293365,
+      "date": "2015-06-25T15:27:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121098834,
+      "date": "2015-07-14T00:34:56Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121102866,
+      "date": "2015-07-14T01:03:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121106988,
+      "date": "2015-07-14T01:35:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121133830,
+      "date": "2015-07-14T05:06:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121135176,
+      "date": "2015-07-14T05:20:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 126443928,
+      "date": "2015-07-30T19:18:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 131000848,
+      "date": "2015-08-14T07:10:00Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 132859304,
+      "date": "2015-08-20T02:34:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 139375439,
+      "date": "2015-09-10T20:51:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 99,
+      "date": "2015-03-03T16:37:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 88,
+      "date": "2014-06-19T21:00:25Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 73,
+      "date": "2013-12-03T17:26:07Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 69,
+      "date": "2013-11-06T07:29:53Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 55,
+      "date": "2013-04-10T06:25:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 33,
+      "date": "2012-01-09T20:59:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 446,
+      "date": "2014-06-12T04:52:18Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 444,
+      "date": "2014-06-06T06:42:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 443,
+      "date": "2014-06-05T04:21:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 433,
+      "date": "2014-05-12T20:31:54Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 414,
+      "date": "2014-03-14T21:17:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "issue",
+      "id": 74,
+      "date": "2013-12-05T08:48:31Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "issue",
+      "id": 56,
+      "date": "2013-04-10T06:34:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "resque/redis-namespace",
+      "type": "issue",
+      "id": 34,
+      "date": "2012-01-10T00:40:53Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 450,
+      "date": "2014-06-22T10:54:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 439,
+      "date": "2014-06-03T08:04:38Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 434,
+      "date": "2014-05-16T21:33:22Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "fb7553b13af1848ed84c28c5756e5a0553252e65",
+      "date": "2014-07-14T15:48:05Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "fced7d793908259189b15680c90584feabbbf601",
+      "date": "2012-05-25T22:10:23Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "b5c1f74f642014aaad1448a68014f4f2332c54a8",
+      "date": "2012-05-25T20:38:06Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "b2c412e34d7530d462a26d64ff1fce755544c73e",
+      "date": "2012-05-25T19:06:37Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "92e38a19857ebb1ec6bece0018fdb20d4544ca1a",
+      "date": "2012-05-25T00:27:14Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "000bed2c84c344697c5d708e16284ea3c65b4066",
+      "date": "2011-01-02T17:35:57Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 5939235,
+      "date": "2012-05-25T20:11:17Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 5939746,
+      "date": "2012-05-25T20:40:09Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 48928307,
+      "date": "2014-07-14T17:14:17Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 650919,
+      "date": "2011-01-03T23:22:29Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 3780037,
+      "date": "2012-02-02T15:44:39Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 91,
+      "date": "2014-07-14T15:48:12Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 40,
+      "date": "2012-05-25T19:08:35Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 39,
+      "date": "2012-05-25T00:36:15Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 83,
+      "date": "2011-01-03T23:11:32Z"
+    },
+    {
+      "dev_id": "czarneckid",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 82,
+      "date": "2011-01-02T17:41:56Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "5e93e72b65b76a6e9089013774eb4d393b0baa0d",
+      "date": "2011-08-31T22:02:19Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "fe534386c27f138f2f8102751c6ecd8fd1d224e8",
+      "date": "2011-08-31T22:01:17Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "ef0bfe0b2ee5729cbb95f1da9649aab4e172fb4f",
+      "date": "2011-08-16T18:26:10Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "c47444d186504e30a3517edcbc0c47e1865dabd6",
+      "date": "2011-08-15T20:02:49Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "9c041e5acf1dca293caa2e1b67b3e2c9dd45d37e",
+      "date": "2011-07-13T20:49:30Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "c460b47ef420c3f0421466bef5c7273b00feddd6",
+      "date": "2011-07-13T20:49:20Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "61b454d9e5ba97e6943f6ab4f3fe22a0d6d0e1d9",
+      "date": "2011-05-17T18:07:34Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "dd6430f91c77a06b4046969177ffdb0bf13d59bd",
+      "date": "2011-05-17T18:07:08Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "5aaa32d7604a234127d99921ce962cbc29239e39",
+      "date": "2011-05-16T20:27:48Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "fa6dfcde1586bb01d7b333e9a5ef03cc61e6ed8d",
+      "date": "2011-05-16T20:27:26Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "f710d7e9c516f36209240ad0e8a54e620296ac74",
+      "date": "2011-05-16T20:20:10Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "853de81a1b187336d9c9b8f695d690b904bbde5c",
+      "date": "2011-05-16T20:19:51Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "75faad693ee8e8093b58f694b4bb21003df7de86",
+      "date": "2011-05-16T18:43:16Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "44113705061f502bfee72fbea1c1cd4eca45dda0",
+      "date": "2011-05-16T18:41:24Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d3b914e18cf59763fcf2256d8248110906a654f2",
+      "date": "2011-05-16T18:38:36Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "69462f1a2ede5fc6b38f69354a5f57d629c27d4f",
+      "date": "2011-05-16T18:19:03Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "ffb9c724dfff3e6d66cf13b286431572c16181ee",
+      "date": "2011-05-16T18:16:20Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d45c7629b5532c45c36b2f09fb13480dddf3617c",
+      "date": "2011-05-16T18:15:58Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "ecd8a2a9f56bdfe6f432991dcc37b135880b2fe3",
+      "date": "2011-05-06T17:44:17Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "da6f02fa951249b2416e905c826ea38e7c8bf0bd",
+      "date": "2010-08-24T02:02:51Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "24b4fc2f3a28a0f30e1e6de79428a65c02358662",
+      "date": "2010-08-24T01:50:23Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "381c8aaa85b05f62bd6d8a816e13b82e5b3449e6",
+      "date": "2010-08-09T05:05:27Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "94336dc3da7c2fb08cbeb3996b83f5e1c5e31c2d",
+      "date": "2010-08-09T05:05:07Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d5234640468815add1dc8033eed3c38ce4a3cc8b",
+      "date": "2010-07-24T23:45:35Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "3c63d9965207a900c6e3264606d319f2f7607856",
+      "date": "2010-06-21T18:35:43Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "502de76c1f67c6cda20ed941f32c3f19a7c9809a",
+      "date": "2010-06-21T18:35:18Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d4f382b1befc9f0e18f28ce3f2094e611db07f77",
+      "date": "2010-06-21T18:12:48Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "54c127005a8ae4c9b69f7c9c7ec3ab5de3fd32f2",
+      "date": "2010-06-04T17:40:19Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "22e0bcd9b55c4d3da0667d6a51e12523a87284fc",
+      "date": "2010-06-04T17:40:11Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "4886353ef09dd00eb418ff58c31a3628930aa354",
+      "date": "2010-05-26T21:32:36Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "45811085eef9db6711ba73a8d575196e0ef8e962",
+      "date": "2010-05-26T21:16:38Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "fb108b2a079c01e8d6b8c0401c7f121f3ca42bce",
+      "date": "2010-05-18T00:02:01Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "a3a5ecaa3cdf1bd5e87315ee67a0900d26d643d1",
+      "date": "2010-05-18T00:00:40Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "c8fbc6fc5b384a9ce742af7bb7120bd5dc801251",
+      "date": "2010-04-21T22:46:04Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d45ca7ceffeeea3334af1e0fab42cc727e46fcf5",
+      "date": "2010-04-05T21:36:12Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d33b405894fdfa92088408abfa92bae5f666cf24",
+      "date": "2010-03-30T02:42:00Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "aa846cdbb58f438653d105676925ff5a82b56a9c",
+      "date": "2010-03-28T17:19:21Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "191a1046df9526c71cdceccee18524ab27c30930",
+      "date": "2010-03-12T21:59:29Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "71655025bc1b34a02c29c4573e70d78eebbf9326",
+      "date": "2010-03-12T21:56:34Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "d355bb27396edf47e8b05a42cceda1543c0386e9",
+      "date": "2010-03-12T21:53:38Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "4e8551ccf54a7b1ae594d3679892d355674bf1f1",
+      "date": "2010-02-16T19:11:31Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "eb22ffd031e96bc507bb4f4dae2db202e92bed8c",
+      "date": "2010-02-16T19:10:56Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "43c44ea7e4d052e49fb70ab506fbe499644ee581",
+      "date": "2010-02-09T22:38:13Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "284b1e67062cca1ab5042d6a4e32a27b8a3a562e",
+      "date": "2010-01-25T09:58:59Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "3b9d8296e15c35cda949ed36392e2f20d2f81a76",
+      "date": "2010-01-25T09:58:21Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "a7feec4f89e5d8e7c6abdfd9e91b6ba1a6a83937",
+      "date": "2010-01-25T09:58:06Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "061f6c6dff26463ae8544082063a3a18c2b4c992",
+      "date": "2009-12-15T18:15:31Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "b4be46268dd9d8b31f9de6c3f472bb797d62ecc3",
+      "date": "2009-12-15T18:15:16Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "4e3df1c6a27e076370ebada4cd5c54e46ed8465c",
+      "date": "2009-12-15T18:15:00Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "98f6c9024fceacca7466d78e0b521aaf3cdda1e3",
+      "date": "2009-12-15T18:11:36Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "042bb38e109ee4bad673ee97d0645f2d471c306b",
+      "date": "2009-12-15T18:09:26Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "e0eba3da307cfe31beca061b0427d60a433ddf2f",
+      "date": "2009-12-15T18:09:21Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "c5de9c3fe3436fd0512b117467028f80a9a21d07",
+      "date": "2009-12-15T18:08:02Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "caf5c5b8c6f546e5c1ea828e6f0dc4ac3ffb5adc",
+      "date": "2009-10-13T22:07:20Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "43c64b02eece721aac54321a95c25451df3efe82",
+      "date": "2009-10-13T22:05:58Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "3dcfd48221e9542895f7595ec429518060204a35",
+      "date": "2009-10-13T22:05:22Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "1e8a53251463fd371c79160e474afb7a1c773f98",
+      "date": "2009-10-13T22:03:58Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "commit",
+      "id": "a8f5e4bec68a5fec1b82c4e3aa844cb6fc17a487",
+      "date": "2009-10-13T21:48:51Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "e1f4566a8d2c5bdd3015e58a9319bd29a5df2b04",
+      "date": "2009-08-15T16:58:59Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "a3bce1d3fee943ab3b5a6be11ab4b1017172f91c",
+      "date": "2009-08-15T08:09:22Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "708f805cfe708f1d6008df94b2d70eec79d1e5f0",
+      "date": "2009-08-15T08:07:27Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "c30f4802b89f4a4e75f5179ff9c0a353ca3d5633",
+      "date": "2009-08-15T07:50:55Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "34cd0087eaa962d6baae5362202aaf221e8176a4",
+      "date": "2009-08-15T07:50:49Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "fe05077fd9352b021f3d5735eb173c8629bf3923",
+      "date": "2009-08-15T07:28:03Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "6d5926b7852dc44fd33fa1cd0b6fc000a2196562",
+      "date": "2009-08-15T07:26:58Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "43c8762edcfa06c94a064bee17608b247a166d48",
+      "date": "2009-08-15T07:25:38Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "ca6a516ba5e17f180919afa2c9349419b97a4195",
+      "date": "2009-08-15T07:25:25Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "8c224f77a4189b75d4945e24ccd41ca7d5d44b3d",
+      "date": "2009-08-15T07:09:01Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "b2f60d23787f81f91680c4b54397b48097985315",
+      "date": "2009-08-15T06:57:24Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 136637,
+      "date": "2010-02-16T19:12:04Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 244580,
+      "date": "2010-05-18T00:51:50Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 245563,
+      "date": "2010-05-18T21:17:45Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 251996,
+      "date": "2010-05-24T19:04:34Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 254847,
+      "date": "2010-05-26T21:22:08Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 283040,
+      "date": "2010-06-21T18:10:55Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 283084,
+      "date": "2010-06-21T18:36:02Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 325379,
+      "date": "2010-07-24T23:45:51Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 346630,
+      "date": "2010-08-09T05:05:50Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 1177893,
+      "date": "2011-05-16T18:23:21Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 1177905,
+      "date": "2011-05-16T18:23:37Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 1178604,
+      "date": "2011-05-16T18:40:56Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 1192028,
+      "date": "2011-05-17T18:10:08Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 1192036,
+      "date": "2011-05-17T18:11:07Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 1810472,
+      "date": "2011-08-15T20:00:32Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 1810480,
+      "date": "2011-08-15T20:01:03Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 38277,
+      "date": "2009-08-15T17:00:08Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 67536,
+      "date": "2009-10-28T19:28:14Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 25,
+      "date": "2010-04-02T23:23:13Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 22,
+      "date": "2010-03-31T18:07:17Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 8,
+      "date": "2009-10-28T19:28:34Z"
+    },
+    {
+      "dev_id": "defunkt",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 7,
+      "date": "2009-10-13T21:45:40Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 385980,
+      "date": "2010-09-02T22:16:53Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 386776,
+      "date": "2010-09-03T10:11:48Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 386780,
+      "date": "2010-09-03T10:14:30Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46776779,
+      "date": "2014-06-22T09:54:16Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "resque/redis-namespace",
+      "type": "com",
+      "id": 46786962,
+      "date": "2014-06-22T17:23:32Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 2438319,
+      "date": "2011-10-18T06:00:18Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "resque/redis-namespace",
+      "type": "pr",
+      "id": 10,
+      "date": "2010-09-02T20:46:23Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "resque/redis-namespace",
+      "type": "issue",
+      "id": 9,
+      "date": "2010-08-16T22:27:23Z"
+    },
+    {
+      "dev_id": "manuelmeurer",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 155,
+      "date": "2011-10-17T14:46:15Z"
+    }
+  ]
+}

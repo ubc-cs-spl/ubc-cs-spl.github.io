@@ -1,0 +1,5455 @@
+{
+  "user_repo": "alexrothenberg/motion-addressbook",
+  "dep_repo": "rubymotion/BubbleWrap",
+  "dep_date": "2012-07-18 20:39:13 UTC",
+  "dep_commit_id": "e03ea7647f9a3a70da669f224dad6f2ec4c5f4be",
+  "social_date": "2012-09-20 17:40:38 UTC",
+  "devs": [
+    "markrickert",
+    "colinta",
+    "rromanchuk",
+    "jamonholmgren",
+    "alexrothenberg"
+  ],
+  "interactions": [
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "4db6900a8a2cee6530e4447bdd9a0b231775aeca",
+      "date": "2015-04-02T17:38:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "dcdafe5ab937a6dbd859a5558a5dc17339046ab3",
+      "date": "2015-04-02T17:36:55Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "5b241fe2b4276c08dfd61897a210085efd3cc20f",
+      "date": "2015-03-20T17:34:21Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "251befccdc1a81e82d5e7fc545963695a114117b",
+      "date": "2015-03-20T17:27:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "7e0aa3f1f0c52394b10dc313786869cc95dc13d5",
+      "date": "2015-03-18T15:20:10Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "f2e6611ad805dff98dcc9130cb82337f04ea0b30",
+      "date": "2015-03-06T03:48:43Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "2fff0f8477f4883bdbd6ee4e877b0487deaab70e",
+      "date": "2015-03-06T03:48:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "56ed20b83955efeec5d916cc45e5a79b6fd156e2",
+      "date": "2015-03-06T03:48:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "47d2a366c96b2adff89fddb57a1092c90c136c5a",
+      "date": "2015-03-06T03:30:06Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "2b62e5d064cf924347d77de08af6946305bccef0",
+      "date": "2014-10-10T20:10:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "73d197a2f119ce3d86031403b60f249a3da5e6a1",
+      "date": "2015-10-31T18:22:59Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5d1e26f3124344f5f860444fd2586bd6534fad46",
+      "date": "2015-10-31T18:20:54Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "7e5ef653a3a76383782d809e41fe92f93c176175",
+      "date": "2015-10-07T19:59:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f81019a4e3b0a81866fc83cf2fefa536b1c580f5",
+      "date": "2015-10-07T19:56:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "37a33835a515602da17b33700376518b957c5da6",
+      "date": "2015-10-05T20:22:31Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a98dec6b453aa28f2143d6756c450492714c6633",
+      "date": "2015-10-05T20:18:56Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "d307fd70aa722317957f9e818840e6ec20907ba3",
+      "date": "2015-08-10T17:57:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2bd2811013acc9f1df4fddd5ef11c73e5ac3d40c",
+      "date": "2015-07-27T13:45:07Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f6a234477259490b8b4fae96d7aebc54040d77cc",
+      "date": "2015-07-27T13:37:23Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "1f10002434686ad2371e5da9710d8a45fbe5af70",
+      "date": "2015-07-21T19:42:35Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8f5f58d1cb1e4970c3935660d3d37333f1cf9ddf",
+      "date": "2015-07-10T12:07:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e2023ae09048744c96bc67eec5e3fb8152775d84",
+      "date": "2015-07-10T12:05:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ce55465a25dfe1b4f713d3af0de694f6a848cdb7",
+      "date": "2015-07-10T11:57:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5ea0c0fb7cc5bb4bfaa4cdcb54d797c053edc580",
+      "date": "2015-07-10T11:51:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b069c043dccbe7d7bad2c3ddeabc42de4174f97b",
+      "date": "2015-07-10T09:51:40Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "13c077221bb6f23f5bee1784912fcac26fd643ae",
+      "date": "2015-07-10T09:51:32Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "35c7ffb86306810ff409d3c00fd90141e12a263d",
+      "date": "2015-07-10T09:50:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "072847cc7dd9f0f4a1a8ec2f28ed4e30729b0da8",
+      "date": "2015-07-10T09:49:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "66885f51e0cf04d82739e36aea344e4f0d35adfb",
+      "date": "2015-07-10T09:46:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a4cd1cd11d388cb2728ce93a802998a8a90aeabd",
+      "date": "2015-07-10T09:18:17Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ae31898581e3f537be7671c7a05e9726dfbba3e8",
+      "date": "2015-07-10T09:10:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "889e4286c39a9b566e0af2eb806581155b69580b",
+      "date": "2015-07-10T08:57:55Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b09ac974a8220150b7ff709e8ad08e98ea09becb",
+      "date": "2015-07-10T07:39:47Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "799c0ec563a2359e784c28c93a05edf21de45773",
+      "date": "2015-07-09T17:18:29Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2ea9774f91c56454ecf9b5e481a8a042e85c14b5",
+      "date": "2015-07-09T16:59:25Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "50cf1d0e109f87e3c1f5c5f3735b2fb015aa3368",
+      "date": "2015-07-09T16:56:09Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "81070dfda19df61f98c787a0266ee205aae947c6",
+      "date": "2015-07-09T16:52:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2206a63a969e62508fd52d029f9fb7d0fbb5a3bb",
+      "date": "2015-07-09T15:48:21Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "d1b9ee28b4f2d2937a7e91ac963ba93a4c6ac058",
+      "date": "2015-07-09T15:42:25Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5b47546f163c0d69f9c11f58994e75933a6dc160",
+      "date": "2015-07-09T15:40:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "1d640d45ae86ec63ce2a35f39d60d49403076070",
+      "date": "2015-07-09T15:39:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "da3d6581e5db9900e68c62467d2d742e7c442f25",
+      "date": "2015-06-09T01:29:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "aabbcd30c5bf841bffb623e15322d452b7e313c7",
+      "date": "2015-04-15T17:34:26Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e0892174a17e50a6d91439dbaedf7668d340b4d8",
+      "date": "2015-04-15T15:31:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "62d2359efad9dfbad1fc2eee1ff16a73a9bd8d68",
+      "date": "2015-04-15T15:28:44Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8a4cdedce27324583b346948b872156fc2cd9bf5",
+      "date": "2015-04-06T13:41:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "277ab5b6b6e6d51f38131e32146d54f03da488e8",
+      "date": "2015-04-06T13:39:23Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "30bec31992e72cabcc918e3b31d892b6fb816d3f",
+      "date": "2015-04-06T13:04:56Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "80d63f107e568b5e5d1188fe6900ae1243adc287",
+      "date": "2015-04-06T13:00:43Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4691cf42340644608332dbde0a560cb4cba1b5e3",
+      "date": "2015-04-06T12:59:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "58b536178ecc123e27df5e8ad930109ac581b040",
+      "date": "2015-04-05T17:19:40Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "285b31358c1980bc3043c8d646c581d6b384eede",
+      "date": "2015-04-05T17:11:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "52749a9b894f62bcc149189a8baa57a91889ffbf",
+      "date": "2015-04-05T16:55:06Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "81d4ecabd2a8778c90b6d55da7cc532d65c8ef7c",
+      "date": "2015-04-05T16:42:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8b2e044367d6e0b02a344c104583f3d48848a98e",
+      "date": "2015-04-05T15:40:46Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a3885c0516f6a5219e15ddb35116bc895aac65e9",
+      "date": "2015-04-05T15:39:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e7e269c58fb7fe5a41530fa3816628d0fda50dc6",
+      "date": "2015-04-05T15:38:36Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "1d334b34045af2a7128d4d67cf0f9870a52d6b65",
+      "date": "2015-04-05T15:38:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "7d75957096052504b7d8dc8973ca7a54f259a82c",
+      "date": "2015-04-05T15:26:49Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "37bc194e650ba75e48dee623f47bf0dcdd18be80",
+      "date": "2015-04-05T15:21:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "3557459582130299171d8bd932bde81f0a709d7b",
+      "date": "2015-03-20T17:42:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5a258523eb1b771f3b761f440140e8a567dab415",
+      "date": "2015-03-16T20:17:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "15ed55af8a1b58c46f014e38808ae8e382e2fb9f",
+      "date": "2015-03-16T19:59:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "7b24c049bc82c431fe40721e398917a877f85f09",
+      "date": "2015-03-13T19:24:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "fd497fde2ba4169281a93e87e9896dbe1e746602",
+      "date": "2015-03-13T19:24:00Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "7e02afcbdee698acf864f0ea471e0e972d5bf006",
+      "date": "2015-03-13T19:08:44Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "6d39d97e212a875e7054e14d5e4d84d326f3cebd",
+      "date": "2015-03-13T18:49:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "048f7021b2c9a3b69afcfe49b4cac96c4cd67568",
+      "date": "2015-03-13T18:47:55Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "cbf0d1220e7f5e3bf01b8bc234bc060b495eb5d1",
+      "date": "2015-03-13T18:47:46Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f22b1613a971ce1311a0ebc876fc73e9882626ea",
+      "date": "2015-03-13T18:47:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "d63774f701cd2244602ce29847483d3e53a61dd7",
+      "date": "2015-03-13T18:39:06Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "77f116b3faf726312bb9234f56f3df1faa74cc91",
+      "date": "2015-03-13T18:35:00Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f5c8f43c6e242f4c045c3e3fe67582c9bfd76b12",
+      "date": "2015-03-13T18:30:35Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "0ba01a3f0bdfbb15941e275edcfc592fea86327e",
+      "date": "2015-03-13T17:51:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e43655b16bb5d115f14eed8c7b1998b8229c888c",
+      "date": "2015-03-13T17:49:24Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f8c2b46df8bdf064a351bc2d2b4bb7754dfaba59",
+      "date": "2015-03-13T17:40:08Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "6890060a1deae05a8f12914868954c9d3062f02b",
+      "date": "2015-03-13T17:14:15Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "babcedd595327a87b1e15f1e82604cae43ee3e00",
+      "date": "2015-03-13T17:12:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "21524021417f7342478ae53cdf1e751a4a5473f8",
+      "date": "2015-03-13T17:09:00Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "448eeaae605538271be6c2fcd24ff856ecd2b058",
+      "date": "2015-03-13T17:08:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "57e2add599e621b81724a25fdebfd3f698ac1a5d",
+      "date": "2015-03-13T17:06:52Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b9fd087f8f4517a5f3e8a06641070466ce649447",
+      "date": "2015-03-13T16:57:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ed174e046f3afdc9e2e86d9ea5e982a8bcdbcb08",
+      "date": "2015-03-13T16:56:50Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f479203e8ca697a260225796e904891304cf5548",
+      "date": "2015-03-13T16:56:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "386892964f652035f309ff817ce77d07980292b0",
+      "date": "2015-03-13T16:18:14Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "3392e2cf84ef9dd9e02152ef5c97ff576f228a3f",
+      "date": "2015-03-13T16:14:40Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2f3e014d492cfc0c91271fe9f29b44cff38e860d",
+      "date": "2015-03-13T16:01:55Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ef3a19a64f2f6170e566023127de69872bb25a39",
+      "date": "2015-03-13T16:01:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "9d2277148a25f8f04c4fc0ee77d884f2815b8c46",
+      "date": "2015-03-13T15:58:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ad903600e7c0242295c6b349b0bd9ccffef67fc1",
+      "date": "2015-03-13T15:54:51Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "dd6d1555dd3d3c24d36928753c88b846b25505f3",
+      "date": "2015-03-13T15:45:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a27845d31a12297a008709037072add961863340",
+      "date": "2015-03-13T15:39:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5a3b1b4df98b7dc97601ed940948c1032dfa6d59",
+      "date": "2015-03-13T15:22:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f1a1ba8418ac12bbaa3da9ceede0b541e07bc468",
+      "date": "2015-03-06T04:30:19Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "dc8ccf6dbec95ee92a12ae0a74b2dabd7422bfa3",
+      "date": "2015-03-06T04:22:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "eb2001772a4462d13630af05a844e4fa44e47602",
+      "date": "2015-03-05T03:51:24Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "3e50b72fd8a89780e19bb1b5c25f64bfa250e795",
+      "date": "2015-03-04T14:44:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f47cf48c2b822dd2cc2d3984fdc9de20417829ff",
+      "date": "2015-02-09T12:11:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "378fc2e1d9da7d38ba0a9b8bb4debbb3e0b9e994",
+      "date": "2015-01-29T17:45:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2dc5162c3395963b043bced711972938bf8a5a96",
+      "date": "2015-01-09T16:29:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "1a9c6f0d7b42d09f2f5e02474b25341af954b91b",
+      "date": "2014-12-09T18:16:07Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "9fae3f8533fc792e5dfb3e616ff13f07182d5c7b",
+      "date": "2014-12-01T19:26:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e83c2ee52112e26525142c45aaea1f7bb0ced9c2",
+      "date": "2014-11-25T22:22:26Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "675cde15fcdc50079c28a933d35124da29af7ab1",
+      "date": "2014-11-23T20:24:54Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "71ea569ec1b30f0ce76b1cb6820d391c2640d6fb",
+      "date": "2014-11-23T20:14:15Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "afa40a8cf66273610db989691f3da8a0c70c2f96",
+      "date": "2014-11-18T16:40:37Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "3c605147b0e1e88392861adb3ba0d9bacca5f0fb",
+      "date": "2014-11-14T03:56:49Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "301e25f52c508b423216a99ff31f1c4542cddf71",
+      "date": "2014-11-07T01:18:19Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b1974f2ec8eb03062beb1926bf514f536b90fdd1",
+      "date": "2014-11-07T00:13:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a402f6ab552d1c7bb7b1ff4d7e8c1dcf1307f77c",
+      "date": "2014-10-09T18:02:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a8e1dfe22251cbac4797c41fa84efd659b4ebb9b",
+      "date": "2014-10-09T17:48:24Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5f49b0f996dc72d063fb3ff186fafd7da8049840",
+      "date": "2014-10-09T17:48:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f9bb0d92e1b7bc1eaa5692989846729bc49877eb",
+      "date": "2014-10-09T17:47:42Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "d86626b7a464932a7eefbe14cf1b1a0d269cf6d1",
+      "date": "2014-10-09T16:57:34Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "00ab5be0b090231ea1389cab2bffa03f0fdfdce0",
+      "date": "2014-10-07T16:23:00Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4e12b27be37c55c1c654e20d813e8d9d28347e94",
+      "date": "2014-10-07T14:25:19Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "33a5ff0371e6df135bfde99bc4b26bd940eb963b",
+      "date": "2014-10-07T01:11:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "9b29643098449c6a6472bf04ead2ecc31de0b7b2",
+      "date": "2014-10-07T01:02:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8bb71ad824cf12a79844c34bffb44e157b8f7969",
+      "date": "2014-10-07T00:05:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "c507220e7fb3b160937c08f9291fb64f303bfabe",
+      "date": "2014-10-07T00:04:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4a7404900cb98afe422fe037a214958685bad9c9",
+      "date": "2014-09-23T13:41:24Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ef8a4db467e16a914c17038619cead5ef4a5de29",
+      "date": "2014-09-23T13:28:59Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "aa8552fd28c2649285f0f76d70fcb94727e70ac6",
+      "date": "2014-08-06T13:57:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "fee44a14f625f28177d3bae7507989af02d98fc5",
+      "date": "2014-06-10T16:22:21Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "72ad79019d55309a7d13593679bc7f83bc6a98a0",
+      "date": "2014-06-10T15:44:58Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "6e7c6e99be9d7c90acb512c0dd896b0b3906f6c3",
+      "date": "2014-06-09T20:26:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5ea2a7e5cfb6b6b3a6a1030bb2e754fb5d5d5aa4",
+      "date": "2014-06-09T19:35:59Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "c2053dd69dd93918894b824e8fc3cf7fbecb3cf6",
+      "date": "2014-06-09T19:06:27Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "016fc39c813020346a7ab6e4870531d5613d753f",
+      "date": "2014-06-09T19:02:29Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ae988a4967e69e4ccd1cf674b89546092cb2e155",
+      "date": "2014-06-09T19:02:17Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "c00bc6f013cecf9ba8c0960f53f8d592c97a6c5e",
+      "date": "2014-05-17T15:16:27Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "5fd753c714b0a47d6b802219181de478de07d502",
+      "date": "2014-05-17T15:04:43Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "944be394188eb2faa323f1ea8abd22b02c4dcd67",
+      "date": "2014-05-17T14:55:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "113cdb8b589285999694a880aea042467d619ec4",
+      "date": "2014-05-16T16:46:58Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "cd7c973b5cfb723ab595bda61cb6b90568ce1f6e",
+      "date": "2014-05-16T01:09:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "bb0ed9cd83408acc07a6c61a235bcbbf4c0ad032",
+      "date": "2014-05-16T01:08:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a8a966017141fed80c625bacf965791353be7a38",
+      "date": "2014-05-15T20:03:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "125d140a3fcf2948be0c6568e588e1d079fa443c",
+      "date": "2014-05-15T19:55:13Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "64a6beed1da067f8ebf621b38cfcb2c9050b1f57",
+      "date": "2014-05-14T17:58:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "73d5422c0cc1aea6df5fa2d108fb8bbb092c7c21",
+      "date": "2014-05-14T14:56:51Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "30db69e927b0d0cc080070735b91971774dca900",
+      "date": "2014-03-30T13:40:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2f6aa35c35b975540a7b0b7e7620c3218db1fa6e",
+      "date": "2014-03-30T13:34:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "c9eed961b853110f0104cd9451a73771034ec75d",
+      "date": "2014-03-06T18:44:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "03d12df1c9d3fdad8ae1c32a010d430c1456771e",
+      "date": "2014-03-06T18:41:37Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "cc76693cc1463434775edc73a396c767cac786a8",
+      "date": "2014-03-06T16:21:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "313bd4d2949cb734a56205a1e33c9878127bb08b",
+      "date": "2014-03-06T16:16:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "759cd03f23156d08ee579e42d8302dfeafade44e",
+      "date": "2014-03-06T16:13:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8c874fe096edbbee662ba910192265360126c802",
+      "date": "2014-03-06T16:13:17Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2e81aff669ad094aaa717763770ffc5f36d2ab8d",
+      "date": "2014-03-05T22:56:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "70b29e800952fabbcbdd8a2db61587847b0ab39e",
+      "date": "2014-03-05T22:55:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "6590ec5af83d8df8836759ef6ce38ea487e2f13f",
+      "date": "2014-03-05T22:39:49Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "616e4067b2c1c338cbe75ac9473c372ec0fea8b6",
+      "date": "2014-03-05T21:24:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e2cef12e60753c9abaaf2309c0a5c958721e3cfd",
+      "date": "2014-03-05T20:15:47Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b076b4a3da563581f3eaf60005ee3aab9f464c62",
+      "date": "2014-03-05T19:57:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a9352358b01fdb53dc1d6c04352794882a1e69f1",
+      "date": "2014-03-05T19:51:59Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4aa8a7e6dd6c7166863eba8a511ef1f2503920c7",
+      "date": "2014-02-26T16:12:31Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "6202c43d6efacddf7e37f66a18280adcdfcd6e3e",
+      "date": "2014-02-26T02:39:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2213a27d86c44929846cae24c39190c73cef0cd3",
+      "date": "2014-02-26T02:21:46Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e6a68bf3254863714c70d68dd4647d5de5c738e1",
+      "date": "2014-02-26T02:13:28Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2b296c0b4d6cf4fd8a4d5584cacf53d912482e57",
+      "date": "2014-01-29T04:07:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f7fe1d50919ab4b47a71c95e548a16c1abf3ca0e",
+      "date": "2014-01-29T04:06:49Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "9730670abe932fb92d0b9ba244834940617c1bd2",
+      "date": "2014-01-22T00:40:37Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "37842d6349509f00cd2534d02e99f68ca7d1a141",
+      "date": "2014-01-22T00:40:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8e6081d7171b2bac725913531226c071e2dfebcd",
+      "date": "2014-01-22T00:06:54Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4eb47ffe6f90459576f273a57b0fe71bcba3545c",
+      "date": "2013-11-12T18:38:25Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "34aea5eba75759b2e48fc21b39b2429d53702701",
+      "date": "2013-05-09T12:59:07Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 58717769,
+      "date": "2014-10-10T21:19:28Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84077914,
+      "date": "2015-03-20T17:21:55Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84082350,
+      "date": "2015-03-20T17:34:46Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 88953702,
+      "date": "2015-04-02T15:49:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17369139,
+      "date": "2013-05-02T22:34:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17671200,
+      "date": "2013-05-09T15:38:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17671487,
+      "date": "2013-05-09T15:43:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17672042,
+      "date": "2013-05-09T15:53:09Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17673075,
+      "date": "2013-05-09T16:11:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 18613465,
+      "date": "2013-05-29T12:41:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 28318266,
+      "date": "2013-11-12T18:14:44Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 28328895,
+      "date": "2013-11-12T20:15:36Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 31531950,
+      "date": "2014-01-03T16:07:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 31532434,
+      "date": "2014-01-03T16:13:37Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 32981649,
+      "date": "2014-01-22T00:44:14Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 33025517,
+      "date": "2014-01-22T14:12:29Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 33030167,
+      "date": "2014-01-22T14:58:24Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 33030302,
+      "date": "2014-01-22T14:59:47Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 33033623,
+      "date": "2014-01-22T15:32:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 33055588,
+      "date": "2014-01-22T19:04:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 34064285,
+      "date": "2014-02-04T14:34:49Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36013212,
+      "date": "2014-02-25T14:38:17Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36141827,
+      "date": "2014-02-26T16:06:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36142668,
+      "date": "2014-02-26T16:13:40Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36167558,
+      "date": "2014-02-26T19:42:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36179257,
+      "date": "2014-02-26T21:25:52Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36621525,
+      "date": "2014-03-04T13:03:17Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36670671,
+      "date": "2014-03-04T20:33:31Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36905914,
+      "date": "2014-03-06T16:28:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36906059,
+      "date": "2014-03-06T16:29:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36921467,
+      "date": "2014-03-06T18:44:41Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36930593,
+      "date": "2014-03-06T20:06:41Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37070792,
+      "date": "2014-03-07T21:41:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 38799633,
+      "date": "2014-03-27T13:05:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39106986,
+      "date": "2014-03-31T16:08:08Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39198023,
+      "date": "2014-04-01T12:13:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40669468,
+      "date": "2014-04-17T00:45:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40833634,
+      "date": "2014-04-18T18:45:43Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 43086450,
+      "date": "2014-05-14T14:22:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 43111431,
+      "date": "2014-05-14T17:31:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 43115254,
+      "date": "2014-05-14T18:00:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 43261062,
+      "date": "2014-05-15T20:31:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 43328311,
+      "date": "2014-05-16T13:03:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 43353409,
+      "date": "2014-05-16T16:47:17Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 43411400,
+      "date": "2014-05-17T16:10:34Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 44960136,
+      "date": "2014-06-03T12:53:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 44988520,
+      "date": "2014-06-03T16:35:07Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 45531014,
+      "date": "2014-06-09T19:10:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 45534687,
+      "date": "2014-06-09T19:42:27Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 45540753,
+      "date": "2014-06-09T20:36:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 46184858,
+      "date": "2014-06-16T14:26:34Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 46301196,
+      "date": "2014-06-17T12:42:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 47182346,
+      "date": "2014-06-26T02:42:50Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 47182352,
+      "date": "2014-06-26T02:42:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 48766616,
+      "date": "2014-07-11T18:33:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 49919572,
+      "date": "2014-07-23T19:02:50Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 50339175,
+      "date": "2014-07-28T13:42:23Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 50339694,
+      "date": "2014-07-28T13:46:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 51354042,
+      "date": "2014-08-06T15:49:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 52527583,
+      "date": "2014-08-18T17:42:23Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 52836025,
+      "date": "2014-08-20T20:07:23Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 52836058,
+      "date": "2014-08-20T20:07:40Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 52836548,
+      "date": "2014-08-20T20:11:26Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56318071,
+      "date": "2014-09-22T00:18:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56318191,
+      "date": "2014-09-22T00:22:28Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56393808,
+      "date": "2014-09-22T15:48:28Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56400639,
+      "date": "2014-09-22T16:33:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56405615,
+      "date": "2014-09-22T17:07:56Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56410740,
+      "date": "2014-09-22T17:44:06Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56410968,
+      "date": "2014-09-22T17:45:32Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56451534,
+      "date": "2014-09-22T22:11:08Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56455842,
+      "date": "2014-09-22T22:52:35Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56456614,
+      "date": "2014-09-22T23:00:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56456665,
+      "date": "2014-09-22T23:01:27Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56456926,
+      "date": "2014-09-22T23:04:36Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56515995,
+      "date": "2014-09-23T13:04:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56520813,
+      "date": "2014-09-23T13:41:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56562958,
+      "date": "2014-09-23T18:03:42Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56574631,
+      "date": "2014-09-23T19:19:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56666683,
+      "date": "2014-09-24T13:08:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 57172778,
+      "date": "2014-09-29T14:53:52Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 57721782,
+      "date": "2014-10-02T22:48:17Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58110491,
+      "date": "2014-10-06T22:31:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58112871,
+      "date": "2014-10-06T22:54:41Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58119750,
+      "date": "2014-10-07T00:15:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58119988,
+      "date": "2014-10-07T00:18:36Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58129042,
+      "date": "2014-10-07T02:39:13Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58129061,
+      "date": "2014-10-07T02:39:38Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58192288,
+      "date": "2014-10-07T14:25:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58212111,
+      "date": "2014-10-07T16:22:36Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58227365,
+      "date": "2014-10-07T17:46:56Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58242835,
+      "date": "2014-10-07T19:12:38Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58299199,
+      "date": "2014-10-08T02:49:34Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58438540,
+      "date": "2014-10-08T22:30:37Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58438688,
+      "date": "2014-10-08T22:31:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58525484,
+      "date": "2014-10-09T15:20:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58536126,
+      "date": "2014-10-09T16:26:56Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58541108,
+      "date": "2014-10-09T16:57:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58541520,
+      "date": "2014-10-09T16:59:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58551609,
+      "date": "2014-10-09T18:06:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58552401,
+      "date": "2014-10-09T18:11:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58555141,
+      "date": "2014-10-09T18:29:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58557037,
+      "date": "2014-10-09T18:41:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58557730,
+      "date": "2014-10-09T18:45:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58560153,
+      "date": "2014-10-09T19:00:34Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 58580670,
+      "date": "2014-10-09T21:28:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 59078396,
+      "date": "2014-10-14T16:54:19Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 61841129,
+      "date": "2014-11-05T16:54:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 62081372,
+      "date": "2014-11-07T01:18:13Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 63110266,
+      "date": "2014-11-14T18:46:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 63255388,
+      "date": "2014-11-17T03:19:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 64130092,
+      "date": "2014-11-23T19:10:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 64134262,
+      "date": "2014-11-23T20:56:26Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 64482059,
+      "date": "2014-11-25T22:23:08Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 65511890,
+      "date": "2014-12-03T23:31:22Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 65698764,
+      "date": "2014-12-04T20:32:10Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 65825120,
+      "date": "2014-12-05T17:35:05Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 66342853,
+      "date": "2014-12-09T19:34:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 67502523,
+      "date": "2014-12-18T15:33:46Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 69358465,
+      "date": "2015-01-09T16:29:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 71679740,
+      "date": "2015-01-27T16:37:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 71684989,
+      "date": "2015-01-27T17:04:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 73498831,
+      "date": "2015-02-09T12:10:58Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 73808685,
+      "date": "2015-02-10T23:42:47Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 77503920,
+      "date": "2015-03-06T04:11:46Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 77505074,
+      "date": "2015-03-06T04:30:14Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 77689494,
+      "date": "2015-03-07T13:34:56Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 77689871,
+      "date": "2015-03-07T13:46:26Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 77690776,
+      "date": "2015-03-07T14:13:37Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 79088848,
+      "date": "2015-03-13T16:14:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 79140528,
+      "date": "2015-03-13T17:06:49Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 79226488,
+      "date": "2015-03-13T18:32:30Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 79234040,
+      "date": "2015-03-13T18:39:50Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 79261702,
+      "date": "2015-03-13T19:07:18Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 81915163,
+      "date": "2015-03-16T20:17:56Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 89790119,
+      "date": "2015-04-05T15:22:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 89814643,
+      "date": "2015-04-05T17:19:52Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 92931420,
+      "date": "2015-04-14T15:59:47Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93426549,
+      "date": "2015-04-15T14:40:04Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93426781,
+      "date": "2015-04-15T14:40:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93444838,
+      "date": "2015-04-15T15:18:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93446810,
+      "date": "2015-04-15T15:21:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93448281,
+      "date": "2015-04-15T15:23:54Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93449245,
+      "date": "2015-04-15T15:27:49Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93451958,
+      "date": "2015-04-15T15:34:29Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93537698,
+      "date": "2015-04-15T19:20:54Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 94289092,
+      "date": "2015-04-19T15:38:59Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 96708691,
+      "date": "2015-04-27T15:27:51Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 104949253,
+      "date": "2015-05-23T22:03:50Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 106906513,
+      "date": "2015-05-29T19:14:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 112162838,
+      "date": "2015-06-15T18:31:19Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 118478659,
+      "date": "2015-07-04T07:19:00Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 119118618,
+      "date": "2015-07-07T08:28:51Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120034587,
+      "date": "2015-07-09T15:28:54Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120036267,
+      "date": "2015-07-09T15:33:43Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120039197,
+      "date": "2015-07-09T15:40:37Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120040665,
+      "date": "2015-07-09T15:42:23Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120041076,
+      "date": "2015-07-09T15:42:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120042851,
+      "date": "2015-07-09T15:45:51Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120043171,
+      "date": "2015-07-09T15:46:27Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120306518,
+      "date": "2015-07-10T09:00:09Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120310720,
+      "date": "2015-07-10T09:10:16Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 120488185,
+      "date": "2015-07-10T18:30:03Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 123457842,
+      "date": "2015-07-21T19:42:39Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 125206677,
+      "date": "2015-07-27T13:37:21Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 129549341,
+      "date": "2015-08-10T17:57:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 130735405,
+      "date": "2015-08-13T15:50:51Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 130750653,
+      "date": "2015-08-13T16:26:26Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 130780221,
+      "date": "2015-08-13T17:56:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 138656194,
+      "date": "2015-09-08T18:20:53Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 145418669,
+      "date": "2015-10-05T03:04:40Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 145655461,
+      "date": "2015-10-05T20:19:29Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 146311272,
+      "date": "2015-10-07T19:59:38Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 149040828,
+      "date": "2015-10-18T19:31:20Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 149274694,
+      "date": "2015-10-19T16:37:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 152760275,
+      "date": "2015-10-31T18:20:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 154474065,
+      "date": "2015-11-06T17:05:35Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 154624215,
+      "date": "2015-11-07T05:22:48Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 76,
+      "date": "2015-03-06T03:52:21Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 71,
+      "date": "2014-10-10T20:11:19Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 467,
+      "date": "2015-07-10T09:49:58Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 466,
+      "date": "2015-07-09T15:43:14Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 458,
+      "date": "2015-04-15T15:37:00Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 457,
+      "date": "2015-04-15T14:38:28Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 454,
+      "date": "2015-04-06T13:05:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 453,
+      "date": "2015-04-05T15:28:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 452,
+      "date": "2015-03-20T17:50:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 451,
+      "date": "2015-03-13T15:22:42Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 448,
+      "date": "2015-03-06T04:22:33Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 447,
+      "date": "2015-03-04T14:45:45Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 444,
+      "date": "2015-01-29T17:52:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 438,
+      "date": "2014-12-09T18:17:10Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 436,
+      "date": "2014-11-14T03:57:38Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 435,
+      "date": "2014-11-07T00:14:57Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 431,
+      "date": "2014-10-09T18:21:01Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 430,
+      "date": "2014-10-09T17:49:35Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 426,
+      "date": "2014-10-07T01:13:07Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 424,
+      "date": "2014-10-07T00:06:13Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 419,
+      "date": "2014-09-23T13:29:38Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 405,
+      "date": "2014-08-06T13:57:50Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 386,
+      "date": "2014-06-10T16:09:13Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 380,
+      "date": "2014-05-17T15:06:44Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 378,
+      "date": "2014-05-16T01:12:15Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 377,
+      "date": "2014-05-15T20:10:07Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 376,
+      "date": "2014-05-14T14:58:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 358,
+      "date": "2014-03-30T13:41:38Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 348,
+      "date": "2014-02-26T02:16:07Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 335,
+      "date": "2014-01-22T00:14:50Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 313,
+      "date": "2013-11-12T20:00:44Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 231,
+      "date": "2013-05-09T13:00:12Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 70,
+      "date": "2014-10-10T20:06:35Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 450,
+      "date": "2015-03-13T15:09:27Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 425,
+      "date": "2014-10-07T00:20:11Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 402,
+      "date": "2014-07-28T13:33:21Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 379,
+      "date": "2014-05-17T14:52:02Z"
+    },
+    {
+      "dev_id": "markrickert",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 312,
+      "date": "2013-11-12T15:57:46Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "a550acc22c2221727282ac034df6656535c88991",
+      "date": "2012-10-31T22:26:58Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "1248557cb98a74b319cc9433a6a9e0eb7313301a",
+      "date": "2012-10-31T22:15:05Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f588c204f87b1af3722e358c41471000fdd32ee2",
+      "date": "2014-09-23T05:19:08Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "d73eb74c706ba5afb1106f674abf3857e3b06725",
+      "date": "2014-09-22T22:59:16Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "0bd8a98a4035f4b362d9a61154f7c3d0d8be397f",
+      "date": "2014-09-22T18:04:18Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "10da62c11b1c1b11ac7edae9a4014fdce22d9899",
+      "date": "2014-09-22T18:01:42Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "cc9aa3997821211338590e1dc89dd8fe707d918a",
+      "date": "2014-09-22T17:42:59Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "de6e94a19cfa5bd035767d82ab1e219bea51d054",
+      "date": "2014-09-22T17:42:32Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ab0559281e87fc67370d5113305b39611c263b2f",
+      "date": "2014-09-22T17:37:18Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "08fb92c68a22db84e1b8580c5032f89e3e9c7a26",
+      "date": "2014-04-22T23:34:59Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8f8dca97a50559e5e30f3d3c95cdbde9f1fa6119",
+      "date": "2014-04-22T23:28:56Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "fb32464fad40ca46944b476b47acf20cde524910",
+      "date": "2014-04-21T22:45:21Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4d1b3287f480b803eff9459b48f9568110ab76b1",
+      "date": "2014-04-17T17:41:47Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "3a620da2ed998462e89ce72035ca7adbaa15222c",
+      "date": "2014-04-17T17:41:10Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "79c942353677b98c9a5e5e928ce35f7d17c6fda3",
+      "date": "2014-04-16T18:11:37Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4f307f87233a1058762a3461da8ab970408d066c",
+      "date": "2014-04-16T18:11:31Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "027a5e0706f3055d0124a9a8960461168a652547",
+      "date": "2014-04-16T18:06:46Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "53940f1857c2aed3ff9e3bb3abd58c7aa9f16aa2",
+      "date": "2014-04-16T18:06:20Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "9c1a9c84e48820d7e73eec540f00c7675b193f94",
+      "date": "2014-04-16T18:06:05Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "e23dfe30f1c23acf164dd49d0333488d4972ef51",
+      "date": "2014-03-29T16:03:02Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "a53a35cfcc5a96ba7dd974dd2356bb562659af18",
+      "date": "2014-03-07T22:47:54Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "763226addb15a46d6af49f0faac0d25f3f660376",
+      "date": "2014-03-07T20:09:17Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "80619bf1e5258149a321b088549fd54fb169e504",
+      "date": "2014-03-07T20:07:19Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "f8031f4d9e23dcdd6a6f52fa8c10360f0a78d87d",
+      "date": "2014-03-07T19:46:51Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "679aecd3848ac2b36f2f4226645bd69fa2f21381",
+      "date": "2014-03-07T18:53:43Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b09da68afe1e43ab62f81e98afce0f5b59b0e020",
+      "date": "2014-03-07T18:53:27Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "dc8eacf9dcd3d833bc718a52df13abb4489a89f8",
+      "date": "2014-03-06T17:27:42Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4cea7ff0353850427aa83bd9f532f26abf2dedbd",
+      "date": "2014-03-06T17:26:52Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "07b49ee7f8abaacad86a8ff5ccca6751cf4aa351",
+      "date": "2014-03-06T17:14:59Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "cee889f58e55e21fa1f5e958cf03dcafa55d8d8f",
+      "date": "2013-03-22T01:11:17Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "61cea36eb3a1b405c4ede2596023e2e6092b8f5a",
+      "date": "2013-01-15T00:53:16Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "c37839a803acf6c820475621ce1fde0f6948a615",
+      "date": "2012-09-26T17:25:52Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "41d7de2bca8efae0f27835e16b426ede5c194562",
+      "date": "2012-09-26T17:25:45Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "4ddf2a1b00bb0006e60b685282418737f1191f4c",
+      "date": "2012-09-26T02:28:35Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "fcc562d0105239d6615439d7987ae71c0b7bf06a",
+      "date": "2012-07-22T15:47:38Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "c654f59595cf1360996ba4b5b53904891aeb96f6",
+      "date": "2012-07-21T15:14:37Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "477d0f88f6060847fc183213dfd14f41f6cc03be",
+      "date": "2012-07-21T15:09:45Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9988848,
+      "date": "2012-11-01T17:41:29Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10207030,
+      "date": "2012-11-08T22:04:50Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37433240,
+      "date": "2014-03-12T16:52:53Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37434991,
+      "date": "2014-03-12T17:06:10Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37435599,
+      "date": "2014-03-12T17:10:30Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37437224,
+      "date": "2014-03-12T17:23:10Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37437362,
+      "date": "2014-03-12T17:24:08Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37440069,
+      "date": "2014-03-12T17:45:24Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37440471,
+      "date": "2014-03-12T17:48:22Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37453767,
+      "date": "2014-03-12T19:34:58Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37466061,
+      "date": "2014-03-12T21:13:33Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37579737,
+      "date": "2014-03-13T20:02:14Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 7162853,
+      "date": "2012-07-22T15:47:43Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 7162916,
+      "date": "2012-07-22T15:55:57Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 7165665,
+      "date": "2012-07-22T21:09:35Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 15276064,
+      "date": "2013-03-22T01:11:27Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 15694093,
+      "date": "2013-03-31T16:54:11Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 15703567,
+      "date": "2013-04-01T04:03:38Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 15734819,
+      "date": "2013-04-01T20:19:14Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 15739020,
+      "date": "2013-04-01T21:39:37Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 15780740,
+      "date": "2013-04-02T15:06:29Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 18875072,
+      "date": "2013-06-03T21:57:17Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 23184084,
+      "date": "2013-08-23T19:00:00Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 23184205,
+      "date": "2013-08-23T19:01:38Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 23222509,
+      "date": "2013-08-25T06:01:25Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 32503586,
+      "date": "2014-01-16T18:39:41Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36141710,
+      "date": "2014-02-26T16:05:22Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36143078,
+      "date": "2014-02-26T16:17:07Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36168196,
+      "date": "2014-02-26T19:47:52Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36179880,
+      "date": "2014-02-26T21:32:15Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36180254,
+      "date": "2014-02-26T21:35:48Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37052221,
+      "date": "2014-03-07T18:23:04Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37062562,
+      "date": "2014-03-07T20:08:06Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37065729,
+      "date": "2014-03-07T20:44:52Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37075882,
+      "date": "2014-03-07T22:41:03Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37076836,
+      "date": "2014-03-07T22:52:50Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37077252,
+      "date": "2014-03-07T22:58:06Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37078145,
+      "date": "2014-03-07T23:10:18Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37208863,
+      "date": "2014-03-10T17:22:31Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 38834575,
+      "date": "2014-03-27T17:27:23Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 38877726,
+      "date": "2014-03-28T00:32:22Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 38999784,
+      "date": "2014-03-29T16:03:00Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 38999830,
+      "date": "2014-03-29T16:04:27Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 38999870,
+      "date": "2014-03-29T16:05:49Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39107480,
+      "date": "2014-03-31T16:12:10Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39123611,
+      "date": "2014-03-31T18:27:52Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39231192,
+      "date": "2014-04-01T17:06:46Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39456249,
+      "date": "2014-04-03T14:19:16Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39466997,
+      "date": "2014-04-03T15:41:29Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40722555,
+      "date": "2014-04-17T14:51:25Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40835643,
+      "date": "2014-04-18T19:09:12Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40839140,
+      "date": "2014-04-18T19:55:46Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40839217,
+      "date": "2014-04-18T19:56:50Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40840632,
+      "date": "2014-04-18T20:15:38Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40841006,
+      "date": "2014-04-18T20:20:53Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40841264,
+      "date": "2014-04-18T20:24:06Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40842583,
+      "date": "2014-04-18T20:41:42Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40844074,
+      "date": "2014-04-18T21:00:54Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40845794,
+      "date": "2014-04-18T21:23:57Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40846022,
+      "date": "2014-04-18T21:27:27Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 44978407,
+      "date": "2014-06-03T15:20:13Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 45009798,
+      "date": "2014-06-03T19:32:42Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 45012662,
+      "date": "2014-06-03T19:58:28Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 46245688,
+      "date": "2014-06-16T22:22:50Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 46246014,
+      "date": "2014-06-16T22:26:40Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 46492228,
+      "date": "2014-06-18T20:51:12Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56402937,
+      "date": "2014-09-22T16:49:43Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56409803,
+      "date": "2014-09-22T17:37:49Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56410455,
+      "date": "2014-09-22T17:42:03Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56410867,
+      "date": "2014-09-22T17:44:57Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56411151,
+      "date": "2014-09-22T17:46:48Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56414070,
+      "date": "2014-09-22T18:05:03Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56452207,
+      "date": "2014-09-22T22:17:00Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56456517,
+      "date": "2014-09-22T22:59:51Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 56456763,
+      "date": "2014-09-22T23:02:34Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 58,
+      "date": "2014-03-12T16:26:16Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 6,
+      "date": "2012-10-31T22:17:45Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 366,
+      "date": "2014-04-16T18:08:12Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 349,
+      "date": "2014-03-06T17:21:28Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 289,
+      "date": "2013-08-23T18:57:17Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 197,
+      "date": "2013-03-22T01:00:49Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 154,
+      "date": "2012-09-26T17:31:29Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 152,
+      "date": "2012-09-26T02:30:36Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 112,
+      "date": "2012-07-21T15:12:04Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 357,
+      "date": "2014-03-29T16:08:33Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 111,
+      "date": "2012-07-21T15:08:31Z"
+    },
+    {
+      "dev_id": "colinta",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 6,
+      "date": "2012-05-07T23:00:40Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "827dd852b7cfd07887622c36c741e06bbaddb9d2",
+      "date": "2014-09-05T18:19:20Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "10374436c425a63a015e5eefa4f77675a3c376e0",
+      "date": "2014-08-07T19:06:33Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8eee29ef9fb9af552f6d6a11fd444f03cac9dbc1",
+      "date": "2014-09-05T00:09:58Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "2a97815eae5ab5ff247fbc23ce097136aafefbda",
+      "date": "2014-09-04T23:09:27Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "6ce0ddb7440452b5af0a57ef2167cd822a4c5f7a",
+      "date": "2014-08-05T23:10:10Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b7a627e1d17d1c35370611f368e6f274a09a5474",
+      "date": "2014-08-05T23:05:04Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "72848edef5fb22562f864724030f36a3974ac315",
+      "date": "2014-07-09T03:39:44Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "999230f9b3d8e1a3708ffe87d3ca5f432c968c97",
+      "date": "2014-07-09T03:30:47Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 63342719,
+      "date": "2014-11-17T17:36:57Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40685998,
+      "date": "2014-04-17T06:47:31Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 48426517,
+      "date": "2014-07-09T03:36:41Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 55610357,
+      "date": "2014-09-15T15:48:33Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 61565465,
+      "date": "2014-11-03T22:59:37Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 61579996,
+      "date": "2014-11-04T01:30:59Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 61662648,
+      "date": "2014-11-04T16:02:08Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 65819167,
+      "date": "2014-12-05T16:59:20Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 65819620,
+      "date": "2014-12-05T17:02:10Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 65825133,
+      "date": "2014-12-05T17:35:09Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93426357,
+      "date": "2015-04-15T14:39:17Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93443351,
+      "date": "2015-04-15T15:15:57Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93444331,
+      "date": "2015-04-15T15:17:27Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93447478,
+      "date": "2015-04-15T15:22:29Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93448624,
+      "date": "2015-04-15T15:25:10Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93451448,
+      "date": "2015-04-15T15:33:34Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93452015,
+      "date": "2015-04-15T15:34:35Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93453661,
+      "date": "2015-04-15T15:38:10Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93454734,
+      "date": "2015-04-15T15:40:59Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 93475868,
+      "date": "2015-04-15T16:25:48Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 104824839,
+      "date": "2015-05-23T03:31:32Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 104825936,
+      "date": "2015-05-23T03:47:01Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 112162435,
+      "date": "2015-06-15T18:29:09Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 68,
+      "date": "2014-09-05T18:19:22Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 66,
+      "date": "2014-08-07T19:07:09Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 408,
+      "date": "2014-09-05T00:12:35Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 404,
+      "date": "2014-08-05T23:07:02Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 393,
+      "date": "2014-07-09T03:31:44Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 74,
+      "date": "2014-11-03T20:22:17Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 65,
+      "date": "2014-07-10T15:07:04Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 463,
+      "date": "2015-06-15T18:22:06Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 456,
+      "date": "2015-04-14T20:48:11Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 434,
+      "date": "2014-11-03T21:22:47Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 433,
+      "date": "2014-10-17T17:17:43Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 414,
+      "date": "2014-09-15T06:16:26Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 403,
+      "date": "2014-08-05T22:19:31Z"
+    },
+    {
+      "dev_id": "rromanchuk",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 341,
+      "date": "2014-01-30T02:55:40Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "58db820c91636426a6e74f842e74aa99278704c0",
+      "date": "2012-09-25T01:22:23Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "ea52b80ca5d4f91930f309e6c0335d57d9390828",
+      "date": "2012-09-25T01:16:18Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "3f61a4f71f10b791569786db74149fd954e39dea",
+      "date": "2012-09-19T00:41:52Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "24fd66cf65e1dc7af62963c10a7deeaa4e3fa385",
+      "date": "2013-12-04T06:52:17Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "b935a1fd6347ca0f42f17ed0d928329c60a2c511",
+      "date": "2013-12-04T05:52:09Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "7679a55b52dda9969e811a13947b09327624ffa6",
+      "date": "2013-12-04T05:17:46Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "8df29a3cb062a6ff25d4eb32b600503d425832c6",
+      "date": "2013-05-29T22:32:23Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "bf9a3df56e47aa82e4612c5dc9ea72d69d10ff92",
+      "date": "2013-05-29T18:30:14Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "015865730780a3c46c1ab5a60d85d5364cd36907",
+      "date": "2013-05-29T18:11:28Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "84c66e50006bd0d13c27f79c04134571fea7ac61",
+      "date": "2013-05-29T03:51:58Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "1aa0f2f9391eb6a62877c3866b1b6fb564367ba9",
+      "date": "2013-05-29T03:36:49Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "ec46726c83420b4bc466a15d927dddcbe47d530c",
+      "date": "2013-05-29T03:14:00Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "d1b5ed6ec65dafdf2dd583941203592b8fb0179d",
+      "date": "2013-05-29T03:05:33Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "01d5fb9d52085faad6ce90daa406c332012eb0ce",
+      "date": "2013-05-29T03:03:33Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "0f6edb15a58a6af1879b47a1595eb23723920e2d",
+      "date": "2012-09-20T17:40:38Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8695505,
+      "date": "2012-09-19T15:48:48Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8829324,
+      "date": "2012-09-24T18:32:52Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8836245,
+      "date": "2012-09-24T21:50:22Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8837993,
+      "date": "2012-09-24T22:52:09Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8838864,
+      "date": "2012-09-24T23:32:46Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8838972,
+      "date": "2012-09-24T23:37:57Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8839935,
+      "date": "2012-09-25T00:31:49Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8840695,
+      "date": "2012-09-25T01:21:41Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8841049,
+      "date": "2012-09-25T01:47:36Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8909789,
+      "date": "2012-09-26T23:09:55Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8941718,
+      "date": "2012-09-27T16:10:25Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8942158,
+      "date": "2012-09-27T16:23:00Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8942314,
+      "date": "2012-09-27T16:27:08Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8995803,
+      "date": "2012-09-28T21:28:11Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9049402,
+      "date": "2012-10-01T20:48:52Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9534758,
+      "date": "2012-10-17T16:52:57Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9534783,
+      "date": "2012-10-17T16:53:39Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9544284,
+      "date": "2012-10-17T21:16:50Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9571390,
+      "date": "2012-10-18T16:39:53Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9578304,
+      "date": "2012-10-18T19:09:09Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9585733,
+      "date": "2012-10-19T00:04:53Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9607728,
+      "date": "2012-10-19T16:43:01Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9671682,
+      "date": "2012-10-22T16:58:41Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9874246,
+      "date": "2012-10-29T16:20:19Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10295425,
+      "date": "2012-11-12T17:04:12Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11207595,
+      "date": "2012-12-10T17:20:01Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11211762,
+      "date": "2012-12-10T18:56:19Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11211819,
+      "date": "2012-12-10T18:57:52Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 12254431,
+      "date": "2013-01-15T05:48:51Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84077170,
+      "date": "2015-03-20T17:19:47Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84078777,
+      "date": "2015-03-20T17:24:24Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84079913,
+      "date": "2015-03-20T17:27:34Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84092160,
+      "date": "2015-03-20T18:14:46Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 125756463,
+      "date": "2015-07-28T21:17:19Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 125766594,
+      "date": "2015-07-28T22:03:49Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17030197,
+      "date": "2013-04-25T18:10:37Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17030242,
+      "date": "2013-04-25T18:11:05Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17030806,
+      "date": "2013-04-25T18:15:05Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17040146,
+      "date": "2013-04-25T21:01:57Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17043260,
+      "date": "2013-04-25T22:01:22Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17078424,
+      "date": "2013-04-26T14:43:18Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17120293,
+      "date": "2013-04-27T17:53:32Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 18635316,
+      "date": "2013-05-29T18:10:32Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 18636778,
+      "date": "2013-05-29T18:33:30Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 18649260,
+      "date": "2013-05-29T22:02:02Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 18651466,
+      "date": "2013-05-29T22:51:46Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 29783323,
+      "date": "2013-12-04T06:47:08Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 29783735,
+      "date": "2013-12-04T06:58:47Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 29858983,
+      "date": "2013-12-04T23:58:48Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 29859018,
+      "date": "2013-12-04T23:59:20Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36167042,
+      "date": "2014-02-26T19:38:07Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36167104,
+      "date": "2014-02-26T19:38:34Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 36174468,
+      "date": "2014-02-26T20:47:23Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 37197082,
+      "date": "2014-03-10T15:46:24Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 39136318,
+      "date": "2014-03-31T20:20:54Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40661843,
+      "date": "2014-04-16T22:46:27Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 40782815,
+      "date": "2014-04-18T02:48:12Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 45011990,
+      "date": "2014-06-03T19:52:31Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 3,
+      "date": "2012-09-25T01:47:58Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "pr",
+      "id": 1,
+      "date": "2012-09-19T00:43:14Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 320,
+      "date": "2013-12-04T06:53:08Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 319,
+      "date": "2013-12-04T05:57:39Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 247,
+      "date": "2013-05-29T03:55:49Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 79,
+      "date": "2015-04-02T18:18:07Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 14,
+      "date": "2012-12-10T17:23:53Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 9,
+      "date": "2012-11-09T20:44:56Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 8,
+      "date": "2012-11-09T20:12:20Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 5,
+      "date": "2012-10-17T16:54:46Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 4,
+      "date": "2012-09-26T23:11:04Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 2,
+      "date": "2012-09-20T20:55:37Z"
+    },
+    {
+      "dev_id": "jamonholmgren",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "issue",
+      "id": 215,
+      "date": "2013-04-25T17:37:34Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "ae3a437cfaf6d0af00cbca6b5d82af1654a81672",
+      "date": "2015-04-02T17:28:04Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "20af0bedc262c7b7f103bb2a9e9a301eaf5a6356",
+      "date": "2014-10-10T21:16:29Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "597bd21c92e5cc006436720d9be662fe66332d6a",
+      "date": "2013-09-17T18:48:14Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "8758ae9c81a0a2a4872764622f67d0a6f8fc05b7",
+      "date": "2013-07-12T12:01:57Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "2bff2fa0a9e79df670471033e0b126180d1a6501",
+      "date": "2013-06-11T16:25:10Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "6a8c0c5f56f1ea92921c8c4b9fca3bcf6ff856bf",
+      "date": "2013-06-11T16:24:19Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "72e80afbcfdc778bc9fdbc18e20045cbcab1a303",
+      "date": "2013-06-10T16:17:38Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "95e30fe7564f8b751979157ed391c165c84decc9",
+      "date": "2013-06-10T16:09:03Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "d75d67aaec2677f8bc6bd5714a131b729130ac1e",
+      "date": "2013-06-10T15:56:10Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "b4f214c317fad5b50ee5508455a7404abeabf190",
+      "date": "2013-05-17T12:46:04Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "84e7f3f34c91a5598647e480ab527d96f45dda9d",
+      "date": "2013-05-17T12:33:29Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "1ee2f312b97397fd15df1864602426ac27043083",
+      "date": "2013-05-13T17:29:53Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "c89f32f5331a44c11fa97b6c0cff8ee64b5aad63",
+      "date": "2013-04-26T19:09:18Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "f95d4af9820a3f7f1b73d67c48c1419d8fc55a53",
+      "date": "2013-04-23T13:17:46Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "6289c73f5812b21f1d2df74c4673d93806a55f47",
+      "date": "2013-04-10T15:24:03Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "e3704922b627d711c640f9b168ee6c993205565f",
+      "date": "2013-04-10T15:18:52Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "44e75dfc83adcbfd1e0c7a5a5bea0d89482f87e7",
+      "date": "2013-04-05T17:52:36Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "456bdd83656d9fff784090294e9f141acceb5926",
+      "date": "2013-04-04T19:58:59Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "809f19be58d8d75d29479774389ff0e71dc36ee7",
+      "date": "2013-04-04T19:57:45Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "2ae3afb8d68ef51c8a3186e602c00c9acc95058b",
+      "date": "2013-04-04T19:49:26Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "b6146c15eb55b5d3233005b9b330b01f85d0d30f",
+      "date": "2013-04-04T19:43:25Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "dcf7d84b3610e56d9c403fc1f915dba22a7bdf57",
+      "date": "2013-03-26T14:51:29Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "314187bc3a0381d5bf1433618b62350634d3d0f2",
+      "date": "2013-03-15T19:22:09Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "6514c242cbbdaf90d7106b38d6dba89e4e9df040",
+      "date": "2013-03-07T14:13:59Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "b8f5ab9e15b46d003d50c0c36cadf8d42417b061",
+      "date": "2013-01-14T18:18:46Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "3a749dd236dec817110bab53c9a305b023900234",
+      "date": "2013-01-10T19:08:11Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "62ac016b2ffe89af269b9cda75de3db2f2a2d671",
+      "date": "2012-12-10T15:27:09Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "b008c8332dbbea4a6dca825255122d1954ab7c2f",
+      "date": "2012-11-27T14:37:02Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "359cb432544785b56c58651dce91725d724eb121",
+      "date": "2012-11-26T14:03:14Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "d8e792a83233f10b2065694839c1894b874d6742",
+      "date": "2012-11-09T20:17:14Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "3a939390adb8ad5a5a0620cf8f8d661eee5216e6",
+      "date": "2012-11-09T20:15:21Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "7c7001f33fee11de72d2004bd80cda6ac59e7117",
+      "date": "2012-11-08T22:10:42Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "75179f5b379f68097713c0439beb26b928f41eb9",
+      "date": "2012-11-08T22:03:19Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "6ed6d0df826ee12740577d81947dd41a9cf5670e",
+      "date": "2012-11-01T19:51:36Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "c0d1fe0d95fa8155829c5084f336304e5d359563",
+      "date": "2012-11-01T18:32:47Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "7dca3db31cb7e5da3fcb8d615a4c0c1b8b627dca",
+      "date": "2012-10-01T19:36:01Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "b3c0b05a1e2c3ae6dd34c8e8eaadb1adb7ff49e5",
+      "date": "2012-10-01T19:38:49Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "87948cffd68d65e886a4fb687d8bb32b5fab8a83",
+      "date": "2012-09-27T20:19:42Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "eed88f280342c7bcfb140a47ec1dc9897f6aba05",
+      "date": "2012-09-27T19:03:54Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "6e771b174a3930a3cf93dbd8f98c139208926978",
+      "date": "2012-09-24T12:41:11Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "42f9f219c15dfc4323140cea27d543f7bb1738be",
+      "date": "2012-09-24T12:42:18Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "467fea9fe0cc7b1f0b8bb55bb8e643bc17f841cf",
+      "date": "2012-09-19T15:24:26Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "1f62a0422270b31000212de70bfdb58fa5728f91",
+      "date": "2012-08-08T12:08:00Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "cd6556a2901308b84cd517c89c63b437d1ccf8f4",
+      "date": "2012-08-03T20:07:36Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "16cc5596021061845d1651de8cfce6afecb5cc0d",
+      "date": "2012-08-03T19:53:35Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "b86ba258d71dab458e7e02fa7cdc88f6767463b9",
+      "date": "2012-08-03T15:51:05Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "e8445988291e38c6f35bbbb1fd782cab6320cf03",
+      "date": "2012-08-02T19:17:05Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "a6d4974402f4a8753493f7b3ad6d567fef072fc8",
+      "date": "2012-08-02T19:16:22Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "545eb2a9b76c40f68d9e0f347aae23e93190a937",
+      "date": "2012-08-02T14:42:02Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "a4838aee49bb38abb72453718c57aec0e361f247",
+      "date": "2012-07-23T21:04:25Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "0aef5b113572eca6ee73874de3fcf89aeae28414",
+      "date": "2012-07-23T21:00:16Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "5d00dd5dbfd270ca119702db257dc5ae7d8ffcb1",
+      "date": "2012-07-23T21:00:01Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "7b10536e04706a4b22f78b8aa252fc0ca1496006",
+      "date": "2012-07-23T20:47:02Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "353426f7458f7a2ca7e66bc4711a1877b1a8d837",
+      "date": "2012-07-23T20:35:07Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "dc5fa762c6020b37e7c7095772668361351564ef",
+      "date": "2012-07-23T19:43:04Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "d7d9e8c21fd3a4798a4f9c711920a2dff2159d08",
+      "date": "2012-07-19T20:09:23Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "341c5913917e1da38dbe72f4f69ac145837ec156",
+      "date": "2012-07-19T19:58:39Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "5d9d49fadfe262f64533525eebaec9afbd86274c",
+      "date": "2012-07-19T19:57:23Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "commit",
+      "id": "e03ea7647f9a3a70da669f224dad6f2ec4c5f4be",
+      "date": "2012-07-18T20:39:13Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "bb88f3b754ce1264d2a83ac7ba5810a76969bbc0",
+      "date": "2012-09-26T14:29:46Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "commit",
+      "id": "df5bc361f565bdc8539e60571cc57d9abe71ae92",
+      "date": "2012-09-26T13:15:45Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8694739,
+      "date": "2012-09-19T15:27:49Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8816504,
+      "date": "2012-09-24T12:03:18Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8833794,
+      "date": "2012-09-24T20:38:41Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8836421,
+      "date": "2012-09-24T21:56:14Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8839015,
+      "date": "2012-09-24T23:40:21Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8934663,
+      "date": "2012-09-27T12:38:32Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8934719,
+      "date": "2012-09-27T12:41:18Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 8995553,
+      "date": "2012-09-28T21:17:21Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9047438,
+      "date": "2012-10-01T20:02:11Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9563018,
+      "date": "2012-10-18T12:48:20Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9575799,
+      "date": "2012-10-18T18:23:11Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9613914,
+      "date": "2012-10-19T19:07:25Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9671823,
+      "date": "2012-10-22T17:02:35Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9988742,
+      "date": "2012-11-01T17:38:18Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 9993511,
+      "date": "2012-11-01T19:55:36Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10207314,
+      "date": "2012-11-08T22:12:52Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10207870,
+      "date": "2012-11-08T22:29:45Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10243147,
+      "date": "2012-11-09T20:18:03Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10287237,
+      "date": "2012-11-12T13:27:36Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10716389,
+      "date": "2012-11-26T14:05:12Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10719275,
+      "date": "2012-11-26T15:23:56Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10760177,
+      "date": "2012-11-27T14:43:38Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 10772494,
+      "date": "2012-11-27T19:21:41Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11199864,
+      "date": "2012-12-10T15:31:53Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11199997,
+      "date": "2012-12-10T15:33:33Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11211520,
+      "date": "2012-12-10T18:50:41Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11211763,
+      "date": "2012-12-10T18:56:19Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 11211907,
+      "date": "2012-12-10T18:59:51Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 14562573,
+      "date": "2013-03-07T14:17:42Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 14957321,
+      "date": "2013-03-15T12:15:18Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 14957374,
+      "date": "2013-03-15T12:17:00Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 14980039,
+      "date": "2013-03-15T19:24:30Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 15130057,
+      "date": "2013-03-19T17:30:06Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 15462705,
+      "date": "2013-03-26T14:52:10Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 15544928,
+      "date": "2013-03-27T18:46:06Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 15920289,
+      "date": "2013-04-04T20:02:47Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 15973947,
+      "date": "2013-04-05T18:54:00Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16059430,
+      "date": "2013-04-08T16:01:37Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16181173,
+      "date": "2013-04-10T15:21:44Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16786380,
+      "date": "2013-04-22T13:43:46Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16857181,
+      "date": "2013-04-23T13:17:53Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16857227,
+      "date": "2013-04-23T13:18:52Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16857803,
+      "date": "2013-04-23T13:29:22Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16862796,
+      "date": "2013-04-23T14:50:32Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16868113,
+      "date": "2013-04-23T16:07:39Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 16885215,
+      "date": "2013-04-23T20:44:44Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 17084879,
+      "date": "2013-04-26T16:27:37Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 17094679,
+      "date": "2013-04-26T19:12:39Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 17166314,
+      "date": "2013-04-29T13:27:20Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 17674163,
+      "date": "2013-05-09T16:30:51Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 17718232,
+      "date": "2013-05-10T12:48:07Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 17819694,
+      "date": "2013-05-13T15:36:07Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 17827455,
+      "date": "2013-05-13T17:36:30Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 18205381,
+      "date": "2013-05-21T12:27:32Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 18682737,
+      "date": "2013-05-30T14:15:12Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 19208075,
+      "date": "2013-06-10T15:56:03Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 19273113,
+      "date": "2013-06-11T16:24:55Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 19351157,
+      "date": "2013-06-12T19:55:17Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 20872551,
+      "date": "2013-07-12T12:02:33Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 23809926,
+      "date": "2013-09-04T17:54:21Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 24596050,
+      "date": "2013-09-17T15:12:51Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37434268,
+      "date": "2014-03-12T17:00:41Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 37434798,
+      "date": "2014-03-12T17:04:42Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 38097669,
+      "date": "2014-03-19T19:42:38Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 58717687,
+      "date": "2014-10-10T21:18:40Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 63365461,
+      "date": "2014-11-17T19:58:01Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84078936,
+      "date": "2015-03-20T17:24:52Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84080660,
+      "date": "2015-03-20T17:29:55Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 84096983,
+      "date": "2015-03-20T18:39:43Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "com",
+      "id": 88981068,
+      "date": "2015-04-02T17:27:53Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 8891830,
+      "date": "2012-09-26T14:33:51Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 8891969,
+      "date": "2012-09-26T14:37:52Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 8896981,
+      "date": "2012-09-26T16:58:18Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17672627,
+      "date": "2013-05-09T16:03:23Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "com",
+      "id": 17673435,
+      "date": "2013-05-09T16:17:25Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "rubymotion/BubbleWrap",
+      "type": "pr",
+      "id": 153,
+      "date": "2012-09-26T13:16:53Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 32,
+      "date": "2013-05-09T16:36:28Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 15,
+      "date": "2012-12-17T14:38:09Z"
+    },
+    {
+      "dev_id": "alexrothenberg",
+      "repo": "alexrothenberg/motion-addressbook",
+      "type": "issue",
+      "id": 7,
+      "date": "2012-11-08T22:07:00Z"
+    }
+  ]
+}

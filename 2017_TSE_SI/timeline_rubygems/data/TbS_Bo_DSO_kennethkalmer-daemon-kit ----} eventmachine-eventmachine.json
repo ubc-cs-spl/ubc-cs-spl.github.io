@@ -1,0 +1,4843 @@
+{
+  "user_repo": "kennethkalmer/daemon-kit",
+  "dep_repo": "eventmachine/eventmachine",
+  "dep_date": "2009-06-22 07:02:08 UTC",
+  "dep_commit_id": "a9db2210f9d034ca60be7101b635d1d62582b9e5",
+  "social_date": "2009-11-04 13:42:01 UTC",
+  "devs": [
+    "sodabrew",
+    "raggi"
+  ],
+  "interactions": [
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8135b8c055b104c5022bd2d5807cca32fd491ecd",
+      "date": "2015-11-04T08:55:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "7a317b6ff37e67510fdbc60af8e7a92d75304ad1",
+      "date": "2015-11-04T05:43:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e45a4caef23926106428b95abf21c13b6e9634c2",
+      "date": "2015-11-04T05:31:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e61f7a61a6fbc23e43deba31b3676f3b1a6b916b",
+      "date": "2015-11-04T05:07:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d5694239265e6a57d6cfe41381aa411333961e59",
+      "date": "2015-11-02T09:44:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "755e343f74174bd1460ef0c334c158d1ce2bdec4",
+      "date": "2015-11-02T09:31:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "54d23b504ccd1e2cf09dfa4daac4dab0e3163498",
+      "date": "2015-11-02T08:50:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "57144c3cc3f73c3cc098adb750f3e721e8d970e0",
+      "date": "2015-11-02T08:01:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "850a7d449f2e55f8b860f6bc66c5b825c78c064f",
+      "date": "2015-11-04T04:35:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5a9ef8dbace1cab80e94f7a92118816dd24adff5",
+      "date": "2015-11-02T22:23:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3716c8b323cbed0cfb712ecb9aa8852b505f0f1c",
+      "date": "2015-11-02T22:23:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e52eb9cd68560c446415377955f003b8294ef585",
+      "date": "2015-11-02T22:20:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5dee6024cdf3c74b5ba1cd1adb73e555165e23a3",
+      "date": "2015-11-02T22:17:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "95e7cc2e5a7880893fb022c275f352853343c176",
+      "date": "2015-11-02T22:02:53Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "edbd6394ed70c9a64b0c8e211460aee23412c6b6",
+      "date": "2015-10-26T13:19:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "0d55e5e31877f4761575bb82c5761a2700431ff7",
+      "date": "2015-10-26T13:17:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9308e9145789297e56ac1735b36166ca99914100",
+      "date": "2015-10-26T12:18:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "840d350dd30bae3f43def0f9029e89e44bda877c",
+      "date": "2015-10-22T03:46:53Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "53d2c01bb61cc9aa9347c250606d578e44e62638",
+      "date": "2015-08-07T06:06:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e4a87bc0ea0cef2f17b0598cebae5574d049e64e",
+      "date": "2015-08-07T06:04:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "370a18e050a54fe28a2756eb83bd5b10cc8460dd",
+      "date": "2015-11-02T10:13:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d5aaa383093c8a31bdbd00790f2fdb1a65191f3c",
+      "date": "2015-10-28T06:16:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "71b04c9b7a32d84f6cd7f5fb82ac5eb042f81c4e",
+      "date": "2015-10-30T06:11:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "92ad729862de02d9f1bc50866a6dd52ecf777403",
+      "date": "2015-10-28T05:37:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "f470ae870975dda5e0c8964f1a54b4e55faa9ba2",
+      "date": "2015-10-28T00:21:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a2aa7bb58e6576e3a08bd2339fd0be61b410bfc2",
+      "date": "2015-10-27T23:20:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "49843e6c26aad15db2080f5b44f367706463fd9f",
+      "date": "2015-10-27T19:03:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "eca70fdda4ff4d7bc68a56cb58218edb5099dd22",
+      "date": "2015-10-27T18:11:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e1f9af1d208ad99fa286bfe67695625fcb425cac",
+      "date": "2015-10-27T00:25:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8843d3e6a05d0b54e5af74ab39021863d5e29585",
+      "date": "2015-09-29T05:08:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8d857f33e6d067175c74656cd7387d05728d539b",
+      "date": "2015-10-26T18:14:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "73e9d41500941440da5656e849e33b2308c77a8e",
+      "date": "2015-10-26T18:14:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "955dc44a1208a383d6be02e5e61b55fbc05c3170",
+      "date": "2015-08-07T06:04:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "50733781dfea23d36783eb77c340c23498c36d95",
+      "date": "2015-10-18T13:06:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "277bb0c36a0ecf0566a2012436b65da9f472aef1",
+      "date": "2015-10-17T21:41:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "b3bfe235c8a0283b2ee8b8bdc4e97f91f62fdfc1",
+      "date": "2015-09-24T22:32:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a1fa52a7ca840b59bdf1d849ff47eb72cb7ca73c",
+      "date": "2015-08-03T05:59:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "67fd2af021159fc8a8b72f24bd6eff6f45669bdb",
+      "date": "2015-08-11T01:03:44Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "cd8d3006feef124321a8fc6f86c1d09f8feaff9c",
+      "date": "2015-08-10T20:56:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5a5403259b86cf32df8f5fc4f34eb58a297b7d03",
+      "date": "2015-08-03T20:02:41Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8f9b5759dbbd8335e2523a738e4467fafaec0496",
+      "date": "2015-08-03T18:45:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "31906b748d963af10923d96432a61bd191548846",
+      "date": "2015-08-03T08:13:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5380301a8cf96ed98a6865d0a3a8c8778c18357c",
+      "date": "2015-08-03T07:23:13Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "ec195e69836c92698026816b81159f7b4c9971a0",
+      "date": "2015-08-03T07:19:16Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "1fe5f6fef1b8c1c56186913116a3892e1385aa48",
+      "date": "2015-08-03T07:43:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8aeaf67158e8667cd4611e7649727456f1cff636",
+      "date": "2015-08-03T17:23:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "c6ac3edfa48e26575861cb83cab74efec7523209",
+      "date": "2015-07-31T23:34:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "b10252f3ea7bf5f8abf139010a7a15f5f5164da2",
+      "date": "2015-07-31T23:34:11Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e55e51e7b411038ad036f654ac0d3f11c5166f54",
+      "date": "2015-07-31T22:35:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "322a64cad72eae5416ca1f979d68909c33d0dc85",
+      "date": "2015-07-31T22:29:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "281aa7ce683e0eca4c94a23b6b9be9783b9708e5",
+      "date": "2015-07-31T21:49:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "edc33cf49d3fe24838cd72eb0ee4d98d2238b53a",
+      "date": "2015-07-31T20:37:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3695703cc60c256441dfcc8c457ec9f7d294a767",
+      "date": "2015-07-31T20:04:38Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5e0bda52ef240aa8d505f0ac4d59d759e6adba64",
+      "date": "2015-07-31T02:03:37Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "df5e00cd32dbbf5d3568ac912439e90198b571fc",
+      "date": "2015-07-29T23:49:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "52cccc114534cbf6f741b962508ac5ed66678f48",
+      "date": "2015-02-04T01:17:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9c6d1e0c9391fa0542c6d0490341871161d79924",
+      "date": "2015-02-04T01:17:04Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9c478d1174408d6decf57e5f77a5e79c1c8d32eb",
+      "date": "2015-02-04T01:07:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "6ad97044d0ae4fcd4686b758a48ca2909341c315",
+      "date": "2015-02-04T00:48:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "36003fcf1675e8718a9d45b83e70c2054ddb7c40",
+      "date": "2015-08-10T04:49:16Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5f0e15154dbc3d569ae033235b1cf130bb3bb511",
+      "date": "2015-08-10T00:37:11Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "459ae6e15f6c0a6cfe2bc6bb9b0599d19bbd431c",
+      "date": "2015-08-07T16:15:05Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "1b27732855fa35b70cb9353cd332447c18b85e8e",
+      "date": "2015-08-06T13:53:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "4de85a5dcd7be1f3920fa98e6d12922abe1fce26",
+      "date": "2015-08-04T14:42:42Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5baf256cbe0d9abdb6d695a7cb217f06dc824dd3",
+      "date": "2015-08-03T23:09:01Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "cc25eb2eff780884f9698d0e05a421cbf28419fd",
+      "date": "2015-08-03T22:21:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9af94064e1f05b373145ba0c3cac41daa9daf369",
+      "date": "2015-07-30T01:15:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a2a328cacc9316de435825755fec3a8f0ab2f82a",
+      "date": "2015-07-30T00:43:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a067b1a1effe602c4c4f56d7c9419f1de8ca7c48",
+      "date": "2015-08-03T06:49:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "04b5ec710b0c77254465914c3847eca30eef6df7",
+      "date": "2015-07-31T21:19:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "977cfa6d7ff5fc2d6c5097ad29fc8d0806e527da",
+      "date": "2015-07-28T16:47:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "72e59bccfa9bf242cacfa4123fdaa74c2cc440bf",
+      "date": "2015-07-28T16:43:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "2d7e2afc80f4c8e65f958e85cc15aaffa89b9192",
+      "date": "2015-07-28T16:43:08Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d0ea909e0868b7ca63867fdd2dfdfde35e5a2146",
+      "date": "2015-07-28T16:32:57Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a4d67e85a0a3efde401904dacd7728c44c02c7e4",
+      "date": "2015-07-28T15:12:13Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "2961b2bfcfa79fd2a7c190bb24edff39ba9258fa",
+      "date": "2015-07-28T15:11:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "bc70f745a90023a2e26c1b1652f2855d98a13e95",
+      "date": "2015-07-28T15:10:42Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "be08b954c528dd1ff694836f0100c824818bf968",
+      "date": "2015-07-28T15:08:08Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "c5c64c14a59490301c3dec67f044ee52bfbfde49",
+      "date": "2015-07-31T21:05:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e60fe7954c7ef4ab7b3794653dcb9b4d444b7035",
+      "date": "2015-07-31T19:32:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "dbbedfe6b207d9425b3a37c2907f1399c5af6a6f",
+      "date": "2015-07-30T00:44:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "08b04cdcc09c3c74352b7b3b8a062d3acb85afe9",
+      "date": "2015-07-27T23:05:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "2c4d9614dc8315804607770c1197824c658ea35a",
+      "date": "2015-07-28T14:23:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d2fb76a897781727f531671923e18840698bd80b",
+      "date": "2015-07-27T21:57:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9a73c19188095730c4e5be9043578eb08458998c",
+      "date": "2015-07-27T21:26:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "7a71f7be2ef6995932c9947f3c7d655331a84246",
+      "date": "2015-07-27T21:25:04Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "720dabc769f49fb55d2eddb431fb3b87f350151f",
+      "date": "2015-07-27T21:24:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "c8de561f8a2c72fdfe72cd6b9b5200f03dac196e",
+      "date": "2015-07-27T20:28:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "45db519d1f24a965c0da3751f0850ff3c099d5a2",
+      "date": "2015-06-21T04:39:01Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "177ba427b4843f4488aefaf671a067ecf20ddc9a",
+      "date": "2015-06-18T18:57:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a076684f2c0325e58cc3af95b8c6e72d5b70d3e3",
+      "date": "2015-02-07T06:18:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "361a9a5c1833959045c5020fc85faa295f9f5463",
+      "date": "2015-02-07T06:18:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5cba0378e7ea67186d9a698094ee0acef18f46ad",
+      "date": "2015-02-04T08:37:37Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "f13969f08719704c8f03a4208699c92c9811ffdc",
+      "date": "2015-02-04T09:10:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "032200361f8331af1eb57d47edcffc7ab49a9ded",
+      "date": "2015-02-04T00:35:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "85576ff22666a616473daeebdcd21aeb67417c99",
+      "date": "2015-02-03T20:01:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5812702a42323b4ca9af0318bcba1ce18697962e",
+      "date": "2015-02-03T02:24:52Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "cc7af74fcf37d6a97796a4543d36560399330442",
+      "date": "2015-02-03T02:23:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "88fda903abf8015c75dbdc0dff27bf42d1569251",
+      "date": "2015-02-03T02:23:08Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "03fb95695bba5ccec306e6091d4250036016f965",
+      "date": "2015-02-02T02:55:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "074b055874848a51403928aac05452db6dac8a97",
+      "date": "2015-01-10T07:58:38Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "2ffc5d805cc160711d9417d71a7c7d82de856248",
+      "date": "2014-12-13T17:05:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "04d0e22908eff510ae63625b9d7aaee7dbd6612e",
+      "date": "2015-02-03T02:16:53Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "ea13e859732d52aa2129fba8fb15b3739fe6df80",
+      "date": "2015-02-02T01:03:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3dd0a1f7082725c5204d5b2c14fb57c9bf4c2ddb",
+      "date": "2015-02-01T15:06:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "7fcf07d8e677f6d4f95ece63dc691a74082ef9b7",
+      "date": "2015-01-27T21:47:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "b2f76e2dab483fa27fd9a3ea7b85182acdfb74e2",
+      "date": "2015-01-18T07:08:12Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "b8beb9cfca1259540c7ffed18ef018ac0463113a",
+      "date": "2015-01-30T23:38:38Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3155691dd74480a4177ee405d79dc830c35fec89",
+      "date": "2015-01-29T23:51:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "ceeab4b1aefa9ec44e8147eaee3b5b4451f3c526",
+      "date": "2015-01-04T09:34:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a87f440098cc01b20650034727979a0d544db89f",
+      "date": "2015-01-27T20:48:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "31cf79d2f237ace7fae038c5df89007b27f2a576",
+      "date": "2015-01-21T09:04:42Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d3ee93b422c339646569c6bd18bda2dedf2bd17a",
+      "date": "2015-01-21T08:47:42Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "cc1e51ef37bcc3372ef7375efd590702b032cd18",
+      "date": "2015-01-10T08:23:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e29abffc57720669b5171d156dcf7e5b313fb2a4",
+      "date": "2015-01-10T04:49:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "cc964a967108cfb77a9a57ccba595d132eaca562",
+      "date": "2015-01-04T09:36:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e51b2350f05639e71be9cd07b6a7f699f4ca9a4e",
+      "date": "2015-01-04T09:33:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "1ca8cb6b47eae2765925097a4f63e7e86ecd4a32",
+      "date": "2015-01-03T06:25:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "90eddbbe179734983eb624fa3e3b0aca9db4c481",
+      "date": "2015-01-03T00:23:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "43f8dad2f6fb06c10cf74b28d81792a50f0dcc55",
+      "date": "2014-12-13T18:13:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "36ef57221f75b73ebfb0a721db26a0f4f024662f",
+      "date": "2014-12-13T16:48:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "4c63a129af4461fb666bed56a9d3c240138bbb49",
+      "date": "2014-12-13T16:02:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "1ad02ab5214809c68f108cf493bbd2e9b4d44d0a",
+      "date": "2014-12-13T00:52:01Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "ae5efa20f8a7fc2fa88a50a39d4cd1a9f157cc8b",
+      "date": "2014-12-01T03:07:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "66be2166e804aac6c5524f0ea3bcc507e5f58200",
+      "date": "2015-01-21T01:34:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "daedb0c002ba763a012ddfba9ab988dbb1170fd6",
+      "date": "2015-01-21T01:33:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8711aa09022140d67de0ca1fdc6658734c280115",
+      "date": "2015-01-16T08:59:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "c9add805ee9425f01317fb167995310ba76be155",
+      "date": "2015-01-15T20:38:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3349891555378d4f706bc296532bda7b78ba5c2f",
+      "date": "2014-12-01T02:44:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "kennethkalmer/daemon-kit",
+      "type": "com",
+      "id": 63890843,
+      "date": "2014-11-20T22:20:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 41945643,
+      "date": "2014-05-01T19:15:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 41946621,
+      "date": "2014-05-01T19:25:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 42398011,
+      "date": "2014-05-07T07:41:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 42773448,
+      "date": "2014-05-11T15:23:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 47487445,
+      "date": "2014-06-30T01:13:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 56740717,
+      "date": "2014-09-24T21:20:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 56740760,
+      "date": "2014-09-24T21:21:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 56740885,
+      "date": "2014-09-24T21:21:57Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 62618024,
+      "date": "2014-11-11T20:47:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 65013961,
+      "date": "2014-12-01T02:35:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 65014030,
+      "date": "2014-12-01T02:36:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 65015999,
+      "date": "2014-12-01T03:12:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 65018168,
+      "date": "2014-12-01T03:55:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 65118205,
+      "date": "2014-12-01T19:15:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 66853522,
+      "date": "2014-12-12T23:56:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 66858556,
+      "date": "2014-12-13T01:13:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 66858600,
+      "date": "2014-12-13T01:13:57Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 66880426,
+      "date": "2014-12-13T15:47:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 67059091,
+      "date": "2014-12-15T20:24:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 67366798,
+      "date": "2014-12-17T18:18:01Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 67722830,
+      "date": "2014-12-20T03:07:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 67723727,
+      "date": "2014-12-20T03:49:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 67723743,
+      "date": "2014-12-20T03:50:42Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68576321,
+      "date": "2015-01-03T00:37:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68576364,
+      "date": "2015-01-03T00:37:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68576388,
+      "date": "2015-01-03T00:38:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68576457,
+      "date": "2015-01-03T00:40:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68576532,
+      "date": "2015-01-03T00:42:25Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68585770,
+      "date": "2015-01-03T06:54:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68607953,
+      "date": "2015-01-03T20:16:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68617124,
+      "date": "2015-01-04T01:38:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621514,
+      "date": "2015-01-04T05:16:08Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621606,
+      "date": "2015-01-04T05:19:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621632,
+      "date": "2015-01-04T05:20:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621701,
+      "date": "2015-01-04T05:23:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621726,
+      "date": "2015-01-04T05:24:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621754,
+      "date": "2015-01-04T05:26:04Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621764,
+      "date": "2015-01-04T05:26:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621793,
+      "date": "2015-01-04T05:28:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621824,
+      "date": "2015-01-04T05:29:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621837,
+      "date": "2015-01-04T05:30:25Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621944,
+      "date": "2015-01-04T05:36:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621969,
+      "date": "2015-01-04T05:38:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68621979,
+      "date": "2015-01-04T05:39:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68622035,
+      "date": "2015-01-04T05:42:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68622581,
+      "date": "2015-01-04T06:12:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68625240,
+      "date": "2015-01-04T08:26:05Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68629013,
+      "date": "2015-01-04T11:03:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 68808031,
+      "date": "2015-01-06T00:36:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 69191097,
+      "date": "2015-01-08T15:05:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 69417363,
+      "date": "2015-01-09T23:17:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70152756,
+      "date": "2015-01-15T20:09:57Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70153015,
+      "date": "2015-01-15T20:11:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70153213,
+      "date": "2015-01-15T20:12:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70153398,
+      "date": "2015-01-15T20:13:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70155187,
+      "date": "2015-01-15T20:25:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70157080,
+      "date": "2015-01-15T20:37:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70225833,
+      "date": "2015-01-16T09:03:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70226311,
+      "date": "2015-01-16T09:09:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70226465,
+      "date": "2015-01-16T09:10:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70397247,
+      "date": "2015-01-18T05:32:12Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70397251,
+      "date": "2015-01-18T05:32:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70397587,
+      "date": "2015-01-18T05:52:50Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70419662,
+      "date": "2015-01-18T18:38:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70447831,
+      "date": "2015-01-19T05:25:44Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70448473,
+      "date": "2015-01-19T05:39:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70549830,
+      "date": "2015-01-19T19:47:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70569684,
+      "date": "2015-01-19T22:05:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70746573,
+      "date": "2015-01-20T22:22:01Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70769548,
+      "date": "2015-01-21T01:34:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70769710,
+      "date": "2015-01-21T01:36:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70772047,
+      "date": "2015-01-21T02:01:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70772261,
+      "date": "2015-01-21T02:04:01Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70810162,
+      "date": "2015-01-21T09:48:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70926852,
+      "date": "2015-01-21T21:38:13Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 70974246,
+      "date": "2015-01-22T05:42:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71350310,
+      "date": "2015-01-25T03:54:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71602082,
+      "date": "2015-01-27T07:40:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71602114,
+      "date": "2015-01-27T07:40:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71602141,
+      "date": "2015-01-27T07:41:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71602172,
+      "date": "2015-01-27T07:41:34Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71602981,
+      "date": "2015-01-27T07:50:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71606367,
+      "date": "2015-01-27T08:12:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71606963,
+      "date": "2015-01-27T08:16:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71607381,
+      "date": "2015-01-27T08:19:13Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71607598,
+      "date": "2015-01-27T08:21:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71608336,
+      "date": "2015-01-27T08:28:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71608505,
+      "date": "2015-01-27T08:29:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71615528,
+      "date": "2015-01-27T09:30:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71714902,
+      "date": "2015-01-27T19:48:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71715610,
+      "date": "2015-01-27T19:52:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71715857,
+      "date": "2015-01-27T19:54:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71734553,
+      "date": "2015-01-27T21:47:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71739138,
+      "date": "2015-01-27T22:12:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 71912190,
+      "date": "2015-01-28T20:44:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72109819,
+      "date": "2015-01-29T21:40:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72126678,
+      "date": "2015-01-29T23:35:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72126750,
+      "date": "2015-01-29T23:36:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72126898,
+      "date": "2015-01-29T23:37:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72126936,
+      "date": "2015-01-29T23:37:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72126972,
+      "date": "2015-01-29T23:38:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72127023,
+      "date": "2015-01-29T23:38:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72127145,
+      "date": "2015-01-29T23:39:30Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72127432,
+      "date": "2015-01-29T23:42:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72127526,
+      "date": "2015-01-29T23:43:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72128527,
+      "date": "2015-01-29T23:51:30Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72128863,
+      "date": "2015-01-29T23:54:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72130159,
+      "date": "2015-01-30T00:05:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72132209,
+      "date": "2015-01-30T00:24:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72132388,
+      "date": "2015-01-30T00:26:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72155862,
+      "date": "2015-01-30T05:23:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72290442,
+      "date": "2015-01-30T23:45:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72303600,
+      "date": "2015-01-31T04:08:34Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72368314,
+      "date": "2015-02-01T15:08:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72368325,
+      "date": "2015-02-01T15:08:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72369395,
+      "date": "2015-02-01T15:33:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72400925,
+      "date": "2015-02-02T03:03:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72401150,
+      "date": "2015-02-02T03:07:50Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72401239,
+      "date": "2015-02-02T03:09:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72407682,
+      "date": "2015-02-02T05:20:30Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72407750,
+      "date": "2015-02-02T05:21:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72408130,
+      "date": "2015-02-02T05:28:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72408177,
+      "date": "2015-02-02T05:29:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72408397,
+      "date": "2015-02-02T05:33:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72408496,
+      "date": "2015-02-02T05:35:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72409643,
+      "date": "2015-02-02T05:55:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72409739,
+      "date": "2015-02-02T05:56:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72409840,
+      "date": "2015-02-02T05:57:57Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72410286,
+      "date": "2015-02-02T06:05:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72410490,
+      "date": "2015-02-02T06:08:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72410765,
+      "date": "2015-02-02T06:12:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72411053,
+      "date": "2015-02-02T06:17:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72411152,
+      "date": "2015-02-02T06:19:25Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72411194,
+      "date": "2015-02-02T06:20:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72411566,
+      "date": "2015-02-02T06:26:16Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72411742,
+      "date": "2015-02-02T06:28:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72412066,
+      "date": "2015-02-02T06:32:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72412171,
+      "date": "2015-02-02T06:34:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72412441,
+      "date": "2015-02-02T06:38:41Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72413255,
+      "date": "2015-02-02T06:50:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72415749,
+      "date": "2015-02-02T07:27:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72416392,
+      "date": "2015-02-02T07:37:08Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72416538,
+      "date": "2015-02-02T07:38:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72481987,
+      "date": "2015-02-02T16:02:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72515600,
+      "date": "2015-02-02T18:59:57Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72524946,
+      "date": "2015-02-02T19:51:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72544096,
+      "date": "2015-02-02T21:42:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72562416,
+      "date": "2015-02-02T23:36:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72563162,
+      "date": "2015-02-02T23:42:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72572252,
+      "date": "2015-02-03T01:02:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72580758,
+      "date": "2015-02-03T02:23:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72580784,
+      "date": "2015-02-03T02:23:52Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72580894,
+      "date": "2015-02-03T02:25:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72581053,
+      "date": "2015-02-03T02:26:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72581559,
+      "date": "2015-02-03T02:32:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72582120,
+      "date": "2015-02-03T02:38:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72582357,
+      "date": "2015-02-03T02:41:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72597510,
+      "date": "2015-02-03T06:03:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72600507,
+      "date": "2015-02-03T06:25:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72722980,
+      "date": "2015-02-03T20:01:16Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72723326,
+      "date": "2015-02-03T20:03:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72766519,
+      "date": "2015-02-04T00:26:42Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72767001,
+      "date": "2015-02-04T00:30:53Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72769621,
+      "date": "2015-02-04T00:54:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72786654,
+      "date": "2015-02-04T03:57:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72786745,
+      "date": "2015-02-04T03:58:44Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72786839,
+      "date": "2015-02-04T03:59:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72786995,
+      "date": "2015-02-04T04:01:38Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72787372,
+      "date": "2015-02-04T04:06:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72787794,
+      "date": "2015-02-04T04:12:25Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72788279,
+      "date": "2015-02-04T04:20:11Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72788473,
+      "date": "2015-02-04T04:22:52Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72788630,
+      "date": "2015-02-04T04:24:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72788695,
+      "date": "2015-02-04T04:25:52Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72788783,
+      "date": "2015-02-04T04:26:53Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72789676,
+      "date": "2015-02-04T04:40:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72789967,
+      "date": "2015-02-04T04:44:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72790185,
+      "date": "2015-02-04T04:47:44Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72790338,
+      "date": "2015-02-04T04:49:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72813092,
+      "date": "2015-02-04T09:06:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72816457,
+      "date": "2015-02-04T09:11:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72817584,
+      "date": "2015-02-04T09:12:12Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72819636,
+      "date": "2015-02-04T09:25:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72881000,
+      "date": "2015-02-04T16:01:12Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72881192,
+      "date": "2015-02-04T16:02:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72881322,
+      "date": "2015-02-04T16:02:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72971501,
+      "date": "2015-02-05T00:33:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72971625,
+      "date": "2015-02-05T00:34:34Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 72972381,
+      "date": "2015-02-05T00:40:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 73347852,
+      "date": "2015-02-07T03:31:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 73350916,
+      "date": "2015-02-07T05:28:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 73350969,
+      "date": "2015-02-07T05:31:02Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 73351288,
+      "date": "2015-02-07T05:44:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 73351911,
+      "date": "2015-02-07T06:09:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 73419822,
+      "date": "2015-02-08T17:04:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 74469140,
+      "date": "2015-02-16T07:32:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 74807252,
+      "date": "2015-02-18T03:52:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 75128152,
+      "date": "2015-02-19T20:20:52Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 75171753,
+      "date": "2015-02-20T01:00:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 87904608,
+      "date": "2015-03-31T02:34:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 92098290,
+      "date": "2015-04-12T18:25:52Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 94040023,
+      "date": "2015-04-17T17:59:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 95817698,
+      "date": "2015-04-24T06:30:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 95818166,
+      "date": "2015-04-24T06:31:41Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 95820157,
+      "date": "2015-04-24T06:35:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 109442798,
+      "date": "2015-06-05T21:13:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 109449006,
+      "date": "2015-06-05T21:51:58Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 110081255,
+      "date": "2015-06-08T17:18:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 110892501,
+      "date": "2015-06-10T19:56:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 111910845,
+      "date": "2015-06-15T03:35:34Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 112158871,
+      "date": "2015-06-15T18:12:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 112199360,
+      "date": "2015-06-15T20:31:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 113228038,
+      "date": "2015-06-18T17:28:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 113257677,
+      "date": "2015-06-18T18:57:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 113864976,
+      "date": "2015-06-21T05:18:25Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 113934871,
+      "date": "2015-06-21T17:43:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 113937849,
+      "date": "2015-06-21T18:19:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 114954397,
+      "date": "2015-06-24T17:49:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 116897605,
+      "date": "2015-06-30T01:15:11Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 117300148,
+      "date": "2015-06-30T18:51:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 117301589,
+      "date": "2015-06-30T18:55:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 119546533,
+      "date": "2015-07-08T11:34:13Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 120738800,
+      "date": "2015-07-12T16:27:34Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 121282538,
+      "date": "2015-07-14T15:30:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 121285806,
+      "date": "2015-07-14T15:43:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 121285931,
+      "date": "2015-07-14T15:44:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 121293176,
+      "date": "2015-07-14T16:11:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 121295324,
+      "date": "2015-07-14T16:19:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 121389577,
+      "date": "2015-07-14T21:16:37Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125328380,
+      "date": "2015-07-27T20:08:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125333453,
+      "date": "2015-07-27T20:28:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125334166,
+      "date": "2015-07-27T20:31:37Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125336337,
+      "date": "2015-07-27T20:41:41Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125338450,
+      "date": "2015-07-27T20:50:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125345157,
+      "date": "2015-07-27T21:15:01Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125346968,
+      "date": "2015-07-27T21:24:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125376809,
+      "date": "2015-07-27T23:19:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125647013,
+      "date": "2015-07-28T15:15:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125679645,
+      "date": "2015-07-28T17:02:08Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125961666,
+      "date": "2015-07-29T14:02:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 125991767,
+      "date": "2015-07-29T15:35:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126145052,
+      "date": "2015-07-30T01:05:53Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126300715,
+      "date": "2015-07-30T12:10:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126302399,
+      "date": "2015-07-30T12:12:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126327535,
+      "date": "2015-07-30T13:39:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126444525,
+      "date": "2015-07-30T19:21:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126470294,
+      "date": "2015-07-30T20:21:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126476032,
+      "date": "2015-07-30T20:34:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126495339,
+      "date": "2015-07-30T21:26:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126531056,
+      "date": "2015-07-31T00:39:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126809552,
+      "date": "2015-07-31T20:51:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 126812391,
+      "date": "2015-07-31T21:06:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127094341,
+      "date": "2015-08-03T01:19:34Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127099248,
+      "date": "2015-08-03T02:10:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127106405,
+      "date": "2015-08-03T02:51:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127129997,
+      "date": "2015-08-03T05:34:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127132549,
+      "date": "2015-08-03T05:52:08Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127141080,
+      "date": "2015-08-03T06:37:34Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127143856,
+      "date": "2015-08-03T06:57:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127144256,
+      "date": "2015-08-03T07:01:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127409968,
+      "date": "2015-08-03T21:25:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127420352,
+      "date": "2015-08-03T22:18:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127420740,
+      "date": "2015-08-03T22:21:40Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127424439,
+      "date": "2015-08-03T22:39:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127428801,
+      "date": "2015-08-03T23:12:18Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127635988,
+      "date": "2015-08-04T14:40:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127636973,
+      "date": "2015-08-04T14:43:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127639994,
+      "date": "2015-08-04T14:51:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 127768351,
+      "date": "2015-08-04T21:31:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 128106328,
+      "date": "2015-08-05T18:51:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 128379135,
+      "date": "2015-08-06T14:09:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 128547243,
+      "date": "2015-08-07T00:22:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 128550162,
+      "date": "2015-08-07T00:44:30Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 128584951,
+      "date": "2015-08-07T03:56:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 128752740,
+      "date": "2015-08-07T16:20:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129078542,
+      "date": "2015-08-09T00:32:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129126650,
+      "date": "2015-08-09T05:56:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129127020,
+      "date": "2015-08-09T06:00:05Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129127132,
+      "date": "2015-08-09T06:03:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129264922,
+      "date": "2015-08-10T00:47:11Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129265029,
+      "date": "2015-08-10T00:49:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129496117,
+      "date": "2015-08-10T15:28:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129661018,
+      "date": "2015-08-11T01:02:41Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129661571,
+      "date": "2015-08-11T01:08:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129661720,
+      "date": "2015-08-11T01:09:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129707760,
+      "date": "2015-08-11T05:09:03Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129709762,
+      "date": "2015-08-11T05:23:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129710018,
+      "date": "2015-08-11T05:27:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129714007,
+      "date": "2015-08-11T05:54:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129721419,
+      "date": "2015-08-11T06:19:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129721735,
+      "date": "2015-08-11T06:21:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 129950404,
+      "date": "2015-08-11T16:08:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 130084096,
+      "date": "2015-08-11T21:31:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 130396225,
+      "date": "2015-08-12T18:08:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 130407919,
+      "date": "2015-08-12T18:42:45Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 131261516,
+      "date": "2015-08-14T22:41:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 131310701,
+      "date": "2015-08-15T06:40:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 131311133,
+      "date": "2015-08-15T06:56:16Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 131979378,
+      "date": "2015-08-17T22:11:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 132609524,
+      "date": "2015-08-19T14:05:25Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 132752482,
+      "date": "2015-08-19T19:31:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 133054549,
+      "date": "2015-08-20T15:38:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 133304785,
+      "date": "2015-08-21T06:34:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 133305374,
+      "date": "2015-08-21T06:36:37Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 133306673,
+      "date": "2015-08-21T06:47:27Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 134518720,
+      "date": "2015-08-25T08:17:21Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 134612663,
+      "date": "2015-08-25T14:55:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 135041045,
+      "date": "2015-08-26T14:30:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 135943318,
+      "date": "2015-08-29T05:31:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 136021431,
+      "date": "2015-08-29T18:17:29Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 136056340,
+      "date": "2015-08-29T22:07:14Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 137295010,
+      "date": "2015-09-03T01:22:05Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 137662287,
+      "date": "2015-09-04T07:07:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 143067164,
+      "date": "2015-09-24T22:32:30Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 143312761,
+      "date": "2015-09-25T18:17:38Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 143313282,
+      "date": "2015-09-25T18:20:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 143890687,
+      "date": "2015-09-28T22:22:39Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 144208483,
+      "date": "2015-09-29T22:25:50Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 144554156,
+      "date": "2015-09-30T21:59:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 145153687,
+      "date": "2015-10-02T20:58:12Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 145600182,
+      "date": "2015-10-05T17:05:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 146347122,
+      "date": "2015-10-07T22:09:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 146681683,
+      "date": "2015-10-08T20:51:52Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 146991730,
+      "date": "2015-10-09T21:38:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 147291969,
+      "date": "2015-10-12T05:01:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 147388992,
+      "date": "2015-10-12T12:51:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 147941267,
+      "date": "2015-10-14T05:44:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 148137700,
+      "date": "2015-10-14T18:03:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 148591645,
+      "date": "2015-10-16T03:41:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 148960309,
+      "date": "2015-10-17T23:24:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 149017502,
+      "date": "2015-10-18T13:42:00Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 149020639,
+      "date": "2015-10-18T14:36:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 149035549,
+      "date": "2015-10-18T18:02:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 149054832,
+      "date": "2015-10-18T22:11:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 149059592,
+      "date": "2015-10-18T22:52:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 149059836,
+      "date": "2015-10-18T22:57:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151594190,
+      "date": "2015-10-27T18:12:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151682510,
+      "date": "2015-10-28T00:24:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151685427,
+      "date": "2015-10-28T00:46:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151731185,
+      "date": "2015-10-28T05:44:05Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151731917,
+      "date": "2015-10-28T05:47:10Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151735861,
+      "date": "2015-10-28T06:17:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151743379,
+      "date": "2015-10-28T06:55:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151744130,
+      "date": "2015-10-28T06:56:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 151928410,
+      "date": "2015-10-28T17:48:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 152069015,
+      "date": "2015-10-29T03:55:23Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 152180276,
+      "date": "2015-10-29T13:35:13Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 152184551,
+      "date": "2015-10-29T13:50:41Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 152405531,
+      "date": "2015-10-30T03:37:26Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 152439008,
+      "date": "2015-10-30T06:12:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 153175804,
+      "date": "2015-11-02T22:19:09Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 153387991,
+      "date": "2015-11-03T15:26:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 153580717,
+      "date": "2015-11-04T05:37:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 153583371,
+      "date": "2015-11-04T05:43:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 153583837,
+      "date": "2015-11-04T05:44:46Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 153585658,
+      "date": "2015-11-04T05:51:55Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 153594595,
+      "date": "2015-11-04T06:27:24Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 155701107,
+      "date": "2015-11-11T08:18:38Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 156137913,
+      "date": "2015-11-12T15:27:31Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 156138390,
+      "date": "2015-11-12T15:29:13Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 156321358,
+      "date": "2015-11-13T04:55:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 156333504,
+      "date": "2015-11-13T06:05:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 156453481,
+      "date": "2015-11-13T14:56:30Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 156602152,
+      "date": "2015-11-14T01:01:56Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 655,
+      "date": "2015-11-04T16:27:30Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 654,
+      "date": "2015-11-02T10:05:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 653,
+      "date": "2015-10-29T14:07:47Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 651,
+      "date": "2015-10-28T06:17:12Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 650,
+      "date": "2015-10-27T19:07:11Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 649,
+      "date": "2015-10-27T00:26:51Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 648,
+      "date": "2015-10-18T13:36:36Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 632,
+      "date": "2015-08-25T08:15:35Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 630,
+      "date": "2015-08-21T06:25:22Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 628,
+      "date": "2015-08-14T23:33:07Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 627,
+      "date": "2015-08-11T07:45:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 625,
+      "date": "2015-08-07T16:16:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 622,
+      "date": "2015-08-03T06:51:19Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 621,
+      "date": "2015-08-03T06:04:28Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 619,
+      "date": "2015-08-03T00:27:50Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 617,
+      "date": "2015-07-30T00:49:04Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 616,
+      "date": "2015-07-28T15:14:20Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 615,
+      "date": "2015-07-27T22:00:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 578,
+      "date": "2015-02-04T00:49:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 576,
+      "date": "2015-02-03T06:32:48Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 573,
+      "date": "2015-02-02T06:49:59Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 572,
+      "date": "2015-02-02T05:52:04Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 571,
+      "date": "2015-01-29T23:47:54Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 570,
+      "date": "2015-01-29T18:42:25Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 568,
+      "date": "2015-01-27T21:44:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 567,
+      "date": "2015-01-21T10:30:04Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 563,
+      "date": "2015-01-18T07:09:15Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 560,
+      "date": "2015-01-16T09:01:33Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 551,
+      "date": "2014-12-01T03:14:32Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "pr",
+      "id": 550,
+      "date": "2014-12-01T02:46:43Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "issue",
+      "id": 623,
+      "date": "2015-08-03T23:15:06Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "issue",
+      "id": 620,
+      "date": "2015-08-03T01:51:49Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "issue",
+      "id": 618,
+      "date": "2015-07-30T12:11:17Z"
+    },
+    {
+      "dev_id": "sodabrew",
+      "repo": "eventmachine/eventmachine",
+      "type": "issue",
+      "id": 575,
+      "date": "2015-02-03T06:05:31Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "03224a60b3e3ceeda53883e6190e86c96e47c0d5",
+      "date": "2015-02-08T06:27:07Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9473a1b181ed1997e3156d960b2bb2783f508191",
+      "date": "2012-07-12T23:49:14Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "a92b667684ed17602fa91915e9095c1d7710ba43",
+      "date": "2012-04-21T20:58:50Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "bb3a5c32399ab8066eb5318de3de6dbe6b6b83b2",
+      "date": "2012-01-26T04:19:41Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e89b2ab7a9a5dbe3962ed6d5c1743374338f790e",
+      "date": "2012-01-26T04:06:06Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "1b7c70cbe9d55c4c1bcbc4666f6a37d43be6911f",
+      "date": "2012-01-23T23:38:46Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "43d63bc1dcb405d23b23c73095d64f5c10f5dba1",
+      "date": "2011-09-30T13:55:04Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "922b97b96c1674ccab901b425ef44f93ae72f8e3",
+      "date": "2011-09-29T23:37:39Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "2ce9e5045520fbe8d72e222f3e47f833852728cf",
+      "date": "2011-09-29T23:22:43Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "50502e6ae8402b5fc76c6946139a5abe481dfd54",
+      "date": "2011-09-29T23:14:31Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "427a76d270f796688bdeaa0bbe5c71414101cdbe",
+      "date": "2011-09-29T23:05:52Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8cd81fb384e46cbe8521e82f10ce3bda01405998",
+      "date": "2011-09-29T22:07:28Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "2cd0c19276edde3fb4c0af699fa8caa6b1f3923a",
+      "date": "2011-09-29T15:44:38Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "eeb7f129b2881455b92086e727ecda190e7abd4c",
+      "date": "2011-08-01T15:47:56Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e510f57cca97bde77fe53c0d6bda842ee29f730f",
+      "date": "2011-07-27T22:49:19Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "f312f90d6745276623757301e8b0f6b4665b05ce",
+      "date": "2011-07-26T23:34:25Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "60ad786290358295918e0cd9fd68d55d01584c77",
+      "date": "2011-07-26T22:16:31Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "cf20c9b5fc41a52b1ff94ababa1008f4fe39b2db",
+      "date": "2011-07-26T19:49:12Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3d47cd2ebd519d1135babc5b53a48aa5724ec7dc",
+      "date": "2011-07-15T19:22:41Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d9a23e4779b3f555e63e4ff565ef0848a8bcabd4",
+      "date": "2011-07-07T22:30:44Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9bb885c035ac75e80d74da30829c9d2449dcf78d",
+      "date": "2011-07-06T23:54:58Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "bc999d2464a341f7648bd13727b293d2a326e945",
+      "date": "2011-05-24T09:32:43Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "7f20dba229d3a547c4877b1c4705b9fc0a560c25",
+      "date": "2010-07-18T23:07:09Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "383c0a1fb9604d6d37b87eb607d4eed179a4ce2d",
+      "date": "2010-07-18T22:56:02Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "60b6472da952c7cdc59f093f93678dbd1739ab0a",
+      "date": "2010-07-14T01:12:32Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "122fcc3241dee7ce2d1cd63ab8843724aabeea43",
+      "date": "2010-06-30T14:03:30Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "ce9829947bffe5de96c91dbe13007e22795d8e21",
+      "date": "2010-06-13T19:13:30Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "df0d64339507c0d6c0296fbd074b11de0156f6dc",
+      "date": "2010-03-12T00:45:50Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "4074ccb6b756970419ddd3e1a4c3157a9b01a80c",
+      "date": "2010-02-07T11:51:41Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "006df7df61a6c94e5d0ab3b236c0d4a4d9bfd2b1",
+      "date": "2010-02-07T11:51:22Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d0e2cae8296bc16a9af0c27934f3ffe5d10c0948",
+      "date": "2010-02-07T11:49:05Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3008ae6ea9e33abeb9c7628d9b8a72256f55e725",
+      "date": "2010-02-04T00:55:12Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "1fd558493f3620c21aa4a361b2b05e2e55607a5a",
+      "date": "2010-02-04T00:33:29Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "036bf3ba0655710c2353a29179949233a5bfdd9f",
+      "date": "2010-02-04T00:23:36Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "bcf47ca2619638e455f5ef5a9d5ca0eb7d5c57a4",
+      "date": "2010-02-04T00:21:23Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8905c4b2bd40e4bca31416d44f232119f1ababdb",
+      "date": "2010-02-04T00:01:53Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "30ad75d25045b24256022b3bfaf969f1c5a492c6",
+      "date": "2010-02-03T21:38:10Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d71e4045debcb9a50b803dfbf0742fe55ab7a68a",
+      "date": "2010-02-03T21:10:38Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3e39e53ccc9653d5f7a0c0ca524c4773cb496334",
+      "date": "2010-02-03T21:04:17Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "b2bb23304cda1ec1cda27ea09c12eeb3fe25d0df",
+      "date": "2009-12-26T14:23:10Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8777002e7250fce777e53e7f09aa74cd50059282",
+      "date": "2009-12-26T14:21:31Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "aa28a36521f792252f2f68e14691f15594036dba",
+      "date": "2009-12-26T14:19:58Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "41e14758fc44354f1afc3f22a1a99872060423f5",
+      "date": "2009-12-26T14:19:29Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "443c0f5ec9bad111babb222cce4724cd9cdbb2bc",
+      "date": "2009-12-26T14:18:14Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d42a1f0db19cf2a550ed89e3dede0dc5e596af70",
+      "date": "2009-12-26T13:59:23Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "64b58ad4e63a84705f2b7a8f0575dcf88dc15670",
+      "date": "2009-10-06T01:15:28Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d8ac7c124102bf754830bdb0c9c41c9c3e9bc941",
+      "date": "2009-10-05T22:41:32Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "90533578430bbfd2f464944b75cfbb106baa6b93",
+      "date": "2009-10-04T23:50:41Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "766b201aae9d9c38c30c2e9f834d207776bdb7f7",
+      "date": "2009-10-04T12:58:55Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "0e7d8b8d79fdc23be01b7efa564e95336b22c4fd",
+      "date": "2009-10-04T12:39:50Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "677362b1f24836520184c779c3510ff285fe97c0",
+      "date": "2009-10-04T11:58:55Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d590e91c9274f6a546c7addca701b17d58f4b802",
+      "date": "2009-10-04T11:58:25Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "42c26109f13f2d59558eea315aa09f232f6b0f61",
+      "date": "2009-10-02T09:18:30Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9fabfa904e2895e55fe92883554d2cc40e7c95bc",
+      "date": "2009-10-02T09:16:11Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "1e44081a19dd6917bf3574cd3dd21404896e5dcc",
+      "date": "2009-10-02T09:05:06Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e58b8b53e454003dfb9fb6486a1ddd53f3ddaf3d",
+      "date": "2009-10-01T04:09:59Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "791d50a2de963e8cdf0b892a36835480ddb6214a",
+      "date": "2009-10-01T04:04:25Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "e48bbb1dca0732bd293793754f0d7778e7a4cd7c",
+      "date": "2009-10-01T03:47:54Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "7e21b03a71277bad858a837d5e942d6c7dcc49dc",
+      "date": "2009-10-01T03:44:16Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "d4760e248d17bfc5b52636c091fc2b2cad461baf",
+      "date": "2009-08-27T10:29:17Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "c1db6084158ffbfccec30b91852ae6d8c14c7e36",
+      "date": "2009-08-11T23:14:11Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "df56a45a0e96781c04062d40a5901d11807c9a7b",
+      "date": "2009-08-11T23:13:42Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8d0ed3f8903c7eafaba3e5447d45b34cefd98741",
+      "date": "2009-08-04T21:52:45Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "efe6bd4082ea588cc115f1d919c1f30a6bf9ea7a",
+      "date": "2009-06-05T16:01:20Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "691fbfaf257124710ac32b48de96acb80018690f",
+      "date": "2009-03-29T17:06:53Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "4f5db645146594679ec362e5d066b19d3628547f",
+      "date": "2009-03-27T00:10:30Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5a7234e5ea3cef7dd3df4fa30de9e901b705663c",
+      "date": "2009-03-27T00:07:33Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "953cf4a8f062a5a7c63671cf17cb37662258ee5c",
+      "date": "2009-03-19T02:05:55Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "986e88bd3bafd51791ddfbde792459b6b58369ec",
+      "date": "2009-03-26T15:30:02Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "dbe45be9be63e6e128b1df6a4c180805a31aa0ff",
+      "date": "2009-03-17T02:43:26Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "25d61be84ee9ef485035bb230724eb191c1ec48d",
+      "date": "2009-03-17T02:05:56Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "c89ce8c7508a16b54d02e187976af61d5b24d684",
+      "date": "2009-03-17T02:01:19Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "424a1c7a58f2a1274876be4189040281fe12cffa",
+      "date": "2009-03-17T00:57:25Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "8d2c887b017b51360afcc95f4dfdc4cbdecf77c7",
+      "date": "2009-03-17T00:37:59Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "50cfa50b75add5713e3689eaf9a935e4902a29f4",
+      "date": "2009-03-17T00:36:07Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "823aa43dd198fb7be9d9157a5ffbdcfef80b2bf4",
+      "date": "2009-03-03T07:30:48Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "7516e21d652b77d1bcb7045f7ade36b9efd0f574",
+      "date": "2009-03-03T06:44:46Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "9d78167ee2fdf7ae946408aa173eccc35f2ac27d",
+      "date": "2009-03-03T06:35:48Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3f25d477536b353b2484f0c85531466db7d4ad20",
+      "date": "2009-03-01T15:02:34Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "07c732609edb45bfc824a56f40024835602df1ec",
+      "date": "2009-03-01T15:01:03Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "4b490541adf6e6924ed1d21756aaa8b81c66b48c",
+      "date": "2009-02-25T03:28:12Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "bbad991e006b7e5d364fca92fa5fc59cd60992c6",
+      "date": "2009-02-20T17:29:14Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "c528f33773dc1c413d8b261af52dd4f2d2efd407",
+      "date": "2009-02-11T10:11:54Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "ff5d7383c4a086626be40449082527f2e5d83e2a",
+      "date": "2009-02-10T12:15:04Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "58b6231a57a83270cf276464ce76b16b600ad122",
+      "date": "2009-02-10T12:11:34Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "86c6b6a9bd55a0e9295398ea7edf9c9c06784bd8",
+      "date": "2009-02-10T12:11:10Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "6f44a039cc64967c224f4b29c6c3a04417eecdfe",
+      "date": "2009-02-10T11:07:05Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "ae1f407ecc4d03a42edc6ea009d1502e4ade10b5",
+      "date": "2009-01-28T02:13:13Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "6e5ea50ecd2d3214029b91d5843968c9b68d29b1",
+      "date": "2009-01-28T02:00:36Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "2b8bb1b2f38df5caa25a6f0ab83daaf8dd6888a6",
+      "date": "2009-01-28T01:19:49Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "34fbcfcf270596e198f84e0dab3892ffa050261a",
+      "date": "2009-01-28T01:16:30Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "fbc7d7e05688f30cbe73fab29fed416bb5ce1c48",
+      "date": "2009-01-28T00:57:32Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "3333d9515401b2c2830b63bb2f571c653adc526f",
+      "date": "2009-01-27T23:54:37Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "638adca25bb3475b1ca82fea804b7fbac1d3f00d",
+      "date": "2009-01-27T23:53:07Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "402923d663876f75ccd8b90c2180e7535f0edd1c",
+      "date": "2009-01-27T23:21:19Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "f56ec557b9117b0e10e8007892198111f31fe8e3",
+      "date": "2009-01-27T23:18:31Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "5394f05afe61610b93248711c581345edacbb678",
+      "date": "2009-01-27T23:14:55Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "commit",
+      "id": "488cfacaa85c2a2af787162b77584d1e7e8c3ea7",
+      "date": "2009-01-27T23:08:17Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 97322,
+      "date": "2009-12-26T14:32:00Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 97323,
+      "date": "2009-12-26T14:33:08Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 273505,
+      "date": "2010-06-13T12:55:47Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 273866,
+      "date": "2010-06-13T20:59:29Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 273867,
+      "date": "2010-06-13T20:59:41Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 374402,
+      "date": "2010-08-27T03:38:33Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 384865,
+      "date": "2010-09-02T12:07:53Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 463350,
+      "date": "2010-10-12T12:44:02Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 465091,
+      "date": "2010-10-13T02:07:43Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 465829,
+      "date": "2010-10-13T11:58:12Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 503365,
+      "date": "2010-10-29T22:11:15Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 503448,
+      "date": "2010-10-29T22:40:45Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 503723,
+      "date": "2010-10-30T01:47:22Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 587614,
+      "date": "2010-12-04T02:30:16Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 800665,
+      "date": "2011-02-23T08:48:43Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1243642,
+      "date": "2011-05-26T16:51:13Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1448591,
+      "date": "2011-06-27T16:39:48Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1460089,
+      "date": "2011-06-29T00:12:21Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1468048,
+      "date": "2011-06-29T15:47:09Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1651013,
+      "date": "2011-07-26T02:00:14Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1652049,
+      "date": "2011-07-26T06:46:40Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1674031,
+      "date": "2011-07-28T16:22:59Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1676286,
+      "date": "2011-07-28T20:40:21Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1698212,
+      "date": "2011-08-01T05:57:20Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1701369,
+      "date": "2011-08-01T15:46:41Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1701389,
+      "date": "2011-08-01T15:48:51Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1701401,
+      "date": "2011-08-01T15:49:37Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1707020,
+      "date": "2011-08-02T07:08:23Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 1760565,
+      "date": "2011-08-09T03:53:24Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2030042,
+      "date": "2011-09-07T15:44:16Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2030170,
+      "date": "2011-09-07T15:54:40Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2035832,
+      "date": "2011-09-08T01:48:45Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2035835,
+      "date": "2011-09-08T01:49:26Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2200883,
+      "date": "2011-09-26T17:23:52Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2201313,
+      "date": "2011-09-26T17:53:22Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2218184,
+      "date": "2011-09-28T00:30:47Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2243873,
+      "date": "2011-09-29T22:10:52Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2244292,
+      "date": "2011-09-29T23:08:54Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2244514,
+      "date": "2011-09-29T23:23:50Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2244539,
+      "date": "2011-09-29T23:26:47Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2244587,
+      "date": "2011-09-29T23:33:18Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2244749,
+      "date": "2011-09-29T23:59:38Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2249627,
+      "date": "2011-09-30T13:56:58Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2301413,
+      "date": "2011-10-05T18:31:30Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2306261,
+      "date": "2011-10-06T03:48:48Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2306266,
+      "date": "2011-10-06T03:50:19Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2306294,
+      "date": "2011-10-06T03:55:33Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2333223,
+      "date": "2011-10-08T18:38:05Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2333226,
+      "date": "2011-10-08T18:38:25Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 2646029,
+      "date": "2011-11-06T16:17:39Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 4967503,
+      "date": "2012-04-05T02:41:02Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 5263523,
+      "date": "2012-04-21T20:58:56Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 5263533,
+      "date": "2012-04-21T21:00:14Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 5263535,
+      "date": "2012-04-21T21:00:29Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 6948053,
+      "date": "2012-07-12T21:18:53Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 6951137,
+      "date": "2012-07-12T23:49:38Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 8602101,
+      "date": "2012-09-17T00:32:26Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 11793551,
+      "date": "2013-01-01T22:00:02Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 11793577,
+      "date": "2013-01-01T22:02:58Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 15842288,
+      "date": "2013-04-03T15:09:57Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 27187906,
+      "date": "2013-10-28T03:38:31Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 67778977,
+      "date": "2014-12-21T18:16:12Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "eventmachine/eventmachine",
+      "type": "com",
+      "id": 73609460,
+      "date": "2015-02-09T22:59:08Z"
+    },
+    {
+      "dev_id": "raggi",
+      "repo": "kennethkalmer/daemon-kit",
+      "type": "issue",
+      "id": 5,
+      "date": "2009-11-04T13:42:01Z"
+    }
+  ]
+}

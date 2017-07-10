@@ -1,0 +1,1763 @@
+{
+  "user_repo": "chef/vagrant-omnibus",
+  "dep_repo": "bundler/bundler",
+  "dep_date": "2013-04-02 02:06:28 UTC",
+  "dep_commit_id": "cf6186be75af398d7023d59f17a0921cdebd09c1",
+  "social_date": "2015-04-03 22:40:20 UTC",
+  "devs": [
+    "tknerr",
+    "schisamo"
+  ],
+  "interactions": [
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "1054c6e9735cd098e33c6c94f06715bc7431a19c",
+      "date": "2014-03-20T20:51:41Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "6776f3098a3bf2a3e5127e3b4b2711726bdc86d0",
+      "date": "2014-03-20T22:00:15Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "a40d7896c0cc5500ddf822581d206d2968d753aa",
+      "date": "2014-03-20T21:03:43Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "6baf20877b36f15eec2c16f43d9dc6dbfcc4459d",
+      "date": "2014-03-20T20:35:27Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "ca8329cfff936a5e0dfa95ceaf924bb716f4f745",
+      "date": "2014-03-20T20:24:46Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "261f1130a68db9a961dda76d15b83b5b5c06d036",
+      "date": "2014-03-20T20:07:22Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "fd5880bbdc478bd54dabfc26e295d6cbc015961a",
+      "date": "2014-03-20T19:54:26Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "d240bd1c82fa2f30d13c55c449fdfad50229560d",
+      "date": "2014-03-20T19:29:53Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "9424a991c9d4abbd73513b291d30fe51db10c763",
+      "date": "2014-03-20T17:17:43Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "b62fdd640d5c2e62313a6325a808ba3068d28c49",
+      "date": "2014-02-25T10:25:14Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "b0fa4eeec44e9cdbcf0e2ae092e2469c4ecb7b68",
+      "date": "2014-02-25T09:29:55Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "0d602bbbac4e1dcc3f9a443cc70499a99e8775d4",
+      "date": "2014-02-25T04:32:16Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18787399,
+      "date": "2013-06-01T11:21:21Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19792790,
+      "date": "2013-06-21T00:42:02Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 22506607,
+      "date": "2013-08-12T16:37:27Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 22537118,
+      "date": "2013-08-13T01:03:59Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 22543733,
+      "date": "2013-08-13T05:14:56Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23605752,
+      "date": "2013-08-31T12:51:34Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23606880,
+      "date": "2013-08-31T14:09:25Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23614456,
+      "date": "2013-08-31T21:40:04Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23832793,
+      "date": "2013-09-04T23:06:06Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23832852,
+      "date": "2013-09-04T23:07:11Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 35963392,
+      "date": "2014-02-25T01:05:34Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 35994885,
+      "date": "2014-02-25T10:37:33Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 36221013,
+      "date": "2014-02-27T08:39:38Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37099254,
+      "date": "2014-03-08T14:49:29Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37101010,
+      "date": "2014-03-08T15:47:02Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37127332,
+      "date": "2014-03-09T13:49:11Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 38218938,
+      "date": "2014-03-20T20:46:12Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 38224199,
+      "date": "2014-03-20T21:38:05Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 38226499,
+      "date": "2014-03-20T22:01:38Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 48170954,
+      "date": "2014-07-07T12:16:26Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 50943807,
+      "date": "2014-08-01T22:58:34Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 89441820,
+      "date": "2015-04-03T22:58:02Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 89447246,
+      "date": "2015-04-03T23:13:19Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 89471174,
+      "date": "2015-04-04T00:15:17Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 89473065,
+      "date": "2015-04-04T00:35:39Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 89547114,
+      "date": "2015-04-04T10:48:25Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 73,
+      "date": "2014-03-20T21:33:02Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 72,
+      "date": "2014-03-20T20:52:58Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 71,
+      "date": "2014-03-20T20:36:23Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 68,
+      "date": "2014-03-08T00:27:01Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 66,
+      "date": "2014-02-25T09:32:45Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 65,
+      "date": "2014-02-25T04:44:17Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "chef/vagrant-omnibus",
+      "type": "issue",
+      "id": 35,
+      "date": "2013-08-31T21:26:30Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 3545,
+      "date": "2015-04-03T22:40:20Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "551f8b07e9d9160f91ca5c31ea44bcf017382933",
+      "date": "2014-04-26T15:20:45Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "6233e0ad6bbb8fc56365449a50f9a607863b95aa",
+      "date": "2014-04-26T15:15:20Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "63c4058b60b7ec627fbf5e802738b882754d0b0b",
+      "date": "2014-04-26T15:14:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e29f687517d3d57c30c34c2d1ab1c38a77b1bde7",
+      "date": "2014-04-26T15:12:03Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "c01d4f3f2ddd478aa87f4ae16379fd802b40cdbd",
+      "date": "2014-04-26T15:11:04Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e19e83012d29fc018c8d075a67c6ae308bc6e870",
+      "date": "2014-04-26T14:59:56Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "8579b6221608fc54cf8eaa3cee9b157b2f27c122",
+      "date": "2014-04-25T13:48:44Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "9a64212629edc5e45753d5c93a93a4bdfd2f4bce",
+      "date": "2014-04-25T13:38:01Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "6f44e0ae820b817b2a59b43e6eab854c9183d834",
+      "date": "2014-04-25T13:13:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "7d362fb83633c4c9bc3e0081a7c558912209b2dd",
+      "date": "2014-04-25T13:04:56Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "6d926d9aaa7568af5920bbaf075f47230d1cd7f2",
+      "date": "2014-04-25T12:39:25Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "4490d2e3b5c51b7d7e45570dfe1fcc6712dfcdd6",
+      "date": "2014-04-25T12:34:43Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "2071f5ebef669df39c0ac46ee5fbcbe0aca8a6ce",
+      "date": "2014-04-25T12:33:35Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "894c2c079d2ebe882ce5e08199bb92f3e2e38ea0",
+      "date": "2014-04-25T12:23:31Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "8cd685332f759272382c470b40d43e2bc6fa95ca",
+      "date": "2014-04-25T12:15:55Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "354d86b97b23e2dda23544166106897edd886072",
+      "date": "2014-03-12T16:59:59Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "cba8f30de531457c08a26fc7d8d4f3b8668157d4",
+      "date": "2014-03-12T15:50:42Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "98a9a6b5a20040d269e42bf278d2dc6b64b583c2",
+      "date": "2014-03-12T15:43:09Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "3b4c3d01120836fbb021d969ccec8056da5c819d",
+      "date": "2014-03-12T15:42:22Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "12c57c050a1e1ae4065619681048e6227f20e42e",
+      "date": "2014-03-12T15:41:55Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "d0fc2be03012185154693ec76d0cda126da315d1",
+      "date": "2014-03-12T15:22:20Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "4c91e0f85acdaa88de5e21c5f3f61471a28455d2",
+      "date": "2014-02-25T14:41:47Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "37f73c645db73eff10b1487b23c581b761c3e8d3",
+      "date": "2014-02-25T14:41:09Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "d444c3283c3226c4e41b2d7add60cae779b8ba2b",
+      "date": "2014-02-24T21:50:47Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "b225e14eff7f143727bbd1cc51eb8a9f9ec8740c",
+      "date": "2014-02-24T21:28:58Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "9c2fd9dddb3a42ce6db062b9dd2ece261d1693ab",
+      "date": "2014-02-24T21:09:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "88cd04950cbb5e58acae2c7cab10a2cb98eb3c9c",
+      "date": "2014-02-24T20:52:31Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "227eec8a30680db43a533b8f0f35ad6e4cae7c4f",
+      "date": "2014-02-24T17:54:54Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "d9b90cc898db27fdc1301956565d56f12fc2adcc",
+      "date": "2014-02-24T17:53:56Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "83d76b76828ebf6900ddea73fdce1ba489340072",
+      "date": "2014-02-24T17:51:46Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "82d4c11ee4182cf273e583f35105bc7207ab03e1",
+      "date": "2014-02-04T01:14:38Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "332ff23962f9598532a2853dc36170dba36a3ae1",
+      "date": "2014-02-04T00:47:03Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "3d8d55d47dc9b8359afd41d978f6c3f7583ab8c0",
+      "date": "2014-01-14T14:37:58Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "155b0843917f1b1aa841950540df9aaf79299550",
+      "date": "2014-01-07T03:08:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "8fb744fac1d9539e72a3accd91b75fa028864ae0",
+      "date": "2014-01-07T02:51:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "dddeb3cc9a94cf37a8643ef2158dd0d1a4746a64",
+      "date": "2014-01-06T23:07:15Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "619e2fd802c78779785c590648057ac9fae9b982",
+      "date": "2014-01-06T23:06:34Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "628360c4bb5801d397cccfb6cdcfe3edf3a9cbe1",
+      "date": "2014-01-06T20:14:46Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "f2dd3ab7313676675db6f99c43f435a86aaac58f",
+      "date": "2014-01-06T19:52:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "ada259ef87e6f35bada907ee25660627d9607c8f",
+      "date": "2013-12-18T02:45:31Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "2bffcc5149d64c3303e6491ffb1f75e1a2994a68",
+      "date": "2013-12-18T02:37:44Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "357903283bd22fcfbb7e5fc5b46b8626f8cda933",
+      "date": "2013-12-18T02:31:24Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e9264b79a14c693372e470a1b0c2a5bf1267bf96",
+      "date": "2013-12-18T02:26:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "cda2c96bd05b663a857475e0ae82a3591abd9012",
+      "date": "2013-12-17T20:39:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "321f050938b196a62c85851605bef3d21399c22f",
+      "date": "2013-12-17T20:28:02Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e4194fdcba555cb8cd54f5fbe461afb05aca2bc6",
+      "date": "2013-12-17T20:15:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "f88ff223b5af561717ddb4492acfa6d89fd28f0d",
+      "date": "2013-12-17T20:05:11Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "708505980ffa5e6bbe7474428fc8f23a128bdad9",
+      "date": "2013-12-17T20:04:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "6ee3bf7110dcff924845b3a64f9225a1a7360700",
+      "date": "2013-12-17T20:04:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "06f64565a58cc519bfdc16b1a35391873e0bcba4",
+      "date": "2013-12-17T19:11:24Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "9e43bfd6b3f73324047404e0038fd00e875ee1ab",
+      "date": "2013-12-08T00:19:55Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "b1c5ed2f244ce3ee76138084293796fb939e5b39",
+      "date": "2013-12-06T14:59:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "4b0a7bf1c5d926decb67eaf163fa26769617d436",
+      "date": "2013-11-18T16:12:43Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "db0c2fafd9844b3ba1204693a8dd6d9c5ce5e9b4",
+      "date": "2013-11-05T02:04:45Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "596f903352bbaadc1a06f80f4be0a57a6fddd1a1",
+      "date": "2013-10-28T12:39:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e82dcdae60997d85251332117ca929028b0f7fbc",
+      "date": "2013-10-17T15:36:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "ed41339fd5972b5d3e66b5b4b8866f8c1be0bce0",
+      "date": "2013-10-17T15:28:09Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "afb0ae26d0d9df4b9effac4f19fa75241283baf4",
+      "date": "2013-10-17T15:17:31Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "9f489afd9b9b425c0fd9f0f0c761500999bd220a",
+      "date": "2013-09-05T13:51:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "8a5d48c94fae5a5f0d9bb5965122305c8974ccc7",
+      "date": "2013-10-01T13:20:12Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "72ee101381344eb8989f641b1a3c02b2841f5e50",
+      "date": "2013-10-01T13:19:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "3ce974829d0cca66926092a57df5096de4e8e15f",
+      "date": "2013-10-01T13:12:25Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "9ec38f1bd246635d2314d6b62b04809c99aeb05d",
+      "date": "2013-09-04T18:47:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "60e8564c51502f5597f9c16b938c855a974141cc",
+      "date": "2013-09-04T18:37:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "73235c34b95b5fc8408a64cc21f657ca95c7773f",
+      "date": "2013-09-04T17:30:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "13f2374e00ae7a22b8f6828ae70382dd4c271a89",
+      "date": "2013-09-04T17:29:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "5edc775460a89c771ddfe2afb9c47db348af15a6",
+      "date": "2013-09-04T17:13:43Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "f867cb095777d83c1dc25348da02571a0233f161",
+      "date": "2013-09-04T12:40:21Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "0f983847eeb91210c0d8881992f8b1ba7a1f9bad",
+      "date": "2013-09-04T12:27:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "64743c74a6cc6f9631c79e89a8c9d8df29b0a7a7",
+      "date": "2013-08-26T17:13:26Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "240f4a1acf03073ebc17a0e984b30d388c5c10cd",
+      "date": "2013-08-26T16:58:24Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e63734b0bb86d7c919ae9900f48a34704bc7cfb6",
+      "date": "2013-06-21T19:59:29Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "159499ed9105d92428657acc75f61085c1bc5781",
+      "date": "2013-06-21T19:57:22Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "b889baa8833872a53ef6139b9c18994ac2f5b513",
+      "date": "2013-06-21T19:46:04Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "632d0e7a7d542883c58a9a539c633622d5327035",
+      "date": "2013-06-21T19:33:10Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "09afb4beb9b58cfefde2bd19b804ba433cddb6c6",
+      "date": "2013-06-20T23:43:21Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "d75b997a8dab3a0de2671622b6c6a8beaf7c2896",
+      "date": "2013-06-20T22:16:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "6569fc863b9d05be3124cfc2f1ebc9ef0d4cc664",
+      "date": "2013-06-20T22:08:11Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "35ff2ab32ab49266be1639c3030d1fdaf336984e",
+      "date": "2013-06-17T16:53:35Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "69110f9170deb6c85d3341b0ed7aec742158f9c7",
+      "date": "2013-06-17T16:52:00Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "1ab0efae4bae9d6ca9ff33e1946460490e5585b9",
+      "date": "2013-05-29T14:18:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "bcbe448e8ebe666b8264f17b4eb6fb1cf6c680e5",
+      "date": "2013-04-20T19:55:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "84d670e71f7c6c20f7e3c3134506f6353833ff9e",
+      "date": "2013-04-20T19:54:02Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "45f9f884aad555489750a81c97e881949a41a76f",
+      "date": "2013-04-20T19:13:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "b572b665f1f4103d43c68244e3543ce40ab82d39",
+      "date": "2013-04-19T13:42:43Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e4b6159877b96fdaf3cfd729b1a060aeba26f583",
+      "date": "2013-04-19T13:39:34Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "7063543a488c8e05f7193f7d6c8830fcccaaabf5",
+      "date": "2013-04-19T13:22:06Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "eb593f2925c58ed24d60ad1ecd58e95ef6cd07fb",
+      "date": "2013-04-19T13:19:08Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "55e1137f61287f0e8f17308ba227d884575af0bd",
+      "date": "2013-04-18T18:16:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "42b3f3651a664554226556fa49cef6c633d7653c",
+      "date": "2013-04-18T17:52:54Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "8e5de680c906dd82b74f9b5cf23f9751ff13de28",
+      "date": "2013-04-18T16:16:25Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "54d72f9543aab147d3770e12fa942f4ecd7a9bde",
+      "date": "2013-04-18T15:57:34Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "49fad239b956c257a5b1478d45085aa85e85b30c",
+      "date": "2013-04-18T15:47:26Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "788e81bbaec428a5bc329787904f821edee0be18",
+      "date": "2013-04-18T02:23:00Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "7751886b51ffac46860a47c465fc5f7152cbddf3",
+      "date": "2013-04-18T02:21:17Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "e08859fad7ef395a8b8480665672845eac40f78f",
+      "date": "2013-04-17T22:40:12Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "f18fbd66ebf998a106759dd8206167a4c22a8b56",
+      "date": "2013-04-18T01:03:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "7cec646497e931c82d250182d8a95a85f91bf35f",
+      "date": "2013-04-17T22:39:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "1e0dd9644e0578b39b2d8646e095947cffc3452e",
+      "date": "2013-04-17T22:37:13Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "1b189c97f47c05f7272c7792b59101d253efc197",
+      "date": "2013-04-18T00:45:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "a940499252121c4b642f6802d825d1f64fc2d8f8",
+      "date": "2013-04-16T16:14:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "f26855a610602261b569da27178218c497d0a12c",
+      "date": "2013-04-16T15:48:05Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "commit",
+      "id": "cf6186be75af398d7023d59f17a0921cdebd09c1",
+      "date": "2013-04-02T02:06:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 16014552,
+      "date": "2013-04-07T12:53:22Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 16454547,
+      "date": "2013-04-16T16:16:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 16455572,
+      "date": "2013-04-16T16:32:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 16457776,
+      "date": "2013-04-16T17:09:11Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 16569290,
+      "date": "2013-04-18T10:38:08Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 16587566,
+      "date": "2013-04-18T16:33:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18408092,
+      "date": "2013-05-24T14:28:36Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18408159,
+      "date": "2013-05-24T14:29:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18408267,
+      "date": "2013-05-24T14:31:21Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18408381,
+      "date": "2013-05-24T14:33:04Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18408590,
+      "date": "2013-05-24T14:36:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18618875,
+      "date": "2013-05-29T14:12:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18619260,
+      "date": "2013-05-29T14:18:42Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 18619601,
+      "date": "2013-05-29T14:23:29Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19558563,
+      "date": "2013-06-17T16:57:04Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19558728,
+      "date": "2013-06-17T16:59:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19558759,
+      "date": "2013-06-17T17:00:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19558778,
+      "date": "2013-06-17T17:00:38Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19716642,
+      "date": "2013-06-19T21:33:14Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19768796,
+      "date": "2013-06-20T17:33:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19773181,
+      "date": "2013-06-20T18:23:11Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19787208,
+      "date": "2013-06-20T22:18:21Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19787368,
+      "date": "2013-06-20T22:21:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 19794578,
+      "date": "2013-06-21T01:52:52Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23278740,
+      "date": "2013-08-26T17:13:02Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23614325,
+      "date": "2013-08-31T21:30:51Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23807246,
+      "date": "2013-09-04T17:18:47Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23814129,
+      "date": "2013-09-04T18:49:45Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23814290,
+      "date": "2013-09-04T18:51:42Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23814403,
+      "date": "2013-09-04T18:53:08Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23814435,
+      "date": "2013-09-04T18:53:44Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23814689,
+      "date": "2013-09-04T18:56:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23814973,
+      "date": "2013-09-04T19:00:43Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23815124,
+      "date": "2013-09-04T19:02:43Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23868870,
+      "date": "2013-09-05T13:52:26Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 23871073,
+      "date": "2013-09-05T14:22:33Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 24837364,
+      "date": "2013-09-20T19:59:03Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26518886,
+      "date": "2013-10-17T15:46:15Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26520492,
+      "date": "2013-10-17T15:58:36Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26521036,
+      "date": "2013-10-17T16:01:35Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26521192,
+      "date": "2013-10-17T16:02:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26521783,
+      "date": "2013-10-17T16:05:07Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26522046,
+      "date": "2013-10-17T16:06:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26522220,
+      "date": "2013-10-17T16:07:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 26941441,
+      "date": "2013-10-23T20:13:56Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 27207602,
+      "date": "2013-10-28T12:40:31Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 30000132,
+      "date": "2013-12-06T14:59:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 30071407,
+      "date": "2013-12-08T00:19:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 30071440,
+      "date": "2013-12-08T00:21:08Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 30811502,
+      "date": "2013-12-18T02:32:25Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31608695,
+      "date": "2014-01-05T16:47:32Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31608709,
+      "date": "2014-01-05T16:48:02Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31679569,
+      "date": "2014-01-06T19:39:51Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31704197,
+      "date": "2014-01-07T00:59:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31704219,
+      "date": "2014-01-07T01:00:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31710075,
+      "date": "2014-01-07T03:10:58Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31710161,
+      "date": "2014-01-07T03:13:51Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31710417,
+      "date": "2014-01-07T03:21:04Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 31710500,
+      "date": "2014-01-07T03:23:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 32190995,
+      "date": "2014-01-13T17:28:32Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 32193842,
+      "date": "2014-01-13T18:00:25Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 32269242,
+      "date": "2014-01-14T14:38:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 32269311,
+      "date": "2014-01-14T14:39:29Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 34019199,
+      "date": "2014-02-04T00:47:35Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 34019399,
+      "date": "2014-02-04T00:50:35Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 35943620,
+      "date": "2014-02-24T21:50:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 35952160,
+      "date": "2014-02-24T23:12:13Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 36013593,
+      "date": "2014-02-25T14:41:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 36013641,
+      "date": "2014-02-25T14:41:49Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37419739,
+      "date": "2014-03-12T15:11:52Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37421657,
+      "date": "2014-03-12T15:27:05Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37800696,
+      "date": "2014-03-17T10:18:12Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37800764,
+      "date": "2014-03-17T10:18:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 37807329,
+      "date": "2014-03-17T11:52:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 38277926,
+      "date": "2014-03-21T14:08:52Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 38278086,
+      "date": "2014-03-21T14:10:22Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41387805,
+      "date": "2014-04-25T12:40:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41388108,
+      "date": "2014-04-25T12:44:07Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41388755,
+      "date": "2014-04-25T12:51:22Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41388833,
+      "date": "2014-04-25T12:52:20Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41388990,
+      "date": "2014-04-25T12:53:59Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41389015,
+      "date": "2014-04-25T12:54:21Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41394112,
+      "date": "2014-04-25T13:48:24Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41394951,
+      "date": "2014-04-25T13:56:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41396189,
+      "date": "2014-04-25T14:08:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41470932,
+      "date": "2014-04-26T15:02:34Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 41471092,
+      "date": "2014-04-26T15:08:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 43268652,
+      "date": "2014-05-15T21:40:11Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 43279338,
+      "date": "2014-05-15T23:54:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 55331361,
+      "date": "2014-09-11T21:26:42Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "com",
+      "id": 59547671,
+      "date": "2014-10-17T17:34:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 108436770,
+      "date": "2015-06-03T14:02:04Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 60,
+      "date": "2014-01-07T00:59:20Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "pr",
+      "id": 56,
+      "date": "2013-12-17T20:15:30Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "issue",
+      "id": 79,
+      "date": "2014-04-26T15:08:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "issue",
+      "id": 69,
+      "date": "2014-03-12T15:10:42Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "issue",
+      "id": 64,
+      "date": "2014-02-25T01:12:26Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "issue",
+      "id": 8,
+      "date": "2013-04-19T13:40:45Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "issue",
+      "id": 6,
+      "date": "2013-04-18T17:50:33Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/vagrant-omnibus",
+      "type": "issue",
+      "id": 4,
+      "date": "2013-04-17T22:25:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 3710,
+      "date": "2015-06-03T14:01:58Z"
+    }
+  ]
+}

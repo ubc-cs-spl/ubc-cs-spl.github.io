@@ -1,0 +1,2177 @@
+{
+  "user_repo": "voormedia/rails-erd",
+  "dep_repo": "glejeune/Ruby-Graphviz",
+  "dep_date": "2010-09-20 10:13:22 UTC",
+  "dep_commit_id": "5135aa864924c5995efa4a92cf3d71dfc4cacb71",
+  "social_date": "2010-10-06 22:50:59 UTC",
+  "devs": [
+    "r.timmermans@voormedia.com",
+    "a2ikm",
+    "rolftimmermans"
+  ],
+  "interactions": [
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "643c3ab9aa811758d278d3ddab0268f47e2b97d9",
+      "date": "2011-06-15T13:53:58Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "8f43ad6cc93d28f1a3cd1291b7d27387b0303061",
+      "date": "2011-06-14T08:58:10Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "241b7eda729d89a5b35db39da54c0187056be637",
+      "date": "2011-06-14T08:57:59Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "64c2b3e7396ef63814fe6db550dd88948ce271b6",
+      "date": "2011-06-11T13:35:36Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4207d238bdfc690575c76b91637793fd9804dc66",
+      "date": "2011-05-18T11:57:40Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "16a248ec026529dab2a5d2aa68595e04eb6ed073",
+      "date": "2011-05-17T19:55:10Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "c8db5a6408552df595fab6814ae6d0e900d6731f",
+      "date": "2011-05-17T18:04:04Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1b75fb4cf26f7166fe9c0773576f42afe9532226",
+      "date": "2011-05-17T17:50:38Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "34e9a89f2c9f28ee18dc24d044989c4256217cb9",
+      "date": "2011-05-17T17:44:13Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "39d5babb61d0425c2c4d9670a35047832a98810a",
+      "date": "2011-04-13T10:06:02Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "656c230b5b5f94c0cac8f4c0c9d915ad77a1148c",
+      "date": "2011-04-13T09:27:03Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b1dadafe7246166470699cd7cb63341cf39b2903",
+      "date": "2011-04-13T09:26:58Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "88ffc3b11d9072eecfa2488b416119944a1ff591",
+      "date": "2011-04-13T09:26:28Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "569c90109c08a88b1c75670ba7aed300cf1398aa",
+      "date": "2011-03-22T07:40:05Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "74e7c569b365424bd2662fdebabad208ce104641",
+      "date": "2011-03-22T07:34:03Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "fde269d07f8aa57f513efba9dbf5b6df7b1e8e1f",
+      "date": "2011-03-22T07:33:47Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "8fb4af3e5454e145e5411d2aac2b1ed731a78ef7",
+      "date": "2011-03-22T07:32:34Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1efd3c12107ed9d814d38ec1e46fbb057106f970",
+      "date": "2011-03-20T13:34:15Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "35e474d3a99d5318a29ea249f93ff6c731788fcc",
+      "date": "2011-03-16T16:31:44Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4d0db47079bc36991861c9c9f446d97d73df3738",
+      "date": "2011-02-24T09:21:38Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "306df007efcf571f5e08e7d664c8bac4f5b7a45e",
+      "date": "2011-02-22T07:58:05Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "25d390810e56242e8b7e3a23f50303f5ddf39e46",
+      "date": "2011-02-14T15:10:18Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "06195eb7debd229f68717dbbde5cd5f245f66556",
+      "date": "2011-02-01T19:47:28Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2adc2fa7e5423dc0553b3eb80780aae0b3da5b69",
+      "date": "2011-01-31T12:41:49Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "cf0d5f82021f440dca42d5d767434fa4525ee8fc",
+      "date": "2011-01-27T20:32:56Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "9439cf5c2a937ac023585f1a66bd86b9f702f09e",
+      "date": "2011-01-27T20:32:52Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "3c44c3a4e2ce488f97119a02f8ccf2c50d8da768",
+      "date": "2011-01-27T20:32:35Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "f646219a3b68194719aa1d9af43df320456e4c62",
+      "date": "2011-01-27T20:32:19Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "26e898c8a5aa35831b417f7a8d3203a2cc6ea53f",
+      "date": "2011-01-27T20:19:38Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "064cf267bffb536f3d4c31014ab88d519c96cc18",
+      "date": "2011-01-27T20:11:56Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0bd6beb3fb9b6858c49b3f17ba1a22b3999b910e",
+      "date": "2011-01-27T20:05:41Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "735bd07edfff8cff5ea821f1655fc280f586e16c",
+      "date": "2011-01-27T20:05:37Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b960f75799ec85593a5e9181c97f014af98558fd",
+      "date": "2011-01-27T20:05:02Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "7f6706322e7d435cd73c9b4ae4becb3c42d18940",
+      "date": "2011-01-27T18:30:50Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2c59b4300a36ec25d356ea7edd723f33448e90ba",
+      "date": "2011-01-27T18:25:33Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "7df88b93b007dc430b797f7e6a0e6abacae19f2f",
+      "date": "2010-11-21T16:44:17Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "55cd89e592ff7621f2bda4828ce3a7a5c9c477cd",
+      "date": "2010-10-14T14:16:08Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "eba6df1a1ee85dffb66a3cb9910f2c85e9ac01f9",
+      "date": "2010-10-14T14:15:56Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "8fe6ef09763c2dd746be4e3632d90a6b6a99a4c5",
+      "date": "2010-10-14T14:15:11Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "cbe278fa226a1a4acb4dab84f329b54eb12aa424",
+      "date": "2010-10-14T14:12:28Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e90c89e069d3004465966530746d621bdc49def3",
+      "date": "2010-10-14T13:40:11Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2655479c8164e9d9df8ea7e8bfa066833ab88145",
+      "date": "2010-10-13T18:56:29Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "afaeb96c54fcb50a4c7ebb234177e9ab721a45f8",
+      "date": "2010-10-12T23:32:51Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0faa8c44ea9c3f7c470d583a41984a65f0786aad",
+      "date": "2010-10-12T14:05:32Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "bbb06c09d43f914815f7413071a802eef55a4d46",
+      "date": "2010-10-12T14:02:48Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "fe2bcf5444dc34336fd26c260746dc44553eac71",
+      "date": "2010-10-12T14:02:44Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "08495ec3f68d2e6acea7544c200856adb41e7e7a",
+      "date": "2010-10-12T14:02:35Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "711def20bdb2d4bbab7679d4e3f7d6786de89021",
+      "date": "2010-10-12T13:59:52Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4000b8d91c26c75caead278dacd33e1e6733a5b8",
+      "date": "2010-10-12T13:58:17Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "78b0ed77e202d32c6ca4264fcb93f90c97ed75c2",
+      "date": "2010-10-12T13:55:35Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "71c517d4f4e1455eea1b62a8d4d0ba4a62a6c203",
+      "date": "2010-10-12T13:16:17Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "77d55d6e61d576800252568c1ef7d938712435ef",
+      "date": "2010-10-12T12:55:11Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "82d15458822e526240db980ba7d73ce61bcb9557",
+      "date": "2010-10-11T23:58:02Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "bd5ba05db861f4448d568bd2f60cfd657962ab30",
+      "date": "2010-10-11T23:52:53Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "7bd3458669daec3f2567a1aa70aad91f95591efd",
+      "date": "2010-10-11T23:52:34Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "19d5ee4b6b86c65fa168afb1f1462acbf1deda8c",
+      "date": "2010-10-11T23:09:21Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b4a61ae6fb997e0c4131b692fc3aa4839d0fa088",
+      "date": "2010-10-11T23:06:54Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b5f95774d71063d48f0e6358cfacbc05a2558e1a",
+      "date": "2010-10-11T23:04:17Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "7d784497117c9d01f0803768fdd0b9539615dac3",
+      "date": "2010-10-11T23:03:36Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "d5d61dc191e29b546070c95efdfe5f6314cca5db",
+      "date": "2010-10-11T22:54:46Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "5373a70365f643f6e6f7207078a1411c2749ee81",
+      "date": "2010-10-11T18:11:54Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "87020288d181d7db77bdb8e8991a2c22eb5fef27",
+      "date": "2010-10-08T09:29:24Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "089656cacd5511415fb64a9ee72086988a6ad9e7",
+      "date": "2010-10-08T07:03:13Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b20083e192588b1414e3ff334c09d14c67ae575e",
+      "date": "2010-10-07T22:39:09Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "ea045dde83f64922b078c80fe221d3ab9b4dfcdd",
+      "date": "2010-10-07T22:05:14Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4d4ad64793c35c14bf14605da63ad15afbd967ef",
+      "date": "2010-10-07T21:45:00Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "07e96f53621d5b8c60fa3a429090a64245c15c09",
+      "date": "2010-10-07T21:19:09Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "fadf775928bb540d05af105bac986ccfda63e9ef",
+      "date": "2010-10-07T18:53:58Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "5c989685a7d9c0846c73fb4077d6fe258440fb31",
+      "date": "2010-10-07T17:29:27Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "da96b7cef2b13d2ec106a33b7a3c210088699b41",
+      "date": "2010-10-07T17:02:49Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "576001bc7d1a52219571e74739aa71a14383e2db",
+      "date": "2010-10-07T15:34:01Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "53532e356abe32d779b5346a689e8f6a2da5060d",
+      "date": "2010-10-07T15:33:47Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "48586e30a662cafa4bed237f83f78b6782b8345d",
+      "date": "2010-10-07T13:28:58Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "aaf18430fe54b4b4b7342118c5fa92b21230c4f7",
+      "date": "2010-10-07T12:59:38Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1673f42ca876ffe5bc6fc4efcab1a14f55221fb5",
+      "date": "2010-10-07T12:43:00Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "45b3d15c9a4ad5c4ea9cc16b4522023e17e4d7d1",
+      "date": "2010-10-07T09:50:01Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "c31c244d31a569d98db6b2b15619c951d12a4eaa",
+      "date": "2010-10-07T09:49:32Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "a4aa8358b91e751424618edbeae59dcb8862f041",
+      "date": "2010-10-07T09:48:30Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4717cdbb62b1fa4ecf606d55a09bdfb9fa59196d",
+      "date": "2010-10-07T08:41:23Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "ec28686d8159e265a23552033d6d1e7423a48969",
+      "date": "2010-10-07T08:35:55Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1e0b3f3aaf3b11708a26fcc1977297d638872950",
+      "date": "2010-10-07T08:20:49Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0d1e4a0492ee4d36c5e217589a32ee46210e0560",
+      "date": "2010-10-07T07:53:11Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2164e87fdb2f417bf4c783fff5f93d16b40f34c9",
+      "date": "2010-10-06T22:54:19Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "26ecea5b95e76dd5de7d382c6e0b32f9ee513ae1",
+      "date": "2010-10-05T07:25:50Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "230c524228b70ea6433ee5793ba48ec9c6f168a9",
+      "date": "2010-10-04T22:32:14Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0a079525c65f822f0f3a3fc095e4f8ac1ac61971",
+      "date": "2010-10-04T22:28:25Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "313d0463a53506b78cae83b3a932d109fb68da58",
+      "date": "2010-10-04T16:14:22Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "f9fdcffd33c938e2bf4661ad8cbd1e1854fb4e15",
+      "date": "2010-10-04T13:19:09Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "772ecf9a16a0664616b9b37aaea479ee44d291c7",
+      "date": "2010-10-03T21:43:48Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "bf8fcf7f2a1df9528804163cc0a21a2af88dae5b",
+      "date": "2010-10-03T21:24:14Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2391db99bfe1d34a7e2260105a72cd6f58259187",
+      "date": "2010-10-03T21:00:13Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b4960e87dc1a1331ad67e93126c30e7e1966ccc2",
+      "date": "2010-10-03T21:00:09Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "738e5b5d018066e65ecbd0397381fcaeb63c4ed4",
+      "date": "2010-10-03T20:57:21Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e4c6fefc0493b43c5b73ba3bc891c11ef9ae7025",
+      "date": "2010-10-03T20:43:27Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "14137e246461d000a66320cdf70d9c494f133eef",
+      "date": "2010-10-03T20:42:02Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "34ee45b7c6d5ccc9456a778be02cf8c92d8b7613",
+      "date": "2010-10-03T00:29:18Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e23d52ef8f2ea890a6a10c9299a3f51d0def2ae8",
+      "date": "2010-10-03T00:11:45Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "77d0289db4005f2c586831ac96731c420c904dee",
+      "date": "2010-10-02T23:58:29Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "ded212c0eab6bd6cfe77e662a48068b3a0856674",
+      "date": "2010-10-02T23:54:45Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "dd034b660edb53c85cfe06d5ac9968e34e5a720a",
+      "date": "2010-10-02T21:34:45Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "efea2b95017b53bc3a60fc190ac5d3062d8e8858",
+      "date": "2010-09-30T14:38:36Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "ca2a09f9547e2bd8dd56db1e4cf64ec292fef447",
+      "date": "2010-09-30T14:37:44Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "af697a02908e75b65b2757fff681e8040413a5d9",
+      "date": "2010-09-30T08:38:59Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "85e4572725cf914b89669f4587bf9b98f10b45e6",
+      "date": "2010-09-30T08:16:41Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "164449b75c011d44e904884c704f1ee52fabae85",
+      "date": "2010-09-30T07:19:43Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "d2ff63d53b5a33d8a9acb63016b5310fcb147bcb",
+      "date": "2010-09-30T06:45:48Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "8cb92c915cb4247f79e2ba73a043a741c65ed32a",
+      "date": "2010-09-29T23:46:36Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0393a61dce606d2ad9526b5e44edc038ddb2c1a4",
+      "date": "2010-09-29T09:18:17Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "508b61ddd867077b1bf418b049eacbcb63f9c1e8",
+      "date": "2010-09-29T00:23:27Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0bfba6d4a2b8df7ec1f07c0fc2e4a62f5c580d66",
+      "date": "2010-09-29T00:21:06Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1b020695a0a09ad23911de11b96e00c8aa1a10dd",
+      "date": "2010-09-29T00:17:18Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "d139805d0afca4c2ec9fa8e117b80191b7a60f13",
+      "date": "2010-09-29T00:15:37Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0590e3720297263ca6c21e69882132f6bc6789d0",
+      "date": "2010-09-28T21:40:34Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2e3cdd58d5148809ea2f6461d8cebef5824d1540",
+      "date": "2010-09-28T21:30:13Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2964c3ef70f48d2adcc9847bd2a65f097c1cf033",
+      "date": "2010-09-28T19:00:50Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "493edd5163dfb0cc5c627def20b6a484b3653bec",
+      "date": "2010-09-28T16:18:41Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "28faa719f5a6bf2795c71f4f17c9f897acd2b339",
+      "date": "2010-09-28T15:58:53Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e86a9c04ce3f81414664cecbe2a24b7c76177e1a",
+      "date": "2010-09-28T15:44:49Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "9ee4671d3c9ee17aa176f266f0c1329bf581c3fa",
+      "date": "2010-09-28T15:36:33Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "af0b334686b1b03939beb76ea7b5504a500c49fc",
+      "date": "2010-09-28T14:45:54Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "576522bcfab8f9c356918a191e71bc2075058d06",
+      "date": "2010-09-28T09:58:23Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "f80148898831147909fa6c093b1c7dbdb758b773",
+      "date": "2010-09-28T09:57:21Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "59f12e75e3e5d0744155f6fb58f8b6e893504662",
+      "date": "2010-09-28T09:47:41Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "5fac55f99fbf8ab97f38250653c730287014e164",
+      "date": "2010-09-28T09:18:50Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "650bc8b2b676bb65ede66362c0e0c9e393c3dfa9",
+      "date": "2010-09-28T08:41:42Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "59a9667d5dfe413b94f2e15b314164dbf1ae5e1a",
+      "date": "2010-09-24T09:31:13Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "11353486051d3a3f0dcd4fe03f4e894bab0f6129",
+      "date": "2010-09-21T22:53:29Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e75f0cdd4d49d496a24ed51758fd14ec5df3e686",
+      "date": "2010-09-21T22:39:46Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "6e566f1236a8ad7a089693473af452f76df37bb8",
+      "date": "2010-09-21T07:16:06Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "af78432738042178600c277a49ea018809ccf414",
+      "date": "2010-09-21T07:12:39Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "a1230e91b93355e27ece522696dd50e5fc539a76",
+      "date": "2010-09-20T22:27:02Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "8bc57acbfb4816c3ce625dce558242fef6d14f59",
+      "date": "2010-09-20T22:10:07Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "f46bdb89a2d23b907ebfe3f46cd4d0e55fd7a13d",
+      "date": "2010-09-20T22:10:00Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "99e52d3f8ab5b64ebd434f478c5674cbffda5701",
+      "date": "2010-09-20T22:09:47Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "660098b67b2e6a15162030fce2a7df0979488331",
+      "date": "2010-09-20T14:18:06Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0fbfa54fe26b46a979dfbb75a0b51a09342d4e9d",
+      "date": "2010-09-20T12:48:36Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "f6e7d62a5aee59107a3149a316812a69edc81282",
+      "date": "2010-09-20T12:41:12Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "5830ae1c8666521f19fe6dafb4006101f3dcb44d",
+      "date": "2010-09-20T12:08:43Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "5135aa864924c5995efa4a92cf3d71dfc4cacb71",
+      "date": "2010-09-20T10:13:22Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "54834446529062360e5815ddf2a8949912a2b148",
+      "date": "2010-09-20T09:52:41Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "58efd8700f17d0ae07e803052bfbdb054019a03a",
+      "date": "2010-09-20T09:52:22Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "5f46b704238910c613ce7e6ef08443177ccf799e",
+      "date": "2010-09-20T09:50:07Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "85452573ac9f7fca3a798898472bdcb5ee9deb96",
+      "date": "2010-09-20T09:17:37Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "9c9d551ec5aef40bc8ba6a0d9e10c31878a41b9c",
+      "date": "2010-09-20T09:16:56Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "eba58b19c74d3cd2ddd544c57a3a4e6b74681a74",
+      "date": "2010-09-20T09:15:39Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e89e322fbc18e13b38da7434988fab5ecc2d4703",
+      "date": "2010-09-20T08:24:41Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "dba2993be402b0cd2b23a9067c645883a51c428a",
+      "date": "2010-09-19T23:49:57Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "9885c2a7594c5bdbd0e5edf76604d4ae5ed74053",
+      "date": "2010-09-19T23:10:45Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "dfbfd3d8575f7c4ef3acf853b9daf9d88012804d",
+      "date": "2010-09-19T22:54:59Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "bb371f0148467d703b69d8646959039465f8c711",
+      "date": "2010-09-19T22:37:27Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2bb409f525a5b972ecd8f22d6bf68df45e129608",
+      "date": "2010-09-19T22:08:23Z"
+    },
+    {
+      "dev_id": "r.timmermans@voormedia.com",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "commit",
+      "id": "bf311465aadc22c315e07a1a89ca9f1f6443e9c8",
+      "date": "2010-10-06T22:50:59Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1fd49c6e52063e16f91e5ba3fa8e205fada2f45e",
+      "date": "2015-02-11T17:19:39Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "a43261abdd1f77b1be21b983dc0379b945cb51d0",
+      "date": "2015-02-11T16:12:10Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "838742bf82e8d6884137685b9e09afb1b2294bd3",
+      "date": "2015-02-11T11:16:46Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "f556eebf9f9d24a8236fb9084d7b9c0fa9243cc5",
+      "date": "2015-02-11T11:26:47Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "a77f3c1554e17c13e271b32b8a7881f0d28446b7",
+      "date": "2015-02-11T08:54:07Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "8fb0a521ae05f536c05c36d4f57734f54beaf263",
+      "date": "2015-02-11T06:51:24Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b9782fcad55c26efdca77718dbedf4cb12710b6c",
+      "date": "2015-02-11T06:43:02Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4dd8b374ab7fb53cdf4420ce3608702c0adbe90d",
+      "date": "2015-02-11T05:22:43Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "263ad325c2bd71da68e156dcd180396b0e3f0cd8",
+      "date": "2015-02-09T17:17:37Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "dc35bffd66314c5d7f62d46f6259b2e6bd8026f7",
+      "date": "2015-02-09T16:57:06Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e860d95a1772475f26d30cba5991628e0d23d2da",
+      "date": "2015-02-09T16:33:01Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "f317313412652b1dc7cb88a2fe43c1cceefa1cad",
+      "date": "2015-02-09T07:40:36Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e54ef5c6362cfc508e26689a60841bfd56ff2f2d",
+      "date": "2015-02-09T07:29:49Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "a239ea4829e6a1665f8c5e000310a93c64c81524",
+      "date": "2015-02-09T16:16:50Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b11874e9f3bcdb2ac812d5a43a89d0afe1bd004a",
+      "date": "2015-02-09T08:06:48Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e1bfa92b498890d62d76c90336c14e71fc2855c5",
+      "date": "2015-02-09T07:39:55Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "725594ef64904803b90bdb26f6366656771fd8ce",
+      "date": "2013-02-27T14:15:54Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "62d3fd54dd7206e7c48bdf92a56f3ef0925670de",
+      "date": "2013-02-25T14:33:59Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "5a362eb41b748a3a86197c2ba8dcff7a9857d4fd",
+      "date": "2013-02-24T15:04:48Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "6522bbeb47b06946125d195585e4e41aa8dd188c",
+      "date": "2012-09-06T08:16:55Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 14011504,
+      "date": "2013-02-24T16:58:52Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 14052900,
+      "date": "2013-02-25T16:40:34Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 15472243,
+      "date": "2013-03-26T17:16:35Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 46411123,
+      "date": "2014-06-18T08:56:40Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 47619727,
+      "date": "2014-07-01T05:59:29Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 66902462,
+      "date": "2014-12-14T04:27:38Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 73510488,
+      "date": "2015-02-09T13:47:14Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 73870313,
+      "date": "2015-02-11T11:57:09Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 73926685,
+      "date": "2015-02-11T17:42:21Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 73941507,
+      "date": "2015-02-11T19:00:37Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 74007548,
+      "date": "2015-02-12T02:35:21Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 74204595,
+      "date": "2015-02-13T04:44:31Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "com",
+      "id": 76346067,
+      "date": "2015-02-27T06:29:24Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "com",
+      "id": 101627739,
+      "date": "2015-05-13T10:59:49Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "com",
+      "id": 101628619,
+      "date": "2015-05-13T11:02:14Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "com",
+      "id": 101629107,
+      "date": "2015-05-13T11:04:20Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "com",
+      "id": 101629131,
+      "date": "2015-05-13T11:04:31Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "com",
+      "id": 101629167,
+      "date": "2015-05-13T11:04:47Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "pr",
+      "id": 120,
+      "date": "2015-02-11T17:40:44Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "pr",
+      "id": 119,
+      "date": "2015-02-09T09:45:42Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "voormedia/rails-erd",
+      "type": "pr",
+      "id": 36,
+      "date": "2012-09-06T08:22:40Z"
+    },
+    {
+      "dev_id": "a2ikm",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "pr",
+      "id": 102,
+      "date": "2015-02-09T19:17:26Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "d29b0c29fcfa9783c1070a915e7549a4e66d8441",
+      "date": "2013-01-17T20:21:56Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4c55782d161ac9613d3dbf7380a627077cc1f9ef",
+      "date": "2013-01-17T20:15:55Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "c8798a98d49c77aa2796f4ab3b6ad3368fcaa3a9",
+      "date": "2013-01-17T20:10:42Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "4bc0cc750740ffe59501fff6c62f80658c164dd7",
+      "date": "2013-01-17T19:33:38Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "868b8e18481b9bff7e3b179a2ace9f2934389264",
+      "date": "2013-01-17T19:16:02Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1c234abfdc26cd54a54b09683a495ccdf53662f0",
+      "date": "2013-01-17T19:09:41Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "44e37db93e518e7b324ebc2affa1a92a204bde7e",
+      "date": "2013-01-16T00:02:17Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "84f5efae5ca9e7a3f306f8acd52e800013973203",
+      "date": "2013-01-15T23:59:59Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e0d4042a7f63c8a2e544c614e096a90360a902cc",
+      "date": "2013-01-15T21:23:22Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "54b64637ad8abb0f329a72622aaa2b7db72f5072",
+      "date": "2012-11-05T10:01:41Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "486f37904fb5261c30e2087be93766e1b13c5f12",
+      "date": "2012-11-05T09:59:00Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "23d616ab788834ca486f767f1228c70522814231",
+      "date": "2012-09-25T20:14:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "74a0a37c03375ba2774f9ec6e02391fa6eb0a01a",
+      "date": "2012-09-25T20:12:06Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "1b8f0e0bd47f0aebda43a215499cb7952ada2e62",
+      "date": "2012-08-01T14:55:28Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "fed5317d3c9c6545a1b2ac5b81d39b05d2b2f15d",
+      "date": "2012-08-01T14:53:43Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "cb7701a23aeb477263fc0810332e6edfcf8c2582",
+      "date": "2012-08-01T14:53:00Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0e0b98cc3eb5b20779989bb441c132ada767b130",
+      "date": "2012-08-01T14:49:30Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "d67e01d81fbbe7397dc8e32a8b52f3ae62175169",
+      "date": "2012-07-26T11:25:09Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "69e03378b5b456188de29cd37fe38e9b76de407a",
+      "date": "2012-07-19T23:00:55Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "bc15c48312de945f2e35a3b93eb593077631645d",
+      "date": "2012-07-19T22:41:18Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "fbb4ae10b0891eef3160ea7e6172e9bd2852f1e1",
+      "date": "2012-07-19T22:37:43Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "a3e02175658f2cb8efdc0c8e758e5f90dbddd42e",
+      "date": "2012-07-19T22:33:51Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "7e32360da8c0bfe5ebb82114d0641f60ce1b33f5",
+      "date": "2012-07-19T22:05:27Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "b682c201ddef22f8207d5e8c81b5b7953f93e87e",
+      "date": "2012-07-19T21:33:58Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "927a899351b835e33a9f1a2bfdcc5a26f0b52a13",
+      "date": "2012-07-19T21:30:51Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "ed03a543b8a3045ffd8f1b6525fb4e2968fc979a",
+      "date": "2012-07-19T21:29:22Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "9d93126b96777140ba79ac1daeeb0b1a192d08ee",
+      "date": "2012-07-19T21:02:12Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "099796774e10b28d5b6f27871cbb7890ef281b9c",
+      "date": "2012-07-19T21:00:29Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "e08198e984e2543527ca209680c54aade30f83ce",
+      "date": "2012-07-19T20:45:39Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "0f900f1b3949a4b70b817956f750744611bac7d3",
+      "date": "2012-07-19T20:21:04Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "2517439db606c8ddf6fe836883232b8823aeeb9d",
+      "date": "2012-07-19T19:22:34Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "8218c778b8f10620d1b9fe7e0d3e29f5a78af6d1",
+      "date": "2012-07-19T18:44:38Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "ab00dbb82158620c77e70fbff6b24d32ef6d0844",
+      "date": "2012-07-19T16:23:04Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "eaac5445233a2439ccedb5046f9f44fe4bcd4ba0",
+      "date": "2012-07-19T16:02:30Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "a61093cd138b4f47255e5f47495216f64115c119",
+      "date": "2012-07-19T16:01:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "505bb24feee73a12ae804077a1a9a5fbd9cb1684",
+      "date": "2012-07-19T15:59:17Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "ab0d253270855c9909793157910500480b0bdd52",
+      "date": "2012-07-19T15:55:35Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "commit",
+      "id": "3adf002b437d6f5310d450f9ec590eb451b14bf4",
+      "date": "2012-07-19T15:53:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 462099,
+      "date": "2010-10-11T22:22:58Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 463469,
+      "date": "2010-10-12T13:35:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 468446,
+      "date": "2010-10-14T14:19:49Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 544992,
+      "date": "2010-11-16T11:42:41Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 545026,
+      "date": "2010-11-16T11:59:40Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 638079,
+      "date": "2010-12-28T09:28:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 638080,
+      "date": "2010-12-28T09:28:40Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 796345,
+      "date": "2011-02-22T07:57:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 804677,
+      "date": "2011-02-24T08:29:08Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 805423,
+      "date": "2011-02-24T13:19:02Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 805904,
+      "date": "2011-02-24T15:39:16Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 805998,
+      "date": "2011-02-24T15:59:57Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 881274,
+      "date": "2011-03-16T16:34:14Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 895140,
+      "date": "2011-03-20T13:35:31Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 895192,
+      "date": "2011-03-20T13:58:04Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 895766,
+      "date": "2011-03-20T17:55:38Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 895976,
+      "date": "2011-03-20T19:05:08Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 898957,
+      "date": "2011-03-21T16:02:39Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 901929,
+      "date": "2011-03-22T07:45:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 901933,
+      "date": "2011-03-22T07:47:08Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 990091,
+      "date": "2011-04-12T15:17:41Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 992040,
+      "date": "2011-04-12T20:51:48Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 994452,
+      "date": "2011-04-13T09:29:05Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1145048,
+      "date": "2011-05-12T07:14:47Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1191905,
+      "date": "2011-05-17T17:45:06Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1191962,
+      "date": "2011-05-17T17:57:54Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1242306,
+      "date": "2011-05-26T13:36:21Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1364666,
+      "date": "2011-06-14T08:53:06Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1364667,
+      "date": "2011-06-14T08:53:28Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1365203,
+      "date": "2011-06-14T10:55:42Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 1930360,
+      "date": "2011-08-29T13:17:00Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 2578213,
+      "date": "2011-10-31T15:21:13Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 3061846,
+      "date": "2011-12-08T12:38:38Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7102288,
+      "date": "2012-07-19T15:55:47Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7103564,
+      "date": "2012-07-19T16:38:53Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7103658,
+      "date": "2012-07-19T16:41:49Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7103726,
+      "date": "2012-07-19T16:44:13Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7103816,
+      "date": "2012-07-19T16:47:30Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7104015,
+      "date": "2012-07-19T16:54:05Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7104045,
+      "date": "2012-07-19T16:54:49Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7104120,
+      "date": "2012-07-19T16:57:15Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7111378,
+      "date": "2012-07-19T19:32:24Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7111737,
+      "date": "2012-07-19T19:35:13Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7111929,
+      "date": "2012-07-19T19:36:53Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7115982,
+      "date": "2012-07-19T21:31:22Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 7275141,
+      "date": "2012-07-26T11:25:21Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 8340602,
+      "date": "2012-09-06T17:34:45Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 8868436,
+      "date": "2012-09-25T20:12:19Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 8994752,
+      "date": "2012-09-28T20:41:03Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 10065280,
+      "date": "2012-11-05T10:03:26Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 10947630,
+      "date": "2012-12-03T10:21:17Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 10987632,
+      "date": "2012-12-04T08:04:19Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 12292193,
+      "date": "2013-01-15T22:08:39Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 12377103,
+      "date": "2013-01-17T16:56:27Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 12383607,
+      "date": "2013-01-17T19:07:27Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 12384152,
+      "date": "2013-01-17T19:17:20Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 13779761,
+      "date": "2013-02-19T15:55:32Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 13783107,
+      "date": "2013-02-19T16:49:28Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 14030470,
+      "date": "2013-02-25T08:33:05Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 14036122,
+      "date": "2013-02-25T11:11:50Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 14036430,
+      "date": "2013-02-25T11:20:54Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 15051441,
+      "date": "2013-03-18T12:12:05Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 15111168,
+      "date": "2013-03-19T12:23:56Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 15633595,
+      "date": "2013-03-29T09:15:26Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 15633635,
+      "date": "2013-03-29T09:16:46Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 15634912,
+      "date": "2013-03-29T10:10:41Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 15641512,
+      "date": "2013-03-29T13:54:16Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 16848808,
+      "date": "2013-04-23T09:46:32Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 16921984,
+      "date": "2013-04-24T11:56:58Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 17996701,
+      "date": "2013-05-16T11:57:47Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 17998734,
+      "date": "2013-05-16T12:46:38Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 17998766,
+      "date": "2013-05-16T12:47:29Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 17998833,
+      "date": "2013-05-16T12:48:47Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 25531135,
+      "date": "2013-10-02T11:20:42Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 53303540,
+      "date": "2014-08-25T18:09:52Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "voormedia/rails-erd",
+      "type": "com",
+      "id": 61528096,
+      "date": "2014-11-03T18:54:58Z"
+    },
+    {
+      "dev_id": "rolftimmermans",
+      "repo": "glejeune/Ruby-Graphviz",
+      "type": "pr",
+      "id": 17,
+      "date": "2010-10-06T22:52:05Z"
+    }
+  ]
+}

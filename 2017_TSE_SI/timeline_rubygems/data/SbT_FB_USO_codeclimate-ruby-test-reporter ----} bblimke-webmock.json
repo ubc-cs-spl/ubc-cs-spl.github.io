@@ -1,0 +1,604 @@
+{
+  "user_repo": "codeclimate/ruby-test-reporter",
+  "dep_repo": "bblimke/webmock",
+  "dep_date": "2015-03-20 22:33:35 UTC",
+  "dep_commit_id": "20de39a39307349b9e406849978c1c527c8f5ef3",
+  "social_date": "2011-07-31 00:41:30 UTC",
+  "devs": [
+    "deivid-rodriguez",
+    "peppyheppy",
+    "grosser",
+    "weppos",
+    "Nowaker"
+  ],
+  "interactions": [
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "a27b3452c4b3df573a3999c972fa415d76d0f4ce",
+      "date": "2014-10-08T21:04:26Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "209b035e8116e578bf28bca382d7e9d5cf49f9cf",
+      "date": "2014-10-08T18:55:44Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bblimke/webmock",
+      "type": "commit",
+      "id": "be68b19461fece10844c082f7c5f23c2002f790f",
+      "date": "2014-10-18T17:33:03Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 65063091,
+      "date": "2014-12-01T13:18:37Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 65095644,
+      "date": "2014-12-01T16:54:43Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 65787192,
+      "date": "2014-12-05T13:06:33Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 65831158,
+      "date": "2014-12-05T18:17:55Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 68345043,
+      "date": "2014-12-30T10:17:05Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 132169248,
+      "date": "2015-08-18T10:47:44Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 61406843,
+      "date": "2014-11-02T13:38:17Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 53,
+      "date": "2014-10-08T21:22:06Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bblimke/webmock",
+      "type": "pr",
+      "id": 420,
+      "date": "2014-10-18T17:33:14Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "issue",
+      "id": 91,
+      "date": "2015-08-17T22:46:57Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "issue",
+      "id": 59,
+      "date": "2014-12-01T13:21:44Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "af9b6130bac3438b5e601746e7aa14729606840a",
+      "date": "2015-02-24T01:37:58Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "30f57a6cc738aef5b88a83e3884967f4b2464715",
+      "date": "2015-02-24T01:36:14Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "c7c3d16496475f65d571c3faed35bb472718ee2b",
+      "date": "2015-02-20T07:08:42Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "bde1ad2c45d934ce3c34c19b5940e4fc51d8963b",
+      "date": "2015-02-20T07:07:41Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 75203557,
+      "date": "2015-02-20T08:16:08Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 75683109,
+      "date": "2015-02-24T01:44:17Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 1693476,
+      "date": "2011-07-31T00:41:30Z"
+    },
+    {
+      "dev_id": "peppyheppy",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 74,
+      "date": "2015-02-20T08:13:31Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "3495eaafa8d9b8540d13c9d2cab1bd28c3a13720",
+      "date": "2015-04-19T05:03:10Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "5fbfae39ffe40270b3530bbca7de3f2fdeb1d3f2",
+      "date": "2015-04-17T20:31:54Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "629994b17307234697407d0cf63e4d3c4bb5f97e",
+      "date": "2015-04-15T05:05:18Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "20de39a39307349b9e406849978c1c527c8f5ef3",
+      "date": "2015-03-20T20:59:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "e1f3fc1cf97802ca6215f23c1e04885fcfe162eb",
+      "date": "2015-03-20T19:54:55Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "1bda3b46cb4609075cc0e35e54143dc5f4b53778",
+      "date": "2015-03-20T19:33:08Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "779c6ba2b7a8e4270c082d8727bae0796e5f69d3",
+      "date": "2015-03-20T19:29:35Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 84143898,
+      "date": "2015-03-20T21:00:35Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 84452895,
+      "date": "2015-03-21T20:49:03Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 84452902,
+      "date": "2015-03-21T20:49:12Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 84452987,
+      "date": "2015-03-21T20:51:09Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 84603841,
+      "date": "2015-03-22T13:04:38Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 84909979,
+      "date": "2015-03-23T09:25:17Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 85904167,
+      "date": "2015-03-25T07:49:04Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 86199680,
+      "date": "2015-03-25T20:10:46Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 86880535,
+      "date": "2015-03-27T09:34:31Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 87298546,
+      "date": "2015-03-28T20:36:29Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 87364023,
+      "date": "2015-03-29T06:33:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 87811776,
+      "date": "2015-03-30T20:05:18Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 87812121,
+      "date": "2015-03-30T20:06:31Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 88373514,
+      "date": "2015-04-01T07:08:58Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 89838845,
+      "date": "2015-04-05T19:42:54Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 91356026,
+      "date": "2015-04-09T21:05:20Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 91447636,
+      "date": "2015-04-10T06:23:01Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 91495142,
+      "date": "2015-04-10T09:39:53Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 91714057,
+      "date": "2015-04-10T23:17:22Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 92957619,
+      "date": "2015-04-14T16:30:48Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 93042372,
+      "date": "2015-04-14T20:02:23Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 93189724,
+      "date": "2015-04-15T05:03:28Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 94199882,
+      "date": "2015-04-18T20:52:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 16065540,
+      "date": "2013-04-08T17:34:16Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 84,
+      "date": "2015-04-17T20:32:28Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 83,
+      "date": "2015-04-15T05:07:42Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 80,
+      "date": "2015-03-20T23:27:05Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 79,
+      "date": "2015-03-20T22:34:22Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 78,
+      "date": "2015-03-20T19:33:21Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 77,
+      "date": "2015-03-20T19:30:41Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "issue",
+      "id": 76,
+      "date": "2015-03-13T22:36:40Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "7a99a9622939cb5af52d78fe1d3d0c29eb8d0cc2",
+      "date": "2013-10-29T14:43:13Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "9e0bb2e20ecb3d1a8164e0c8e0f49a6d1c0a2d67",
+      "date": "2013-10-15T15:26:53Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "1d0bef9f28bdb12bb7e44073dfa3b05327df2f13",
+      "date": "2013-10-15T15:05:52Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "commit",
+      "id": "77ebd7089796b3dda61d01899e7e9f4a9e81ff4b",
+      "date": "2013-10-09T13:58:45Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 25979330,
+      "date": "2013-10-09T15:13:46Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 26344460,
+      "date": "2013-10-15T15:27:37Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 27308648,
+      "date": "2013-10-29T14:43:42Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 27817640,
+      "date": "2013-11-05T22:06:29Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 28701605,
+      "date": "2013-11-18T14:29:32Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 56168768,
+      "date": "2014-09-19T12:07:22Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 66914629,
+      "date": "2014-12-14T14:20:49Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 66968300,
+      "date": "2014-12-15T09:30:02Z"
+    },
+    {
+      "dev_id": "weppos",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "pr",
+      "id": 19,
+      "date": "2013-10-09T13:59:58Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 33013491,
+      "date": "2014-01-22T11:26:31Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 33013549,
+      "date": "2014-01-22T11:27:21Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 33041434,
+      "date": "2014-01-22T16:44:16Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 37879873,
+      "date": "2014-03-17T22:37:38Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 40983080,
+      "date": "2014-04-21T22:11:17Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 43269295,
+      "date": "2014-05-15T21:47:07Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 45835785,
+      "date": "2014-06-12T06:56:06Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "com",
+      "id": 53173968,
+      "date": "2014-08-24T01:46:55Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 62900099,
+      "date": "2014-11-13T14:46:29Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "bblimke/webmock",
+      "type": "pr",
+      "id": 438,
+      "date": "2014-11-13T03:04:46Z"
+    },
+    {
+      "dev_id": "Nowaker",
+      "repo": "codeclimate/ruby-test-reporter",
+      "type": "issue",
+      "id": 35,
+      "date": "2014-04-17T23:48:12Z"
+    }
+  ]
+}

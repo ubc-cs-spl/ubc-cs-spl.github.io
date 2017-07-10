@@ -1,0 +1,4504 @@
+{
+  "user_repo": "technoweenie/restful-authentication",
+  "dep_repo": "rails/rails",
+  "dep_date": "2008-10-30 04:54:12 UTC",
+  "dep_commit_id": "8cffaf6f8e99d263664ca7a402fb09dc39f606a7",
+  "social_date": "2008-01-01 22:24:36 UTC",
+  "devs": [
+    "Vanuan",
+    "mrduncan",
+    "technoweenie",
+    "bryan-ash",
+    "Dorian",
+    "mikeycgto"
+  ],
+  "interactions": [
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ebb906d23ae3212a2914b78b7d58366970898ffb",
+      "date": "2012-06-04T22:14:42Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d63b69ba7f2b9111aeb04b50884949c2a4b6e584",
+      "date": "2012-06-04T23:07:21Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c5e9dc43854ee211dd8a1eee54be818306df3df7",
+      "date": "2012-06-04T10:16:18Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cba59f1ed1ea484cbbb5729b8ba57e4b0128cdac",
+      "date": "2012-06-04T10:12:24Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 378568,
+      "date": "2010-08-30T10:53:56Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 392593,
+      "date": "2010-09-07T10:29:26Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4436443,
+      "date": "2012-03-11T03:38:19Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4436533,
+      "date": "2012-03-11T04:06:33Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4436549,
+      "date": "2012-03-11T04:10:33Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4436641,
+      "date": "2012-03-11T04:38:29Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4436672,
+      "date": "2012-03-11T04:45:32Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4461529,
+      "date": "2012-03-12T20:58:12Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4487005,
+      "date": "2012-03-13T21:41:55Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4487647,
+      "date": "2012-03-13T22:14:46Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4490508,
+      "date": "2012-03-14T01:35:06Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4584444,
+      "date": "2012-03-19T21:46:43Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4585632,
+      "date": "2012-03-19T22:52:14Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4606096,
+      "date": "2012-03-20T21:44:50Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4724525,
+      "date": "2012-03-27T19:33:16Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4783987,
+      "date": "2012-03-28T19:57:20Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4784966,
+      "date": "2012-03-28T20:10:46Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4792853,
+      "date": "2012-03-28T22:20:20Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4951832,
+      "date": "2012-04-04T11:52:23Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5743378,
+      "date": "2012-05-16T15:14:19Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5743743,
+      "date": "2012-05-16T15:28:28Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5746349,
+      "date": "2012-05-16T17:12:40Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5747362,
+      "date": "2012-05-16T17:55:58Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5783766,
+      "date": "2012-05-18T11:04:44Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5784703,
+      "date": "2012-05-18T12:13:35Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5946331,
+      "date": "2012-05-26T11:44:37Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5948664,
+      "date": "2012-05-26T18:18:57Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6057923,
+      "date": "2012-06-01T10:51:54Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6084800,
+      "date": "2012-06-03T11:34:02Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6085840,
+      "date": "2012-06-03T14:21:15Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6085953,
+      "date": "2012-06-03T14:34:14Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6096842,
+      "date": "2012-06-04T11:20:11Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6098815,
+      "date": "2012-06-04T13:28:41Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6099117,
+      "date": "2012-06-04T13:41:49Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6099691,
+      "date": "2012-06-04T14:09:10Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6099741,
+      "date": "2012-06-04T14:11:30Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6099803,
+      "date": "2012-06-04T14:14:24Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6099910,
+      "date": "2012-06-04T14:19:04Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6100015,
+      "date": "2012-06-04T14:24:08Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6111871,
+      "date": "2012-06-04T21:40:47Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6124149,
+      "date": "2012-06-05T12:52:54Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6131886,
+      "date": "2012-06-05T18:02:39Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 8436796,
+      "date": "2012-09-10T20:15:10Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 6627,
+      "date": "2012-06-04T22:56:07Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "technoweenie/restful-authentication",
+      "type": "issue",
+      "id": 18,
+      "date": "2010-08-28T21:41:01Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 20506,
+      "date": "2015-06-10T17:30:43Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 6621,
+      "date": "2012-06-04T10:44:19Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 6501,
+      "date": "2012-05-26T17:23:12Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 6310,
+      "date": "2012-05-14T19:11:08Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5732,
+      "date": "2012-04-04T11:36:26Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5516,
+      "date": "2012-03-19T21:35:54Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5424,
+      "date": "2012-03-13T23:55:33Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5382,
+      "date": "2012-03-11T21:33:35Z"
+    },
+    {
+      "dev_id": "Vanuan",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5376,
+      "date": "2012-03-11T02:49:58Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "58c8bc1d544cf90e25c4beb3267ff35a1a7fcf25",
+      "date": "2008-06-30T20:45:00Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "2c74378420fcc0a47e2b23cd9f96ffa7caf34a8d",
+      "date": "2008-06-30T00:43:33Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "189dcb6e1ff7f4c1cc9338cf2c955a756468db88",
+      "date": "2008-06-29T19:48:47Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "a0ccce10a49be5d523a623b5549677f0e4d114b9",
+      "date": "2008-06-29T15:56:02Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "50b2eb8cbd6cb923026b8fbb98482e06cdbd21ce",
+      "date": "2011-04-16T02:09:23Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1229904602b8c3b354a144ce33468be408cf9cec",
+      "date": "2011-04-16T01:56:01Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b6bfcc9115df00620e155a84f80d46342c1fe7ee",
+      "date": "2011-04-16T01:50:29Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f274394afbedd2097d5855f8c2d7d384b46977c3",
+      "date": "2011-04-16T01:34:49Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e8afe4e1ea9ea4c59368bb84efde785876f25061",
+      "date": "2011-04-16T00:30:51Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "004042c0d94f0294e691de46094a665acd852653",
+      "date": "2011-04-16T00:27:05Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7f98b544e3b29c7ffdb8cb4a2ad1da5d1a8c611c",
+      "date": "2011-04-16T00:18:30Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6ddd4a3d954cd81f96c747f515406be50041431a",
+      "date": "2011-04-16T00:08:11Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8ac365f47626fd4d9569cf9c378c3a8f4f60eb58",
+      "date": "2011-04-16T00:03:52Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3ca6d0e8fe72f6840049f7c2461243cf362b9896",
+      "date": "2011-04-15T23:56:48Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2f242652374d40726a5076a531a667e4482744df",
+      "date": "2011-04-14T00:58:26Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "974a6aa176ff5549e00f1a126ba5d46fa175c59e",
+      "date": "2011-04-14T00:49:14Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e56b19bbed275bd6d2bd0574300e5f0f6b85add0",
+      "date": "2011-04-14T00:32:36Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1447ff56545f53101c5fddbdea5667a8ff68cd8e",
+      "date": "2011-04-14T00:17:22Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "04a75e02894e15aa3aaf92e3e856b091a2386f14",
+      "date": "2011-04-13T21:19:47Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "805126b20a39c6f05c46bff780245b0e1c6bc046",
+      "date": "2011-04-13T01:01:24Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "93def1906332d6cd4f2370224a76bd4898220cab",
+      "date": "2011-04-13T00:51:25Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "42551d34f9daaed25e1a812ac2a31335dda07425",
+      "date": "2010-02-06T00:02:53Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7e26809d0918a32f72cc072e8b6ebeab147b9422",
+      "date": "2010-02-05T23:46:37Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8c2d245d5580cf42e74176a87e68f5cbceed794c",
+      "date": "2010-02-03T23:16:02Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ae6f856a47c39a5e4ad364ac44ab8e0ad4fedc11",
+      "date": "2010-02-03T23:14:07Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "920ef4e6f3832ea1d3297e2e7e5f0f775dab69a8",
+      "date": "2009-08-08T15:50:17Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3b3798506b403911665c3c24fd055b75d6f6a44f",
+      "date": "2009-08-09T00:10:01Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "45f5bdfbc7fc1ee1fbc23525a112062c8b31d539",
+      "date": "2009-08-09T00:10:01Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bee3e099bd3f4038f8a4122ad48446a232cbf21a",
+      "date": "2009-08-08T22:07:17Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5fdc33c1a37b4c321135753ed546e8afc2dbaf3e",
+      "date": "2009-08-08T01:37:21Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 998621,
+      "date": "2011-04-14T00:22:19Z"
+    },
+    {
+      "dev_id": "mrduncan",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 266,
+      "date": "2011-04-13T01:05:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "03e0075cddcb62a9fc9abf037767ed95168f39be",
+      "date": "2010-08-06T05:31:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "91fa76fb8f2bee142d84f01993d579d5f274658f",
+      "date": "2010-08-01T16:32:34Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "7235d9150e8beb80a819923a4c871ef4069c6759",
+      "date": "2009-04-13T23:47:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "2ae4c22f5a42100458f8be89c9f366b4099a4451",
+      "date": "2009-02-25T16:29:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "343053568449db5a9e70014561240bb9ada5525f",
+      "date": "2009-02-25T16:14:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "5799593a28bb88e98b8cfe32d2f207c753a2bd9b",
+      "date": "2009-02-21T03:19:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "ecf8386a6040eada027c253231cb21d431eb9ebb",
+      "date": "2009-02-21T03:17:16Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "01a023e7c86875bb484705e528ff68a6d2a91663",
+      "date": "2008-08-26T01:55:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "56a08783659431c103f3b10e1abfb5178b97dec5",
+      "date": "2008-08-25T22:45:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "11c705ffd256e2104e02b79d3eed318ea358a474",
+      "date": "2008-08-25T21:54:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "49aa1b4587a17fb7e9777fd737680f60e678be5d",
+      "date": "2008-08-25T17:32:00Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "20881213f76c8c8e817e18a7b276555922bb69f5",
+      "date": "2008-08-25T16:51:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "e2c59cad93265d067d808d092089a9d4597d7fcd",
+      "date": "2008-08-25T14:54:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "d98878e221c1a6e97e3d086330508ac420bf4ebf",
+      "date": "2008-08-25T04:05:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "d6528c02d6a53850ca3232b61c8b5236c564fe7f",
+      "date": "2008-05-27T02:05:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "d300c6956afe6c24663dc1476351f7dd8c1f92b7",
+      "date": "2008-05-27T02:04:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "189ce881985d96ad74aba88c87271ca1997c437c",
+      "date": "2008-05-26T15:21:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "42083ffa31e0a9792472780854ddd81bcc9b2f61",
+      "date": "2008-03-23T20:28:09Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "339b0889475b14e2bbf66f2ab1f3fbd57fc2c55b",
+      "date": "2008-03-23T20:19:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "1f66c5747e79de2dae7c4ea177aa463809aaade8",
+      "date": "2008-03-23T20:00:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "6f83ff3a37c4ffc2544fbfd312724d661a7c8ddb",
+      "date": "2008-03-21T17:38:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "8cad3586db8d6af7c7fe2000b35fe3b7c6785d92",
+      "date": "2008-03-21T17:13:00Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "c798e5756c98cafce541d75e573c44a60c150ad7",
+      "date": "2008-03-14T15:25:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "17f06f3d4f44458cfedeb656f4e0b7583e721956",
+      "date": "2008-02-08T08:40:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "698536b9edb795c0115be9f497f50613a284212d",
+      "date": "2008-01-31T07:11:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "5088f2de532847ae03927c3f2181f3a082632a84",
+      "date": "2008-01-29T00:42:55Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "18c3c51ea3e523454839bb7db58a60e923f2c44c",
+      "date": "2008-01-16T23:03:59Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "a82f39211a795ebe88c09ec203de37534fcc4262",
+      "date": "2008-01-16T22:52:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "f3931ce924e097ff7e7f44c168ce1d0959407358",
+      "date": "2008-01-16T22:47:00Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "c910a71f0dfc3d6e0939d3d7171574769db9c14f",
+      "date": "2008-01-08T21:24:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "8160830bbf10d6ff89eb1a6df4340c36a5499c79",
+      "date": "2008-01-07T04:14:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "2c101beea38fcdd9017bcdbf86a1feadfda3aeef",
+      "date": "2008-01-07T04:14:26Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "eb7f34c4698394d63792d4a11a87d4ec7e1fa375",
+      "date": "2008-01-04T23:33:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "e88423698c526f9bfe72a9d8f72a9ebe4db86bea",
+      "date": "2008-01-04T23:32:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "0e31b9f417d1f48e45701a5d4cb0f80a90ef7b16",
+      "date": "2008-01-01T22:31:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "609c9cdd46ec4eef54dd90d9b274f218d7c8a363",
+      "date": "2008-01-04T23:33:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "66066479113317bef622bde548f61104509f0465",
+      "date": "2008-01-04T23:32:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "c77907b9fa4d8904a3722c39264f25428847ebac",
+      "date": "2008-01-01T22:31:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "504d15240e9b467ef3ed90e1c8e7ed52387b304f",
+      "date": "2008-01-01T22:24:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "0ef073b3872a231d034b32e59e706336cfb4ce32",
+      "date": "2008-01-01T22:24:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8d236ccb8499beb5896754fd6b769c59afec52d2",
+      "date": "2010-04-30T14:46:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e89241c92fbcf68b59d9efb50c21c5040e9f3156",
+      "date": "2009-05-18T02:16:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3c4c6bd0df598f865f49a983b4c65c415af4bcfc",
+      "date": "2009-04-23T07:08:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1cfc39e7e7ab72db1f797fbf21cdd149edfadd22",
+      "date": "2009-02-25T17:27:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "00c46b5eeb858629ef1c7ab50f022aecccca42c3",
+      "date": "2008-11-12T21:34:29Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "22e830f883af0b56de81186c184751b6398d0141",
+      "date": "2008-09-20T20:00:20Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0aef9d1a2651fa0acd2adcd2de308eeb0ec8cdd2",
+      "date": "2008-08-26T18:53:33Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0a6d75dedd79407376aae1f01302164dfd3e44b6",
+      "date": "2008-07-16T21:20:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a14cedc7797aef4ccd9da46ed73e36d730392814",
+      "date": "2008-07-08T05:24:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e939f60b6cac13219b927f13165e4fbd85445254",
+      "date": "2008-07-06T20:58:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "74596233f1af1b2fc0c42fbee089c46aaf302514",
+      "date": "2008-07-06T20:53:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a4138d46321d63012adbf1942f5ea7c5e4951fc9",
+      "date": "2008-07-02T18:09:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "01db5ded54b0e3a2ea80d28e4841d40fcec23cdf",
+      "date": "2008-06-29T19:13:58Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c9e366e997c6f3a383cfaa6351fa847e92de7fe4",
+      "date": "2008-06-28T18:33:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a9d9ca16c739ec39a192d29c62f760e51040fc6e",
+      "date": "2008-06-28T18:01:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "74cb05698684f237a7eb91afadec0020d8910c70",
+      "date": "2008-06-28T16:19:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b9528ad3c5379896b00772cb44faf1db0fd882d7",
+      "date": "2008-06-28T07:55:02Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b7c6ceff9a31cc478c4bc89d57980900a775fbed",
+      "date": "2008-06-28T06:29:47Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "aec3c7aa72c89e37edae4d14ac98d7a6de4a195c",
+      "date": "2008-06-28T06:29:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7fc628e3fcda6342a8cee0a6236987b57ac10270",
+      "date": "2008-06-28T06:29:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "10c581a6deed66e8b62de6e7a3621a63de90baad",
+      "date": "2008-06-19T16:59:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f545e19692c84eeaa8de38319766b5ceed1768c1",
+      "date": "2008-06-09T16:06:23Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "64637da284ed4685591c178202ee103e6bee71cf",
+      "date": "2008-06-09T16:06:23Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8bf74c30fe276606214850ae2de76fe0efb08d94",
+      "date": "2008-06-09T02:26:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "51e4106dcc58e5218e8b297ad870a063b7bb1ab8",
+      "date": "2008-06-08T18:30:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "faad1e32a8ab81890018ba89d191607778830cf0",
+      "date": "2008-06-08T18:04:04Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "138adbf156905f5cc6669ba33dd94802c82514d9",
+      "date": "2008-06-08T17:06:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "71528b1825ce5184b23d09f923cb72f4073ce8ed",
+      "date": "2008-06-01T00:22:16Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6a975d6ca28216cfa015374c802279349e9253ca",
+      "date": "2008-06-01T00:15:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "72483c0d4c1e4ea794919974100acc2f255f6fd2",
+      "date": "2008-06-01T00:13:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a6e79083273dfb1a62aa8ff02db07454c65729ff",
+      "date": "2008-05-31T23:46:47Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d5bcff172b6253684cf5cc3345a3d390096ba957",
+      "date": "2008-05-31T23:36:34Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2506e5c9a7d251680f0029d1616f3edb1e3a8db3",
+      "date": "2008-05-31T22:59:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9c4f00350a61987afad50ebb8d319d7e889b6cfd",
+      "date": "2008-05-31T22:58:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2243ffd1ffe3a129af20a33e72574f7ee4534730",
+      "date": "2008-05-31T20:39:58Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fbd901e8d6608cc5c68b4f53156b637e88e1400e",
+      "date": "2008-05-31T20:32:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ed99dda174da439a0947cdabea3babf027c672ac",
+      "date": "2008-04-10T18:06:05Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "95fdc82fb2a46b7f7746a82de1e2db350371106d",
+      "date": "2008-04-09T16:24:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8a5a9dcbf64843f064b6e8a0b9c6eea8f0b8536e",
+      "date": "2008-04-09T16:20:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "78c2d9fc223e7a9945aee65c838f7ce78e9ddb3e",
+      "date": "2008-04-08T05:20:33Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4d594cffcfc93b37fad4e423ec8593299e50133c",
+      "date": "2008-04-08T05:05:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0ff7a2d89fc95dcb0a32ed92aab7156b0778a7ea",
+      "date": "2008-04-08T04:52:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0bea3f8391e985157f3aecdf50a5d61de7aa7f0c",
+      "date": "2008-04-08T04:21:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7e94cf7f4d4c865a84cf835349bdb51c5e71a842",
+      "date": "2008-04-08T03:47:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "605196c4483bbba932804e78cd6d4166f4e29bbb",
+      "date": "2008-04-08T03:45:26Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8ff9e9365da7ed6dbc2bf9862a9b314e7c819514",
+      "date": "2008-04-02T21:53:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7d2316604a0bb04fe8c800e12876c58bdac651b4",
+      "date": "2008-04-02T17:48:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c4ccca1f847abedd9ae3863996552282e40d42ba",
+      "date": "2008-04-01T20:55:45Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e0402fe0329fb4f631f49ddee466caace8ece192",
+      "date": "2008-04-01T20:35:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1eb57a6870cbaa0f965f1c1cf7681a67785e71b0",
+      "date": "2008-04-01T20:25:26Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d450ac4459165e3af6e45798a6afeac1876f3bc4",
+      "date": "2008-04-01T20:09:45Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e223216e9ac496d4dad53c7ada1406e9e15fbb55",
+      "date": "2008-04-01T18:27:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cc2d6a0b93251fce06bab15c52dbe0a5d5a8342c",
+      "date": "2008-03-31T06:53:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c2ce69860a01205a68dce1d642a02da5595094b6",
+      "date": "2008-03-30T18:22:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "65b4702c4f410b0ff1443eccf48f578a495cb7bf",
+      "date": "2008-03-30T02:35:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "088ef182e3006294b8f0e9b185d272a777c4437a",
+      "date": "2008-03-30T02:17:28Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c366515abdecf750adfba574be89e8ec43c8553e",
+      "date": "2008-03-26T15:40:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1648208ab09277467220efc92a532994024eea78",
+      "date": "2008-03-26T15:36:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "628ffad98bcf4087ef16e899868d41bf22aa77d2",
+      "date": "2008-03-26T15:26:59Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "081ddb6f24d70794ee9e071d3ed5302f52b26c4d",
+      "date": "2008-03-24T02:50:02Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5bf4cbbdb74dfaaac258dc93e54dcae8295211e9",
+      "date": "2008-03-24T02:29:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e1790efb85010c5e6f39eef029abf7b71ae3b9a6",
+      "date": "2008-03-23T04:44:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "038139870825ad843b0683e5273dc4d11cb684b3",
+      "date": "2008-03-23T01:48:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c23c9bd11bc16618a1765eb61424014912a6e1d7",
+      "date": "2008-03-21T18:21:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "273b21faa911681ed4b6c748676146e0f6eed0a0",
+      "date": "2008-03-21T18:09:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1e0ac3a673a6cc92c1c6c5bc84180afeb60241d9",
+      "date": "2008-03-13T03:22:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7750afc4c1b6873bf1ee50ca386b9714430be618",
+      "date": "2008-03-13T03:06:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3a17ea9031c32bf3b5817c74bba777ec06c5eb41",
+      "date": "2008-03-11T07:46:39Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "867063134fb903046d9eac27755a67204a26e148",
+      "date": "2008-03-07T01:23:12Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "de048b100934641268ad681aa7d07571bb9130bd",
+      "date": "2008-02-14T07:53:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8a2266c02063c1111c666c71ced7822f095ed56c",
+      "date": "2008-02-14T07:24:09Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4a9fc4424ff7402326bf17c8bfd89bf6cbc42c8c",
+      "date": "2008-02-07T17:06:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "efa739d73d8108c92ceedb41a862c7b8f028c7e1",
+      "date": "2008-02-07T16:50:55Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8e6638afa4b9fe7a361c81e6d2ede77951b81aff",
+      "date": "2008-02-07T16:46:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "689e27567e2a248e262945c52266340d7385aeed",
+      "date": "2008-02-07T16:43:16Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "57cea9c9459a3e6d5cb857c8ca1d2026e8b39526",
+      "date": "2008-02-07T02:45:13Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "13264afb120de1e8a858ef87a619901da5af5972",
+      "date": "2008-02-06T18:50:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "72385a7be65bb27b07cd2ee3bc9fe221d8e04f90",
+      "date": "2008-02-06T06:43:02Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "20bab5bc64cfa25c8693e7be271dec075869dfc9",
+      "date": "2008-02-03T17:54:39Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5ef2b089f03271fcff02280fdcbb12d38d726eba",
+      "date": "2008-02-02T20:18:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9623264c0946e334c0811f2b585208476d12aa00",
+      "date": "2008-01-29T01:23:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bd72d06374600cb20bbc85127ab8629dd1b2453c",
+      "date": "2008-01-29T01:09:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "49794485b6629a04d7efe324d7c91c0845dbdc2f",
+      "date": "2008-01-18T01:55:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3dd6027f708a472064e73a50f4afb433f338bf09",
+      "date": "2008-01-12T01:05:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ebfd03b938d2cb996bc5786768e339b7221a724d",
+      "date": "2008-01-11T19:54:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2dda6391207fc7a7d36536306db36eed33f3af9d",
+      "date": "2008-01-11T01:55:20Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ce84cebc0e8127e4c5d82c314ee446d802003cfb",
+      "date": "2008-01-07T20:44:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0ad24df6ed389c1d57970c6e7650c5b1b7ae7676",
+      "date": "2008-01-02T21:39:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "744b1d7f4d2df583c77f99a33ae560ad64414c66",
+      "date": "2008-01-02T19:45:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4261b837f5a0f34395b168d3697a2c1013a4e5d9",
+      "date": "2008-01-02T19:27:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "14f6440ed60a3e6bfa263cc30f10547ca52db64f",
+      "date": "2008-01-02T19:24:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "58cf6df41ac29e59de65e4e9840868a071fc8148",
+      "date": "2007-12-28T20:59:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9e2536393e9a41f53bf543d0ea39a16b96e9bc17",
+      "date": "2007-12-28T18:37:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0e3a54a3b92c0f9a7bf95f8cb11ba2db89f6eecc",
+      "date": "2007-12-28T18:01:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e8730713d2744ab0149ad03997ad05f336c31941",
+      "date": "2007-12-28T17:12:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c54b915825b034b431b4b0cdb28f8ca00fca808d",
+      "date": "2007-12-28T17:03:58Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "90d75e5109cb3e2fd172711b479ab29bda249544",
+      "date": "2007-12-28T17:02:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e781faddca7523c6b700d03887b6603488128ced",
+      "date": "2007-12-23T21:07:20Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5dc831fd9a303489c1260374e0b8a26fa6b8b44f",
+      "date": "2007-12-19T22:49:27Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ce102e3af9ccdb5015e20ab7155d2a13c7832a9a",
+      "date": "2007-12-15T01:45:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "abd7cf343c3f43516d25e3b787e96af38d12ebf4",
+      "date": "2007-12-15T01:23:05Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d98728e09132cfceea89436eb1a120cbe5a2219d",
+      "date": "2007-12-12T23:55:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "66e97c34c116bbf0e7b87802e81a9f7df0684b47",
+      "date": "2007-12-11T20:08:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "37b874bb4d5130e222224089fc77c5b58282da95",
+      "date": "2007-12-08T19:32:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d1c6349e5872bcf5ce7fa1adcac76476fbe6fa78",
+      "date": "2007-12-08T19:23:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b30de6039d85d5d8239b9fc500d88f56d52c8d8d",
+      "date": "2007-12-08T00:19:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4dcd4069f577e2105ea25929be1350fcefb9f71d",
+      "date": "2007-12-08T00:12:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "112ed3031671476d6aee3d0f69affe6c113e711f",
+      "date": "2007-12-04T05:30:28Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0a9bc591e78382b221ef5c2f463bac90564b9982",
+      "date": "2007-11-29T02:08:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "87e506da535118d77b58484a4e6e2d1cd9e13b53",
+      "date": "2007-11-26T03:59:23Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1af084ecda66a8e1b4eb3a51a07ebca85bf2e419",
+      "date": "2007-11-26T03:45:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bd5ed651105663cb4bc5acd86ad8bdf48251d0fe",
+      "date": "2007-11-26T03:36:28Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3d67860cae0898b248381075d98736ff77d671dd",
+      "date": "2007-11-26T03:35:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8afb4e136b2482e1e3826d3e00981b4b89680e1a",
+      "date": "2007-11-26T03:35:04Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "24e6cbc724b006ea4febb1948b921387e9021177",
+      "date": "2007-11-19T00:06:23Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3104291322b4f1834d342eef740c23427f36384d",
+      "date": "2007-11-11T01:03:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "49cb41270ae8db886987b8a3762d8e512d646ffa",
+      "date": "2007-11-11T01:01:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5dc3f91832fd8580287e5cbeba478bb8b9580dc1",
+      "date": "2007-11-09T14:59:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fcfcc707d4ae94441496d36e78a598914df3cebc",
+      "date": "2007-11-08T15:41:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f1b1af88b530c101dc4bf6157bbd1f9c39a670d7",
+      "date": "2007-11-08T05:29:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2a51c8682d44ee71a3c0411e2e30ef8ff29d6f67",
+      "date": "2007-11-06T14:24:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c708346688ee3cdd5583795ccd9b10590abd36b1",
+      "date": "2007-10-29T00:18:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "742694e0eb1abd049aa2a4eadbc7a93591c65db4",
+      "date": "2007-10-26T05:45:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d7aa32d5d04fc98730073523d429d9ce2547316a",
+      "date": "2007-10-26T05:32:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d5a93b6241b4df64f9656853d386eca96b6f6baf",
+      "date": "2007-10-26T04:48:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "34c125d774ed817d45bb11a5173f989ca16cc514",
+      "date": "2007-10-26T03:22:02Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7042163d7633c1d453bcbed127d42ea27da6b939",
+      "date": "2007-10-20T21:17:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c9fecf20ffb051ebc9270bfd787fd2964349d19a",
+      "date": "2007-10-20T17:30:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c1bc61cba0be6e5e830dae2f1497237f5ce3eb0d",
+      "date": "2007-10-14T05:32:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f56dd107cdecb3cbffa04c320b4c30317331143d",
+      "date": "2007-10-14T05:20:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5b2e8b1eb1731e987faa233dc03e83c221cfcda5",
+      "date": "2007-10-06T00:25:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "24c2457a26983c323f0c90d175c00453d853f3b6",
+      "date": "2007-10-05T19:27:33Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3dc62ab8f98eab37afbede3c93c3f0c210e37359",
+      "date": "2007-10-03T16:15:42Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "408f4964022a4ff47c24763af350c6d527855552",
+      "date": "2007-10-03T14:52:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "904df818d61b695a5f9508864137d13fffa22d15",
+      "date": "2007-10-03T05:47:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "66d05f5e2c7ac6b18220956fbcf34efcd32638fc",
+      "date": "2007-09-30T07:09:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "30a652ad41428b922b1ed637f491776f1f1dff13",
+      "date": "2007-09-30T06:47:20Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8c33359ce8531df65a03c21631232024c0868bf8",
+      "date": "2007-09-28T17:02:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "82ff27766d3edc3fb1d0d043841e9c3cd277744f",
+      "date": "2007-09-28T16:50:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "03f318718e460a553062a2bff4507c8c80725304",
+      "date": "2007-09-28T16:08:42Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5edc81dcc2e13bdce3da01745b0d1af654342aad",
+      "date": "2007-09-28T15:55:45Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "605aadb3cdba9f469e88c39c0cad7448d59a9f0c",
+      "date": "2007-09-24T18:11:59Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2c73115b2fd1c547a8cf543a41b8b8b9d04925e1",
+      "date": "2007-09-24T17:59:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2a60093fa35312e83aeaa3185ea0fc20f3ee50be",
+      "date": "2007-09-24T17:41:55Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c61900385452e50bd825f1ab5abef95bc969fadc",
+      "date": "2007-09-23T18:14:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "da0725aae3c08543dcc39446236a5a1fc55a9136",
+      "date": "2007-09-23T18:09:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4e3ed5bc44f6cd20c9e353ab63fd24b92a7942be",
+      "date": "2007-09-23T02:32:55Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2d02199e1581db8dc84361803950b1697f493fc0",
+      "date": "2007-09-23T00:11:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "51977bc261f83091a31c7f3d6f8dbd59cec1d2a3",
+      "date": "2007-09-04T17:32:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0fc77b3928546c09bd1fac40402289fd3730840b",
+      "date": "2007-08-20T13:48:13Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1a459e8e7d9f32e6c3a55153e8e1cfabef881839",
+      "date": "2007-08-20T01:12:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4954c77b69fcc6d3e7299682c010f0b7b44c54c3",
+      "date": "2007-08-15T21:12:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0127e586d05f3e8342744608315747da488642eb",
+      "date": "2007-08-15T18:59:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4b6411008675dbbfb7da4dfb6ef73c5528c196d1",
+      "date": "2007-08-03T00:34:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ea07212d9780841fbfb3368247ccc0b4bdee5bf5",
+      "date": "2007-07-25T13:05:58Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f5ea6f880f365c5383d029bddc917baa82e56d55",
+      "date": "2007-07-25T03:48:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d51e7f8252269492a511a9eb41f2832646a44248",
+      "date": "2007-07-25T03:09:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b49fcde7e50c8eb378e7b1ae08f65c70f6de20e4",
+      "date": "2007-07-25T03:05:55Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2d7afe4456551767f2a8f003aeba41329a259179",
+      "date": "2007-07-25T02:50:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bdcbfa9944abae475236c1559403c533b82392ff",
+      "date": "2007-07-25T02:47:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7de537dbf4cf99e2d85854fd6331a30604064656",
+      "date": "2007-07-24T04:10:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3029a76af32113676182f902ad4f91d82c2734de",
+      "date": "2007-07-20T00:10:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a41305640722f1328ff51ce61c98371d4b648213",
+      "date": "2007-07-17T20:16:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "872c5f4380ca348ff9ed19963e827289fb831fdf",
+      "date": "2007-07-16T20:26:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4ef5af8d4ddad82295920cc7d83fba6cbb10ad71",
+      "date": "2007-07-16T20:21:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f9b7394430f50c110b0f07d7e3c06d5b3d9b0f44",
+      "date": "2007-07-12T06:23:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a450e769f1c7f5c68799f570856d020863528d17",
+      "date": "2007-07-01T00:04:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9e4461438f8ce584b635aca35579c36537a340ca",
+      "date": "2007-06-21T15:07:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6af2cbca07821e66cc358a4105a54c78f1dde19b",
+      "date": "2007-06-18T23:57:00Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7f517348db260fb0794a3644f761ac91fe540472",
+      "date": "2007-06-15T23:52:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9d4225f1298bebacc04cc0055b180c6b2926c024",
+      "date": "2007-06-15T23:28:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b83efadb32fe55ba7a7d23d650a8adc1a351eab7",
+      "date": "2007-06-05T16:51:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ed1ed9ed97f7d30ba8221079365634aa9c4bf24c",
+      "date": "2007-06-05T14:09:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4d1c87a069d0e13347f28ff9ce4db2427efe18b1",
+      "date": "2007-06-01T17:14:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "32b307bc32e12626b0e6ae493cc3ab34b4c5ea37",
+      "date": "2007-05-29T09:42:13Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0345c975879e352a5726ff9f91258fdb3afe8525",
+      "date": "2007-05-29T09:10:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4472a30aadc35f8a9a67db8b0a2a7318c3a0dcfd",
+      "date": "2007-05-28T15:51:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cd599aad715679355d16caf3585901034fca5a87",
+      "date": "2007-05-27T07:38:09Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "04354cd4c278cffd4da6a5cf31f403aeb099d436",
+      "date": "2007-05-24T20:40:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c57c7210cd9216a72da8e9c7321d416ebfe1391e",
+      "date": "2007-05-24T20:39:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4b9e67c5b9d9f751d633c787d24a1491f3ef498e",
+      "date": "2007-05-24T16:42:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f6edfa3553b175e1fc619a086551c2fb27ff72a3",
+      "date": "2007-05-21T19:50:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "96bc3d224d42fdd75d104feadc8f93ae41209fcb",
+      "date": "2007-05-21T18:54:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ebf9b3737b9470c2fbedf39ac5cd5a4cba81afc1",
+      "date": "2007-05-15T06:36:34Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fa3618d3753b5591ed19d98d52c55716d814e34a",
+      "date": "2007-05-15T03:15:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "80074cb4de2e60cd771b76d396d61e5c4bc0aff6",
+      "date": "2007-05-15T03:13:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "08736788c906d2b05fe6c45e6922e594149c9b12",
+      "date": "2007-05-09T03:51:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0778464168960a830b806f66a200e86a163a5831",
+      "date": "2007-05-02T13:22:38Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8e8fd99d7f88f35f67d46d43eea693a67e61d7ec",
+      "date": "2007-04-29T04:46:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bd50d82f701c55d89b891ebd216ec84008b486c1",
+      "date": "2007-04-29T03:14:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b3c4e301f490be57677aa3137329522e572b1d0f",
+      "date": "2007-04-24T16:06:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2df386ad532d96f298d3322f57508ccaa85676aa",
+      "date": "2007-04-24T16:05:59Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "208d12d15d809391abee90242effd53e3f7e9821",
+      "date": "2007-04-24T16:05:20Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f86ff9fd525a25198d9c181ca496f000d9537075",
+      "date": "2007-04-24T01:26:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "eb7a3045e3035d7de35a43297a4f36255e4f178d",
+      "date": "2007-04-20T21:44:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "39ccb5e807eadfc9bf6ac780778aa1de4d09e196",
+      "date": "2007-04-15T18:01:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "596112dcf82d58fd3f10e875818e1a99c4a0575e",
+      "date": "2007-04-12T20:26:42Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6351e0a541698bdaca348ad78bc9f7b25f6d56d6",
+      "date": "2007-04-12T20:25:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f5b8fc0335d4f5e4e5a3c7d7e4dab14e449403cc",
+      "date": "2007-04-12T17:11:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4b08caf3300e7ba96e637075cfd4162ff70f6558",
+      "date": "2007-04-08T21:24:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ec4d407d4f0c696a8ee7faae03f0c5d260c2b3ee",
+      "date": "2007-04-08T18:29:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "da336c1cadb6f2ec279e9ed63f3b91535d4b774c",
+      "date": "2007-04-08T17:18:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e0f834267642c526299189916ad9c97318c1b121",
+      "date": "2007-04-08T17:16:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bdb1fcc3b8e0293f8b099111da2302fedf4fd513",
+      "date": "2007-04-08T16:53:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "142b074e9123f477ea8f93898690fc462fdcbf90",
+      "date": "2007-04-08T02:32:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "da6f5a1cb4ccabef8c5ae0cb56495c198844c4f8",
+      "date": "2007-04-02T00:02:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cf865196fec17d337640b4bca5cb16ca7c67f62f",
+      "date": "2007-04-01T22:29:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2a305949d756c054cee349c1ef3b39c6cf1496f8",
+      "date": "2007-03-27T14:04:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4b78a2a245cb69e958e3d62d4c0e6fcab2eb3e76",
+      "date": "2007-03-27T06:57:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c6d72608418989952dbb9a9b09d42c0eed74b9f1",
+      "date": "2007-03-22T10:12:34Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "42f8e3f611fa12b37793620ca2f7bd5c360631c8",
+      "date": "2007-03-13T05:38:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e3dab67c44ed047cc91ccfcc17c5ee2bb9997be3",
+      "date": "2007-03-13T05:23:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b7107d070ac5dc2260a571097028b288c1c49149",
+      "date": "2007-03-13T05:16:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2b7dbad8e081b1ce84a7262b1b0953254bf8f651",
+      "date": "2007-03-06T04:09:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "88876163f9fa830a846e9b97a8347248837b6613",
+      "date": "2007-02-27T03:15:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "81ae38580baca3a8203f97d6c5088cfb3bbba6a0",
+      "date": "2007-02-27T02:59:28Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ad9bacb189e82816bf333cdbae329f199a171c9f",
+      "date": "2007-02-24T22:36:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e312cc32152933d280ac8dac72d66485d28b24ba",
+      "date": "2007-02-15T16:40:38Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5d54b8f07cef29e932e164e23713a71274c78e49",
+      "date": "2007-02-15T16:25:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9f31ecb4c98fd4c50bb5e6624af2b4b866e96afd",
+      "date": "2007-02-06T03:58:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2782c37bdfbe22fcbc1feea7603bb2413beb6f22",
+      "date": "2007-02-05T05:39:23Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "38e5d21bc4078a73bf3f90e54e8df046f92e15b3",
+      "date": "2007-02-04T22:56:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f2f2686f97363652b8d38a6e67c27e555030ad4b",
+      "date": "2007-02-04T22:41:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "92195e68a02715d29ef9d4b3bf66409c014f7174",
+      "date": "2007-02-04T22:27:45Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "69b0e5c44a05fddcac996c7aaaca61cb3188da5e",
+      "date": "2007-02-04T20:47:05Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "19fbb31464da45ac0935b3db193305f18e245ba9",
+      "date": "2007-02-04T20:04:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4790228bc437c6c882bb2171a429979b37f52618",
+      "date": "2007-02-04T19:23:27Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7a49cb058f5a8345d55f321d6e6bd9dcac22519a",
+      "date": "2007-02-04T19:07:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0a454cd73e9644b154d72b573bc58451010f0e1a",
+      "date": "2007-02-04T18:33:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "334026151581caf90c1ecebec6eec3f466ebc0a7",
+      "date": "2007-02-04T18:20:04Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1a11bffde107bf5b2daa997a61133cc8a76445e0",
+      "date": "2007-01-28T01:31:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5e85a1c7f835249d276d6868a9520f803be46159",
+      "date": "2007-01-28T01:18:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "eca93d0970925a305c6ccc620df62aeb385938dc",
+      "date": "2007-01-28T00:47:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d5bd679340819d22c27d6074d01d05ba824c174c",
+      "date": "2007-01-24T03:04:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f49e449ed5d140b63f30ac046826f81c04e8333d",
+      "date": "2007-01-24T02:40:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "be7f86e37ac21585ad2621e2e0938c68a7a71360",
+      "date": "2007-01-23T05:32:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a44cee2549e04e6e586f0f9432d98bb2dd4e3625",
+      "date": "2007-01-23T05:27:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1bdb14bdd3cad4ae8850040d6d82c3c3c624f224",
+      "date": "2007-01-23T05:22:33Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f3f691eaf2ebf0452e634e68dfc3c0eac58d09f2",
+      "date": "2007-01-23T05:11:34Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8296c680d5f026b755ae1555933474d4be8c3377",
+      "date": "2007-01-23T05:10:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bc97a871387650fc3daac6fd8f9e92cbe70168db",
+      "date": "2007-01-23T05:07:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "37fa17f55aceea87e6ae825e45ecb266b67e94d7",
+      "date": "2007-01-23T05:01:05Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fcd73821c2d19adbcf7e595137e4ba25af0e2cde",
+      "date": "2007-01-17T06:51:59Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d2205ea5e9e45478f9391e5a6d9ad5767a9415ca",
+      "date": "2007-01-17T06:49:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "582c028b14bff4229eae5e45a2d4f886a5865ed3",
+      "date": "2007-01-17T06:46:02Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4733182e566c87f5f351340f759ac84a265eb151",
+      "date": "2007-01-17T06:28:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1ff84503b4a6f1da1cee125d5f872d760b159ba2",
+      "date": "2007-01-17T06:25:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "932e7b003ce77d9265e910cff63a17589b8c02a2",
+      "date": "2007-01-16T06:34:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "56c55354661fcadecb1927fb62fb9038d16e9be1",
+      "date": "2007-01-16T06:30:02Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "dd6826eba34769d2af45d45ef91e359cd64eeb00",
+      "date": "2007-01-12T20:54:04Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ba1225c72b7d139e2705461a08325ee1ea7c0cda",
+      "date": "2007-01-10T18:08:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "10d0fcd4ecdb6c9fc48d95c4ccac1cc7455aa707",
+      "date": "2007-01-08T04:09:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0727af86fccb249f361901540d2977c2180be930",
+      "date": "2007-01-08T01:07:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2228fdbbae81b4a78c3b5ce687cc670026044a90",
+      "date": "2007-01-05T20:59:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b51727aa496127810be66d665cf8c82a78a99b1a",
+      "date": "2007-01-05T20:46:34Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6c914d983e6bae7044bed1116d425fd28dbb3ed3",
+      "date": "2007-01-05T20:42:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "730c8e8391310330a175454cc73066979ee8b04c",
+      "date": "2007-01-05T20:32:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1400e7f864efa25ab8dc98930ace8a6e40414461",
+      "date": "2007-01-05T20:22:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "606376bd448a5d27cbcd5d23ad89a99d9d4fdb54",
+      "date": "2007-01-05T20:17:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f1b45df49ac392378502ba7994fb079fac473d03",
+      "date": "2007-01-05T20:12:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8219db5ee25342ae53bfdcc511b00058121ebb42",
+      "date": "2007-01-04T21:43:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1023bc6e8622e2d5c2683764d25f543d5e79a926",
+      "date": "2007-01-04T21:31:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "05aa57bc8439d5fa769cb8a486233c455f93857c",
+      "date": "2007-01-04T21:18:13Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1af2022cc32b604529a5ac3a85a3bd92a3c42936",
+      "date": "2007-01-02T05:36:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5cf118b1384bce266c76d3f4a12e761bbcb130ab",
+      "date": "2006-12-27T22:18:38Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "29ec023adde3bf174f4f256d1ca34b68c7a1502a",
+      "date": "2006-12-26T19:39:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ef1232c478691a5c58105435deb31cbd4c973f8b",
+      "date": "2006-12-25T09:35:20Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "64799454a2186596c70324db2958d0fc231d6f1b",
+      "date": "2006-12-25T09:34:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c6b4c8d240abbca0d1e62b3544fafda77c40de0c",
+      "date": "2006-12-25T09:01:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "32bc10d7df032747c463840f63c8adea7bbfda58",
+      "date": "2006-12-19T14:59:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e7c2c7982f25edcc359a3d6753bf41def1fc161e",
+      "date": "2006-12-19T04:41:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "41466a4c83e3e590b580d5d2cbc5869e601e7599",
+      "date": "2006-12-19T03:10:39Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d833645cd8609e50f56acaaa7e6dd85e3198a446",
+      "date": "2006-12-14T20:56:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "011f4e7413f1bde83aa62a5fc46afd6957ff9b3e",
+      "date": "2006-12-13T02:15:27Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "55d4dbb8df9b4e6e46d461352f97e35ba69b417e",
+      "date": "2006-12-12T15:29:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "90179a9ba5622075d150b4decfe9716e0424d380",
+      "date": "2006-12-07T16:31:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c49cd7f18afb7fdc116290416d744c152018bb6d",
+      "date": "2006-12-07T15:42:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d0fa4d3e3336df858b8aa03e0c67087ba0ee37cb",
+      "date": "2006-12-07T15:36:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5999fdd3f30c64e340b64be1a64aa16323c6c69e",
+      "date": "2006-11-19T21:12:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ca2d704c75121fa15fc7bed642139daf15039de3",
+      "date": "2006-11-19T21:01:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "510092c681a2cd9cc218d01b97b81525cba310c3",
+      "date": "2006-11-09T19:40:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d4e35666d12748998a236f165e78eeb61c69a02d",
+      "date": "2006-10-24T03:22:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f7c916ece661ac0d5936ca47f83ebfbf4852a8bb",
+      "date": "2006-10-24T03:06:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cfb7dea783e99c6bb10b35c34e6887d2ef159a43",
+      "date": "2006-10-22T23:48:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1d7196b55272d5f900a3080387319686e395b981",
+      "date": "2006-10-20T18:00:20Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "dbd0bd5e5c9946ffb48bf8651f81ebc6dd9b52e5",
+      "date": "2006-10-18T16:42:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "02358c83b76f9fc56b6cabaee24b244d17d08cff",
+      "date": "2006-10-18T15:58:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c5536f9f00c7ead30de8d3d2f12d6d8fe2b79a3c",
+      "date": "2006-10-16T15:42:55Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cdb5132c411db0a330e85ec9d2eb7fe543af7aff",
+      "date": "2006-10-15T16:37:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2c6b6e2866c89b8158811c649c5292eda5d24012",
+      "date": "2006-10-13T08:52:33Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e789b26e652d9f0ee6ca538615b8d570cb4c91b5",
+      "date": "2006-10-13T08:29:00Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ce1d14430f3ff5c8743541ce5f10b71a083f9c90",
+      "date": "2006-10-13T07:46:38Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "787049467341a75de469b58bcfe84f0959a2c3af",
+      "date": "2006-10-11T14:02:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "850087f0bd691568690ca9d3169c88c0f3ad7c3b",
+      "date": "2006-10-09T03:21:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4e66f5bfe79fc9a41575eecdd687367dd2b9d3b1",
+      "date": "2006-10-09T03:13:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c98b471ca46bb21491649d8ca56052e14a0d1bd7",
+      "date": "2006-10-09T03:12:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8e3bf70bcd496ae642fdae5ad7717ad8378de176",
+      "date": "2006-10-09T02:46:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "928c84b65b6d34ca9cbfd698c1c01f8517d54ee1",
+      "date": "2006-10-02T19:12:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "163a7123e5d68ebde0cb80685a9584662cdf4ad3",
+      "date": "2006-10-02T14:20:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3010e30f0ed9407e3d608e8bb4859f09cb52c14e",
+      "date": "2006-09-30T01:38:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "52547f53314a52de14d90befb90f4364d800671e",
+      "date": "2006-09-30T01:37:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7ac6ed893fbfe9b4d4ce0e0ef18c3fecfbd48ff4",
+      "date": "2006-09-29T16:25:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d6925b14fa2039ba2523c69e09f2ccad15e9016f",
+      "date": "2006-09-27T18:46:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e537de00d806368f21cc22bde118fb90c1b6fe2d",
+      "date": "2006-09-27T04:55:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4d63e01fa052749f742e90bcb3889cbae6152c92",
+      "date": "2006-09-20T19:31:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ec030534b1d4786cc953ee95c912a72f650f5338",
+      "date": "2006-09-18T16:32:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "55c6c64da0fbbfba74a0b4ad68022bf640a0a049",
+      "date": "2006-09-16T23:00:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6dbac689a8d7f285ccdb2e3fa2b2967d731475ab",
+      "date": "2006-09-14T17:50:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8d9e6609f8f67e55bba1f9bdbea62af22360dd3c",
+      "date": "2006-09-08T00:07:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5360e4743158c2a0eb91d73f1bcc954c2cb7f5e7",
+      "date": "2006-09-06T03:51:45Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d52cee3e3bb4c45bfd21d3f905e502fa00758def",
+      "date": "2006-09-04T18:55:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0c999f4125b04be552a3b7ed1ee7787d53d3a477",
+      "date": "2006-09-03T00:02:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ad63005cdd4260b225f097ebde4fa80a36f84729",
+      "date": "2006-09-02T20:43:29Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2b45e2d37093bd035085bddf0f3fa37192a25b5a",
+      "date": "2006-09-02T20:41:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "03de0cfe7ab281eda70f2cedd09659752e765acf",
+      "date": "2006-09-02T15:50:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e4a4287c971f6e61f59815988f5fc69176cb14de",
+      "date": "2006-09-01T16:09:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5f175edde59e65b991d84fe30cad2b102fc7347b",
+      "date": "2006-09-01T05:33:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7749c9c2200ad190e3f9935c27f09ec9b95227f2",
+      "date": "2006-09-01T01:15:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8c4b599b7c62b85069fa04533e8f06e5476f927a",
+      "date": "2006-08-13T18:31:58Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c963f8e955ca5a2d1cc668ee5fa1f7e5f1fba689",
+      "date": "2006-08-13T18:00:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "02021d89b1928e9869b0038afc08cb6b3e719014",
+      "date": "2006-08-11T23:38:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "69266a063bfa63408b0ea2453c699b7ad5531d86",
+      "date": "2006-08-09T16:54:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "651e57a72c2f53add43989c3aefa5ef843ed02a7",
+      "date": "2006-08-09T16:52:42Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "af7a6e57cd718a6ca2182bfb7ee441ad3c1158fb",
+      "date": "2006-08-09T02:24:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f06cae36524a579f3cd1f2ab78e0b5dd8361feab",
+      "date": "2006-08-09T00:11:28Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4679e1bf7f83b501f4a9507d530d4c707d16921f",
+      "date": "2006-08-09T00:02:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "94a1309194fa5962e33d395ede14e94b237c54f5",
+      "date": "2006-08-08T16:59:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c0657a9084825f7ca7b0277e5f07a7ae26b8a126",
+      "date": "2006-08-07T17:00:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a27ccf176564db7293fba115a7d05087611ae84b",
+      "date": "2006-08-06T16:33:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "000a8ed9c688afe167f1d4cd4b6327d350272444",
+      "date": "2006-08-06T02:40:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "26eefd79a4e9afefb3103d8332a1e7dc84ed49a1",
+      "date": "2006-08-06T02:12:53Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e8f0b1ddd97cfcefc32554a1a9447ec092c4d0ae",
+      "date": "2006-08-06T02:08:29Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "58b996f9b03668573fef2696d583ff04191a5fa7",
+      "date": "2006-08-01T03:02:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "78e37f45c64838b120699317068cf1950277897c",
+      "date": "2006-07-31T21:57:59Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ab0277f22005b9690393318ef9adf94d815c1611",
+      "date": "2006-07-31T21:06:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d2eafa8b736c2f300658925e70290fb3d996959b",
+      "date": "2006-07-31T20:32:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ed4c295c4782b534121b04a6bc10b9f440ffa8c6",
+      "date": "2006-07-31T20:00:18Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "efff453148b4bd2d35d91a3d8344a7bad56da7c3",
+      "date": "2006-07-30T16:16:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2e88b5d37feb5f0b1554e70dc18b9fbc67e68877",
+      "date": "2006-07-28T23:09:29Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "971e03f24e1121a2fe03beab23b0370a64fcfc37",
+      "date": "2006-07-24T04:55:16Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "04d9e94e88be0ba076b0fef980e8bde8e25061d9",
+      "date": "2006-07-22T02:31:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3a0159dd1e66a53d2ee39b3a3625998706cd8ae6",
+      "date": "2006-07-21T05:52:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "291adbd36181ab6766ea2d8f8c0f806c5d8ca422",
+      "date": "2006-07-20T00:34:09Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "101ebc996a241fab4adcbbaf6c8930dddde8d091",
+      "date": "2006-07-18T15:42:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9ac7afcf63efa70a5bf31b642654715eaffe8b90",
+      "date": "2006-07-17T19:17:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "1ec9f8d049eda0c52a3045752ed447f371462676",
+      "date": "2006-07-13T00:44:09Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c51f9fdc78d1732d6c08a6411ca9d2536aa86d6e",
+      "date": "2006-07-05T14:22:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a28817948dd41bdf921a0976d711e955d959dda2",
+      "date": "2006-06-21T02:19:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5525b79b636b39875d6cd4aa1386d8dec4beb6ce",
+      "date": "2006-06-21T02:18:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "53924078d09f8999fe1a2d0e52abf5fdeddc0f30",
+      "date": "2006-06-21T02:17:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6ba9a1eac1057c8accf242558e8896a7a6f21b32",
+      "date": "2006-06-21T02:16:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "441bba8091c5a73417003987361dbfc01d12aaa6",
+      "date": "2006-06-21T02:11:59Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ae0e1a0682c853d0cdc969a82cd23455b4d2ca3e",
+      "date": "2006-06-17T03:01:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2bbcff8cf4488c0f64bf5ac23e9b5a8eb13f07d5",
+      "date": "2006-06-17T00:25:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2f58a467e321871a1d16761b04e1a87a4052711d",
+      "date": "2006-06-16T03:22:09Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c638d9401b0e0b12af597919430cbdc6241a4057",
+      "date": "2006-06-12T16:07:58Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bdc1033d2068179946d1001393e6e01c132ff428",
+      "date": "2006-06-11T17:17:32Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cf6654318c7e3504adda57afaf52a846ef935013",
+      "date": "2006-06-09T02:08:26Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c9eb5a083f0cf120fe7c3c1e19ead5cfc777b1fe",
+      "date": "2006-06-01T22:01:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "05a17dc6b57e77171976a009b331511eae95200f",
+      "date": "2006-05-31T20:47:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cc88679c0c20d05f0fef2b9f8e38547ed8facbc4",
+      "date": "2006-05-29T04:22:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "06075a9eb5ddf255ed561bc4cdddef214d7c63aa",
+      "date": "2006-05-29T03:48:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ea51d72edb36737445834777f06664096066a0ba",
+      "date": "2006-05-28T21:33:34Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0b41d088dc1e6c84c3b8ff9f38368198e824bc87",
+      "date": "2006-05-23T14:16:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9bfcfa8d8f0e4bb76766d6329a3bbc4a697bec59",
+      "date": "2006-05-23T06:34:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "213992195d63ca8992676c1c51c276f9801c2d58",
+      "date": "2006-05-22T08:00:05Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "be3a4849a909545de444ef6d4f5751eea8a3ba1f",
+      "date": "2006-05-15T14:08:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "04ef7f4be6c26e35947f2dd3e4dfbd1eb73c9933",
+      "date": "2006-04-30T21:06:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "325cb1269cb2aa8e1abe7bc103db3cb47ae5eaf6",
+      "date": "2006-04-30T20:36:37Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "59bd6586c8e7e290187978f3868d435ee267006c",
+      "date": "2006-04-30T20:17:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "cd29c33616e1c54721a16bb79cf3d4fbb6d8f931",
+      "date": "2006-04-27T17:26:39Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f106e2c5c809ca355ce68a3e15718a17cd930680",
+      "date": "2006-04-25T18:53:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "11d6ce738d7bfd02a3b4baff21f9f956098a7cb4",
+      "date": "2006-04-25T05:51:12Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c61b10b62be9f57dd847242471b4a30da81f16d4",
+      "date": "2006-04-25T05:49:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4251662c1a4dbec8c69d4ab1b677950a0b4cfb58",
+      "date": "2006-04-25T05:25:04Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "51cd1aec00c182c6789f09f9bf40365934034bcd",
+      "date": "2006-04-25T03:54:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a9e02fd99fb2889fd25c20eeb5c0762e64d48719",
+      "date": "2006-04-23T19:13:16Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e1c7b5a7f6dc412f0e523265e47fffe7b77e9724",
+      "date": "2006-04-23T18:18:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3900b36896f4e199eabd768e2df0e7b81c8071ad",
+      "date": "2006-04-23T18:16:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7bd6923c7f7f36fa1945a6a964f275cf692a722e",
+      "date": "2006-04-22T18:12:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "92bd54ea1902cd8477295f0ca50598ad3a0f9d97",
+      "date": "2006-04-22T15:17:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "526c69b49e36892af3ad7833e479de0a0fa6f278",
+      "date": "2006-04-22T15:08:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ed02f415d766467b3ec9acf803774b1fc239c492",
+      "date": "2006-04-22T04:59:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2cbb5fb176f12badcc408b6fe142475e7df554f7",
+      "date": "2006-04-20T02:41:05Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b00e61aa08f34eaf6774e53f1da16410595c2153",
+      "date": "2006-04-19T21:41:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "df7b74668ebc0ae9978d4c27125db7fec730b110",
+      "date": "2006-04-19T21:37:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2a2afca0955fa43a0796d727399f30a2c09bfc5d",
+      "date": "2006-04-19T14:50:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5ea76fab87f0374e5fe8ea65f8c1cfe42fa2c74e",
+      "date": "2006-04-18T22:24:03Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "32f66f09dbcd44f2edbbacbd23d0a9d0aa60b917",
+      "date": "2006-04-14T14:14:19Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "bdb2a2f1cb645a5dfde2de3b03f0f22b54b8b5d0",
+      "date": "2006-04-12T20:42:13Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7e76740d2a5ee14b308c7e40f9c95354d19f6189",
+      "date": "2006-04-11T01:10:42Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9466211d42ce7ecd921ef6804e77d199e1677d89",
+      "date": "2006-04-06T20:10:44Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9935a3561e0bc9f356b8c0213cec65fc853fd7d6",
+      "date": "2006-04-06T15:31:41Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "52d298a8bd5800d9149b0b288bd8a929110b5260",
+      "date": "2006-04-06T15:23:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "31d8169e3ecb0a63db3a3bd6130f5d8bbcd0f39a",
+      "date": "2006-04-06T04:16:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "58c435a3caebbe31c02e80c8f32840f0daa57d68",
+      "date": "2006-04-05T17:11:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a9fb1544b0e7e6412e4cb64702585024e24276bf",
+      "date": "2006-04-05T17:01:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4d232025b7260834dc4a4403b2b9effd043215c4",
+      "date": "2006-04-05T15:36:02Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b818cd921613e41df2685d77949eb9d4fe98680b",
+      "date": "2006-04-04T13:14:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "db7fadd7300e07bac343ff7b9d2056fe8b37475f",
+      "date": "2006-04-03T16:09:47Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a3f20132dbdedefd1d0ac6c419df7d0af0dff638",
+      "date": "2006-04-01T23:15:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "58dd49a7ae13471b8f8e359286307853bfc22529",
+      "date": "2006-03-30T19:25:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f630403021f425b0f8f57517e853f1b0083c1276",
+      "date": "2006-03-28T04:12:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2597bd6970c394445e7256c1fb9058538422665b",
+      "date": "2006-03-28T04:01:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ed6c3c17f79bd4b5ad91e2473193551e3441769e",
+      "date": "2006-03-27T08:09:36Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3f496c66384160ba8eedd8f0e04aca4c9161aedb",
+      "date": "2006-03-27T02:24:47Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "666537572d689c81eef7590f7ff3a146f3a82b29",
+      "date": "2006-03-26T20:21:27Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4238666627a6b319c19f22ee279d15284ed5f245",
+      "date": "2006-03-26T19:45:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a5991d849175c2ae9b803486f61b610fad9fd87e",
+      "date": "2006-03-26T04:13:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "56af14d5aaa0f052d0abe0e06f60b23167c869ff",
+      "date": "2006-03-26T04:08:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6636eb16c56a8a44be8fb3ec005cfca52b0b5b4c",
+      "date": "2006-03-26T00:36:55Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ef1297d896f6ee12b8d6d31d44d2a45f61f1a667",
+      "date": "2006-03-24T14:56:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "38bae0a9695aeaf200b5d62cee2dba2928c847d9",
+      "date": "2006-03-24T14:46:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ed10f873a17dacb60f503102a023233b9589f598",
+      "date": "2006-03-23T06:01:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f50a95819b4d220d56c07294c7b9700d0bf48b4e",
+      "date": "2006-03-22T01:03:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "6fbf40823851c9f99c86c1287af0cfca725776e0",
+      "date": "2006-03-21T16:33:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c8470f8a5b74eefd498397a8effdf37b4dc28674",
+      "date": "2006-03-21T01:07:16Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "30c42b21b32132e53f5ec9129f042a797e4956cd",
+      "date": "2006-03-20T05:45:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a4f1262ac5e55b3b373b5519f252aa8462d576fd",
+      "date": "2006-03-20T04:33:13Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "afde9943eaec9c7370c2638316128e236222df82",
+      "date": "2006-03-20T03:39:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "f49ba114dbb330c1865682c111a9ba372cb40bda",
+      "date": "2006-03-19T19:40:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a6cfb4e0e4209e06b4ba561b688ee2c3b942e3dd",
+      "date": "2006-03-19T19:38:38Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9a72cd22cf427754a30af409c4651da2017296a8",
+      "date": "2006-03-19T19:32:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "753010ac39f5442c92ec0bdd7484f0fd72ad8ac0",
+      "date": "2006-03-19T17:42:51Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8196e8e72315386b44f38f9f893a960235114bdf",
+      "date": "2006-03-19T17:19:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ea25e246e0ac796446f025bb369076adbcb390ab",
+      "date": "2006-03-19T16:13:52Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fcd4c9529c071d3c77cbf57fe733869da0d3fde8",
+      "date": "2006-03-19T07:14:48Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "639ce3b21d92208c3ce7510f32d823219b69c4ec",
+      "date": "2006-03-19T04:30:10Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "891a962a192bdd7eb0402b41e11a5e5657fe961c",
+      "date": "2006-03-19T03:50:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9038303af0a634a3ac9ae8234d121a1815960d2e",
+      "date": "2006-03-19T03:08:04Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9412c0531d53c8070ab0787a00ceb0782736d8d2",
+      "date": "2006-03-19T03:05:21Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0925c6b6a06dd9fb5599d24ec9c2f4e11282bc12",
+      "date": "2006-03-19T02:01:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "eb1ae042bd1b32841249fcc9c240c2e2a4161c6f",
+      "date": "2006-03-19T00:55:56Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "57af961a80ee01d1876dfc50d93544906a995617",
+      "date": "2006-03-19T00:53:24Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "9c9069a67595f620f80eabc475181cb36a26cdde",
+      "date": "2006-03-18T23:14:31Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fbd1e01bd6ca1b093811b0781d85f53850df12e3",
+      "date": "2006-03-18T22:38:49Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "50103b86e6f5e6aa82448d6bfdafeac34e0c8caa",
+      "date": "2006-03-18T18:01:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ddce0ae5257c2714e603e301846e6bd4800e07b8",
+      "date": "2006-03-18T07:36:50Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "229c0f4367be3c766886d75b51e3c15ee8916fc2",
+      "date": "2006-03-18T07:31:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "263479b5a344e5882f4941e3f18faf9f027b0615",
+      "date": "2006-03-18T05:43:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "17e1f7b3547600964204d06df37c33a540e7f699",
+      "date": "2006-03-16T06:38:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "ee1ae44e0e8229084469f06a6038642993d9f76a",
+      "date": "2006-03-16T06:22:30Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a3502c419e621c6abac2a9e047e42a582fd80769",
+      "date": "2006-03-16T06:17:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fd87a787101e4b58249bf953ada756b992dff5f5",
+      "date": "2006-03-16T05:21:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "02d34440cf0713479ec26332bcfc004f343685ab",
+      "date": "2006-03-16T04:18:12Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "a0c459bca7a22b6c62760ef213147475823dcea0",
+      "date": "2006-03-16T03:24:40Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e74ec90a073257b91b1760c6e05fbc632d514ca4",
+      "date": "2006-03-16T02:55:38Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "def746030c20697f2c4376515169eeda2f6332b4",
+      "date": "2006-03-16T02:46:01Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "0859779d6f1cadfec12f1112c80382658466ab7d",
+      "date": "2006-03-16T02:10:11Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "fa4fb50186cb80e824ce1a6a91bde2c2870628de",
+      "date": "2006-03-15T03:50:47Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "4965a754d5c9bfde332398c653e003c749e62cf9",
+      "date": "2006-03-14T15:15:06Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "796a43dead8ebf2fb9d28a25cb90e83c9baab4a0",
+      "date": "2006-03-14T14:59:14Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "47ffc04621c4ce5cbf491091d3680e8e34e674b7",
+      "date": "2006-03-08T16:54:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "e320f28945290b527a5634ea473b5a8543d5ab0a",
+      "date": "2006-03-08T14:33:07Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "043bee3338c83b0c409b5217d2f83aa732c0871a",
+      "date": "2006-03-08T05:21:27Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3c78d0b1ebfa87dfb80b8ac005554ece49cf2e34",
+      "date": "2006-03-08T03:28:25Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "31a499ac2713e3fbacda32de037f4af419152658",
+      "date": "2006-03-07T07:27:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "2383a60443244dedd4b8708a2ecac922dcffc786",
+      "date": "2006-03-06T23:03:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "7c4b7affdbd648261f039343c348220287847446",
+      "date": "2006-03-06T16:00:46Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "c58dff1c9cbdd45df8685e230d1dc91cf1deb6cf",
+      "date": "2006-03-06T04:47:58Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5a7722de98bcf4ad932cf2ec15faa47d1d431457",
+      "date": "2006-03-05T23:41:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 111232,
+      "date": "2010-01-16T13:00:35Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 143790,
+      "date": "2010-02-24T15:59:22Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 143794,
+      "date": "2010-02-24T16:00:33Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 143796,
+      "date": "2010-02-24T16:01:15Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 143797,
+      "date": "2010-02-24T16:01:43Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 143799,
+      "date": "2010-02-24T16:04:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 216006,
+      "date": "2010-04-21T14:40:08Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 377233,
+      "date": "2010-08-29T09:42:26Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 633802,
+      "date": "2010-12-24T14:44:17Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4629905,
+      "date": "2012-03-21T23:55:54Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5650954,
+      "date": "2012-05-11T13:49:05Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 13626,
+      "date": "2014-01-07T23:59:57Z"
+    },
+    {
+      "dev_id": "technoweenie",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 5526,
+      "date": "2012-03-20T17:44:46Z"
+    },
+    {
+      "dev_id": "bryan-ash",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "aee09f882a2eefba2bbecc0275c79b02a27a029a",
+      "date": "2009-02-20T13:54:23Z"
+    },
+    {
+      "dev_id": "bryan-ash",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "e0a96da19a77a7accf98bd6291c8ac4d3300aa24",
+      "date": "2009-01-12T03:40:44Z"
+    },
+    {
+      "dev_id": "bryan-ash",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "dada879ae7b4ff77d5f5825056e7d1ba7601a033",
+      "date": "2009-01-12T03:26:27Z"
+    },
+    {
+      "dev_id": "bryan-ash",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "2f7136a08fc6fb19fae7228074664e85f876e331",
+      "date": "2009-01-12T03:14:57Z"
+    },
+    {
+      "dev_id": "bryan-ash",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5a43908c7414996354ca427354d98d789e0210e7",
+      "date": "2009-01-13T20:42:43Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "552c14a0149d779e3592b79100bc54bf24ab3a87",
+      "date": "2010-08-04T10:32:35Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "f1a1aad1ba5c267db4b138ee12766bb6c521aa08",
+      "date": "2010-07-20T21:23:28Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "52d71a87a66908e4efd86278cdb8d049dc78b371",
+      "date": "2010-07-20T21:06:14Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "c5684287fb030ab1a32be6e18dac4917ba0ff46c",
+      "date": "2010-07-20T21:05:32Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "c2b8481eba0c1b0fa05826e83520f37a30a969bb",
+      "date": "2010-07-20T21:04:13Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "764e06598465991975d78d05010bddf63829a610",
+      "date": "2010-07-20T21:02:44Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "a8d2f2ebfc901f42a775084d049cff100708a2e3",
+      "date": "2010-07-20T21:01:40Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "9043cf5828602a83eec29760cd224e37fc69e832",
+      "date": "2010-07-20T20:52:04Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "e172b094f043fe2ebfa24f2b98b8ad59f66d8209",
+      "date": "2010-07-20T21:23:28Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "8a3baa86a172b7611c96fef5fa72bd0f724b9e58",
+      "date": "2010-07-20T21:06:14Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "60e2f5072af64717078cd700a195af9969e473af",
+      "date": "2010-07-20T21:05:32Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "c6a3bbdc1d9c705a71d9078a6d70a6fa13f3a316",
+      "date": "2010-07-20T21:04:13Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "cf7a63b9b34e479542dd7a5b6d762b3b5e75f9c0",
+      "date": "2010-07-20T21:02:44Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "593bed38e82236258d124d3232fa16c26cc99a2b",
+      "date": "2010-07-20T21:01:40Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "technoweenie/restful-authentication",
+      "type": "commit",
+      "id": "d8dd366d0fb8068bcd853789024a82f91c051dd2",
+      "date": "2010-07-20T20:52:04Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3034425,
+      "date": "2011-12-06T16:23:55Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3045451,
+      "date": "2011-12-07T10:14:26Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 4355045,
+      "date": "2012-03-06T20:57:19Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5026091,
+      "date": "2012-04-09T14:35:13Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5044753,
+      "date": "2012-04-10T12:38:33Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5400956,
+      "date": "2012-04-28T22:51:03Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5401026,
+      "date": "2012-04-28T23:02:32Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5401126,
+      "date": "2012-04-28T23:20:06Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 5404043,
+      "date": "2012-04-29T10:29:22Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 15255,
+      "date": "2014-05-22T18:41:05Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 3855,
+      "date": "2011-12-05T00:49:47Z"
+    },
+    {
+      "dev_id": "Dorian",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 3377,
+      "date": "2011-10-20T11:46:23Z"
+    },
+    {
+      "dev_id": "mikeycgto",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 7915,
+      "date": "2009-05-11T14:05:30Z"
+    },
+    {
+      "dev_id": "mikeycgto",
+      "repo": "technoweenie/restful-authentication",
+      "type": "com",
+      "id": 7919,
+      "date": "2009-05-11T14:15:15Z"
+    },
+    {
+      "dev_id": "mikeycgto",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3073634,
+      "date": "2011-12-09T00:50:21Z"
+    },
+    {
+      "dev_id": "mikeycgto",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 9408,
+      "date": "2013-02-25T02:49:30Z"
+    },
+    {
+      "dev_id": "mikeycgto",
+      "repo": "technoweenie/restful-authentication",
+      "type": "issue",
+      "id": 1,
+      "date": "2009-05-07T14:45:13Z"
+    }
+  ]
+}

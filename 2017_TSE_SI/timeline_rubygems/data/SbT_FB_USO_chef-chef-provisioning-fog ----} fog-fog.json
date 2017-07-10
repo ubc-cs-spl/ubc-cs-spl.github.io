@@ -1,0 +1,2894 @@
+{
+  "user_repo": "chef/chef-provisioning-fog",
+  "dep_repo": "fog/fog",
+  "dep_date": "2014-04-04 19:52:30 UTC",
+  "dep_commit_id": "33084203645dde8e79471c6f6cab6a538e662079",
+  "social_date": "2011-04-03 04:26:37 UTC",
+  "devs": [
+    "hh",
+    "jjasghar",
+    "thom_may@external.mckinsey.com",
+    "jkeiser",
+    "thommay",
+    "marcusn"
+  ],
+  "interactions": [
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "1f8fc7755804c898f176274bf381d69a70ca24c7",
+      "date": "2015-06-24T18:49:43Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "30dbc39796499f380c906a0e2879c6dfebcebdff",
+      "date": "2015-06-23T21:14:08Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "04eaa4ab52207f1ea96109c5fc04878a04d9d47a",
+      "date": "2015-06-23T16:11:30Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "529385e7cc6fbf059e1050db0d6ed0a5813f1baf",
+      "date": "2014-09-09T19:58:13Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "3cfb5e287d780ff026a7e808701c2f399a4dc2b0",
+      "date": "2015-03-05T23:33:03Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "3ab6faa111b085887f8bee756d7d46abf575e627",
+      "date": "2014-11-06T21:08:24Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "e4fe6038e6911ac67dae9b277984324855c2565c",
+      "date": "2014-11-05T23:33:17Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 55025021,
+      "date": "2014-09-09T20:03:40Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 77226036,
+      "date": "2015-03-04T19:20:11Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 138360273,
+      "date": "2015-09-07T19:07:22Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 139322642,
+      "date": "2015-09-10T17:46:01Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145555210,
+      "date": "2015-10-05T14:50:44Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152050113,
+      "date": "2015-10-29T01:55:08Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152062136,
+      "date": "2015-10-29T03:12:58Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152062282,
+      "date": "2015-10-29T03:14:32Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152062545,
+      "date": "2015-10-29T03:17:39Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152062678,
+      "date": "2015-10-29T03:19:12Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152063266,
+      "date": "2015-10-29T03:24:34Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152074850,
+      "date": "2015-10-29T04:45:34Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152074918,
+      "date": "2015-10-29T04:46:25Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152188977,
+      "date": "2015-10-29T13:58:08Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152194810,
+      "date": "2015-10-29T14:20:06Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 12446601,
+      "date": "2013-01-19T00:04:21Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 59420616,
+      "date": "2014-10-16T19:58:10Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 61864270,
+      "date": "2014-11-05T19:15:51Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 61904464,
+      "date": "2014-11-05T23:54:55Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 61928160,
+      "date": "2014-11-06T05:07:00Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 62054559,
+      "date": "2014-11-06T21:29:07Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 138362021,
+      "date": "2015-09-07T19:12:28Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 139,
+      "date": "2015-10-29T04:44:34Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 110,
+      "date": "2015-06-23T21:16:52Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 107,
+      "date": "2015-06-22T20:25:12Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 91,
+      "date": "2015-03-04T18:45:15Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 51,
+      "date": "2014-09-09T20:01:27Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3608,
+      "date": "2015-06-24T15:52:36Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3473,
+      "date": "2015-03-05T23:33:26Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3249,
+      "date": "2014-11-06T21:12:11Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3243,
+      "date": "2014-11-05T23:51:57Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3237,
+      "date": "2014-11-04T06:34:35Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "issue",
+      "id": 140,
+      "date": "2015-10-29T14:19:32Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "issue",
+      "id": 119,
+      "date": "2015-08-31T17:09:56Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "issue",
+      "id": 90,
+      "date": "2015-03-04T18:31:00Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 3739,
+      "date": "2015-10-29T04:43:32Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 1487,
+      "date": "2013-01-19T00:04:07Z"
+    },
+    {
+      "dev_id": "hh",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 245,
+      "date": "2011-04-03T04:26:37Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ed21f30d66bc81380760a1a2630e312f8e546cbd",
+      "date": "2015-10-29T00:43:19Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f4b9b36722a5d1418e8433e5cbc14338e2d78f76",
+      "date": "2015-10-29T00:19:47Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "899f98f085137bb5e924074983feee1cf9e9976f",
+      "date": "2015-10-29T00:13:06Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ace753f29d150cb2cc2f1e572d88c8c261c9b959",
+      "date": "2015-10-29T00:10:32Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "b551d75d991c80e654ba4d16516deaf6f6609864",
+      "date": "2015-10-21T22:17:18Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "8e345cfe44748dfac9d9cf7b4a41fbc70b6d8c1a",
+      "date": "2015-10-21T22:28:46Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "365d9699c7855eb0e535ddeb5d720d71b428cd73",
+      "date": "2015-10-21T17:14:43Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "2d1c5c5ae01d8393aeb40bb50cb3063e050181df",
+      "date": "2015-10-12T22:57:26Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "903f788e42ea15663fe721d0f8efce7ffd77733d",
+      "date": "2015-10-12T20:47:06Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "e9003fc916e2fe9de53d5d06dad40f0388d97368",
+      "date": "2015-10-12T18:34:41Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ac47f499dc523ddb9b537b721a346275474a2773",
+      "date": "2015-10-04T17:27:58Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c63b013b13644c6b028f961ebd6cc331be00dfea",
+      "date": "2015-10-01T21:32:28Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "5f2bbf37659e251bfbe233b5139cff14d3b09339",
+      "date": "2015-09-29T22:05:02Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c639c4272665d5265086d5eefc0d301666f6a79a",
+      "date": "2015-09-28T20:22:47Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ee4e5fdfeb58c59e4f14e88324f98cab2b32b257",
+      "date": "2015-09-25T20:17:22Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "2578d9711f7cf0d72cca868d1f84998c5be54bb2",
+      "date": "2014-10-09T15:40:13Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "f7bbf3d40a65fde92bf704468df0b45c9d3f4834",
+      "date": "2014-09-24T18:39:39Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 96781465,
+      "date": "2015-04-27T19:03:25Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 96782566,
+      "date": "2015-04-27T19:07:39Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 143864522,
+      "date": "2015-09-28T20:26:19Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 144103072,
+      "date": "2015-09-29T15:59:34Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 144157160,
+      "date": "2015-09-29T19:01:08Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 144157564,
+      "date": "2015-09-29T19:02:52Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145367901,
+      "date": "2015-10-04T17:27:55Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145368157,
+      "date": "2015-10-04T17:33:11Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145368187,
+      "date": "2015-10-04T17:33:55Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145368300,
+      "date": "2015-10-04T17:35:48Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145368399,
+      "date": "2015-10-04T17:37:50Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145368608,
+      "date": "2015-10-04T17:42:17Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145368873,
+      "date": "2015-10-04T17:45:36Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 145552508,
+      "date": "2015-10-05T14:45:04Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 147486566,
+      "date": "2015-10-12T18:36:16Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 147808862,
+      "date": "2015-10-13T18:44:15Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 149965068,
+      "date": "2015-10-21T17:09:15Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 151674759,
+      "date": "2015-10-27T23:30:34Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152022709,
+      "date": "2015-10-28T22:57:01Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152051914,
+      "date": "2015-10-29T02:08:31Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 152075854,
+      "date": "2015-10-29T04:55:46Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 155236656,
+      "date": "2015-11-09T23:52:58Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 156272387,
+      "date": "2015-11-12T23:41:40Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 56729650,
+      "date": "2014-09-24T20:02:27Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 57666796,
+      "date": "2014-10-02T17:30:15Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 58058277,
+      "date": "2014-10-06T17:50:42Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 138,
+      "date": "2015-10-29T00:20:45Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 136,
+      "date": "2015-10-21T22:19:47Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 135,
+      "date": "2015-10-21T17:14:47Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 134,
+      "date": "2015-10-12T20:48:11Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 133,
+      "date": "2015-10-12T18:36:00Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 126,
+      "date": "2015-09-28T20:23:44Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 125,
+      "date": "2015-09-25T20:20:22Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3192,
+      "date": "2014-10-09T15:41:03Z"
+    },
+    {
+      "dev_id": "jjasghar",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3178,
+      "date": "2014-09-24T18:42:33Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "eb60dc3ec7444e0f7ae08cc8bb9c719baa99550e",
+      "date": "2014-06-17T14:26:40Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "99f4acb9dcb4be7d08e3785fc8775ceea98cc1bd",
+      "date": "2014-06-17T12:42:22Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ae0540d406a138c33bc0c6392462ce1f1b19e9d8",
+      "date": "2014-06-16T18:12:35Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ebc499b1d23e2f71d6a4977ab1417f8a02b58379",
+      "date": "2014-06-16T18:01:34Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "1c260fb93d294583ac393e5d666935fc73398d74",
+      "date": "2014-06-16T17:59:59Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "d6f7293cb9ec135342c8ea6cc4e9e49bc07c76fc",
+      "date": "2014-06-16T17:54:24Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "20c26b4b1e7525093baa4c6adbdb8b8945438b0b",
+      "date": "2014-06-16T17:49:31Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "249f0e4d63b10e4a4ec621c25d2e4b179257099f",
+      "date": "2014-06-13T12:11:30Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "db15d5384786270c0451c6e417dd9ce94b8b7a1e",
+      "date": "2014-06-13T12:09:04Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "05ba6eb546ad31190da1194614088305afb321a1",
+      "date": "2014-06-13T09:39:51Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "2976a35cf19a83e7c576df6366ad6a8afa18cd2b",
+      "date": "2014-06-13T07:48:52Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "6a5fffa29e460765ce0b6b5af65b2c4be89e718b",
+      "date": "2014-06-11T16:45:08Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "996608a9fa1a549d1c02437e0175519ba24f7cf9",
+      "date": "2014-06-11T16:37:57Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c6d6094748efb0dadaa8a493b1b069abb7e24d5b",
+      "date": "2014-06-11T16:37:36Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c9c9402e29e441ffd67f1623f7097eb9f7af49b2",
+      "date": "2014-06-11T16:36:54Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c674ea99c8924c36586456aebb4f7c3f674e9e8a",
+      "date": "2014-06-11T16:30:50Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "b0f468454b1a1fe6f6f4fb2f5355feb4d06be860",
+      "date": "2014-06-11T16:24:13Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "26206117055b71320b2024f6a623aeb7e548ade3",
+      "date": "2014-06-11T15:59:45Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "95804d1ffd6e92ae35a6a188cbd99445d6fbcb41",
+      "date": "2014-06-11T15:58:08Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a13ab5d46010b993ef20e3fbaeb2ecadd48522b5",
+      "date": "2014-06-11T15:57:31Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "8fbc5071465eb081bc24dfa6bcf526f52ec1e43c",
+      "date": "2014-06-11T15:55:27Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "76334ea60da93157813e94cd13d03c259eb92668",
+      "date": "2014-06-11T15:54:13Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "356a641caa790796bd34c0ecd8496dbcbfd38b14",
+      "date": "2014-06-11T15:49:59Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "80343262d49883dfa1f78dc439b80f7cb1b1296d",
+      "date": "2014-06-10T11:34:22Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "de1bf9ddf8ff3936d6cb2b8366d75e407cb384ec",
+      "date": "2014-06-05T12:58:21Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "66f32a33be680542df5b24c9aac50d36387cdfbd",
+      "date": "2014-06-04T16:58:26Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "187456089927b113b81620815ce8cc75ddb8e413",
+      "date": "2014-06-04T16:58:15Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a68e04ad9348969c94bb5c1d53cb31d241deca3d",
+      "date": "2014-06-04T15:25:35Z"
+    },
+    {
+      "dev_id": "thom_may@external.mckinsey.com",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "0aa72c23fef5ead31d7c7c84e83505fb6e92bef2",
+      "date": "2014-08-26T14:13:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "d61d80d008e60c93611fb1e65fd1f66402b66b93",
+      "date": "2015-09-30T22:05:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "7ea17f167c1ef28cc417f1665594835a3aade554",
+      "date": "2015-04-02T23:37:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "db3dedd9512eadf6ea0456c8ba11cea9fb7f4a7e",
+      "date": "2015-03-06T05:23:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "553246ed8816654dda43d4fb8840461445d3d730",
+      "date": "2015-03-06T05:21:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c8df0ed605dbb2cf80ddb7c384a79378d3b6d5ab",
+      "date": "2015-03-03T15:51:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "d3c3f244155c6aa140bd29c00c59c65248bc2d1b",
+      "date": "2015-02-26T06:26:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "1320f7fe03fcd30d79c80b9af0a7b6b7ecfc77fb",
+      "date": "2015-02-26T04:19:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "930eb79586b67b4dd0946cd9e20e333ec6f688c4",
+      "date": "2015-02-20T18:06:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "63d14302cbaaa4e327db0cbee56b62e4dcd16ed3",
+      "date": "2015-02-20T17:43:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "e3e315a8cf8abdb68c8d0e3e27ba4693dc957a4f",
+      "date": "2015-01-27T20:01:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f87078e3d0348e20456492cc0f81bc1a3302974a",
+      "date": "2015-01-15T19:33:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "fd67a4eb48f96c852fd47b9045232fdf53a9b2a1",
+      "date": "2014-11-05T17:11:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "7cda269333b1c46a83eea9a5d75b0fd0202020f5",
+      "date": "2014-11-04T23:25:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "9563a3fe2a2531bafa5877b1fef223a323a1b014",
+      "date": "2014-10-31T23:41:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "244893594acd00fc90d5a6976c30f95726581694",
+      "date": "2014-10-31T23:07:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "7f497733e3c9534adda0baceb6c4610208ac2f60",
+      "date": "2014-10-29T21:18:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "42bc08c5578010923b60661a5c1d293bd54a2b6b",
+      "date": "2014-10-31T16:10:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "09e52d37b567cdf0d6051c513affacbfd8bad3b8",
+      "date": "2014-10-31T16:05:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "1ee88488a6fa6eff66ebf84c7be781d6d201baf8",
+      "date": "2014-09-10T17:01:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "120eade1002130ded284485484d728a7bf295806",
+      "date": "2014-09-05T22:59:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "fba6f1f703764114b17ec9ab2d1f0f981e1a3489",
+      "date": "2014-09-05T22:38:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "637804f4631f59ac340478b1868484aa409d26c0",
+      "date": "2014-09-05T22:37:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "2b356cbd25d25573d5ac6d677168d651b85b3c5f",
+      "date": "2014-09-04T23:01:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "74d44ecae0f1087f52d2275a06620e83790f209e",
+      "date": "2014-09-03T19:51:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "9223b6112a5261bf17924705fe05e2cea2449d66",
+      "date": "2014-09-03T19:44:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "69c69a0cb611fedb6b428c9f4bf617aa95d1b2b9",
+      "date": "2014-08-21T21:10:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "1483704f048358f1ad22a8784d31372afba17bd6",
+      "date": "2014-08-19T15:56:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "aa3f73d20c1dc28f9988fcc4e471429c90c1a0d3",
+      "date": "2014-08-18T23:41:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "647fc3d771b5316a2e9f56969bd566c73a1abc82",
+      "date": "2014-08-18T22:10:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "5a31ffb79edd57ce0072edb0845382fb626a4151",
+      "date": "2014-08-18T21:25:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "cf179578e849c9826c21cdfa380398d9ee356b35",
+      "date": "2014-08-18T20:46:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a11386a4a2073eba8f807e71320815faddf9f8d7",
+      "date": "2014-07-19T22:56:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "79beee2829a687f6b01701973e590e661ea1a6fc",
+      "date": "2014-07-15T17:28:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "883e09db39d71b31bc883a420991bb4e6237dac8",
+      "date": "2014-07-15T14:57:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "16ce22054bc31224ff14cfdfa0ce73536e021e1e",
+      "date": "2014-07-08T21:01:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "7267f9667f5888092689274b4803fbc3f23af2ab",
+      "date": "2014-07-08T20:57:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "62aa40b0da7676335150c79ef90b03dd86036c20",
+      "date": "2014-07-08T20:51:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "efed94a7bd81080e56049646f694c13100086f49",
+      "date": "2014-07-02T15:23:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "97d9e50b3aa2a1a03fa8ee39e33a557e81deee5b",
+      "date": "2014-07-01T18:04:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "5d282b80e8d2e4a0673b786dcf13751fdbccbc80",
+      "date": "2014-06-27T04:36:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "b823d83f7cec67e6aabc26592872c4016e3aa1ad",
+      "date": "2014-06-26T17:19:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "8615bd0208467bbf346ccbac7582e55d31990f5b",
+      "date": "2014-06-18T22:05:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "7f7a713ca804b28a771de583ae12cbc77ef34aaa",
+      "date": "2014-06-18T22:04:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "befeb4402741d02062aa0804733958488dc379b2",
+      "date": "2014-06-18T22:03:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c2fd1be84efbdfb09743c811d7620d1d905d9078",
+      "date": "2014-06-18T20:34:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ec3c080634c551f85035a5d09ade45e89aa42979",
+      "date": "2014-06-18T20:34:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "fd670cf3880be2198b85056d92d78fc77b4745c3",
+      "date": "2014-06-18T20:16:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c19dadca648e86c8f4ffb577398a9a136d54d11d",
+      "date": "2014-06-18T19:51:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "e0ecede476d5a7d6589b4d0c80df76957335fb17",
+      "date": "2014-06-18T18:53:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "2925320de8e8a7d4ec3561e4e3a91455228751aa",
+      "date": "2014-06-18T18:46:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "cf0a6415c01bbe6f13d03f8a19a471d32ed1cb37",
+      "date": "2014-06-18T18:39:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "3978d1930cdd4f54933adee11cf8335e7dd68fc1",
+      "date": "2014-06-18T18:38:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "6e7bea8bb400ed9e4df1b2374bd6e06f69839a2d",
+      "date": "2014-06-18T18:35:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "e6044b395f076de19a90187161344e59a4b8a474",
+      "date": "2014-06-10T21:33:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "dff7a1c540ac0a92dd210ef012c2cee12900f2af",
+      "date": "2014-06-10T21:31:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "90da8add0ae47e56c6761ce3f599084a41685d39",
+      "date": "2014-06-05T14:47:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "0231f3e6f57f423c6bd52efb2de92012d2d7599d",
+      "date": "2014-06-05T14:37:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "e7337baae6abb1fe942bfccb63ee19ad17b48a93",
+      "date": "2014-06-04T23:38:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a1756e077f4e47e88833a17a747da3a500abc40e",
+      "date": "2014-06-04T23:37:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "722357b022a539cbfe34399615ba57a009658736",
+      "date": "2014-06-04T17:30:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "8c24a0976f2cd0f50c01189b1cb6a4cfb107bd88",
+      "date": "2014-06-04T17:26:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "76e66098ed4db09a2b76510e1952d1d675cde42c",
+      "date": "2014-06-04T17:11:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "49ee75bbd21638bb33dbecfa01c5f2aba8fc7e5a",
+      "date": "2014-06-04T16:31:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "6d023035e0e26c138fc9e171ce34ef397f4a5de2",
+      "date": "2014-06-04T16:13:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "469200218d4f5626975429a0cb84fd33aea6923d",
+      "date": "2014-06-04T16:02:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "fc72e233bd2889699eeab4076f128fc213a84ab7",
+      "date": "2014-06-03T22:30:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "57ea3853eb1d36e3c0a801629e2bde5e1573155a",
+      "date": "2014-06-03T22:28:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "4248869b9303ef73dd2eb649d89ab2c2b3384055",
+      "date": "2014-06-03T21:32:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "59acaf9b36112743728935f47688297b88fd33da",
+      "date": "2014-06-03T21:31:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "89eaa60630756445768ed10f02d35bd2ffc54f24",
+      "date": "2014-06-03T16:11:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "c08ffe787719db670ddc3f8b20b8969846a9ee73",
+      "date": "2014-06-03T16:08:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "d46abefee8bd9ef26d741b93b2d44a30ef7a0a3a",
+      "date": "2014-05-31T04:32:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f82640cf8da3f67d1d1996b3b1e3e64bcd4af386",
+      "date": "2014-05-31T04:10:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a971827892cc336d5d5e73a05aecacdce70a2efc",
+      "date": "2014-05-31T03:17:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "51127091729e4d8efa17f9aebb23b508bf1801c7",
+      "date": "2014-05-30T22:00:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f273221c9efc9434ea0aab26d4e33103bb0dc314",
+      "date": "2014-05-30T21:12:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "79efc811b3862075cd3799f630f3b30a466975fd",
+      "date": "2014-05-30T20:26:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "664e31a9ddcb89ca2337a9b743d2f1d1d8408c6a",
+      "date": "2014-05-30T18:13:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f247655f94ea5992d31e7129dab113985d3c64bf",
+      "date": "2014-05-28T19:45:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "2c8144e057b0d137ec643eeaba542e0790beaecd",
+      "date": "2014-05-28T19:22:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f62065897647138b93bea8071da62698f71b0d43",
+      "date": "2014-05-28T19:22:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a0fd470fa2a35a757c5ccf3ef2d37364157076aa",
+      "date": "2014-05-28T04:09:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "24ad628421b628c20827fd2842784b4b2cb9004f",
+      "date": "2014-05-28T04:08:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "6578ce81e4d29be9311ff7356006817fcd86372c",
+      "date": "2014-05-28T03:57:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f0ab39fefa096b943a7a883f174391938f97879d",
+      "date": "2014-05-28T03:57:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "8dc559f38218b437348399ba1ca255f3bbb289b1",
+      "date": "2014-05-23T23:58:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "cfdf89ae76c33c9a086746c80403c342f8c6d8c4",
+      "date": "2014-05-23T23:57:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "b25f8448a65568372e2f1b9bd390afcefc367d4b",
+      "date": "2014-05-23T19:47:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "81661d7d5995d418367e5f28ce630804c13860b4",
+      "date": "2014-05-23T19:46:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a2c545fa8b1976aaa62eddd51f5911fe89c8eb21",
+      "date": "2014-05-22T01:00:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "56bd7f503bf881663b9f1a92b2376b6f67f7a798",
+      "date": "2014-05-15T19:02:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "e8d082b336ab1354c5d0d5b1be0e811ac174463b",
+      "date": "2014-05-15T18:27:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "6ba876a784c4ad46180c6b82cfd37e9bb683230a",
+      "date": "2014-05-12T19:04:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f7d025528741cfce39b0c8a60b586b46c18b54bf",
+      "date": "2014-05-12T18:59:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "d8ddcd0368a587b650ae5e701d1b8baa296fe1d4",
+      "date": "2014-05-12T18:36:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "6675e211965dad9cc16167968e67227170c90d49",
+      "date": "2014-05-10T20:41:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f071bdb7cf425f8bf18710648821175f08d6045a",
+      "date": "2014-05-10T18:31:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "b6205f1ef290f0b92d10895b62d7696665ea5fda",
+      "date": "2014-05-10T18:16:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "fdaf1cf71e50d286328624f17d70bb92301d327e",
+      "date": "2014-05-10T02:02:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ca209894aa162ec29c53665261cf3f59c1721c37",
+      "date": "2014-05-07T22:34:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "ea9380997a77f81721d58d2f082e6f131ff2ad60",
+      "date": "2014-05-07T20:19:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "4ebea23e45fb7b4c86715c7caa62d1d4fd2c87bc",
+      "date": "2014-05-09T16:20:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "af28b3ed8b9cba1b22ee9fd948838ecacba8079b",
+      "date": "2014-05-08T05:13:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "83a7eeaed0653433c2a181a5d4be4c0361f265ac",
+      "date": "2014-05-07T22:46:00Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "9bd5dc42d1b373b57a5972dfd911d8d646592d48",
+      "date": "2014-05-02T18:02:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "3197ace82d16568742479c44ac2cd176419550d9",
+      "date": "2014-05-01T23:19:00Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "7d10a1d0c70803379fc8b2c58665b5934afc550e",
+      "date": "2014-04-30T23:04:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "8cc169b91fd7b266bfdfa3af7f314e217d2fe3f6",
+      "date": "2014-04-29T22:01:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "45ca5a9bf52c416f4eacb2b746edc4990834e7c1",
+      "date": "2014-04-29T18:43:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "e28395f1330c90923ea36c8dbb04e8fe44315362",
+      "date": "2014-04-29T03:36:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "f01737d7c20c9b28a0e99588c2f53a3651cc3a4c",
+      "date": "2014-04-18T18:18:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "52d343cc329e334f8d3142f098dea538caaa454e",
+      "date": "2014-04-18T18:09:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "5c3c038f6cce5dbb4a9c4cc594cd6db248bfe129",
+      "date": "2014-04-15T22:56:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "1e8cedc5198aab0ec33a11ebeb12b4d51bb05b36",
+      "date": "2014-04-15T20:48:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "1c1a110788321411165e24f755aa5004ca580bd4",
+      "date": "2014-04-15T15:59:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "315c2eae65cb214c894d8cb1fac3d4bc0de6e744",
+      "date": "2014-04-14T03:12:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "eec869a0324bdfa036f97884e0db9289df1e70f0",
+      "date": "2014-04-14T03:10:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "176b30ecb25e90f3878f3e6c875bfc792ce8f36e",
+      "date": "2014-04-13T07:25:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "d54f2844571b1a80775b758ed63cf3dc36612700",
+      "date": "2014-04-13T06:56:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a2273aa6b5471f213c983b940ceec703af7da769",
+      "date": "2014-04-11T20:54:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "9329def9b0a30495e046c8f8bc4f5d52084580d8",
+      "date": "2014-04-11T20:21:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "72e8174881ee2fea774c6abb6b26bdc9a6f6f86d",
+      "date": "2014-04-11T20:20:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "7cac5e272a8375e7d377c89e6487c69d25ff0e49",
+      "date": "2014-04-11T15:21:44Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "92441d91ebc88e9a0d86be86c169d94408de8fa0",
+      "date": "2014-04-11T15:20:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "a8866a6aaf683b204e0ba35726cb1cba4813d4e9",
+      "date": "2014-04-11T00:06:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "33084203645dde8e79471c6f6cab6a538e662079",
+      "date": "2014-04-04T19:52:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "38843ac6a72fd76f47d5206754f4ac5177919a26",
+      "date": "2014-07-04T00:02:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "f03b60c43f317406ebb4385ca91da30397f5906f",
+      "date": "2014-06-27T02:43:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 39749824,
+      "date": "2014-04-07T16:09:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 40544586,
+      "date": "2014-04-15T22:56:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 42492942,
+      "date": "2014-05-07T22:45:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 42513983,
+      "date": "2014-05-08T05:14:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44143971,
+      "date": "2014-05-25T19:58:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44448865,
+      "date": "2014-05-28T18:49:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44451826,
+      "date": "2014-05-28T19:14:49Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44454062,
+      "date": "2014-05-28T19:35:44Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44454617,
+      "date": "2014-05-28T19:40:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44454721,
+      "date": "2014-05-28T19:41:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44454752,
+      "date": "2014-05-28T19:41:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44455118,
+      "date": "2014-05-28T19:44:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44456591,
+      "date": "2014-05-28T19:58:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44465968,
+      "date": "2014-05-28T21:19:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44695056,
+      "date": "2014-05-30T20:19:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44695800,
+      "date": "2014-05-30T20:27:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44699143,
+      "date": "2014-05-30T21:01:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45111829,
+      "date": "2014-06-04T16:13:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45222507,
+      "date": "2014-06-05T14:02:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45227032,
+      "date": "2014-06-05T14:37:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45228295,
+      "date": "2014-06-05T14:46:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45228502,
+      "date": "2014-06-05T14:48:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45350998,
+      "date": "2014-06-06T15:39:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45637234,
+      "date": "2014-06-10T16:26:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45904748,
+      "date": "2014-06-12T15:14:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 46222246,
+      "date": "2014-06-16T19:18:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 46223851,
+      "date": "2014-06-16T19:31:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 46493482,
+      "date": "2014-06-18T21:01:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 46603301,
+      "date": "2014-06-19T19:07:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 47307255,
+      "date": "2014-06-27T04:38:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 47307298,
+      "date": "2014-06-27T04:39:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 47689884,
+      "date": "2014-07-01T18:05:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 47790593,
+      "date": "2014-07-02T15:23:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 48471211,
+      "date": "2014-07-09T13:46:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 51512507,
+      "date": "2014-08-07T18:31:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 52551838,
+      "date": "2014-08-18T20:41:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 52551988,
+      "date": "2014-08-18T20:42:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 52552528,
+      "date": "2014-08-18T20:46:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 52557641,
+      "date": "2014-08-18T21:26:00Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 52558720,
+      "date": "2014-08-18T21:35:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 52562929,
+      "date": "2014-08-18T22:10:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 52712496,
+      "date": "2014-08-19T23:00:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 54382973,
+      "date": "2014-09-03T23:28:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 54383000,
+      "date": "2014-09-03T23:29:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 54884656,
+      "date": "2014-09-08T20:48:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 54884685,
+      "date": "2014-09-08T20:48:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 55144579,
+      "date": "2014-09-10T16:44:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61283449,
+      "date": "2014-10-31T16:05:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61284029,
+      "date": "2014-10-31T16:08:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61284247,
+      "date": "2014-10-31T16:09:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61284344,
+      "date": "2014-10-31T16:10:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61733555,
+      "date": "2014-11-04T23:20:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61909049,
+      "date": "2014-11-06T00:40:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61909596,
+      "date": "2014-11-06T00:45:44Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 61926083,
+      "date": "2014-11-06T04:27:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 63525198,
+      "date": "2014-11-18T19:01:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 64490138,
+      "date": "2014-11-25T23:26:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 64490989,
+      "date": "2014-11-25T23:33:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 65283298,
+      "date": "2014-12-02T18:54:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 65482013,
+      "date": "2014-12-03T20:16:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 65485485,
+      "date": "2014-12-03T20:34:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 70144446,
+      "date": "2015-01-15T19:20:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 71564275,
+      "date": "2015-01-26T23:57:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 71565548,
+      "date": "2015-01-27T00:08:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 71565924,
+      "date": "2015-01-27T00:11:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 71567559,
+      "date": "2015-01-27T00:26:44Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 71670547,
+      "date": "2015-01-27T15:51:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 71680494,
+      "date": "2015-01-27T16:41:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 71682248,
+      "date": "2015-01-27T16:50:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75167934,
+      "date": "2015-02-20T00:26:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75168704,
+      "date": "2015-02-20T00:33:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75285297,
+      "date": "2015-02-20T17:43:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75297967,
+      "date": "2015-02-20T18:57:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75320663,
+      "date": "2015-02-20T21:17:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75358482,
+      "date": "2015-02-21T06:23:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75358542,
+      "date": "2015-02-21T06:24:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75358649,
+      "date": "2015-02-21T06:28:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75358992,
+      "date": "2015-02-21T06:37:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75422262,
+      "date": "2015-02-22T06:27:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75663550,
+      "date": "2015-02-23T23:45:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 75823681,
+      "date": "2015-02-24T19:10:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76081685,
+      "date": "2015-02-25T23:09:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76120037,
+      "date": "2015-02-26T04:20:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76129449,
+      "date": "2015-02-26T06:35:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76129472,
+      "date": "2015-02-26T06:35:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76130397,
+      "date": "2015-02-26T06:46:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76130747,
+      "date": "2015-02-26T06:51:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76130832,
+      "date": "2015-02-26T06:52:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76131166,
+      "date": "2015-02-26T06:56:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76533417,
+      "date": "2015-02-28T16:38:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76760284,
+      "date": "2015-03-02T17:43:49Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76970336,
+      "date": "2015-03-03T15:45:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 76971685,
+      "date": "2015-03-03T15:52:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 77508344,
+      "date": "2015-03-06T05:20:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 77508442,
+      "date": "2015-03-06T05:21:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 77508690,
+      "date": "2015-03-06T05:25:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 96760759,
+      "date": "2015-04-27T18:00:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 96766552,
+      "date": "2015-04-27T18:17:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 96778941,
+      "date": "2015-04-27T18:55:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 96782318,
+      "date": "2015-04-27T19:06:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 96783660,
+      "date": "2015-04-27T19:12:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 98865861,
+      "date": "2015-05-04T22:14:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 47942461,
+      "date": "2014-07-03T15:10:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 47947249,
+      "date": "2014-07-03T15:47:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 47949625,
+      "date": "2014-07-03T16:04:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 47997186,
+      "date": "2014-07-04T00:03:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 87,
+      "date": "2015-02-26T06:47:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 68,
+      "date": "2014-11-04T23:30:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 65,
+      "date": "2014-10-29T21:24:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 49,
+      "date": "2014-09-03T19:45:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 36,
+      "date": "2014-07-24T22:16:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 29,
+      "date": "2014-06-27T04:38:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3020,
+      "date": "2014-06-27T02:45:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "issue",
+      "id": 43,
+      "date": "2014-08-18T23:41:00Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "issue",
+      "id": 42,
+      "date": "2014-08-18T23:35:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "issue",
+      "id": 35,
+      "date": "2014-07-19T19:22:27Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45226795,
+      "date": "2014-06-05T14:35:45Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45227767,
+      "date": "2014-06-05T14:42:45Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45228753,
+      "date": "2014-06-05T14:49:53Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45638675,
+      "date": "2014-06-10T16:37:29Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 45919378,
+      "date": "2014-06-12T17:04:05Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 46004065,
+      "date": "2014-06-13T12:14:44Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 46214027,
+      "date": "2014-06-16T18:14:21Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 46313938,
+      "date": "2014-06-17T14:28:08Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 47755958,
+      "date": "2014-07-02T09:39:21Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 67191999,
+      "date": "2014-12-16T16:55:59Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 2751957,
+      "date": "2011-11-15T21:53:42Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 69,
+      "date": "2014-11-13T14:01:23Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 25,
+      "date": "2014-06-11T16:41:43Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 24,
+      "date": "2014-06-10T11:37:54Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 22,
+      "date": "2014-06-05T13:04:01Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 21,
+      "date": "2014-06-04T17:01:51Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 19,
+      "date": "2014-06-04T15:27:12Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3130,
+      "date": "2014-08-28T14:29:14Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 783,
+      "date": "2012-03-08T15:40:26Z"
+    },
+    {
+      "dev_id": "thommay",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 609,
+      "date": "2011-11-13T20:53:57Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "109b216f1d30ebb3f8cc71bdccab3c091f213246",
+      "date": "2014-05-30T08:05:23Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "commit",
+      "id": "8a3aa41f107ba8a44e9df0a39bbd7e9304514ae8",
+      "date": "2014-05-30T06:34:01Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44239476,
+      "date": "2014-05-27T06:21:50Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44450139,
+      "date": "2014-05-28T18:59:40Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44455394,
+      "date": "2014-05-28T19:47:18Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44455620,
+      "date": "2014-05-28T19:49:22Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44456824,
+      "date": "2014-05-28T20:00:33Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44457544,
+      "date": "2014-05-28T20:07:00Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44494090,
+      "date": "2014-05-29T04:46:55Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44665209,
+      "date": "2014-05-30T15:39:30Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44665798,
+      "date": "2014-05-30T15:44:59Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44695176,
+      "date": "2014-05-30T20:20:39Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "com",
+      "id": 44707331,
+      "date": "2014-05-30T22:41:14Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 17,
+      "date": "2014-05-27T08:59:19Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 16,
+      "date": "2014-05-27T08:46:22Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 15,
+      "date": "2014-05-27T07:50:49Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 14,
+      "date": "2014-05-27T07:50:39Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 13,
+      "date": "2014-05-27T07:50:24Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "pr",
+      "id": 12,
+      "date": "2014-05-26T14:57:36Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "chef/chef-provisioning-fog",
+      "type": "issue",
+      "id": 11,
+      "date": "2014-05-25T19:55:44Z"
+    },
+    {
+      "dev_id": "marcusn",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 3155,
+      "date": "2014-09-11T19:31:41Z"
+    }
+  ]
+}

@@ -1,0 +1,3535 @@
+{
+  "user_repo": "chef-partners/knife-vsphere",
+  "dep_repo": "chef/knife-windows",
+  "dep_date": "2015-06-24 17:46:40 UTC",
+  "dep_commit_id": "1650a11605146fb8b403642284d59ab055346649",
+  "social_date": "2013-05-01 19:27:17 UTC",
+  "devs": [
+    "mwrock",
+    "adamedx",
+    "troyready"
+  ],
+  "interactions": [
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "19f80c2efd72d917670b9d6f9c85eef742970bd4",
+      "date": "2015-11-10T19:32:20Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "753074c92278d8b90a6aedf0314058fc91bdf1b6",
+      "date": "2015-11-10T19:29:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "53c8de41e1db56806a2c54a5f5edfc5a5815f1dd",
+      "date": "2015-10-27T00:27:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "e5242efed27af5164fa413070b3e86bf48f6eb58",
+      "date": "2015-10-27T00:16:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "4812646d3b6cec48d6d443fc5ad8069d6394079b",
+      "date": "2015-10-26T22:55:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "d219a4e497ea80c481337021cb437a0eb3bbf9af",
+      "date": "2015-10-26T21:57:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "4879c2400f66723e554bc52491c0f5e8341f8296",
+      "date": "2015-10-16T23:49:00Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a5386d4531e22794f01426066a1b3ce36050a996",
+      "date": "2015-10-14T05:13:10Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6140fd652c6542b907d96d655b2cc056d1a5e846",
+      "date": "2015-10-13T02:45:50Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "d957c4641f463fa4f6e5eab7c42096345cf3f5d4",
+      "date": "2015-10-12T22:25:39Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a62d706ea94272ac01448e751cf53382ad391f62",
+      "date": "2015-10-09T16:31:24Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "18878e14f1a26bcbaca3ae0d77dbee0a957adb6e",
+      "date": "2015-10-09T01:12:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "2d1075509a2de59fdf0445df70509eba3bd52c5d",
+      "date": "2015-10-09T01:10:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "2b26340af43ef73b96fcbfb9988485f581795bee",
+      "date": "2015-10-09T01:06:01Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "fcd0cd5fca45a209abbafa1d3203aac5cfefde58",
+      "date": "2015-10-09T00:30:49Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "273896f34772918283224a2a317f153898a802c2",
+      "date": "2015-10-07T22:06:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "1123168a1807d732341d6f9667b648e3d39330aa",
+      "date": "2015-10-05T20:52:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "06d125c670cd73c3dd76f4b5fae6a51110ef08e4",
+      "date": "2015-10-03T18:12:10Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0bda5134b8227e4c913f02b109787f1ac7e7dde6",
+      "date": "2015-10-03T13:57:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "17fbc78fd27df68b04719daa165f21cfe1416cce",
+      "date": "2015-09-10T17:23:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "83717afe3a4147d3549c496ac12f344edc3941d1",
+      "date": "2015-09-10T15:04:08Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3f58b8c00b53d97dd646c4b3428c8f5ee270f965",
+      "date": "2015-09-10T15:03:08Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "e52773a40068cd0b80657fee54750780bd5aa51c",
+      "date": "2015-09-09T23:07:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a257ddf5ea9eb5e9055650df13f9137aee0639c8",
+      "date": "2015-09-09T21:46:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cdb5bef1276520d6309299ee9416b05c85ab7e40",
+      "date": "2015-09-09T21:43:22Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "5475b2c74f79d330cf38f2cfe6bfa69ed940f1ce",
+      "date": "2015-09-09T21:41:15Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "5f7473c6204d670d24cb585d015615271415144a",
+      "date": "2015-09-09T21:39:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "5384e3229591322170244b1921f1d150106159d1",
+      "date": "2015-09-09T20:17:19Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3b9934931d2a04fdaac6708af1b851f8001af22b",
+      "date": "2015-09-09T19:36:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "597eb95759920d2a2f7d302bdce6e018b01c01cb",
+      "date": "2015-09-09T19:27:03Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "90f2347cedf04742fe9486d1912e35273ca10e85",
+      "date": "2015-09-09T19:16:53Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a9dcb07569708cdca3f635c371b5501d8bb89c22",
+      "date": "2015-09-09T18:49:00Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6732b87f47e6685748cf429470d5a5f438b3c583",
+      "date": "2015-09-09T18:08:51Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0745e9b20c9d3b27fc1920e1fa1cf3b9093cdbc1",
+      "date": "2015-09-09T16:56:40Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6f741b757ea3e17285fb13f0b72ad742436ef83b",
+      "date": "2015-09-09T16:10:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "f630aaee1641b6e25b9856dad2e6662759069fad",
+      "date": "2015-09-06T12:04:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "9c62bc4e87c1d81d58c8be1b1bac3ae3b172e4e7",
+      "date": "2015-09-05T05:11:40Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "56b855eafe298a71706837c3b1a7fad149452879",
+      "date": "2015-09-04T18:25:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "c6affdf01f93628a7bff8996500902dde6827591",
+      "date": "2015-09-04T18:04:07Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "02859b220f5e541dc8ddd6908d80a4d081d71779",
+      "date": "2015-09-04T17:46:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "e0472934f73238715eab06b354f82c735fb3413a",
+      "date": "2015-09-04T17:45:50Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "26ed7141b88824957669faa98a035e0d816eae14",
+      "date": "2015-09-04T17:38:25Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "68e7828db3e6e3bc5d61b862a39a54bf5f9342ad",
+      "date": "2015-09-04T01:32:28Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0a8f18c1e7639a323de5c3206259989db7f82ecd",
+      "date": "2015-09-04T03:01:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "fcc93de5a528403cda673182c045e7dc0f03ef4a",
+      "date": "2015-09-04T02:18:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 42327860,
+      "date": "2014-05-06T16:49:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 42339001,
+      "date": "2014-05-06T18:17:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 42362366,
+      "date": "2014-05-06T21:34:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 42368386,
+      "date": "2014-05-06T22:32:52Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 42380512,
+      "date": "2014-05-07T01:43:24Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 137464797,
+      "date": "2015-09-03T14:23:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 137553337,
+      "date": "2015-09-03T19:38:53Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 137622140,
+      "date": "2015-09-04T01:49:36Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 137786454,
+      "date": "2015-09-04T16:38:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 137922178,
+      "date": "2015-09-05T06:49:27Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 137972224,
+      "date": "2015-09-05T16:18:53Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 138078792,
+      "date": "2015-09-06T12:26:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 138736356,
+      "date": "2015-09-09T00:11:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 138899754,
+      "date": "2015-09-09T12:52:53Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 138956663,
+      "date": "2015-09-09T16:00:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 138958380,
+      "date": "2015-09-09T16:07:20Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 139068817,
+      "date": "2015-09-09T23:09:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 139544598,
+      "date": "2015-09-11T13:23:40Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 139890987,
+      "date": "2015-09-13T15:59:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 141524537,
+      "date": "2015-09-18T18:18:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 141905446,
+      "date": "2015-09-21T08:21:22Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 145458782,
+      "date": "2015-10-05T08:08:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 145591360,
+      "date": "2015-10-05T16:28:46Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 145636262,
+      "date": "2015-10-05T19:16:31Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146696352,
+      "date": "2015-10-08T21:53:34Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146718779,
+      "date": "2015-10-08T23:53:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146722649,
+      "date": "2015-10-09T00:16:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146914187,
+      "date": "2015-10-09T16:13:52Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146952474,
+      "date": "2015-10-09T18:17:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146979348,
+      "date": "2015-10-09T20:30:27Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147528251,
+      "date": "2015-10-12T21:33:31Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147535865,
+      "date": "2015-10-12T22:15:40Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147537523,
+      "date": "2015-10-12T22:26:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147829894,
+      "date": "2015-10-13T19:50:01Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147937875,
+      "date": "2015-10-14T05:23:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 149417630,
+      "date": "2015-10-20T03:28:29Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 150025477,
+      "date": "2015-10-21T21:11:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 150622497,
+      "date": "2015-10-23T16:15:28Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 150732066,
+      "date": "2015-10-24T01:26:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 151324272,
+      "date": "2015-10-27T00:30:25Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 151584926,
+      "date": "2015-10-27T17:49:03Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 152035316,
+      "date": "2015-10-28T23:58:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 153545677,
+      "date": "2015-11-04T01:52:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 154571588,
+      "date": "2015-11-06T23:08:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 154718614,
+      "date": "2015-11-07T16:00:01Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 154719102,
+      "date": "2015-11-07T16:10:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 154834611,
+      "date": "2015-11-08T15:47:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 155532703,
+      "date": "2015-11-10T19:03:44Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 316,
+      "date": "2015-11-07T15:59:20Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 312,
+      "date": "2015-10-24T00:44:22Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 307,
+      "date": "2015-10-14T05:15:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 306,
+      "date": "2015-10-12T20:39:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 303,
+      "date": "2015-10-09T00:31:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 301,
+      "date": "2015-10-07T22:09:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 297,
+      "date": "2015-10-03T14:50:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 286,
+      "date": "2015-09-09T20:19:02Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 285,
+      "date": "2015-09-09T19:22:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 282,
+      "date": "2015-09-08T06:02:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 281,
+      "date": "2015-09-05T05:16:39Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 279,
+      "date": "2015-09-04T17:33:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 278,
+      "date": "2015-09-04T17:32:07Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 276,
+      "date": "2015-09-03T14:12:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "issue",
+      "id": 106,
+      "date": "2014-05-06T00:37:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "c453d916c4fcf72944cccc3b31aa5c0b0d246217",
+      "date": "2015-10-13T19:50:22Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "5d59a4ee7281323aa6f9aec4fed57322a08152d4",
+      "date": "2015-10-12T18:41:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "b9ec58b3d4fceeb2eeb50a69af1c673b520da1b5",
+      "date": "2015-10-09T18:43:35Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "92bbf3397f82eae6a6772025ebd4acb649740d73",
+      "date": "2015-10-08T23:33:01Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "1b09dad1fad3d56a9a2a24ae03c6536fb445239f",
+      "date": "2015-10-08T23:16:50Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "8fe809b8720aea72030b81e51dffb5337a06cf1a",
+      "date": "2015-10-08T21:06:39Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "8f3a81b01d18863b1fb86fa6fbe43cf9518971c2",
+      "date": "2015-10-01T22:14:45Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "1d8af7d487e42298a0ffee0237a48f33eafca013",
+      "date": "2015-10-01T20:24:44Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3f688d76ff04760ff90320864d24bd487bbe11e3",
+      "date": "2015-10-01T18:47:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cd66dfd48e0cb75d7e5e7fc8ab52fbabfd55c2e0",
+      "date": "2015-10-01T16:44:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "5a42852ca979d8f0f10f26e91e9f89931ec38699",
+      "date": "2015-09-18T23:14:45Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "73e7cd647370dfdc868e5406e632a3493ad17d3a",
+      "date": "2015-09-18T20:19:42Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "c4e7aa2f8e6b801218ed02c89c5fa4fe3249daa3",
+      "date": "2015-09-18T20:18:16Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6c762547812242a948502ebedfbedf5686a90d18",
+      "date": "2015-09-18T18:12:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "21223e92e7e288a43176b8f8de54c07e2c2ac5ab",
+      "date": "2015-09-18T18:11:54Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "09349de97397e032e3a716db72e2b316dde8928e",
+      "date": "2015-09-18T18:11:29Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "40ed83371afaef9c66e9e49fe0927ab9c8b8d73b",
+      "date": "2015-09-11T15:55:20Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3685375ac0c709fbbcd1865aaed1f91c8407aac8",
+      "date": "2015-09-11T06:06:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0414aaa54e14ee08c226e29bc34bdeede6920b40",
+      "date": "2015-02-10T05:39:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "18b0ec3894e193aed06837d66fd065dc15595dad",
+      "date": "2015-02-10T05:26:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "857246348dde8ca0347fd51760b7dd7f1e3e6a8d",
+      "date": "2015-02-10T05:38:00Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a96358c66c45435c7ddb40ff385a68de5f70c026",
+      "date": "2015-03-01T14:37:57Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "d575025718a8fd59ccd0a98bdaa8e497faa02c82",
+      "date": "2015-02-10T13:56:50Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "ae6a7d7056879c95d964ec66d73b4da8a4072a06",
+      "date": "2015-02-10T13:55:02Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "9e2d300bbf3d5c8cd9cddfee9b5940bcb964f88d",
+      "date": "2015-02-09T07:22:35Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "36c8f3e203355aad0ca7189ead6501eaf2adffe1",
+      "date": "2015-02-09T05:25:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "635058b29f708774f539972952bc605db0a17f3c",
+      "date": "2015-02-08T16:06:13Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "399c67aa572cfa4ed3156361c98baf01635183f7",
+      "date": "2015-02-08T16:05:00Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "e5d33722f3e565ae820dc7cabc5f0131975acd95",
+      "date": "2015-02-08T07:55:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "1dac7f8da3ccbb87791dd6a75ea7c816887d3b4d",
+      "date": "2015-02-08T07:46:30Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "4025aef90ffa8d5df2d84d55057d46f3686c03d3",
+      "date": "2015-01-18T05:07:34Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "23e8d6802e3cf4abceb3d235fd65d9e7135b1c27",
+      "date": "2015-01-18T05:07:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a31d0fe50aa6b51cd6d1f10e9f7d9438a0883cec",
+      "date": "2015-01-18T05:06:32Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "78c34796df5963bfb910345a16d504b97adaf660",
+      "date": "2014-12-19T05:31:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "37c05cb86fd2449cc9e5cbb8409b165df4402eb0",
+      "date": "2014-12-19T05:20:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "508ba5f4c577a26ab19bec826dd626fd54e35078",
+      "date": "2014-12-19T05:11:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "7009132769a43cb978f69d7bee8539fa0787d767",
+      "date": "2014-12-19T05:03:57Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "f4307ddaf14501cae2e196b7e246c65c2915f4bb",
+      "date": "2014-12-19T05:02:02Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cad8f2616095f023f81e8069e6e74dc43a4af8d1",
+      "date": "2014-12-19T04:59:16Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "62269c694f9541b4bd99b16d80324c8b8b44d2d1",
+      "date": "2014-12-19T04:24:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "92bc6e440d2904d667bd8b0e2cf79fdc29754346",
+      "date": "2014-12-19T04:17:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3ac4d29d3b15af14da0ed86b0d71f69204c77be5",
+      "date": "2014-12-19T04:14:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "7da563bb4a398825e017b7358396941743153c85",
+      "date": "2014-10-29T21:17:30Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "b88bcde1e2f46d105a016e0e1384a96c2c7fb7fe",
+      "date": "2014-12-17T07:39:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0c5340f809c0f3bc1d659d38da4349a8272518a1",
+      "date": "2014-12-17T07:30:42Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "7aab00da90ad928a5a4cb123b4a300710f7e9005",
+      "date": "2014-12-17T07:25:39Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "1cb26755817fc008f51007d48ffd604a81f602d1",
+      "date": "2014-11-18T05:30:29Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a77b1a60d36eef590dee30a6410775c4bb15a2a9",
+      "date": "2014-11-18T05:21:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3b79143715a8aa79d4deb22c5071e2dbfb1d547d",
+      "date": "2014-10-21T19:45:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "dde835454af31ec94228b59104173d16730b2872",
+      "date": "2014-10-21T19:45:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "9c3695a6baa229b8f393ee6118da7f6b11f319a5",
+      "date": "2014-10-21T19:44:38Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cd67710741424a556b96d2322d021975ccc9fb19",
+      "date": "2014-10-21T18:44:13Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a284f6d9e1384e1be73946b1f19f8feaf54c734f",
+      "date": "2014-10-21T14:53:12Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "630b0f18b69d80ed5460a70e96380087e34f76f6",
+      "date": "2014-10-21T14:01:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "02ce7d3c70142a9a98a129a3f285345c2d895554",
+      "date": "2014-10-21T14:01:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "c77f3d992537df2825588f8013d0488ae18d6d1a",
+      "date": "2014-10-21T13:27:32Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "8e9f69753e29d6e6751e9d4349c48b770212ff6c",
+      "date": "2014-10-16T15:46:05Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "f01e75281819140f6313bbd862790954b9a583e5",
+      "date": "2014-10-21T13:06:27Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "38faf306692b509fd525b0bb3efe517845e8e0d7",
+      "date": "2014-10-21T13:06:27Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "83e022fb83d9ff29ca684737a8b29a570ec97b74",
+      "date": "2014-10-21T13:00:48Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "fe86f2e57c861d51701b612d9ae2af56c96bf0f7",
+      "date": "2014-10-21T05:40:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "4dd96cd1caafd88bb0fa588ddc953600bd05c6e0",
+      "date": "2014-10-07T04:30:33Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "07ace9cad8e24816d12bcc4502971abf85e7bbaf",
+      "date": "2014-10-07T04:04:32Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "504c9b2988987704cd12b94c5734f92d8d11b6e5",
+      "date": "2014-10-06T16:11:24Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "9a23e15110f280ec15f73eb8238d23fed0dae79b",
+      "date": "2014-10-06T16:11:24Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "dfb5afe7eec6423280a146b849de6e1d16fa7d8d",
+      "date": "2014-10-06T15:56:45Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "dcd918528c227de33a860d6f7be723c5c545c29a",
+      "date": "2014-10-05T06:08:27Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a488e6b36e1790db829cf3c0c1a4e3655e475f8f",
+      "date": "2014-10-05T05:45:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a210f35fd34e21cf163ae0dba141802126872182",
+      "date": "2014-10-05T06:08:27Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "f5480d0e9044534552cd9cc8d7d43753da44043e",
+      "date": "2014-10-05T06:06:04Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "ab376f8818ec7e6989acc17776e5fb2f6b820493",
+      "date": "2014-10-05T05:46:44Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "11a4b361ebb7f99cac6e34fccf45285dc4e864f8",
+      "date": "2014-10-05T05:45:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "721fa4a97df66e7d4ddc19a14434fa62f249c04e",
+      "date": "2014-10-05T05:19:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "2e5f3e2880bd22e3930130b103236b8cdd42da94",
+      "date": "2014-10-04T20:40:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cd98f985ad4c79721212c609c3183ce9948c5997",
+      "date": "2014-10-04T20:34:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3cfca5b31e6b5101650bcbb0faca54e148dedf4c",
+      "date": "2014-10-04T20:01:07Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "9f53905166ac119439b0da8f961ce6772306a81b",
+      "date": "2014-10-04T20:40:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "ffac64079151d2fea3abb0921a1bd035761ecd95",
+      "date": "2014-10-04T20:39:32Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "aa3d08298db4632d1a78c3eecac904f180d5cd49",
+      "date": "2014-10-04T20:34:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a32acdc0512e70cc5497d3f02a32275c7804fb76",
+      "date": "2014-10-04T20:29:42Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "c410b2c36f8a5c57534c9c3808f5db731dd3671a",
+      "date": "2014-10-04T20:26:16Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "3df4195a1edc387412c1e92d00d382b7c00d5ddb",
+      "date": "2014-10-04T20:25:55Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "41cc8a2e7ea083dc9a80a00c63cc608d5aab730c",
+      "date": "2014-10-04T20:01:07Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "14c8e1ba283c075d3c7ffa03a79a0914f37c0cfb",
+      "date": "2014-10-04T18:01:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "569c26729cab14121069f882b66659a7b4be7a5f",
+      "date": "2014-09-19T05:57:33Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "60ddbe4d1a18908567aaf629e38023c0bc075c95",
+      "date": "2014-09-19T05:44:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cb90616a914c2a245f9277e8fca3bbc6b7b46e9e",
+      "date": "2014-09-18T17:11:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "b91c9075e4d59f10eed13bd965d9aa4277567382",
+      "date": "2014-07-31T13:18:04Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6f8d8ba30791a4be3e6484c9d26237aca983fa68",
+      "date": "2014-06-24T03:39:26Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "57f4762f94bcadf93ec6965ddee7a72667c2d129",
+      "date": "2014-06-24T03:29:51Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "416df376dbbd56097065d97f6e0c802fdf16f236",
+      "date": "2014-06-24T03:13:50Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "42c358eec76e0fa04ef379a886478147054433b0",
+      "date": "2014-05-12T17:59:32Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "783c9dcfef94685797da28899438805224bbbf74",
+      "date": "2014-05-12T17:58:52Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "32c3385b51abafc050f42bd5b63b7f7bd69c43be",
+      "date": "2014-05-09T14:27:13Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "37153f02bbfef629f026518b6b0bc420aa74fa13",
+      "date": "2014-05-08T13:42:27Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "adfab86e1e4fb77e60f3e9adb751d1180f4de24d",
+      "date": "2014-05-08T12:57:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a89324477584525abc04c6d4d4bf74d5cf89eacc",
+      "date": "2014-05-08T06:59:56Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "ee93153a02249003c7c6d4d907850dc8e22812f0",
+      "date": "2014-05-07T03:58:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "908a9915987df9810daa53cf416341ef42eb35ff",
+      "date": "2014-05-07T03:57:38Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "fc3c0b6931207d71a7a02ca2eec857a745def8eb",
+      "date": "2014-05-07T03:54:41Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "e5b6dd06813203550216740508cb08f5232fb10f",
+      "date": "2014-04-09T19:27:12Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "751fc3301a2fd15c336854da8e605516a52a118c",
+      "date": "2014-03-14T00:51:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0ae62f02c8cef9ec3718c7711a113dec4d17e749",
+      "date": "2014-03-12T21:34:55Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6949a90a6039f942f4d4ca766bbcca5d439b1fcc",
+      "date": "2014-03-06T01:05:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "215fb3229f17bcf99923b8176664c5835ec985b9",
+      "date": "2014-03-01T17:42:08Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cf8152ed17cccdd3e28c8473a99ebd0864481e52",
+      "date": "2014-02-12T17:01:56Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6e0bcdfc8713ee21225cb72c8fd5e7f9128c08d4",
+      "date": "2014-02-12T16:34:29Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0aece756377e9c7127818a064113ccbf818eaca2",
+      "date": "2013-12-04T23:54:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "0059df64dae8af053a3e14065d8b1423a8ceb2f4",
+      "date": "2013-12-04T23:31:14Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "ebe2948fcc6b249dceebd3c936979a77a6f57c65",
+      "date": "2013-12-04T17:25:12Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "124ce533b0f7a8341b6df8f8be13554cec393a4e",
+      "date": "2013-12-04T17:13:04Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "c0828fcf645cda47c192b8ce90e4320c330a3e4c",
+      "date": "2013-11-07T23:09:48Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "83d82a22fad0a20523a3e813564eb64d99e0c2fc",
+      "date": "2013-11-07T23:07:12Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "5ec00eac5ff623b03e76efd397fb849d5909e54c",
+      "date": "2013-11-07T19:24:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "a0470060400c977bc73be44e76de617435b163d1",
+      "date": "2013-11-07T07:06:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "922569d37d144c81edc6afc72a31d3b895695876",
+      "date": "2013-11-04T19:37:41Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "d103770c4e015ed6712331a7fdecc0c7a8d6e69b",
+      "date": "2013-10-31T16:59:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "8ef2aabbd4b83397cd8f826fc4d55372b3055a4e",
+      "date": "2013-10-31T04:00:55Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "f72e08fb66669b7b091f56aa8b05d67e1c458753",
+      "date": "2013-10-29T13:23:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "95d79e32eb47db95471726c1460cc561caaef6d7",
+      "date": "2013-10-29T12:17:55Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "8181dbbc555d28ac9adc06cf81511cdef699b6a9",
+      "date": "2013-10-26T16:22:22Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "14947c95c5a512d6493ea9b55b3e0356adb68dbd",
+      "date": "2013-09-23T23:49:12Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "2bbc98ea2593ea595ac0cca59f48231c96d0c081",
+      "date": "2013-09-10T05:45:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "b663a1bbe95c6f962eb49d859c8f995a727233b2",
+      "date": "2013-09-10T00:38:34Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "f81e371f4e749fb62901a0c36e40c60fcabd0b36",
+      "date": "2013-08-15T17:26:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "b6c0cb9f1d5e8de81e0689cd706eb41f0f46aed9",
+      "date": "2013-08-14T18:09:20Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "df7fdd28824af2aecd5fdbeea393bf8e72d7e8e3",
+      "date": "2013-07-11T23:38:04Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "af57c693eff375ddcedc78f6b467e608303cb6f5",
+      "date": "2013-06-24T04:03:53Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "90dca836dcd2a0a1703385fbd4cb9df48268dab6",
+      "date": "2013-06-11T19:44:14Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "2d84182c74b47ab6eab5a7b7879d785c8527eded",
+      "date": "2013-06-07T21:05:29Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "6fcd7627982774ddc903ecb34aa3accea03ff83e",
+      "date": "2013-06-06T04:10:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "ac170db67bdf3f2ef9a578305a73299e7a601c02",
+      "date": "2013-06-08T00:08:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "cd7a63342d86132108edca37db9d06c17728e505",
+      "date": "2013-06-07T22:45:29Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "398ee8a0b917d32a178fe966bfe4d2a47695d393",
+      "date": "2013-05-07T12:23:58Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "5da1ab08a4707b83944778ac6e631b507fbd284a",
+      "date": "2013-05-06T04:22:01Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "4dc4a6df1fd7b6b996f078087c6af1938d6cf033",
+      "date": "2013-05-06T03:53:44Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "9193d50470dcebe2263920030e6cfbe0c3af7468",
+      "date": "2013-05-06T02:24:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "acb97de0919aebc45e357a8ecc662f323263b941",
+      "date": "2013-05-06T02:21:34Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "commit",
+      "id": "d7b6efed3f03a56027d746b8fd093d15c3b176a4",
+      "date": "2013-01-07T19:06:06Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 137258531,
+      "date": "2015-09-02T22:02:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 137258608,
+      "date": "2015-09-02T22:02:51Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 11506100,
+      "date": "2012-12-18T21:32:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 11507036,
+      "date": "2012-12-18T21:54:38Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 12245366,
+      "date": "2013-01-14T23:14:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 12245419,
+      "date": "2013-01-14T23:16:00Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 12722832,
+      "date": "2013-01-25T21:57:30Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 14425752,
+      "date": "2013-03-05T06:33:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 14451274,
+      "date": "2013-03-05T16:59:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 17465802,
+      "date": "2013-05-06T04:21:17Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 20827020,
+      "date": "2013-07-11T17:12:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 20827357,
+      "date": "2013-07-11T17:19:40Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 20832886,
+      "date": "2013-07-11T18:41:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 21569245,
+      "date": "2013-07-25T17:10:04Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22342813,
+      "date": "2013-08-08T18:08:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22343589,
+      "date": "2013-08-08T18:17:29Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22348052,
+      "date": "2013-08-08T19:15:47Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22348517,
+      "date": "2013-08-08T19:22:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22348684,
+      "date": "2013-08-08T19:24:20Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22349064,
+      "date": "2013-08-08T19:29:46Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22428907,
+      "date": "2013-08-09T23:25:13Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22721452,
+      "date": "2013-08-15T18:54:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 22724121,
+      "date": "2013-08-15T19:35:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 24752807,
+      "date": "2013-09-19T16:26:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 24753044,
+      "date": "2013-09-19T16:29:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 25044233,
+      "date": "2013-09-24T21:30:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 27715197,
+      "date": "2013-11-04T19:33:00Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 27803883,
+      "date": "2013-11-05T19:25:56Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 27942157,
+      "date": "2013-11-07T07:09:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 29221140,
+      "date": "2013-11-25T17:19:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 29759353,
+      "date": "2013-12-03T22:41:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 29784405,
+      "date": "2013-12-04T07:19:05Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 30947482,
+      "date": "2013-12-19T17:18:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 30947866,
+      "date": "2013-12-19T17:22:50Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 36815068,
+      "date": "2014-03-06T01:17:26Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 46646080,
+      "date": "2014-06-20T05:32:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 46646208,
+      "date": "2014-06-20T05:36:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 46648160,
+      "date": "2014-06-20T06:22:48Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 46648200,
+      "date": "2014-06-20T06:23:47Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 48652127,
+      "date": "2014-07-10T19:27:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 48815084,
+      "date": "2014-07-12T15:24:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 48819618,
+      "date": "2014-07-12T18:12:07Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 48825808,
+      "date": "2014-07-12T22:29:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 48832029,
+      "date": "2014-07-13T05:06:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 49351624,
+      "date": "2014-07-17T19:20:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 49352999,
+      "date": "2014-07-17T19:31:30Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 49353119,
+      "date": "2014-07-17T19:32:35Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 49354060,
+      "date": "2014-07-17T19:41:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 49492418,
+      "date": "2014-07-18T23:54:38Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 49634469,
+      "date": "2014-07-21T17:05:14Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 50756913,
+      "date": "2014-07-31T13:18:00Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 51363967,
+      "date": "2014-08-06T16:57:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 53114492,
+      "date": "2014-08-22T20:12:52Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 54254534,
+      "date": "2014-09-03T05:45:24Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 55770860,
+      "date": "2014-09-16T16:30:18Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 55776926,
+      "date": "2014-09-16T17:10:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 55821515,
+      "date": "2014-09-16T22:08:01Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 57189287,
+      "date": "2014-09-29T16:39:08Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 57237560,
+      "date": "2014-09-29T22:02:18Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 57914514,
+      "date": "2014-10-04T18:38:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 57927484,
+      "date": "2014-10-05T05:49:00Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 57927785,
+      "date": "2014-10-05T06:09:07Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58111111,
+      "date": "2014-10-06T22:36:47Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58134991,
+      "date": "2014-10-07T04:31:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58183732,
+      "date": "2014-10-07T13:29:35Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58184317,
+      "date": "2014-10-07T13:33:52Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58194938,
+      "date": "2014-10-07T14:40:33Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58840525,
+      "date": "2014-10-13T03:31:39Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58868374,
+      "date": "2014-10-13T09:39:52Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 59320146,
+      "date": "2014-10-16T06:39:23Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 59322290,
+      "date": "2014-10-16T07:08:23Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 59851826,
+      "date": "2014-10-20T22:41:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 61116442,
+      "date": "2014-10-30T15:54:20Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 61147933,
+      "date": "2014-10-30T18:44:38Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 61151485,
+      "date": "2014-10-30T19:04:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 61219237,
+      "date": "2014-10-31T05:10:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 61865876,
+      "date": "2014-11-05T19:25:40Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 61998529,
+      "date": "2014-11-06T15:46:06Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 62177384,
+      "date": "2014-11-07T17:12:35Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 62349458,
+      "date": "2014-11-10T07:23:16Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 62429363,
+      "date": "2014-11-10T18:24:14Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 62971001,
+      "date": "2014-11-13T21:39:53Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 62971254,
+      "date": "2014-11-13T21:41:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 63094357,
+      "date": "2014-11-14T16:55:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 63423027,
+      "date": "2014-11-18T04:59:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 63675168,
+      "date": "2014-11-19T17:07:00Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 64015996,
+      "date": "2014-11-21T18:35:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 65109362,
+      "date": "2014-12-01T18:18:53Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 65112226,
+      "date": "2014-12-01T18:37:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 65124323,
+      "date": "2014-12-01T19:55:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 66164672,
+      "date": "2014-12-08T18:49:06Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 66165971,
+      "date": "2014-12-08T18:56:17Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67286457,
+      "date": "2014-12-17T07:32:08Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67598213,
+      "date": "2014-12-19T04:49:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67598434,
+      "date": "2014-12-19T04:53:35Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67598512,
+      "date": "2014-12-19T04:55:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67600154,
+      "date": "2014-12-19T05:30:17Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67603384,
+      "date": "2014-12-19T06:33:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67603451,
+      "date": "2014-12-19T06:34:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 67835362,
+      "date": "2014-12-22T13:11:50Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 68237643,
+      "date": "2014-12-29T07:31:35Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 69145665,
+      "date": "2015-01-08T07:37:05Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 69749251,
+      "date": "2015-01-13T14:14:02Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 70139608,
+      "date": "2015-01-15T18:53:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 70304863,
+      "date": "2015-01-16T19:07:37Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 70388465,
+      "date": "2015-01-17T23:04:47Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 70397284,
+      "date": "2015-01-18T05:34:53Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 72066195,
+      "date": "2015-01-29T17:24:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 72161916,
+      "date": "2015-01-30T06:58:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 72852055,
+      "date": "2015-02-04T13:15:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 72863367,
+      "date": "2015-02-04T14:32:48Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 73555188,
+      "date": "2015-02-09T17:51:12Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 73614271,
+      "date": "2015-02-09T23:32:13Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 73614529,
+      "date": "2015-02-09T23:34:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 73652235,
+      "date": "2015-02-10T06:43:48Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 73702087,
+      "date": "2015-02-10T13:54:46Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 73906991,
+      "date": "2015-02-11T16:04:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 74289146,
+      "date": "2015-02-13T17:12:53Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 74291909,
+      "date": "2015-02-13T17:29:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 76190362,
+      "date": "2015-02-26T14:49:52Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 76599413,
+      "date": "2015-03-01T14:38:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 76631690,
+      "date": "2015-03-01T21:24:20Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 76631698,
+      "date": "2015-03-01T21:24:30Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 76752648,
+      "date": "2015-03-02T17:07:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 77407952,
+      "date": "2015-03-05T17:24:17Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 77892437,
+      "date": "2015-03-09T16:46:16Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 90128822,
+      "date": "2015-04-06T16:17:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 92413629,
+      "date": "2015-04-13T16:13:47Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 93465840,
+      "date": "2015-04-15T16:09:07Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 93472248,
+      "date": "2015-04-15T16:19:51Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 112124804,
+      "date": "2015-06-15T16:17:34Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 114170879,
+      "date": "2015-06-22T16:25:14Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 121415312,
+      "date": "2015-07-14T22:49:09Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 121629924,
+      "date": "2015-07-15T14:16:06Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 122181940,
+      "date": "2015-07-17T05:40:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 124162809,
+      "date": "2015-07-23T16:38:42Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 129010038,
+      "date": "2015-08-08T16:44:20Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 136422930,
+      "date": "2015-08-31T16:34:07Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 138039973,
+      "date": "2015-09-06T04:25:58Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 138948229,
+      "date": "2015-09-09T15:31:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 139062205,
+      "date": "2015-09-09T22:24:33Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 139460364,
+      "date": "2015-09-11T05:56:59Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 139461328,
+      "date": "2015-09-11T06:06:39Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 141497763,
+      "date": "2015-09-18T16:21:16Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 144785839,
+      "date": "2015-10-01T16:56:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 144793849,
+      "date": "2015-10-01T17:28:10Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 144810855,
+      "date": "2015-10-01T18:33:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 145058269,
+      "date": "2015-10-02T15:16:22Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 145071922,
+      "date": "2015-10-02T16:03:01Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146353958,
+      "date": "2015-10-07T22:45:08Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146696739,
+      "date": "2015-10-08T21:55:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146716525,
+      "date": "2015-10-08T23:39:06Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146720827,
+      "date": "2015-10-09T00:04:30Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146723032,
+      "date": "2015-10-09T00:19:46Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146740308,
+      "date": "2015-10-09T02:44:26Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146986563,
+      "date": "2015-10-09T21:08:33Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 146987969,
+      "date": "2015-10-09T21:16:53Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147518288,
+      "date": "2015-10-12T20:55:54Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147520352,
+      "date": "2015-10-12T21:00:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147524381,
+      "date": "2015-10-12T21:12:43Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147797309,
+      "date": "2015-10-13T18:02:59Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147937747,
+      "date": "2015-10-14T05:21:42Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 147937768,
+      "date": "2015-10-14T05:22:02Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 148091925,
+      "date": "2015-10-14T15:46:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 305,
+      "date": "2015-10-12T18:42:06Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 302,
+      "date": "2015-10-08T21:07:11Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 294,
+      "date": "2015-10-01T16:46:45Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 292,
+      "date": "2015-09-18T23:10:57Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 291,
+      "date": "2015-09-18T18:14:57Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 179,
+      "date": "2015-02-10T05:41:28Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 175,
+      "date": "2015-02-08T16:58:45Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 147,
+      "date": "2014-12-19T05:32:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 146,
+      "date": "2014-12-19T05:29:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 145,
+      "date": "2014-12-19T04:17:45Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 142,
+      "date": "2014-12-16T05:57:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 140,
+      "date": "2014-12-11T10:46:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 135,
+      "date": "2014-12-09T07:43:05Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 127,
+      "date": "2014-11-18T05:22:29Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 126,
+      "date": "2014-11-16T15:33:33Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 120,
+      "date": "2014-10-21T18:52:31Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 118,
+      "date": "2014-10-21T14:05:08Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 117,
+      "date": "2014-10-21T13:47:58Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 116,
+      "date": "2014-10-21T13:28:04Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 115,
+      "date": "2014-10-21T12:59:14Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 107,
+      "date": "2014-10-07T04:23:19Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 106,
+      "date": "2014-10-06T15:57:24Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 105,
+      "date": "2014-10-05T05:47:18Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 104,
+      "date": "2014-10-05T05:20:13Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 103,
+      "date": "2014-10-04T20:39:44Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 102,
+      "date": "2014-10-04T20:17:40Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 101,
+      "date": "2014-10-04T18:05:36Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 97,
+      "date": "2014-09-18T17:12:49Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 80,
+      "date": "2014-06-24T03:30:56Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 78,
+      "date": "2014-05-08T13:44:04Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 77,
+      "date": "2014-03-04T18:59:21Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 74,
+      "date": "2014-02-12T16:37:08Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 68,
+      "date": "2013-12-04T17:15:22Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 63,
+      "date": "2013-11-07T19:25:17Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 62,
+      "date": "2013-11-07T05:15:41Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 61,
+      "date": "2013-10-31T16:58:44Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 60,
+      "date": "2013-10-29T11:21:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 58,
+      "date": "2013-09-10T05:05:26Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 57,
+      "date": "2013-09-10T00:38:25Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 55,
+      "date": "2013-08-14T18:44:06Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 49,
+      "date": "2013-06-22T05:20:48Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 46,
+      "date": "2013-06-11T05:38:58Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 45,
+      "date": "2013-06-11T05:32:41Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 44,
+      "date": "2013-06-07T22:46:51Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 37,
+      "date": "2013-05-06T05:01:44Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 36,
+      "date": "2013-05-06T02:29:22Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "pr",
+      "id": 25,
+      "date": "2012-12-18T20:43:52Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "issue",
+      "id": 197,
+      "date": "2015-09-02T21:26:42Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 295,
+      "date": "2015-10-01T18:39:03Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 280,
+      "date": "2015-09-04T20:55:15Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 193,
+      "date": "2015-02-23T17:17:51Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 176,
+      "date": "2015-02-08T17:46:33Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 159,
+      "date": "2015-01-17T23:04:14Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 139,
+      "date": "2014-12-11T10:43:13Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 138,
+      "date": "2014-12-11T10:36:02Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 134,
+      "date": "2014-12-08T18:48:23Z"
+    },
+    {
+      "dev_id": "adamedx",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 124,
+      "date": "2014-11-08T00:22:00Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "5b43378514e0b35df12a541adc4ac2cbff908a4b",
+      "date": "2015-03-05T18:53:36Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "6ef315e45aea25ebf76b5d577bbc00cdad8bc75d",
+      "date": "2013-04-25T20:10:28Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 22675043,
+      "date": "2013-08-14T23:19:36Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 22738467,
+      "date": "2013-08-15T23:32:14Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 22804178,
+      "date": "2013-08-17T02:37:33Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 23125725,
+      "date": "2013-08-22T21:05:06Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 68943235,
+      "date": "2015-01-06T22:09:07Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 68949965,
+      "date": "2015-01-06T22:56:00Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 69781769,
+      "date": "2015-01-13T17:19:01Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 69811762,
+      "date": "2015-01-13T20:16:41Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 70131222,
+      "date": "2015-01-15T18:03:27Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 70132345,
+      "date": "2015-01-15T18:10:23Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 70134671,
+      "date": "2015-01-15T18:24:30Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 70136348,
+      "date": "2015-01-15T18:34:52Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 71878230,
+      "date": "2015-01-28T17:34:04Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 71879260,
+      "date": "2015-01-28T17:39:59Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 71880880,
+      "date": "2015-01-28T17:49:09Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 77442198,
+      "date": "2015-03-05T20:13:29Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 77482666,
+      "date": "2015-03-06T00:26:00Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 77496564,
+      "date": "2015-03-06T02:37:01Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 119757564,
+      "date": "2015-07-08T23:23:50Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 125399987,
+      "date": "2015-07-28T01:20:05Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126448346,
+      "date": "2015-07-30T19:31:52Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126757057,
+      "date": "2015-07-31T17:20:38Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126965199,
+      "date": "2015-08-01T23:57:05Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 127332757,
+      "date": "2015-08-03T17:05:33Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 127805179,
+      "date": "2015-08-05T00:44:26Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 17300924,
+      "date": "2013-05-01T19:27:17Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 27729877,
+      "date": "2013-11-04T22:36:27Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 55811655,
+      "date": "2014-09-16T20:51:45Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef/knife-windows",
+      "type": "com",
+      "id": 58243359,
+      "date": "2014-10-07T19:15:47Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 142,
+      "date": "2015-03-05T19:10:28Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 36,
+      "date": "2013-04-25T21:31:28Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "issue",
+      "id": 178,
+      "date": "2015-07-28T00:27:14Z"
+    },
+    {
+      "dev_id": "troyready",
+      "repo": "chef/knife-windows",
+      "type": "issue",
+      "id": 96,
+      "date": "2014-09-02T20:47:47Z"
+    }
+  ]
+}

@@ -1,0 +1,2513 @@
+{
+  "user_repo": "ruby-rdf/sparql-client",
+  "dep_repo": "lsegal/yard",
+  "dep_date": "2010-04-07 05:49:36 UTC",
+  "dep_commit_id": "83292fd17cea986408ea31faabcff9bf971f4988",
+  "social_date": "2010-05-20 15:11:20 UTC",
+  "devs": [
+    "cldwalker",
+    "bendiken",
+    "gkellogg"
+  ],
+  "interactions": [
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9f19501c3d94777bc401b28652f7bb866324cf4f",
+      "date": "2011-04-18T04:45:49Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b3047f0c7efd04063a486171a86cbd519ca806e5",
+      "date": "2011-04-18T00:54:50Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "44d999619d0e373fac705c01b02ef0cafbb49bb0",
+      "date": "2011-04-18T00:31:23Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "bb8c82e6e4bc1b72e3213997047339df80c485e8",
+      "date": "2011-04-17T23:59:20Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8eba21e635c3a0e1a4bb88da956fafc33c25f8c6",
+      "date": "2010-06-14T02:12:31Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "bc79ede389cf4f035de237af6f368e2a5269adf9",
+      "date": "2010-06-13T22:32:18Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "a09ea7e2891150e1b1fce8db553ce8d4bb20e5ab",
+      "date": "2010-06-13T22:04:13Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4a979f3f42c0ef5ad0e3803fad634a73510543d1",
+      "date": "2010-06-12T22:26:27Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ee050af09c2628984dc061f3c975fbf17d161a79",
+      "date": "2010-06-12T22:07:20Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e7c35a1e9d30d07b4cc7d4c71a9d1bdd3c8d9fab",
+      "date": "2010-06-12T21:55:38Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "29b0a7483b04bb20066bed3b650abdea5336d47a",
+      "date": "2010-06-12T21:00:23Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3fc6c592b7f8d05b6c57ae495e9c8e7fee255a62",
+      "date": "2010-06-04T22:49:03Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f01fbeb652d730dfa1276c87eb309025eddbe3b8",
+      "date": "2010-06-04T22:30:09Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0a1edc878eb99531bd3485e4a87d37bafcc0232b",
+      "date": "2010-06-04T22:21:54Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "cd9ac189abe0c4f81c04a8eadd263da8aadb7574",
+      "date": "2010-06-04T21:43:48Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3216562fbd32fc3a989ae2027bb7fac001f4d595",
+      "date": "2010-06-04T21:33:08Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f17b040d1e27b2139d560394d252aa16ebc55fec",
+      "date": "2010-06-04T21:18:14Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "84534365d89b5537f9c578a9c3502fc2003ae331",
+      "date": "2010-06-04T21:13:11Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0166d100a7a92913503fd54299a6566f357f95f0",
+      "date": "2010-06-04T09:11:26Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "commit",
+      "id": "f0da9cd49b2bfd902df19413426bae6dd92968d0",
+      "date": "2010-06-27T20:53:16Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 263843,
+      "date": "2010-06-04T09:50:43Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273143,
+      "date": "2010-06-12T19:52:37Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273948,
+      "date": "2010-06-13T22:48:20Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273971,
+      "date": "2010-06-13T23:28:31Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 274076,
+      "date": "2010-06-14T02:20:49Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 1018695,
+      "date": "2011-04-18T01:00:32Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 1018698,
+      "date": "2011-04-18T01:01:04Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 1982244,
+      "date": "2011-09-02T19:21:40Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 3490558,
+      "date": "2012-01-14T06:15:01Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 293613,
+      "date": "2010-06-30T13:54:37Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 301080,
+      "date": "2010-07-06T07:22:40Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 303274,
+      "date": "2010-07-07T19:13:47Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 303937,
+      "date": "2010-07-08T06:59:46Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 303976,
+      "date": "2010-07-08T08:14:34Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 305370,
+      "date": "2010-07-09T07:24:09Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 306426,
+      "date": "2010-07-09T23:08:36Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 346703,
+      "date": "2010-08-09T06:51:54Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 346731,
+      "date": "2010-08-09T07:42:40Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 346741,
+      "date": "2010-08-09T07:57:49Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 346755,
+      "date": "2010-08-09T08:20:49Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 346862,
+      "date": "2010-08-09T10:50:18Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 347489,
+      "date": "2010-08-09T18:03:37Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 347954,
+      "date": "2010-08-09T23:57:07Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "pr",
+      "id": 17,
+      "date": "2011-04-18T00:58:56Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "issue",
+      "id": 5,
+      "date": "2010-06-08T09:09:10Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "issue",
+      "id": 4,
+      "date": "2010-06-04T23:17:57Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "issue",
+      "id": 3,
+      "date": "2010-06-04T09:44:34Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "issue",
+      "id": 151,
+      "date": "2010-07-10T09:48:03Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "issue",
+      "id": 150,
+      "date": "2010-07-10T09:08:51Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "issue",
+      "id": 148,
+      "date": "2010-07-05T15:37:22Z"
+    },
+    {
+      "dev_id": "cldwalker",
+      "repo": "lsegal/yard",
+      "type": "issue",
+      "id": 147,
+      "date": "2010-06-27T21:13:15Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6e8670983172b9f1a230f614ae2e4acae07ea0ca",
+      "date": "2014-08-11T18:58:19Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2544f2448ba7e16145c4d78e7f1133fbfba51c09",
+      "date": "2013-06-05T21:17:05Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d1c7174d834a051b9b057e0b00de9a443c0c286c",
+      "date": "2013-06-05T09:10:48Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "48cbe0441e20ec64be3689fe05e17a606ba073e8",
+      "date": "2013-01-19T16:52:52Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "21932dc8b78511df6d6f76e55ff1dd07e2e2308d",
+      "date": "2013-01-19T16:46:00Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "95a4b0b0295912ca01a5b33f063b32247f96b296",
+      "date": "2013-01-19T16:41:36Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7b6bde24bd929b6b399b41b0f5470c2596ec1205",
+      "date": "2013-01-19T16:37:14Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0610c401a95a4240c25dd9c56c3bf36c4bac93bd",
+      "date": "2013-01-11T21:30:51Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "cda4102ea4176bb747f7b53f0c746a8efee0c323",
+      "date": "2013-01-11T21:10:18Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e42508a2c4729a7e664878f01a3e22a330b99825",
+      "date": "2013-01-11T20:44:57Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "23b9c26ea08c7dd20ebdad5525a05e52d0d3d20f",
+      "date": "2013-01-11T20:41:24Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "322972d13c22b5e8bfd926960dc5f2c5888534d8",
+      "date": "2013-01-11T20:25:06Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2d562bba3cb0d6580c4ca6b06455233e8700ee98",
+      "date": "2013-01-11T10:46:27Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c5435e9352326f2c20ff1b8ebbca5e5559b2a0c1",
+      "date": "2013-01-11T10:33:11Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2f651c8f48ceda0a0e0f5a93264c2448804d7526",
+      "date": "2013-01-11T10:16:46Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b27e22abae096091512c6efa0f24c59419638e54",
+      "date": "2013-01-11T09:54:09Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ef84e7f9be0a4d2f70ef62fb5e576d6e9d5bb270",
+      "date": "2013-01-11T06:06:45Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3c354a72ca90d14c0578eff3ea2b2587b7c29ce2",
+      "date": "2013-01-11T06:05:43Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b150a716fe191eeadfe1586e6a84fcb2aba72854",
+      "date": "2013-01-11T06:03:48Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8108a85b250b3fe0f8731e422b869cee4b90537a",
+      "date": "2013-01-11T05:57:17Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "26c6c48ec99f000af30d30d4b2ea3687ac0a9c09",
+      "date": "2013-01-11T05:51:01Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7fe5f0f8631a391ff709932b4fd5fed1e8be0a0e",
+      "date": "2013-01-11T05:41:45Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e8b1f133222cf7d270989ab4a09ea1d2cc22f9d5",
+      "date": "2013-01-11T05:32:17Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b7f0bd220789428c7e3cd4e29759904a91c44674",
+      "date": "2013-01-11T05:22:28Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "1b9a40b7406776dec456bc826f5ee18ca9b11651",
+      "date": "2013-01-11T03:37:57Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e911d558e2bf388b0e35bbdd7828bad2f53e8459",
+      "date": "2013-01-10T20:34:27Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "73d9591caba3784ad18f3c08f3ff87114a8d5023",
+      "date": "2013-01-10T17:26:05Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c72a4fb38bc4425c51fec2e408a57019f38a015e",
+      "date": "2013-01-10T17:10:02Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "16e854172471e3e9985815b14315d8e8ea32cc8f",
+      "date": "2013-01-10T16:46:42Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "59d6407df832f492a6e4a687e3aafb9dbd85973b",
+      "date": "2013-01-10T16:38:44Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "34a00a978dc82e180567fb7097eceab05d56808a",
+      "date": "2013-01-10T16:32:38Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9c15cec644142d19cabfe41e9ba352be2ae285c5",
+      "date": "2013-01-10T15:50:04Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f9f5c3efe210cd102bf7aa740763964c7e375c5a",
+      "date": "2013-01-10T15:42:46Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ac513a4d6ed766d78daae8b4b9fe9370bcc84eee",
+      "date": "2013-01-10T15:21:49Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "57193b7c982acf5a8563b43e29701c4610b3644c",
+      "date": "2013-01-10T14:19:30Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "44dae13adca0e4c8379a7e8ab124784aa0a78d77",
+      "date": "2013-01-10T13:56:06Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6873b9aa518177eebba01032fbdcf2fc8bd7b4fb",
+      "date": "2013-01-09T14:34:01Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d4058cb00283b4f1e66d31d3bc0da77eba321e10",
+      "date": "2013-01-09T14:08:26Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d828251846914781d319f8e7cbd185c2e5412d09",
+      "date": "2011-02-02T17:55:01Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "22b7755e05444be2dbef76db0a63b2a94b49ccac",
+      "date": "2011-02-02T17:50:54Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c22d3e0a7a43d62472546580e7cf1299378d12cd",
+      "date": "2011-02-02T17:49:03Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "71da0648cfc5d0d8d95f0e96b6979cdb1f50cdf8",
+      "date": "2011-01-15T19:57:53Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "694fb3916981633883b518c25ba23f92c943283a",
+      "date": "2010-12-27T20:40:21Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e97fbbdad3f9c07564ff4446de00fc8ee874aca2",
+      "date": "2010-12-27T20:36:12Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d9434587eca9504f0510ce872d345de8fc22cd7d",
+      "date": "2010-11-25T08:48:09Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "5c344a666a299f2513767d09222b35239d71ff3e",
+      "date": "2010-11-19T16:00:09Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "bbde469f40f5c78e1741f5802be0730df4adc3aa",
+      "date": "2010-11-19T15:58:31Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "516fb1c4d04b3718bdc69b2e6058acc05e7f29c1",
+      "date": "2010-11-19T15:23:31Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ab792f750bf725bd583bab1ff0567f1a4d679982",
+      "date": "2010-11-19T12:41:37Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9a1317c7a80ce41e7ee8bf331feaa094d19d018d",
+      "date": "2010-11-19T11:48:11Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "11aab588cfb109f0a934a10d0d341e1be36ff0c3",
+      "date": "2010-11-19T11:47:37Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4dcb8a4650d7c42c6e996349a9250895edae27c1",
+      "date": "2010-11-19T11:44:10Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3cb540d3316f6c15e463ae3cee34ad312d049b77",
+      "date": "2010-10-14T11:07:30Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ad0ffc43fa565526d083728f9047f2aaf490723c",
+      "date": "2010-09-17T17:22:09Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "cfedf4198cb89c6e88f3834cfb93d69405cc1a36",
+      "date": "2010-09-17T17:19:12Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4f735ec1cb8f4c75a82947d427fbf8e81e003421",
+      "date": "2010-09-06T09:17:02Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f54b89a10466eeb832fd1bf3668ec37a593fa8c9",
+      "date": "2010-09-06T09:16:56Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "21007b284c4bff846949cc8be48f0779a578958e",
+      "date": "2010-09-06T09:13:20Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ebd1b142e72c89522f6f623c88bd1a6b16daf277",
+      "date": "2010-09-06T09:03:40Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c23f360cf47d91bf6d5b3c1b9773ed68e94092fc",
+      "date": "2010-09-06T08:55:41Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2c844449229e0c3ccf4ac4048e9189e743586d26",
+      "date": "2010-09-06T08:54:49Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "525a0f4b352973e078a25111d0c303348ccabc95",
+      "date": "2010-09-06T08:53:51Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b0ec6327043af7b763b9b4ecad5acd8fdf289acc",
+      "date": "2010-09-06T08:52:30Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c22266d9909cbee9870f951a62ab1735a6325f83",
+      "date": "2010-09-06T08:46:52Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e8df4deb7313d86becb49e7e9d550e783b7c97e9",
+      "date": "2010-06-12T16:57:02Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ef527fc654a6b6972b4d014ced05d6e77024190c",
+      "date": "2010-05-21T21:39:52Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3e000c36a84cfc8f9e4158ebe04fc7cb18651e80",
+      "date": "2010-05-21T21:34:11Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "bf9c7a77eab21210746d9b5a683c3c191d31a032",
+      "date": "2010-05-21T21:20:56Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "13f32edadc272f43a37c30c52723317918aee0a5",
+      "date": "2010-05-21T20:16:45Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "01eff9f4b06b57b6b6b93b275c8faba973181fa5",
+      "date": "2010-04-17T13:48:33Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f5af0f3f0379f1af692aef9e5e09e67db4cb6073",
+      "date": "2010-04-17T13:48:03Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8a99225b3a26d20ec6e11351916c7ee281b3234b",
+      "date": "2010-04-17T13:46:58Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "27aff53aaa9835c1b53a7856036d567da0021f93",
+      "date": "2010-04-12T09:56:46Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6d4adf20f097ee4d66e298b353ca4e9f2619048a",
+      "date": "2010-04-12T09:51:12Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "61f1319761e0fa1aac1aeecb48ecfcfab126ca14",
+      "date": "2010-04-10T00:08:04Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8a3b870862286046e9bee8bcf82ec49aba711801",
+      "date": "2010-04-09T11:14:20Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9ef21ec13625ecb107a4385d06eb95ed6659add1",
+      "date": "2010-04-09T11:05:11Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ad7dd331e89b34a16df89d709986c3461d0085ee",
+      "date": "2010-04-09T10:54:56Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "19bd759569b2f3115bbf91a311566b96fac8f21c",
+      "date": "2010-04-09T09:13:52Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b3c9d7ef6f86824eefef89f4c659dc23a6e45268",
+      "date": "2010-04-09T07:16:41Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0bc3c140c873ef1847ab521fa7f80957c765ed7e",
+      "date": "2010-04-09T06:30:50Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0ee449be1f6d25fd140f159ecdbf64c39cb58e3e",
+      "date": "2010-04-09T06:14:34Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9a41ef04fbf50225aa8172bee8537242ab3b3da4",
+      "date": "2010-04-09T05:55:36Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "491135edf773b9733dd82487f6a7df2ff8c0f26c",
+      "date": "2010-04-09T05:46:04Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6c389b9d2aa14fd28fcb27e58723fcf17df4d3f5",
+      "date": "2010-04-09T05:22:21Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "413461af38df7bd9992ee0dfe46456d83402496e",
+      "date": "2010-04-09T00:47:41Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d7e4ac78c928fd5e7014e629e28a987a3f167271",
+      "date": "2010-04-08T13:43:19Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "df79baa06923554a030f5f2a3dc98407eb9fd0a8",
+      "date": "2010-04-08T12:40:25Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ea7898d1a376827177b80d4643dec9440a6fa3bf",
+      "date": "2010-04-08T12:27:25Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4dc0f89b2a5b58a10e3a55489ad09b420b59ebd7",
+      "date": "2010-04-07T22:18:04Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "1ef09400444193b0200ba33d3f905bceafa669f0",
+      "date": "2010-04-07T21:56:50Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "08235ef157e72d4456dcef49fab4a9d956a0446d",
+      "date": "2010-04-07T09:10:14Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c98fb73b5cdde76fba48b65bd53d666ad13e4bea",
+      "date": "2010-04-07T09:04:36Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6c1bdb7367ffd6d3290d01f39bd4d58835894250",
+      "date": "2010-04-07T08:47:41Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "601df3b5ae6c80ab8c8dd62dd2746a5b42200ca9",
+      "date": "2010-04-07T08:35:47Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c8e044f78807c16d878aa16c1c5a6776ca720888",
+      "date": "2010-04-07T08:31:42Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3dc7796522b9c0095c3c97154862f280e2d1f73f",
+      "date": "2010-04-07T08:27:27Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "1d8e55d43ef5d9491137c47531cc16dca9eb8d7d",
+      "date": "2010-04-07T08:25:10Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "13fae205b5e72b20faf84aa53966fb64d6b92d66",
+      "date": "2010-04-07T08:16:04Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e335147c67b02e26be0bc548474bb7ff8d652985",
+      "date": "2010-04-07T08:15:19Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "73159c337f624f1114be762eb43330206301004c",
+      "date": "2010-04-07T08:01:07Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "a09dc165585ee031c0656bd440fe39acb9451bc0",
+      "date": "2010-04-07T07:07:29Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "eaf1795d21142f78b67c36362dde20a8111f7978",
+      "date": "2010-04-07T06:11:40Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "28301519c192457421377efd356d491aeddcb07b",
+      "date": "2010-04-07T05:53:23Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e74ee0e714fa3fa8c284e8015e95db1c748d9a77",
+      "date": "2010-04-07T05:52:06Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "83292fd17cea986408ea31faabcff9bf971f4988",
+      "date": "2010-04-07T05:48:44Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "dae5da4c63f172a729bb80e106d51b48ed1fcd22",
+      "date": "2010-04-07T05:44:00Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7f6a0f64cae7085ab2c158fc1d896cf9f022fcd1",
+      "date": "2010-04-07T05:41:28Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "01d5b36b5019c6c5d69ef8ce0bc8a9ebcd6ec890",
+      "date": "2010-04-07T05:40:05Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4bd2880b01eb3fb149e3ada889f341d409de666d",
+      "date": "2010-04-07T05:38:43Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "5883dab84fd4af2a81f4a4786bbe64c078c49f2b",
+      "date": "2009-12-20T14:12:47Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "609d685474c84ab9efb030f7f14f7b9936fa0532",
+      "date": "2009-12-20T14:11:59Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9ae86232996854ec017c4df7529359b21e3ef595",
+      "date": "2009-12-20T14:07:57Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b9f295752675faaf6f858344cc716dacc91c08df",
+      "date": "2009-12-20T14:05:02Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e6042bac8b33212611e6b460480e22b8217d3cc0",
+      "date": "2009-12-20T14:02:13Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d60f57a88119b3d53aadeb4c084cb89c9da4f668",
+      "date": "2007-12-04T03:17:28Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "fa11d324a02a1c63116fce9c2fb27d3aafa2d62f",
+      "date": "2007-12-02T18:02:30Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "54715010e2bc50badf16f0652ac22b886bbb30f8",
+      "date": "2007-12-01T12:40:41Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7ffb6877abb7188376aa145835c71a47604f6817",
+      "date": "2007-11-05T03:12:34Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d2523efb15a9b9f918f289106946ef702b604ee1",
+      "date": "2007-11-05T02:40:08Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7bb0d8a4a76cdbbbf5724752aa4309cc187f0004",
+      "date": "2007-11-05T02:39:23Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "eb85ba54a925e074d2cca89fb64130d3f1a24220",
+      "date": "2007-11-05T02:18:36Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 184654,
+      "date": "2010-04-12T11:37:27Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 263841,
+      "date": "2010-06-04T09:49:14Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273000,
+      "date": "2010-06-12T16:41:55Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273106,
+      "date": "2010-06-12T18:40:10Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273110,
+      "date": "2010-06-12T18:48:32Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273121,
+      "date": "2010-06-12T19:07:24Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273130,
+      "date": "2010-06-12T19:13:18Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 273990,
+      "date": "2010-06-13T23:50:59Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 274092,
+      "date": "2010-06-14T02:32:55Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 392599,
+      "date": "2010-09-07T10:33:59Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 410416,
+      "date": "2010-09-16T11:58:48Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 413640,
+      "date": "2010-09-17T17:37:13Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 415722,
+      "date": "2010-09-19T10:27:20Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 467858,
+      "date": "2010-10-14T07:59:43Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 733024,
+      "date": "2011-02-02T17:58:26Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 12456282,
+      "date": "2013-01-19T15:35:21Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 16341738,
+      "date": "2013-04-13T22:02:16Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 26075641,
+      "date": "2013-10-10T17:52:24Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 39318266,
+      "date": "2014-04-02T11:14:28Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 50090147,
+      "date": "2014-07-24T23:09:36Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 247471,
+      "date": "2010-05-20T15:11:20Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "lsegal/yard",
+      "type": "com",
+      "id": 247478,
+      "date": "2010-05-20T15:15:35Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "issue",
+      "id": 29,
+      "date": "2013-01-19T15:35:05Z"
+    },
+    {
+      "dev_id": "bendiken",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "issue",
+      "id": 1,
+      "date": "2010-04-12T11:36:02Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "1b507ff678983b7dccdfd32ab5be0691b7c3cf8a",
+      "date": "2015-11-07T17:51:04Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "311b7b6b763a12d289979dc2aafe78e277eb0392",
+      "date": "2015-11-06T02:53:59Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0254d4787237c9a5ea99835fb7ed9ad1ae4d4dce",
+      "date": "2015-10-31T01:27:47Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "67fa46f27e56b735de5b0a1e4fbf5b770152aca0",
+      "date": "2015-10-15T00:39:20Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3f71e0712ad1816ef5f352aef864963dd4f4203b",
+      "date": "2015-09-14T14:18:32Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f5b81624be38a7badaeaaa4622d771c1315f1c4c",
+      "date": "2015-09-10T19:06:14Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "866ecef9985b4730d4758a3019821c7da4aad01a",
+      "date": "2015-08-29T00:04:30Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8eef974b296ba6db89f9a1a2916aef9b194a3e63",
+      "date": "2015-08-28T22:56:22Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "bc105b9baac48196c29f8434a6d0030890f5ab72",
+      "date": "2015-08-28T18:29:49Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "67218b6a601bd71b22912d65716c2c95156fc991",
+      "date": "2015-08-28T18:26:41Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "142e85cd7ac14d9d195b7291d9683caf9343782b",
+      "date": "2015-08-28T18:25:38Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0c7474d14c3178567990847e471a16328b4d919b",
+      "date": "2015-08-28T18:18:58Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7602ee06db1376aff1fd2e3d52900a984c488ec7",
+      "date": "2015-08-27T23:15:34Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "62161749b0b028f455ed7b5dd4645e1d1cfedd0c",
+      "date": "2015-05-05T01:06:11Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8425f794ae0d49a0ad828c70642b0e91055010fd",
+      "date": "2015-05-05T01:02:06Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f5f2b06ff2693717ba68434169a6de2a08636778",
+      "date": "2015-05-05T00:44:19Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2460c93aad6c57568622312d349b445a8c7ff2b6",
+      "date": "2015-05-05T00:42:33Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e120e271330c7144e75078e0a7bc2d5e48769455",
+      "date": "2015-03-04T21:28:37Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "924b0cecde3929cde5caf4a693a70eeac1b7b613",
+      "date": "2015-03-04T21:24:59Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9a5df9bf02c440078f2e40c7d86e705f9a278153",
+      "date": "2015-03-04T21:18:49Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b91382c5cef0f79160df390a837db9ace4b32f10",
+      "date": "2015-03-04T05:03:19Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c85826b546592b4ce687445c1c4935fcac5d8028",
+      "date": "2014-10-24T20:17:05Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "722f905360af37555b574551049ef348fb44ff6b",
+      "date": "2014-10-16T17:38:41Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "13263c109e83df349a64054861d29bdf3f2507eb",
+      "date": "2014-10-07T00:07:57Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "406054f2d974b3ed42b8fab9574232dcd502aa8d",
+      "date": "2014-10-07T00:02:37Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8eb1f2711a2072511548f29fb5d88c3bb1538bbf",
+      "date": "2014-10-03T19:29:03Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6a54ca5e130149528fba3fc7c45296015427af99",
+      "date": "2014-10-03T19:26:37Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7ca453a7b064520d71f9a15520849218d9fd4211",
+      "date": "2014-10-03T19:00:30Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7028605ae5a0122443bd1f057657ddf1b9a0321b",
+      "date": "2014-10-03T00:16:33Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "561e18ee7f8e1be98a16147f6445579cdfa6ee61",
+      "date": "2014-09-30T00:13:45Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2d7f1ac6223d5ed9f91e30ac6d5c3f7c339585b2",
+      "date": "2014-08-25T18:51:25Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "fa787c41567e5f71eab902e003fcd9bf8d2c84ba",
+      "date": "2014-08-25T17:42:27Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6f9839b35bbfde2cd6d3ef569c8467efa3a87d88",
+      "date": "2014-08-25T17:39:54Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "ce283e0f78f75d288acdf4d7ff4b8875db88d625",
+      "date": "2014-08-25T02:29:08Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f6a1db6dc7e197fccde5d3bf7fb23fe20373ac9f",
+      "date": "2014-08-25T02:28:12Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "bda0015e3c972d119e697dee541abdaf017f3514",
+      "date": "2014-08-24T20:46:25Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "10e9657be5f90432da8f9eb2225e76138bbbceb4",
+      "date": "2014-08-24T20:45:35Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "21ac68c8f296819b1d26d1ca24d17f2047c3b7d2",
+      "date": "2014-07-30T00:08:49Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "37268c46a964938627f3b59007c16e008343e957",
+      "date": "2014-07-25T21:01:38Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "72da7a50cc742ae018d991e9822b3a11eec9b2e2",
+      "date": "2014-06-30T22:06:12Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6ef7c69851c57715e1c986d10b9f0b89b4f9bcfa",
+      "date": "2014-06-30T22:03:07Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e782c27d553690219f43931de17f0fcbc38597af",
+      "date": "2014-06-30T21:40:43Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "9271c7a3893948716942da97edadc3f0e7e7e473",
+      "date": "2014-05-10T22:37:18Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "c40db4e8dd3172617445f50500fe521ae14b7f14",
+      "date": "2014-04-06T20:27:36Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4621651b4dc9eed888236e3e4e5879451111905e",
+      "date": "2014-04-04T17:25:32Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "5245b1f1f66d50039fdd042e308df38ec0fc24c2",
+      "date": "2014-03-30T22:40:24Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7c7e4b80b41566fb19bfd23abd4689a7ea57fd96",
+      "date": "2014-02-27T02:11:43Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7090a64c5ccea77d80cdbb6c3cba3d7ad8c5d7f9",
+      "date": "2014-02-27T02:07:35Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "a56d56c5381be02bfaacfc48490a9c2da2832557",
+      "date": "2014-01-10T05:22:33Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6d9608f3e38933618d78dfc6cd4dc5b6714a11d5",
+      "date": "2014-01-09T22:46:44Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b763758c7958995b8bcaa108886ccf6ef7222cac",
+      "date": "2013-12-31T01:30:02Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "0c6e7d1603b33f9e0a86b42a6e36d7460565845f",
+      "date": "2013-12-30T20:12:57Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "028241f34b50028af01b1cc939e23bca6aa9c526",
+      "date": "2013-12-30T20:09:14Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2a394d20452f8beb30aeeec4ca4ba58d252d3b13",
+      "date": "2013-12-20T01:46:00Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4268ce94c3055209c26d8135ff8d21ad381adfae",
+      "date": "2013-12-20T01:45:47Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "70c6ba358706e85b1b5645145e81af02301e5277",
+      "date": "2013-12-19T02:56:54Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6961d820f4a8069d9d2230b3a8911680e861af99",
+      "date": "2013-12-19T02:52:36Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "3c668a4881afdc05b123f0bad276a1f8a8b2738a",
+      "date": "2013-12-19T02:46:51Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7d6d1f528bced378193ba43df4c17e5fd0d9dfba",
+      "date": "2013-12-19T02:20:26Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "82731cbc74ee9a703dc3d09daf39eab86670bc70",
+      "date": "2013-12-06T19:58:22Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "717b258bc02b5568d5193d072fee1b695b37bc33",
+      "date": "2013-12-04T18:59:18Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "fc00fdd357a67b371a860e2b54aeaf45625e6a4d",
+      "date": "2013-12-04T18:24:32Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d1dae680df05239e8c738b78589da03abda8af68",
+      "date": "2013-11-14T23:25:15Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e13fc812712d3e0e4e679daa0881ba30650c09cb",
+      "date": "2013-11-14T22:58:11Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "cbbffbd70831cf378caa1d708057ebe28bc23026",
+      "date": "2013-11-11T21:10:39Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "13055ce0a6c5c72cdbb677c775357137a15af67d",
+      "date": "2013-11-11T21:09:10Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "69ad7003bc862111f814441909640013393daa51",
+      "date": "2013-11-04T06:11:33Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "62903dcea8d227dfe7b4c28a624a42744298a82a",
+      "date": "2013-11-04T05:47:44Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "29256e69aa6919bd9fb7d2cae05c61ead05884c0",
+      "date": "2013-07-08T22:35:10Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b48f6900761e6238ec8efca15e7e99f32bedcbdf",
+      "date": "2013-07-03T23:30:56Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "344749d7cdb5afb22760518bb89d3dff68c457c4",
+      "date": "2013-06-20T15:49:10Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "65e6834e9d386d58a293f4422f8adbfb514646ea",
+      "date": "2013-06-19T23:14:03Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "344605001ed40f757cfb56300c6c80df61017bab",
+      "date": "2013-06-19T23:09:54Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "77fd04f09e3717e985d2ecfd954521a331d1ad70",
+      "date": "2013-06-19T22:11:16Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "686ccae87dcfe45fe156512cb3007cb27a933a51",
+      "date": "2013-06-19T20:26:40Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b207bf784719a4d53a1fb8a2052559b4d47e4a88",
+      "date": "2013-06-18T17:58:19Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "1ad968f3975119281e2a32dc110a46a1b86d25d9",
+      "date": "2013-04-18T23:00:42Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b46221b7ee456d705018d046e710d18ecf4390a5",
+      "date": "2013-04-18T02:25:03Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "cdb0762dd0d89ac8c340a67a49567d96edc0c4ba",
+      "date": "2013-04-18T02:24:49Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "fcfe4b678df03dc1caaad7f58e281bafac68bd06",
+      "date": "2013-02-15T00:39:25Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "1fbb4d8cb443af4b3cd004ef4cb15f128642bda0",
+      "date": "2013-02-15T00:38:21Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "34a6d6e9075899b91e70b099ca2de052b41a58bd",
+      "date": "2012-11-15T16:02:28Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "8823097aa9bf3029085610a6c902690d7372751b",
+      "date": "2012-09-29T01:57:13Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "97ccf34f6bac4bbdb313b2a8eb628eca13c4bff1",
+      "date": "2012-09-29T01:47:36Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "96be07cd23e679519d08740b6a43b5c57401a033",
+      "date": "2012-09-29T01:44:37Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "cb34e86e81d04468ab794fa4b7c9b2ce8df9a2f6",
+      "date": "2012-09-29T01:37:14Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2e36ce4a88f95a0eca0f4b92758ed4acaeb57b98",
+      "date": "2012-09-29T01:35:44Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b9160e71d19ea49882a15e46c1666c3ac873a21a",
+      "date": "2012-09-29T01:35:06Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "97a5ec01f441214ffc4e750f923d06b838153a0a",
+      "date": "2012-09-28T16:50:00Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "514265417cb6782dd0f83222ec2c3e5109435a5b",
+      "date": "2012-07-19T01:05:22Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "faaa7938e295c13afa230d1bf4d85242beaf075a",
+      "date": "2012-06-09T01:09:41Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e5b3afb6fdf5d313e873fb12d296c70a5e16d717",
+      "date": "2012-06-09T01:08:58Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f5ca0f6b7203a721202b75ba6873f83bd0f613df",
+      "date": "2012-06-03T01:04:15Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d680b9b2dbafe9250a44fd467cff84deb306cca6",
+      "date": "2012-06-03T00:59:03Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "f65108ea4df1a7c864d163db839b179491110a8e",
+      "date": "2012-06-03T00:58:39Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "e34f3eae32b171cad5e3de7811026abf2fb77eec",
+      "date": "2012-05-17T00:40:53Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "32f0dd445e383c768c85488dc749bd8d97a1c236",
+      "date": "2012-05-16T19:20:50Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2fbc0ab163fb8f895808a795311bf43c841106ad",
+      "date": "2012-03-20T18:27:09Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "4d319a16bf2426814bb1d2ac1c64fc7e6be3b3cc",
+      "date": "2012-03-20T13:56:40Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "2ec2ec57893eb628815daf22df9dcd822f4e5d43",
+      "date": "2012-03-20T01:42:09Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "980306f01244bdfd102b9088d05661d9249a009a",
+      "date": "2012-03-19T20:20:17Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "88e96049f6b2b2a142212d77410068cc3136b415",
+      "date": "2012-03-19T20:18:25Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "d503d6431ff0679cc791fa9feda9bb0b15016bbe",
+      "date": "2012-03-19T19:49:55Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "47cbfb7a1387f7af37970707959e0221e6f7de14",
+      "date": "2012-03-19T19:46:31Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "93f1ce3bb9978b2db79cc893751bf6933e3ae901",
+      "date": "2011-10-04T05:05:45Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "b395914e6f91778a9becd9697fa328d81d629c8a",
+      "date": "2011-10-04T05:04:12Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "6ca178b0e56f9971c0137f8b6eef3f7643bcdf84",
+      "date": "2011-10-04T05:00:21Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "dce30fd44308a7ca1624c2fff3dd64e191375822",
+      "date": "2011-10-04T04:59:54Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "7c127c11fb8ef9d97c4477d5c8c63535ceac5ad7",
+      "date": "2011-04-21T18:01:10Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "commit",
+      "id": "689356a3f66683100f2203c5bc2236f04554ff00",
+      "date": "2011-04-11T20:04:12Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 2281216,
+      "date": "2011-10-04T00:29:23Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 2282572,
+      "date": "2011-10-04T05:03:33Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 2282615,
+      "date": "2011-10-04T05:16:58Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 4582713,
+      "date": "2012-03-19T20:23:00Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 4582724,
+      "date": "2012-03-19T20:23:41Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 6026047,
+      "date": "2012-05-31T01:47:32Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 6082069,
+      "date": "2012-06-03T01:08:34Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 6210318,
+      "date": "2012-06-08T18:50:30Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 6216054,
+      "date": "2012-06-09T01:12:01Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 6795339,
+      "date": "2012-07-06T01:37:52Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 6795525,
+      "date": "2012-07-06T01:55:22Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 26076752,
+      "date": "2013-10-10T18:05:27Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 30884854,
+      "date": "2013-12-18T21:55:00Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 30901606,
+      "date": "2013-12-19T02:57:56Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 30901771,
+      "date": "2013-12-19T03:02:17Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 30901826,
+      "date": "2013-12-19T03:04:03Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 30932019,
+      "date": "2013-12-19T14:26:43Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 36202907,
+      "date": "2014-02-27T02:13:34Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 39042543,
+      "date": "2014-03-30T22:40:45Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 39679588,
+      "date": "2014-04-06T20:25:51Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 40020191,
+      "date": "2014-04-09T21:42:58Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 40884974,
+      "date": "2014-04-20T01:01:12Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 41436588,
+      "date": "2014-04-25T20:35:49Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 45178811,
+      "date": "2014-06-05T04:00:16Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 50496932,
+      "date": "2014-07-29T15:58:21Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 50557611,
+      "date": "2014-07-30T00:14:54Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 52684486,
+      "date": "2014-08-19T19:16:23Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 57039481,
+      "date": "2014-09-27T02:19:55Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 57718228,
+      "date": "2014-10-02T22:13:01Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 57731436,
+      "date": "2014-10-03T00:18:15Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 57828586,
+      "date": "2014-10-03T17:40:02Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 57829228,
+      "date": "2014-10-03T17:44:56Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 57829379,
+      "date": "2014-10-03T17:46:09Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 66159913,
+      "date": "2014-12-08T18:21:25Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 66160155,
+      "date": "2014-12-08T18:23:18Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 71527247,
+      "date": "2015-01-26T20:01:12Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 131580375,
+      "date": "2015-08-16T16:42:57Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 131882700,
+      "date": "2015-08-17T16:34:34Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 131967346,
+      "date": "2015-08-17T21:26:46Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 134427395,
+      "date": "2015-08-25T00:45:23Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 135177271,
+      "date": "2015-08-26T21:34:56Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 135194715,
+      "date": "2015-08-26T22:20:41Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 135209439,
+      "date": "2015-08-27T00:01:08Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 139345657,
+      "date": "2015-09-10T19:01:08Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "com",
+      "id": 139351351,
+      "date": "2015-09-10T19:15:34Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "pr",
+      "id": 62,
+      "date": "2015-09-14T14:18:23Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "pr",
+      "id": 16,
+      "date": "2011-04-11T22:37:03Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "ruby-rdf/sparql-client",
+      "type": "issue",
+      "id": 58,
+      "date": "2015-03-06T18:46:55Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "lsegal/yard",
+      "type": "issue",
+      "id": 567,
+      "date": "2012-07-05T23:13:12Z"
+    },
+    {
+      "dev_id": "gkellogg",
+      "repo": "lsegal/yard",
+      "type": "issue",
+      "id": 545,
+      "date": "2012-05-18T16:30:03Z"
+    }
+  ]
+}

@@ -1,0 +1,3172 @@
+{
+  "user_repo": "nateware/redis-objects",
+  "dep_repo": "redis/redis-rb",
+  "dep_date": "2009-11-26 19:39:07 UTC",
+  "dep_commit_id": "7d7e897cbce76cc46993584a39ce823460042e41",
+  "social_date": "2010-03-26 20:38:22 UTC",
+  "devs": [
+    "yaauie",
+    "nateware",
+    "dbalatero",
+    "james-lawrence"
+  ],
+  "interactions": [
+    {
+      "dev_id": "yaauie",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "f5fd6ac9fb8217c92cb8c3a25a45fd0965453d39",
+      "date": "2012-02-03T18:45:56Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "0ef58263622087d1218cc6123b03d50061357a8b",
+      "date": "2012-02-03T18:42:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "b8bfb62156d9318eccbe84767b6a65a4ee93dafb",
+      "date": "2014-08-14T19:34:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "7db6501edd642569e692d6b721263652fbb3646d",
+      "date": "2014-08-02T04:36:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "30d0e12defe11178af97596daaad6743e20e4c2b",
+      "date": "2014-08-01T10:12:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "f6dd362c47608efefc07359724a634bf8a22c5fb",
+      "date": "2014-06-12T04:48:15Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "7c4a95413009cefa0c74d8d320f1ae90a1c953c2",
+      "date": "2014-06-06T06:47:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "3b57cd3e5749ffee7f6c83787eb677a9007c1130",
+      "date": "2014-06-06T06:34:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "e221f90745445f35e6cd528bcad09e9ad7fe7451",
+      "date": "2014-06-06T05:58:46Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "dad7c6f31a2678f91978f49991225d34fee289e2",
+      "date": "2014-06-06T05:55:04Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "a38414076d968b0f6f42a6d60266e5d6d0e4d605",
+      "date": "2014-06-05T15:35:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "bf8c7a000feb78f779e5efce8afc775d232564e7",
+      "date": "2014-06-05T07:49:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "c0fb67c25c3aa362a7e70925601ec5cebc489b84",
+      "date": "2014-06-05T05:26:56Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "dbb1fc8907d0c3699c5880d7399bad17fc97267c",
+      "date": "2014-06-05T05:12:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "48e6327d185546eb536c7668ce5a5dccd36b6b87",
+      "date": "2014-06-05T04:47:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "ff80100c36eaff761ca5a525374069ee7482f477",
+      "date": "2014-06-05T04:20:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "d15b396060bdb6911ca8333352346828600508fd",
+      "date": "2014-06-04T23:12:53Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "d5146a8f9592c6dd162beafcda1433d96946a6cc",
+      "date": "2014-06-03T16:54:42Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "ed865742856ee68812747a287dd4980cc68248c9",
+      "date": "2014-06-03T09:33:22Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "b4d7869f011b6a5cccab6be7bb1fd14ca03b2ff8",
+      "date": "2014-06-03T09:32:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "08e134668d3cf7f017fa2c8a18718d61d11163ec",
+      "date": "2014-06-03T07:10:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "59c71f4f75951aec4c4cfbaeb019b91fca1517db",
+      "date": "2014-06-03T06:45:26Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "8b41f01231a144b628f9fa7d67be2b5f11162c33",
+      "date": "2014-06-03T06:44:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "5eb0c1460b21245e282318f35cb86c82ab882564",
+      "date": "2014-06-03T06:39:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "522e7a567c4bbcaf2f6ae1189a728958083ad26a",
+      "date": "2014-06-03T06:37:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "abe0a2e1b45ba9d9d0d2727381ccdcd448e062fb",
+      "date": "2014-06-03T06:37:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "8e9d1f054d215bd1ba963109e71ab86d973d016e",
+      "date": "2014-06-03T06:36:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "82c6d2068e9db0c66ce4fe0bb67feb363b5bd829",
+      "date": "2014-05-07T18:00:05Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "9c45c6c1ec9a2d4871a44e50c061e2d5188cf149",
+      "date": "2014-05-07T17:44:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "4f85a6bb10b16c3b862e49130505f838d7fcd9a4",
+      "date": "2014-03-14T21:12:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 4669636,
+      "date": "2012-03-23T23:09:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 37700764,
+      "date": "2014-03-14T21:53:43Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 39283178,
+      "date": "2014-04-02T02:31:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41881256,
+      "date": "2014-05-01T05:11:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41881883,
+      "date": "2014-05-01T05:21:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41882151,
+      "date": "2014-05-01T05:27:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883059,
+      "date": "2014-05-01T05:52:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883225,
+      "date": "2014-05-01T05:57:27Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883467,
+      "date": "2014-05-01T06:04:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 41883947,
+      "date": "2014-05-01T06:18:11Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42301883,
+      "date": "2014-05-06T13:31:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42341123,
+      "date": "2014-05-06T18:34:43Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 42376383,
+      "date": "2014-05-07T00:27:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43574985,
+      "date": "2014-05-20T00:38:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43926587,
+      "date": "2014-05-22T18:34:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43933759,
+      "date": "2014-05-22T19:32:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 43961588,
+      "date": "2014-05-23T01:02:11Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44342955,
+      "date": "2014-05-27T22:19:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44342996,
+      "date": "2014-05-27T22:19:54Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44854595,
+      "date": "2014-06-02T15:49:14Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44872205,
+      "date": "2014-06-02T18:14:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44922244,
+      "date": "2014-06-03T05:45:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44926263,
+      "date": "2014-06-03T06:59:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 44943215,
+      "date": "2014-06-03T09:35:38Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45030058,
+      "date": "2014-06-03T22:44:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45030103,
+      "date": "2014-06-03T22:44:54Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45030213,
+      "date": "2014-06-03T22:46:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45031164,
+      "date": "2014-06-03T22:58:01Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45031453,
+      "date": "2014-06-03T23:01:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45032558,
+      "date": "2014-06-03T23:16:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45033090,
+      "date": "2014-06-03T23:23:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45037259,
+      "date": "2014-06-03T23:56:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45039610,
+      "date": "2014-06-04T00:34:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45039926,
+      "date": "2014-06-04T00:40:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45043293,
+      "date": "2014-06-04T01:44:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45180507,
+      "date": "2014-06-05T04:44:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45181481,
+      "date": "2014-06-05T05:08:39Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45185557,
+      "date": "2014-06-05T06:37:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45189366,
+      "date": "2014-06-05T07:36:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45189819,
+      "date": "2014-06-05T07:42:36Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45194275,
+      "date": "2014-06-05T08:35:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45237537,
+      "date": "2014-06-05T15:53:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308068,
+      "date": "2014-06-06T06:53:35Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308091,
+      "date": "2014-06-06T06:54:00Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308115,
+      "date": "2014-06-06T06:54:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308145,
+      "date": "2014-06-06T06:54:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308153,
+      "date": "2014-06-06T06:54:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308197,
+      "date": "2014-06-06T06:55:57Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308239,
+      "date": "2014-06-06T06:56:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308266,
+      "date": "2014-06-06T06:57:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45308275,
+      "date": "2014-06-06T06:57:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45342587,
+      "date": "2014-06-06T14:29:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45680472,
+      "date": "2014-06-10T22:30:23Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45692345,
+      "date": "2014-06-11T01:28:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 45828944,
+      "date": "2014-06-12T04:26:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46318377,
+      "date": "2014-06-17T14:57:34Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46340566,
+      "date": "2014-06-17T17:42:36Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46340816,
+      "date": "2014-06-17T17:45:00Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46761979,
+      "date": "2014-06-21T19:05:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 46763313,
+      "date": "2014-06-21T20:02:46Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 47756198,
+      "date": "2014-07-02T09:42:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 48531877,
+      "date": "2014-07-09T20:47:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49074769,
+      "date": "2014-07-15T18:41:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49218637,
+      "date": "2014-07-16T20:00:48Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49902847,
+      "date": "2014-07-23T16:57:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49913538,
+      "date": "2014-07-23T18:18:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 49973135,
+      "date": "2014-07-24T06:48:17Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50376159,
+      "date": "2014-07-28T18:13:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50386192,
+      "date": "2014-07-28T19:25:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50682747,
+      "date": "2014-07-30T21:29:23Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50729628,
+      "date": "2014-07-31T08:11:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50821260,
+      "date": "2014-07-31T21:28:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50869190,
+      "date": "2014-08-01T10:12:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50903950,
+      "date": "2014-08-01T16:18:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50953685,
+      "date": "2014-08-02T04:31:21Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 50953769,
+      "date": "2014-08-02T04:37:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 51862889,
+      "date": "2014-08-12T01:24:58Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 51875871,
+      "date": "2014-08-12T05:46:55Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52134798,
+      "date": "2014-08-14T01:48:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52135169,
+      "date": "2014-08-14T01:54:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52215779,
+      "date": "2014-08-14T17:36:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52232371,
+      "date": "2014-08-14T19:35:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52361144,
+      "date": "2014-08-15T21:43:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52361214,
+      "date": "2014-08-15T21:44:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52424941,
+      "date": "2014-08-17T15:33:12Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52438401,
+      "date": "2014-08-17T22:59:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52438723,
+      "date": "2014-08-17T23:10:18Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52439364,
+      "date": "2014-08-17T23:35:51Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 52813476,
+      "date": "2014-08-20T17:39:22Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55329772,
+      "date": "2014-09-11T21:13:13Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55331923,
+      "date": "2014-09-11T21:31:16Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55932671,
+      "date": "2014-09-17T17:49:04Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55933335,
+      "date": "2014-09-17T17:53:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 55935079,
+      "date": "2014-09-17T18:05:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 56053294,
+      "date": "2014-09-18T15:14:25Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 58400920,
+      "date": "2014-10-08T18:07:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 58462338,
+      "date": "2014-10-09T04:35:37Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 59595826,
+      "date": "2014-10-18T02:14:11Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 60842500,
+      "date": "2014-10-28T22:23:45Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62167816,
+      "date": "2014-11-07T16:12:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62244680,
+      "date": "2014-11-08T04:05:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62988143,
+      "date": "2014-11-13T23:47:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 62988849,
+      "date": "2014-11-13T23:54:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 64970943,
+      "date": "2014-11-30T00:39:52Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 68284082,
+      "date": "2014-12-29T18:36:12Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 69389045,
+      "date": "2015-01-09T19:53:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 70210276,
+      "date": "2015-01-16T05:31:24Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 71791744,
+      "date": "2015-01-28T07:23:32Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74218268,
+      "date": "2015-02-13T08:06:03Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74586676,
+      "date": "2015-02-16T23:08:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 74594821,
+      "date": "2015-02-17T00:13:29Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 78418218,
+      "date": "2015-03-12T03:33:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 90205489,
+      "date": "2015-04-06T19:26:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 100277513,
+      "date": "2015-05-08T15:47:18Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 101714286,
+      "date": "2015-05-13T15:24:05Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 104348657,
+      "date": "2015-05-21T16:41:49Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 104369586,
+      "date": "2015-05-21T17:47:36Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 104744794,
+      "date": "2015-05-22T19:04:30Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 115293365,
+      "date": "2015-06-25T15:27:50Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121098834,
+      "date": "2015-07-14T00:34:56Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121102866,
+      "date": "2015-07-14T01:03:08Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121106988,
+      "date": "2015-07-14T01:35:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121133830,
+      "date": "2015-07-14T05:06:20Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 121135176,
+      "date": "2015-07-14T05:20:10Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 126443928,
+      "date": "2015-07-30T19:18:44Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 131000848,
+      "date": "2015-08-14T07:10:00Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 132859304,
+      "date": "2015-08-20T02:34:28Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 139375439,
+      "date": "2015-09-10T20:51:59Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "nateware/redis-objects",
+      "type": "pr",
+      "id": 53,
+      "date": "2012-02-03T18:50:25Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 446,
+      "date": "2014-06-12T04:52:18Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 444,
+      "date": "2014-06-06T06:42:06Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 443,
+      "date": "2014-06-05T04:21:40Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 433,
+      "date": "2014-05-12T20:31:54Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 414,
+      "date": "2014-03-14T21:17:09Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 450,
+      "date": "2014-06-22T10:54:19Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 439,
+      "date": "2014-06-03T08:04:38Z"
+    },
+    {
+      "dev_id": "yaauie",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 434,
+      "date": "2014-05-16T21:33:22Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "bc79504d45354761ce9b702ed078f7593db8748c",
+      "date": "2015-11-01T17:26:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "79c55edd9f48abd78670348f818acd569599c5a4",
+      "date": "2015-11-01T17:23:58Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "2b4b90d79d58b012a2f1436dce5f408757e48579",
+      "date": "2015-11-01T17:19:52Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "c7c26bbb571b6b70ab3413ea2fd09c6fdfb3fde8",
+      "date": "2015-09-16T13:38:32Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "2ed1f117e72eeb24985970542c06f8dea2b3a6d4",
+      "date": "2015-08-10T19:48:34Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "42539c2fb357885381ef27c8b049bafb65cf764b",
+      "date": "2015-08-10T19:41:04Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "7bedb25e295dd1f3837021f342c98fd9b697dd2a",
+      "date": "2015-06-27T20:18:13Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "a435cfd15f8d163c0d29742ce985ad98ae662bcb",
+      "date": "2015-05-27T21:14:46Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "a8f3484c50105d4a0b6095fef4428af33fc706ed",
+      "date": "2015-05-01T01:53:15Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "e7e34ef05c1f76ed9cd0683cb63067e5faffaf94",
+      "date": "2015-05-01T01:47:34Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "ae00cf0ed0a23e1698f8f91bb8d17c917ce9ff81",
+      "date": "2015-05-01T01:47:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "ba411163fb05377966aba1cebbf2ce74fc2e41fe",
+      "date": "2015-05-01T01:39:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "bffaf6925b029e88e395984abf69fd07a98806ed",
+      "date": "2015-05-01T01:38:53Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "dc0f176a3e4b72c47798aa09cda738521655dcb1",
+      "date": "2015-05-01T01:34:22Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "57993800904b1a2c8b2dc04ff4f6ae7b1d771980",
+      "date": "2015-05-01T01:32:45Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "dffb9a0e9ab6159cd3ccf1dffdafb0265c8f2d88",
+      "date": "2015-03-25T00:06:32Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "b2413aabe2c77184500ec8ad0d84a8734081ff46",
+      "date": "2015-01-22T12:24:53Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "830c9bd22cb093b8f62750d8f1f8e5e50ec2a441",
+      "date": "2015-01-21T21:32:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "def307adb40f3402be0d1cce7e871cb2a1860fff",
+      "date": "2015-01-21T20:44:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "94a03e7a35b2c535e46b9e876a73c6c59b410d80",
+      "date": "2014-12-18T16:19:37Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "b9f5d1adc58aa7587b297d9771861e0d05512b96",
+      "date": "2014-12-18T16:18:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "874acabb0f11438fd14b64aa4a7a1419495d0385",
+      "date": "2014-10-17T22:39:26Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "6966be270e8afcef8dcecf8110599d4e5599691e",
+      "date": "2014-10-17T22:27:21Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "c8263c3e84585a1eda38d01668c1506a96564795",
+      "date": "2014-10-14T17:08:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "7e3b355729b87230ab4cdc9d1fc87fe1d0ff21c8",
+      "date": "2014-10-14T17:01:21Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "466eb8161c13ed4d6f9a0a024a9e070e4578d0f7",
+      "date": "2014-10-14T16:59:13Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "9b14b97498eedccd62b103af94b8a4f28556343e",
+      "date": "2014-09-10T17:19:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "f4fee698bc5418c3d6117f8122d9d6150d861983",
+      "date": "2014-07-25T20:16:07Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "5c1a43264c6159dd451120114c4a8199d110e33e",
+      "date": "2014-07-23T02:03:14Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "e5fee1c9f678301bde4a7e35bfba537c1adb7315",
+      "date": "2014-07-23T01:48:27Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "a5e18fefb3c53cf7e070c2185d736bcb85c763cb",
+      "date": "2014-07-23T01:46:52Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "0bc072fdf67d343763b9e223248f76fec83f50ca",
+      "date": "2014-07-23T01:44:48Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "499c9baf590856e935fbc1ecfdddf3ec2d99b67d",
+      "date": "2014-07-23T01:41:20Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "e21f2af71dff65271b9ececdfd96b91d30448ee4",
+      "date": "2014-07-23T01:37:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "0ac55f1e3dddde383d21cea90185c1acb8ab7698",
+      "date": "2014-06-03T04:02:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "73051c2654f2f92f434cf8f28d88e80c5877cde9",
+      "date": "2014-04-15T06:05:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "d6eb84afe75b2e9c695e84d71632a2e89905756c",
+      "date": "2014-03-26T23:27:09Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "dcc7f7e5320df9477f0f18acd3b87b8a280d88d0",
+      "date": "2014-03-26T23:23:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "5c2b96477f0ed68a77a194a7355d62ba98e4963e",
+      "date": "2014-03-26T23:09:57Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "8dd1fd517135c1a2f6ab0b051eff7aa1ef2c3260",
+      "date": "2014-03-26T23:09:19Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "093c613a37d2db04f26e7faae29e82f8f7a9f465",
+      "date": "2014-02-06T23:10:06Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "b964544f78efc98d3ee44a8bd16101e18da293f1",
+      "date": "2014-02-06T18:13:18Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "456466491c38742c67682f813e43bd40b698bcb3",
+      "date": "2014-02-06T01:34:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "b6ce214fc45d2792906df33df6da13554b9e0705",
+      "date": "2014-02-05T20:27:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "5e4cd7cbb431351af8749acaa1c858c761b572e0",
+      "date": "2014-02-05T03:11:31Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "b7d25781210d403023f57089f94504da182c9fa9",
+      "date": "2014-02-05T02:55:44Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "7c41fb6f415ebaf2013b240f224471f3084bb1a0",
+      "date": "2014-02-05T02:43:20Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "8e88187865183c88befc4e3f5f9e150c684815dd",
+      "date": "2013-12-16T18:20:05Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "cc6a09d0bc1b3d390817d89f2153035b8897106b",
+      "date": "2013-12-16T18:19:29Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "8d75f0196184a68f962ed27f7cb1e1e82434b570",
+      "date": "2013-12-16T18:14:26Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "1c4b8dfb2a64edc8256d4255182143f963ff8d1f",
+      "date": "2013-12-16T18:12:53Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "559762a48515653203e83b7347b490fbe434fd5b",
+      "date": "2013-12-16T18:08:20Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "aa9eba042477d8dd1bff21244d191809db216488",
+      "date": "2013-12-16T18:06:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "d03ee027ebd3d659c87592df1f2acac95b5a17d7",
+      "date": "2013-11-19T23:18:06Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "83920e88514d4e765d8ed74d42142407cc93d0e5",
+      "date": "2013-11-09T19:01:23Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "52c766e4571311aa2e22895c2f684503ec2d58e9",
+      "date": "2013-11-09T18:53:41Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "d9e4d7685b2b2c3f19cf8a27011ebab79c06d712",
+      "date": "2013-11-09T18:40:12Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "5cd64a0275d540187ae7607526fbd365747b054a",
+      "date": "2013-11-09T18:39:01Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "72c255eadeb87e4d00f2abe589da183fd4f3153a",
+      "date": "2013-11-09T02:05:11Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "ad94f79f5c22eb8aa0857a476930908a4c81b73a",
+      "date": "2013-11-09T01:57:50Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "3eafbdf43ebf4c67acab7494d4a233c916b712f8",
+      "date": "2013-09-16T23:29:36Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "92558f1871ee39cdd271f0f5d287cd899efe4684",
+      "date": "2013-09-16T23:28:30Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "b054ad0038b3c076c19fdfa120b459cb70047cfa",
+      "date": "2013-09-16T23:15:11Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "abc7b72ac4661259c90359a1ba4cd5004f2e5e0a",
+      "date": "2013-09-16T23:09:21Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "3f40d6a6fde24bc9a2f771b1b3ea835c42ac4aaf",
+      "date": "2013-09-16T23:00:42Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "cc9605ff9695b747685394775013543b1c016529",
+      "date": "2013-09-16T22:55:35Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "0fce42856ad1055953292813bec61323faf4b922",
+      "date": "2013-09-16T18:39:40Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "484c1f0a78f188410a84cbf9c86c051534d9d6f7",
+      "date": "2013-09-16T18:21:46Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "49abe3864644b5bca377150ad78b723ccd893d38",
+      "date": "2013-09-16T18:00:34Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "5b2678841e4df4c3e0bdd0ffe5d09a392b51d987",
+      "date": "2013-09-16T17:38:36Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "9ae6f6a2481937424bf7a36ad88351311d7f3a61",
+      "date": "2013-06-04T15:05:15Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "8f81413d20d64138e66e6f3df8f8d02f537fab78",
+      "date": "2013-05-24T11:10:23Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "c4871daf242da0251e2083e6290c050186a5149b",
+      "date": "2013-05-22T03:38:36Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "062639f82cc943dd72bdcddb26173192ae836a3a",
+      "date": "2013-02-27T20:50:25Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "877c968ca4f97cbd57d9d3a62a5f04ffb0011c50",
+      "date": "2013-02-27T17:49:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "5cc378835812ca34de4276c804c9d028d8bc4532",
+      "date": "2013-02-27T17:48:34Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "999e337b53d774c8d891ab95b9fb8f6395cd67be",
+      "date": "2013-02-27T17:45:40Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "89a3200141fdbadebf90381b861f700e41d44859",
+      "date": "2013-02-27T17:43:00Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "ce3eeeaf17b77cb937a45cd9b43083163fe70b07",
+      "date": "2013-02-26T23:14:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "41aff4969e231028ffb99031e97242b157f8ae7c",
+      "date": "2013-02-25T23:34:56Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "e628d545b4e31fa182106efba4fa2499b0dbab98",
+      "date": "2013-02-22T05:42:39Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "6c2d5c2496bd4ae38fee8568a218d5578bfbde39",
+      "date": "2013-02-20T19:52:09Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "c6a08594793dcdb82c2bb4558e36fea6e725187d",
+      "date": "2013-02-20T19:47:51Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "74a190296a6a179571d3340c5eeee9a8836e9d6a",
+      "date": "2013-02-15T15:25:37Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "269252174f95f9a5c81d8e6ca9bb94713e5f6233",
+      "date": "2013-02-15T00:43:06Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "f3b43b289a6b17d19073b94e82c2aa77e414d5f4",
+      "date": "2013-02-10T22:54:44Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "57532aa4d971fbfc3577a81fc4b71d66e09895be",
+      "date": "2013-02-10T22:51:25Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "98226b95f35ef455f231692fdb679dfd61200a78",
+      "date": "2013-01-10T00:52:46Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "a968619d7f046e62f711fa04db2945c3f4726fb6",
+      "date": "2012-12-14T03:46:53Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "46c018556bb6d47641dcc1ce26e7d37627746ac7",
+      "date": "2012-12-04T04:19:16Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "7c1fdd0e7c6daf9c860c89df5b157470bf80f228",
+      "date": "2012-12-03T19:52:13Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "f6a14ddcb167ec45caa52ed3a96b29cf4aec8e30",
+      "date": "2012-10-24T18:00:35Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "1a547a7f75edce26796af25440f3fe3ca9b82e30",
+      "date": "2012-10-16T01:13:57Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "686c75dc458937542143b04ba57a9c4ecec08027",
+      "date": "2012-08-12T17:21:10Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "6a038e8f42633118db03ddb559bbf2ac61df37cc",
+      "date": "2012-08-10T21:54:23Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "32370e4cf7797c53928e7859ddbe73a21d895df0",
+      "date": "2012-08-10T21:53:41Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "221bc23f089784a25f4527ab7fd4e5d08c59bf46",
+      "date": "2012-08-10T21:52:15Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 187104,
+      "date": "2010-04-14T13:54:37Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 187106,
+      "date": "2010-04-14T13:56:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 245088,
+      "date": "2010-05-18T13:49:40Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 314444,
+      "date": "2010-07-16T02:02:53Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 321600,
+      "date": "2010-07-21T20:50:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 321713,
+      "date": "2010-07-21T22:18:54Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 324503,
+      "date": "2010-07-23T20:51:57Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 324615,
+      "date": "2010-07-23T22:51:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 500265,
+      "date": "2010-10-28T19:05:33Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 500267,
+      "date": "2010-10-28T19:06:08Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 526906,
+      "date": "2010-11-08T19:18:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 526926,
+      "date": "2010-11-08T19:27:00Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 526928,
+      "date": "2010-11-08T19:27:41Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 526929,
+      "date": "2010-11-08T19:28:32Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 526930,
+      "date": "2010-11-08T19:29:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 527000,
+      "date": "2010-11-08T19:51:17Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 527001,
+      "date": "2010-11-08T19:51:33Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 527007,
+      "date": "2010-11-08T19:53:36Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1004191,
+      "date": "2011-04-14T22:57:25Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1004193,
+      "date": "2011-04-14T22:57:52Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1004391,
+      "date": "2011-04-14T23:56:00Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1004440,
+      "date": "2011-04-15T00:09:43Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1004591,
+      "date": "2011-04-15T01:04:57Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1004596,
+      "date": "2011-04-15T01:05:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1004604,
+      "date": "2011-04-15T01:07:19Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1023174,
+      "date": "2011-04-18T20:12:25Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1045607,
+      "date": "2011-04-22T21:02:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1067029,
+      "date": "2011-04-27T22:16:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1225060,
+      "date": "2011-05-23T23:43:26Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1225062,
+      "date": "2011-05-23T23:44:56Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1575614,
+      "date": "2011-07-14T22:25:18Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1575647,
+      "date": "2011-07-14T22:30:18Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1575661,
+      "date": "2011-07-14T22:32:00Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1625369,
+      "date": "2011-07-21T17:47:29Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1625370,
+      "date": "2011-07-21T17:47:40Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1920975,
+      "date": "2011-08-27T19:09:17Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1961253,
+      "date": "2011-08-31T19:58:11Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1961256,
+      "date": "2011-08-31T19:58:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 1988587,
+      "date": "2011-09-03T20:57:56Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 2023969,
+      "date": "2011-09-07T00:06:52Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 2024014,
+      "date": "2011-09-07T00:13:43Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 2074617,
+      "date": "2011-09-12T19:52:51Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 2317115,
+      "date": "2011-10-07T01:31:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 2317141,
+      "date": "2011-10-07T01:35:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 2820009,
+      "date": "2011-11-21T19:40:57Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 2969811,
+      "date": "2011-12-01T01:59:01Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 3389960,
+      "date": "2012-01-06T20:03:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 4125053,
+      "date": "2012-02-22T21:43:55Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 4125244,
+      "date": "2012-02-22T21:53:46Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 4126328,
+      "date": "2012-02-22T22:39:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 4126563,
+      "date": "2012-02-22T22:52:35Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 5562906,
+      "date": "2012-05-07T22:49:31Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 6310002,
+      "date": "2012-06-13T18:53:25Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 6310144,
+      "date": "2012-06-13T18:58:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 7023120,
+      "date": "2012-07-16T23:56:30Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 7657514,
+      "date": "2012-08-10T21:51:50Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 7657534,
+      "date": "2012-08-10T21:53:30Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 7660280,
+      "date": "2012-08-10T22:07:04Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 7660341,
+      "date": "2012-08-10T22:11:52Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 8504507,
+      "date": "2012-09-12T18:18:09Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 8514859,
+      "date": "2012-09-13T00:29:29Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 9020709,
+      "date": "2012-10-01T02:38:03Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 9586783,
+      "date": "2012-10-19T01:00:41Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 9749635,
+      "date": "2012-10-24T18:00:17Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 9749992,
+      "date": "2012-10-24T18:10:58Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13316288,
+      "date": "2013-02-08T22:29:51Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13417193,
+      "date": "2013-02-12T04:01:09Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13610721,
+      "date": "2013-02-15T15:11:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13624931,
+      "date": "2013-02-15T19:56:05Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13861144,
+      "date": "2013-02-20T22:33:32Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13867343,
+      "date": "2013-02-21T01:17:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13929348,
+      "date": "2013-02-22T05:45:40Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13929372,
+      "date": "2013-02-22T05:46:46Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 13929398,
+      "date": "2013-02-22T05:48:10Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 14048911,
+      "date": "2013-02-25T15:37:40Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 14198591,
+      "date": "2013-02-27T20:51:13Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 14198635,
+      "date": "2013-02-27T20:51:54Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 14198653,
+      "date": "2013-02-27T20:52:10Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16129754,
+      "date": "2013-04-09T18:08:22Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16345451,
+      "date": "2013-04-14T03:41:26Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16345464,
+      "date": "2013-04-14T03:43:30Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16345475,
+      "date": "2013-04-14T03:44:48Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16345480,
+      "date": "2013-04-14T03:45:26Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16345488,
+      "date": "2013-04-14T03:46:27Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16345490,
+      "date": "2013-04-14T03:46:55Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 16447390,
+      "date": "2013-04-16T14:22:03Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 18255878,
+      "date": "2013-05-22T03:44:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 19887084,
+      "date": "2013-06-24T03:08:37Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 20884346,
+      "date": "2013-07-12T15:37:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 20884861,
+      "date": "2013-07-12T15:44:54Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 20920353,
+      "date": "2013-07-13T14:05:44Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 21443835,
+      "date": "2013-07-23T20:33:07Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 24525062,
+      "date": "2013-09-16T16:46:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 24527418,
+      "date": "2013-09-16T17:19:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 24528952,
+      "date": "2013-09-16T17:39:56Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 24551837,
+      "date": "2013-09-16T22:58:45Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 24552496,
+      "date": "2013-09-16T23:12:06Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 24553585,
+      "date": "2013-09-16T23:35:31Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 24553742,
+      "date": "2013-09-16T23:39:10Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28111783,
+      "date": "2013-11-09T01:54:41Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28111842,
+      "date": "2013-11-09T01:57:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28111923,
+      "date": "2013-11-09T02:01:25Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28134087,
+      "date": "2013-11-09T18:54:50Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28134101,
+      "date": "2013-11-09T18:55:29Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28134149,
+      "date": "2013-11-09T18:57:25Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28134160,
+      "date": "2013-11-09T18:57:54Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 28134288,
+      "date": "2013-11-09T19:03:01Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 30684475,
+      "date": "2013-12-16T18:09:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 34283805,
+      "date": "2014-02-06T01:39:37Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 34340203,
+      "date": "2014-02-06T16:20:14Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 34340512,
+      "date": "2014-02-06T16:22:20Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 44917912,
+      "date": "2014-06-03T04:05:01Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 44917937,
+      "date": "2014-06-03T04:05:43Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 44918061,
+      "date": "2014-06-03T04:08:10Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 44918102,
+      "date": "2014-06-03T04:09:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 49823553,
+      "date": "2014-07-23T01:39:43Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 49823983,
+      "date": "2014-07-23T01:46:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 49824149,
+      "date": "2014-07-23T01:48:56Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 51115150,
+      "date": "2014-08-04T20:46:28Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 52325312,
+      "date": "2014-08-15T16:10:33Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 53660481,
+      "date": "2014-08-28T00:44:40Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 53660574,
+      "date": "2014-08-28T00:46:04Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 55149770,
+      "date": "2014-09-10T17:20:33Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 55318278,
+      "date": "2014-09-11T19:52:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 56320711,
+      "date": "2014-09-22T01:37:15Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 59079900,
+      "date": "2014-10-14T17:03:43Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 59080068,
+      "date": "2014-10-14T17:05:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 59080382,
+      "date": "2014-10-14T17:06:59Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 64968937,
+      "date": "2014-11-29T23:14:48Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 70029397,
+      "date": "2015-01-15T02:10:44Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 70877987,
+      "date": "2015-01-21T17:09:49Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 70920813,
+      "date": "2015-01-21T21:02:03Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 70920858,
+      "date": "2015-01-21T21:02:19Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 70950439,
+      "date": "2015-01-22T00:32:22Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 74377135,
+      "date": "2015-02-14T14:29:15Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 74568448,
+      "date": "2015-02-16T20:34:02Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 89085245,
+      "date": "2015-04-03T00:00:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 98019671,
+      "date": "2015-05-01T01:35:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 98021587,
+      "date": "2015-05-01T01:53:34Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 98021602,
+      "date": "2015-05-01T01:53:58Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 105028464,
+      "date": "2015-05-24T15:47:30Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 105033723,
+      "date": "2015-05-24T16:26:26Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 106081122,
+      "date": "2015-05-27T21:15:45Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 106081369,
+      "date": "2015-05-27T21:16:24Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 113282912,
+      "date": "2015-06-18T20:39:55Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 121477708,
+      "date": "2015-07-15T03:39:55Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 121485052,
+      "date": "2015-07-15T04:32:00Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 129581109,
+      "date": "2015-08-10T19:44:26Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 129581717,
+      "date": "2015-08-10T19:46:38Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 129709771,
+      "date": "2015-08-11T05:23:48Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 130175834,
+      "date": "2015-08-12T05:33:36Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 146002053,
+      "date": "2015-10-06T21:10:23Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 152847097,
+      "date": "2015-11-01T17:24:46Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 170459,
+      "date": "2010-03-26T20:38:22Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 181898,
+      "date": "2010-04-08T19:33:00Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 339,
+      "date": "2013-05-22T03:44:29Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 29,
+      "date": "2010-04-08T04:27:47Z"
+    },
+    {
+      "dev_id": "nateware",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 20,
+      "date": "2010-03-26T20:42:22Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "40393049f77b5f4363c66113f6fe132674af6e43",
+      "date": "2010-07-23T18:15:41Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "4a83d7867f66f1123f7378d4a5259f8785877b44",
+      "date": "2010-07-17T16:23:20Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "ab172923c1591b0eebba112ed031fa598e795f78",
+      "date": "2010-07-17T16:21:54Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 314576,
+      "date": "2010-07-16T05:08:08Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 321636,
+      "date": "2010-07-21T21:16:33Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 321820,
+      "date": "2010-07-21T23:57:49Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 324320,
+      "date": "2010-07-23T18:11:46Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 324324,
+      "date": "2010-07-23T18:13:26Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 324505,
+      "date": "2010-07-23T20:52:43Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 928281,
+      "date": "2011-03-28T21:55:36Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 928302,
+      "date": "2011-03-28T22:02:03Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "issue",
+      "id": 5,
+      "date": "2010-07-23T18:19:43Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "issue",
+      "id": 4,
+      "date": "2010-07-23T18:03:14Z"
+    },
+    {
+      "dev_id": "dbalatero",
+      "repo": "nateware/redis-objects",
+      "type": "issue",
+      "id": 3,
+      "date": "2010-07-16T00:07:17Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "a7e200fd5251289a1fe75a520224b85698e01eb5",
+      "date": "2014-07-14T16:57:42Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "18e507e00dda16d623705721b20f59203db8f657",
+      "date": "2014-07-14T16:02:43Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "7b44e4e3afee6572245114c26d3369c124188779",
+      "date": "2014-07-14T15:57:48Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "f75ac00582496061e3a14526de9fbb5ed3366ac8",
+      "date": "2014-07-14T15:57:31Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "d4027a39e84224a0e98ae95cf40b26be272e0d07",
+      "date": "2014-07-14T15:55:25Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "d7812d655e0be626cc46a941b4d275ebd1eba08e",
+      "date": "2014-07-14T15:55:03Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "3a39b2a3e22e38b88070ed442c9a59efeb347943",
+      "date": "2014-07-14T15:46:29Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "commit",
+      "id": "a62726b78a51184a65902ebab1172e0f46ba133a",
+      "date": "2014-07-14T15:43:59Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "com",
+      "id": 48919856,
+      "date": "2014-07-14T16:08:28Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 38304728,
+      "date": "2014-03-21T18:01:48Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "pr",
+      "id": 146,
+      "date": "2014-07-22T17:48:26Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "pr",
+      "id": 143,
+      "date": "2014-07-14T15:44:19Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "pr",
+      "id": 138,
+      "date": "2014-06-06T15:36:07Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "nateware/redis-objects",
+      "type": "issue",
+      "id": 145,
+      "date": "2014-07-22T17:37:14Z"
+    },
+    {
+      "dev_id": "james-lawrence",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 417,
+      "date": "2014-03-21T15:56:39Z"
+    }
+  ]
+}

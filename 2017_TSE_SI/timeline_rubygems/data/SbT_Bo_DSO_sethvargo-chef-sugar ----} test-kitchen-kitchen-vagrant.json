@@ -1,0 +1,3794 @@
+{
+  "user_repo": "sethvargo/chef-sugar",
+  "dep_repo": "test-kitchen/kitchen-vagrant",
+  "dep_date": "2013-10-15 04:54:32 UTC",
+  "dep_commit_id": "d8edc0fe6635db7f3f328faef47fb992d6ba1e83",
+  "social_date": "2013-10-15 04:54:32 UTC",
+  "devs": [
+    "tknerr",
+    "sethvargo",
+    "schisamo"
+  ],
+  "interactions": [
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "1a43f542b1502520c8c3ed93de7827490a144bba",
+      "date": "2015-01-10T14:44:00Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "c9da7afd1d1c4cfb88006e972238d0259f73ca9d",
+      "date": "2014-12-31T01:36:21Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "248198e21fe0c60a365fcf881bac5bafd135aeec",
+      "date": "2014-12-31T01:33:43Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "a14c371dffdc47c624ee17c293bbe654ad9babca",
+      "date": "2014-12-30T23:30:42Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "217295f95c9159c50bb43ba3e04a75d8e7a2f276",
+      "date": "2014-12-30T23:16:09Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 50986703,
+      "date": "2014-08-03T10:11:08Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 25289783,
+      "date": "2013-09-28T03:33:27Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 26633828,
+      "date": "2013-10-18T22:11:55Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 26633869,
+      "date": "2013-10-18T22:12:40Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27831460,
+      "date": "2013-11-06T01:24:05Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27831785,
+      "date": "2013-11-06T01:28:40Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27833977,
+      "date": "2013-11-06T01:59:23Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27845084,
+      "date": "2013-11-06T06:08:33Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27891513,
+      "date": "2013-11-06T16:58:45Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27895944,
+      "date": "2013-11-06T17:46:13Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 48245273,
+      "date": "2014-07-07T21:43:31Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 49020217,
+      "date": "2014-07-15T11:39:12Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50262026,
+      "date": "2014-07-27T11:30:20Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 68417328,
+      "date": "2014-12-31T01:41:09Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 70215492,
+      "date": "2015-01-16T06:58:06Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 72599520,
+      "date": "2015-02-03T06:18:46Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 72600110,
+      "date": "2015-02-03T06:23:01Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 72601260,
+      "date": "2015-02-03T06:31:18Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 72601853,
+      "date": "2015-02-03T06:36:39Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 82742669,
+      "date": "2015-03-18T05:07:04Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 82743224,
+      "date": "2015-03-18T05:09:05Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 82744223,
+      "date": "2015-03-18T05:11:27Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 82744529,
+      "date": "2015-03-18T05:12:41Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 82768935,
+      "date": "2015-03-18T06:16:21Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 84994550,
+      "date": "2015-03-23T13:19:45Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133942255,
+      "date": "2015-08-23T21:48:13Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133943907,
+      "date": "2015-08-23T22:06:52Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133943989,
+      "date": "2015-08-23T22:08:45Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133946213,
+      "date": "2015-08-23T22:18:00Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133948424,
+      "date": "2015-08-23T22:30:10Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133950307,
+      "date": "2015-08-23T22:40:54Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 136876920,
+      "date": "2015-09-01T22:01:19Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 128,
+      "date": "2015-01-10T20:37:48Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 126,
+      "date": "2014-12-31T00:32:44Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "issue",
+      "id": 198,
+      "date": "2015-09-22T22:27:43Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "issue",
+      "id": 190,
+      "date": "2015-08-23T21:56:52Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "issue",
+      "id": 125,
+      "date": "2014-12-22T00:18:58Z"
+    },
+    {
+      "dev_id": "tknerr",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "issue",
+      "id": 44,
+      "date": "2013-09-28T03:20:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "035f1ed10f35713b3a84d67c9f01f44a7da9fefc",
+      "date": "2015-10-06T00:52:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "a9c3260bd1ead486465411f23812ccc4d03a69e7",
+      "date": "2015-09-09T13:50:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "c86084d9d484434b765321e9a95d6a11f0a527f0",
+      "date": "2015-09-08T18:56:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ca47aaa83dd102dff940c6308b298ddca7434a1a",
+      "date": "2015-08-14T19:56:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "1cfabc4d3a8fcf3c76a3d948ac6bb9aa3389f108",
+      "date": "2015-07-24T20:50:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "aca6182a42c6ddd6855ffcc57c5f994be79b6c95",
+      "date": "2015-07-13T14:43:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "533fc2283610cd852637dd2a6c4be4e386a63482",
+      "date": "2015-07-12T14:26:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "add4bd0bde08cf977c52898f41441691f45d54cd",
+      "date": "2015-06-23T15:40:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b2331ffac74533632564a5c2517cb97ea3d84e6e",
+      "date": "2015-06-23T15:34:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "bd65556f7c101d9fa8cd68d6a7ded2a1daf6525b",
+      "date": "2015-05-28T19:57:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "f016415c7dbe74798f3a877474b17762754aff10",
+      "date": "2015-05-08T15:19:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ad0e8e2f7dbfd66d222d132d3007c36533626f56",
+      "date": "2015-05-06T15:56:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d7cde1aeb4c29a617baa696b3d600072e7382527",
+      "date": "2015-05-02T21:06:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "4a47cf44a8e6692e735f70615398cb1a5be16730",
+      "date": "2015-04-20T03:41:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "1a9e0cce661b46d0592866941c38c43d1c14746e",
+      "date": "2015-03-26T14:44:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "319a4a34702a41901918a4d8206d116a08682efa",
+      "date": "2015-03-25T17:22:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "de09ad51f2ca6c86918c7f86c96035a40694851b",
+      "date": "2015-03-25T17:22:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d1e01cdc5630acf1baf2a5d3687173839ab54e3a",
+      "date": "2015-03-23T13:59:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "57a849cee3fcf8406eb7ac64f1fe5505787ce6e7",
+      "date": "2015-03-20T14:49:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "60d5826d973f2380611fa1ad48cc1a63ac8835bd",
+      "date": "2015-03-20T14:48:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "0e554eb61cb510e043a25b95c8d7af3e9fd4f6cc",
+      "date": "2015-03-20T14:45:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "a83401a3fc8e0dc314df9b805c3892ff9683d1ce",
+      "date": "2015-03-20T14:45:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "145c30b8b12e1cf154c2da1f84401d7a33ffc6f3",
+      "date": "2015-03-17T21:07:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "8a8fd1b9d123a319c8b748446953d68b8032b65f",
+      "date": "2015-03-16T22:17:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "e6cd8fe70c3820adf53b8d8413ae359ce9c718b5",
+      "date": "2015-03-16T22:17:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d4dc5c8a19c1e7588a538bb16c82fb8c93777a5a",
+      "date": "2015-03-06T15:01:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "3991e9177a5ee437bb28112cdbbd6ebe09f3bbca",
+      "date": "2015-02-24T22:35:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "e13e7faafec0c5e514ffee9e0793521e376cfceb",
+      "date": "2015-02-22T17:52:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ece59234457437cd6c4286257ec89e9b43938649",
+      "date": "2015-01-21T15:34:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "afd7d047806b390c2176e7eb265f79b2a7425d74",
+      "date": "2015-01-21T15:32:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "5eabea57e325da35b9ed8018713651d7f39d228e",
+      "date": "2015-01-21T15:31:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "71c1093a7c4f3a6ae30a17eb50a39febd7bd096a",
+      "date": "2015-01-21T15:23:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "4a72f410bf1ff812b6d109f5fc2c6454f9e3d02e",
+      "date": "2015-01-21T15:21:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "78720ad1c4f9b12568293a093de32c1a653c33d7",
+      "date": "2015-01-21T15:21:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "3f5e13a6760e9b2843b1bfd5760579404f5959cf",
+      "date": "2015-01-21T15:21:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "057a13d899a01da669c2b59e2d12aed3900408b7",
+      "date": "2015-01-05T15:34:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "9cd393424617e12c863cb29942b35792e4ea35fb",
+      "date": "2015-01-05T15:32:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "1ba8e5015249d6234710da53b51a5a5695cc6a26",
+      "date": "2015-01-05T15:30:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "c27a18ed42d541f4e822d5a10b37bc362a4160f6",
+      "date": "2015-01-05T15:30:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "29197719398a72109aa7b72d72f8a8b535d1fad5",
+      "date": "2014-12-19T16:01:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "e4d3b929eb75e5750a8560ba1b65ee4b3e2627a4",
+      "date": "2014-12-18T17:18:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "4b560a8753df80e2bf22d3bb95fc204c2320e4af",
+      "date": "2014-12-04T02:55:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "dc3eadcc5d4e923673658d15f8ff4e1b8661c0cc",
+      "date": "2014-10-22T18:17:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d48449f6cc2cd18a17637e42512e5c68a92cc875",
+      "date": "2014-10-12T17:52:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ce331937342d9d8b5b4e32e243e8180b8ea45bb6",
+      "date": "2014-10-12T14:59:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "4fcbca6b4310d86beff7db96a9ab935b5a4fe9ed",
+      "date": "2014-10-12T14:54:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "75760a77c243d3901a08779e02b3ed2132081e24",
+      "date": "2014-10-12T14:53:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ccfd94b38dcbd1f9215a8ecd2a717ab78a121d0c",
+      "date": "2014-10-12T14:52:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "2dc1924a72c81c29a19a5493e5bf9f5f46003d70",
+      "date": "2014-10-12T14:52:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "810c477ac725c0da8263d24e19ad1e23a645972f",
+      "date": "2014-10-12T14:48:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "55e2c74e6b94f45ef8cf2a5551ec1c1594a71c13",
+      "date": "2014-10-07T15:27:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "4d53b7ae9b6fa2ec86279f4cebda33e4ad2aebe6",
+      "date": "2014-10-07T13:41:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "2677b7bfd548afcdac86d892d146afc69982f308",
+      "date": "2014-10-07T13:37:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "9e88333ba326e8017449f03bdcc5140e5ec4c44e",
+      "date": "2014-10-07T13:37:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "9b739c98811ec1b47641c06e8aa3067d3b9bb2c4",
+      "date": "2014-09-24T13:09:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "801848e50010e8e7ad6b7d7f428f1a7a838e31ba",
+      "date": "2014-09-24T13:08:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "db3cc483c2081e41e6068d81ea60eb9d6ec20147",
+      "date": "2014-09-24T13:04:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "189852d940ec4d8179cedb23931b526848542370",
+      "date": "2014-09-16T13:56:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "fdf4e2a5230b963ab463a052b6db95845b7827ec",
+      "date": "2014-09-14T02:20:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "f4d115a1f5323db913b9bf258907d991a83c6b7f",
+      "date": "2014-09-13T02:49:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "628cb3238b709d40cb1de378527cbda7a96da4f0",
+      "date": "2014-08-20T19:00:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "a44a9da041da90916f573a30ca05bb337ed5433b",
+      "date": "2014-08-20T18:55:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "c6bb89b5b81fdfa5c5dbda40689548a3f400be2f",
+      "date": "2014-08-20T18:54:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d4a9d9057f076a8c95edfe3c08c4d0d7fb8b99df",
+      "date": "2014-08-20T18:54:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "410a4d6ef7c53d9749395121c435a849fdb85421",
+      "date": "2014-07-27T01:33:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "a1d92e3d05646d7f280989082c73a87da21e7761",
+      "date": "2014-07-27T01:32:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "57bed73d8fbaacbfb3317987894d5ef102b8456d",
+      "date": "2014-06-16T21:21:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ead9027050e4bbaa501bfb90ee1adeeef519a1c7",
+      "date": "2014-06-16T21:12:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "09e222c60e17172613c7e1e2e5152158c118517b",
+      "date": "2014-06-16T20:58:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "979a753a23f100641985b05923edc0cf561dfdf4",
+      "date": "2014-06-05T21:12:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "44037d22d2bfedad7532306513735770bdac2a44",
+      "date": "2014-06-05T20:35:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "cc86cf50337d070a9bbea4519cd17a0a6e4a3b2a",
+      "date": "2014-05-06T01:16:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d407ff4311a31005c0116b90486f6ef561108254",
+      "date": "2014-05-05T19:47:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "c96587174488041a36613d73bd85c54c82cdc381",
+      "date": "2014-05-05T19:44:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "87d5eb1b1d743eed830b329f2a6a965dad8f20e4",
+      "date": "2014-05-05T19:43:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "545ddc77c82d579bc8ea41c730dcf758d11e1bfc",
+      "date": "2014-05-05T19:41:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "f775b46abc9e98f392c65fd72cbb6824f4dfcd92",
+      "date": "2014-05-05T19:28:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "cef5501120b42920326c5e57dd941c697565c65a",
+      "date": "2014-05-05T19:27:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "be5b82b815119cb7d888689b0ecd838793002388",
+      "date": "2014-05-05T19:24:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "bac217970ffb7647ed3b682ec25826b5635ea055",
+      "date": "2014-05-05T14:04:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "845484f4543d874716331253067e800472355fe9",
+      "date": "2014-04-30T21:02:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "076b8c01e95ea2616b20bf2af599d9f18c541441",
+      "date": "2014-04-30T19:46:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "0317a4aca7550f297363619fb7babf0e3556582f",
+      "date": "2014-04-30T19:30:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b4a0bd744727afc58476b359d206841db0868af2",
+      "date": "2014-04-25T01:07:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "27152637e1be1cf3dd3656f17d819f3e1106c367",
+      "date": "2014-04-17T16:07:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b1884de1b075839ea5dff202f35e984075f9040a",
+      "date": "2014-04-04T17:18:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "35b7b7e38f4fd610b10a32d82d49eac8a8d4edf1",
+      "date": "2014-03-21T19:06:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "16ff7b636c865009b20f5a7c4ca41afbce965809",
+      "date": "2014-03-17T03:02:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b783fae603fb1687632a20f480a4273f84dcf1cf",
+      "date": "2014-03-17T03:00:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "700aeb79d2d2377fc23ab0c3f9d973c39425ff98",
+      "date": "2014-03-16T22:27:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ce89a62bccef7f893356f758b057c4d35f879337",
+      "date": "2014-03-16T22:26:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d63382251d56253b5db70cb40f00b73d64527cc6",
+      "date": "2014-03-16T22:21:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "93fbd24872da4c8d9da98e7ec384230dd7fff3e3",
+      "date": "2014-03-16T22:06:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b151dbeb8cc470507b427365ec192e42c35a1796",
+      "date": "2014-03-16T22:04:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b18be03f6de53a0a553ea0b94a6cc1fb05e6fa15",
+      "date": "2014-03-14T00:17:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d32039bcbde021c77c5ffa3a090f9e6100305069",
+      "date": "2014-03-14T00:16:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "40229012fc1e598266c37a4f240cda8e67a14dda",
+      "date": "2014-03-14T00:15:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d7afcaa2bc7b24efd6878276994fc3a4309f29e3",
+      "date": "2014-03-14T00:14:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "17c0a4a62b18531538d7392a59f260095abb83c8",
+      "date": "2014-03-13T23:10:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "836ef38e5d887e71d1b41aa06cc2a898d0389866",
+      "date": "2014-03-13T23:09:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "c57a6e38079c4de7291119ee42389f487d06a3f2",
+      "date": "2014-03-13T23:08:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "f37b34c147a1017a86daebad2c556cf755d3bdd7",
+      "date": "2014-03-13T22:56:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ce385eb4680d5c368e66a1d8bf638cd9fbaf0bed",
+      "date": "2014-03-13T22:56:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "775ef3225d2c870d00e5ae19489dc1189b57179f",
+      "date": "2014-03-10T15:42:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "3a84ad267d1fd27f357da03a36537e40d0394570",
+      "date": "2014-03-09T17:06:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "7da33f96f857a8eaf88fb6544f382c1bba8af3d1",
+      "date": "2014-03-09T17:00:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "a53e0cdf68648ef3eafeba6425727b4a1fde7b5b",
+      "date": "2014-03-09T16:56:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b225330a527c4456ca097842d044c09d451c19b1",
+      "date": "2014-02-14T21:01:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "321a63a45f0a60eb9660d626ec2d11f3a76caf8a",
+      "date": "2014-01-28T03:26:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "5cc2ffeecb668b6ded4d0fce1b3032f2260df33c",
+      "date": "2014-01-13T03:25:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "59ecd65c4ad9ca1ab7d2fae8233c0b8fc8d5b5c6",
+      "date": "2014-01-13T03:11:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "dc2c0e12f22543f5f9c00f3e70d62e0e940a4fa3",
+      "date": "2014-01-13T03:06:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "f5abc5968fd2f142a543eabd7f04f7b6aad32685",
+      "date": "2014-01-13T02:54:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "140e20ed8e0988c86ba78afea2a4ca75b5a64bea",
+      "date": "2014-01-13T02:30:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b2d1000e8eb00a2cbf163fda240a32c561c6353c",
+      "date": "2014-01-12T22:02:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "6f0e9af05c4962d81b8cb5c54f737b331a2b9ac7",
+      "date": "2014-01-12T21:50:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "66845201cd460be63b98b742d91a360b5535b72a",
+      "date": "2014-01-12T21:00:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "87024e1a264513a775176316c479df28c9851399",
+      "date": "2014-01-12T16:12:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "7e076ecb60844982895ec3e18459210a83a62006",
+      "date": "2014-01-12T16:07:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "bfb1127fbec658197ad8197a88ad59e6e23f0ec1",
+      "date": "2014-01-12T13:56:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "cbea0a63377b3c3eefaaa0894c353f65518079af",
+      "date": "2014-01-10T21:03:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "3c91abb4cfa74a4b14eed9372daf241864da9695",
+      "date": "2014-01-08T17:56:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "dd5c1de2b78984d686edac1580fa1d798aa505fc",
+      "date": "2013-12-19T17:58:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "0e449fd58db020fdd066f18a54c6e7c1cf1d44c5",
+      "date": "2013-12-14T03:06:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "280828ec1c3e096c05536252bad615c68606cf66",
+      "date": "2013-12-10T16:49:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "81defb833d607314a8bd4236e044e6d96e35d688",
+      "date": "2013-12-10T16:18:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "1278a08df9f9bfad13fce23964664bd86f612e00",
+      "date": "2013-10-15T18:07:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "113b86613cb88714dadb247fab4c88b02e9edcd9",
+      "date": "2013-10-15T17:53:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "cab9afa6d175a39c966f634169e38b473586cb2a",
+      "date": "2013-10-15T17:38:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "b4d4c0ecc7606f2eea9f683198fd468d7b4280af",
+      "date": "2013-10-15T17:37:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "88a3ab50cf84b0b3b9c7d411a38c0d9dba65b7a6",
+      "date": "2013-10-15T17:34:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "8a43185bf7aed2dd4e3dcdbf0b7af3acf6a44c05",
+      "date": "2013-10-15T07:40:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "771e93bf9598a0b3a8975b85c01cb0494c3e8ca7",
+      "date": "2013-10-15T07:38:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "eb0c0d78b00ffaeaf99922c4e85062cbbcd978b8",
+      "date": "2013-10-15T05:18:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "fccc0aa5aa02e36b5e2c396c2fd4987a0201c4ab",
+      "date": "2013-10-15T05:05:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "d8edc0fe6635db7f3f328faef47fb992d6ba1e83",
+      "date": "2013-10-15T04:54:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "a85f2e59832a5dbb1a2f1d03e78e7bd4f68a970d",
+      "date": "2015-01-12T14:31:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "0ffabf7a7046fcd67708c132a69af3c2d2622e6f",
+      "date": "2015-01-06T15:06:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "24811d164e2757c51f3181062a5859e7335ed5c9",
+      "date": "2014-12-31T02:13:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "63f9eef9ac46fc372c117b3d8672088b8df35659",
+      "date": "2014-11-10T17:14:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "6cf2661d2a3a96b91fe4ccd1d6c610551fbe335e",
+      "date": "2014-11-10T17:12:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "1944ead443e535df2b96e26f76205b69b41d8e89",
+      "date": "2014-11-10T17:11:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "b4ee172e1234e99244b5a65267c5f25be8ec58f9",
+      "date": "2014-11-10T17:11:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "04b523cc056acc79a023ecd8014508c325c2f711",
+      "date": "2014-11-10T17:11:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "8e5c25252a66081e8f42d7826cee0d4045ab37b1",
+      "date": "2014-11-10T17:07:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "464ef58e993a3cb721b8f65e57e84d8b5730b2c5",
+      "date": "2014-11-10T17:06:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "39fb1fffd92ee069ee738e5aa2f271b5d54013bf",
+      "date": "2014-11-10T17:05:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "caa0bf4248431d67982fc36723d0ec6d1bc0404d",
+      "date": "2014-11-10T17:05:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "0d2f05cb618b44ade0781740934580c4fe5842c4",
+      "date": "2014-11-10T17:04:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "ad4ab3683f817c27391e02b8d1d9f7008ce4df60",
+      "date": "2014-11-10T17:04:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "aba4e43041773c272b07bdc8ba15f11249987661",
+      "date": "2014-10-02T18:20:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "1ce7b52c57919c9de278144a876b8faa7eb01fd3",
+      "date": "2014-07-07T13:28:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "cf9350a8c5c6037f95f359a619ac403c38f48272",
+      "date": "2014-06-10T20:21:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "e92f7b2147b8f8a138ca17209a6ff84f3b42c973",
+      "date": "2014-04-28T18:29:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "20bba7a4d5c215681c68813828e9ee2f3f0165c6",
+      "date": "2014-04-06T18:10:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "f4630148f0a245de8f2d1577fb87ff142adf463e",
+      "date": "2014-03-17T23:12:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "9497d3a200548ba639975aee0aaf1ab461d44b39",
+      "date": "2014-03-17T23:12:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "36c67aa02881affc2b9bbe1949f3f3465e4e6b7c",
+      "date": "2014-03-13T23:39:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "cb93d4f6afc257ca2dc64a4a203bc3cd0dd91ba6",
+      "date": "2014-03-13T23:34:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "e4f6992611dcc65b40a7e740d6fa2c929c8cf3db",
+      "date": "2014-03-13T23:33:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "24fe672c8aabb1019c348cd49804630a697dc19c",
+      "date": "2013-12-01T21:37:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "a97927c16ef676364e1f45cd7331b61c7fd50981",
+      "date": "2013-11-06T16:05:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "3aa70cb3fc92368a82bad5ec3f6b90afdd4a33df",
+      "date": "2013-11-06T16:01:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "44225b9abdc3ab238ca742d13c1306f7eb59b395",
+      "date": "2013-11-06T02:22:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "e646109ee5af5dba6c2e2ab6a2af509d0ff10a3a",
+      "date": "2013-11-06T02:21:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "34740bab8ba59289b2e814983806073c2f01d996",
+      "date": "2013-11-06T01:22:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "6152f0a8c639852b45e0e7ab5a60296ae06c8772",
+      "date": "2013-11-06T01:19:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "4993a1b2efc969c191617f0be8281eb808472579",
+      "date": "2013-11-06T01:14:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "0bdf04c972d574dd32b99eea98cd8c68a2a96fd3",
+      "date": "2013-11-05T05:16:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "07c86625180ed92d904ab7e68ab57b3e7d24868b",
+      "date": "2013-11-05T04:52:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "abefa8cd351ad876e1b6ffdd2f3ccfe8e3d80276",
+      "date": "2013-10-02T21:30:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 26314618,
+      "date": "2013-10-15T07:39:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 29734111,
+      "date": "2013-12-03T17:57:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 29734862,
+      "date": "2013-12-03T18:06:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 30102678,
+      "date": "2013-12-09T02:57:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 30102687,
+      "date": "2013-12-09T02:57:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 30241154,
+      "date": "2013-12-10T16:13:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 30277300,
+      "date": "2013-12-10T22:57:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 30277451,
+      "date": "2013-12-10T22:59:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 30375784,
+      "date": "2013-12-11T23:32:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 31662038,
+      "date": "2014-01-06T16:29:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 31663238,
+      "date": "2014-01-06T16:41:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 31670314,
+      "date": "2014-01-06T18:00:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 31859862,
+      "date": "2014-01-08T17:56:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 31885469,
+      "date": "2014-01-08T22:56:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 31947206,
+      "date": "2014-01-09T16:09:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 32033386,
+      "date": "2014-01-10T14:56:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 32123055,
+      "date": "2014-01-12T13:58:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 32134036,
+      "date": "2014-01-12T21:08:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 32135253,
+      "date": "2014-01-12T21:50:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 32693362,
+      "date": "2014-01-18T21:15:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 32693401,
+      "date": "2014-01-18T21:17:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 33422507,
+      "date": "2014-01-27T21:04:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 33428136,
+      "date": "2014-01-27T22:00:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 33448078,
+      "date": "2014-01-28T03:21:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 33448290,
+      "date": "2014-01-28T03:27:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 37196561,
+      "date": "2014-03-10T15:42:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 37773062,
+      "date": "2014-03-16T22:13:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 38100447,
+      "date": "2014-03-19T20:08:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 38234347,
+      "date": "2014-03-20T23:44:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 38312321,
+      "date": "2014-03-21T19:14:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 38321386,
+      "date": "2014-03-21T20:37:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 40731456,
+      "date": "2014-04-17T16:07:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 40905421,
+      "date": "2014-04-20T21:30:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 41840920,
+      "date": "2014-04-30T19:43:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 41840955,
+      "date": "2014-04-30T19:43:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 41841035,
+      "date": "2014-04-30T19:44:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 41841908,
+      "date": "2014-04-30T19:51:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 41847695,
+      "date": "2014-04-30T20:42:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 41848508,
+      "date": "2014-04-30T20:49:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 41910438,
+      "date": "2014-05-01T13:40:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42034649,
+      "date": "2014-05-02T14:00:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42037621,
+      "date": "2014-05-02T14:28:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42196690,
+      "date": "2014-05-05T14:59:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42213155,
+      "date": "2014-05-05T17:24:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42226306,
+      "date": "2014-05-05T19:14:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42226459,
+      "date": "2014-05-05T19:16:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42258912,
+      "date": "2014-05-06T01:17:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42288481,
+      "date": "2014-05-06T10:56:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42358785,
+      "date": "2014-05-06T21:05:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 42432887,
+      "date": "2014-05-07T14:22:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 44790719,
+      "date": "2014-06-01T22:01:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 45270812,
+      "date": "2014-06-05T20:35:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 45274855,
+      "date": "2014-06-05T21:06:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 45412606,
+      "date": "2014-06-07T15:17:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 46238693,
+      "date": "2014-06-16T21:13:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 46238724,
+      "date": "2014-06-16T21:13:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 46587830,
+      "date": "2014-06-19T17:01:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 46698001,
+      "date": "2014-06-20T16:24:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 47263469,
+      "date": "2014-06-26T18:43:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 47265722,
+      "date": "2014-06-26T19:02:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 47268839,
+      "date": "2014-06-26T19:28:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 47484010,
+      "date": "2014-06-29T23:48:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 49681042,
+      "date": "2014-07-21T23:43:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 49772337,
+      "date": "2014-07-22T17:31:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 49773778,
+      "date": "2014-07-22T17:39:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 50638342,
+      "date": "2014-07-30T16:17:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 50762907,
+      "date": "2014-07-31T14:06:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 50778368,
+      "date": "2014-07-31T15:52:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 50797297,
+      "date": "2014-07-31T18:14:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 50841519,
+      "date": "2014-08-01T02:00:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 50965161,
+      "date": "2014-08-02T15:06:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 51202503,
+      "date": "2014-08-05T14:12:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 51203680,
+      "date": "2014-08-05T14:20:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 51632663,
+      "date": "2014-08-08T17:28:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55479659,
+      "date": "2014-09-13T02:50:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55479663,
+      "date": "2014-09-13T02:50:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55479742,
+      "date": "2014-09-13T02:53:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55513271,
+      "date": "2014-09-14T02:20:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55523598,
+      "date": "2014-09-14T12:08:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55536690,
+      "date": "2014-09-14T19:35:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55537809,
+      "date": "2014-09-14T20:10:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55541141,
+      "date": "2014-09-14T22:05:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55542987,
+      "date": "2014-09-14T23:21:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55546051,
+      "date": "2014-09-15T01:21:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55610630,
+      "date": "2014-09-15T15:50:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55612087,
+      "date": "2014-09-15T15:58:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55612160,
+      "date": "2014-09-15T15:59:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55684638,
+      "date": "2014-09-16T01:45:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 55745997,
+      "date": "2014-09-16T13:56:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 56245151,
+      "date": "2014-09-19T22:43:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 56666272,
+      "date": "2014-09-24T13:04:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 57666376,
+      "date": "2014-10-02T17:28:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 57677986,
+      "date": "2014-10-02T18:22:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 57708948,
+      "date": "2014-10-02T21:11:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58071865,
+      "date": "2014-10-06T18:51:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58183756,
+      "date": "2014-10-07T13:29:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58184925,
+      "date": "2014-10-07T13:38:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58200913,
+      "date": "2014-10-07T15:15:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58200985,
+      "date": "2014-10-07T15:15:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58406894,
+      "date": "2014-10-08T18:45:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58802706,
+      "date": "2014-10-12T14:48:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58812847,
+      "date": "2014-10-12T17:53:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 59226621,
+      "date": "2014-10-15T15:42:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 60762743,
+      "date": "2014-10-28T14:22:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 61408776,
+      "date": "2014-11-02T14:31:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 62910828,
+      "date": "2014-11-13T15:43:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 65514042,
+      "date": "2014-12-03T23:49:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 65514486,
+      "date": "2014-12-03T23:53:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 65530465,
+      "date": "2014-12-04T02:55:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66229029,
+      "date": "2014-12-09T03:19:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66523022,
+      "date": "2014-12-10T21:00:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66523129,
+      "date": "2014-12-10T21:00:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66528226,
+      "date": "2014-12-10T21:35:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66564600,
+      "date": "2014-12-11T03:35:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66564672,
+      "date": "2014-12-11T03:36:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66661228,
+      "date": "2014-12-11T18:04:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 66679048,
+      "date": "2014-12-11T20:02:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 67520915,
+      "date": "2014-12-18T17:18:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 67551038,
+      "date": "2014-12-18T20:25:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 67656811,
+      "date": "2014-12-19T16:01:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 67656931,
+      "date": "2014-12-19T16:02:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 67662622,
+      "date": "2014-12-19T16:41:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 68724210,
+      "date": "2015-01-05T15:35:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 68876767,
+      "date": "2015-01-06T15:09:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 70851600,
+      "date": "2015-01-21T14:59:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 74719668,
+      "date": "2015-02-17T18:14:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 74723091,
+      "date": "2015-02-17T18:32:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 74987538,
+      "date": "2015-02-19T02:03:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 75447743,
+      "date": "2015-02-22T17:52:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 76984935,
+      "date": "2015-03-03T16:53:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 77572257,
+      "date": "2015-03-06T15:01:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 81964439,
+      "date": "2015-03-16T22:16:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 81964690,
+      "date": "2015-03-16T22:17:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 81964835,
+      "date": "2015-03-16T22:17:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 84036073,
+      "date": "2015-03-20T14:51:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 84097293,
+      "date": "2015-03-20T18:41:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 84149382,
+      "date": "2015-03-20T21:14:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 93857653,
+      "date": "2015-04-16T22:57:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 98396192,
+      "date": "2015-05-02T20:26:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 98401860,
+      "date": "2015-05-02T21:06:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 106496642,
+      "date": "2015-05-28T17:11:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 108109476,
+      "date": "2015-06-02T21:52:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 109608466,
+      "date": "2015-06-06T16:13:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 113517930,
+      "date": "2015-06-19T13:41:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 113555872,
+      "date": "2015-06-19T15:56:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 113561752,
+      "date": "2015-06-19T16:14:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 120749428,
+      "date": "2015-07-12T17:37:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 120751176,
+      "date": "2015-07-12T18:01:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 120751270,
+      "date": "2015-07-12T18:03:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 120953264,
+      "date": "2015-07-13T14:43:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 124129056,
+      "date": "2015-07-23T14:45:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 131168104,
+      "date": "2015-08-14T16:24:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 131219733,
+      "date": "2015-08-14T19:56:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 131229666,
+      "date": "2015-08-14T20:19:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 131230966,
+      "date": "2015-08-14T20:23:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 131274020,
+      "date": "2015-08-15T00:43:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 137750158,
+      "date": "2015-09-04T14:26:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 137760183,
+      "date": "2015-09-04T15:02:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 139338607,
+      "date": "2015-09-10T18:38:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 147497750,
+      "date": "2015-10-12T19:28:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 151153396,
+      "date": "2015-10-26T14:23:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 155897786,
+      "date": "2015-11-11T20:13:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 21413918,
+      "date": "2013-07-23T13:35:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 23955523,
+      "date": "2013-09-06T17:17:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 23962468,
+      "date": "2013-09-06T19:09:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 23963623,
+      "date": "2013-09-06T19:29:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27827457,
+      "date": "2013-11-06T00:23:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27827932,
+      "date": "2013-11-06T00:32:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828133,
+      "date": "2013-11-06T00:36:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828343,
+      "date": "2013-11-06T00:40:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828493,
+      "date": "2013-11-06T00:43:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828500,
+      "date": "2013-11-06T00:43:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828505,
+      "date": "2013-11-06T00:43:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828507,
+      "date": "2013-11-06T00:43:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828509,
+      "date": "2013-11-06T00:43:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27828899,
+      "date": "2013-11-06T00:50:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27829090,
+      "date": "2013-11-06T00:53:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27829241,
+      "date": "2013-11-06T00:55:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27829431,
+      "date": "2013-11-06T00:57:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27829624,
+      "date": "2013-11-06T00:59:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27829954,
+      "date": "2013-11-06T01:04:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27830247,
+      "date": "2013-11-06T01:07:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27831603,
+      "date": "2013-11-06T01:26:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27832045,
+      "date": "2013-11-06T01:32:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27834143,
+      "date": "2013-11-06T02:01:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27873874,
+      "date": "2013-11-06T13:43:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27880036,
+      "date": "2013-11-06T15:02:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27881342,
+      "date": "2013-11-06T15:17:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27891726,
+      "date": "2013-11-06T17:00:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27898396,
+      "date": "2013-11-06T18:12:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 31583515,
+      "date": "2014-01-04T17:23:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 32694841,
+      "date": "2014-01-18T22:16:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 32694862,
+      "date": "2014-01-18T22:17:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 32694885,
+      "date": "2014-01-18T22:17:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 34346284,
+      "date": "2014-02-06T17:13:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 34351919,
+      "date": "2014-02-06T18:07:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 34352121,
+      "date": "2014-02-06T18:09:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 37600149,
+      "date": "2014-03-13T23:33:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 37600301,
+      "date": "2014-03-13T23:35:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 37600460,
+      "date": "2014-03-13T23:38:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 37600521,
+      "date": "2014-03-13T23:39:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 37882712,
+      "date": "2014-03-17T23:15:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 37882751,
+      "date": "2014-03-17T23:15:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 37883215,
+      "date": "2014-03-17T23:21:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 38104323,
+      "date": "2014-03-19T20:44:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 38935248,
+      "date": "2014-03-28T15:57:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 38965130,
+      "date": "2014-03-28T20:35:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 39472543,
+      "date": "2014-04-03T16:25:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 39675445,
+      "date": "2014-04-06T18:10:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 40391476,
+      "date": "2014-04-14T17:05:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 40391483,
+      "date": "2014-04-14T17:05:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 41057664,
+      "date": "2014-04-22T15:54:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 41292036,
+      "date": "2014-04-24T15:14:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 41292278,
+      "date": "2014-04-24T15:16:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 43381785,
+      "date": "2014-05-16T21:31:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 45666193,
+      "date": "2014-06-10T20:21:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 46091236,
+      "date": "2014-06-14T15:41:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 47149393,
+      "date": "2014-06-25T19:47:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 47149417,
+      "date": "2014-06-25T19:47:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 47373476,
+      "date": "2014-06-27T16:52:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 47430815,
+      "date": "2014-06-28T15:47:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 47430828,
+      "date": "2014-06-28T15:47:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 48177662,
+      "date": "2014-07-07T13:28:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50248784,
+      "date": "2014-07-26T21:12:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50248794,
+      "date": "2014-07-26T21:12:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50250191,
+      "date": "2014-07-26T22:18:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50250408,
+      "date": "2014-07-26T22:30:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50250466,
+      "date": "2014-07-26T22:33:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50254208,
+      "date": "2014-07-27T02:53:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50254491,
+      "date": "2014-07-27T03:13:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 50427179,
+      "date": "2014-07-29T02:20:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 51520489,
+      "date": "2014-08-07T19:33:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 52312542,
+      "date": "2014-08-15T14:36:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 53069383,
+      "date": "2014-08-22T14:47:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 60103542,
+      "date": "2014-10-22T15:29:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62416727,
+      "date": "2014-11-10T17:04:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62416768,
+      "date": "2014-11-10T17:04:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62416829,
+      "date": "2014-11-10T17:05:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62416893,
+      "date": "2014-11-10T17:05:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62417192,
+      "date": "2014-11-10T17:07:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62417237,
+      "date": "2014-11-10T17:07:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62417288,
+      "date": "2014-11-10T17:08:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62417486,
+      "date": "2014-11-10T17:09:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62417802,
+      "date": "2014-11-10T17:11:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62417862,
+      "date": "2014-11-10T17:11:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62417936,
+      "date": "2014-11-10T17:12:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62418311,
+      "date": "2014-11-10T17:14:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62418566,
+      "date": "2014-11-10T17:16:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62418607,
+      "date": "2014-11-10T17:16:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62418691,
+      "date": "2014-11-10T17:17:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62418853,
+      "date": "2014-11-10T17:18:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62418974,
+      "date": "2014-11-10T17:18:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62419035,
+      "date": "2014-11-10T17:19:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62419272,
+      "date": "2014-11-10T17:20:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62419410,
+      "date": "2014-11-10T17:21:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 62445035,
+      "date": "2014-11-10T20:01:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 64916260,
+      "date": "2014-11-28T17:36:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 67243303,
+      "date": "2014-12-16T22:19:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 67501540,
+      "date": "2014-12-18T15:28:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 68415160,
+      "date": "2014-12-31T00:54:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 70664262,
+      "date": "2015-01-20T14:48:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 72736663,
+      "date": "2015-02-03T21:17:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 73237872,
+      "date": "2015-02-06T13:44:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 73250778,
+      "date": "2015-02-06T15:11:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 73254706,
+      "date": "2015-02-06T15:34:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133943804,
+      "date": "2015-08-23T22:04:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133947915,
+      "date": "2015-08-23T22:25:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 133949982,
+      "date": "2015-08-23T22:35:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 135793023,
+      "date": "2015-08-28T14:42:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 135827974,
+      "date": "2015-08-28T16:40:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 136454058,
+      "date": "2015-08-31T18:26:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 96,
+      "date": "2015-03-20T14:45:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 87,
+      "date": "2015-01-21T15:22:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 55,
+      "date": "2014-08-20T18:55:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 46,
+      "date": "2014-06-16T20:58:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 38,
+      "date": "2014-05-05T19:27:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 37,
+      "date": "2014-05-05T14:07:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 32,
+      "date": "2014-04-30T19:47:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 31,
+      "date": "2014-04-30T19:30:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 22,
+      "date": "2014-03-21T19:07:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 19,
+      "date": "2014-03-16T22:04:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 17,
+      "date": "2014-03-13T22:57:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 8,
+      "date": "2013-12-19T18:00:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 7,
+      "date": "2013-12-13T20:34:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 4,
+      "date": "2013-12-10T16:39:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 82,
+      "date": "2014-03-17T23:12:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 58,
+      "date": "2013-12-01T21:38:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 53,
+      "date": "2013-11-06T16:06:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 52,
+      "date": "2013-11-06T01:14:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 50,
+      "date": "2013-11-05T04:52:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 45,
+      "date": "2013-10-02T21:33:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "issue",
+      "id": 53,
+      "date": "2014-08-02T15:04:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "issue",
+      "id": 23,
+      "date": "2014-03-25T22:27:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "issue",
+      "id": 15,
+      "date": "2014-03-06T17:24:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "issue",
+      "id": 11,
+      "date": "2014-01-08T22:11:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "issue",
+      "id": 9,
+      "date": "2014-01-06T16:28:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "issue",
+      "id": 51,
+      "date": "2013-11-06T00:38:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "943ea8baf3ca5fa2e60d43e0e2b16e7f0afd6198",
+      "date": "2015-10-06T00:51:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "40398b9ed5069d00e4862feac7a0fa0a3241851b",
+      "date": "2015-03-13T15:07:46Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "8c375883022180bee4df940f18488a116f94481a",
+      "date": "2015-03-13T14:53:48Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "15bdf341fbcaa4a167b1747a89c1859b7efba70d",
+      "date": "2015-03-13T14:43:56Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "ecaa7de3f715bf825510f8cb248df56f1a72be3e",
+      "date": "2015-02-24T22:32:48Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "2770c2cd072db78ac6597e9db78f671842b2b1e1",
+      "date": "2014-10-07T15:22:21Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "commit",
+      "id": "478eea150c8bf229f15aafce18b94dfce60938da",
+      "date": "2014-10-07T15:13:50Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "commit",
+      "id": "cd383b2c2ad42abf50d4dadc316e606233255402",
+      "date": "2013-02-19T00:54:22Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 30243969,
+      "date": "2013-12-10T16:40:54Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 37597860,
+      "date": "2014-03-13T23:04:25Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 38234013,
+      "date": "2014-03-20T23:39:08Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 38629639,
+      "date": "2014-03-25T22:30:46Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 58202149,
+      "date": "2014-10-07T15:22:38Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 79234549,
+      "date": "2015-03-13T18:40:24Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 139191641,
+      "date": "2015-09-10T10:01:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 148074794,
+      "date": "2015-10-14T14:53:55Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "com",
+      "id": 151165494,
+      "date": "2015-10-26T14:59:20Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 17736299,
+      "date": "2013-05-10T18:22:21Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27433723,
+      "date": "2013-10-30T20:03:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "com",
+      "id": 27886374,
+      "date": "2013-11-06T16:07:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 121,
+      "date": "2015-10-06T00:51:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 95,
+      "date": "2015-03-13T15:09:51Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 91,
+      "date": "2015-02-24T22:33:36Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 67,
+      "date": "2014-10-07T15:14:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "pr",
+      "id": 54,
+      "date": "2014-08-08T16:48:26Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "pr",
+      "id": 4,
+      "date": "2013-02-19T00:59:45Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "issue",
+      "id": 21,
+      "date": "2014-03-20T23:37:54Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "sethvargo/chef-sugar",
+      "type": "issue",
+      "id": 18,
+      "date": "2014-03-16T21:46:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/kitchen-vagrant",
+      "type": "issue",
+      "id": 3,
+      "date": "2013-02-15T21:44:32Z"
+    }
+  ]
+}

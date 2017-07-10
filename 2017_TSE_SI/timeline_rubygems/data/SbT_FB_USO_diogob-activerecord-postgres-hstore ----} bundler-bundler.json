@@ -1,0 +1,1616 @@
+{
+  "user_repo": "diogob/activerecord-postgres-hstore",
+  "dep_repo": "bundler/bundler",
+  "dep_date": "2011-08-02 03:09:34 UTC",
+  "dep_commit_id": "65d8e0d2b0180ebb6e22b62156b0f507f9e368c1",
+  "social_date": "2010-09-16 15:07:58 UTC",
+  "devs": [
+    "jjb",
+    "diogob"
+  ],
+  "interactions": [
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "commit",
+      "id": "7dcdf736fbad707dff6f7942da4d83b814d249bd",
+      "date": "2011-11-10T00:10:53Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9923151,
+      "date": "2012-10-30T21:14:43Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9923393,
+      "date": "2012-10-30T21:21:57Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 10381940,
+      "date": "2012-11-14T20:11:36Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 11127900,
+      "date": "2012-12-07T12:15:53Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13230208,
+      "date": "2013-02-07T10:35:09Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 15679115,
+      "date": "2013-03-30T18:15:32Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 549324,
+      "date": "2010-11-17T23:16:36Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 3434795,
+      "date": "2012-01-10T18:52:32Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 7472106,
+      "date": "2012-08-03T00:12:31Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 10214950,
+      "date": "2012-11-09T03:58:17Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 10215085,
+      "date": "2012-11-09T04:09:30Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 10215587,
+      "date": "2012-11-09T04:52:54Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 10215793,
+      "date": "2012-11-09T05:12:23Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 28411570,
+      "date": "2013-11-13T16:52:25Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 28454235,
+      "date": "2013-11-14T02:17:55Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 28455020,
+      "date": "2013-11-14T02:40:00Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 48526727,
+      "date": "2014-07-09T20:02:22Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 57026671,
+      "date": "2014-09-26T22:05:39Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 57105460,
+      "date": "2014-09-29T00:02:28Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 57177742,
+      "date": "2014-09-29T15:24:21Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 57186924,
+      "date": "2014-09-29T16:22:25Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 57804164,
+      "date": "2014-10-03T14:34:28Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 58140514,
+      "date": "2014-10-07T05:57:14Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 58436326,
+      "date": "2014-10-08T22:11:37Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 62786234,
+      "date": "2014-11-12T20:18:36Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63425826,
+      "date": "2014-11-18T05:48:54Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63426109,
+      "date": "2014-11-18T05:53:39Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63426251,
+      "date": "2014-11-18T05:55:49Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63427287,
+      "date": "2014-11-18T06:13:17Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63427898,
+      "date": "2014-11-18T06:23:14Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63428128,
+      "date": "2014-11-18T06:26:52Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63593444,
+      "date": "2014-11-19T05:15:58Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 63597065,
+      "date": "2014-11-19T06:13:18Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 150019793,
+      "date": "2015-10-21T20:47:37Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "pr",
+      "id": 1522,
+      "date": "2011-11-10T00:10:58Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "issue",
+      "id": 81,
+      "date": "2013-02-07T11:11:44Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 3174,
+      "date": "2014-09-14T20:20:19Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 3088,
+      "date": "2014-07-09T19:20:08Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 2714,
+      "date": "2013-11-13T16:49:07Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 2713,
+      "date": "2013-11-13T16:47:59Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 2152,
+      "date": "2012-11-09T02:58:30Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 854,
+      "date": "2010-11-17T17:38:30Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "3d9ef77ad686a59ea3513d6d95dd0b2c226c6ffb",
+      "date": "2015-06-07T00:24:55Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "ee61e7900c07a47b8ec0f38c9541288f13fb8606",
+      "date": "2015-06-06T15:58:22Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "34f5fdce49185f65c1395ef57d9f528f1f9c44c8",
+      "date": "2015-04-01T00:44:37Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "861df2c9024f1f8e9c0f7d601653e485f960c4aa",
+      "date": "2014-06-20T15:15:32Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "0f959161350aad37a0847a5cd3672ec67e3c2f14",
+      "date": "2014-05-22T16:31:48Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "efa8f53c98ad6c29b7ae66312d0b46b74e1a8705",
+      "date": "2013-12-10T17:19:45Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "a231a2b4cb2294882f3a25bb456ea6f4b4289584",
+      "date": "2013-11-19T15:23:16Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "51e66020dc391ec805744e17692b7d2ac64921d5",
+      "date": "2013-11-19T15:01:19Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "2323a0f4992931953a7595bc71fc98a15fc941ef",
+      "date": "2013-11-19T14:52:55Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "5dba5d773bff9eaf77d8126ce5ce67afcad9f548",
+      "date": "2013-08-12T14:35:17Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "385085f3d661a19e4b38fa3a2630746390cfa131",
+      "date": "2013-05-06T14:25:06Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "259458c070ee35b856e142bef208d0074c8af47a",
+      "date": "2013-03-27T05:19:16Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "21f39767e680a969e76411f33228c838755cde53",
+      "date": "2013-03-26T18:36:25Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "a6c409e7ffc4bacfdd69508b517508ced46af960",
+      "date": "2013-03-26T18:32:53Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "2001b87e71fa91f2907e66b21bbe7ef675652ae0",
+      "date": "2013-02-15T11:34:15Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "86ed890f05698ceb4521370ea9e44ecc2f705621",
+      "date": "2013-02-14T18:11:28Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "ca34391c776949c13d561870067ddf581f0561b9",
+      "date": "2013-02-14T18:10:42Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "4ff3a18d2745ee57adb5be9bfc180da8aee4814c",
+      "date": "2013-02-12T00:22:12Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "ffc838f63812ff96b773441d16943b788c868ac7",
+      "date": "2013-02-12T00:11:47Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "f2d83b306fb25d4582d62d0324dff45bdefb9f75",
+      "date": "2013-02-07T18:11:40Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "14fd7ae5771dce75f245522d84bd640c2e23a88f",
+      "date": "2013-02-07T12:28:48Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "eeab338f5d32bd77124b76cb6a9d8821a0a4d896",
+      "date": "2013-02-07T12:25:09Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "0b66d8bd31333c3cff2c1abaa8057707a286c23d",
+      "date": "2013-02-07T12:22:49Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "c57b00d5e918f6170db80bafd811f77870173e31",
+      "date": "2013-02-07T12:08:36Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "210891a8309dc28c5f901cd54b3c8fdd4f6322d1",
+      "date": "2013-02-07T11:56:37Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "da525851ac118fb574f707d1ad5262f90a3ad19f",
+      "date": "2013-02-07T11:49:26Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "ab5d306cec35352f7f691a1665c6fb1f312067bb",
+      "date": "2013-02-05T13:19:46Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "dd252872849fb100ae454ad6e8a194f4f6c0168e",
+      "date": "2013-02-04T18:43:07Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "77a3f02820b48866dc67d67701886db755dee3ff",
+      "date": "2013-02-04T15:37:00Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "077c08a71ec0312d40c538e70a64f79af4faab67",
+      "date": "2013-02-04T15:15:24Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "7284b8b063293428292666c7290592ea922ca598",
+      "date": "2013-02-04T15:10:35Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "fb59b1cd2daf8b499e2bf108d1ae5d89b2379426",
+      "date": "2013-02-04T13:13:18Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "67a6038055b66258a5a0a02f7f94fc4bdf7ecde2",
+      "date": "2013-02-03T15:06:39Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "f92b012ea1a7149388c24fd52740e6d091706e66",
+      "date": "2013-01-23T15:53:07Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "5f8bb15ce3247907342e7f64ed74e4a9cb114601",
+      "date": "2013-01-23T15:42:51Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "6b6f73de8baff340f35f13348ffb6cafa28f79b3",
+      "date": "2013-01-14T12:50:36Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "27ea525a210a8d4894a0a986fdf19175d4a91881",
+      "date": "2013-01-14T12:50:31Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "e92fbecbc315ab38f918d8f289ebd7e587b22d5d",
+      "date": "2013-01-09T00:13:24Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "4be6fecf1be79d51d9823bbfd1ccd941c468d4e8",
+      "date": "2013-01-09T00:12:43Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "4a64fe7b65fdbe32b07e319765e8fb8e927b59f8",
+      "date": "2013-01-09T00:12:13Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "95b1c11e127bc0af211a686712226baafb12915c",
+      "date": "2013-01-04T13:49:01Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "8009fffab799e301f16bbb4f0bb43ad4abe1f456",
+      "date": "2013-01-04T13:18:12Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "7869647aa0a5f1512bbec633be389e90e05f5b38",
+      "date": "2013-01-04T13:17:39Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "3170c2ce392e974f30c46a8976df7acfe8525741",
+      "date": "2013-01-03T19:44:28Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "87b7be2fbd4c802b3bf4dbc14e5e17d9c4e86d0e",
+      "date": "2013-01-03T19:42:45Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "df0cd0dea30d0c9bcf0abdda15eb0922d9b7f68f",
+      "date": "2013-01-03T19:40:37Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "82f22b9d50e98d6a0bd03e11721014f30be47749",
+      "date": "2013-01-03T19:21:04Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "cb880d833b72d535d40b0e5daa1ac663ff989b0d",
+      "date": "2013-01-03T19:18:49Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "c27b375ac0b38519e463d03ae269003c9116e264",
+      "date": "2012-11-16T14:58:34Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "03588cd5ff96a72103e83c11ae4d1e4e4f24c06a",
+      "date": "2012-11-01T21:16:05Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "dd26348129aaaf122ff987329b5416149578bc06",
+      "date": "2012-11-01T20:55:08Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "2365b8851dd9425fced8434c565d97caed2fb821",
+      "date": "2012-09-14T17:57:18Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "41b6ae312dd6059d3fc674dd5018113809099c9e",
+      "date": "2012-09-14T17:54:08Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "053ea4c662b7f45a57c33e23826c27c6ee9edf09",
+      "date": "2012-09-14T17:45:15Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "c1291acf64fe888cb16be99f007791b4d0ddce0e",
+      "date": "2012-09-14T17:27:02Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "e54c32c78e13507a6c564113919b3d1db049f604",
+      "date": "2012-09-14T17:24:12Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "cbf3fe2730f4bd1000cd330302abe2477c6fb6b2",
+      "date": "2012-09-14T17:18:00Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "a5c37ccd25967d6aa5b34ff5dace75badd4e36c0",
+      "date": "2012-09-14T17:14:33Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "a211841295882aa3e2c267750037b8bc58da5546",
+      "date": "2012-07-20T13:45:45Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "93c6c88a506970204965f3902e19d18d65b05e09",
+      "date": "2012-06-26T22:31:44Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "e6226b600e0723a87446d5ae155f36401df2488e",
+      "date": "2012-05-22T18:18:37Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "15958f2a736d29d08373cfb6d01fcada48bc145d",
+      "date": "2012-05-22T16:57:06Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "dfe391dea6058e0867b54b455d04fe88cf48eac2",
+      "date": "2012-05-22T16:35:58Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "ae044a322fa4637bb465001f35035e4ef0afb1bd",
+      "date": "2012-05-22T15:59:33Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "69c936d79f5bea59b93acfe7cf5ffc69cdb11532",
+      "date": "2012-05-22T15:58:53Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "6a3ae7173892536ba6a8cf1d082d16257d25b08d",
+      "date": "2012-05-22T15:58:16Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "c6cba56225b2c027e5e03752c7ae59cb9b8d793f",
+      "date": "2012-05-22T15:49:04Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "aaf03d25d2f17373c914df27de54ac2e174bbf86",
+      "date": "2012-05-22T15:31:59Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "dc0975e00f8ca4bde8f90aab4d8cad5e9dec70e3",
+      "date": "2012-05-22T15:30:15Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "b91361418be923fba502d96d854b70f2434e55a5",
+      "date": "2012-05-22T15:27:50Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "0f29b541bcf4bf93a69d130dad0394037ab46c22",
+      "date": "2012-05-22T15:27:13Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "556604ca13061dee988f247c42be44c7ea5c8255",
+      "date": "2012-05-22T15:24:14Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "fc5810613c3afc1a442bf933ed0663849edea811",
+      "date": "2012-05-22T15:14:57Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "87f1196c2460c7324d2359f8dfe1400ee1333915",
+      "date": "2012-05-22T14:53:06Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "29f6cf67291876bd0118e384d7f797ca28c2b0b1",
+      "date": "2012-04-30T17:13:03Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "614a504c4454dd9d78861044aa82a5bdd18f94d3",
+      "date": "2011-12-28T12:18:42Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "6d0e5280e2f91fa2c9867a5571bbb9127776d731",
+      "date": "2011-12-28T12:18:28Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "82749b3647f644091cc99ead4c10354d761b351f",
+      "date": "2011-12-28T12:17:47Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "9355d653277dd788d6ca8049e122c2173a05531a",
+      "date": "2011-12-28T11:55:21Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "61e21f2e09d89a55db4d9b51469b1699e9d45fdb",
+      "date": "2011-12-28T11:54:53Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "6887d29fe6edcc8e30c21cc9b0b00f9450633af4",
+      "date": "2011-08-02T03:49:21Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "b7a84d60eff11cae0cf3572eaf139150c43195fa",
+      "date": "2011-08-02T03:49:17Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "32cde17adc7ac1e076491ae7755b4f0abcd92063",
+      "date": "2011-08-02T03:48:55Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "65d8e0d2b0180ebb6e22b62156b0f507f9e368c1",
+      "date": "2011-08-02T03:09:34Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "1e39593f9f2f3c015a840c5963f6875766eacab9",
+      "date": "2011-08-02T03:09:23Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "6d27e51534149ed8f0cb0b9da3218bc7e65b2af2",
+      "date": "2011-07-29T18:04:37Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "00d8617a1bb8188d7f6906dbeee69293fa657004",
+      "date": "2011-07-29T18:02:17Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "4cd4d889efd859e855e5a8d93e443b044a0a62a1",
+      "date": "2011-07-07T23:56:10Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "commit",
+      "id": "cf1472fedde552336288a116930b8f906d1d02f9",
+      "date": "2011-03-11T14:20:01Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 860632,
+      "date": "2011-03-11T14:23:42Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 900368,
+      "date": "2011-03-21T21:21:07Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 2383723,
+      "date": "2011-10-12T19:52:40Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 2667632,
+      "date": "2011-11-08T13:55:34Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 2708859,
+      "date": "2011-11-11T14:53:21Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 3315665,
+      "date": "2011-12-30T18:21:29Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 3450619,
+      "date": "2012-01-11T17:58:11Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 3630615,
+      "date": "2012-01-24T11:00:01Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 3794657,
+      "date": "2012-02-03T10:28:33Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 4826390,
+      "date": "2012-03-29T17:23:36Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5476640,
+      "date": "2012-05-03T01:31:02Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5845149,
+      "date": "2012-05-22T11:54:26Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5846015,
+      "date": "2012-05-22T12:47:19Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5846121,
+      "date": "2012-05-22T12:51:57Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5846269,
+      "date": "2012-05-22T12:59:47Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5846547,
+      "date": "2012-05-22T13:13:10Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5846600,
+      "date": "2012-05-22T13:15:14Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5848496,
+      "date": "2012-05-22T14:32:59Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5849038,
+      "date": "2012-05-22T14:51:40Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5849077,
+      "date": "2012-05-22T14:52:51Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5854614,
+      "date": "2012-05-22T18:20:30Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5969754,
+      "date": "2012-05-28T18:16:57Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 5985311,
+      "date": "2012-05-29T14:40:09Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 6285636,
+      "date": "2012-06-12T22:24:37Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 6286031,
+      "date": "2012-06-12T22:30:20Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 6286166,
+      "date": "2012-06-12T22:38:14Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 6940561,
+      "date": "2012-07-12T16:43:48Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 6941074,
+      "date": "2012-07-12T17:01:17Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 6964610,
+      "date": "2012-07-13T14:32:23Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 7130352,
+      "date": "2012-07-20T13:41:14Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 7130422,
+      "date": "2012-07-20T13:44:21Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 8568698,
+      "date": "2012-09-14T17:21:42Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 8569603,
+      "date": "2012-09-14T17:45:40Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 8569722,
+      "date": "2012-09-14T17:48:43Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 8571070,
+      "date": "2012-09-14T18:24:44Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 8577320,
+      "date": "2012-09-14T22:22:53Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 8989788,
+      "date": "2012-09-28T19:32:07Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 8989844,
+      "date": "2012-09-28T19:33:08Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9120832,
+      "date": "2012-10-03T20:26:31Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9121034,
+      "date": "2012-10-03T20:32:53Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9317339,
+      "date": "2012-10-10T20:00:22Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9454134,
+      "date": "2012-10-15T17:39:42Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9995272,
+      "date": "2012-11-01T20:47:16Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9995543,
+      "date": "2012-11-01T20:55:05Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9996226,
+      "date": "2012-11-01T21:15:08Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9996261,
+      "date": "2012-11-01T21:15:59Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9996309,
+      "date": "2012-11-01T21:17:30Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9996433,
+      "date": "2012-11-01T21:21:16Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 9996455,
+      "date": "2012-11-01T21:22:04Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 10081719,
+      "date": "2012-11-05T18:25:30Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 11857062,
+      "date": "2013-01-03T19:28:03Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 11857822,
+      "date": "2013-01-03T19:46:51Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 11858123,
+      "date": "2013-01-03T19:53:29Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 11863136,
+      "date": "2013-01-03T22:06:51Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 11881429,
+      "date": "2013-01-04T12:29:47Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 11882573,
+      "date": "2013-01-04T13:22:19Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 12024858,
+      "date": "2013-01-09T00:16:04Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 12601692,
+      "date": "2013-01-23T15:53:32Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 12635589,
+      "date": "2013-01-24T03:32:20Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 12635839,
+      "date": "2013-01-24T03:44:09Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 12836486,
+      "date": "2013-01-29T14:22:12Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 12839254,
+      "date": "2013-01-29T15:16:26Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 12939623,
+      "date": "2013-01-31T12:08:59Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13048038,
+      "date": "2013-02-03T15:00:44Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13081856,
+      "date": "2013-02-04T15:29:24Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13082099,
+      "date": "2013-02-04T15:34:11Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13084214,
+      "date": "2013-02-04T16:13:26Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13100313,
+      "date": "2013-02-04T21:24:39Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13128763,
+      "date": "2013-02-05T13:20:55Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13232967,
+      "date": "2013-02-07T12:03:20Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13411648,
+      "date": "2013-02-12T00:17:44Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13570962,
+      "date": "2013-02-14T18:36:40Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13630834,
+      "date": "2013-02-15T22:09:51Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13665217,
+      "date": "2013-02-16T18:35:41Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 13678306,
+      "date": "2013-02-17T00:45:17Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 14244042,
+      "date": "2013-02-28T17:03:52Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 15477978,
+      "date": "2013-03-26T18:33:08Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 15504886,
+      "date": "2013-03-27T05:19:13Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 17484611,
+      "date": "2013-05-06T14:24:28Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 23274354,
+      "date": "2013-08-26T16:08:27Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 24961351,
+      "date": "2013-09-23T22:40:07Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 28796450,
+      "date": "2013-11-19T15:01:59Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 30236709,
+      "date": "2013-12-10T15:29:39Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 34206558,
+      "date": "2014-02-05T16:47:25Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 35402289,
+      "date": "2014-02-18T16:28:30Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 35402861,
+      "date": "2014-02-18T16:33:14Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 46680010,
+      "date": "2014-06-20T13:52:17Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 46689781,
+      "date": "2014-06-20T15:15:29Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 48247534,
+      "date": "2014-07-07T22:04:46Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 68997209,
+      "date": "2015-01-07T09:26:50Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 97444086,
+      "date": "2015-04-29T14:19:11Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 97447794,
+      "date": "2015-04-29T14:26:58Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 109605994,
+      "date": "2015-06-06T15:46:02Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 109660957,
+      "date": "2015-06-07T00:24:53Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "diogob/activerecord-postgres-hstore",
+      "type": "com",
+      "id": 149893706,
+      "date": "2015-10-21T13:28:27Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 411193,
+      "date": "2010-09-16T18:10:45Z"
+    },
+    {
+      "dev_id": "diogob",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 698,
+      "date": "2010-09-16T15:07:58Z"
+    }
+  ]
+}

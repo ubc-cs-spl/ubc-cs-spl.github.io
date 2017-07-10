@@ -1,0 +1,3356 @@
+{
+  "user_repo": "chef/knife-ec2",
+  "dep_repo": "fog/fog",
+  "dep_date": "2011-03-08 00:46:33 UTC",
+  "dep_commit_id": "b54358f46227f62e0d065f097c571f8f01754c07",
+  "social_date": "2011-03-19 21:44:39 UTC",
+  "devs": [
+    "eherot",
+    "chirag-jog",
+    "stevendanna",
+    "schisamo",
+    "btm",
+    "juliandunn"
+  ],
+  "interactions": [
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "76329432fdf2bd391d7c9bdd0f68dc1c64a8a0f7",
+      "date": "2015-02-03T19:49:30Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "0c3fbb0368d4c0be1a88ff6d977056d40e218449",
+      "date": "2014-09-22T19:20:33Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "6753ddd46b63a38c4910e974bc79edc3ab0b975f",
+      "date": "2014-09-22T19:19:58Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "fffbca82cdd96f740838f8e484d63e57f4f09460",
+      "date": "2014-09-17T16:52:43Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "6ffe5905e0d2330615339bb52aebbe58b327abcf",
+      "date": "2014-09-17T15:06:19Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4b992f176b7cf625c9fd6500757623277eae6191",
+      "date": "2014-09-17T15:05:00Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "99fa78fb1ea144fc70453ce8e8069d13ba723f48",
+      "date": "2014-09-17T15:00:52Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "715508f286d0820159b66d39902e5aba4a5333fa",
+      "date": "2014-09-17T15:00:28Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "cf791f395f075fa263ba84ddd5dc58a463260d80",
+      "date": "2014-09-16T16:13:01Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "0d7b562ef2b36786ce0c4171e78308020265f249",
+      "date": "2014-09-16T16:10:30Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "e739187d99a75c82c08af90f245d56170311bcda",
+      "date": "2014-09-16T16:03:07Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f86d99b3f1b32cceb1fc41c4964fced64eecefbd",
+      "date": "2014-09-16T16:02:43Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ec727453e94c05d73a37cd47b615c064f630a5a6",
+      "date": "2014-09-11T23:37:39Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9c20adf536ef5b5479008f1783533511e1c43e6d",
+      "date": "2013-07-22T17:48:53Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "09666e09104adf5e0603ec534189d651e9a615a8",
+      "date": "2014-12-02T16:50:45Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "f55c8911a6a487d19c0985e1116b22165f279443",
+      "date": "2014-04-24T15:30:42Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "eeeabf55e1beae2de4b3f094aa711383f5dc9b65",
+      "date": "2014-04-24T14:05:12Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "7fd37c87f1df26cf75b94e7e3e8c42060be7626c",
+      "date": "2014-04-24T13:16:28Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "30f37b793d18b4d03390242c1c6bea140145ea52",
+      "date": "2014-04-24T13:10:16Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "8ad9963a4f8b828ec2cac2e0d4c9d41b51a8805e",
+      "date": "2014-04-24T13:09:12Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "31634cf6b43087fb878fc0b70e98d3bd81558032",
+      "date": "2014-04-24T12:56:53Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "a5aee270b0e44dcc4c976d0e35b3b89938de94ed",
+      "date": "2014-04-24T12:44:44Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "a8009208c19eb6c50bae09331d54a79acf120dbd",
+      "date": "2014-04-24T12:43:52Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "aa6e69635a3a66c80d911588a737d6c6d7b39739",
+      "date": "2014-04-23T22:55:17Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "310e8395b5d1f9a7b111f1fa3b4ed0c1ba94cf15",
+      "date": "2014-04-23T22:45:49Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "08d7120e2bd1b1b9b4aad47127f921ead20ef7e0",
+      "date": "2014-04-14T21:10:04Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "8634b0f2785e304a7d9424dcca761da5941ec608",
+      "date": "2014-04-14T20:46:59Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "d926be1a42bc8a508722a34a9353e3ff5f542240",
+      "date": "2014-04-14T20:46:03Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "640418c5e9a0f09ba8bc190f167be0f0c2a32244",
+      "date": "2014-02-18T19:08:45Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "421bc0adb7c8b8d3a1a9ec1322fe42c57c2db0f5",
+      "date": "2014-02-18T17:46:43Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "ce43ade58176411742609d304b5f492810b14057",
+      "date": "2014-02-17T16:27:25Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "26c8856b89111869525e809485e4fcde5b4cb065",
+      "date": "2014-02-14T23:42:28Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "e84261f7e57bcb33e3e51f28e25fa104f3e0fb26",
+      "date": "2014-02-06T23:01:37Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "e3aa031a9fcb1d4dfb23bc063447754f0a0922d7",
+      "date": "2014-02-06T20:04:08Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "151a8ad04a0c52289e8cf0a2eb607a0158f2c6b7",
+      "date": "2014-02-06T19:21:13Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "e7bb96fbb26d00752ef9a31e48372383a97a9c47",
+      "date": "2014-02-06T19:20:00Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "53ea214e40cc24a744126a5b3e9b26efa56cc6a7",
+      "date": "2014-02-06T16:15:33Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "744587f30456ff611c2e6efb6b4f2f3f51dfbea7",
+      "date": "2014-02-04T23:55:30Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "52b9ac7b9ebdca056920d0912434cd28ff2c9d72",
+      "date": "2014-02-04T23:54:11Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "36b8d1c84fb65f89d469ffbb1736a01281aabc04",
+      "date": "2014-02-04T19:24:31Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 20877399,
+      "date": "2013-07-12T13:50:09Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 21363961,
+      "date": "2013-07-22T18:14:22Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 56386167,
+      "date": "2014-09-22T15:00:46Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 56422006,
+      "date": "2014-09-22T18:56:27Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 72718576,
+      "date": "2015-02-03T19:36:17Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 73538528,
+      "date": "2015-02-09T16:25:25Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 34442646,
+      "date": "2014-02-07T14:52:38Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40376680,
+      "date": "2014-04-14T15:10:14Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40415369,
+      "date": "2014-04-14T20:40:44Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40420234,
+      "date": "2014-04-14T21:25:16Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40420659,
+      "date": "2014-04-14T21:29:17Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40505162,
+      "date": "2014-04-15T16:46:39Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 41294126,
+      "date": "2014-04-24T15:31:25Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 42707913,
+      "date": "2014-05-09T20:06:44Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 42964221,
+      "date": "2014-05-13T14:45:06Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 72507160,
+      "date": "2015-02-02T18:12:56Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 272,
+      "date": "2015-02-03T19:50:31Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 259,
+      "date": "2014-11-12T23:30:43Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 237,
+      "date": "2014-09-17T15:49:54Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 129,
+      "date": "2013-07-22T18:13:14Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 128,
+      "date": "2013-07-22T18:10:21Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 117,
+      "date": "2013-06-05T16:28:44Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3307,
+      "date": "2014-12-02T16:52:53Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 2688,
+      "date": "2014-02-18T20:26:52Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 2677,
+      "date": "2014-02-14T23:45:40Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 2646,
+      "date": "2014-02-05T00:01:45Z"
+    },
+    {
+      "dev_id": "eherot",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 2910,
+      "date": "2014-05-07T22:14:22Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ec0714aa7047e3e4dce15f1d5f61ceb98304dc9f",
+      "date": "2013-04-16T20:48:42Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "a5a583c40f30850a0318ad4c031a48bbe2e23a96",
+      "date": "2013-04-15T22:40:08Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "201850a938b3bece4719045786619ed9ad27ff0d",
+      "date": "2013-04-15T21:53:12Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "05da809db36d903092ea28ef0a79bc826f471861",
+      "date": "2013-04-15T21:49:50Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "672d38690d0aab454d175f5931abc087c807d98a",
+      "date": "2013-04-15T21:48:16Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f946d0551faece9b521abfa85c3774e31b8ba5ad",
+      "date": "2013-04-07T04:35:13Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "afa6e5e4db8d521aa94795787ae8ac408d3a388b",
+      "date": "2013-04-07T04:34:18Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "eef5d630bfec162788207675c52394a5d8e33cf5",
+      "date": "2013-04-07T04:13:40Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "de8c01fcacb9f1c29ebfc03ff74fee9624605e04",
+      "date": "2013-04-04T09:33:16Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "52b87ead51af48f32fd13a1d15a7c2474a05af00",
+      "date": "2013-04-04T08:10:45Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "334b93d3b360230fb63f62f6a42267d0b6022775",
+      "date": "2013-04-04T06:41:52Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "e352bc689577b8e9514b9f861997fa77baba18ab",
+      "date": "2013-04-04T06:40:53Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "b2398b4cc85bf342a69a3b8b9b10e05839f22d4f",
+      "date": "2013-03-05T05:27:22Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f64a5390eec236de06afcbb28a78342162e71557",
+      "date": "2013-03-05T05:23:54Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f1eda03dcc3386b5f13e352d7d47c7150ea09373",
+      "date": "2012-09-21T15:16:07Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "007a01351dadf42333b17ea2c260f15f414a07ae",
+      "date": "2012-09-20T03:55:27Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "bd4d7dea6554b1a2d2f75782f2da64a4b54588e4",
+      "date": "2012-09-10T18:12:58Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "0936dd33e360eed20bfe0b920871d37745cb7927",
+      "date": "2012-08-31T08:36:28Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "d121e92f0782027d8a9b69cf4077b6e23accaacf",
+      "date": "2012-08-29T16:43:40Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "bb36721cd9f35215ef044f8372b7de73a01bc0e5",
+      "date": "2013-03-13T04:41:18Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "269e4e7ebac6b524bd505fca9dc12ff941ff4b32",
+      "date": "2013-03-08T16:01:31Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "8c56814d508253319679c3de4dd940f277afead3",
+      "date": "2013-03-08T15:58:08Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "9e8bb10684b3ab35e42d7e8a140019a934b348d4",
+      "date": "2013-03-01T07:47:39Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "5a3332236153390694ab30950330b5784a1f4d41",
+      "date": "2013-02-28T16:10:33Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "de29bfcee8bec547f88b0fb2b9f93c20b3b54016",
+      "date": "2013-02-28T12:37:02Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "c8796146b349a3edfbad8094eee95655c63ab308",
+      "date": "2013-02-28T12:18:03Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "15eb069195f67978c70b219f87c95886201a0f3b",
+      "date": "2013-02-28T12:16:54Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "259a48f34a959ac6013e912cbe3ce75bd02f7227",
+      "date": "2013-02-12T12:57:17Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "4fe646dbbc1d2239e68fa3ab7123821403b6f5eb",
+      "date": "2013-02-12T12:56:35Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "5542e6b8b4c2766267d99c314458463de833876a",
+      "date": "2013-02-12T12:53:39Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "8cb8049390e5a2cc2f09378f8cf505d46b9d5d5c",
+      "date": "2013-02-12T12:52:46Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "6a0cb4fca80b75a1cc7ffa8b274810576751ec63",
+      "date": "2013-02-12T12:43:18Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "a0a2ca31ebfbde5fecb203bec74abc3b449549f2",
+      "date": "2013-02-08T06:41:37Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "bd1d1474b17c2d19fab00850bc22f66ec902bc16",
+      "date": "2013-02-08T06:40:13Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "7267a739f867e74538458a505eee43d63c710782",
+      "date": "2013-02-02T06:40:10Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "6b7ae788cda11450970a9fcc9b45ccf629f621a9",
+      "date": "2013-02-02T06:39:43Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "e27b2eec64db400dd1c1b070b62382269c07b363",
+      "date": "2013-02-02T06:38:33Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "490714dbf0236cd3c8367983a24043be68c18d65",
+      "date": "2013-02-02T06:40:10Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "a4508c27de510f956d59633592fd859b4028cc81",
+      "date": "2013-02-02T06:39:43Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "e8bcf413e1b6953f8a4af1269f5a121cd7bef348",
+      "date": "2013-02-02T06:38:33Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "abd3b0b0b13fbf71b5e2aab60ce8934e9ab72012",
+      "date": "2012-08-05T15:08:40Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "15592c06de8613172bcb61d3418811f2f02ede5c",
+      "date": "2012-08-05T14:57:38Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "8554a08ea4f040c95ff3b5fd476e6eba6b728c83",
+      "date": "2012-08-05T14:51:59Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "5198f7fec59323d4e7192c0d279f5b4ca46f177d",
+      "date": "2012-08-05T12:29:34Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "091f0c0ad6390aa57c52f8ca36599511be7992a4",
+      "date": "2012-08-05T12:10:55Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "94c0a17f5fd156d1187fc6661e939e06f5a4cabe",
+      "date": "2012-05-03T18:26:18Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "189dd88397e94c4d751cf6d5f87aafeee0ad12ba",
+      "date": "2012-05-03T07:39:06Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "d0057ed1360bb927f65becc8d5a9d1f46e7e4122",
+      "date": "2012-05-02T21:13:00Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "69539b059d3445bac9824000b9cc6404022de38a",
+      "date": "2012-05-02T20:55:11Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "46d8808c08172dabe447c632ab94d505588523c2",
+      "date": "2012-04-30T18:28:50Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "06484ccc21e5fbefc58777f903377c1c00c6979e",
+      "date": "2012-04-30T08:20:16Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 10073716,
+      "date": "2012-11-05T15:08:10Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 33569240,
+      "date": "2014-01-29T09:41:19Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 33667671,
+      "date": "2014-01-30T08:15:28Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 35243741,
+      "date": "2014-02-17T10:12:04Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 13171569,
+      "date": "2013-02-06T08:28:27Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 14153741,
+      "date": "2013-02-27T03:04:14Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 14154838,
+      "date": "2013-02-27T03:34:03Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 14241190,
+      "date": "2013-02-28T16:12:39Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 14607782,
+      "date": "2013-03-08T07:37:56Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 15213511,
+      "date": "2013-03-21T00:50:25Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 19443261,
+      "date": "2013-06-14T07:33:46Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 19476690,
+      "date": "2013-06-14T19:25:51Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 188,
+      "date": "2014-01-17T09:31:28Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 105,
+      "date": "2013-04-16T20:51:08Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 77,
+      "date": "2012-08-31T08:47:24Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 76,
+      "date": "2012-08-29T16:46:10Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 1660,
+      "date": "2013-03-13T04:42:42Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 1643,
+      "date": "2013-03-08T17:15:45Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 1608,
+      "date": "2013-02-28T12:53:18Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 1558,
+      "date": "2013-02-12T15:13:52Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 1557,
+      "date": "2013-02-12T13:10:37Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 1551,
+      "date": "2013-02-08T06:44:19Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 1068,
+      "date": "2012-08-05T15:36:26Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 934,
+      "date": "2012-05-27T18:45:48Z"
+    },
+    {
+      "dev_id": "chirag-jog",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 1549,
+      "date": "2013-02-06T08:23:38Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4b7e10bdef72111ef34ac5ee7bda560d278a40a2",
+      "date": "2013-04-15T22:38:48Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "5401c0f47011ee8b2b9d552c14a7ffdda9bb4d1c",
+      "date": "2013-03-21T18:43:46Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "8adbb0c77f91d2428b8e413da0bb96f9484c0ce2",
+      "date": "2013-03-20T02:22:46Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "99746f224cf5f2cde0a0c9ebb80e3dd061252712",
+      "date": "2013-03-20T02:33:45Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "248ddf8291b245e5e2e53a639e288ad6b0625e0e",
+      "date": "2013-03-20T02:14:44Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "16511cc0e4f8c02abf5e0e9695cc07285cecb971",
+      "date": "2012-10-24T22:04:22Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "aa9f2f489967391ff223be18c3c72450344fd6be",
+      "date": "2012-10-24T18:56:02Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "66dadc1d3c63bdb6903e574a613788522334a3be",
+      "date": "2012-10-16T14:35:11Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "2c1db288181b1f8519a92911ac43df21aac86d39",
+      "date": "2012-10-14T14:32:26Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "95de3a6cfa531c9efb7a60aedd1720f5066568c0",
+      "date": "2012-10-11T15:13:36Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "81892fcf5c8214d0df362c6df16c9abb70eadd40",
+      "date": "2012-10-11T15:09:37Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1ac2e24f045e78163f0f2a8d7174f58a22325485",
+      "date": "2012-10-10T19:56:46Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "11fafd949bc8b4cc310363530d4b1505edda6c91",
+      "date": "2012-09-08T18:05:09Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "3b0cd42b079444e173459a8b6f414e4240e3d1a0",
+      "date": "2012-09-08T17:42:45Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "0c0cbb3553eff8b2f9078b937799fa92d446dbb7",
+      "date": "2012-09-08T16:11:48Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "fe8e25d2efaaad5d5df6eac91a7813a43968910c",
+      "date": "2012-09-08T16:06:18Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "bb41834f357aeee76d7649811de20f5086e65a49",
+      "date": "2012-09-08T15:59:19Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "0f7fb1f1810d25e62822979e369a07271aac7723",
+      "date": "2012-07-26T01:23:06Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "589dadb7878916ff6f99300e67c3820d0531b305",
+      "date": "2012-07-26T00:48:18Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4a6a8175795a53fda3bb1143d58b113b92832d69",
+      "date": "2012-07-23T05:16:13Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "60218d2e3d640a7e40c7aafcdfdccd758e33b51a",
+      "date": "2012-07-23T04:56:04Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "fc2104862031ad8a6363a4e2573388f772572fa2",
+      "date": "2012-07-23T04:53:10Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "01da80b0199027d0d1762b6edc94a643a39fb88b",
+      "date": "2012-07-15T05:05:36Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "dce1d99cb58bb4ff7cc8f674a59f54491db38efd",
+      "date": "2012-07-11T14:17:01Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "7a010cfe88c37b34e4dd3855b25b790fe85c7a93",
+      "date": "2012-05-15T18:38:49Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "7d587a3bb5af2ea9fc8816bd29b542f7d757bf9c",
+      "date": "2012-05-15T14:36:01Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1ad3701cda262308072298da3929f7b88a1f055e",
+      "date": "2012-05-14T14:08:05Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f9a9749987a97dfe8f364587ced87261173ee58c",
+      "date": "2012-05-13T23:13:16Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f70d0dac6ff1ddb5011a53439a4398c926a91de7",
+      "date": "2012-05-13T19:38:23Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "2105fbcec14f087ef01356c68be4e18c7079b624",
+      "date": "2012-05-13T18:25:31Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f61539795728e9ec6f07fa52603e69d549edc47d",
+      "date": "2012-05-12T17:38:07Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "097b006444aa4d6d7f3a1d73bac8ab3433b2d58e",
+      "date": "2012-04-26T17:04:59Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "fa08d90faa0b579176cad8692cebf33015855a74",
+      "date": "2012-04-26T14:45:26Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "8fa1728b08667f41be926974a6d8c55b8af115af",
+      "date": "2012-04-26T14:22:29Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ebb0ce013c365520cbbbb82ab56a42bebf01044a",
+      "date": "2012-04-12T15:57:42Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "6bce5d546dde37f9338a66876eb707bf6c71473c",
+      "date": "2012-04-06T16:48:43Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "76cc836a2f81955ef8c29c189cf4e7a1e61fc609",
+      "date": "2012-04-06T05:37:33Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ae352a419cef38ec19a7a274f2936e69812865f0",
+      "date": "2011-12-06T18:37:34Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "d08c0b45eb7e781584834424815f6131561af1f6",
+      "date": "2011-07-06T01:40:02Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5094029,
+      "date": "2012-04-12T15:50:21Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5357589,
+      "date": "2012-04-26T14:26:01Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5680666,
+      "date": "2012-05-13T23:52:21Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5680668,
+      "date": "2012-05-13T23:52:58Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5680677,
+      "date": "2012-05-13T23:55:07Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5680683,
+      "date": "2012-05-13T23:55:57Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5680687,
+      "date": "2012-05-13T23:56:29Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5680695,
+      "date": "2012-05-13T23:58:24Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5683766,
+      "date": "2012-05-14T07:08:24Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5683806,
+      "date": "2012-05-14T07:12:47Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5683891,
+      "date": "2012-05-14T07:19:52Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5691546,
+      "date": "2012-05-14T14:32:38Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5691646,
+      "date": "2012-05-14T14:36:33Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5740529,
+      "date": "2012-05-16T13:18:14Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 5740564,
+      "date": "2012-05-16T13:19:38Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6170370,
+      "date": "2012-06-07T07:38:24Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6170442,
+      "date": "2012-06-07T07:44:17Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6170498,
+      "date": "2012-06-07T07:49:17Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6170514,
+      "date": "2012-06-07T07:50:38Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6170545,
+      "date": "2012-06-07T07:53:46Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6906785,
+      "date": "2012-07-11T13:43:06Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6908332,
+      "date": "2012-07-11T14:36:49Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6951745,
+      "date": "2012-07-13T00:34:10Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 6953515,
+      "date": "2012-07-13T03:04:58Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7169344,
+      "date": "2012-07-23T05:27:57Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7169367,
+      "date": "2012-07-23T05:29:11Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7169402,
+      "date": "2012-07-23T05:32:56Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7169683,
+      "date": "2012-07-23T05:42:46Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7169773,
+      "date": "2012-07-23T05:44:12Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7169903,
+      "date": "2012-07-23T05:48:56Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7169923,
+      "date": "2012-07-23T05:50:39Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7195623,
+      "date": "2012-07-24T00:23:31Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7195627,
+      "date": "2012-07-24T00:23:59Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7357934,
+      "date": "2012-07-30T00:16:08Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8093538,
+      "date": "2012-08-28T14:32:23Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8093665,
+      "date": "2012-08-28T14:35:49Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8346203,
+      "date": "2012-09-06T20:27:34Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8356750,
+      "date": "2012-09-07T05:57:34Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8356985,
+      "date": "2012-09-07T06:17:17Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357003,
+      "date": "2012-09-07T06:19:02Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357044,
+      "date": "2012-09-07T06:21:26Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357096,
+      "date": "2012-09-07T06:24:37Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357133,
+      "date": "2012-09-07T06:27:32Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357158,
+      "date": "2012-09-07T06:28:49Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357167,
+      "date": "2012-09-07T06:29:22Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357179,
+      "date": "2012-09-07T06:30:01Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357215,
+      "date": "2012-09-07T06:31:49Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357340,
+      "date": "2012-09-07T06:38:16Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8357749,
+      "date": "2012-09-07T07:03:13Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8367290,
+      "date": "2012-09-07T14:44:02Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8391009,
+      "date": "2012-09-08T16:48:21Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8394101,
+      "date": "2012-09-08T18:15:49Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8394165,
+      "date": "2012-09-08T18:17:19Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8424357,
+      "date": "2012-09-10T14:01:01Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8430762,
+      "date": "2012-09-10T17:26:20Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8692634,
+      "date": "2012-09-19T14:26:47Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8770045,
+      "date": "2012-09-21T16:24:32Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9317480,
+      "date": "2012-10-10T20:04:36Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9342281,
+      "date": "2012-10-11T14:38:31Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9343696,
+      "date": "2012-10-11T15:14:58Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9408390,
+      "date": "2012-10-13T19:23:52Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9408600,
+      "date": "2012-10-13T19:46:40Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9408604,
+      "date": "2012-10-13T19:47:04Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9419999,
+      "date": "2012-10-14T14:33:59Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9739406,
+      "date": "2012-10-24T13:36:49Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9780800,
+      "date": "2012-10-25T15:00:17Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 14634162,
+      "date": "2013-03-08T18:05:15Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 15258631,
+      "date": "2013-03-21T18:59:02Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 15274376,
+      "date": "2013-03-22T00:13:18Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16021033,
+      "date": "2013-04-07T18:55:26Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16236139,
+      "date": "2013-04-11T14:02:55Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16402813,
+      "date": "2013-04-15T18:28:20Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16415599,
+      "date": "2013-04-15T22:33:58Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16415611,
+      "date": "2013-04-15T22:34:24Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16471918,
+      "date": "2013-04-16T21:08:34Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 1513926,
+      "date": "2011-07-06T18:11:41Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 395,
+      "date": "2011-07-06T05:18:14Z"
+    },
+    {
+      "dev_id": "stevendanna",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 394,
+      "date": "2011-07-06T05:16:30Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9f78dae9f7a626f67c870b43283629861e7fc466",
+      "date": "2012-06-22T20:30:38Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "89e091c6c789bcb5f73465e5a553be027f038876",
+      "date": "2011-08-30T17:50:51Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ea3f6bef6a0e0cf19d3ad99e9e55cd40c9fbeb35",
+      "date": "2011-08-30T01:39:09Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "081fd9c38702e8aeb2732ce710a040c1886baf0b",
+      "date": "2011-08-30T01:38:34Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1f342a372611f489d1ab5a1d1e3dca56a64f78c3",
+      "date": "2011-08-30T01:21:40Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "5dd27e13d37dfbd4cb7ef474ece41f5cba06605b",
+      "date": "2011-08-30T01:21:28Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "eccbb404ed047b8a19cb69710684905cceb1da66",
+      "date": "2011-08-15T17:23:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4deb23039ff13ad141ed731be4890c884725fff1",
+      "date": "2011-08-15T15:57:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "8b88316bba40fa009a91e6658552fb867fd0b857",
+      "date": "2011-07-30T12:42:55Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "a61cd015cc25ed2bc3abfc674f10a8703e5a70e0",
+      "date": "2011-07-30T12:42:46Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1804d8ad13f13a59b8a6f6bcf95a18b21c697707",
+      "date": "2011-07-30T12:32:15Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "b5208a5e9f7f609216fe6f3dad61206d89c84b0d",
+      "date": "2011-07-30T12:29:10Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "04523964a6d4bdf1e867b601664c5f45e723ce6d",
+      "date": "2011-07-30T12:04:42Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "18078fa519e6a27310323512d231be97e17dac53",
+      "date": "2011-07-30T02:57:10Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9d2aace3929718f38db5fa68d6e3a082f7c7272a",
+      "date": "2011-07-30T02:56:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "56472f28b7c115c21523a63e53e344c29edd5acc",
+      "date": "2011-07-30T02:38:16Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "53cbf4c43f56b75e9ee2c0cb8c304331606c16cb",
+      "date": "2011-07-30T02:35:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "57ad59d7681dcea1b53da322820e776e1800b348",
+      "date": "2011-07-30T02:27:07Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "b4447b9ecc64dd3ddd4db44897486dfefe90f78d",
+      "date": "2011-07-30T02:26:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "d8900dcff73b8b503a9a40e15f39f21a61fdac9d",
+      "date": "2011-07-30T00:46:59Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "8a98effeb7ed15660bff74aa926b44873fbb0be6",
+      "date": "2011-07-30T00:41:25Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "18bf2317693c6b7bdcc7d0e4b95e545bfcfee761",
+      "date": "2011-07-30T00:40:45Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f3afd24fdca61ebbcc79fd49342ecfc4eeafdde8",
+      "date": "2011-07-30T00:34:44Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ef02a514825147bd24a6808e2514f52745e886be",
+      "date": "2011-07-29T23:01:19Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "8f7e1e290f2b2d3de9571f2ef74b0145f64bfc1b",
+      "date": "2011-07-29T23:00:47Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4e1d39c30897037741a7503b0eb4e09aece4705f",
+      "date": "2011-05-31T23:29:12Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1b0411b1a1b3efa8d82017e3fc5d68c70065d687",
+      "date": "2011-05-13T08:01:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "c8eeb48314cdba980f5885cdc1b54331b9b8ca50",
+      "date": "2011-05-13T07:58:37Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "a4842d6362d51a665369c162a44767ae26687f7a",
+      "date": "2011-05-03T03:18:42Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "764255854e3400b79db9bc27effb598c169b3315",
+      "date": "2011-04-21T19:22:35Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "a4123b40f09091a832e3323b825e6314af93b5c3",
+      "date": "2011-04-21T14:55:20Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "86ca1ccf5269311952d7efdc078723c619f0d33b",
+      "date": "2011-04-21T14:54:56Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "7cce52cf441b3e21670e77b290098a6e600bdbb5",
+      "date": "2011-04-13T03:12:59Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "d7c12a8f54f9ec7276fa0ee26994c8042701e645",
+      "date": "2011-04-09T03:57:12Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4accbbbe8e3472b4da956c926cd97fe671b0b762",
+      "date": "2011-04-09T03:52:43Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "6314355159f1d6db271bc54fa7f7e17c320561a4",
+      "date": "2011-04-08T21:38:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "bbb1b62fbc6f67e9678dfb09db14fdd12997edea",
+      "date": "2011-04-06T21:42:31Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9573806f9d8812b406fb803dccb5ad04a6901d3e",
+      "date": "2011-04-06T21:41:32Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "5f2c011b77d11fb49e2a049e42aeef6af4f75f23",
+      "date": "2011-04-05T04:53:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "b3e59d09e5d7a685935852400af125b92b061a11",
+      "date": "2011-04-05T04:48:45Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1fdad5bcb579bbd63fec44a993de27d4a7c9dc99",
+      "date": "2011-04-05T01:24:36Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "94592e688749371f61aa9bcbd1f7c444159703c8",
+      "date": "2011-03-29T23:13:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "cb5263430c329952540bcc62e9d9cbc81f0c50e9",
+      "date": "2011-03-29T23:12:36Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ccdb3f8e5849faac9ffe0e04dfe18636cb092ba6",
+      "date": "2011-03-19T21:44:39Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "e75690f7810608f1f33e7e72f6b69561838f74d7",
+      "date": "2010-10-10T01:39:48Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 1938145,
+      "date": "2011-08-30T01:33:17Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 1938168,
+      "date": "2011-08-30T01:37:16Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 1938187,
+      "date": "2011-08-30T01:40:22Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 1961825,
+      "date": "2011-08-31T20:50:23Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 1,
+      "date": "2011-03-19T22:56:27Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 36,
+      "date": "2010-10-10T01:44:52Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 134,
+      "date": "2011-01-11T00:46:03Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "7da952f538702693443aa48181816761370e25cc",
+      "date": "2015-11-10T17:27:41Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "c6c4139c7a5cebbd03e7d234363343ae4ab1598a",
+      "date": "2015-11-10T17:27:33Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1a348810484a74c835348203d8ddf87b6d9069c2",
+      "date": "2015-11-09T17:53:05Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "2924121d8452ea8e0897b9d4467d2e3ef3f72c21",
+      "date": "2015-11-09T17:38:02Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "1e51c310536176c1d0a5de899cb7ec6f35d3efce",
+      "date": "2015-11-06T18:34:43Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ed2b0d6c33ca592b35e78e77068acc38b343a978",
+      "date": "2015-11-06T14:22:14Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "46b4d87eb2f1bc75c003b9917b542de612fe70bc",
+      "date": "2015-05-19T20:31:07Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9fec531de2a6c1bd7d690b6b37c22cd4abac9cfb",
+      "date": "2014-09-03T21:13:46Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "c120726fe1be4f4e4da2009ad6a467debbb36808",
+      "date": "2014-05-02T17:27:37Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "8e71424e634ea91a764526e8333d236bef663c64",
+      "date": "2014-05-01T22:12:17Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "95083ca713d4c369578f8b652128057fe39394fd",
+      "date": "2014-05-01T21:59:56Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "efdcb955a1e94c81dcb812064b89488f9ed153e3",
+      "date": "2014-04-29T20:53:24Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "41bcd4aa040c8d445a2417b212c16a110910e142",
+      "date": "2014-04-02T14:47:20Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9e3e1b9f006a2cca13f57d355bb4f84e73183bc3",
+      "date": "2014-02-20T17:59:12Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "b6e8fa196901e4e14220dbdd714167599d8ae8d7",
+      "date": "2014-02-20T16:11:02Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "d821b26ff3fd3435a5380c3eb13342fdc92cf448",
+      "date": "2013-04-16T21:15:43Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "d1340ecd0dd87cce6a8c2d3a67edb6fce675b8e8",
+      "date": "2013-10-28T15:46:18Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ffd9ab7b1f4e0b8a3f73a9784e7716c0306790ba",
+      "date": "2013-04-15T15:30:22Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "f5ffb4b497b202bd5e6202e0c4e6998f2e902f1c",
+      "date": "2012-08-17T21:29:19Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "e323a0ebb280dae285a99d7a873bd9f67f8456c5",
+      "date": "2012-02-17T23:37:57Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 1199130,
+      "date": "2011-05-18T19:24:23Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 1206811,
+      "date": "2011-05-19T22:21:35Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 1206916,
+      "date": "2011-05-19T22:39:40Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 1211564,
+      "date": "2011-05-20T18:17:11Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 3359208,
+      "date": "2012-01-04T19:00:31Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 3376676,
+      "date": "2012-01-05T21:31:59Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 3640680,
+      "date": "2012-01-24T21:24:13Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7069803,
+      "date": "2012-07-18T14:07:52Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7100279,
+      "date": "2012-07-19T14:49:17Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7431191,
+      "date": "2012-08-01T15:54:03Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7460194,
+      "date": "2012-08-02T16:17:54Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7833195,
+      "date": "2012-08-17T19:52:34Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7833298,
+      "date": "2012-08-17T19:56:33Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7834663,
+      "date": "2012-08-17T20:48:19Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7835905,
+      "date": "2012-08-17T21:37:53Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7835923,
+      "date": "2012-08-17T21:38:37Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7836025,
+      "date": "2012-08-17T21:45:02Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7836098,
+      "date": "2012-08-17T21:48:26Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7836113,
+      "date": "2012-08-17T21:49:10Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7836171,
+      "date": "2012-08-17T21:51:19Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7836194,
+      "date": "2012-08-17T21:52:30Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7836229,
+      "date": "2012-08-17T21:53:33Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 7836241,
+      "date": "2012-08-17T21:54:01Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 8377897,
+      "date": "2012-09-07T20:32:14Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 9465159,
+      "date": "2012-10-15T22:55:56Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 11060149,
+      "date": "2012-12-05T20:57:08Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 14738020,
+      "date": "2013-03-11T19:53:01Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16392260,
+      "date": "2013-04-15T15:34:01Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16392759,
+      "date": "2013-04-15T15:40:54Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 16392762,
+      "date": "2013-04-15T15:40:58Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 21207518,
+      "date": "2013-07-18T19:18:38Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 21208009,
+      "date": "2013-07-18T19:23:45Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 21209088,
+      "date": "2013-07-18T19:40:15Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 21579142,
+      "date": "2013-07-25T19:39:24Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 25195393,
+      "date": "2013-09-26T19:17:50Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 25195686,
+      "date": "2013-09-26T19:21:44Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27020008,
+      "date": "2013-10-24T18:57:21Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27020033,
+      "date": "2013-10-24T18:57:35Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27020109,
+      "date": "2013-10-24T18:58:24Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27020801,
+      "date": "2013-10-24T19:06:53Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27020977,
+      "date": "2013-10-24T19:09:06Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27021137,
+      "date": "2013-10-24T19:11:04Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27021257,
+      "date": "2013-10-24T19:12:44Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27021405,
+      "date": "2013-10-24T19:14:33Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 27022143,
+      "date": "2013-10-24T19:24:05Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 28992702,
+      "date": "2013-11-21T15:20:33Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 35638735,
+      "date": "2014-02-20T16:19:00Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 36289732,
+      "date": "2014-02-27T20:50:50Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 36290044,
+      "date": "2014-02-27T20:53:53Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 36290446,
+      "date": "2014-02-27T20:57:30Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 36933505,
+      "date": "2014-03-06T20:34:52Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 36935605,
+      "date": "2014-03-06T20:54:17Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38006253,
+      "date": "2014-03-19T00:38:23Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38006318,
+      "date": "2014-03-19T00:39:31Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38187481,
+      "date": "2014-03-20T16:17:38Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38188326,
+      "date": "2014-03-20T16:24:32Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38189995,
+      "date": "2014-03-20T16:37:30Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38211493,
+      "date": "2014-03-20T19:36:57Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38596721,
+      "date": "2014-03-25T17:42:41Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 38967511,
+      "date": "2014-03-28T21:01:28Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 41963050,
+      "date": "2014-05-01T22:12:57Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 41963071,
+      "date": "2014-05-01T22:13:12Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 41963084,
+      "date": "2014-05-01T22:13:25Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 41963151,
+      "date": "2014-05-01T22:14:22Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 46476854,
+      "date": "2014-06-18T18:46:24Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 47274377,
+      "date": "2014-06-26T20:16:11Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 49356580,
+      "date": "2014-07-17T19:58:03Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 55009372,
+      "date": "2014-09-09T17:57:18Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 55025371,
+      "date": "2014-09-09T20:05:49Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 55036028,
+      "date": "2014-09-09T21:08:05Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 97767535,
+      "date": "2015-04-30T13:06:02Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 101817657,
+      "date": "2015-05-13T21:12:31Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 101837812,
+      "date": "2015-05-13T22:29:10Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 102469554,
+      "date": "2015-05-15T17:46:02Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 103614232,
+      "date": "2015-05-19T17:56:38Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 103640973,
+      "date": "2015-05-19T19:22:06Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 103650751,
+      "date": "2015-05-19T19:56:15Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 116764929,
+      "date": "2015-06-29T17:13:18Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 153842925,
+      "date": "2015-11-04T19:45:39Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 154148715,
+      "date": "2015-11-05T18:41:29Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 154421489,
+      "date": "2015-11-06T14:26:21Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 154422986,
+      "date": "2015-11-06T14:30:38Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 154769945,
+      "date": "2015-11-08T01:52:02Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 154863709,
+      "date": "2015-11-08T20:15:34Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155135266,
+      "date": "2015-11-09T17:38:00Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155138927,
+      "date": "2015-11-09T17:53:02Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155140314,
+      "date": "2015-11-09T17:58:05Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155463553,
+      "date": "2015-11-10T15:58:25Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155468067,
+      "date": "2015-11-10T16:12:40Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155498919,
+      "date": "2015-11-10T17:26:36Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155499335,
+      "date": "2015-11-10T17:27:31Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 155504035,
+      "date": "2015-11-10T17:38:33Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 16393060,
+      "date": "2013-04-15T15:45:50Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 375,
+      "date": "2015-11-08T01:51:30Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 374,
+      "date": "2015-11-06T14:26:07Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 199,
+      "date": "2014-02-20T16:13:41Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 106,
+      "date": "2013-04-16T21:16:17Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 104,
+      "date": "2013-04-15T15:34:12Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 103,
+      "date": "2013-04-15T15:32:59Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "issue",
+      "id": 381,
+      "date": "2015-11-10T21:22:03Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "issue",
+      "id": 380,
+      "date": "2015-11-10T16:12:07Z"
+    },
+    {
+      "dev_id": "btm",
+      "repo": "chef/knife-ec2",
+      "type": "issue",
+      "id": 379,
+      "date": "2015-11-10T16:06:33Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4a7ae6f8ae4edf7ff131a8c02e62e7ddddbfc92b",
+      "date": "2015-10-09T03:06:13Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "5f7e5b3496de67282eef61137793378646ad05bc",
+      "date": "2015-08-25T03:37:56Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "366b36151f0e9a55ef4a37e9d5f33bada6608f72",
+      "date": "2015-08-05T22:22:20Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "302cec12f15f36712580e5d4eb43e04dfb8b43bf",
+      "date": "2015-07-22T03:07:45Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "aec5656cdcfa3c4d3e4eaec468e7e1f019bc5a50",
+      "date": "2015-07-22T03:00:20Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "262f1ef8a184091bc3b66859127b1e3a14d9b6a6",
+      "date": "2015-07-22T02:58:47Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9d50106709b38f1259966ee4089b2cfeb2ef07ad",
+      "date": "2015-07-22T02:57:31Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "b7cd9b1482e6f8573c00301ec5114fc80b987ff8",
+      "date": "2015-07-22T02:51:14Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "5f74557e0666f118dc143fe2d1a899461256b76d",
+      "date": "2015-07-21T17:43:15Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ec5b466990810401d674f400d8769cf90e6c4122",
+      "date": "2015-07-14T21:17:56Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "94ae8edc63f766a6390029d84fc8df0d1a6ec905",
+      "date": "2015-07-14T21:02:15Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4414d7e219aa51d6aee67bba0726240e9ec62206",
+      "date": "2015-07-14T16:31:54Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "04766c9fa29dd5b11fe0aefa02719d72a0f8d4c3",
+      "date": "2015-07-14T15:34:15Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "623d2b1cd9ebd1006abc557ab52160891b35dca8",
+      "date": "2015-07-14T02:58:29Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "6112e36aa598c3a93db7867d1e938cd0e7236c20",
+      "date": "2015-07-14T02:55:00Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "d169d65136fc37ee2dd8de4af861110434fc5b9b",
+      "date": "2015-07-14T15:21:11Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "4acc88820e6ed9186e658b14e0ed9ceb482e2fb5",
+      "date": "2015-07-14T02:35:28Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "83b24343f4e48772f00a29308637f8d38c98af8d",
+      "date": "2015-04-30T03:25:27Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "ff4da851ba021d16258fa90db7af269e016ef075",
+      "date": "2015-04-29T22:29:40Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "02acc46b6e9cedba926ee43f47cdc371943b073e",
+      "date": "2014-09-21T00:06:14Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "9ee0e81b1df208d6a525ec75953c12f1ae233ff7",
+      "date": "2014-09-21T00:01:29Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "commit",
+      "id": "d80dfd8e44b2834a46d1c149b21b8394e1af0660",
+      "date": "2014-03-25T17:38:52Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 50906495,
+      "date": "2014-08-01T16:40:01Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 55057168,
+      "date": "2014-09-10T00:43:19Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 55064441,
+      "date": "2014-09-10T02:43:18Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 55206986,
+      "date": "2014-09-11T01:13:53Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 55207916,
+      "date": "2014-09-11T01:27:41Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 56284064,
+      "date": "2014-09-20T23:53:28Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 56284081,
+      "date": "2014-09-20T23:54:41Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 56284089,
+      "date": "2014-09-20T23:55:09Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 56288318,
+      "date": "2014-09-21T04:13:26Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 56760993,
+      "date": "2014-09-25T01:00:08Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 97606378,
+      "date": "2015-04-29T22:32:23Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 121280774,
+      "date": "2015-07-14T15:22:38Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 133462563,
+      "date": "2015-08-21T15:26:31Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "com",
+      "id": 146742603,
+      "date": "2015-10-09T03:06:10Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 347,
+      "date": "2015-07-22T02:59:59Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 346,
+      "date": "2015-07-22T02:51:54Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 288,
+      "date": "2015-04-30T03:24:33Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 287,
+      "date": "2015-04-29T22:32:39Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 241,
+      "date": "2014-09-21T00:02:39Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "chef/knife-ec2",
+      "type": "pr",
+      "id": 210,
+      "date": "2014-03-25T17:39:18Z"
+    },
+    {
+      "dev_id": "juliandunn",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 1880,
+      "date": "2013-06-11T19:22:54Z"
+    }
+  ]
+}

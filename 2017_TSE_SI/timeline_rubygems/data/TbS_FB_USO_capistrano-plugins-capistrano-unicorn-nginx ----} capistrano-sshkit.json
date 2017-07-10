@@ -1,0 +1,986 @@
+{
+  "user_repo": "capistrano-plugins/capistrano-unicorn-nginx",
+  "dep_repo": "capistrano/sshkit",
+  "dep_date": "2014-03-29 17:45:34 UTC",
+  "dep_commit_id": "9f9bdd59c7d40a1ff5b8ef8c645bac15a8b5e8b6",
+  "social_date": "2014-04-29 13:00:56 UTC",
+  "devs": [
+    "bruno-",
+    "mpapis"
+  ],
+  "interactions": [
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "492a0db11527d802af8d5468739b6c3805cd2f99",
+      "date": "2015-02-05T23:21:18Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "e8bfaf66aef5192f2ea334674eca902e11db8833",
+      "date": "2015-02-05T23:18:36Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "e349af58ba22fc8e391e6be63b08f519fc4426ca",
+      "date": "2015-01-27T23:58:43Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "bab9d7d9d79f724d7c1a5a6e9a4b560168215dd1",
+      "date": "2015-01-27T23:57:04Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "17c7b0dc28f78933c24c2aaf1b9c9954c8781b7c",
+      "date": "2015-01-27T23:56:08Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "811ba493d646b44c0b7eb59761e49d6924cfd197",
+      "date": "2015-01-01T23:25:47Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "13495480415e1cf81afea405b0b5da21fbca8160",
+      "date": "2015-01-01T23:23:57Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "d7dedfdb2e2981c580763ee2d5ea295f1fa1031c",
+      "date": "2014-12-14T22:25:14Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "a56da78f71c5fd5101dc41c524e36107b84e74ca",
+      "date": "2014-12-14T22:24:03Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "98f5cdf96cf9a2a0917bf569c1730a1e67331362",
+      "date": "2014-12-14T22:22:30Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "0fbaba4529448a80874e26c1afa5b2caeeb381f4",
+      "date": "2014-10-09T17:02:30Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "ce7034502a8af428049bb2759ab620e2a193f65e",
+      "date": "2014-10-09T17:00:30Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "a85b7ead4cfee8570ccce26df36d6a9ef159ecac",
+      "date": "2014-10-07T10:33:55Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "6a6013876dbf0b9f574685f2f07c9149ce0b7617",
+      "date": "2014-10-05T19:00:21Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "4ecf44a3b2415a57de82373aecfb349c9474824c",
+      "date": "2014-10-05T18:29:31Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "40fbfeaaa3aca7d02b41dfb4651e1e3c09fe15e7",
+      "date": "2014-10-05T18:14:26Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "e54f117109f39e03ca1a9af15d7b4c1280584f3b",
+      "date": "2014-10-03T22:40:22Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "ca13abad4b568a448ace54c2e5b50fe5c2df9113",
+      "date": "2014-10-03T14:53:53Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "edcad12eefcdefd94cfdd80bae7987bbbeb97034",
+      "date": "2014-10-03T14:47:49Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "b1ac76ecba71bf439f885221f451a1fb9ec0d1c7",
+      "date": "2014-10-02T17:44:01Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "b496a58ece1dd3ae90c28647bc090a1ef3beec43",
+      "date": "2014-10-02T17:43:20Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "4a52cdb9b9387b0ba14820d00081af247dde9b62",
+      "date": "2014-10-02T17:40:46Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "35f22ec36712a6474885a2c740534cf3269d95ab",
+      "date": "2014-09-30T14:59:46Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "56cc5c773e42bbeccfb4d211c2761c2adf4e81c9",
+      "date": "2014-08-05T13:08:46Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "ce528f544dda2459fb60de6532e8aa0b6d2e453b",
+      "date": "2014-08-05T13:06:48Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "8b91a062d296e1594c3a84b028af971284ceb42d",
+      "date": "2014-08-05T13:02:42Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "e21d32ae6a80ac7109595c0eaae2b92aba4ee21e",
+      "date": "2014-04-11T14:26:28Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "fcec2474e384b33088d27c9b4a89ec73f153c554",
+      "date": "2014-04-11T13:58:18Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "d4bb5c7822ee8b89ee03cc79096f31f2127c49b6",
+      "date": "2014-04-11T13:45:31Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "1d6e850994d2170a15a95c6606a4170e69539688",
+      "date": "2014-04-02T11:03:16Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "54af142df8ad51b99883ac32e9422ad1b1656792",
+      "date": "2014-03-30T12:48:30Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "ba2e1e80cba8c18a1c96425379c0fd80998df329",
+      "date": "2014-03-30T09:57:11Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "01e06d6709930d7634e087de2b306e56616edf13",
+      "date": "2014-03-30T09:40:32Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "22081408ccbcd59537b0ddb11fe3246e27ad5b9c",
+      "date": "2014-03-30T09:36:08Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "0c032da2517990e1cdd5a7c357457f44fd7dc37a",
+      "date": "2014-03-29T23:35:57Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "aa8cc14bee34d00e4c36edf83fae5760d9e7a146",
+      "date": "2014-03-29T23:16:15Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "3c72bd16e01968b0b3b0037a11e955f06ce66086",
+      "date": "2014-03-29T22:59:24Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "78b607dc98d2b3251c3d29b9a697392aab9b7a68",
+      "date": "2014-03-29T21:53:27Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "950f09f489975c8805f9aeec82f2e75e6e2d3403",
+      "date": "2014-03-29T21:07:22Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "a279cd486c2b1d6ac24468333533d2a70d7f2bfd",
+      "date": "2014-03-29T21:01:52Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "f0f9372bc23b2b4db7d7dbcbc050912728dfc363",
+      "date": "2014-03-29T20:59:25Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "ef46376eee8f294109278ec06caa1109406110d2",
+      "date": "2014-03-29T19:45:38Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "2a9c43408d7803ac90e095937b3dc9e283483385",
+      "date": "2014-03-29T18:49:57Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "8bcb7d7dce513c0428e3e352d5afdb73eb0acfed",
+      "date": "2014-03-29T18:31:48Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "01ba0ce9edc8f9e23160fac17a084ae07ffc0bb9",
+      "date": "2014-03-29T18:26:52Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "b8b976c65354eb338661ab5ed2a4f6eb0c11b71c",
+      "date": "2014-03-29T17:32:59Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "64221ea0687c847fea0f38d07b4d6e93398339c6",
+      "date": "2014-03-29T17:11:34Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "d9436e570659c9a86e75f0eb0695da14dd3ef611",
+      "date": "2014-03-29T17:10:34Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "bc9861c8d186ae16f1f390932f5d8cf59e079669",
+      "date": "2014-03-29T16:48:51Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "9f9bdd59c7d40a1ff5b8ef8c645bac15a8b5e8b6",
+      "date": "2014-03-29T14:41:41Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "commit",
+      "id": "ddae491595e2732503f167af754ca11125d91d00",
+      "date": "2014-05-07T12:32:41Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "commit",
+      "id": "210d84bcc1ddc169996e2c56de455130ed2bc727",
+      "date": "2014-05-07T12:18:39Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "commit",
+      "id": "e5a10a1027524e42889f31a2cbc28c79fc3e903e",
+      "date": "2014-05-07T12:15:19Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "commit",
+      "id": "47862a662d9b2f6436b8eb966a308ba5bfe40b09",
+      "date": "2014-04-29T13:00:56Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 39317141,
+      "date": "2014-04-02T11:01:35Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 39438977,
+      "date": "2014-04-03T11:10:21Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 39440047,
+      "date": "2014-04-03T11:25:17Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 39440744,
+      "date": "2014-04-03T11:34:55Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 39966878,
+      "date": "2014-04-09T14:01:03Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 41494135,
+      "date": "2014-04-27T11:27:40Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 42765693,
+      "date": "2014-05-11T09:07:51Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 42810088,
+      "date": "2014-05-12T09:05:49Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 44634954,
+      "date": "2014-05-30T10:01:08Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 46550529,
+      "date": "2014-06-19T11:43:32Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 51193786,
+      "date": "2014-08-05T13:02:45Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 51194821,
+      "date": "2014-08-05T13:12:21Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 51194935,
+      "date": "2014-08-05T13:13:25Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 53965919,
+      "date": "2014-08-30T18:09:15Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57167850,
+      "date": "2014-09-29T14:22:41Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57168060,
+      "date": "2014-09-29T14:24:01Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57328952,
+      "date": "2014-09-30T15:10:21Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57335812,
+      "date": "2014-09-30T15:52:04Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57634443,
+      "date": "2014-10-02T14:06:17Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57649874,
+      "date": "2014-10-02T15:43:28Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57834333,
+      "date": "2014-10-03T18:23:51Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57946637,
+      "date": "2014-10-05T18:17:51Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57948137,
+      "date": "2014-10-05T19:03:09Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 58016980,
+      "date": "2014-10-06T13:33:45Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 58052585,
+      "date": "2014-10-06T17:16:50Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 58103573,
+      "date": "2014-10-06T21:35:44Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 58165540,
+      "date": "2014-10-07T10:35:10Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 58541641,
+      "date": "2014-10-09T17:00:28Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 58542144,
+      "date": "2014-10-09T17:03:44Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 59486679,
+      "date": "2014-10-17T09:06:35Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 59492079,
+      "date": "2014-10-17T09:58:08Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 59574919,
+      "date": "2014-10-17T20:55:22Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 59607956,
+      "date": "2014-10-18T11:11:03Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 61364156,
+      "date": "2014-11-01T10:36:10Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 61795109,
+      "date": "2014-11-05T11:39:43Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 61971755,
+      "date": "2014-11-06T12:26:44Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 63648143,
+      "date": "2014-11-19T14:34:25Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 66613561,
+      "date": "2014-12-11T12:41:48Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 66932963,
+      "date": "2014-12-14T22:26:43Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 66933895,
+      "date": "2014-12-14T22:48:15Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 68496964,
+      "date": "2015-01-01T20:20:40Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 68497477,
+      "date": "2015-01-01T20:39:19Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 68498287,
+      "date": "2015-01-01T21:07:00Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 68501021,
+      "date": "2015-01-01T22:46:16Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 68502064,
+      "date": "2015-01-01T23:24:04Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 71131855,
+      "date": "2015-01-23T01:14:35Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 71755255,
+      "date": "2015-01-28T00:00:11Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 71755312,
+      "date": "2015-01-28T00:00:40Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 71818469,
+      "date": "2015-01-28T11:22:24Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 73150152,
+      "date": "2015-02-05T23:10:36Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 73151605,
+      "date": "2015-02-05T23:21:16Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 73152217,
+      "date": "2015-02-05T23:25:45Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 74435232,
+      "date": "2015-02-15T20:30:22Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 74435425,
+      "date": "2015-02-15T20:34:22Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 88907510,
+      "date": "2015-04-02T13:45:32Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 42409654,
+      "date": "2014-05-07T10:05:55Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 44672999,
+      "date": "2014-05-30T16:50:16Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 134555905,
+      "date": "2015-08-25T11:07:54Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "pr",
+      "id": 49,
+      "date": "2015-02-05T23:20:37Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "pr",
+      "id": 27,
+      "date": "2014-10-05T19:01:52Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "pr",
+      "id": 26,
+      "date": "2014-10-05T18:32:49Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "pr",
+      "id": 25,
+      "date": "2014-10-03T22:43:16Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "pr",
+      "id": 23,
+      "date": "2014-10-03T14:54:04Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "pr",
+      "id": 22,
+      "date": "2014-10-03T14:50:59Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "pr",
+      "id": 139,
+      "date": "2014-05-07T13:06:26Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano/sshkit",
+      "type": "pr",
+      "id": 136,
+      "date": "2014-04-29T13:06:11Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "issue",
+      "id": 28,
+      "date": "2014-10-06T15:55:33Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "issue",
+      "id": 24,
+      "date": "2014-10-03T18:23:31Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "issue",
+      "id": 21,
+      "date": "2014-10-03T11:58:37Z"
+    },
+    {
+      "dev_id": "bruno-",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "issue",
+      "id": 14,
+      "date": "2014-10-02T15:12:10Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "commit",
+      "id": "6ec0cfaa782ce35302215e1dc4fd1ec2213dd0dd",
+      "date": "2014-09-26T01:37:18Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57169109,
+      "date": "2014-09-29T14:30:45Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57335711,
+      "date": "2014-09-30T15:51:25Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57716683,
+      "date": "2014-10-02T21:59:08Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57733225,
+      "date": "2014-10-03T00:45:02Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57734591,
+      "date": "2014-10-03T00:54:30Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "com",
+      "id": 57825534,
+      "date": "2014-10-03T17:15:27Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 47430022,
+      "date": "2014-06-28T15:19:44Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 56683421,
+      "date": "2014-09-24T15:02:15Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 56691556,
+      "date": "2014-09-24T15:51:09Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 56705064,
+      "date": "2014-09-24T17:10:32Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano/sshkit",
+      "type": "com",
+      "id": 56711569,
+      "date": "2014-09-24T17:55:34Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano-plugins/capistrano-unicorn-nginx",
+      "type": "pr",
+      "id": 11,
+      "date": "2014-09-26T01:37:22Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano/sshkit",
+      "type": "pr",
+      "id": 153,
+      "date": "2014-06-28T05:28:52Z"
+    },
+    {
+      "dev_id": "mpapis",
+      "repo": "capistrano/sshkit",
+      "type": "issue",
+      "id": 183,
+      "date": "2014-09-24T14:09:28Z"
+    }
+  ]
+}

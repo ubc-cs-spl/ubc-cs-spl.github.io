@@ -1,0 +1,6175 @@
+{
+  "user_repo": "httprb/http",
+  "dep_repo": "tmm1/http_parser.rb",
+  "dep_date": "2012-06-22 05:10:55 UTC",
+  "dep_commit_id": "488a215534eea0fccdd047a3adaa34e4ff6a3316",
+  "social_date": "2012-03-11 01:16:41 UTC",
+  "devs": [
+    "sferik",
+    "robertjpayne",
+    "tarcieri",
+    "headius"
+  ],
+  "interactions": [
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c8bd305c9ca34df854e1cd1ea46c94d3b3fa19a1",
+      "date": "2015-07-19T12:30:24Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "45f45972f672b2bf5d1de307812b54fc76dc7295",
+      "date": "2015-05-08T16:49:55Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4c1e32ef4c30ab1c72410f3305e0d211cc441b19",
+      "date": "2015-04-23T14:28:54Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b1fb03e4c3c9e1e2a088f43efbfe37b125b1db4b",
+      "date": "2015-04-23T14:20:31Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "786709b5b6e421377056c2a30dd56f896fe4f713",
+      "date": "2015-04-23T14:13:56Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "110a3380e715446f44ca2695b8e18a57e2abc3bd",
+      "date": "2015-04-23T10:10:01Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0ff9e371a225807f70aee668d773875132ee4d2b",
+      "date": "2015-04-23T10:09:49Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7aff327d3c2663f8201c782edfa9e8e10740f6cc",
+      "date": "2015-03-31T16:18:01Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "30bd0f0375109e4f4fc94a929940f0da2a232f6e",
+      "date": "2015-01-04T15:26:00Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "389f81b3663cca0a74a6fc863b52005eeace5b65",
+      "date": "2015-01-04T15:24:54Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "59eb5c1847e9ee1071cfcc7ece325e59947dbb87",
+      "date": "2014-08-24T03:06:10Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "62a1fa19c20396d032964427774a3fd116c73239",
+      "date": "2014-08-21T18:18:51Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2ced0c7bd8dd377a7daf1093b9b1a0f15203ea0b",
+      "date": "2014-08-18T10:26:11Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f5c3fe383b8f691c3b5c2a96022640819210826e",
+      "date": "2014-08-17T11:44:15Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "33c1af76af373945ef744496c8122b4ae4827c6a",
+      "date": "2014-07-20T18:41:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e5e7a8061e1ba265a511a80868bbad2203a7a8f2",
+      "date": "2014-07-20T11:28:58Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0206dc9f26ca5c14047a9993dde4776e8fd8a0f8",
+      "date": "2014-07-20T11:27:54Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "eb4b2f18f050e994ac874b58678ecc1ecb55d707",
+      "date": "2014-07-09T08:38:49Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5f28f22ffcf3a2b70b4c03ddf0adab6074b4cc48",
+      "date": "2014-06-23T06:21:52Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "692b3e8cb859218851616a5a06af5c89888b12c1",
+      "date": "2014-06-15T11:03:56Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "75d3b5c184092f84fb838022ff1e92073be77b10",
+      "date": "2014-06-09T01:53:50Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e18da1dde6f8b7169ae5f13c8e6e59f88684ae74",
+      "date": "2014-04-08T09:41:14Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5b02f21a44481583dabc539cfb3d58857cd9a816",
+      "date": "2014-05-25T03:16:01Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "80834ad98cc237a58332128872b318a219ada729",
+      "date": "2014-04-20T07:38:47Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "431d1f4dafc2112ae04f4381a795246c66b95d80",
+      "date": "2014-03-31T12:53:59Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9db41141c57fc586f02fb71dbbb16e9c3202be6a",
+      "date": "2014-03-30T15:35:42Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "baa16bfe5725a46802cc5a5dfaf255a2202be3b2",
+      "date": "2014-03-28T12:31:17Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "76278e50ccd8ca18bd3d6d29777021a72aff3e5b",
+      "date": "2014-03-18T23:34:34Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2562d4a38a5134edb925a0102e3798fd414e7584",
+      "date": "2014-03-17T23:47:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1b0065e8074ed24b9d7e56278fc374b6de1e8929",
+      "date": "2014-03-17T13:46:03Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "36d78b148fafdc6ca4626c7affd06a882acb8162",
+      "date": "2014-03-15T17:46:14Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d08728b09d2fe9c64e860da60199c47b4a963f8b",
+      "date": "2014-03-15T17:46:04Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "834217ff68a6665d7945d2301295eaf57317c724",
+      "date": "2014-03-13T02:51:33Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e8e90f06be4fff73ffa9e7f386074290f28e2ee7",
+      "date": "2014-03-07T21:53:22Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "50cf6e04ad22a424963c107acdb79d9e860c4cc9",
+      "date": "2014-02-28T20:10:54Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "42512b20063a6f99845edbf05b3854dcde601d7a",
+      "date": "2014-02-18T07:02:20Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9e1a9665894fe8f2a3bde393c3fade2b86d61ec9",
+      "date": "2014-02-17T23:17:34Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ff0aae8a53fa35f15c3d57008529a2de4f6f99af",
+      "date": "2014-02-14T12:21:21Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dc40a0112e183a4ca9dabd8608936f2131972096",
+      "date": "2014-02-13T18:34:20Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6400a2e9fc85cf0cb1069a561f7621cdce199771",
+      "date": "2014-02-11T20:13:46Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0dcb1fce7f28221bde5c4a8f2d9a512a7db4fd0d",
+      "date": "2014-02-10T19:43:40Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b9eb0bf031cde28342b877b8e5e62c604bbef860",
+      "date": "2014-02-10T10:43:18Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "fdec045a460a5efb47e1958a8f29e1e42cb0d8a6",
+      "date": "2014-02-02T22:20:50Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f8661ead4ff1dc2f54102a45a8ca2e3232634da2",
+      "date": "2014-01-30T13:24:34Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b042dca73b48c48e2c87b8fddac85b80adfaf5a1",
+      "date": "2014-01-26T12:41:34Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "33d34c23ffd7bdd602c5360943fb82b4c97fafc8",
+      "date": "2014-01-24T12:31:48Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "83a7d15b0e8fc11ead750416f41b1e05413c2ad2",
+      "date": "2014-01-23T21:10:39Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6408b7067708f0b99bae3b24b4e341265e60cdb0",
+      "date": "2014-01-23T14:36:47Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0878d09f5dfd678dc1b5695725ab497e12930cc7",
+      "date": "2014-01-22T05:52:08Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f32153d8517e2101376e08608225ddea6bd733bd",
+      "date": "2014-01-17T19:39:30Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a192693351412998e21fa3460db34bad4cb05701",
+      "date": "2014-01-14T05:28:04Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "23e2615befe89f9adc3bdc1aa5a62cd87a219eae",
+      "date": "2014-01-14T05:26:41Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d1ace3f89d2753917b2c927bcfcec990860a69d3",
+      "date": "2014-01-09T01:42:37Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "effabe4e4f5f6e57eb984a70e45345dd4fafe7cc",
+      "date": "2014-01-08T00:57:19Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b2560383a40688f7da687a68bb1483a1803c6800",
+      "date": "2014-01-04T23:47:51Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "60e07777ee37c0fa877a8f0b4b654931ef0885de",
+      "date": "2014-01-04T23:41:16Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d8989d50577f6f4cfaba8874e513287440977aa0",
+      "date": "2014-01-01T17:48:01Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "eaaa93505cf3d9f4d4d641defc468a4e420ede2c",
+      "date": "2014-01-01T17:45:13Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b762fb8c33ebeb9bc9c9bb423c9c6b697cf913b2",
+      "date": "2014-01-01T17:41:16Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a5b5d6ff72011fc2bcf0222b290b2c9bd1aa050c",
+      "date": "2014-01-01T17:41:08Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e0e5889a1296392765eaa131fbf3c748d9c3850f",
+      "date": "2014-01-01T17:34:36Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c962ff6468441df166715b5bba0540b66fb95550",
+      "date": "2014-01-01T16:56:59Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "69763e375cfb0902d29745fabd7e7690f802a531",
+      "date": "2014-01-01T16:53:08Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2382bc176a73c2f48fa93faafe3ccdc2dd11357b",
+      "date": "2014-01-01T16:45:46Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6f86a3eb9a345d439a500630f3d38a4a3ee76847",
+      "date": "2014-01-01T16:45:03Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e22698fc782bb96615c31723dadbeacf63fc0928",
+      "date": "2014-01-01T16:44:08Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "43092977127a052da736640da75e9bc30a2d176e",
+      "date": "2014-01-01T16:42:48Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4ae9774b2a7485ac28a58179b20e4e2672ad42ec",
+      "date": "2014-01-01T16:42:31Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a06f7893177a2f3b5745e659c7b4cb3cd00b7e6c",
+      "date": "2013-11-29T08:27:17Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f8ad6521aab7d69a594c311827b56ee64e628232",
+      "date": "2013-11-09T15:49:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a29a64d43d44c41c03ed656c445a6b862f054944",
+      "date": "2013-11-09T14:02:50Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "263dba08cd3d3cb868b52a1750e74c97f5167929",
+      "date": "2013-11-09T13:58:31Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "59e838d4c1b8038c0a992b1bb37aff24de09c0d3",
+      "date": "2013-11-09T13:07:34Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "12fe1060d94753f2c9b0c403b93ac71d13704f1b",
+      "date": "2013-11-09T12:57:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ee7118da62bfaed41a61560d2890d7c7577c647c",
+      "date": "2013-11-09T12:56:42Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ef2c3b25ba2e34987beb187a6c4a0a19aeb3e40c",
+      "date": "2013-09-14T06:42:25Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "32c996da64ff9dbaa3e590a75b3fd0a301d849a6",
+      "date": "2013-09-10T14:29:13Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b648bc4824120b44837274764497b5e8329b2622",
+      "date": "2013-09-10T14:08:34Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "24becf153d37343c2c39cc7b35bc044b2a9e5033",
+      "date": "2013-09-10T12:34:12Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c33b61d7b633061aae5a95f11a4095ee4425dd34",
+      "date": "2013-09-10T12:02:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "df5c4c34aca59b7ae1eba913a7048e70606bc4e6",
+      "date": "2013-09-10T12:00:24Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "adcc05303526734bfecc70d8d4ec876d4049aebf",
+      "date": "2013-09-10T11:39:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a4f1a4ab15ad7b303c3d168217082f7a52960e6f",
+      "date": "2013-09-10T11:33:57Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6e6940a5694abeb2c4bbfa9bbe1b1536adb25f0f",
+      "date": "2013-09-10T11:33:18Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8bb0f21baf0df81b756310b6f8fd1f77944585aa",
+      "date": "2013-09-10T11:27:58Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "04dd36a3e2d36b8f7ef756c60f91c888481ed41d",
+      "date": "2013-09-10T11:20:08Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1a167791eb9fd69f8bf34df90875189f8672260b",
+      "date": "2013-09-09T21:46:31Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "de44a9872bc05aa6c95eee7eef9c416f46456556",
+      "date": "2013-08-18T15:27:01Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b3b1ac0e1f3e715c227ffcaf466f967db47c3ec7",
+      "date": "2013-08-18T15:26:09Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2ae800bc9c1f4d9e438fd2037b1b460d1c074c80",
+      "date": "2013-08-12T12:04:48Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "10dd2edf301fa8d1639cab7ed1c152c659866d51",
+      "date": "2014-08-25T08:27:10Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "ef98c2388f057459a93d59d464faf1a87853af82",
+      "date": "2014-06-23T07:28:11Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "51392c86649e54b0d706a961f72ad977e970b636",
+      "date": "2014-06-23T07:25:59Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 22502661,
+      "date": "2013-08-12T15:42:44Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 23040080,
+      "date": "2013-08-21T18:44:36Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24154829,
+      "date": "2013-09-10T12:13:22Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24155748,
+      "date": "2013-09-10T12:31:43Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24217135,
+      "date": "2013-09-11T07:03:07Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24217370,
+      "date": "2013-09-11T07:09:00Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24461156,
+      "date": "2013-09-14T23:23:55Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24461324,
+      "date": "2013-09-14T23:37:55Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31591974,
+      "date": "2014-01-04T23:40:08Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31592062,
+      "date": "2014-01-04T23:44:54Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31592272,
+      "date": "2014-01-04T23:54:54Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31592555,
+      "date": "2014-01-05T00:10:13Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31592702,
+      "date": "2014-01-05T00:17:11Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32239560,
+      "date": "2014-01-14T05:19:35Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32239601,
+      "date": "2014-01-14T05:21:05Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32635577,
+      "date": "2014-01-17T18:52:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32639439,
+      "date": "2014-01-17T19:39:28Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32706102,
+      "date": "2014-01-19T11:27:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32806705,
+      "date": "2014-01-20T23:17:02Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33130010,
+      "date": "2014-01-23T14:53:44Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33130443,
+      "date": "2014-01-23T14:58:02Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33132523,
+      "date": "2014-01-23T15:20:23Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33214222,
+      "date": "2014-01-24T11:02:19Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33215223,
+      "date": "2014-01-24T11:20:30Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33215388,
+      "date": "2014-01-24T11:23:24Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33231824,
+      "date": "2014-01-24T15:29:10Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33243464,
+      "date": "2014-01-24T17:32:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33295628,
+      "date": "2014-01-25T18:15:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33315872,
+      "date": "2014-01-26T12:41:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33717399,
+      "date": "2014-01-30T18:29:28Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33720521,
+      "date": "2014-01-30T18:59:40Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33831157,
+      "date": "2014-01-31T18:56:55Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33915057,
+      "date": "2014-02-02T22:20:46Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34618114,
+      "date": "2014-02-10T10:43:16Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34672962,
+      "date": "2014-02-10T19:38:35Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34797956,
+      "date": "2014-02-11T19:51:06Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34868598,
+      "date": "2014-02-12T13:33:27Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 35076961,
+      "date": "2014-02-14T11:46:59Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 35076976,
+      "date": "2014-02-14T11:47:22Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 35321507,
+      "date": "2014-02-17T20:49:18Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 35332198,
+      "date": "2014-02-17T23:17:31Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36472938,
+      "date": "2014-03-03T00:12:22Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36660118,
+      "date": "2014-03-04T18:57:12Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36668380,
+      "date": "2014-03-04T20:11:31Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36668519,
+      "date": "2014-03-04T20:12:49Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36668635,
+      "date": "2014-03-04T20:13:55Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36669024,
+      "date": "2014-03-04T20:17:20Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36669538,
+      "date": "2014-03-04T20:22:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36682684,
+      "date": "2014-03-04T21:50:14Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37071883,
+      "date": "2014-03-07T21:53:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37495561,
+      "date": "2014-03-13T02:51:30Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37506029,
+      "date": "2014-03-13T07:19:42Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37740179,
+      "date": "2014-03-15T22:38:15Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37740430,
+      "date": "2014-03-15T22:49:28Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37782179,
+      "date": "2014-03-17T03:17:18Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37782543,
+      "date": "2014-03-17T03:28:33Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37804042,
+      "date": "2014-03-17T11:02:19Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37806901,
+      "date": "2014-03-17T11:45:29Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37881863,
+      "date": "2014-03-17T23:03:11Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37882205,
+      "date": "2014-03-17T23:08:05Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37885138,
+      "date": "2014-03-17T23:47:35Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37889001,
+      "date": "2014-03-18T00:49:41Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37889182,
+      "date": "2014-03-18T00:53:04Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38913957,
+      "date": "2014-03-28T12:32:52Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38940205,
+      "date": "2014-03-28T16:39:00Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38946570,
+      "date": "2014-03-28T17:34:47Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39084488,
+      "date": "2014-03-31T12:53:52Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39251512,
+      "date": "2014-04-01T20:00:29Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39662123,
+      "date": "2014-04-06T08:30:28Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39667018,
+      "date": "2014-04-06T12:24:25Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39667331,
+      "date": "2014-04-06T12:39:29Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 40634333,
+      "date": "2014-04-16T18:27:05Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 40889767,
+      "date": "2014-04-20T07:38:44Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44110347,
+      "date": "2014-05-25T03:16:11Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44137581,
+      "date": "2014-05-25T15:30:52Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44192484,
+      "date": "2014-05-26T14:13:13Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45455468,
+      "date": "2014-06-09T01:54:13Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 52419772,
+      "date": "2014-08-17T11:44:18Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 53281232,
+      "date": "2014-08-25T15:41:02Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 61638351,
+      "date": "2014-11-04T13:24:16Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 62459454,
+      "date": "2014-11-10T21:35:41Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 62681888,
+      "date": "2014-11-12T07:51:12Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 62692234,
+      "date": "2014-11-12T09:38:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 63289763,
+      "date": "2014-11-17T11:09:07Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 63337708,
+      "date": "2014-11-17T17:05:46Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68636404,
+      "date": "2015-01-04T15:23:12Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 76357794,
+      "date": "2015-02-27T08:51:39Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 76699614,
+      "date": "2015-03-02T11:54:41Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 86632241,
+      "date": "2015-03-26T17:26:07Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 86950345,
+      "date": "2015-03-27T14:07:48Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 86952994,
+      "date": "2015-03-27T14:15:07Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 86953917,
+      "date": "2015-03-27T14:17:43Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87047432,
+      "date": "2015-03-27T18:37:15Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87050342,
+      "date": "2015-03-27T18:48:19Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87052379,
+      "date": "2015-03-27T18:52:39Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87053115,
+      "date": "2015-03-27T18:53:44Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87055928,
+      "date": "2015-03-27T18:59:07Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87056964,
+      "date": "2015-03-27T19:01:10Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87064091,
+      "date": "2015-03-27T19:22:48Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87074095,
+      "date": "2015-03-27T20:05:36Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87124572,
+      "date": "2015-03-27T23:46:22Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87142565,
+      "date": "2015-03-28T01:58:05Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87144939,
+      "date": "2015-03-28T02:07:54Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87145606,
+      "date": "2015-03-28T02:17:15Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87152985,
+      "date": "2015-03-28T03:02:23Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87153952,
+      "date": "2015-03-28T03:28:17Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87738131,
+      "date": "2015-03-30T16:12:59Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88127901,
+      "date": "2015-03-31T15:13:26Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88129570,
+      "date": "2015-03-31T15:19:14Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88135239,
+      "date": "2015-03-31T15:33:16Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88136274,
+      "date": "2015-03-31T15:35:09Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 92718849,
+      "date": "2015-04-14T09:34:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 92909884,
+      "date": "2015-04-14T15:28:51Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 100293657,
+      "date": "2015-05-08T16:50:02Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 100301258,
+      "date": "2015-05-08T17:10:27Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 100938514,
+      "date": "2015-05-11T15:08:12Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 100949436,
+      "date": "2015-05-11T15:39:18Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124836018,
+      "date": "2015-07-25T11:31:38Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124842800,
+      "date": "2015-07-25T12:31:42Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138243745,
+      "date": "2015-09-07T09:01:19Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138368570,
+      "date": "2015-09-07T19:56:55Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138705862,
+      "date": "2015-09-08T21:20:37Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138719119,
+      "date": "2015-09-08T22:14:45Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 152825129,
+      "date": "2015-11-01T13:23:48Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 30282836,
+      "date": "2013-12-11T00:22:42Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 34976792,
+      "date": "2014-02-13T13:19:29Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 53239362,
+      "date": "2014-08-25T08:27:06Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 189,
+      "date": "2015-03-27T19:59:45Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 31,
+      "date": "2013-08-18T15:28:56Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 30,
+      "date": "2013-08-12T12:08:41Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 121,
+      "date": "2014-04-05T07:19:29Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 118,
+      "date": "2014-03-31T10:09:59Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 105,
+      "date": "2014-03-18T23:30:25Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 73,
+      "date": "2014-01-30T15:13:53Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 68,
+      "date": "2014-01-24T11:28:42Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 67,
+      "date": "2014-01-24T11:26:29Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 33,
+      "date": "2013-09-09T21:15:07Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "issue",
+      "id": 32,
+      "date": "2013-12-01T13:27:23Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "f5bcf4a96d03180bcad981a2511dbe28a1686d86",
+      "date": "2014-08-25T00:02:12Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "3ff2f579024f67968d8c93f491e031fc6bc4064d",
+      "date": "2014-08-25T00:00:38Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 25676291,
+      "date": "2013-10-04T04:44:33Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 53979733,
+      "date": "2014-08-31T06:50:51Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 53979852,
+      "date": "2014-08-31T06:58:06Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "tmm1/http_parser.rb",
+      "type": "pr",
+      "id": 42,
+      "date": "2014-08-31T06:55:25Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "tmm1/http_parser.rb",
+      "type": "pr",
+      "id": 41,
+      "date": "2014-08-25T00:07:34Z"
+    },
+    {
+      "dev_id": "robertjpayne",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 43,
+      "date": "2013-10-04T04:10:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1a1c01b33a5bb3885803f7f7383cfae74975dc10",
+      "date": "2015-09-29T16:14:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "06384d368e1745e6cfad90f9757285ad261cfaf1",
+      "date": "2015-09-20T04:43:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d071a96a6369384651804d55a467f49e0d9dbcd9",
+      "date": "2015-09-20T04:40:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "49222ec0f698c102a7c46892fc16122eb8093d17",
+      "date": "2015-09-10T05:00:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2ed28df320822c373309aa54badf885f404bd604",
+      "date": "2015-09-09T08:49:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7b06e0ebbe0091b1bd086a75c11ac35e563f1864",
+      "date": "2015-09-09T08:42:34Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a61fb37e129299ef6349b702156013731183f489",
+      "date": "2015-09-09T08:36:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "52bc4530ac629b1c11a5c8979bb93105331a6f28",
+      "date": "2015-09-09T07:57:05Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e726dbe5c5b3f0e0129006d7b925e99b5560c9be",
+      "date": "2015-09-07T00:56:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d6cdff17c19d0e8af92b5834ee4cb55db897d30c",
+      "date": "2015-09-07T00:54:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ae537086fac3d59c7977ff35b7ab1558ef00da72",
+      "date": "2015-09-07T00:39:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ccdfdd116ed97c3485294ea825741e6494baa06c",
+      "date": "2015-09-06T21:44:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "085fa20c74752e768870dd5ab6a4c2c36b628230",
+      "date": "2015-08-03T22:42:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3c763770a3e698fa9573f65df5dd2a6a40b4b6ce",
+      "date": "2015-08-03T21:18:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d3f593a2e6fb3ee0775358d078809b995682e109",
+      "date": "2015-07-27T00:04:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "46a044e8014c54212a3cedf29ab4f39ac6fcb375",
+      "date": "2015-07-24T03:30:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a095280c28bf677b44ece9f746c6f96756dd2082",
+      "date": "2015-07-23T17:06:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "103ad14f6e5c2bec80d3e3d1db246c14af0507bc",
+      "date": "2015-07-23T17:04:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0570c53c8557f644b92e77b02e801dacbac25216",
+      "date": "2015-07-23T17:03:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "729f8502d2df1ffc6e901124e3d2d7a81b6eb9bf",
+      "date": "2015-07-23T17:02:07Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a42d36c73271cdae53209b9999d6dff9be25323a",
+      "date": "2015-07-23T17:00:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1b9ff11ee7540a5fc165a9b248dac84765ca9041",
+      "date": "2015-07-23T16:21:07Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "278a53a559e3098ad4d1a2bdc243da236da010c9",
+      "date": "2015-07-22T17:34:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1dd3da243d58f34728fffb190e1317b67564b1a4",
+      "date": "2015-07-22T17:32:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7909afbc52973f3a4067ee8638f44f7d7651ae9b",
+      "date": "2015-07-22T03:40:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "fd0484724e949ab9effb4c6a13ab9c6fdb3ff2a3",
+      "date": "2015-07-20T00:28:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "36a1d49ccdf954c5e4f006cf0c8996414851275c",
+      "date": "2015-05-31T02:38:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2da41b40578c583f3613c18ed6962c06e0391926",
+      "date": "2015-05-31T02:13:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dbc8c894dab228f377287cd692d2f647223c317c",
+      "date": "2015-05-23T00:17:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2b515d6763dcaab408cc9fbb1a718a81ba40345a",
+      "date": "2015-05-13T07:06:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3c1701dff049656d61c20b34e7f3a1b45ea49ae5",
+      "date": "2015-05-13T06:58:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b6263e6c46b96ff852e6e44af8b64a67738d5cc0",
+      "date": "2015-03-29T05:00:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6c20d2febb2bacf44cffe105fde6874e3fd01b1a",
+      "date": "2015-03-29T05:00:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4cf3a074f82037dd462f5e81d92c4f639311e84d",
+      "date": "2015-03-29T00:40:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8ac4c2215fcd969331c83da1d3e85a8092eb8d0e",
+      "date": "2015-03-28T02:47:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "86f793a9b3d47d34464a25089d06cf729498f0dc",
+      "date": "2015-03-28T02:44:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "57669cebc2ae3648be3051ba9fe06170325d47ff",
+      "date": "2015-03-28T02:29:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "91c5bbec4e9403313da8413a80fc97c0c69d3678",
+      "date": "2015-03-27T23:34:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b13cfdc3c23cf427ee5d36ee2e63bf88dc725a41",
+      "date": "2015-03-27T19:39:05Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4bf5a21d7f130f28e50871cb92b3967410df6af1",
+      "date": "2015-03-26T18:59:02Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5e83a6bac86004b36c0af117951b85d7bd28715b",
+      "date": "2015-03-24T23:58:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1d00907bfd786fa4e7f2a67fe27a51c9f6fa5910",
+      "date": "2015-01-03T06:53:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "764d85f8ec7fd0ae4249e71915699aaf6ca75c45",
+      "date": "2015-01-03T06:51:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a80710786237c149d751b16904c78e3d3b37b6bf",
+      "date": "2015-01-03T02:11:08Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2a6d8162c9e2961fc46b2a4076bf80ccb183465b",
+      "date": "2015-01-03T01:59:38Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "556d6937a1d5b897547120ab680334484d69f441",
+      "date": "2015-01-03T01:57:07Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3cbac02f2729255c6ada3e37f6f1533ebae7474e",
+      "date": "2015-01-03T01:52:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "108fa6cd7b242c8e36f182fc22ce430140e90895",
+      "date": "2015-01-02T19:56:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5506878dd173e4da8a21bd7d3076577f9a1a88de",
+      "date": "2015-01-02T19:29:05Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3a25175bfe214d346f624c8a6e16e8e033e5cd69",
+      "date": "2015-01-02T19:27:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "68085f7dd36980feaa7c73cf06025ccac7b8a72d",
+      "date": "2015-01-02T19:22:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "196967fef74cadbe2a6d14b7fa5d1a78906c26b7",
+      "date": "2015-01-02T19:16:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1aa825d24b7c54a218b1891319e7adf3fb02e757",
+      "date": "2015-01-02T19:15:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6dd67fa140f0dae359bb434d31be5508692a1b76",
+      "date": "2015-01-02T19:01:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ab2205046086e0c4e0e48b6601f7efcd4ca316bf",
+      "date": "2015-01-02T18:55:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1518a02a1bcbc50435e674873ca98691bc346fb7",
+      "date": "2015-01-02T18:47:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2090a021c4c31cc995966a5a41a30778f6cd376a",
+      "date": "2015-01-02T18:46:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "020969a066d68352e22135ef1faedf46f738ec7f",
+      "date": "2015-01-01T01:58:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dc6c489c0903719462c5aac75bccf83fdddd40d7",
+      "date": "2014-12-15T18:40:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6d31d3057c9d3e1b294b7c8b8f21a55e1551322f",
+      "date": "2014-11-30T01:41:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "01473e3744c85ad43a3f78c1ea1112956471dcf1",
+      "date": "2014-11-30T01:40:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ec6aec57cb028e0ef1cdc8100343d5ecf1491ade",
+      "date": "2014-11-30T01:39:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f0bc9f8a5ae7649dda68db0f75a94013ff74b6b0",
+      "date": "2014-11-30T01:38:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "58ccccf9e457cb13be38f1d602fb179e700ebf56",
+      "date": "2014-11-29T19:20:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4c0818019523c4714bce7d5d15306fea4da9c75d",
+      "date": "2014-11-29T19:18:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "769b3804d1fd1327f0e2b20579adab75e1235768",
+      "date": "2014-11-29T18:56:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2c932e380872e64fbee596f8f00e90b53de8e286",
+      "date": "2014-11-29T18:53:02Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "94c0d1e4573f6f673d5668d5c9cddd5382c82095",
+      "date": "2014-11-29T18:47:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8621869408e2ac272607d6895ba4c40c1fe04815",
+      "date": "2014-11-29T18:37:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "83856432b0f4159da19bf3c5dbcab274078bffc5",
+      "date": "2014-11-12T19:37:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0148f731ce3ad308e98186d55dfbf99a211c05f1",
+      "date": "2014-10-02T04:54:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "409c98330dcb8851bd9023666c2ffc1544ab4138",
+      "date": "2014-09-26T22:09:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f405671c129f9d5bbf354cef542ea003a79eadcb",
+      "date": "2014-08-06T19:54:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3d007048bfe2f8efd1d7afb157de09c1fd389320",
+      "date": "2014-06-21T23:02:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6a21dee417dd8fd783507a28e2cbb7c9cc525e3a",
+      "date": "2014-06-14T19:36:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e30f0c01164608c63f584d98e4ed4b238958f316",
+      "date": "2014-06-09T01:33:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2f2c432b02ab22ce363dca6b88c68c5c29729eb2",
+      "date": "2014-05-26T22:45:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6ff415ffef0c64e2b518884126d5d157bfb70fdb",
+      "date": "2014-05-08T03:40:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9e5abc73c144f145719e690e1560b37e6ba93adf",
+      "date": "2014-05-05T16:25:21Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "af63d6a01dbd8650ae8fb6237e9ffcd22d36cd7a",
+      "date": "2014-04-04T20:34:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f6390c8730d3300e6a52c5297a5b33abc50873d3",
+      "date": "2014-04-04T20:30:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a5d97b34f86508de01ff2b586a5c1e9347404f9c",
+      "date": "2014-04-04T20:25:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7b63f7e18b28e8cee40bc15b7d6b3ae54a3a3bd4",
+      "date": "2014-04-03T02:19:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "76b088670abeb6926cdbd4d66ddabc9d13e71dc6",
+      "date": "2014-03-29T22:44:07Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "05d10c5e8e3fd1a9cdcd513a369d19212281426b",
+      "date": "2014-03-23T22:56:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "39ce4ce0d7ef25995d131ed50f8802b175acab1a",
+      "date": "2014-03-23T22:56:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "afcbe92a3fd34ab1679c6e95ffe19bc878cb9ec6",
+      "date": "2014-03-23T22:05:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "51cc3bb584bd3045db221395cd913b0fabfbc42d",
+      "date": "2014-03-18T19:54:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9fa6f3f108b4dd06c10b82c38e6d32a415608880",
+      "date": "2014-03-18T03:23:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0785bcb42144f827fa201a321e9bd38381f29f4e",
+      "date": "2014-03-12T01:09:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dc888cdf71d43d60bfda390bbc6988728b716f4f",
+      "date": "2014-02-02T20:27:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e9dd97da6bf68d2a64ce02b93d953dcaffdf75af",
+      "date": "2014-01-27T02:43:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "eb6e520aed1f13ef4ab2dfb7877d790052801d25",
+      "date": "2014-01-27T02:43:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4c6810b9aa93dd3485bcf1105f0e9cf1810db8c1",
+      "date": "2014-01-27T02:41:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e45fe0741a7d3c40c750e466d655a03d25f2f390",
+      "date": "2014-01-27T02:39:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d9a438b54ed500098d641e716aa312a3fc099fe9",
+      "date": "2014-01-26T23:47:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0bbdd08cc5a5cef841791300f2b8991e292e9ca1",
+      "date": "2014-01-26T23:34:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "bf8ccdfdf0c71fe2dcd89c9ed5b00d08d56aab98",
+      "date": "2014-01-26T21:50:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6855c5384b86bde2a0759c50dd39f029373fc933",
+      "date": "2014-01-22T16:46:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4397fc0560f29e4443f0fbc1f54a492911fb2c2a",
+      "date": "2014-01-20T21:17:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8011afcad35816b55dd5af5ba8f3feb697244748",
+      "date": "2014-01-20T01:40:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4bf85ed93f5ee47d2db39f857629b79c5d3efb71",
+      "date": "2014-01-18T20:46:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "903724f7853e02589f019729bcb7f4e82541b0d8",
+      "date": "2014-01-18T20:42:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "bd140f2d2648f75a63df9553c421c4a1ff527d3a",
+      "date": "2014-01-18T20:32:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e6230a8384d01de205e4056329aff1f1b2bb3d03",
+      "date": "2014-01-17T00:59:38Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6cd503a09ae7a0c458df94788f5b4d7a784db51b",
+      "date": "2014-01-17T00:43:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b9a253847a48de09d8ce04b8ec08c86cb74d7eb4",
+      "date": "2014-01-16T08:59:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dec53ba06ff2f6659f892d683529d32becdf2089",
+      "date": "2014-01-16T08:31:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ced2dd9e65715a677a3a13a4774dc4e609ed328a",
+      "date": "2014-01-16T08:10:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7b02b0f1cae7b792d1a88b3996790d647fab78c0",
+      "date": "2013-09-14T21:46:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d806459155c8abd98070b9d6c2e1f7f896d97672",
+      "date": "2014-01-16T09:02:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4f7476d6047439de6097fea6ec3b9682dcdf02cc",
+      "date": "2014-01-16T07:53:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1b76e617e5881bbcf5f3ded83255ea69dbd6d52e",
+      "date": "2014-01-15T17:02:23Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8382e0215c1fa559b2676e06be780c29067ab60f",
+      "date": "2014-01-15T06:39:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "23b08f46788c131a716239f202cdbc57da1976f5",
+      "date": "2014-01-13T22:50:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f9b4b90596748218c92161fb312e4ba74874b856",
+      "date": "2014-01-13T22:18:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "306f920308800889447958d877a6812f9c21e6b4",
+      "date": "2014-01-13T19:58:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c15b40477582150e469fa4a1e17d9511104e5922",
+      "date": "2014-01-13T18:29:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d1de0f439bd71c04fb59e1e2cb804885cf203d72",
+      "date": "2014-01-13T18:29:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "97c332e9c21cf827c8f4fbf19a72ac3f329a99d1",
+      "date": "2014-01-13T18:28:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9fa15fd8f8510defe34ed33a5913a4b9cf46b8f4",
+      "date": "2013-12-16T21:18:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7a5cc32f335de2612ca35995d317288b1d59c2b7",
+      "date": "2013-11-04T22:20:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "fd94edde369e07ab1e2836fe1cbd8aaf94874618",
+      "date": "2013-09-17T07:30:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "eaedd678d7879c15451d469c150fa64a55691073",
+      "date": "2013-09-17T06:33:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "537e2cf34e35d8d91e3721c1ec83a7f208b4ffa4",
+      "date": "2013-09-17T06:32:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2f547a793c3356725b41e26b3b6542ec119ab714",
+      "date": "2013-09-14T20:40:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "55b8e0305fa81973791a7c658319136f428b51d1",
+      "date": "2013-09-14T20:37:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f303e6a318a71e83eaaae4e83f03261d83a5625a",
+      "date": "2013-09-14T20:38:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "cca9066b64e5718fa997cc1513ee312a86545a44",
+      "date": "2013-09-14T20:35:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "def31d70b9a6d44bd3002e06f2f5a7f3ca772c71",
+      "date": "2013-09-14T18:05:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ba3007d91e458dd116c893e3d0a9ca87190ca6ea",
+      "date": "2013-09-14T06:23:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2249b11b99d5756ad394370c2a1af20048051333",
+      "date": "2013-09-11T15:38:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0bf78f912853b5edcd25e7bea673499fcc28630b",
+      "date": "2013-09-06T07:07:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "919b66632374aea0f5724b0df28393402dc93651",
+      "date": "2013-08-21T19:36:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c3288f946cf2c0afe0d9cc16191ebbc97052bd63",
+      "date": "2013-08-12T15:38:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "acbd49384ac362063390ac09afb2099c4afc7535",
+      "date": "2013-07-16T19:30:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "baafa4f4fdf32f59d31592c172a318e9775e9255",
+      "date": "2013-07-15T18:19:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "aaa23c0b42c7c035320c866477d75cef9a27f6c0",
+      "date": "2013-07-15T18:18:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f7ced1f4b27bbdef7025044ceef94914306f39d3",
+      "date": "2013-07-08T00:19:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "318a1534aac17e3791bfcf14eab93fde0194b773",
+      "date": "2013-06-14T19:27:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "34c6883ca8e8338cf25057bc9842ac8392dd303a",
+      "date": "2013-05-28T05:12:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "adbf8b1e97d846e167bfed7ba320ce267df3e705",
+      "date": "2013-05-28T05:05:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c4c5731329f8893ea4bdae364298d5b755788051",
+      "date": "2013-05-28T05:04:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7d5c70d800f3306dec6b8166c514ffab03e541fb",
+      "date": "2013-03-19T06:06:05Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2a1c72151ab541703ee0cfa646465f1d75de1aa2",
+      "date": "2013-03-19T06:05:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4ad18de55abceadefa0bd1fd8d9ff6c791adbee5",
+      "date": "2013-03-19T06:01:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b51a056a4d7a07fbf4e7b1d25e163c520b6cccc0",
+      "date": "2013-03-19T06:00:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ac28e910f6861f5d9a5430f2a1c3f3d691593888",
+      "date": "2013-03-19T06:00:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "99154720ead3c4d317715d63f0318c3389d178d3",
+      "date": "2013-03-19T05:59:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1064edbb8a4b929e730a29835ef055043dfcd9b4",
+      "date": "2013-03-19T03:30:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a837681a68e3cd72aad35dce90dc2d3d39ab4a2e",
+      "date": "2013-02-13T05:33:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a4a9bb2d750fcf39d96885bc8d283f27ed6aadf6",
+      "date": "2013-02-13T05:29:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "857ef4fafacc64019e90c6c1cea7e9cd986ac1e4",
+      "date": "2013-02-13T05:28:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "78331b0feba6538153f57b8ce1d094b9d9cd94fa",
+      "date": "2012-12-29T03:12:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "23bed80219d77fb389ea72579c6d5cfa2b0ec4e7",
+      "date": "2012-12-29T02:20:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6aad9c0ddfe281df3ce5f5925a5ea31ff4d3bdb2",
+      "date": "2012-12-29T02:19:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b1e61ba352f09908679e9290addb7b1bdde18732",
+      "date": "2012-12-29T02:18:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "58ac88bcfb9dafc532a838601ca89b56f888d980",
+      "date": "2012-12-29T02:17:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3f07c6b65d75f7a5905ab3214ec8d6a59e63e094",
+      "date": "2012-12-28T21:37:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e5cac54cedc0625a808c26190349dccfaf20b4cd",
+      "date": "2012-12-28T21:12:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "17bcf369ccf16f199aecee6a515caaff0914cceb",
+      "date": "2012-12-28T21:09:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1541306880e02b42fc0954250973910f29f59f67",
+      "date": "2012-10-12T20:55:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f5d158b269026bc01f21490758e0a225738fbdb2",
+      "date": "2012-10-12T20:53:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "86d78fd281d301ecef51b614942c4c0a06f5073e",
+      "date": "2012-10-12T20:53:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dbc54925bde174efb94e4023ff9e2fcd4b12be35",
+      "date": "2012-09-06T21:12:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "597cb4815bb2e0e7ebc8c1c8a451a17bbe83da5d",
+      "date": "2012-09-05T19:53:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "346b84d4d751b6613919d0a5bcb230afcc1d209a",
+      "date": "2012-09-05T17:57:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "fbadb6d6aafd0ab6be282662fdb53147a224f728",
+      "date": "2012-09-03T20:01:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dd5dd9c0d6d42a4a7f6e79ae9977dc490a0987c2",
+      "date": "2012-09-01T23:47:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f68cc84dab87cd6725e5c4315d605e56da5fc51b",
+      "date": "2012-09-01T23:07:08Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "02641a75a73ec80ec3a0efe25c842f20cc67f467",
+      "date": "2012-09-01T23:06:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f8fbd67672910a4ed7ed94d09d64ecfe02f283ac",
+      "date": "2012-09-01T22:32:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "81537662b23612b4ae4c2887a2b2269041a6f914",
+      "date": "2012-08-19T20:35:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "23bfe73fbc8fb9f86950f10bc46e2408c9bf4f9d",
+      "date": "2012-08-30T15:56:52Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "572bd8ebad99a11c10198435e697d11fd9d8d36a",
+      "date": "2012-07-16T18:32:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7a89eee4824bb91a9ca227273ceea154e349c186",
+      "date": "2012-06-22T07:20:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "112944ec645f6b2a04c3b1991b1990bc4cf7a2d1",
+      "date": "2012-06-22T07:18:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "55149890f71948653e38f76066669db077b41d14",
+      "date": "2012-06-22T07:15:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1e9be13f7f1c6c9b9eeba125e6dc190df09cf7e2",
+      "date": "2012-06-22T07:09:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0897f1baf35c48fff1d5b03b4764e0909ee293a0",
+      "date": "2012-06-22T06:54:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9d8153e00a80cc4eeeb3aaa7af40413fde4b27a5",
+      "date": "2012-06-22T05:24:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "488a215534eea0fccdd047a3adaa34e4ff6a3316",
+      "date": "2012-06-22T05:10:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dde86f36b9baafa41a87b5a3b30fb48b866c0466",
+      "date": "2012-06-03T01:57:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5f4ac8a7874292c00b45c6a76864cc58b68f3164",
+      "date": "2012-03-13T19:12:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1212a5d1e98e96e1cbbcf1216838b60dc1d0d74f",
+      "date": "2012-03-10T04:48:05Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6d38579cae3311cb10e82b699531da71bda27d74",
+      "date": "2012-03-08T20:51:52Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5a2277c3179f79ed410b986847b211b7eded9161",
+      "date": "2012-03-05T03:27:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a476b821a916c25053c43c59575025957313de08",
+      "date": "2012-03-05T02:10:08Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "14eabb77daaa145ef34fb318d74811f54cb76225",
+      "date": "2012-03-05T02:02:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "82dbd5a4f945865735d5ce818a7ed50f34152362",
+      "date": "2012-03-05T01:32:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "fa22354467e9424e585d728aef2658f08b170b80",
+      "date": "2012-03-05T01:32:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a09a55a7bf29af6112389b4fa06030acb878b270",
+      "date": "2012-03-05T01:31:34Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9a5bb3a8b5422821fd83bb553b012f7456459b73",
+      "date": "2012-03-04T23:01:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e4c786ad2c608055298534351e496c43417297a2",
+      "date": "2012-03-04T23:00:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c946e5f2181a1b70802e9302fc002f15faac8c35",
+      "date": "2012-02-23T08:24:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "122487bacd04487be7298f3f86491d25e762352d",
+      "date": "2012-02-20T23:04:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "336ca83cd14a95b01ffa9f85dc7d492188fb0c34",
+      "date": "2012-02-19T06:25:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f0371b75a146d083121930e7c4c25c169aa986e9",
+      "date": "2012-02-13T02:51:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9868c439a1018ad7eb2e5331ff699559b7cde7a6",
+      "date": "2012-02-13T02:47:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5c26a60a5938406000722777ec0024b25005c274",
+      "date": "2012-02-13T02:45:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ea559560f625632ab59fbc36234557f76cda959d",
+      "date": "2012-02-13T02:42:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "a244331b228421bbc14885249515e83d8920bd32",
+      "date": "2012-02-13T02:42:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1ec7d58a644c0fe70d134a7f6d4075fd3ce7c0b7",
+      "date": "2012-02-13T02:31:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "71e5759b4689a3b692107c15f8ea990e90bfd4d8",
+      "date": "2012-02-13T02:17:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e28042e50cfb2da6c34bb288acb004d1f039fb50",
+      "date": "2012-02-13T02:00:38Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3b33264ae98c07e750f4a98aff8149cccbc3ea5e",
+      "date": "2012-02-10T05:58:54Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "eb3b3e3b076b37e9858567b9bb28e708640f6293",
+      "date": "2012-02-10T05:55:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8ccb457353e7aebdd87d918217d6e3e0705bfe5a",
+      "date": "2012-02-10T05:27:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "caa9f972682818c94f69f066cd8e60ee29c8f8e7",
+      "date": "2012-01-29T06:06:52Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "fcbadc5d529df79fd6d531dae5c18878cb214e69",
+      "date": "2012-01-27T02:15:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "4e3bf194faed3a52ccf6aedc6fb96ee0729ffeb5",
+      "date": "2012-01-27T02:12:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "1310f0cb75df6ee975e0c18d1d319f069ae7b82f",
+      "date": "2012-01-27T02:08:21Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "fa85fd9ec09d1b55f6c800f17af8f11ed6f55bac",
+      "date": "2012-01-27T02:05:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3aef18e2f07a2a20ad29dcec347045832a85e9d0",
+      "date": "2012-01-27T02:04:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "7a2cd74bdb6e4b74342003e0d70953dc9950755d",
+      "date": "2012-01-27T02:01:23Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "301c56bcc3ccb78a1838e8ac6e47d50588d8a92a",
+      "date": "2012-01-27T01:49:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f16b6090f0a8379a379bfd4e7fee2c7ec0314b86",
+      "date": "2012-01-27T01:48:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "42d50391b5ca01e9a8f9cde95399d298a5bff8c5",
+      "date": "2012-01-27T01:46:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5b5b135cb2363e8e5e85123a6f78473f3aefc2fe",
+      "date": "2012-01-27T01:44:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8c6187babeadc17bfc5a3c83e307d4f7e93a1abf",
+      "date": "2012-01-27T01:10:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0f5dfc9197964a27dde2421bccd737e1ac91d7eb",
+      "date": "2012-01-27T01:08:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e7a9565ee6059e6f6c5347cc148abcac3743b181",
+      "date": "2012-01-27T01:03:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dbdb19fe783cf96cd2031592b0ee4ccd61259249",
+      "date": "2012-01-27T01:01:52Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "16f06946c559db302e1853199344925e922ec077",
+      "date": "2012-01-27T00:57:23Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "6ded7ca9bc7393d6a6f6978e59a4a3616a84050d",
+      "date": "2012-01-27T00:48:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "3aa1e6b9e5416f986ebf0b8b1dd03550dd161e99",
+      "date": "2012-01-18T19:45:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "15ed828802344fc6d95b344032f99ddc95bee998",
+      "date": "2012-01-18T19:12:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "8661ef17ddb32c08061509943870378826beafb8",
+      "date": "2012-01-12T20:57:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "61ec9a3f26ac5af310b868ecbf2d142b211892d4",
+      "date": "2012-01-12T20:28:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e682657f2fd760991173886f975e3fdb249afb04",
+      "date": "2012-01-12T20:27:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "dbaf18536ef25dc0249d035cf619b8212e6d8bd8",
+      "date": "2012-01-12T20:18:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "5da9e02b83e62ac885cf75d6190587e189aed325",
+      "date": "2012-01-12T19:29:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "cac7412d7b83f0f6b9296c72dfd62794b1cfcc99",
+      "date": "2012-01-12T19:28:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "0a0f883b10f47f322c6f3e73bfa6280931ba7f0b",
+      "date": "2012-01-12T15:30:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "bbd1c4dee593f3ad1c0fbe351bec5c3561938d5c",
+      "date": "2011-11-30T18:32:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "47a5d13f99b651ae0d0d5aef980ae47c3c42a382",
+      "date": "2011-10-12T08:10:52Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "2c3e3c5b032e0238cce80c61065a3e9252352bb0",
+      "date": "2011-10-12T08:01:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "56a0282a993b2da9e0653380bdd2ce800b3217ea",
+      "date": "2011-10-12T07:33:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "444ecc07b42067aedff7a2052068c4aac3f52979",
+      "date": "2011-10-12T07:06:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "17d8c9a4206952f0d5f59fb661cbdfe18afb6c61",
+      "date": "2011-10-11T03:49:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "ef4764d0a2daae6081be3afe14d7efee0f1b5f91",
+      "date": "2011-10-11T03:49:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "abd29dcb5498201e3cc4abca79f436b772e86691",
+      "date": "2011-10-10T06:30:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "b437e5c0f6208274f5f9d078d762da733078ce76",
+      "date": "2011-10-10T06:28:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "9d10e356452f814432fe29dc2df31607395d41ad",
+      "date": "2011-10-10T06:18:08Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e61b60bc93a99ecc60da01a747065a2b45a97fc5",
+      "date": "2011-10-10T06:09:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f00353457c2a821a67a682d1c1850f95fc06a68b",
+      "date": "2011-10-10T06:07:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "cb1753d951193840c6e5c3c03499f21a7f7179c2",
+      "date": "2011-10-10T04:57:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "01520afb8c4b27f7851929a5052891ef0ea22394",
+      "date": "2011-10-10T04:44:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "72db782a6f6524105097b4516659f47af3da07c7",
+      "date": "2011-10-07T07:01:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "f37ba92b35e0e992b84a8fc7341721423d775a83",
+      "date": "2011-10-06T06:44:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "c31f7dc89ea29cc92b0b75d8299d8b8b7f58f93e",
+      "date": "2011-10-06T06:36:52Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e055b65c6b067f5612d191a21e13f9a9b06beebc",
+      "date": "2011-10-06T06:34:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "bcee4bfafe763b69a9550f51d1d19984b423d586",
+      "date": "2011-10-06T06:18:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "cc16fbf412d61c446f53775588a5befabe7c860b",
+      "date": "2011-10-06T05:31:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "e27b9431b277fd7e3d9b6bd2edb77ef648f7dc0b",
+      "date": "2011-10-06T05:25:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "d3e10c6c2e2db4d04a6fb9a94e588b6e133c2c60",
+      "date": "2011-10-06T04:36:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "commit",
+      "id": "919b248ec4ecfedbb9c387b6e5c54f53a37f964e",
+      "date": "2011-10-06T04:27:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "1dc1302fa828b5c0aff88909ce351dffe8101776",
+      "date": "2012-03-11T01:21:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "450ebe17f6eceb23673e9650ab0e254f15d9ae2c",
+      "date": "2012-03-11T01:17:02Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "503f659098b64ee0be3045bd43d843d09bd8aa96",
+      "date": "2012-03-11T01:16:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 2369930,
+      "date": "2011-10-11T19:18:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 2376618,
+      "date": "2011-10-12T07:41:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 2781200,
+      "date": "2011-11-17T20:10:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 2880124,
+      "date": "2011-11-26T05:57:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 2963997,
+      "date": "2011-11-30T18:33:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 3901425,
+      "date": "2012-02-10T05:27:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 3901516,
+      "date": "2012-02-10T05:42:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 3901628,
+      "date": "2012-02-10T05:57:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 3933169,
+      "date": "2012-02-13T01:34:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 3933339,
+      "date": "2012-02-13T02:01:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 3933683,
+      "date": "2012-02-13T02:52:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 3955102,
+      "date": "2012-02-14T04:43:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 4401967,
+      "date": "2012-03-08T20:51:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 4428853,
+      "date": "2012-03-10T04:48:02Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 7840125,
+      "date": "2012-08-18T00:23:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 8164183,
+      "date": "2012-08-30T15:56:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 8307709,
+      "date": "2012-09-05T17:57:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 8311665,
+      "date": "2012-09-05T19:53:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 8347788,
+      "date": "2012-09-06T21:12:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 8695233,
+      "date": "2012-09-19T15:41:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 9383951,
+      "date": "2012-10-12T17:28:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 9384586,
+      "date": "2012-10-12T17:49:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 9390027,
+      "date": "2012-10-12T20:56:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 9390035,
+      "date": "2012-10-12T20:56:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 9390100,
+      "date": "2012-10-12T20:59:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 9390111,
+      "date": "2012-10-12T20:59:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 13036640,
+      "date": "2013-02-02T20:21:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 15093894,
+      "date": "2013-03-19T02:17:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 15095670,
+      "date": "2013-03-19T03:30:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 17298995,
+      "date": "2013-05-01T18:53:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 17301584,
+      "date": "2013-05-01T19:38:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 20910550,
+      "date": "2013-07-12T23:52:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 20992512,
+      "date": "2013-07-15T18:29:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21006500,
+      "date": "2013-07-15T21:50:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21059783,
+      "date": "2013-07-16T17:45:54Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21064858,
+      "date": "2013-07-16T18:56:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21067191,
+      "date": "2013-07-16T19:31:02Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21076435,
+      "date": "2013-07-16T21:42:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21141075,
+      "date": "2013-07-17T20:12:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21152572,
+      "date": "2013-07-17T23:18:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 21214153,
+      "date": "2013-07-18T20:54:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 22410103,
+      "date": "2013-08-09T17:24:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 22410493,
+      "date": "2013-08-09T17:29:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 22502353,
+      "date": "2013-08-12T15:38:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 22503164,
+      "date": "2013-08-12T15:49:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 23037755,
+      "date": "2013-08-21T18:12:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 23043847,
+      "date": "2013-08-21T19:36:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24115522,
+      "date": "2013-09-09T21:16:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24171069,
+      "date": "2013-09-10T15:42:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24217428,
+      "date": "2013-09-11T07:10:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24250846,
+      "date": "2013-09-11T15:38:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24251392,
+      "date": "2013-09-11T15:45:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24458572,
+      "date": "2013-09-14T20:32:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24460025,
+      "date": "2013-09-14T21:56:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24461307,
+      "date": "2013-09-14T23:36:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24461803,
+      "date": "2013-09-15T00:24:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24462611,
+      "date": "2013-09-15T01:43:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24462657,
+      "date": "2013-09-15T01:48:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24462972,
+      "date": "2013-09-15T02:18:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24463215,
+      "date": "2013-09-15T02:41:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24463244,
+      "date": "2013-09-15T02:45:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24566578,
+      "date": "2013-09-17T06:26:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 24566773,
+      "date": "2013-09-17T06:32:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 25325089,
+      "date": "2013-09-29T17:50:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 25718181,
+      "date": "2013-10-04T17:57:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 25830082,
+      "date": "2013-10-07T17:55:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 25830707,
+      "date": "2013-10-07T18:02:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 27728473,
+      "date": "2013-11-04T22:18:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 27728666,
+      "date": "2013-11-04T22:20:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 27728763,
+      "date": "2013-11-04T22:21:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 27736372,
+      "date": "2013-11-05T00:14:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 30183884,
+      "date": "2013-12-09T23:08:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 30187687,
+      "date": "2013-12-10T00:06:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 30701750,
+      "date": "2013-12-16T21:19:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31429594,
+      "date": "2014-01-01T20:29:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31493260,
+      "date": "2014-01-02T23:11:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31493310,
+      "date": "2014-01-02T23:12:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 31593919,
+      "date": "2014-01-05T01:38:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32241105,
+      "date": "2014-01-14T06:08:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32448216,
+      "date": "2014-01-16T07:49:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32557352,
+      "date": "2014-01-16T23:11:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32625875,
+      "date": "2014-01-17T17:25:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32636568,
+      "date": "2014-01-17T19:04:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32650325,
+      "date": "2014-01-17T21:32:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32650385,
+      "date": "2014-01-17T21:32:38Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32728552,
+      "date": "2014-01-20T01:14:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32729155,
+      "date": "2014-01-20T01:40:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32797847,
+      "date": "2014-01-20T21:17:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32797880,
+      "date": "2014-01-20T21:18:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32809888,
+      "date": "2014-01-21T00:12:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32814042,
+      "date": "2014-01-21T01:40:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32989146,
+      "date": "2014-01-22T02:52:54Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 32995451,
+      "date": "2014-01-22T05:54:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33144737,
+      "date": "2014-01-23T17:08:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33144800,
+      "date": "2014-01-23T17:09:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33153360,
+      "date": "2014-01-23T18:30:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33240366,
+      "date": "2014-01-24T16:58:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33240924,
+      "date": "2014-01-24T17:04:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33271356,
+      "date": "2014-01-24T23:21:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33298014,
+      "date": "2014-01-25T19:45:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33331641,
+      "date": "2014-01-26T21:50:08Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33339206,
+      "date": "2014-01-27T02:54:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33339216,
+      "date": "2014-01-27T02:54:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33715915,
+      "date": "2014-01-30T18:15:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33717471,
+      "date": "2014-01-30T18:30:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33915970,
+      "date": "2014-02-02T22:51:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33988348,
+      "date": "2014-02-03T19:10:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 33988405,
+      "date": "2014-02-03T19:10:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34091384,
+      "date": "2014-02-04T18:34:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34131066,
+      "date": "2014-02-05T02:06:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34673392,
+      "date": "2014-02-10T19:42:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34798484,
+      "date": "2014-02-11T19:55:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 34927490,
+      "date": "2014-02-12T22:42:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 35028197,
+      "date": "2014-02-13T21:29:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 35322271,
+      "date": "2014-02-17T20:59:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 35676096,
+      "date": "2014-02-20T22:16:54Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36547547,
+      "date": "2014-03-03T19:18:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36657808,
+      "date": "2014-03-04T18:35:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36660258,
+      "date": "2014-03-04T18:58:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36660383,
+      "date": "2014-03-04T18:59:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36660426,
+      "date": "2014-03-04T19:00:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36660508,
+      "date": "2014-03-04T19:00:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36680100,
+      "date": "2014-03-04T21:27:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36680700,
+      "date": "2014-03-04T21:33:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36681408,
+      "date": "2014-03-04T21:39:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36681508,
+      "date": "2014-03-04T21:40:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36681629,
+      "date": "2014-03-04T21:41:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36682997,
+      "date": "2014-03-04T21:52:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 36700172,
+      "date": "2014-03-05T01:18:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37214851,
+      "date": "2014-03-10T18:11:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37365653,
+      "date": "2014-03-12T01:09:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37441263,
+      "date": "2014-03-12T17:54:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37499869,
+      "date": "2014-03-13T04:43:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37880227,
+      "date": "2014-03-17T22:41:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37882158,
+      "date": "2014-03-17T23:07:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37896269,
+      "date": "2014-03-18T03:23:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37952929,
+      "date": "2014-03-18T16:18:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37961464,
+      "date": "2014-03-18T17:22:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37963655,
+      "date": "2014-03-18T17:39:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37965083,
+      "date": "2014-03-18T17:50:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37965404,
+      "date": "2014-03-18T17:52:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37965582,
+      "date": "2014-03-18T17:54:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37979919,
+      "date": "2014-03-18T19:54:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37980417,
+      "date": "2014-03-18T19:59:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37982274,
+      "date": "2014-03-18T20:17:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 37983929,
+      "date": "2014-03-18T20:32:54Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38002300,
+      "date": "2014-03-18T23:35:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38292919,
+      "date": "2014-03-21T16:15:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38400719,
+      "date": "2014-03-23T22:56:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38400791,
+      "date": "2014-03-23T22:58:08Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38400830,
+      "date": "2014-03-23T22:59:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38400970,
+      "date": "2014-03-23T23:03:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38496253,
+      "date": "2014-03-24T20:27:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38496388,
+      "date": "2014-03-24T20:28:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38943012,
+      "date": "2014-03-28T17:03:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38949591,
+      "date": "2014-03-28T18:00:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 38949635,
+      "date": "2014-03-28T18:01:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39004615,
+      "date": "2014-03-29T18:39:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39011571,
+      "date": "2014-03-29T22:44:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39116751,
+      "date": "2014-03-31T17:31:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39157495,
+      "date": "2014-04-01T00:07:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39238731,
+      "date": "2014-04-01T18:11:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39251986,
+      "date": "2014-04-01T20:05:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39273767,
+      "date": "2014-04-01T23:38:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39348371,
+      "date": "2014-04-02T15:59:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39406140,
+      "date": "2014-04-03T02:19:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39406161,
+      "date": "2014-04-03T02:19:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39609746,
+      "date": "2014-04-04T20:48:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39652805,
+      "date": "2014-04-05T22:25:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 39679736,
+      "date": "2014-04-06T20:31:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 40292583,
+      "date": "2014-04-12T21:42:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 40313947,
+      "date": "2014-04-13T17:45:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 40630769,
+      "date": "2014-04-16T17:55:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 40956885,
+      "date": "2014-04-21T17:46:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 40967582,
+      "date": "2014-04-21T19:28:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 41082554,
+      "date": "2014-04-22T19:21:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 41082720,
+      "date": "2014-04-22T19:22:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 41101374,
+      "date": "2014-04-22T22:00:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44205784,
+      "date": "2014-05-26T17:20:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44205819,
+      "date": "2014-05-26T17:21:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44217756,
+      "date": "2014-05-26T20:59:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44221566,
+      "date": "2014-05-26T22:30:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 44222130,
+      "date": "2014-05-26T22:45:34Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45454839,
+      "date": "2014-06-09T01:34:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45510716,
+      "date": "2014-06-09T16:23:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45512413,
+      "date": "2014-06-09T16:37:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45540933,
+      "date": "2014-06-09T20:38:03Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45551174,
+      "date": "2014-06-09T22:13:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45552096,
+      "date": "2014-06-09T22:23:54Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45552874,
+      "date": "2014-06-09T22:32:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45554596,
+      "date": "2014-06-09T22:53:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45573618,
+      "date": "2014-06-10T04:50:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45574255,
+      "date": "2014-06-10T05:06:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 45635603,
+      "date": "2014-06-10T16:13:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 46097498,
+      "date": "2014-06-14T19:36:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 46767249,
+      "date": "2014-06-21T23:02:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 46884040,
+      "date": "2014-06-23T18:35:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 50247127,
+      "date": "2014-07-26T20:11:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 50362034,
+      "date": "2014-07-28T16:28:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 50365244,
+      "date": "2014-07-28T16:52:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 52380514,
+      "date": "2014-08-16T02:48:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 52525971,
+      "date": "2014-08-18T17:30:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 52536841,
+      "date": "2014-08-18T18:47:07Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 53648020,
+      "date": "2014-08-27T22:08:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 54543065,
+      "date": "2014-09-04T20:52:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 57414764,
+      "date": "2014-10-01T03:31:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 61598272,
+      "date": "2014-11-04T06:21:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 61907269,
+      "date": "2014-11-06T00:22:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 62773674,
+      "date": "2014-11-12T19:02:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 62779551,
+      "date": "2014-11-12T19:37:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 67042498,
+      "date": "2014-12-15T18:40:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68313679,
+      "date": "2014-12-29T23:07:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68314812,
+      "date": "2014-12-29T23:23:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68478127,
+      "date": "2015-01-01T01:43:07Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68478377,
+      "date": "2015-01-01T01:59:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68550103,
+      "date": "2015-01-02T18:39:21Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68611495,
+      "date": "2015-01-03T22:07:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 68644025,
+      "date": "2015-01-04T18:55:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 69683724,
+      "date": "2015-01-13T02:00:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 70421579,
+      "date": "2015-01-18T19:25:24Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 70563516,
+      "date": "2015-01-19T21:24:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 72765909,
+      "date": "2015-02-04T00:21:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 74767509,
+      "date": "2015-02-17T22:20:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 76430478,
+      "date": "2015-02-27T17:07:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 77042033,
+      "date": "2015-03-03T21:42:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 77096405,
+      "date": "2015-03-04T04:45:34Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 77222333,
+      "date": "2015-03-04T19:02:14Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 83911671,
+      "date": "2015-03-20T05:23:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 86336674,
+      "date": "2015-03-26T04:24:17Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 86347779,
+      "date": "2015-03-26T05:24:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 86599345,
+      "date": "2015-03-26T16:15:00Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87051178,
+      "date": "2015-03-27T18:50:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87055864,
+      "date": "2015-03-27T18:58:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87067829,
+      "date": "2015-03-27T19:39:02Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87101420,
+      "date": "2015-03-27T21:48:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87101997,
+      "date": "2015-03-27T21:50:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87121184,
+      "date": "2015-03-27T23:34:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87145867,
+      "date": "2015-03-28T02:25:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87146084,
+      "date": "2015-03-28T02:29:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87150167,
+      "date": "2015-03-28T02:47:57Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87153313,
+      "date": "2015-03-28T03:08:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87154181,
+      "date": "2015-03-28T03:32:15Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87154553,
+      "date": "2015-03-28T03:34:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87335283,
+      "date": "2015-03-29T00:41:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87335312,
+      "date": "2015-03-29T00:42:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87335513,
+      "date": "2015-03-29T00:49:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87358739,
+      "date": "2015-03-29T04:59:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87358769,
+      "date": "2015-03-29T05:01:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87495794,
+      "date": "2015-03-29T23:20:02Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 87842112,
+      "date": "2015-03-30T21:49:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88130440,
+      "date": "2015-03-31T15:22:56Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88133168,
+      "date": "2015-03-31T15:29:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88137607,
+      "date": "2015-03-31T15:41:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88174861,
+      "date": "2015-03-31T17:12:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88185695,
+      "date": "2015-03-31T17:48:09Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88542552,
+      "date": "2015-04-01T16:26:31Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88677772,
+      "date": "2015-04-02T00:57:23Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 88693123,
+      "date": "2015-04-02T02:03:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 89481323,
+      "date": "2015-04-04T01:53:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 90156883,
+      "date": "2015-04-06T17:02:11Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 90161104,
+      "date": "2015-04-06T17:18:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 90171051,
+      "date": "2015-04-06T17:48:21Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 92151583,
+      "date": "2015-04-12T23:38:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 92155687,
+      "date": "2015-04-13T00:05:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 92921237,
+      "date": "2015-04-14T15:48:34Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 93778142,
+      "date": "2015-04-16T16:28:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 100726390,
+      "date": "2015-05-11T00:57:21Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 100726531,
+      "date": "2015-05-11T01:00:07Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 101077265,
+      "date": "2015-05-11T23:57:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 101077298,
+      "date": "2015-05-11T23:57:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 101542152,
+      "date": "2015-05-13T07:04:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 101695301,
+      "date": "2015-05-13T14:46:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 102028183,
+      "date": "2015-05-14T12:54:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 104801018,
+      "date": "2015-05-22T23:28:33Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 104805516,
+      "date": "2015-05-23T00:10:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 104806063,
+      "date": "2015-05-23T00:18:34Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 105038654,
+      "date": "2015-05-24T17:00:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 105296409,
+      "date": "2015-05-25T19:37:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 107112979,
+      "date": "2015-05-31T02:38:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 107651049,
+      "date": "2015-06-01T17:41:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 114346569,
+      "date": "2015-06-23T03:53:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 117341671,
+      "date": "2015-06-30T21:05:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 122595835,
+      "date": "2015-07-18T20:39:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123421449,
+      "date": "2015-07-21T18:14:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123555201,
+      "date": "2015-07-22T03:42:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123556856,
+      "date": "2015-07-22T03:50:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123556949,
+      "date": "2015-07-22T03:51:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123557165,
+      "date": "2015-07-22T03:54:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123795525,
+      "date": "2015-07-22T17:13:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123801287,
+      "date": "2015-07-22T17:31:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123936427,
+      "date": "2015-07-23T02:31:10Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 123936638,
+      "date": "2015-07-23T02:31:48Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124178419,
+      "date": "2015-07-23T17:45:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124310101,
+      "date": "2015-07-24T03:29:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124337024,
+      "date": "2015-07-24T05:47:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124583958,
+      "date": "2015-07-24T17:15:21Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124584385,
+      "date": "2015-07-24T17:17:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124606258,
+      "date": "2015-07-24T18:14:37Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124608408,
+      "date": "2015-07-24T18:21:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124790798,
+      "date": "2015-07-25T02:46:01Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 124790878,
+      "date": "2015-07-25T02:46:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 125022453,
+      "date": "2015-07-26T17:47:49Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 125023967,
+      "date": "2015-07-26T18:09:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 125024553,
+      "date": "2015-07-26T18:18:18Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 125740112,
+      "date": "2015-07-28T20:14:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 125740207,
+      "date": "2015-07-28T20:15:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 125787487,
+      "date": "2015-07-29T00:18:43Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 127408628,
+      "date": "2015-08-03T21:18:41Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 127415802,
+      "date": "2015-08-03T21:49:30Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 127424871,
+      "date": "2015-08-03T22:42:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 130871547,
+      "date": "2015-08-13T22:53:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 132343499,
+      "date": "2015-08-18T20:37:54Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 134746243,
+      "date": "2015-08-25T21:25:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138126558,
+      "date": "2015-09-06T21:20:39Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138128293,
+      "date": "2015-09-06T21:43:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138139684,
+      "date": "2015-09-07T00:18:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138139733,
+      "date": "2015-09-07T00:19:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138139837,
+      "date": "2015-09-07T00:22:34Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138143408,
+      "date": "2015-09-07T00:39:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138148523,
+      "date": "2015-09-07T00:56:16Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138148687,
+      "date": "2015-09-07T00:57:44Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138152565,
+      "date": "2015-09-07T01:28:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138348165,
+      "date": "2015-09-07T17:52:27Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138416958,
+      "date": "2015-09-08T02:56:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138688731,
+      "date": "2015-09-08T20:23:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138712871,
+      "date": "2015-09-08T21:43:28Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 138719837,
+      "date": "2015-09-08T22:17:38Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 139337475,
+      "date": "2015-09-10T18:34:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 139346761,
+      "date": "2015-09-10T19:04:36Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 141724586,
+      "date": "2015-09-20T01:44:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 141748159,
+      "date": "2015-09-20T04:40:21Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 146919359,
+      "date": "2015-10-09T16:25:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 146933206,
+      "date": "2015-10-09T17:04:53Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 146951439,
+      "date": "2015-10-09T18:12:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 146953079,
+      "date": "2015-10-09T18:19:59Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 147235180,
+      "date": "2015-10-11T18:56:08Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 152677747,
+      "date": "2015-10-31T00:19:25Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 156301289,
+      "date": "2015-11-13T02:24:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 156301693,
+      "date": "2015-11-13T02:26:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 156570923,
+      "date": "2015-11-13T21:58:32Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 156840978,
+      "date": "2015-11-15T18:14:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 156888093,
+      "date": "2015-11-16T01:48:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 156888193,
+      "date": "2015-11-16T01:50:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 4435871,
+      "date": "2012-03-11T01:30:04Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 30009310,
+      "date": "2013-12-06T16:48:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 30282897,
+      "date": "2013-12-11T00:23:42Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 258,
+      "date": "2015-09-09T08:33:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 254,
+      "date": "2015-09-07T00:39:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 240,
+      "date": "2015-07-22T03:42:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 233,
+      "date": "2015-05-31T02:14:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 229,
+      "date": "2015-05-22T23:27:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 227,
+      "date": "2015-05-13T06:59:29Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 128,
+      "date": "2014-05-05T08:34:19Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 75,
+      "date": "2014-02-02T20:37:22Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 72,
+      "date": "2014-01-27T02:32:26Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "pr",
+      "id": 39,
+      "date": "2013-09-15T00:09:20Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "tmm1/http_parser.rb",
+      "type": "pr",
+      "id": 18,
+      "date": "2012-03-11T01:23:47Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 257,
+      "date": "2015-09-09T04:36:46Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 256,
+      "date": "2015-09-07T01:13:13Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 241,
+      "date": "2015-07-24T03:38:45Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 230,
+      "date": "2015-05-23T05:23:55Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 171,
+      "date": "2015-01-02T18:17:50Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 96,
+      "date": "2014-03-13T07:25:58Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 57,
+      "date": "2014-01-16T07:51:40Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 54,
+      "date": "2014-01-13T20:46:06Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 37,
+      "date": "2013-09-14T18:16:12Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 34,
+      "date": "2013-09-11T06:16:35Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 32,
+      "date": "2013-09-09T21:07:51Z"
+    },
+    {
+      "dev_id": "tarcieri",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 25,
+      "date": "2013-06-14T21:11:02Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "23a1fb5b5a0dc4506995a34ff149f450b8ceaf64",
+      "date": "2012-02-21T12:09:25Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 141950232,
+      "date": "2015-09-21T11:49:10Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 141950612,
+      "date": "2015-09-21T11:51:57Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 142019745,
+      "date": "2015-09-21T15:41:33Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "httprb/http",
+      "type": "com",
+      "id": 142021349,
+      "date": "2015-09-21T15:44:43Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 4073777,
+      "date": "2012-02-21T12:26:20Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 4073926,
+      "date": "2012-02-21T12:38:37Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 4107957,
+      "date": "2012-02-22T16:46:09Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 16587390,
+      "date": "2013-04-18T16:30:31Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 18417127,
+      "date": "2013-05-24T16:58:09Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "tmm1/http_parser.rb",
+      "type": "pr",
+      "id": 14,
+      "date": "2012-02-21T12:17:56Z"
+    },
+    {
+      "dev_id": "headius",
+      "repo": "httprb/http",
+      "type": "issue",
+      "id": 239,
+      "date": "2015-07-21T15:05:19Z"
+    }
+  ]
+}

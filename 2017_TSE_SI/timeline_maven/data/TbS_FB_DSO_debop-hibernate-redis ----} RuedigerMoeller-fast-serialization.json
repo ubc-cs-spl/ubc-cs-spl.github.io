@@ -1,0 +1,6537 @@
+{
+  "user_repo": "debop/hibernate-redis",
+  "dep_repo": "RuedigerMoeller/fast-serialization",
+  "dep_date": "2014-03-19 09:36:52 UTC",
+  "dep_commit_id": "5489196e6196e36913987066eeedddcefacf9678",
+  "social_date": "2014-03-22 09:52:06 UTC",
+  "devs": [
+    "RuedigerMoeller",
+    "debop"
+  ],
+  "interactions": [
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3fa4aec322ff3be71d592be1e0f054cec0d830da",
+      "date": "2015-05-06T16:15:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "417bbdc96572f612b9210c72d66a8a22556b8bfb",
+      "date": "2015-05-05T20:04:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "40fb586d2ab51c0ff4e1f0f0b1cabab3261c605b",
+      "date": "2015-05-05T16:08:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2ab1b1179e280a64fd8d6b860edb961d8b9e0282",
+      "date": "2015-05-04T23:37:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0991baeb996d09175f04f377b660162bbf4a538d",
+      "date": "2015-05-04T23:33:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "82b116d84d78f9da66568b6fe76a6a64cd4953cd",
+      "date": "2015-05-04T23:15:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7ac1dbbbbfe78af7bc59300f753ba311faec5678",
+      "date": "2015-05-01T19:59:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8100ea3e877ef236e8b004f5cf012835db62bb17",
+      "date": "2015-04-30T11:56:00Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "38a5eb2ece62c3c0644e05e0ca1af8b2f93ab481",
+      "date": "2015-04-30T11:47:41Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ca7cd4bc54757c6b062588f9cd6d9fa45b2c48ac",
+      "date": "2015-04-23T12:20:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4ef14510fcec9250aa73401c7e8160f92efc7720",
+      "date": "2015-04-23T12:09:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d702a1a3ca5299f8d0c854f170f469cd7c27157d",
+      "date": "2015-04-23T11:46:00Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "856d4c2cf24868498f086407598cbe3f4801ad87",
+      "date": "2015-04-23T11:24:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d3fe6ef626f21dede9a60da1cd13a25f747beccb",
+      "date": "2015-04-22T23:28:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "67f71b45cf60124b4af743677e29b28857a3d43e",
+      "date": "2015-04-22T23:01:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e7e95056eb228feefb1aec4d069bdd4bd9c5fd0c",
+      "date": "2015-04-14T21:16:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "363d820b04335757cafd28b08bac1bfa91ffc9b9",
+      "date": "2015-04-14T21:08:52Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "30769377febb644c8cf82b66ed5f915ceb1c77e8",
+      "date": "2015-04-14T16:40:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1cc77ee5047e2ac4c568045310c6f6c4ebff7127",
+      "date": "2015-04-14T16:15:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7141a7b3caca0a81b277c5bc5df4718fe35833c5",
+      "date": "2015-04-13T19:53:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e3720dbc87edda26b728975465e21ca826a00f23",
+      "date": "2015-04-13T18:37:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "baa7bebcf59554113856bdc1af0705da96c86b3c",
+      "date": "2015-04-13T18:32:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8236d970a8f184342a16a494ad847f0701a23d0e",
+      "date": "2015-04-11T00:59:48Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "967b61affb97a553641055a95071a85b09a4969e",
+      "date": "2015-04-08T11:51:25Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f4d1d7baa1a31ea343c50c173571eedc69ee1e72",
+      "date": "2015-04-08T00:33:29Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ae517014e10c6af2e1b7a8f8664e2c98abae4147",
+      "date": "2015-04-08T00:33:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f9b95c1517f76c2a0a86541e6fb6dc075e99d22c",
+      "date": "2015-04-07T00:30:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ae1b9a8d84225a5a4fe13661a4b351a43560b722",
+      "date": "2015-04-07T00:29:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3f7061cc96f1466b40bfb5a80f35d899c9d07265",
+      "date": "2015-04-07T00:28:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e84a4f5639164ad374c4c1edbda4c8d563bdc01d",
+      "date": "2015-04-07T00:27:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "65542c5d3a8983b2c5fd6bd57d31e498aa60313f",
+      "date": "2015-04-06T11:09:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "10eb044f1abea0f1953e292694039eb7e979b9d9",
+      "date": "2015-04-06T01:43:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9d43e1312bebe76b62864be51244c225e0ed9968",
+      "date": "2015-04-05T09:59:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "61baec5de3673a09d6c8d2a1a4a8ac075dc21335",
+      "date": "2015-04-04T14:06:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "588bdd035d6e5ad237bca89cb6372bec8b8e8c10",
+      "date": "2015-03-24T02:04:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7a5c37df8d2220f80d3e0e6f7dd9a40da6f9197e",
+      "date": "2015-03-20T20:58:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a259748e6fb259e98e9402166f9fe145f589520a",
+      "date": "2015-03-20T01:05:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3fda47afef8966af1f07cca09d720ecf3811b332",
+      "date": "2015-03-19T20:34:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "36d3462d21c08ac6aa7783b85dbc1314f2d3ca88",
+      "date": "2015-03-01T23:37:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ee9da3410b852359d0fda05653831a71f605fd22",
+      "date": "2015-03-01T23:07:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "559ba692f824f219e7789981d62edfead6f113f1",
+      "date": "2015-03-01T21:37:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f8508001d4f9151e666be2f6c55fc8305eaf7251",
+      "date": "2015-02-22T11:48:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0778d6666f4439a7a781c0b42ec8bbbe0dbdf63b",
+      "date": "2015-02-08T20:38:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7906cfbe0d94f8cef62ec633829e60293f83519c",
+      "date": "2015-02-08T20:21:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2971c3ad4bd7855273ec8e2611483595a00c8676",
+      "date": "2015-02-08T20:17:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2143d1c9a7ddfe5674a07e16a14db03c76e9206a",
+      "date": "2015-02-08T19:53:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d9949e232c453d8a6b8e749cfe0d285a029a94ba",
+      "date": "2015-02-05T22:56:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "15c41b66c2511136581e10eda37a8da819979a86",
+      "date": "2015-02-05T22:41:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4160c244e1ce30d0af6c8e04272b1b523028942a",
+      "date": "2015-02-05T20:58:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "deab257285134b8177f95175505624fec0734a73",
+      "date": "2015-02-05T18:34:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f15b1a64ea57678e637ecb9b813ce632a5140e18",
+      "date": "2015-02-03T16:34:18Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7dde17022f099ca3be99d01256b81158d2a2183a",
+      "date": "2015-02-03T16:05:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0254141ad505450ff67688017958ad6341dcf8fd",
+      "date": "2015-02-03T16:03:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6734bf50528e50104d552f1630d7fe1a94fb824d",
+      "date": "2015-02-03T16:03:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "27971ff736ba943b86e8e3bfabbe25f9ce840fa3",
+      "date": "2015-02-03T16:02:48Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "db5896d1b4a24901775c81e5e82e54c83b01e9c5",
+      "date": "2015-02-03T16:02:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1a8fc8268952f44ef25d3dba09a7f2b94c2c3604",
+      "date": "2015-02-01T13:20:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9810fca730f29e1998ef03aa880ddd50b2413270",
+      "date": "2015-02-01T13:18:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6ccb6cf4d82a89ea355c6059dc9d058ba7ffa7f0",
+      "date": "2015-02-01T11:58:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f974721c5cbb86ee6f497482b5837d32fb9d92e9",
+      "date": "2015-01-04T19:56:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "bbf4f1a29a82f19105a99e6b750fe6103d925de1",
+      "date": "2015-01-04T19:27:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "27e5b8a1eb0a43bee14e78d71ab427a202635a0a",
+      "date": "2015-01-02T02:16:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f1776a68b85e52e1caa1a7c1fe4c1ceac262b754",
+      "date": "2015-01-02T02:16:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1b9b88ce4d01599ae0478b7722306a837942cbb4",
+      "date": "2015-01-02T00:11:10Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "89801148cc6a1fef4e3e9eedc2e1765a9e645716",
+      "date": "2014-12-27T20:25:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "529299780e146fec3b930282231fe225c7fcda97",
+      "date": "2014-12-27T20:18:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "df81b104bb058ad09b4dff26ea2f7a7811c2bea4",
+      "date": "2014-12-24T21:49:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f97b26b1ee49f4e758810bfe0ad9ab4bedd482c2",
+      "date": "2014-12-23T17:40:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9d009b513ceec6a0aa8707552e8b24745891f557",
+      "date": "2014-12-21T13:19:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "899a4e40a4e1bbf6aa4999272c019841ee2a1b80",
+      "date": "2014-12-17T20:45:25Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b35e62fdbcfaa5df6ac67175dd635d743e8e43ed",
+      "date": "2014-12-17T15:30:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d0aee5ed7fbe65a43fa3009132b1fe100bf4f5a2",
+      "date": "2014-12-14T20:51:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d3e0e1a2d42c6b67796772afa068c1ea12a8f77b",
+      "date": "2014-12-14T18:36:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c3706cb7d9634582965ea167ed76baa394d690f3",
+      "date": "2014-12-14T18:33:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "efe1b79765cdc846eba4e85ad9aa4d4454971561",
+      "date": "2014-12-14T18:32:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7b5897fca0d22a155c6708749afe5bf43e01b573",
+      "date": "2014-12-13T15:01:23Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "979830d4e7206888681e2cb68ec7581c06b90281",
+      "date": "2014-12-13T14:44:52Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "038cff96e6a6d8eca627c56f014ccc7ffc84f9c7",
+      "date": "2014-12-13T14:44:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "20f241581b0e20870a4101e6f7d9349ee4704dcf",
+      "date": "2014-12-13T14:34:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1493b99f4b8f4e0ab07e5a7abd96dcf530ed7450",
+      "date": "2014-12-13T14:33:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8fe5ca4416291a6cd4f9ea997fa7e64d57497d1f",
+      "date": "2014-12-13T14:33:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3154b47fe78c95cda02e171a107795fde535c78b",
+      "date": "2014-12-13T14:31:19Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "067d005200b9ef86d002266c47065da1cd71f078",
+      "date": "2014-12-13T14:31:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dc9df3709aea87e696c6ad5e5f62467c39a2bc3c",
+      "date": "2014-12-13T14:29:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "040ebf999101fb173a2801ab71b60978f66f43a3",
+      "date": "2014-12-12T16:50:19Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "47796319eda89467f4ed9d13fa68f27fffcb1c20",
+      "date": "2014-12-12T09:48:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3ac19ca2ba7cbc2b74fd66e0ddd8cdd5ce601c3b",
+      "date": "2014-12-02T11:40:23Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e4c5f53df6ede9c7c8304e568c5a15eca9361ec5",
+      "date": "2014-12-01T20:55:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "365e1565c94870dffe2abfda2d68d4876906907a",
+      "date": "2014-12-01T01:40:23Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "454eb33d63599c4988a6e723563eadaad8cebc8f",
+      "date": "2014-11-30T00:39:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "243098d6ed1988b4943e7ca0a93b2724edb17668",
+      "date": "2014-11-29T01:02:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "52717162eae78e1ab940f028415dad31c269a9ae",
+      "date": "2014-11-29T01:02:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a914481ebdf0d769de3c9168ef7a76a145f43577",
+      "date": "2014-11-29T00:57:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b95415ecfe97aa5dbfa5ce028c0449c9b3441af4",
+      "date": "2014-11-29T00:56:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c602e233ca586f71f792c444d4f00fa346a153e5",
+      "date": "2014-11-28T18:17:19Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "720242e1ebfe44fea8f6a78d66d4d46674b535fb",
+      "date": "2014-11-28T18:11:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "492e0f25ae0d75cd81bacbbc89b764c677cfa8fb",
+      "date": "2014-11-28T18:08:10Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e03458703d462dbb36a34afb5d6aebb4c0e7e0ae",
+      "date": "2014-11-20T01:35:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "123cd079dc7d81b61cfa3019fce84809903cb002",
+      "date": "2014-11-20T01:13:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e3e7013e1d63af2bdc09f31717bd5a1e6381e8b2",
+      "date": "2014-11-19T22:04:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d2c02e85c22697346d782e20f3418a1843e42e01",
+      "date": "2014-11-19T22:03:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d672a7a43b26aaecbf865f4119e6fbe011c64c90",
+      "date": "2014-11-18T02:17:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3ba932df9827dc9a80debed8d1c505d19523878d",
+      "date": "2014-11-17T16:46:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f8676d15630343aab42683bc03e12ac0e4ff3387",
+      "date": "2014-11-16T20:26:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "90f57483662910f1ca8263f7c97dc4ed3245ab0e",
+      "date": "2014-11-16T20:26:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e320ffaf59d58df5cde5cf2e33cac79b437910ea",
+      "date": "2014-11-15T11:43:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "16a31306b7f8993d59a9f072d9be0a8150e8bc92",
+      "date": "2014-11-15T11:38:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "fc6a01f7ab263a7f92ee560c4e2ca1dabe94f254",
+      "date": "2014-11-15T11:23:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "706028e51daa38fb1cabf1e5ff320a2fc4494823",
+      "date": "2014-11-15T11:13:20Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "5b08840c1678d1392be7c6d863beae63d650222a",
+      "date": "2014-11-15T03:45:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b7005aaf921db43fb5d106b3f277bdc9a335357c",
+      "date": "2014-11-14T02:32:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "63db0cac87bc8aa7852fd91d137a20150c25c6bb",
+      "date": "2014-11-14T01:11:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "892de7f6ba33af46e93435b2b0dacc649cc7c9f9",
+      "date": "2014-11-14T01:06:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "fa1e0d02a20b169d976cf7a1f35e430e2185540e",
+      "date": "2014-11-13T21:05:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "bacb6f6edb1c3019e4fca88a6d25a30a46d81c40",
+      "date": "2014-11-13T17:40:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "41fe47230e7735495bbd654e181a07196e6d1152",
+      "date": "2014-11-13T14:00:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "008465dff3b93ab2b62d3f9051ce5210aaf2c3cd",
+      "date": "2014-11-11T20:57:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "734fd3993e9dcdd38a86e298099ae760173a5c02",
+      "date": "2014-11-11T20:50:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4a14523894a8b2a6e06efce32fad5a8198e8f52a",
+      "date": "2014-11-11T03:10:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "bcc913f7bd16e34e344dabddf50fc4f5f1763afb",
+      "date": "2014-11-11T02:41:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d449c4da25be0621ce4024ae46ba092e2d8690d1",
+      "date": "2014-11-10T20:58:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "abc4eadb14bef47b225dcbfcd565e59a98406eb4",
+      "date": "2014-11-10T00:41:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7afb325de525be58371cd8a5638227ad212a492f",
+      "date": "2014-11-10T00:15:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8f515494258335edc7fc8fb14ba94fb0c0fd59ac",
+      "date": "2014-11-09T00:32:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "912aa9c448ad2a9902eebfb871f015715bd7d0ff",
+      "date": "2014-11-08T00:08:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ead611b609ee8f37acdf767d1aa77bb587392e4f",
+      "date": "2014-11-07T19:31:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a4f3b5560b43233207d2067daa027554e586b74d",
+      "date": "2014-11-04T20:48:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "03679886a51dbff981b36406f58d8acac315cab7",
+      "date": "2014-11-02T20:57:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d1fa74521669a6a7a2376b605823ca9fa6320809",
+      "date": "2014-11-02T02:35:18Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d7dd6c4ac3c6ec217bcc08b1c4abe22cebbe33e5",
+      "date": "2014-10-30T19:40:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a0cf98a032e12419ac8d347119d732561edca55c",
+      "date": "2014-10-30T19:39:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d2986971d44f3697c6dbd26c6c8806eac72761ad",
+      "date": "2014-10-30T19:39:10Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "886f12a3aa5ce79bed9ff531c418ab19a5e5e961",
+      "date": "2014-10-30T19:37:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e043fe50126cebe5fa6f4100388e2c8d934592f3",
+      "date": "2014-10-30T19:11:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6c587799edaadd5b0b5e7b5571499b403f682947",
+      "date": "2014-10-30T18:55:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "10b2b9d1ac68c8487f8404823ae884c6858b8a39",
+      "date": "2014-10-27T20:53:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1408adb5dc97fcc29b29355a60de62dab23d005c",
+      "date": "2014-10-27T20:53:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1060a468a3d2af5d2f8de0d99acbcd777cb6d2cd",
+      "date": "2014-10-26T19:03:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "631dc390b634463e2868499a6f730c3824d3f0f4",
+      "date": "2014-10-25T13:26:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "77f2939ef4b8221b4f68ca67a2f1011c76301076",
+      "date": "2014-10-24T13:58:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3ae2384843e8abab831169bd846b07617c4f35cf",
+      "date": "2014-10-22T00:26:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9e2495f64dbf2a5d398e9b2f310b6ca62158c788",
+      "date": "2014-10-19T19:04:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d796c4fd6c7ea925bf7ce02bb1590211c45693c6",
+      "date": "2014-10-19T15:09:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2b9c28a0f4ee44570018f16c0180021593f01b1c",
+      "date": "2014-10-19T15:05:23Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ecc3f8a251cef59602c5f2302363812f143ffa39",
+      "date": "2014-10-19T15:02:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9d3537237cc02f765754937d286eadee93ccb9fd",
+      "date": "2014-10-13T21:23:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "bf33027e99a5f52c887b51b89b9058412dfd53e2",
+      "date": "2014-10-12T19:05:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3d1d82af5ab3509502fb26c7d3b60c782c829f94",
+      "date": "2014-10-12T16:26:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "35da3df9d983507f062859fbdddcf911fd474597",
+      "date": "2014-10-12T00:29:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f06599bb7760216250d2d9374415a28855ca1fb9",
+      "date": "2014-10-09T00:24:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f46c37f47aacc0a464d08dff5b03211630e80db2",
+      "date": "2014-10-08T19:55:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6445a8d418f52270e743541a3442dce3293a42ae",
+      "date": "2014-10-07T20:12:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ee98673dfcb69238645f1e897061a825a62597d4",
+      "date": "2014-10-07T20:07:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "35b39f632a686a3a7a1f8e62ba50199ccf6bd0d4",
+      "date": "2014-10-07T00:25:34Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f7e54cae56797238d1722062f27a983b4e56bd37",
+      "date": "2014-10-05T19:12:08Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f622a8f5ec6913d01c73a07cd617b978adddf7db",
+      "date": "2014-10-05T00:43:29Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f09b988f1505bbf78e4604e86c3346820db2e0fd",
+      "date": "2014-10-05T00:43:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "480487aca9475daf769366c75dde35a185cb1b41",
+      "date": "2014-10-04T15:02:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "390d747f072d7969d94db2f4681c83fd170ea32c",
+      "date": "2014-10-04T00:56:18Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "cc81180a1385f2d216ea598e2abb3f9cba5b3225",
+      "date": "2014-10-02T00:07:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c04ffc61352c1b32f4ffa725422053493be4bf25",
+      "date": "2014-10-01T20:03:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7dcc8700c6ed6c42318dd4fc91e65f3a1f738f29",
+      "date": "2014-10-01T20:03:00Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7805fdb77ffd5e462f7b9f17dfc46f0d55284bb1",
+      "date": "2014-10-01T16:59:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "19ae85e245ec39ad90dda94b2f7f5371fb725a69",
+      "date": "2014-10-01T16:59:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "5affc770b786f7eff2c63b4eb0d2ed47389f0920",
+      "date": "2014-10-01T16:59:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "de346f7481d0c78149b1abe8c3cf0ca8f1e9b617",
+      "date": "2014-10-01T16:29:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a2d6f496caf0b39399b5718f790a28200d3c7f67",
+      "date": "2014-10-01T16:00:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dee0d44951ddc3bb2d0ef08db277fa41d653626a",
+      "date": "2014-09-30T21:21:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "5b7675826269cf681df4fcf5bcc7ffbe1bdc71a1",
+      "date": "2014-09-27T09:56:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e854d4a858be4fe10ae7006b370955ef011392a5",
+      "date": "2014-09-27T09:54:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "70966555991c7065caf38b0ffd1d1154beea85e2",
+      "date": "2014-09-27T09:55:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "cd3fa7422a48375eb7f1d9027293eeeb96a482d0",
+      "date": "2014-09-27T09:47:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b4c63526caa03918c0b1a0b74cb943d3cefbbfbd",
+      "date": "2014-09-27T09:44:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c9c92b4787ad5506931b10b9a15640f0cf90e5d0",
+      "date": "2014-09-27T09:41:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "20b88c53e32b07218aee514969be04aa010b85fa",
+      "date": "2014-09-26T18:30:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b71c7c5c25ee4986373b22e8c17ff4b7e39aca3c",
+      "date": "2014-09-26T18:29:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0ce6b9fd766f9af2ef4578715a958a9739f6b2d4",
+      "date": "2014-09-26T18:16:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2a22330c8e2f3aa9f89ca54cf9d7a8a24ba6ebb3",
+      "date": "2014-09-25T22:35:18Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1f194b1dd661242356ee842a758154a880a669d8",
+      "date": "2014-09-25T20:30:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "fe55e54157f7bbdbc59943cbf5c9151c1e6dac61",
+      "date": "2014-09-25T19:56:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7eaf1dd607749323a67037da9c91dc07492895f7",
+      "date": "2014-09-25T19:53:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "522a7d7420249d0b7a65e9f379184756a556d353",
+      "date": "2014-09-25T19:01:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "387259f0bb4fac72ac7cbd9fe5ed77075cb60a68",
+      "date": "2014-09-23T14:14:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d398a117859511f04c6015bba5429ef1c7e15e24",
+      "date": "2014-09-23T13:33:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1d85823d6968fcfc89a9817a325fed9787f1ceab",
+      "date": "2014-09-23T13:17:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8b9628ab58f622181d7ecbb4e637d48f13ab1906",
+      "date": "2014-09-23T12:17:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "75768e19b005bf789d95f49da1a7fe22c6ea5863",
+      "date": "2014-09-23T12:17:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a89ffa2d2ca778c353234b9f1f4a2f8e93c1c84c",
+      "date": "2014-09-20T11:44:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d0e264a97220b070a460717f77182bbeeafcc7f9",
+      "date": "2014-09-20T11:08:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3e019d945e5308168512e1b8d3267fb1843617ec",
+      "date": "2014-09-20T08:36:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8a6b8f090045ad00f2ebe9b31bcb921f2110cf6a",
+      "date": "2014-08-27T21:04:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c421562753e6c32f5b0d0c27fc3c862e458ce615",
+      "date": "2014-08-27T21:04:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2d19edfee82dd30febc4f41610d2c43b492798b7",
+      "date": "2014-08-25T16:58:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "10ccbb125ed03b1a57ad7510cca72d6ea8b22b4b",
+      "date": "2014-08-24T17:40:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4881d8ef84f44b70b598572880082d5d297118c3",
+      "date": "2014-08-24T14:43:08Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b5623f8af03a0f9cdafee465d58829244bbc0b7b",
+      "date": "2014-08-22T18:00:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "cc198e761d9ebc2d6f52623dadc0916582a61c9f",
+      "date": "2014-08-21T18:44:18Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7b574b1f18e0efe6437bcf0523181a9467c5a09f",
+      "date": "2014-08-20T17:32:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ee3f25f6e89e900908c2189f11eb1c2f86eec658",
+      "date": "2014-08-20T17:00:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "76ab428fd7c1938d54e89e9a48e61350621c098e",
+      "date": "2014-08-20T14:17:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "671b2e36a3fff87ee17df91326447048f08c4d9b",
+      "date": "2014-08-20T13:59:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f478656d18967418695624ed4430a5c49f054adf",
+      "date": "2014-08-20T13:10:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6b8529ca7b1cc0c017f30838cf2b2f9b4e675b1d",
+      "date": "2014-08-20T13:09:52Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "20c7b796c1475fb218bf3196d5d9f6e6a5508cc6",
+      "date": "2014-08-20T01:21:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "712de9bb8acfcc9d0a79aa8dfdc7f671929bc18c",
+      "date": "2014-08-19T22:19:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1cb85cb95967efcf1d5762ccc942dafd8df5177c",
+      "date": "2014-08-19T17:48:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3a7d5bb4f8991fcf0dee476137e3572fd4c06bcc",
+      "date": "2014-08-19T17:47:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "834e38d5d9d99a7fec86d1b558c172168278c6cb",
+      "date": "2014-08-19T17:42:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7ed0451249d6e118c928900e9cb2c29019898153",
+      "date": "2014-08-19T15:12:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9beda60ecc8d6bbc6199c379945fc8c34e9be856",
+      "date": "2014-08-18T19:06:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "70a3ce828fa869b6106809a1727b768afe40e4f6",
+      "date": "2014-08-15T23:34:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "619155dc9fe24ee84d0cb20822480f8feea63621",
+      "date": "2014-08-15T20:27:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "afe157212aec42db94a28a256d2c2bb8d4ef5ee3",
+      "date": "2014-08-15T00:11:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "187be6091f5fef0c97653da9753c969544cebec7",
+      "date": "2014-08-14T15:24:25Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1001d9a625a0c1ce3ccfeede4031ed96aab499cb",
+      "date": "2014-08-13T00:08:41Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c78e9f4f957e41fe52cd29682b3d3fe4d6da5405",
+      "date": "2014-08-09T14:07:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "76b3689f58ea5abf28c9639ffd2577aadde2e9fa",
+      "date": "2014-08-09T10:16:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1ded53432289e3bad5fce33bf1ad1cc0437e934d",
+      "date": "2014-08-08T00:42:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1db52fd8faae9a76ac00afab61231115f3a550c0",
+      "date": "2014-08-08T00:02:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "22e7cffd901aef27fa3db5c93155db55a5adf189",
+      "date": "2014-08-07T23:59:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ff82ddc2907807d550eff2acf14734ec8e1f133b",
+      "date": "2014-08-06T23:47:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4a0cbe065f611fa55ad05520739518be3d96f36e",
+      "date": "2014-08-06T18:31:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1a68993a1b6f7a0613c893f6bac6b07a94451335",
+      "date": "2014-08-06T18:04:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1d53cc5ca49dd171cd76b927cf411575175593fb",
+      "date": "2014-08-06T17:32:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3bfa6a994be71bd44326f883c9299d509a0b2597",
+      "date": "2014-08-05T19:47:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "53c4bf8fbbea1628000382bca274bd9bc033141b",
+      "date": "2014-08-05T00:45:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "38552b25194580a30442081ae93bfa709bf6f9bc",
+      "date": "2014-08-04T20:51:29Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "311fa437a6075f26c52a412b73e40812d436ffca",
+      "date": "2014-08-04T20:51:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2c9328cdf4fb26baf5e5f648930ffa0fb73ad306",
+      "date": "2014-08-04T20:40:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "071a674b507b418d899457f80d573af886fa37e8",
+      "date": "2014-08-03T18:45:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "58b2d36fdea3260d3a6649d198bfa7ff6bbc2b2d",
+      "date": "2014-08-03T03:46:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1a4dec2b6e660cc240935e249f60e3d71679cb3c",
+      "date": "2014-07-29T19:39:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "48291a0c55a582a8f415365ceef8113710c18646",
+      "date": "2014-07-24T00:53:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b24be6849ec9e33ce68d733f0a4d3b0d72978666",
+      "date": "2014-07-20T03:05:34Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f6dcf177c2e629e52d62bdb407f0b51ec888b5ab",
+      "date": "2014-07-13T17:37:08Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d20bb37903762daf1f238cacc4b5ad5e3c967e47",
+      "date": "2014-07-11T19:19:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "27bd414d02039464740c86d733d1441cd534bf6b",
+      "date": "2014-07-10T19:50:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9b3c23a0c433cc12fbfe13e70004e845929ed4aa",
+      "date": "2014-07-09T16:52:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d7292c3c9fac6a2f80cfc474595f6e9017ccca4d",
+      "date": "2014-07-08T00:05:25Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8e9eefaf5aed58bfd4cf0da4b980e99174ca5ef7",
+      "date": "2014-07-08T00:04:20Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9064af7c6b68c3d6c6794a465ea3792ec5f024f6",
+      "date": "2014-07-07T19:57:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "db742a6967f45489b0c13de66bc124772f8d3573",
+      "date": "2014-07-06T19:42:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "70a0f847fbe05b717424867f639b11b3f03440dd",
+      "date": "2014-07-06T19:16:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0665023a771130ae2ebcb26404b4e13f88e8ce49",
+      "date": "2014-07-06T18:57:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "be7228506fdc5fb32b68b52911c8326436b546af",
+      "date": "2014-07-06T13:08:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b44605cb2f6b7a1475dbbf33aa2a0fe44731b063",
+      "date": "2014-07-06T13:08:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a703e1ef41f5330346474296af1a9cd96d2e52c4",
+      "date": "2014-07-06T10:51:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0e82d44e6d96aed2cd2ca7b17ac2e5e458694030",
+      "date": "2014-07-06T10:47:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a52405943889da5d4fd0aeb3a9249b716d2d3502",
+      "date": "2014-07-06T10:44:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c690b5159d2f4a3b6816f02e582ee424ed8c132f",
+      "date": "2014-07-06T01:03:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f6b0a449121390f73bb4440fc17b2b87ed7d3f83",
+      "date": "2014-07-05T10:13:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dfc374a20362539c84550974446cfdc5c1147548",
+      "date": "2014-07-03T23:52:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3e4e75c2ddbb3448d210abd4e7df7a39b927637e",
+      "date": "2014-07-02T19:52:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b201275378a75fcc7971006952f23a944056f3a3",
+      "date": "2014-07-02T16:49:41Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6453a0ad6f1cff485d5139e06c8d9c5aa3fc5c49",
+      "date": "2014-07-01T23:47:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2ac97d7fb0a28007e5c1320ada5ac026b7c1efbc",
+      "date": "2014-07-01T23:17:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3ea0dc250a4ef7798d3e83ae06803439316097fc",
+      "date": "2014-06-30T19:23:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9f604d921c61e78f26eeda96691414e124cd2875",
+      "date": "2014-06-29T23:45:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1f33a7cbd5a1f11b4a3c53a5c1eb2511464e7e96",
+      "date": "2014-06-29T19:45:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "11b52b42a76f8532ce18774350e52ccb16ab3471",
+      "date": "2014-06-27T17:15:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3fb9ce2b66851cac05642f5657b21aa719af1fac",
+      "date": "2014-06-27T14:04:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f752a61bb6edad1e41bf92370c78995df4888c23",
+      "date": "2014-06-27T14:04:10Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b02ed732686dac6af756b2eed3718c8db8cb8329",
+      "date": "2014-06-25T19:43:00Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1f823cd3639d18191c25f06bc3cd570bf39a367b",
+      "date": "2014-06-22T16:30:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2c1fad7756431aeb6ce47e779a72a3b3ffbe406e",
+      "date": "2014-06-21T23:45:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "303c7d7f31c7ef71efa4c866466a12b9e70c7b33",
+      "date": "2014-06-21T02:14:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8f8b6ac1e0b4a015027219d2b2902630c6440b05",
+      "date": "2014-06-21T02:09:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "22e88ef0be734abae297bc40320b461114e514f7",
+      "date": "2014-06-01T19:13:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2dd1ad94ed939be8c395696293350b2d693d3ab2",
+      "date": "2014-05-30T19:48:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8a30c56abd93b727d66196ecf13ae26376557bd8",
+      "date": "2014-05-30T19:20:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1cf762d76b09f62c38ca7201e587b3769713eef4",
+      "date": "2014-05-29T19:33:23Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f4a5206579a51270f95a9e58f934eb09a1e2c1bf",
+      "date": "2014-05-29T19:32:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1b4f9a3433437f59fed3ab7358dba96c3140c887",
+      "date": "2014-05-29T19:30:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c6e7a694677e5a58546c1bbe55f99067ae8def7e",
+      "date": "2014-05-29T19:21:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "5ed9770be1be92141a7b5c9368963db52f2fd247",
+      "date": "2014-05-29T19:08:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "78f30e4032388fc8c4494249f9b9379015a0b9e1",
+      "date": "2014-05-29T14:30:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f5adf66fd92f3b2878dcbb5964bafaf579ab6c4d",
+      "date": "2014-05-29T13:32:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b3643018787a5f6c82874367bc58e3800eb79549",
+      "date": "2014-05-28T18:42:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ec7d871e23673b868b2aef0de4df15d54bdde893",
+      "date": "2014-05-28T18:42:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "80b5d6feb0daa6a56ea1f538673862f5a6a60bf1",
+      "date": "2014-05-28T18:24:52Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "90e210ef49cb0d32bbf3f0a7006433b693b9d95b",
+      "date": "2014-05-28T18:11:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e531ce60c8816a432cb40b22234f46d1faead882",
+      "date": "2014-05-28T18:10:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "41993b27e5991986daf172e5961a7770254b4aa5",
+      "date": "2014-05-28T12:46:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7489bf7dbb35616114073da4c8c6b1809b7fae78",
+      "date": "2014-05-27T18:27:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d73ef298b784bf8271b432adf488e8be0af39670",
+      "date": "2014-05-27T18:22:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ce8e4342eab1d79080e16f4b8cb4ee426dda14bd",
+      "date": "2014-05-27T18:03:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "096e9c3769d163172518e010f56be5fd46e47aa8",
+      "date": "2014-05-27T18:01:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d776947c47df94e8f39d7a607ff0907c508ae563",
+      "date": "2014-05-27T18:01:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "35953faec3e7a05ac3b8d11db180f75b162d317b",
+      "date": "2014-05-27T00:48:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b472013928aedd4e2490bbb504d6e7a910c4d887",
+      "date": "2014-05-26T19:53:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e6acba03d6ac5eb0c0c965ffd9f81999a16cf12d",
+      "date": "2014-05-25T19:07:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "376fb543533bc45e4fdf140ea345eff25b57a9bf",
+      "date": "2014-05-22T17:36:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9d737de6ddd3e4e2d3d166f60d246f27bbb9836d",
+      "date": "2014-05-22T17:35:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "cc885d092d2c789bcf75ed9cf0123e6e3f469731",
+      "date": "2014-05-22T17:34:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "503682e82b7f35897951c84efcfeb5db0be41672",
+      "date": "2014-05-22T17:24:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "916ef1a208dfdd21bc5d73b4a8a08d7055c28e47",
+      "date": "2014-05-21T16:14:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2ef3b3dd8d2f3a3c3b55c08bacf2934192fa5d45",
+      "date": "2014-05-21T16:09:34Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "553c65d1eba58bc871a14caef2eb48e8de107b03",
+      "date": "2014-05-21T14:53:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "790c89aea96451b437b5bd1ea3c3bc0f8c860a98",
+      "date": "2014-05-18T18:39:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "233e91667ee92ab2fc95d831c43385be42f69f81",
+      "date": "2014-05-17T23:33:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c4161b28502f0d5a8a9a6810c18773fb3a58a13d",
+      "date": "2014-05-17T02:37:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "16ddb86a6f396b16ee139790a340064b0845351f",
+      "date": "2014-05-16T15:00:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7dbd2d86e85cd65bcd9f254cb04fd39251f78fcd",
+      "date": "2014-05-16T01:06:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "01d2110c08a578400d0b0d12ba573284f0796d28",
+      "date": "2014-05-16T00:37:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "cdf4dd73fa0c7812f547bac5eae97ec4770561cf",
+      "date": "2014-05-15T13:20:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d0477d31f3d60df67a99bf8d7687d19b5d39c889",
+      "date": "2014-05-14T19:59:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e2c0272156653f6203ef013477ee40a23d15c8ce",
+      "date": "2014-05-14T00:55:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3835ee661562ee7976c5636df0adb002cb19bbaa",
+      "date": "2014-05-11T19:39:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a1de152c0d174abffaa0f1fc7899046ffc4fe786",
+      "date": "2014-05-09T01:00:00Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "fafca6a730556f32e3548deb6b8739f277d90c5f",
+      "date": "2014-05-09T00:59:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "11f4fd4b3469dc4286e80bc0177ecd936f51ab77",
+      "date": "2014-05-09T00:59:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1c0b142ef4db32a265a291d655c258ea333fe2fe",
+      "date": "2014-05-09T00:57:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "41a1d150a925add4c6b70ace176e4ed4fded2b1d",
+      "date": "2014-05-04T19:46:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4a87869f068313cfff9e95e79b257fd53c7b8a15",
+      "date": "2014-05-04T01:01:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3cf1fb9a9e40c3eb0b3c72fea2c4a19c0a2501b2",
+      "date": "2014-05-02T15:00:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6aec7b3c35bc4c7546f463499cb088db1f7fdf45",
+      "date": "2014-05-02T12:27:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "645cf6fb96b232e1d1fd6383aa3943642d7b256f",
+      "date": "2014-05-02T02:06:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "66a072a29423ab9c22046d044890a1f0ee7515cf",
+      "date": "2014-05-02T01:52:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a4140b45a08eac5f3a900f86a2485c82a4bde952",
+      "date": "2014-05-01T13:57:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "19c11ba999e0a82067447d15dd817bff6a1c7fc5",
+      "date": "2014-05-01T02:29:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "253398926ba5f4f777773a40ec54ddaeb4951110",
+      "date": "2014-04-30T19:27:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0844f023ac219ce40901fd1410547692329d9040",
+      "date": "2014-04-30T15:55:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3bb1515dc0a24b0ae37930422a38d4338562c401",
+      "date": "2014-04-29T19:59:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "27cb4238642ffa1425e4b9a5af47b8eee58e1ec0",
+      "date": "2014-04-29T15:12:25Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "03cfde2080926aace123bcf9427a3e7ab203b6ff",
+      "date": "2014-04-29T00:51:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "730c86f128765d51bd2e5da38c719a08c9b71d62",
+      "date": "2014-04-26T23:48:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9b0e3219f8fc0854e1266f25dca8430e1cb446b1",
+      "date": "2014-04-26T21:59:55Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e6d1735cdfb5539efee7fef9a28612fc8cd07ef6",
+      "date": "2014-04-24T19:57:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6e781d6db30553246f058e88804795923824f140",
+      "date": "2014-04-24T00:22:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dcacbdfb822ac38a8ce4ab5c403944c90773a23d",
+      "date": "2014-04-21T16:15:41Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a41bdf24c81c99faf831ba27ca4a09775b598835",
+      "date": "2014-04-21T10:23:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "cd6a22611e3bbfc2b22530c225009dcaa932ddf4",
+      "date": "2014-04-21T10:21:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "338d9d519537f48e25d053681512d9411f3c03a5",
+      "date": "2014-04-21T01:41:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "fff68b56962ee6a23ab9eeada9165069a3aa7a68",
+      "date": "2014-04-15T19:42:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "94ac8fed19227d71272a53c5df0ae400afe7cc55",
+      "date": "2014-04-15T01:10:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dba838517bb21ac37d19ba8d2e30236e956eccee",
+      "date": "2014-04-14T19:46:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dbbc6f7bd186e3f161966be3f077361c445fbdde",
+      "date": "2014-04-13T17:27:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c7ae156f2e4778c452dd3d17aa40aef41916ac64",
+      "date": "2014-04-13T17:26:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0f66ae009204d711231834e758b743d3d06c3db5",
+      "date": "2014-04-08T23:31:20Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4f263812ab12325ed810a3ad0402826362c95ab6",
+      "date": "2014-04-08T23:25:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b3fb570517091ed3948d0e5a98506d988c5fbd4a",
+      "date": "2014-04-08T23:25:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8ef56f15ed0f77815940dea66d359173fba0ac28",
+      "date": "2014-04-08T23:21:20Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1f458e06b00507b436b75e5d4b1bfcad46800e0c",
+      "date": "2014-04-08T23:21:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "030ae1637cada3790c09dc314fe21415ce4fe7f5",
+      "date": "2014-04-07T23:27:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ca6addecba6af7004b90b3a9ab5fa047ef2a10b7",
+      "date": "2014-04-07T00:29:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d941850ca42308db4a022259086a67694a5b9c9b",
+      "date": "2014-04-06T20:07:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "864f505fbe24b054570db22ce375004a1407558b",
+      "date": "2014-04-04T19:49:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "51cad99a4d9e8976753e1aa701cfbbe9491a9fc0",
+      "date": "2014-04-02T23:55:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "6a0fe389084f9f695c821e188cd826912a22d8c3",
+      "date": "2014-04-02T19:47:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "14a367565222892b8b46b707e5b33d27f26d0f25",
+      "date": "2014-04-01T19:55:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "768695ea55627c1134c25584286ba8047f10a999",
+      "date": "2014-03-31T23:38:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "56e82f6b0e981ecd104e4a01fb7f22e96fc26314",
+      "date": "2014-03-31T19:57:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9e72209060fb304599746a74de6add47df1eb947",
+      "date": "2014-03-30T19:40:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e3661b1a1dbb529e7f19ea4b208c12d5ac48731d",
+      "date": "2014-03-30T15:13:29Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1778093c242e2acd5dc6b59e9694964891b766a8",
+      "date": "2014-03-30T01:20:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "37009dcb821d602c77f48ae1a6bf215db6b9bc27",
+      "date": "2014-03-29T22:01:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "067fc18581225c262b7809262ab786c4778f98d6",
+      "date": "2014-03-27T20:59:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f86bc1a974d50b36f158f73474476d01ddcef659",
+      "date": "2014-03-27T00:47:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ed142b06ee9ff6929d4847737aa41de2a092129c",
+      "date": "2014-03-27T00:46:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "993f265c9635abb22dce444c5eb30048cd47139d",
+      "date": "2014-03-26T20:54:19Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "79ce7ca6390a17d929077343eaef2c11102058cf",
+      "date": "2014-03-26T20:46:19Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "adaca30844e603ab2f5791daf1ed835ee22e5d0d",
+      "date": "2014-03-26T19:20:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2017b88da331b80cd8995a4cbd0f4e3caa5a9765",
+      "date": "2014-03-25T20:57:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "604f7ed9867891cfefd7bed91800e1bb478bfe35",
+      "date": "2014-03-25T01:32:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dfa5f06e3b9fa531a2d5585c5ff12f34194a84fb",
+      "date": "2014-03-24T20:06:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "153612f1b8fc1acfecb207a9581d2426f4882bef",
+      "date": "2014-03-24T19:37:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "25e93a5920fbce5f683d1ec92e4e872c3390a584",
+      "date": "2014-03-24T19:45:52Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e51ebe66661770b8e8f66196117b5211e3145891",
+      "date": "2014-03-24T00:52:09Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9726ae4f84b03ccf5f799b1039804afa516588e1",
+      "date": "2014-03-23T20:55:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2d43c14bb1649d93a6bd63f948c868d57c145605",
+      "date": "2014-03-21T08:46:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "5168832656193764310c686a3349a154e8a6d995",
+      "date": "2014-03-21T07:55:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "760a26bcc4497b217dcf73f2e604a2574327f83e",
+      "date": "2014-03-20T00:54:52Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "56f8b4a704785f57543493122bef8a2a41289b1f",
+      "date": "2014-03-19T17:51:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "16a1e6ce83ab448f7ebb44f3de2cc2f0e505c20c",
+      "date": "2014-03-19T11:49:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e8fcce7967cf4648044d9ef768a20eb115a1e28e",
+      "date": "2014-03-18T19:23:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "ed12462475ee4d31b1925c57cfe7409d6f5cfd54",
+      "date": "2014-03-18T17:36:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3e6360798204fccf0d54b487d155a80b430f5353",
+      "date": "2014-03-18T17:35:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "367b22eb92d19c02931dc40bab1cae2a0de2a07a",
+      "date": "2014-03-17T23:43:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "eb0ffd1c075d15655f02dcfcbb73cd5777f4bb48",
+      "date": "2014-03-17T21:02:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b324ee85c71a7b08c2938cc78a7db43690f5eecc",
+      "date": "2014-03-16T19:58:00Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "284a627ff11c66cf72d02bdc469b6b106a65f14d",
+      "date": "2014-03-16T19:37:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "fa94b89943a9856f151c4bfbe5a2c20b3ace6260",
+      "date": "2014-03-16T00:32:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "41833cc3067ae97084e7aef7e5ad5142aeb890a0",
+      "date": "2014-03-16T00:20:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "8886e01e3cf7b70527fa4ed41d42da316adc938f",
+      "date": "2014-03-16T00:15:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "fc61775a9a887743b309d0de677069ae05758d3f",
+      "date": "2014-03-16T00:14:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "938ff3940559bd4f7805aaf4260899322f794e3c",
+      "date": "2014-03-13T01:45:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "32aed75759ec33781573848ee6226e85f2769cff",
+      "date": "2014-03-12T13:11:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "a66cbbd08702a0a4a6efaf43517928538620668f",
+      "date": "2014-03-11T01:27:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7e36cc5d1a56a87751fc6afca7c28af9b7e2d10a",
+      "date": "2014-03-08T01:41:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0fe1c324d080f05a635e6c81b5b4c7a4227294cd",
+      "date": "2014-03-06T13:06:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "1b6bb3c40354a6ebfa4159a52ee80eadd6e02a53",
+      "date": "2014-03-06T01:04:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "227b9f4678a41dfe4c516d297a55526762c9c552",
+      "date": "2014-03-05T23:36:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "f38fdaad0755695adb2ec0befa7f898ac7433458",
+      "date": "2014-03-04T21:03:08Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "88c7dcb3056cbf675e918bedd27c7febd1b03ecf",
+      "date": "2014-03-04T17:08:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d38473fd5d2e6352a62dbe7c841757179636c8ea",
+      "date": "2014-03-04T11:43:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "2a7e858b6bf6422e45e1336fc2572a8449749f0a",
+      "date": "2014-03-03T16:33:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "9801e82bf8130d503ae976a1eda5fa5a187f2714",
+      "date": "2014-03-03T08:23:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "7f3c8967916ac5c0b775c156d3447a33bd478e9c",
+      "date": "2014-03-01T14:08:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "33401dd12aaab77c7ab68e3081ab70b59474ffe4",
+      "date": "2014-03-01T14:02:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "788697cbf01a612ca9a17316490a568bda4732a0",
+      "date": "2014-03-01T11:12:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "cefb885772ac8c19c3802c94ff167b573864a64b",
+      "date": "2014-02-27T19:59:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "00db3400690a841212864275ae9ec1540deab98c",
+      "date": "2014-02-27T19:52:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "eb64db2e44b12f5a17d3637914ebd5b781494c76",
+      "date": "2014-02-27T19:35:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "c2f5366f584d1c8589cc5375a6f3af5af5283503",
+      "date": "2014-02-27T18:30:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "15de1b3252f7326932f1cdda2e6c9fb1f5320cee",
+      "date": "2014-02-27T17:40:20Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "dfa1dd55a125e629bf928333d299aace9de7c2d5",
+      "date": "2014-02-27T13:44:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "999ad67655ad24505a830b644db520243dd827c0",
+      "date": "2014-02-27T11:07:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "3e79430756d3bacf3e0a4d918a1f4d21ad89e7f2",
+      "date": "2014-02-27T11:02:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0db70f6ab14ed13995c0a43de88d96af6497a504",
+      "date": "2014-02-27T11:00:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "b7d10304f632a9063e11acfcfad2d8b9eb730b94",
+      "date": "2014-02-26T21:05:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "d18fde5af700bc7d83607a01c93aaa96c243ea3c",
+      "date": "2014-02-26T21:04:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "190af14c1e3c8e96df8622c8dcdab6c518525c21",
+      "date": "2014-02-26T21:04:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "56487bea3d9dc8ff6269bb531af7baf95f4f9146",
+      "date": "2014-02-26T21:03:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "0899906b4375a2d471bba010665dcc2c2743cde5",
+      "date": "2014-02-26T21:01:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "4d68cbb2d4e26413b0a87b341cc37176a7ce2a2e",
+      "date": "2014-02-26T20:48:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "e59f318b7585a81ac9b7aa78dc07cc15ffe38d83",
+      "date": "2014-01-05T13:02:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "commit",
+      "id": "780a26ea87037281d4487727afd09dc5b1ccbe69",
+      "date": "2013-12-05T20:36:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38347361,
+      "date": "2014-03-22T09:52:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 42219054,
+      "date": "2014-05-05T18:16:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 38490458,
+      "date": "2014-03-24T19:36:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 38492203,
+      "date": "2014-03-24T19:51:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 38737611,
+      "date": "2014-03-26T20:49:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 38738635,
+      "date": "2014-03-26T20:58:10Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 39903411,
+      "date": "2014-04-08T21:21:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 39913358,
+      "date": "2014-04-08T23:20:19Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 40136781,
+      "date": "2014-04-10T20:44:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 40156857,
+      "date": "2014-04-10T23:50:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 40396471,
+      "date": "2014-04-14T17:50:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 40433202,
+      "date": "2014-04-15T00:20:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 40633502,
+      "date": "2014-04-16T18:20:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 40837661,
+      "date": "2014-04-18T19:35:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 40901560,
+      "date": "2014-04-20T18:37:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 42117183,
+      "date": "2014-05-03T21:42:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 42191906,
+      "date": "2014-05-05T14:14:19Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 42192081,
+      "date": "2014-05-05T14:16:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 42195470,
+      "date": "2014-05-05T14:47:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 42701510,
+      "date": "2014-05-09T19:00:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 43778741,
+      "date": "2014-05-21T16:15:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 43905903,
+      "date": "2014-05-22T15:44:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 43919694,
+      "date": "2014-05-22T17:37:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44246137,
+      "date": "2014-05-27T08:08:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44300953,
+      "date": "2014-05-27T16:34:48Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44304527,
+      "date": "2014-05-27T17:04:25Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44305192,
+      "date": "2014-05-27T17:10:00Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44316332,
+      "date": "2014-05-27T18:31:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44388456,
+      "date": "2014-05-28T10:28:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44388638,
+      "date": "2014-05-28T10:30:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44401271,
+      "date": "2014-05-28T12:45:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44446976,
+      "date": "2014-05-28T18:33:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44447503,
+      "date": "2014-05-28T18:38:08Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44448520,
+      "date": "2014-05-28T18:46:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 44627975,
+      "date": "2014-05-30T08:48:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 48719300,
+      "date": "2014-07-11T11:15:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 48772315,
+      "date": "2014-07-11T19:24:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 50129795,
+      "date": "2014-07-25T09:55:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 50130024,
+      "date": "2014-07-25T09:57:41Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 50909006,
+      "date": "2014-08-01T17:01:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 51108113,
+      "date": "2014-08-04T19:47:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 51110233,
+      "date": "2014-08-04T20:07:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 51111746,
+      "date": "2014-08-04T20:19:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 51114457,
+      "date": "2014-08-04T20:41:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 51227537,
+      "date": "2014-08-05T17:02:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 51374899,
+      "date": "2014-08-06T18:18:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 52775264,
+      "date": "2014-08-20T13:11:27Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 55298427,
+      "date": "2014-09-11T17:27:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 55368209,
+      "date": "2014-09-12T07:00:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 55368628,
+      "date": "2014-09-12T07:07:18Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 55369593,
+      "date": "2014-09-12T07:21:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56020144,
+      "date": "2014-09-18T10:17:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56260888,
+      "date": "2014-09-20T08:28:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56264958,
+      "date": "2014-09-20T11:14:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56513178,
+      "date": "2014-09-23T12:39:34Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56519446,
+      "date": "2014-09-23T13:31:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56684849,
+      "date": "2014-09-24T15:11:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56685294,
+      "date": "2014-09-24T15:13:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56685450,
+      "date": "2014-09-24T15:14:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56727724,
+      "date": "2014-09-24T19:48:41Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56730465,
+      "date": "2014-09-24T20:07:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56791369,
+      "date": "2014-09-25T08:55:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56792006,
+      "date": "2014-09-25T09:01:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56850250,
+      "date": "2014-09-25T17:04:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56857184,
+      "date": "2014-09-25T17:53:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56866519,
+      "date": "2014-09-25T18:58:10Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56870589,
+      "date": "2014-09-25T19:27:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56871626,
+      "date": "2014-09-25T19:35:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56873595,
+      "date": "2014-09-25T19:50:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 56892316,
+      "date": "2014-09-25T22:15:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 57000295,
+      "date": "2014-09-26T18:17:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 57000520,
+      "date": "2014-09-26T18:19:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 57310328,
+      "date": "2014-09-30T13:07:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 57313374,
+      "date": "2014-09-30T13:30:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 57494452,
+      "date": "2014-10-01T16:30:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 57518653,
+      "date": "2014-10-01T19:08:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 57533987,
+      "date": "2014-10-01T20:35:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 59632619,
+      "date": "2014-10-18T22:50:23Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 59653723,
+      "date": "2014-10-19T15:41:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 60492939,
+      "date": "2014-10-25T18:44:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 60501677,
+      "date": "2014-10-25T23:57:56Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 60522580,
+      "date": "2014-10-26T16:21:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 60565527,
+      "date": "2014-10-27T09:11:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61129222,
+      "date": "2014-10-30T17:06:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61147524,
+      "date": "2014-10-30T18:42:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61157415,
+      "date": "2014-10-30T19:43:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61462104,
+      "date": "2014-11-03T10:49:38Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61465103,
+      "date": "2014-11-03T11:21:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61522677,
+      "date": "2014-11-03T18:20:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61610012,
+      "date": "2014-11-04T08:55:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61702406,
+      "date": "2014-11-04T19:49:24Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61707021,
+      "date": "2014-11-04T20:18:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61711043,
+      "date": "2014-11-04T20:43:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61712069,
+      "date": "2014-11-04T20:50:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 61778328,
+      "date": "2014-11-05T09:08:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 63466204,
+      "date": "2014-11-18T12:51:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 63724619,
+      "date": "2014-11-19T22:17:08Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 63738578,
+      "date": "2014-11-20T00:01:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 63740939,
+      "date": "2014-11-20T00:25:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 63742690,
+      "date": "2014-11-20T00:44:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 63743449,
+      "date": "2014-11-20T00:52:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 63745652,
+      "date": "2014-11-20T01:15:34Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64164948,
+      "date": "2014-11-24T08:44:14Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64176856,
+      "date": "2014-11-24T10:46:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64176963,
+      "date": "2014-11-24T10:48:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64525582,
+      "date": "2014-11-26T07:42:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64691093,
+      "date": "2014-11-26T18:34:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64758518,
+      "date": "2014-11-27T08:20:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64761218,
+      "date": "2014-11-27T08:51:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64820990,
+      "date": "2014-11-27T18:38:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64875072,
+      "date": "2014-11-28T09:52:02Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64878471,
+      "date": "2014-11-28T10:24:32Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64895091,
+      "date": "2014-11-28T13:43:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64918677,
+      "date": "2014-11-28T18:12:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 64919742,
+      "date": "2014-11-28T18:30:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 65130746,
+      "date": "2014-12-01T20:39:36Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 65133431,
+      "date": "2014-12-01T20:58:18Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 65133542,
+      "date": "2014-12-01T20:59:07Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 65197283,
+      "date": "2014-12-02T08:30:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 65220082,
+      "date": "2014-12-02T11:53:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 65679892,
+      "date": "2014-12-04T18:37:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66751869,
+      "date": "2014-12-12T09:48:11Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66800116,
+      "date": "2014-12-12T16:53:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66832143,
+      "date": "2014-12-12T20:43:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66838403,
+      "date": "2014-12-12T21:31:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66878537,
+      "date": "2014-12-13T14:47:12Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66878560,
+      "date": "2014-12-13T14:47:53Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66878573,
+      "date": "2014-12-13T14:48:13Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66878741,
+      "date": "2014-12-13T14:53:49Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 66878788,
+      "date": "2014-12-13T14:55:35Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 67648873,
+      "date": "2014-12-19T15:04:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 67683245,
+      "date": "2014-12-19T19:15:47Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 68502201,
+      "date": "2015-01-01T23:29:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 68538886,
+      "date": "2015-01-02T16:23:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 69455678,
+      "date": "2015-01-10T13:27:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 69460427,
+      "date": "2015-01-10T15:56:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 69470005,
+      "date": "2015-01-10T20:10:33Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 71872802,
+      "date": "2015-01-28T17:04:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72014800,
+      "date": "2015-01-29T12:15:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72017525,
+      "date": "2015-01-29T12:38:44Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72018509,
+      "date": "2015-01-29T12:47:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72082069,
+      "date": "2015-01-29T18:55:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72082289,
+      "date": "2015-01-29T18:56:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72216511,
+      "date": "2015-01-30T15:19:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72343256,
+      "date": "2015-01-31T23:49:57Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72362203,
+      "date": "2015-02-01T12:07:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72362345,
+      "date": "2015-02-01T12:11:15Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72362351,
+      "date": "2015-02-01T12:11:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72362470,
+      "date": "2015-02-01T12:15:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72362860,
+      "date": "2015-02-01T12:29:22Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72409590,
+      "date": "2015-02-02T05:54:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72499956,
+      "date": "2015-02-02T17:35:01Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72500270,
+      "date": "2015-02-02T17:36:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72637095,
+      "date": "2015-02-03T11:43:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72685170,
+      "date": "2015-02-03T16:42:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72860576,
+      "date": "2015-02-04T14:15:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72861847,
+      "date": "2015-02-04T14:24:04Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 72874939,
+      "date": "2015-02-04T15:29:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73100262,
+      "date": "2015-02-05T18:34:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73103874,
+      "date": "2015-02-05T18:54:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73104892,
+      "date": "2015-02-05T18:59:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73127135,
+      "date": "2015-02-05T21:00:34Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73210440,
+      "date": "2015-02-06T09:34:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73210867,
+      "date": "2015-02-06T09:38:34Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73285009,
+      "date": "2015-02-06T18:12:25Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73355507,
+      "date": "2015-02-07T08:29:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73364438,
+      "date": "2015-02-07T13:34:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73428535,
+      "date": "2015-02-08T20:01:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 73429196,
+      "date": "2015-02-08T20:15:40Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 76437803,
+      "date": "2015-02-27T17:39:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 76637374,
+      "date": "2015-03-01T23:11:08Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 76637769,
+      "date": "2015-03-01T23:19:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 77365212,
+      "date": "2015-03-05T13:43:17Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 77368300,
+      "date": "2015-03-05T14:03:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 90911333,
+      "date": "2015-04-08T13:14:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 92934912,
+      "date": "2015-04-14T16:03:50Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 92967333,
+      "date": "2015-04-14T16:39:42Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 93003683,
+      "date": "2015-04-14T18:08:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 93062825,
+      "date": "2015-04-14T21:12:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 95545505,
+      "date": "2015-04-23T11:20:51Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 95557727,
+      "date": "2015-04-23T11:42:05Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 95566352,
+      "date": "2015-04-23T12:17:46Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 96276796,
+      "date": "2015-04-25T21:00:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 97506672,
+      "date": "2015-04-29T17:10:06Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 97740451,
+      "date": "2015-04-30T11:05:39Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 97740999,
+      "date": "2015-04-30T11:09:03Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 97743830,
+      "date": "2015-04-30T11:25:21Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 97747388,
+      "date": "2015-04-30T11:49:54Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 98985963,
+      "date": "2015-05-05T07:50:43Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 99144486,
+      "date": "2015-05-05T17:13:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 99183716,
+      "date": "2015-05-05T19:04:26Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "com",
+      "id": 99365231,
+      "date": "2015-05-06T08:00:37Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 44,
+      "date": "2014-12-01T01:37:31Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 24,
+      "date": "2014-09-20T11:15:28Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 20,
+      "date": "2014-08-01T16:57:30Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 17,
+      "date": "2014-07-11T19:25:16Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 16,
+      "date": "2014-07-06T10:56:59Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 10,
+      "date": "2014-05-21T00:14:58Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 9,
+      "date": "2014-05-09T19:00:45Z"
+    },
+    {
+      "dev_id": "RuedigerMoeller",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 8,
+      "date": "2014-05-09T18:57:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3136e6d0ef8fc0fc64b20589fca7e32df78b9a81",
+      "date": "2015-04-06T15:44:12Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "c6e06570c95ac1ec40ccc878f412e99e9e111c4f",
+      "date": "2014-12-05T08:30:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a5aa2de16d9f2f480cf87a35f812e23319e080d3",
+      "date": "2014-07-15T05:42:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a4093a2d0fd8968778a37286b65d4a0e1d328af4",
+      "date": "2014-07-13T08:25:05Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d7fa4b19a1945a0fd756edc62ac26b2451b4b76f",
+      "date": "2014-07-13T08:24:41Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f21a625fb8f94d2668e2b5e27b8fca6277c2d6fb",
+      "date": "2014-07-13T08:16:19Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5f9568c5d88d28eb976c2da4b5733cc905714dd3",
+      "date": "2014-07-13T08:15:22Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7999c50d0e9bd27f14cf132598c2fb0da6dda7c8",
+      "date": "2014-07-13T08:14:54Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "20ed179d9c0c5544b0252447db2f7aef66368715",
+      "date": "2014-07-13T08:14:00Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5de3074fd32987364844c1ee9ea53182b265511e",
+      "date": "2014-07-13T08:09:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8809e5ea2b5b9ba9cc206d81b2644aa679d968c6",
+      "date": "2014-07-12T20:18:08Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7a0081392ce02d571604d6693b75168f04082f3e",
+      "date": "2014-07-12T20:09:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7508a1871320400c45064826c2735943bdcc696f",
+      "date": "2014-06-19T12:36:29Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ff3b40ff094398db37ef83119bd456dfc4833ec9",
+      "date": "2014-06-19T12:36:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "29a5d8b01abd66c20ff51fcf18746bcad8df1f87",
+      "date": "2014-06-19T12:31:05Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "164b4bae22d78382f1021861cc835dc1678b5320",
+      "date": "2014-06-19T11:55:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "34be61cc961710adf6aee32b589455c260f7996d",
+      "date": "2014-06-19T11:55:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b8ee2e58f4c9fc8b2193ff1c8024a8b3d4f46277",
+      "date": "2014-06-19T11:54:51Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "c0651d5df33a732f9d06575b0d52798524255860",
+      "date": "2014-06-19T11:50:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "67381f63fde52eaf592ee8c349d15ebfcaabf19d",
+      "date": "2014-06-19T11:41:42Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4ef0e158000209b1eecc44b324c61b22504c184c",
+      "date": "2014-06-14T14:07:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e17387166566e4789659cb1835f153cf3237506d",
+      "date": "2014-06-08T14:33:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "daeae510e65735cdec96fbe9d7aaff50d445e3ad",
+      "date": "2014-06-08T08:05:54Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "be558c706e85d117b9fb688730ec6f6a4aff5bab",
+      "date": "2014-05-28T00:06:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8cbf4dd0e141390c676bb1749530e82938bb0cff",
+      "date": "2014-05-27T16:01:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "90ac56c92fcf68588d56c48e8d06ddaa5a480fbe",
+      "date": "2014-05-27T04:05:16Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4494910bc66f582af22b7f0a48d6645f9f993c58",
+      "date": "2014-05-26T14:54:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "37c1c9f3e8e32ceb9e04757f88703fca357a6ddc",
+      "date": "2014-05-15T02:10:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "c3bdb18ab048168744d61d4a41eb4089fe5b523c",
+      "date": "2014-05-15T00:40:45Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "333aa9e56d9cabdc5b7cf74fb8c99e587b7390f2",
+      "date": "2014-05-05T07:37:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3e6d7badd104bf141b343841a365e53c5a9b8869",
+      "date": "2014-05-05T07:27:15Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "acc934fdddf4b21b9980c8830896d5d51a6ea408",
+      "date": "2014-04-10T04:10:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a12b573d6313844c9a742319b0876d8c487c2ee4",
+      "date": "2014-04-10T04:01:03Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "1ca771d7afb59827d22ceadf1b51ab51205b3102",
+      "date": "2014-04-10T04:00:36Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f746ff66064e8d3ec7bb909474a9ed0221cc4097",
+      "date": "2014-04-10T04:00:32Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f12ff90311c3feb86c2007749f7a877bfa12d5ed",
+      "date": "2014-04-10T03:57:53Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b5745e67e3dda9502804dd6494080bfc0bbc5409",
+      "date": "2014-04-03T02:52:45Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "6e0315cb1c59ea654ee65811d30b8a237300e341",
+      "date": "2014-04-03T02:42:45Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "490d43c7eecf728ee7712501ac0f8b0d4653ecd8",
+      "date": "2014-04-03T02:38:49Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0bc0a1ca648baa22120cfab222f4e0ce2fb64079",
+      "date": "2014-04-03T02:36:42Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5c8d6928f0e78ea9aae3cef6c0b04ba7f43b2261",
+      "date": "2014-03-30T09:06:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3941fd829760df133f843fb6fb66c7d1a18f7d20",
+      "date": "2014-03-29T00:06:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b94801c88192a99c330e529ab21585697a952da2",
+      "date": "2014-03-28T21:46:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "297b260a5c21f617b81c65c4751824c5db54807b",
+      "date": "2014-03-28T12:51:56Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0c1f541335bba0a25fb162b7c572f146bd4e571b",
+      "date": "2014-03-25T00:54:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "6e40063215749a48b9ef4ead942ce6b3061b6e92",
+      "date": "2014-03-25T00:36:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ed8a83bed3b0f0088ef4ffb903fdfb10bc9ba2c8",
+      "date": "2014-03-25T00:36:14Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3c7290a2a48d8a5a922c073857c788744bcfe377",
+      "date": "2014-03-25T00:36:08Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7a2608e13655cd6ea29c127c4d283cb08733ede7",
+      "date": "2014-03-25T00:33:23Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "17c77e7eaeccecf5306340d07a543250f1b60a16",
+      "date": "2014-03-24T23:13:53Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "52aeda401a8f08e5a3fe8e780182c4a45e5d36b3",
+      "date": "2014-03-24T23:10:06Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f3882c1e755ebdfacd3b93c6e597a52f62ef2a2d",
+      "date": "2014-03-22T17:23:31Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f24576c1c63115bb7f7905c91cd03753760ef0ed",
+      "date": "2014-03-21T09:15:30Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "053567357971eab1807ae49c8405f219df77a53b",
+      "date": "2014-03-21T08:31:57Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "db3135deb1ac76d880391c69de44cd8582a1027b",
+      "date": "2014-03-20T00:22:08Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0f08edb0e8dac7b300883a3c226e75bfa83b580f",
+      "date": "2014-03-19T09:53:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7c067d03df2333670bef1d201c61ee2d3d4ca888",
+      "date": "2014-03-19T09:42:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5489196e6196e36913987066eeedddcefacf9678",
+      "date": "2014-03-19T09:36:52Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0ab8dff8eb5bb1b0867a8c5ab73fac85c7935b6a",
+      "date": "2014-03-16T05:23:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ac3eff951757223290c423f3a6987d1654a8c7c3",
+      "date": "2014-03-15T04:40:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ad0842401e0337190834fa61d9f3709ddd642f84",
+      "date": "2014-03-12T04:40:47Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7456f6fd17496e49058bcfc313ca098311c429ee",
+      "date": "2014-03-12T04:36:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "01aec29d3472e397a6137ec60037a093944d2bc6",
+      "date": "2014-03-12T04:35:58Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "52a1ec7ca8cad2c882886c198bc1dccc4d6f4b2b",
+      "date": "2014-03-12T04:35:39Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "aee95bbc4b0538d7fbe370e626655a80e912fa2f",
+      "date": "2014-03-12T04:30:59Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "56259799464cb38da90b60c5cd9e5b24f2959c10",
+      "date": "2014-03-12T00:29:46Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e5b34a35f9864e77bbb9544897733c59ba8597a4",
+      "date": "2014-03-08T01:11:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "051a6f23eb6e532aa4d5d9c54ccd83d00a7cf6dd",
+      "date": "2014-03-07T14:18:57Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "37e09550ad3a1ac6e33519b681f913939344fb2e",
+      "date": "2014-03-07T14:18:04Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "82e48916c024d9f59fd410203acfe5646d338aa1",
+      "date": "2014-03-04T04:58:36Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "1df21cc594d5b02703a29f2b943e65f9cde632be",
+      "date": "2014-03-04T04:53:29Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a3b0813b2852d57b4deb3b19487417527fd0c729",
+      "date": "2014-03-04T04:51:14Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b2421cc7146abd9805a20ed25f5acee5c2b94a10",
+      "date": "2014-03-04T04:50:53Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a7d742e1bf55afd0fb1b17b891d461b384349682",
+      "date": "2014-03-04T04:48:05Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "cd3703b7218f8dfcd6c5d3b07f08e805553b8810",
+      "date": "2014-03-01T04:49:55Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4c436933f2084cda6f53634bcdb2ec8ca29ad205",
+      "date": "2014-02-28T14:41:54Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ceb80e63b3e10ad348d4c136e960bd0c3a5d8b0e",
+      "date": "2014-02-28T14:38:47Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ce48d11f7d9ba699dd4dcd75d045e0019c9a8774",
+      "date": "2014-02-28T14:36:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8a89251dfe45f98ff3927336d38b6fddb3ebc8fc",
+      "date": "2014-02-28T14:36:21Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "82d84974375a342f2cdf6af76b96c0292a28111b",
+      "date": "2014-02-28T14:27:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3c56a7623f0097951c0c5dcfb733c2f21ca6c4ea",
+      "date": "2014-02-28T14:11:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "da497da993b380d7ec04b3bdd4cc879134551d80",
+      "date": "2014-02-28T13:57:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "cc8016b136edcfcc1908ec3678d038f8807923ac",
+      "date": "2014-02-28T13:32:57Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e4d1c934bd535be7f98a451e64ca90ae33c337ec",
+      "date": "2014-02-28T11:37:51Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "416212ff4104dea0312556266c66fd301d4765ef",
+      "date": "2014-02-27T08:07:40Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d0b916edc07dcbc4011cb325d3ecc2dca2d558b9",
+      "date": "2014-02-26T07:25:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "009f06a57e5cd46fb7aea57aa93654e3abed69d4",
+      "date": "2014-02-26T06:21:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b186d372e27017b4cb4b1881d6f03343f8df7358",
+      "date": "2014-02-24T15:22:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "36a59bbb0f796e4d429f3154d04691c006d311bf",
+      "date": "2014-02-05T00:21:16Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "6d46bf1ac769ed91b06ba896f70f6d740f6f08a0",
+      "date": "2014-01-30T08:23:22Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ebcc810219aee6c2abc8a3da93eea571ac233677",
+      "date": "2014-01-30T08:18:35Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "75d45d90fad5f63e84644d43aff1df3c6e7b2003",
+      "date": "2014-01-30T07:10:51Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b3b234d2e53b23c224356446a66ae84968399a3e",
+      "date": "2014-01-15T10:02:56Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ec91af6384ba3deda2f7b8a72edb45344ed99212",
+      "date": "2014-01-14T11:04:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7f2eaf8729b68fee24587b84163f56dd92810372",
+      "date": "2014-01-10T05:23:29Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "fc6611800c92a0d80b355d2a6f17f12db8228c1c",
+      "date": "2014-01-09T13:39:28Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "6ba8675c0297609d1fda37a3f757eadf37d5a1fd",
+      "date": "2014-01-09T07:56:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d38631cfa5cacfb43514f54f4bf2703741366f41",
+      "date": "2014-01-09T05:15:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "c8ab48caedbe034b38d72ca70c5ade3fcb869235",
+      "date": "2014-01-01T06:25:29Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "6106802aec3a6234b342376520cb94ad8124aff1",
+      "date": "2014-01-01T06:21:58Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "40c4b23f7b1911508420e29682277ebecd8387bf",
+      "date": "2014-01-01T06:21:30Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b61de35fa1cb4da35eb0bc90f6d21a1318a3914c",
+      "date": "2014-01-01T06:21:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ac9a6c59d6f27a712c339d2c876449b4f9370dc1",
+      "date": "2014-01-01T05:16:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "41a7c0dcae4692b93035e12bd4f9f502b2420c46",
+      "date": "2013-12-28T11:42:30Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ed25c978b5244a68b689aa7be87c2c91ff45e3ce",
+      "date": "2013-12-28T11:05:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f8726d656efca203822be0a1ede8a66be587de05",
+      "date": "2013-12-26T14:40:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "379e6bc6ff0becb78bec8aae44f008fa82bd5575",
+      "date": "2013-12-26T01:21:49Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ddcc04ac492ccddc8336f9066a029a02f5e7dae8",
+      "date": "2013-12-25T14:45:14Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0597b048a73405323f9b070464f8feb2073cbf75",
+      "date": "2013-12-25T12:35:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "fc5fe69e5fbce35084a3e6e3e099c46e67c99bc5",
+      "date": "2013-12-25T12:32:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "cc5ace07b3e8c68a06b63274f9adb7383084e74c",
+      "date": "2013-12-25T12:31:55Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8dbf4c668a643da9d92f4995c32c81fcbb61aa96",
+      "date": "2013-12-25T12:31:37Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b452a2a0ca20459187438a871df992de5f3d0176",
+      "date": "2013-12-25T12:29:20Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d6611bc3d45928cce67f26664f56ef54c0cb8739",
+      "date": "2013-12-25T12:17:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "eb14f99da83bcc1d1d3a01d928618b81b6481389",
+      "date": "2013-12-25T12:06:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2a71c9649e20b55c84575c5b3b5c0f5fd4bdd6ba",
+      "date": "2013-12-25T09:14:53Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "48edcd06836d5fb251f1d6e7ec58d61b706c50a5",
+      "date": "2013-12-25T09:13:22Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3c78bcaf1996282a45cdf75c3596a7f4ab381c45",
+      "date": "2013-12-25T09:13:03Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "36dde835e85a935ce660ebd6f84c1fc6f7996c64",
+      "date": "2013-12-25T09:12:42Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "af19a535ba3e967a5a541ee8c1256822b1e17dd6",
+      "date": "2013-12-25T09:00:35Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "6a888d05b1e70ad5a5787effd207b051af6b93c7",
+      "date": "2013-12-24T02:49:03Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7c7816c1f18a39c2b4330de7fc7eafac4f8744b4",
+      "date": "2013-12-24T01:34:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "acb10170b257d771c3daebd63f984ec7d6037527",
+      "date": "2013-12-24T01:32:54Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0ba07e12413cd016f20505a77a6912d93d4fd438",
+      "date": "2013-12-24T01:32:41Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3e1cc18d059b3daabc0e327a456f627d3202bd96",
+      "date": "2013-12-24T01:32:23Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2631a9db598e8550f8253627d9213c55bc635e2a",
+      "date": "2013-12-24T01:31:15Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f04db826ef0f08fa1e0782d861997f753f491f7c",
+      "date": "2013-12-23T14:12:21Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b7c36cdd55c2af98e19857bd1d34d05f5df6f426",
+      "date": "2013-12-23T12:42:31Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ecf77e63410875eba07cf74818e4c1675d999e6f",
+      "date": "2013-12-23T12:42:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9327186ddc3f43e18dd48f3d6d1366fb76c87e17",
+      "date": "2013-12-23T12:41:53Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3ec97e6d39cba24b1c945e684fd79a05a79e9446",
+      "date": "2013-12-23T12:39:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "16a26b79eb7f8268dab23cf27d94bf7558b19bb2",
+      "date": "2013-12-23T09:52:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a1134da5fbd079d1e61605d5e333c8e116c3992c",
+      "date": "2013-12-23T07:20:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "20da30fa3984edbcd80f06f1c7c6ab0905587b53",
+      "date": "2013-12-23T07:19:42Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f318e98643e59186072beae3adcac9ded4a4f876",
+      "date": "2013-12-23T07:19:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e7c6f676cf40eb0ddeb069ad98ff92dbf56b7ec5",
+      "date": "2013-12-23T07:17:16Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4e6a6d7ee810869f9f19863e8c4561bc6840d2dd",
+      "date": "2013-12-23T04:07:21Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "63810c1f362e6dbcbbeef5b9de691005748d5f88",
+      "date": "2013-12-23T02:44:37Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ff64420632603e1f0de6b7cf108e612eff576d68",
+      "date": "2013-12-23T02:36:12Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e47eb68a46e115d72cc3989fa9234d264398b3d9",
+      "date": "2013-12-21T14:26:19Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "81e787eece685dde5e53fa190b2feaf7aea89abe",
+      "date": "2013-12-21T14:13:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7b53bf557f14baf663c7285af707e78e60eac719",
+      "date": "2013-12-21T13:11:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "08400f5e4d4e1878a2b9794686c3e8027b24d2a6",
+      "date": "2013-12-21T11:51:36Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e28350082ccc90d13c36a34d66f3fffa1f34cbdc",
+      "date": "2013-12-20T13:10:54Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7667db7396b6b44941a97b4b3d8f8d34cc867f2f",
+      "date": "2013-12-20T12:15:15Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "1b864019ecbcc646ae0b574cbc9b58110b8e2a34",
+      "date": "2013-12-20T09:25:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8a6c2f22c64007761e9aedc5b056abd68e889233",
+      "date": "2013-12-20T08:41:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "439ebb375dc17357f09bc8f98ded61d1f545ea64",
+      "date": "2013-12-19T12:09:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9d49a762bd85c464e95ea6589bb09a9d63355ecb",
+      "date": "2013-12-19T07:01:45Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d810d0cdbc3482d7e9f3b284c2933a9f6faa8c56",
+      "date": "2013-12-19T07:00:38Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4ef779b3b5d87f5a7ec49d08a8933aaf2cf5c677",
+      "date": "2013-12-19T06:59:01Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "56a6b4619a42cb6d651f162e4f47f2bcd0dcf722",
+      "date": "2013-12-19T06:58:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8a1d8abc6fc3b4a67ae8fe591ab7aff32beae7a0",
+      "date": "2013-12-19T06:58:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "dc23217e27ab268b9c81b924258f4de95975f892",
+      "date": "2013-12-19T06:56:20Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "996a258b21dcf89d21a28a75f9cce901ef3b427e",
+      "date": "2013-12-19T06:48:08Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2d7852f1bff4060fce545f5895e3b0e5c6317a5c",
+      "date": "2013-12-19T04:43:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "c3cdae4e0aab296b4020ad9651cfd6ae833d22d1",
+      "date": "2013-12-19T03:31:30Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9ce9b042f464b74f5ad93f476fbc2cdc1ed5203f",
+      "date": "2013-12-09T08:27:15Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ab4f1e7ce060fc63d60962748e5079938726eea3",
+      "date": "2013-12-09T08:25:58Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "16d8b726de15f86216b6665d6f4f2ea4346ea5ae",
+      "date": "2013-12-09T08:25:38Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "41eb6d6d29c1b79300cb22331600d40baccdebb6",
+      "date": "2013-12-09T08:24:40Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "38dbabd3c4138d90974938e42243becbc5a37d02",
+      "date": "2013-12-09T06:08:14Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0082a4e00cf87c3787030008a634b7e30166ec92",
+      "date": "2013-12-09T04:55:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f72a06b3f6cd5d145510885188745596c9d0d68c",
+      "date": "2013-12-08T07:22:31Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2e6f7c8a91a599d984ba08ac5c7eebd1115a4d5a",
+      "date": "2013-12-08T07:21:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3e5cd27f84ddb65df4e44798d4e1496e013b08f6",
+      "date": "2013-12-07T12:47:29Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "641080f1c63132130bc0a79f49c65eaf845649d4",
+      "date": "2013-12-07T12:36:05Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "71a36f1a71c71e99ea366c1fb6228072928596de",
+      "date": "2013-12-07T12:23:14Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2ce5614ebbf1381c1e8f9ff0831d30fd341054df",
+      "date": "2013-12-07T12:19:54Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "61b24040d4b2b7f3b5f9af67babb768f07f91e83",
+      "date": "2013-11-26T14:17:49Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5dc845297eba106e9c67c1e83876339fe1a888f9",
+      "date": "2013-11-26T13:45:56Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "81a9866914ddabae7482619190f2e03448cb9218",
+      "date": "2013-11-26T12:40:20Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "80e8520f27e4cb8f98266ce4eee0d95430cf9f91",
+      "date": "2013-11-22T06:52:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7d5c35c5afea3f6d638b02db7699708671adc027",
+      "date": "2013-11-21T13:17:42Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "71dab33491ed2b3d78eb967e78a21c6a5015ba19",
+      "date": "2013-11-21T10:40:02Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ff2fc063bf2d04c17aeb3d4d5db471e98945314b",
+      "date": "2013-11-20T08:10:03Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "72977bc33aea6c1ba3de3fa81dccefc201c91fe4",
+      "date": "2013-11-19T05:56:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "54282bf13118f0e0588ddedf7e0868fb8ba2c2d0",
+      "date": "2013-11-19T05:55:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "efa28a89b1d7be5a1c601fffdec56d1f5e67f694",
+      "date": "2013-11-19T05:54:35Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "715d5f5879e6a8e284309a82990740035245408c",
+      "date": "2013-11-19T05:54:20Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "abd7784dbe3504c8270a2c3649c85fcf327278b8",
+      "date": "2013-11-19T05:44:38Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2c6115b4e6b5eefe670ffc4aed36570a1e10d45b",
+      "date": "2013-11-16T14:26:22Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "68f70e6079b3672f33cef39cb004e168bac11097",
+      "date": "2013-11-16T14:25:57Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b71905529085b9aa96338db927b16e6bd626903a",
+      "date": "2013-11-16T07:19:49Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "02eb5ab10afd42debccef6bd2bcceb7a4eeb25bb",
+      "date": "2013-11-16T07:17:35Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ca5e6d7f4bc1ac9f8f7915541a1f657d59fd516f",
+      "date": "2013-11-16T04:41:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "eaef0f74737109171da764f8d88eabe233f0ccc8",
+      "date": "2013-09-28T06:30:42Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "bc1ffe7ebe5e5e430663963bc94dff1b9af0c30d",
+      "date": "2013-09-28T06:30:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5bec779ac7a070d71f540f4a533cf64b4f2a44df",
+      "date": "2013-09-28T06:27:36Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "cfe90d174e9e7785fc15d5d9c8c1449d0751f4fc",
+      "date": "2013-09-06T11:17:10Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b47865301cb69b721f7a6b926bc06516b81e58b4",
+      "date": "2013-09-06T11:01:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "1d55518984debbf9f3ad237e683e8dc65b1b130a",
+      "date": "2013-09-06T10:55:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b193fe351aea903ae55d2e9e7a19023c049517c0",
+      "date": "2013-09-06T10:53:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8b100c9a99f78a26e11d56408772511a6d4f7847",
+      "date": "2013-09-06T10:52:20Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "6c5b12e7dd4de948c7ea1ddc1beeed75cc5f7ab0",
+      "date": "2013-09-05T11:35:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "973d464490cd53b01e63c41e003fd819524ee36a",
+      "date": "2013-09-05T11:34:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "485826f053191a186a045009153e2736a44b58be",
+      "date": "2013-09-05T11:34:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e089d4af1abac8e2a48b565083584ce66f4a3af9",
+      "date": "2013-09-05T11:32:06Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "983721c7b233c870191d8c58c637cf0d129d393a",
+      "date": "2013-09-05T11:23:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "93175ddd529239db07b6a19dd2d5bf12d80d70f3",
+      "date": "2013-09-05T10:52:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5539d6bf3af8a7bdd9ca7c1c64e57890c3b497ca",
+      "date": "2013-09-05T10:51:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "08b790791e97df33d0f2d53ae32f642e51f6579c",
+      "date": "2013-09-05T10:44:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d01128bb2d37b4c1f780af8d17ebfe4ea96a3fa0",
+      "date": "2013-09-01T02:15:23Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2cecfb838704eb7d793a02cb72f67463d68e1a50",
+      "date": "2013-08-31T14:03:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d2fbe67bc67f4e0e676ed32898008e9eaf552036",
+      "date": "2013-08-29T09:25:37Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "fb7bd545071dced5530fb47271379e7d03a32aae",
+      "date": "2013-08-29T09:23:52Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "24065654e667ba93c3fe78c2b5b644aaa03452e8",
+      "date": "2013-08-29T09:23:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "abec308b55fa9ec539cc5d5738183812fc785c47",
+      "date": "2013-08-29T09:22:01Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "81f79056fe30b52a2a56a3ff44a8fbe25acb0aeb",
+      "date": "2013-08-29T09:16:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "bc5d0cfb56385c467e71e56e6382878972f20424",
+      "date": "2013-08-29T09:15:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b3329c519d938a72d71e530882f6118688257565",
+      "date": "2013-08-29T09:14:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "5b02a48aed126689a46b48f929eef3d6795ef004",
+      "date": "2013-08-29T08:28:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "300d8311f7ee760d6d2015c20bff2e1c344c0cc2",
+      "date": "2013-08-29T08:27:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b2efc6c11be95e39a282057c1f059fc744c0ec23",
+      "date": "2013-08-29T07:38:45Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "34917ccfad25bc138934593e54c7d902b8438f27",
+      "date": "2013-08-29T06:35:17Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "15cf66290c7ef381b84d0ae31bcddce646bb78be",
+      "date": "2013-08-29T02:20:17Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9f8ead77954b84b8a5553bb8f907685104413a6c",
+      "date": "2013-08-28T15:30:22Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "975e8266151f90aec09a8767a0d566b841945e1a",
+      "date": "2013-08-28T14:07:39Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "be2ccafa731f584734a73cbb97bd676abad7bff2",
+      "date": "2013-08-28T05:12:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9cb3474b3cd64119412b2624add4181664513dcc",
+      "date": "2013-08-24T12:26:45Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4b9e7effd99b279bdb03c139209e6125db5b1726",
+      "date": "2013-08-24T12:16:14Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "91e7625087ccee44529844fd8da42caf9dfc0243",
+      "date": "2013-08-24T11:51:40Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b84fed366744d35844f76fe55f040096e1b52a69",
+      "date": "2013-08-24T11:35:31Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "bd0519e6d5aebcd9351e348539e6d735c5d79e1c",
+      "date": "2013-08-24T11:31:55Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4e432e4bb1528131c883ec61e1650e25b7ed1f93",
+      "date": "2013-08-24T11:27:11Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "51b864918f660397c0b9893c6fa5c5fdc61fb856",
+      "date": "2013-08-24T11:16:14Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9f2e365c4c7c2354c2953f1a9058347caad30683",
+      "date": "2013-07-23T14:56:38Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "4c64cb5142c2637e7e81c3f53353bfb19aa05b16",
+      "date": "2013-07-23T14:48:51Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "bf0c7c802f98eab3038c2d67fcea81144b1b573b",
+      "date": "2013-07-23T14:47:49Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "bee80e08841e4384cec08abe69b95c37642e837a",
+      "date": "2013-07-23T14:39:22Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3d05a7913526d868cd1d88f204cfa15f22a80ed3",
+      "date": "2013-06-19T11:43:02Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "cb013c65c2e83ebfb24e6eb8bfa5fb9436188d29",
+      "date": "2013-06-19T11:26:29Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0af0e5eca222318121549d61603a6101ab339627",
+      "date": "2013-06-17T10:48:28Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9996929a04b38a122a9d4ae6df79c805ffca578d",
+      "date": "2013-05-02T03:10:44Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "eacfe6c1355de68fa741d0dc0ba9533ab6f0d8c8",
+      "date": "2013-05-01T18:24:36Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "43d62aded21da82b7c8057ae4d3446b77d2e1527",
+      "date": "2013-05-01T17:40:20Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "989101deb88ff475125446ab0c573e6b6e933821",
+      "date": "2013-05-01T16:20:12Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "222c83237c67e18a81df457790d9caeb6c22811f",
+      "date": "2013-05-01T07:08:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a01a8d5e4a18160bfec069ddb20ec8110b974c09",
+      "date": "2013-05-01T05:30:39Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a6f2e5a896892de36138f264f157fa3f3232d33d",
+      "date": "2013-05-01T02:17:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "7f9a0d0cee55790693147348062a9b517c13dba7",
+      "date": "2013-05-01T02:12:17Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "a3723d8f8865d9179222526505273f39f8698910",
+      "date": "2013-04-20T07:48:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b00b25c87d8546c36b44f729ba33b463870b7220",
+      "date": "2013-04-19T15:34:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "2fecf76aea3e99a6e82457eb94fb6abacc89099c",
+      "date": "2013-04-14T11:22:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "0bac5678e1e5d80a00ad0d98c6c25d9f17bebc60",
+      "date": "2013-04-11T17:45:00Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "39e5903053c54f7d09f006b3adb450b892ef4548",
+      "date": "2013-04-10T02:18:50Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "ed59041ea3235728923d8dfac6ead7d7b6b512cd",
+      "date": "2013-04-09T13:49:33Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "801caa6652f019fe128d7c53fe9ea0a70367e906",
+      "date": "2013-04-09T13:46:58Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "80129cb0bb004b0fc9647c3ad158eddfb245e555",
+      "date": "2013-04-08T05:57:06Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "8f6decf2c75eef5290843738638870abf93324c3",
+      "date": "2013-04-08T05:55:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "59f306e37cb0b898aa1f17ce6fce75c473939cfb",
+      "date": "2013-04-07T14:08:22Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "b6de05fa0ec3448e845a7521095f59fd9e72b581",
+      "date": "2013-04-07T09:42:24Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3bb3f0dcbd6a3e98bf616dca3e2b07163d5ecaca",
+      "date": "2013-04-07T06:50:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "61fb2829cc351d0fbc0340a21f04aeb018401a9c",
+      "date": "2013-04-06T15:48:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "208c1f2807c08852a202f36c5fa1784149bc3ffd",
+      "date": "2013-04-06T14:22:54Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e0774758687490cb75f3fde9f6e2602cc00d4f9c",
+      "date": "2013-04-05T15:45:04Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "e56649a219f2f96dce0381d42263bcb352c67bd5",
+      "date": "2013-04-05T06:24:01Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "52acc3dcf0b117c09a9f87b68c5d36a99b99d38c",
+      "date": "2013-04-05T02:30:18Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "89af861715b3060cd80e0e7163c7c057d79b5ea5",
+      "date": "2013-04-04T15:07:44Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "3699e20c75975b7188177e06f74d7c7eb2beeb2b",
+      "date": "2013-04-04T14:49:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "d990b30dd7b16362fdd77cb21cda52cfc7198c72",
+      "date": "2013-04-04T05:58:41Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "9ff63b58e6eb6bd72d6e33c856f594c408e0e992",
+      "date": "2013-04-03T12:12:28Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "f27f131fa4e5c16be8a39322b4aacc3cb2f10a40",
+      "date": "2013-04-03T10:52:21Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "fa4f8f9d83469ae5ee1545da75ad08d62e596152",
+      "date": "2012-09-23T11:28:39Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "commit",
+      "id": "aee7d2a0850d7c0b95bb845db99c9b8f3779ee82",
+      "date": "2012-09-18T08:53:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 23389643,
+      "date": "2013-08-28T04:01:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 23389833,
+      "date": "2013-08-28T04:09:37Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 23392027,
+      "date": "2013-08-28T05:15:08Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 23392544,
+      "date": "2013-08-28T05:35:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 23425327,
+      "date": "2013-08-28T15:49:04Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 23698220,
+      "date": "2013-09-03T08:56:06Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 23704051,
+      "date": "2013-09-03T10:59:20Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 25292578,
+      "date": "2013-09-28T06:36:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 25292604,
+      "date": "2013-09-28T06:37:36Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 28768054,
+      "date": "2013-11-19T05:58:48Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 29052013,
+      "date": "2013-11-22T06:46:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 29052251,
+      "date": "2013-11-22T06:53:36Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 33476364,
+      "date": "2014-01-28T13:08:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 33891338,
+      "date": "2014-02-02T03:52:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 33895596,
+      "date": "2014-02-02T09:00:26Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 35265101,
+      "date": "2014-02-17T13:42:43Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 35392662,
+      "date": "2014-02-18T15:05:12Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 37028225,
+      "date": "2014-03-07T14:26:53Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 37358081,
+      "date": "2014-03-11T23:11:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 37365567,
+      "date": "2014-03-12T01:08:04Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 37375038,
+      "date": "2014-03-12T04:41:46Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 37749270,
+      "date": "2014-03-16T05:25:12Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38343082,
+      "date": "2014-03-22T04:53:35Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38354998,
+      "date": "2014-03-22T15:49:56Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38440175,
+      "date": "2014-03-24T12:54:38Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38514043,
+      "date": "2014-03-24T23:22:35Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38514073,
+      "date": "2014-03-24T23:22:56Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38514115,
+      "date": "2014-03-24T23:23:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 38518327,
+      "date": "2014-03-25T00:24:51Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 40040463,
+      "date": "2014-04-10T03:46:04Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 42164049,
+      "date": "2014-05-05T07:17:59Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 42164678,
+      "date": "2014-05-05T07:31:21Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 45436466,
+      "date": "2014-06-08T13:13:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 47861567,
+      "date": "2014-07-03T02:54:07Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 48030935,
+      "date": "2014-07-04T10:55:46Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 48618768,
+      "date": "2014-07-10T15:17:29Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 48834040,
+      "date": "2014-07-13T07:33:01Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 48834730,
+      "date": "2014-07-13T08:23:05Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 49734023,
+      "date": "2014-07-22T12:50:13Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "com",
+      "id": 56047774,
+      "date": "2014-09-18T14:39:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 16,
+      "date": "2014-03-22T15:44:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 15,
+      "date": "2014-03-18T13:19:25Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 14,
+      "date": "2014-03-15T04:19:44Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 11,
+      "date": "2014-02-09T09:01:34Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 10,
+      "date": "2014-02-05T01:01:09Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 7,
+      "date": "2013-11-19T03:44:27Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 6,
+      "date": "2013-09-14T03:18:17Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 5,
+      "date": "2013-09-14T02:55:03Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "debop/hibernate-redis",
+      "type": "issue",
+      "id": 3,
+      "date": "2013-08-28T15:48:02Z"
+    },
+    {
+      "dev_id": "debop",
+      "repo": "RuedigerMoeller/fast-serialization",
+      "type": "issue",
+      "id": 1,
+      "date": "2014-03-24T14:23:10Z"
+    }
+  ]
+}

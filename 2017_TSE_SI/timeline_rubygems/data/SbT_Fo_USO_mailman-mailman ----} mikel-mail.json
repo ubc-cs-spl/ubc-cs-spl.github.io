@@ -1,0 +1,3286 @@
+{
+  "user_repo": "mailman/mailman",
+  "dep_repo": "mikel/mail",
+  "dep_date": "2010-07-27 19:19:11 UTC",
+  "dep_commit_id": "a666ac5eb93eed52b8eca3ec442c555197d0fb7d",
+  "social_date": "2010-06-13 01:05:42 UTC",
+  "devs": [
+    "kjg",
+    "ndbroadbent",
+    "dasch",
+    "shingara",
+    "johncant",
+    "titanous"
+  ],
+  "interactions": [
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b6c9fa0249ed058414078d2a3b363baed04d0c9a",
+      "date": "2013-01-03T22:09:28Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "327bf782efa25b41a519914acc11f178dea53757",
+      "date": "2012-09-17T15:16:21Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "0fcf9e83478258c99b7deabc7a4d85c46c51a800",
+      "date": "2012-05-09T18:44:17Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "6dce5db5771bfe9d32a1231b5033a793e4f8a8dc",
+      "date": "2012-05-08T21:39:45Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b8332787c69607aa3c2ca1a7ebf92feced68f58a",
+      "date": "2012-05-08T20:54:04Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "e5a90d11e19254ce06c5cf6358d38fd9326a6b7e",
+      "date": "2015-10-14T15:41:52Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "a388cc9a197bb32c6576de2b320a56a0e9df11e1",
+      "date": "2015-09-17T20:35:10Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "65715a9f0adc8f9272f62e637585ed562e609376",
+      "date": "2015-09-29T18:18:43Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "c7003110cbf62a8464d603ef456b1ae749335fd6",
+      "date": "2014-08-01T02:25:18Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "e2c9025b7cac7dc69912dd35d8f8f58a5a5ef45a",
+      "date": "2014-06-04T01:32:52Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "d9eae0e2ea8ca694772ee1e6579cf3761a050d91",
+      "date": "2014-06-04T00:58:07Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "653d6d6877f6b70ad3829cbd8543de33f71d2d37",
+      "date": "2015-05-13T20:23:38Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "4b668a79c9b40469ba348eb26d35ad92780054de",
+      "date": "2015-09-09T21:32:33Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "5cdeb4b03bbcae0086ada40d162aeda6785dc902",
+      "date": "2015-03-30T20:33:14Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "0de1b02bc466fe7c78ae3382edc7a7c2f35c17a2",
+      "date": "2015-03-19T15:08:44Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "96e62a5352264851638f09cd6fd0e704e77e32fd",
+      "date": "2015-01-27T17:33:22Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "7f2289f811c619872239bcd44a88f7d1c8277dca",
+      "date": "2014-05-27T20:56:30Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 5608479,
+      "date": "2012-05-09T19:01:54Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 44310932,
+      "date": "2014-05-27T17:55:35Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 44411261,
+      "date": "2014-05-28T14:11:18Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 44440972,
+      "date": "2014-05-28T17:45:49Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 44536170,
+      "date": "2014-05-29T14:16:53Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 44848218,
+      "date": "2014-06-02T15:03:36Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 45041039,
+      "date": "2014-06-04T01:01:28Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 45399740,
+      "date": "2014-06-07T03:12:26Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 50841914,
+      "date": "2014-08-01T02:08:00Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 50842173,
+      "date": "2014-08-01T02:13:06Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 50842430,
+      "date": "2014-08-01T02:18:22Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 71711695,
+      "date": "2015-01-27T19:31:15Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 71851261,
+      "date": "2015-01-28T15:17:50Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 71859199,
+      "date": "2015-01-28T15:58:48Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 83600970,
+      "date": "2015-03-19T14:21:07Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 84020419,
+      "date": "2015-03-20T13:48:47Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 85015242,
+      "date": "2015-03-23T14:12:23Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 88207692,
+      "date": "2015-03-31T18:52:52Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 92445142,
+      "date": "2015-04-13T17:55:28Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 92449118,
+      "date": "2015-04-13T18:13:52Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 93163197,
+      "date": "2015-04-15T02:46:27Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 102103199,
+      "date": "2015-05-14T17:01:13Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 102109618,
+      "date": "2015-05-14T17:28:33Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 102119904,
+      "date": "2015-05-14T18:03:26Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 102134753,
+      "date": "2015-05-14T18:55:20Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 140108815,
+      "date": "2015-09-14T15:03:46Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 140815514,
+      "date": "2015-09-16T17:41:30Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 140823668,
+      "date": "2015-09-16T18:04:40Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 140839642,
+      "date": "2015-09-16T18:46:28Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 140842748,
+      "date": "2015-09-16T18:57:08Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 143762722,
+      "date": "2015-09-28T14:40:37Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 144149169,
+      "date": "2015-09-29T18:33:55Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 144247148,
+      "date": "2015-09-30T01:21:20Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 144276926,
+      "date": "2015-09-30T04:15:51Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 144437038,
+      "date": "2015-09-30T14:55:16Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 149924747,
+      "date": "2015-10-21T15:02:17Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 156161920,
+      "date": "2015-11-12T16:45:57Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 156165047,
+      "date": "2015-11-12T16:55:46Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 156456597,
+      "date": "2015-11-13T15:08:13Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 56,
+      "date": "2012-09-17T15:21:44Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 49,
+      "date": "2012-05-08T21:44:50Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 48,
+      "date": "2012-05-08T20:57:18Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 918,
+      "date": "2015-10-14T15:48:46Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 910,
+      "date": "2015-09-17T23:27:54Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 907,
+      "date": "2015-09-10T16:58:27Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 877,
+      "date": "2015-05-13T20:25:30Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 868,
+      "date": "2015-03-30T20:35:48Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 865,
+      "date": "2015-03-19T15:18:39Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 850,
+      "date": "2015-01-27T19:55:34Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 849,
+      "date": "2015-01-27T17:42:20Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 720,
+      "date": "2014-06-04T02:02:28Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 719,
+      "date": "2014-06-04T01:00:13Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 716,
+      "date": "2014-05-28T13:52:42Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 715,
+      "date": "2014-05-27T21:00:11Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "issue",
+      "id": 717,
+      "date": "2014-05-28T16:33:56Z"
+    },
+    {
+      "dev_id": "kjg",
+      "repo": "mikel/mail",
+      "type": "issue",
+      "id": 710,
+      "date": "2014-05-20T20:51:36Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "3266b6c7ff52daeac4193ae845e034c52cc8e5db",
+      "date": "2012-03-17T16:32:52Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "657d63f23ab74c781d1912286dcbcd2cbfb9c738",
+      "date": "2012-03-17T16:31:28Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7ea6cd16dc6f7789e2a9e7f9700a3a80b901788b",
+      "date": "2012-03-17T10:05:47Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "92ca65c33385891b936cdc6487b6d6c03b1f69f4",
+      "date": "2012-03-17T10:05:04Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7b848b90cce7892382466ebab0a29d23c217f46b",
+      "date": "2012-03-17T10:02:42Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "6126ff9010d7d2a0c8dfc17aaac761c35b9d6c01",
+      "date": "2012-03-17T10:00:36Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "237d5910eb4d3bbe05a1a0e94ecd5b85da5e1845",
+      "date": "2012-03-17T08:51:54Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "56295fc0e44c008952585e51ae0a271f807e1d03",
+      "date": "2012-03-17T08:33:30Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "903904d33bbcf613cbb1abf746342dac7bbf3038",
+      "date": "2012-03-17T08:32:34Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "317f3a1eda7a209f4fb7bea6a02ef1f6a57668c9",
+      "date": "2012-03-17T08:32:05Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9f2095faadd30cd2d5854137c18555bc6f646f51",
+      "date": "2012-03-17T08:20:19Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "6ea375e8106d6331db933a796d3fa2a33b2a8936",
+      "date": "2012-03-17T07:59:03Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2d1fbd9cb068d6d4051bb25fc6d077ea7668c374",
+      "date": "2012-03-17T07:48:46Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "d6e25e5e37e6d591f94cc04a2a52c1128fde81db",
+      "date": "2012-05-21T09:37:52Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 4515330,
+      "date": "2012-03-15T08:02:22Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 4555195,
+      "date": "2012-03-17T16:35:19Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 5818326,
+      "date": "2012-05-21T09:13:06Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 12464176,
+      "date": "2013-01-20T01:01:21Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 46,
+      "date": "2012-03-17T10:11:24Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 399,
+      "date": "2012-05-21T09:41:48Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mailman/mailman",
+      "type": "issue",
+      "id": 45,
+      "date": "2012-03-15T08:34:09Z"
+    },
+    {
+      "dev_id": "ndbroadbent",
+      "repo": "mikel/mail",
+      "type": "issue",
+      "id": 283,
+      "date": "2011-09-13T17:20:53Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "105fda07eea869aeda94eef325c2666ca6e178ea",
+      "date": "2010-09-19T20:46:39Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "dc6427f0023b61f55178224429c0a16a6f0bf644",
+      "date": "2011-04-26T16:50:58Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "2cfcf31874c3e45ea1d3319303c9aed413deef08",
+      "date": "2011-04-26T16:46:50Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "63a612fa512edd06d032a106f07c617007c27cfe",
+      "date": "2011-04-26T16:43:00Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "a29d8ee1f7ad2bd4e93cce0eb6c5ab15ed09e8d2",
+      "date": "2011-04-26T13:42:08Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "1ded539ab8060f7b3baf2f1366e65d4fd165a4c6",
+      "date": "2011-04-26T13:41:05Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "1ce9be65460d3cc397eef6be2022347363f78a01",
+      "date": "2011-04-26T13:35:30Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "c7fc73d30caa2bd76a5ec57573cbbcd013a99fa7",
+      "date": "2011-04-26T13:35:05Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "7c57894574f103f8f52fe0c159f21ca85629d952",
+      "date": "2011-04-26T13:32:44Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "6c950657c69ece651fef9f79393a55baafc88fa1",
+      "date": "2011-04-26T13:31:45Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "commit",
+      "id": "babf0280292ae38b94dee83e7369c28d53226621",
+      "date": "2011-04-26T13:25:19Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 408615,
+      "date": "2010-09-15T15:16:30Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 416448,
+      "date": "2010-09-19T20:54:48Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 416453,
+      "date": "2010-09-19T20:57:58Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 478227,
+      "date": "2010-10-19T13:28:59Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 478268,
+      "date": "2010-10-19T13:44:38Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 17,
+      "date": "2010-10-19T13:43:59Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 12,
+      "date": "2010-09-19T20:49:24Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 232,
+      "date": "2011-04-26T16:56:09Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mikel/mail",
+      "type": "pr",
+      "id": 231,
+      "date": "2011-04-26T13:45:44Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "issue",
+      "id": 13,
+      "date": "2010-09-19T21:42:24Z"
+    },
+    {
+      "dev_id": "dasch",
+      "repo": "mailman/mailman",
+      "type": "issue",
+      "id": 11,
+      "date": "2010-09-15T13:49:54Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "83d7a69c3d0bf4fc72fa869e72947a4ca0a31745",
+      "date": "2011-08-07T19:46:18Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9eeeba5f606d899ea310d0f504a4017780c139dc",
+      "date": "2011-08-07T19:29:56Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f96c75a3d9f4023fa4fc116fade6e894253dbac8",
+      "date": "2011-08-07T19:16:28Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "4dffd156d8bea226d2a2b0b574ae8bf2b1a10d1d",
+      "date": "2011-08-07T19:00:56Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "50ba4844d0d98c1214da8eefebc6b6541eee457b",
+      "date": "2011-07-27T09:20:30Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "36908eddf096b5fb9be3824047e41441db0524e0",
+      "date": "2011-08-06T19:42:19Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "45f58754f5385ff00f20d049c7535ce7af873aef",
+      "date": "2011-08-06T19:32:59Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b3042db5ea6c487487d67b4936f909172092ed9f",
+      "date": "2011-08-06T18:26:41Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c64109120ae5cd7c8f0ba3f5464f20c59017ef87",
+      "date": "2011-08-06T18:13:17Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9a498bfa3fd36809f4696fe1cece278b35b687e9",
+      "date": "2011-07-31T08:54:17Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "fa456bb42a0089162091a63368845de144a9ca16",
+      "date": "2011-08-01T13:24:57Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f069cd0b95bdbd56efb2a080405760074cbc15e7",
+      "date": "2011-08-01T05:11:10Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "135d05fe757e2ab5d7b082ecb7d682ec5768d484",
+      "date": "2011-07-27T09:18:21Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "859dd9931e8033e14072480da70ef866ba9660c5",
+      "date": "2011-07-27T09:10:21Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "4e6787267bead2e9ee65f326fed0aec518f81352",
+      "date": "2011-07-27T09:05:53Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a65427a7ee585f37450ce99c03b0983b8fe81bba",
+      "date": "2011-08-01T05:51:38Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "3de7ba64bb4510b4521673b8559648e3abb7ad5f",
+      "date": "2011-07-27T08:35:13Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1657823,
+      "date": "2011-07-26T21:07:26Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1657831,
+      "date": "2011-07-26T21:08:44Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1662169,
+      "date": "2011-07-27T08:38:36Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1662179,
+      "date": "2011-07-27T08:39:57Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1703728,
+      "date": "2011-08-01T20:23:40Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1745657,
+      "date": "2011-08-06T17:18:22Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 4997082,
+      "date": "2012-04-06T15:29:06Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mikel/mail",
+      "type": "com",
+      "id": 4997093,
+      "date": "2012-04-06T15:29:37Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 31,
+      "date": "2011-08-01T20:32:37Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 30,
+      "date": "2011-08-01T20:26:12Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 29,
+      "date": "2011-08-01T15:47:30Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 28,
+      "date": "2011-08-01T15:47:11Z"
+    },
+    {
+      "dev_id": "shingara",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 27,
+      "date": "2011-07-27T08:37:19Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "15819553e8c24644ff076b59c3b6706cef4ebc6b",
+      "date": "2012-11-27T12:26:42Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9285a43a23d7b5016bfa23f50f66d2d113ca367f",
+      "date": "2012-11-26T23:51:23Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10730263,
+      "date": "2012-11-26T19:37:39Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10731045,
+      "date": "2012-11-26T19:56:46Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10736134,
+      "date": "2012-11-26T22:04:57Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10738581,
+      "date": "2012-11-26T23:06:15Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10739432,
+      "date": "2012-11-26T23:30:31Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10739619,
+      "date": "2012-11-26T23:36:29Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10755911,
+      "date": "2012-11-27T12:27:54Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10779954,
+      "date": "2012-11-27T22:15:33Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10801118,
+      "date": "2012-11-28T12:42:09Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 11439701,
+      "date": "2012-12-17T12:22:26Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 61,
+      "date": "2012-11-27T12:30:51Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "pr",
+      "id": 60,
+      "date": "2012-11-27T00:10:04Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mailman/mailman",
+      "type": "issue",
+      "id": 59,
+      "date": "2012-11-26T20:27:32Z"
+    },
+    {
+      "dev_id": "johncant",
+      "repo": "mikel/mail",
+      "type": "issue",
+      "id": 476,
+      "date": "2012-12-11T00:11:44Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "636e56111eb3ff9dbe4e93f93269fc4361f89df2",
+      "date": "2015-03-17T21:50:41Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "120cd7440fa7618eebbd12314df5a41fbf00a836",
+      "date": "2015-03-17T21:48:18Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b63da210656d63138b1cbf2ef0dcb84f58108518",
+      "date": "2015-03-16T20:49:13Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "1c9e38dc88ccd2710c4878c6980f8eeda3fa0fb4",
+      "date": "2015-03-16T20:49:13Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7394c528704bc3fcde25b573af3d1ed0969513b4",
+      "date": "2014-12-20T22:13:01Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9dd510a2cf22a0bd4d6db743afd0b156ce7c34c5",
+      "date": "2014-06-10T02:37:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e047879a9b0cc49def95c69decd9c441f3c94476",
+      "date": "2014-06-07T15:03:29Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "411f0f116d286c6fcfcd103ab5575e6387cb088a",
+      "date": "2014-06-06T22:17:47Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a47c24237327b59b7d757d4f1a2866836fec9faa",
+      "date": "2014-06-06T22:12:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f86743311627b399bfe75ce2b198fd8ea6a47896",
+      "date": "2013-12-08T19:08:06Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "70679b4f9693781df4576543167638e7db222f0a",
+      "date": "2013-12-06T01:19:19Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "deb07b1a446c110af9a1d67e23db6fbc82365c9b",
+      "date": "2013-11-18T16:07:36Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "65938dd625a48377208d08207607ca2f604dff16",
+      "date": "2013-11-18T15:28:38Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "84928f32bbd8b5bf2a13c74d98e47bcd16886a72",
+      "date": "2013-10-31T17:40:22Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "4c0fb288e66154d2ebca62c3146bf55e2b4041e3",
+      "date": "2013-09-19T16:54:06Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "bb897b1d81e226238733cc67b63cec465c6f1a36",
+      "date": "2013-09-03T15:16:03Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e5f556c7aa4f82e9da7b2771987d2a5d968f2bcf",
+      "date": "2013-08-27T14:28:15Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "40a3c83cdac31b2332223d34621f64cac952dc2e",
+      "date": "2013-08-16T21:53:06Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7effd44e59a8eba532c77503bd76e94a54f837b4",
+      "date": "2013-08-11T17:49:15Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a1d7f4ac1000ef87ae400738aa932c67db09032b",
+      "date": "2013-08-11T14:20:01Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7004042b0f09c88f0f1d4c71f0d01fccf948ab25",
+      "date": "2013-08-09T14:46:32Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "fef516097cedce36e3fb03a332c9d8cc60ba625e",
+      "date": "2013-08-09T14:25:58Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2f1c8ed19883875e2e37168297cd67d74f78911d",
+      "date": "2013-08-07T16:00:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5c996c4c10bee59dafdcc39bfd380ff83184fe46",
+      "date": "2013-08-07T01:37:58Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7f910b5b42e4fde3119e8ee80b34ea1329f6dc06",
+      "date": "2013-08-07T01:14:00Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "65d4ca46e0611e7313026356a62ef3ddb2543f4c",
+      "date": "2013-07-10T20:15:03Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "4e36bfd926efa8bc1c67eb681694def58ad9e74e",
+      "date": "2013-07-10T19:50:21Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9792927051bfc5ef460957378ac8a4c44543c628",
+      "date": "2013-07-03T17:39:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "913133a0d1bd553446b5dc56dc419fd1185ccb68",
+      "date": "2013-07-03T17:37:21Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "3a12f14e160a37acf7d117bfccf889d93847f15d",
+      "date": "2013-02-13T14:28:22Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "28f21f171a28eb1665916ea37d6255e2136c2a89",
+      "date": "2013-01-30T20:18:47Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "94f2760459b1a4869fa947371ff250113d87c738",
+      "date": "2013-01-13T01:58:49Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "039a937c9e01d7faf149ed7738922b9dd2e15d0b",
+      "date": "2013-01-13T01:55:51Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5b6aef0163f0f28c790abf3083cbda7cbc9cc13f",
+      "date": "2013-01-13T01:30:33Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "92a0338efeebf305693987fff3e735691608cb2a",
+      "date": "2013-01-04T01:05:25Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "fb771266ad1e8c0c71c4ea3fa958f20a7fd1a777",
+      "date": "2013-01-04T01:01:50Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "6042149e4420b84a3b9ed50bfed166b8e57eb7cd",
+      "date": "2013-01-04T01:00:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e6d0fdf452ed603c98697637410daf680727c1b1",
+      "date": "2013-01-04T00:59:15Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e4c80d4f110224375a5a1fb5d330bca182543ad2",
+      "date": "2013-01-04T00:53:59Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "610fa8e811363863b878a513ea0e1eaccae8b33b",
+      "date": "2012-11-27T14:59:28Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "bab84a6ca054b79bbfd176c8d259f7a456e2c5c7",
+      "date": "2012-11-27T00:18:13Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "77e029c66693f6662a08c0e951b2afc0e2db28b6",
+      "date": "2012-11-12T20:32:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c08ed62fab72a10bd3f6f7bded6f253aa4493f47",
+      "date": "2012-08-30T15:27:08Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2d1e7f42e7f8aa929d2dacfb1af4a12e1470f54e",
+      "date": "2012-08-30T15:26:29Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a6b4fc3e06d949c36beabbb678efe291bcaf13b1",
+      "date": "2012-08-30T14:39:36Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c0cdc7ba334aa71542614ca456c22295fdec37d0",
+      "date": "2012-08-20T21:03:55Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "62978fe598a2c6e730eaee4b786e469a7e98be8d",
+      "date": "2012-08-20T20:54:39Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "33e87ce6f73c4943b2234d0fa33f47fbad39f3d5",
+      "date": "2012-08-20T20:47:11Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "0a43f349412e5a9110f63c07f81125d9f0cd04bf",
+      "date": "2012-07-02T02:18:27Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2fd66291817ec742e316a39752fe686ae6b31b44",
+      "date": "2012-06-13T16:57:55Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "23abd41593d1f8ef2dddeb25fd2b7e847a0a86f2",
+      "date": "2012-06-13T16:52:10Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5463b57f899d4fe06090bc5e5488c0b9692cce3e",
+      "date": "2012-06-13T16:51:36Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "bc378e7dd5e327cfcfa6f49d7eec919f750ce1e6",
+      "date": "2012-06-13T16:49:00Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "95393cc34a2785e797e83d6d5504d17ccad734d0",
+      "date": "2012-06-13T16:42:41Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f2998344060145a856ee169a81652a6441e93c25",
+      "date": "2012-06-13T16:38:00Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "647bebf445c3fc180c3d3e59f302fd8fd2de91bf",
+      "date": "2012-06-13T16:26:39Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "cd78a4fa6d3e1ae4b70724c093d9c3a3a1d1781a",
+      "date": "2012-06-13T16:22:53Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b2ad115797abb1adebbbf8a19d59c1b701ed1098",
+      "date": "2012-05-09T23:11:44Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "28d2e84c0a2d9ed2bbb28b7338763b9bd567c8d2",
+      "date": "2012-05-09T19:37:08Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "593b8ec24a7c4d65eef4ef99634c16bf9b6cc0ac",
+      "date": "2012-05-08T20:59:21Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "99de166ec9afcad606baba8120d4abd2849b0495",
+      "date": "2012-04-24T19:30:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "04a5d61abd1a31b53aed8ad2f00fbf8711a1e019",
+      "date": "2012-04-24T19:27:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "0211b446bd59a655903db6b97a99e7126e02c975",
+      "date": "2012-04-24T19:24:45Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "1f164f4615de91933671294ab20208a0ee17ca38",
+      "date": "2012-04-24T19:24:32Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "8f565d3e9473c3ee3fb0b41c056062da7e360292",
+      "date": "2012-04-24T19:15:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c53b3699e435731d43e49862a3664be27b926224",
+      "date": "2012-04-24T19:12:32Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "20ca7e1ec993eff746d14a96eb3ecc2bb786b76e",
+      "date": "2012-04-24T19:07:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c44f10875484ba47e760a8e277ac36d5f66a5d06",
+      "date": "2012-04-24T19:01:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "00bd316f44a7842e6c4ce5c1040c1f0885cb4bfd",
+      "date": "2012-04-24T18:21:13Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d83c3aa24f5ebd6d3b67062cede0eac73fba4033",
+      "date": "2012-03-17T16:42:59Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e3c32b3708a53f4a901dc2aab76513f32bf92a61",
+      "date": "2012-03-17T16:37:14Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a04fa04501e93f5efd320a0a1ecd907c1d5d33de",
+      "date": "2012-02-09T16:33:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "723fb244adb6da12c176ab55fab52d30a7347efa",
+      "date": "2012-02-09T16:20:08Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "cf43e6fdc18abc003860c4df21f347bac414ecc4",
+      "date": "2012-02-07T16:53:58Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "34e5c310d6da1c24a9c917ee200947849a70aa1b",
+      "date": "2012-02-07T16:42:39Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "617e3d77cd13fe5bc7f445a8691eb22f5f629799",
+      "date": "2012-02-07T16:42:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5fbfe841ea3c60eaaa08fc57f458d3217931919c",
+      "date": "2012-02-07T16:41:51Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a910afbd98f1813415725c80670f28fd1188f110",
+      "date": "2011-08-01T22:26:26Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "58572a49625fb70d9d08e9b5e623f54fa854d93f",
+      "date": "2011-08-01T22:24:07Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b87e43d1332b10547b69fdccaaf5488fafe97f38",
+      "date": "2011-08-01T22:16:13Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d004b42f2b11dc2d13ba2660a6a848747dfbe5da",
+      "date": "2011-08-01T22:12:12Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5ee0dfef131672e69687103239b8343723d3ccce",
+      "date": "2011-08-01T22:11:50Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "ca7e63648a888698524c1fda02672442622b4b72",
+      "date": "2010-10-15T00:04:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a6d556c783f6d6a9df4421c5e04699c70736a30c",
+      "date": "2010-10-03T17:20:35Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "8caec658804bcbb017d2fac397b3b04898b5e4ff",
+      "date": "2010-10-03T17:19:48Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "53ec64cc56c4a0a70e9eecaf54e7c8d050e4972f",
+      "date": "2010-10-03T17:15:03Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d8387c23d7a25efc235d2ca2c902799f76f146f5",
+      "date": "2010-10-03T17:14:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "859576966334101ca80f094e51a9bd147dd1441c",
+      "date": "2010-10-03T16:58:56Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "ca22afa7d872dc8ad68a14d5d6a4684c8096916a",
+      "date": "2010-10-03T16:28:04Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "cf477a70d532a415df90eb0c9423b33521622529",
+      "date": "2010-10-03T16:23:27Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e24ea9fed19e49a38388d76b0c98518aef0a972e",
+      "date": "2010-09-02T17:28:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "10bb120ef563a83a62174f02256aaff1f0f08486",
+      "date": "2010-09-02T17:25:39Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "394b6a1a97a2da79b666d3a6a21138db3f0af007",
+      "date": "2010-09-02T17:24:34Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d601ca3bcb6e7b821cb67f5958b008467484af97",
+      "date": "2010-09-02T17:23:13Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f614a374f4a25deaa0a8c34fa50b9b4b3c26128c",
+      "date": "2010-09-02T17:10:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7875a533044e7b2f472ac0b7e8b18ae12c446c1b",
+      "date": "2010-09-02T17:08:18Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "cd422f45379d1f43d45cdc372fca5a0786885fa5",
+      "date": "2010-08-26T21:42:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "359300be0f5385545455eede2cc336081d8038a9",
+      "date": "2010-08-26T21:41:01Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2d9d73b7b034df65ca7fe41962478d66e8de9179",
+      "date": "2010-08-26T21:23:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "50f786f310931855d2179d7de2b2c098249c29a7",
+      "date": "2010-08-26T21:21:45Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "3616d9146f596915f075a0e54d133d2d8b3b1779",
+      "date": "2010-08-24T14:05:29Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "60118e17225c7340fe4efbdd5dcf54809ab7c459",
+      "date": "2010-07-28T13:20:05Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a1d2a5e117417c76dca56de0c0784ecccc603498",
+      "date": "2010-07-28T13:15:05Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a81edb3cfb870253ec261bacc5f8a94dfede597f",
+      "date": "2010-07-28T13:11:37Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c65864483df9d6f8069c827dedd181a2ee68581f",
+      "date": "2010-07-28T13:10:54Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f114fbfe15db0eeb67a668bfc40aee1c816866df",
+      "date": "2010-07-27T20:25:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7e9bc500138b82b4fb3dcb0b3af5dafae5e98552",
+      "date": "2010-07-27T19:52:57Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9c56a024e699f07acca7e81ea123bcb0f765db02",
+      "date": "2010-07-27T19:43:06Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a666ac5eb93eed52b8eca3ec442c555197d0fb7d",
+      "date": "2010-07-27T19:19:11Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "499e466d69f099ac044ae5ae9a4bcc7b3c01fdfd",
+      "date": "2010-07-27T18:41:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "0e4f242c60a37733ceab558e471bab629db54606",
+      "date": "2010-07-27T18:08:22Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e828a85e899eaa5f6428a23c58b41e02199b21ec",
+      "date": "2010-07-27T15:53:38Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "cc06991a346d0fddce01161848579e7dfabff5d4",
+      "date": "2010-07-27T15:43:58Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "1fefd691c4629b5c7b5971fc89e3d53baf7fdc3a",
+      "date": "2010-07-27T14:41:50Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "330d52fffc141bda1d962940cda738a9279a3709",
+      "date": "2010-07-27T14:38:48Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f9509e9bc9873e051f22d12cc0aee1efa56fc1e0",
+      "date": "2010-07-23T20:03:05Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "0ea677af52e51e1afab1015f6601fe7277ae881d",
+      "date": "2010-07-13T18:24:33Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "975eca04c2decc127cc8af71f43532c467502688",
+      "date": "2010-07-13T18:02:05Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "60862b7b9bd4867ddb3c9376f0a190d3571ab486",
+      "date": "2010-07-13T17:39:59Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "33d9eba19b231ff7c7addabff130b345e1a12b9c",
+      "date": "2010-07-13T15:04:28Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b9d283a1e8f60aab7e3c07594da70017713ff753",
+      "date": "2010-07-13T15:03:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "57f85a63e0583e2183a04b17aa169e6dbd95ef3f",
+      "date": "2010-06-22T19:20:41Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5f883a7398b39033822791b7dd83b6644b0b3201",
+      "date": "2010-06-21T19:00:49Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "dd947dbd8b09c2b570e18f4ecdf9ae86135c1756",
+      "date": "2010-06-21T18:24:57Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "21e95c465e63f19ec0e8766fd94f9c4d1d382287",
+      "date": "2010-06-21T16:24:58Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d25583ba4887dd79cf1c2ca9530c7e40528445d3",
+      "date": "2010-06-21T15:18:53Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "49cd22d7f283030a79ddb7e2aaf00199c8887faf",
+      "date": "2010-06-21T14:55:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b77e62d5f146765cc0a33b8ff4bbbfb0819b0321",
+      "date": "2010-06-21T14:36:36Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "952e6cee57fb7e94a772c4a71a3ce3ba49b2d3f5",
+      "date": "2010-06-17T18:01:04Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "665d3abdb996027a8a09a03a036c5ff1cf296c69",
+      "date": "2010-06-17T17:27:01Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "16bfcc31cc3aac5fdbc8f796106d9bf71af94a15",
+      "date": "2010-06-17T15:40:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "962b4c3d59f91b82c59456643aaa6bb1369a8764",
+      "date": "2010-06-17T15:13:32Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5f72de9603c238ec2b23d89b909ad57ddd0fc968",
+      "date": "2010-06-17T15:09:37Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "05223488cf5956fe070c0cd62afbd0abd487838f",
+      "date": "2010-06-17T14:55:03Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "23da786e22f1ab7f2ed9050684b39ac499b8de0d",
+      "date": "2010-06-16T02:10:35Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "af0ced4ca7b35137c26055c327b7f191676bf01c",
+      "date": "2010-06-16T01:49:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d7be079241fc2ac8eeb15dd6409b0b7bd5f65881",
+      "date": "2010-06-16T01:30:28Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "abe3966fe00635ef9f98c54fa392a666d227bfca",
+      "date": "2010-06-15T00:39:49Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "df480bd68ae57a8ad56097bed0e7607332655856",
+      "date": "2010-06-15T00:27:19Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "20112b6fa41b4c6d873d50c65f6747cc759046f7",
+      "date": "2010-06-13T23:40:17Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a97bd6d57454ef36786088d4c4d0d574d5add52e",
+      "date": "2010-06-13T23:33:02Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b77f30f2786d7ed94d60d30b7716bc73170db4b5",
+      "date": "2010-06-13T23:10:34Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "49b79b0b710b48edcae46939ccce50443d151603",
+      "date": "2010-06-13T01:16:19Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "816b79bbaf05e720a4d2bba92a0dc1c9d1c75f00",
+      "date": "2010-06-13T01:12:33Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c0d2df5fc1a003c89f3c7ceb7eb08e3f6a89eee9",
+      "date": "2010-06-13T00:36:39Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "1eebe4a0d21a0000a7c1c93588d7746f40051eb7",
+      "date": "2010-06-13T00:36:04Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e1e6f16feaa67aa22a127125788eeee778457eff",
+      "date": "2010-06-13T00:00:23Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "52144844307a378cd66b8e80b1f9caf7afcfb84f",
+      "date": "2010-06-12T17:12:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "6d573d64451fcd72a8ecaf71594311596e8f1c62",
+      "date": "2010-06-11T19:57:50Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b7e32d0bcdce5a10d5bd63af02edcf97031d8285",
+      "date": "2010-06-11T14:27:37Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "4d7ebda0e29b3dafe93f885dde11d7db6c235bfa",
+      "date": "2010-06-11T14:20:10Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "73922eb9ddc93a7c2b916542195614e6ac44f304",
+      "date": "2010-06-11T01:49:44Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "fb0c89410c4daeaa0630fef02bf348a2ba22f513",
+      "date": "2010-06-10T21:19:56Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f5ed206209285c631f4e6cae3b599944c0f9f69e",
+      "date": "2010-06-09T20:27:49Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a64a5baf49a327f374647002af0d049cacc1ce09",
+      "date": "2010-06-09T16:28:51Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "7fad3351e95c9e797ec2a4f4b3c2d44bd73df0e6",
+      "date": "2010-06-09T16:16:35Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f4080532eda2f9f85c5ebe8861714327e84a0eea",
+      "date": "2010-05-18T15:26:49Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e276680b60629784fa4633d2eab9f9ba68c43865",
+      "date": "2010-05-18T15:14:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "61058cbd88b1adcb4209ff8e98e02b4a141a0957",
+      "date": "2010-05-18T13:55:03Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c9ee534a7464447aa1813b88517f33a9500d256c",
+      "date": "2010-05-18T04:11:41Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e9974c5203f4609ab8e59465e1a98f9bd36f4063",
+      "date": "2010-05-18T03:58:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "febfdd2dec5609c1a0a9995ece9bee9271097df1",
+      "date": "2010-05-18T03:17:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "05cbef552a2741f56fa567e2fbe604d887a22a40",
+      "date": "2010-05-18T03:17:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "328e1cc2e7fbb5da76686090a19533769720e27d",
+      "date": "2010-05-18T01:54:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "99c0db500536aec77ae82006483470759bd9cb2d",
+      "date": "2010-05-17T23:19:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b755cea03fca8c11d39b3d57e14bfa29ee92736f",
+      "date": "2010-05-17T22:20:14Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f5cde834173fef8be03792d640991ce78c7102ed",
+      "date": "2010-05-17T21:07:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a20c1b5a195a724ad7b06bc150e4e1bfffa6c340",
+      "date": "2010-05-17T21:05:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "acbc7d872332e8a531f07d21e37ad1c712a11700",
+      "date": "2010-05-17T21:01:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d7db557498f91effb2720a8a990ad8a82d9c99a8",
+      "date": "2010-05-17T20:28:51Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "36151752786b6e5d2b865ba45329628513e3d011",
+      "date": "2010-05-17T18:38:38Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "bddc417d4cf4b704fe1d8fe23c42903e4429dc61",
+      "date": "2010-05-17T18:18:51Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "f3339d89d9a618431a974d63aca3c9c8d24a6617",
+      "date": "2010-05-17T17:14:27Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c6954fbfc582dbfa0c73235d4940a7b67af27a41",
+      "date": "2010-05-17T17:14:12Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "11d16af8857f8ea04a97a027eafc5554af1e1c0c",
+      "date": "2010-05-16T16:44:59Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c0f4315ab01e570a27503ec12ad56ef8c0d054e3",
+      "date": "2010-05-16T16:27:37Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "78bf2c27b847d89744117df6555b599e2e092ce7",
+      "date": "2010-05-16T05:56:37Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2c86243bc59b33bc21396365b19a51fb9eed4f41",
+      "date": "2010-05-16T05:49:45Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2cca75e947f2eaf1bbd659e9782f0f90c15eaa44",
+      "date": "2010-05-16T05:03:55Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c4bea35d2ab800915dd89a0f9d2779c699ed0f2a",
+      "date": "2010-05-16T04:57:35Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b306730058a37c0fda96f3a4bfdc32d1e0b76ce1",
+      "date": "2010-05-15T20:24:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "a45e61dda817664de0caf46d75cf64b5b34d9909",
+      "date": "2010-05-15T20:24:21Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "25c1d3aecbd92cfaca00e7622de2fc46307d8a4f",
+      "date": "2010-05-15T20:10:10Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "2595f4d489c21a31b86d47f6a7317ad3a8a44598",
+      "date": "2010-05-15T18:07:03Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "be04737a77cb82b98ea0030018eb6576daae5b4e",
+      "date": "2010-05-15T15:21:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "97d139595d4de588ae6172381039bea8902df974",
+      "date": "2010-05-15T14:57:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "8c3561c00e8fc979e60eb46f203f43c61ff64821",
+      "date": "2010-05-14T00:29:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "d4631d82e3ebf1f8e21a30806c9ae28780817ab4",
+      "date": "2010-05-13T22:55:53Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "c63f6c274a893230944913c04072a699e78bf25d",
+      "date": "2010-05-13T22:54:31Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "79c763e0755fa6e0a81a2d95f464c1f92bb08509",
+      "date": "2010-05-13T22:20:22Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "82f2dfd44c013d5420318e47c538b626be6392c4",
+      "date": "2010-05-13T21:03:22Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "adbf5bf810592ffafdbffa87eeea1ce8d9dee692",
+      "date": "2010-05-13T20:22:16Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "739195a5a7a6aab70f081b9e2f7f1fa4c16b0237",
+      "date": "2010-05-13T20:16:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "b84bdcf67a4531b1b46897724e1cb4e5c2579ce4",
+      "date": "2010-05-13T19:50:29Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "e979d4a5deeac020477d565b97d68ff4b07c1aca",
+      "date": "2010-05-13T19:33:39Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "cd95ec8e9be13d1eb2abcf57927552e0dd0c99bf",
+      "date": "2010-05-13T19:09:49Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "049d3e12e30bf61d846ebb6712b03bfdb35e4b84",
+      "date": "2010-05-13T15:59:28Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "8ed3c09a47565ad16208a3e4514385de21aa272f",
+      "date": "2010-05-13T15:48:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "156331314c10413b97012bc65e1e5fdafa5ce25f",
+      "date": "2010-05-13T15:42:11Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "9246d58f528280e2ba9de7911991c97ca54a5a4a",
+      "date": "2010-05-13T15:39:27Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "179379cbe1108c02d106c10444d481a070289bb0",
+      "date": "2010-05-13T15:30:54Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "commit",
+      "id": "5aa745e4272cf599185a22079cccc1e472773a41",
+      "date": "2010-05-13T15:19:45Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 340378,
+      "date": "2010-08-04T02:52:29Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 340379,
+      "date": "2010-08-04T02:55:57Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 370999,
+      "date": "2010-08-25T14:36:25Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 371025,
+      "date": "2010-08-25T14:48:37Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 373799,
+      "date": "2010-08-26T21:41:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 385307,
+      "date": "2010-09-02T16:34:48Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 385373,
+      "date": "2010-09-02T17:10:59Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 385374,
+      "date": "2010-09-02T17:10:59Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 401358,
+      "date": "2010-09-11T19:05:19Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 401361,
+      "date": "2010-09-11T19:08:17Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 401362,
+      "date": "2010-09-11T19:09:21Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 408349,
+      "date": "2010-09-15T13:00:44Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 408571,
+      "date": "2010-09-15T14:55:04Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 408578,
+      "date": "2010-09-15T14:59:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 416440,
+      "date": "2010-09-19T20:53:14Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 416452,
+      "date": "2010-09-19T20:57:20Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 444884,
+      "date": "2010-10-03T16:57:39Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 444886,
+      "date": "2010-10-03T17:01:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 444911,
+      "date": "2010-10-03T17:21:01Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 458624,
+      "date": "2010-10-09T23:03:49Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 458635,
+      "date": "2010-10-09T23:15:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 458657,
+      "date": "2010-10-09T23:36:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 466446,
+      "date": "2010-10-13T17:24:32Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 469622,
+      "date": "2010-10-15T00:05:17Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1701580,
+      "date": "2011-08-01T16:09:54Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 1795248,
+      "date": "2011-08-12T22:19:24Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 3893898,
+      "date": "2012-02-09T19:31:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 3893923,
+      "date": "2012-02-09T19:33:15Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 4555033,
+      "date": "2012-03-17T16:15:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 4555048,
+      "date": "2012-03-17T16:16:54Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 5315067,
+      "date": "2012-04-24T19:29:54Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 5586241,
+      "date": "2012-05-08T20:59:27Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 5587608,
+      "date": "2012-05-08T21:54:38Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 5614324,
+      "date": "2012-05-09T23:13:18Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 6220178,
+      "date": "2012-06-09T14:19:57Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 6699301,
+      "date": "2012-07-02T02:18:23Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 7727071,
+      "date": "2012-08-14T14:15:35Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 7747802,
+      "date": "2012-08-15T04:28:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 7882842,
+      "date": "2012-08-20T20:45:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 7883120,
+      "date": "2012-08-20T20:54:32Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 7883502,
+      "date": "2012-08-20T21:06:28Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 8161456,
+      "date": "2012-08-30T14:39:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 8162071,
+      "date": "2012-08-30T14:57:46Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 8163237,
+      "date": "2012-08-30T15:30:05Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10303075,
+      "date": "2012-11-12T20:32:55Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10451028,
+      "date": "2012-11-16T15:43:21Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10733608,
+      "date": "2012-11-26T21:00:17Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10739522,
+      "date": "2012-11-26T23:33:38Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10740888,
+      "date": "2012-11-27T00:18:50Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 10787065,
+      "date": "2012-11-28T02:17:40Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 11868166,
+      "date": "2013-01-04T00:54:03Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 12187566,
+      "date": "2013-01-13T00:42:17Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 12187573,
+      "date": "2013-01-13T00:42:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 12188047,
+      "date": "2013-01-13T01:31:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 12188051,
+      "date": "2013-01-13T01:32:19Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 12188317,
+      "date": "2013-01-13T01:57:18Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 12197627,
+      "date": "2013-01-13T18:26:45Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 13495944,
+      "date": "2013-02-13T14:28:29Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 17879324,
+      "date": "2013-05-14T14:26:30Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 18682259,
+      "date": "2013-05-30T14:07:44Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 18685443,
+      "date": "2013-05-30T14:54:53Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 18686623,
+      "date": "2013-05-30T15:11:26Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 20432273,
+      "date": "2013-07-03T17:38:20Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 20768135,
+      "date": "2013-07-10T19:50:25Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22222352,
+      "date": "2013-08-07T00:37:18Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22224183,
+      "date": "2013-08-07T01:31:02Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22224443,
+      "date": "2013-08-07T01:38:19Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22224554,
+      "date": "2013-08-07T01:41:17Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22261759,
+      "date": "2013-08-07T15:57:35Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22397691,
+      "date": "2013-08-09T14:26:02Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22398405,
+      "date": "2013-08-09T14:36:44Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22399045,
+      "date": "2013-08-09T14:46:52Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22443308,
+      "date": "2013-08-10T17:07:34Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22458379,
+      "date": "2013-08-11T14:20:05Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22461853,
+      "date": "2013-08-11T17:51:07Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 22964095,
+      "date": "2013-08-20T17:54:20Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 23340555,
+      "date": "2013-08-27T14:28:18Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 23720335,
+      "date": "2013-09-03T15:16:13Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 24754940,
+      "date": "2013-09-19T16:54:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 27508249,
+      "date": "2013-10-31T17:40:25Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 28706878,
+      "date": "2013-11-18T15:28:41Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 29718896,
+      "date": "2013-12-03T15:28:42Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 29955773,
+      "date": "2013-12-06T01:19:22Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 30088820,
+      "date": "2013-12-08T19:08:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 45389675,
+      "date": "2014-06-06T22:15:04Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 45389692,
+      "date": "2014-06-06T22:15:16Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 67751805,
+      "date": "2014-12-20T22:13:06Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 67752034,
+      "date": "2014-12-20T22:21:16Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 67752103,
+      "date": "2014-12-20T22:24:09Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 67752119,
+      "date": "2014-12-20T22:24:33Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 67752127,
+      "date": "2014-12-20T22:24:43Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 67752136,
+      "date": "2014-12-20T22:25:02Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 67752146,
+      "date": "2014-12-20T22:25:18Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 72922593,
+      "date": "2015-02-04T19:35:54Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 72927766,
+      "date": "2015-02-04T20:03:08Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 81925867,
+      "date": "2015-03-16T20:39:17Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 81928951,
+      "date": "2015-03-16T20:49:47Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 129221224,
+      "date": "2015-08-09T17:39:12Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "com",
+      "id": 129221259,
+      "date": "2015-08-09T17:39:56Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mailman/mailman",
+      "type": "issue",
+      "id": 120,
+      "date": "2015-03-16T20:27:59Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mikel/mail",
+      "type": "issue",
+      "id": 105,
+      "date": "2010-10-03T16:40:19Z"
+    },
+    {
+      "dev_id": "titanous",
+      "repo": "mikel/mail",
+      "type": "issue",
+      "id": 72,
+      "date": "2010-06-13T01:05:42Z"
+    }
+  ]
+}

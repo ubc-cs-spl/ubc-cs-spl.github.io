@@ -1,0 +1,1958 @@
+{
+  "user_repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+  "dep_repo": "vmware/rbvmomi",
+  "dep_date": "2014-05-08 22:42:12 UTC",
+  "dep_commit_id": "19bdbd00222e3850a08fbaf321e1f330e93fe52b",
+  "social_date": "2014-09-22 09:29:39 UTC",
+  "devs": [
+    "mwrock"
+  ],
+  "interactions": [
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f29a1807d2faed6036c8713ca2413f74110921b8",
+      "date": "2015-10-12T16:58:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "19272e9225984a8e3abc8a0a51c978044468430a",
+      "date": "2015-08-25T23:02:58Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "5c9bbba9999de7e0e58f99cccb3b365d7617f413",
+      "date": "2015-08-20T00:19:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "7d92a46dfac7caeec07d195f363efae453766a3a",
+      "date": "2015-08-19T19:19:00Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "2bfa003fdf03849135e836931501763b2d6730ad",
+      "date": "2015-08-10T19:17:52Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "92a28e0fc0dfd79ff016d4ef5b8a86163ba33e10",
+      "date": "2015-08-10T19:11:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "9c92974467182da45b91f99e6a0b11a800539c11",
+      "date": "2015-07-27T18:56:39Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f8565743eccbce744a59388758a8825a168d141e",
+      "date": "2015-07-21T14:25:32Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "02cdaecbb191a1bce40af6ba87e43055aea16aff",
+      "date": "2015-07-21T14:24:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "86906a8b8da3ccede0a7cc7343796f27ca912265",
+      "date": "2015-07-21T13:58:36Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "b3c99e2ce9d66dd511aae0d78c071a052e78dd5d",
+      "date": "2015-07-20T04:18:15Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "12c2168df02dc13d1870e5e7f11fcb778178b36b",
+      "date": "2015-07-15T19:49:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "42f884e7d0869d924e40013f206d2ceed454d70b",
+      "date": "2015-07-01T02:37:40Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "eb797621ecc1e4deb680eb2f2b390ab9400b5afb",
+      "date": "2015-06-28T03:32:47Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "42dfb6f3cb341bec8c8251a7395a542ce41665b0",
+      "date": "2015-06-28T03:28:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a162dea8a691ff9276c98dca44967d11d8b02085",
+      "date": "2015-06-27T21:50:49Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "62ff3f8614991c5b5258a009d310a1bd3c5ab9a5",
+      "date": "2015-06-27T21:50:28Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "9dce83026ca067e6f24819a8833a3a468f823213",
+      "date": "2015-06-27T18:53:47Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "319bfb15194fee0cef7000cd847bc3f9643c4d03",
+      "date": "2015-06-22T02:45:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1c499896937cba6be943910e1ea948cd48c0e311",
+      "date": "2015-06-19T05:07:54Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "0f9654e6e4901430aa7a0784e71fd05839b2bd67",
+      "date": "2015-06-19T04:59:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4c934ae985ef61eaaa4d27a73db43f4801c997e9",
+      "date": "2015-06-19T04:44:36Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1b4fe06ca7f11c7e5b5c391dd01324cbc6dc90cf",
+      "date": "2015-06-19T04:43:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a79085e6ed97312f1fe5a5090a526f8bb94d5d83",
+      "date": "2015-06-15T21:54:37Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "2e0753eba3fe4650504acc4fba17b4801daf958c",
+      "date": "2015-06-15T18:04:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "6a6e95586eb863919f6f02d871dfe6edd68d3fe6",
+      "date": "2015-06-14T21:03:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a0eb85e765b5ad94e707a13cfeec5647090fd81c",
+      "date": "2015-06-14T20:28:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "6c5db23940c4fe7411f2e48c5b08e441450ae726",
+      "date": "2015-06-14T19:33:51Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "3bdbaf954e69f79bb7093c0f7dc6c09f0efabdba",
+      "date": "2015-06-14T16:18:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f65fe2739c63d69ecda352f6b37eed28c943c8f2",
+      "date": "2015-06-13T18:17:27Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "029b5e7546bd799c48f3145477006df12dd76419",
+      "date": "2015-06-13T18:11:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f5e5ed7e989d027f5da1ad2e95644d2844bcb9e0",
+      "date": "2015-06-13T05:04:31Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d2a787f69b5fc119a0b33de75928621feea05960",
+      "date": "2015-06-13T02:48:58Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "88c31c9231fc30821ee394a689cac80f10738931",
+      "date": "2015-06-13T02:47:08Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "00c7847b46e99bdbba469e476a03d457c68e1322",
+      "date": "2015-06-13T02:43:46Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "0428bb11afbfd754033004d1c3d46e23df87157d",
+      "date": "2015-06-09T03:04:29Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f5090399a268d7c53f9f4c10d7d50c31cc2edf9a",
+      "date": "2015-06-09T02:37:37Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "b8fdcd34ca9a5395e3efdef80af6081b4add73f9",
+      "date": "2015-05-30T14:27:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "9a8e3bf89f6de3224243f80be0acb917dd30e338",
+      "date": "2015-05-29T22:28:40Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d16e22374ff3c5ab8609faa16e448dfdd1aa6166",
+      "date": "2015-05-27T19:03:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "acf9d7ec16bda89af68157939afbbce83ac3a275",
+      "date": "2015-05-27T19:02:39Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d394ee74879a625a0ad2ab27aaad0429ba798833",
+      "date": "2015-05-27T19:02:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4268ba26ec5f709199148ebd732e2b2ca2ee5fd0",
+      "date": "2015-05-27T19:01:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "b6cc4ed94c3cdc38623cc178874727cf7d5484b7",
+      "date": "2015-05-23T00:05:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "28671e5f393714458e5b7f616ed477f0e6f29884",
+      "date": "2015-05-22T23:51:34Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a92f57d2b9d771107df4a1b1b9901e1c2857ec4d",
+      "date": "2015-05-22T23:50:24Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "cd0e903939c1c47591f203c881618a2c280338b0",
+      "date": "2015-05-22T23:46:12Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "285a2859ae6b578985d04ad122aeb90625174d1a",
+      "date": "2015-05-20T23:47:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "970d7fd61505e31e27f2836e61aba29204518026",
+      "date": "2015-05-20T23:46:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "9d6551a187f13b5b8a96df5b249c0f2f51d17263",
+      "date": "2015-05-20T23:46:26Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "23db09943691b2347d8ec7b77d778dd2dabf1dcc",
+      "date": "2015-05-20T10:35:44Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "578f27e1d105452c1470402242c325346679edb0",
+      "date": "2015-05-20T09:15:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "55ddbea714aa0b0acd62a175b6d62f545c1e99dc",
+      "date": "2015-05-20T09:12:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1f6b3ac6eccceb328c490edc961aff5c30d46d16",
+      "date": "2015-05-20T09:11:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4a8c3ac13a23df0642f16a8fbc3f45889a44fde9",
+      "date": "2015-05-20T07:14:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "cd5e613e1c03b335b78b88b883b1aef72cf47779",
+      "date": "2015-05-20T07:13:22Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a54fd377035c864f3d7235ebfa38bf940a8fa36e",
+      "date": "2015-05-20T04:49:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "579ebfa5d1a40ff189380aec1bed43b8b194c708",
+      "date": "2015-05-20T04:43:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a2488afb958b7c9730f95017c87546f1c402b856",
+      "date": "2015-05-20T04:42:20Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "b22f5af9b9191af800ab4dab935fe5f1c9c10257",
+      "date": "2015-05-16T17:07:24Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "21ba79b0bf80ef64214e57ace349cc5a27ec60d7",
+      "date": "2015-05-16T17:06:58Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "993efee1649656127f3e358924f9f5d9d6ab2561",
+      "date": "2015-05-15T23:43:20Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "179d321eb3853f974018bb0ec2992f0b36a736de",
+      "date": "2015-05-15T23:41:53Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "e116ef84a9b5075adec418e07b909ef415e1bf34",
+      "date": "2015-05-15T23:40:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "91f838837e7be69801a456e70664cb2329df4246",
+      "date": "2015-05-15T23:38:34Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "04d7ec9642b3a4fa4b1a4be95511754db2ad2c85",
+      "date": "2015-05-15T02:38:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f5221c175e44e5beb89a368030a61a4878a74707",
+      "date": "2015-05-15T02:36:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "ae08a74b03e55e7cc2fe10a24687920bdca626ba",
+      "date": "2015-05-14T13:52:34Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "8a92a88156f5a80938e8784aed6453ddf5659211",
+      "date": "2015-04-27T19:59:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "028018299ba29cdd3b3a49138160c8b966071a2d",
+      "date": "2015-04-25T00:00:37Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "81abfc9a98cfedb8f68d9d8704e956d5389c95d7",
+      "date": "2015-04-23T02:15:07Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "e1d7d31007acb8c143277f34249773a21b514faf",
+      "date": "2015-04-23T02:13:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "715916818c909d68d1628e48f3ea913dbf7dd984",
+      "date": "2015-04-23T02:06:25Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "776d34c40ae7a928ad4b5823db73be4525c290da",
+      "date": "2015-04-23T00:41:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "e578860d0776eac37e6a609103f5c2216ddc7b9c",
+      "date": "2015-04-18T08:02:03Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "05f7bd574eaf42079a3ddd01e543f054eaef61ee",
+      "date": "2015-04-18T08:00:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "9ef38cd2defc12acd451ee70f999314000168985",
+      "date": "2015-03-18T16:03:31Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "574a86da9f855fb37abe87f59d529adccea136f1",
+      "date": "2015-03-13T20:52:34Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "87ff153ee0d12a414f369512960530b4911b2ad8",
+      "date": "2015-03-06T01:20:26Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a90965d48d907b411e2cb3782d7fa278f93e6602",
+      "date": "2015-03-04T23:46:45Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "b78ea5f9c158e74911310c4029836fe44d3c2060",
+      "date": "2015-02-13T19:55:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4f68618c66cc109749f6ce621cff7abc495bda80",
+      "date": "2015-02-13T19:52:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d0e04390b7d50faf7241626b95f7f6d0d31feb9a",
+      "date": "2015-02-13T19:48:25Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "101fe403f6968979d297f50437a23192c56a40a5",
+      "date": "2015-02-13T19:39:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "42ec08d190804ad326d18f40da682ed33b61dd22",
+      "date": "2015-02-13T19:38:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "2ed4636fefea7f208d960280c30e4d3f18da1579",
+      "date": "2015-02-13T19:35:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "76c8e7419d05e69921ad39950cadb7433bab5c05",
+      "date": "2015-02-04T05:01:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "ba23b4ac96ebeac90726968afdd4ad4324e88c29",
+      "date": "2015-02-03T07:27:24Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "201b3c3fb59176f2bb3e6a5f31f49ea3ef32f59f",
+      "date": "2015-01-30T02:35:24Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "c359ca9bdfde74cc617deff9f198cd763164ab02",
+      "date": "2015-01-20T01:46:00Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4f1920ed48cd719643241129bb24aa11424a3d57",
+      "date": "2014-12-30T03:21:46Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "29ffbf22d8e882aa3107bbbb05edfd1688a28799",
+      "date": "2014-12-14T06:49:25Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d8585e3e4cd7497a04e9812aa8ff3f24954338dc",
+      "date": "2014-12-14T02:38:39Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "6f5baa3cd877f715d9983653a0d22d28981f3d27",
+      "date": "2014-12-14T01:12:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "ab4edb7f512ac62a4e1b2fca06fb2b7601cd9c1b",
+      "date": "2014-12-14T00:52:37Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "b04c6e817de25ec82cfa6d93c697e396b54e7154",
+      "date": "2014-12-14T00:02:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "18b78c334c4af21b4f922001be5592598d27e8bf",
+      "date": "2014-11-19T21:10:10Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a1d025fd99fa558e0a2ef7f85e388d2521b3dc91",
+      "date": "2014-11-07T00:50:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "53f727e6f02c867626993ca53976c7cdc69ca4d7",
+      "date": "2014-10-30T21:53:31Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "e19d2772b27bf10fce766415864a5c2f5f43f65f",
+      "date": "2014-10-30T21:52:55Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "ec6ee818ebbda94f726efbc02b1f9a1bb53880d5",
+      "date": "2014-10-23T04:01:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "ba090d2a32ca7f25a010135b2e12f282b53ab9f6",
+      "date": "2014-10-23T02:22:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "17a3054908b86b6a8de404efd4dd62654e898612",
+      "date": "2014-10-22T02:47:00Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "c1cb5c1d43c7424cdb7f1ab7b2d49a86c50fb431",
+      "date": "2014-10-19T23:04:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "41784f642b85d2b7ffbdd41db0c0b5320f6defe0",
+      "date": "2014-10-17T20:53:12Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "c10267705bc80bd864dbb3582707ba645a11b8e4",
+      "date": "2014-10-17T17:58:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "7d52370ed0985363858a7923b89aec9bac1ceb81",
+      "date": "2014-10-17T17:09:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d31e29c03600409704e5aa7e1848833e0f993ce6",
+      "date": "2014-10-17T07:56:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "14a3e386a1122bc2f54fc2031f9c4a2ed6a3309c",
+      "date": "2014-09-09T15:09:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "969c5a392d3a77fb9d18c529a552fbe0e3b4538c",
+      "date": "2014-09-08T19:19:12Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f2c2e9b3ff3005c71c9f46aeff747db71df6d53c",
+      "date": "2014-09-08T17:54:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f3ac6f8ac4dda59e0c5e3ba80d672ac2cf3345c5",
+      "date": "2014-09-04T01:18:53Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1024324e0b549c150905644924a34eb13b5ace52",
+      "date": "2014-09-04T01:17:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4013c256d84d96a2a8e7285a0b1dd252d875ca4a",
+      "date": "2014-08-27T07:51:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "9f32c625dca213269817374f05cc0696e148acae",
+      "date": "2014-08-22T02:40:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "0bcccc53d52bce1f5f484f0cbd7b9060c6e7a861",
+      "date": "2014-08-21T00:43:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "16c349e27d80a46e3cf5e8b126cba6705629608d",
+      "date": "2014-08-15T02:29:01Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "c720b20edc9efe7974985aa0bccddc54bff97498",
+      "date": "2014-08-14T06:01:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "2bffd2b413a7043cfae8f477144cd524bf4673aa",
+      "date": "2014-08-13T20:23:22Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "eeb144a1f8291779f3e7763f181db0138b3722ca",
+      "date": "2014-08-12T23:45:03Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1fce62659f5849beb13e7f30df918d1d701fd11e",
+      "date": "2014-08-12T22:19:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "9f4d9f6c08b10418243d779e6626188922e7ef5e",
+      "date": "2014-08-01T00:51:10Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "fca3e385bbbd4c07e5200caa901906708c46ba68",
+      "date": "2014-08-01T00:01:19Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "8dacdadf80046b73c28fe0594c2ae9f2cc0d9d92",
+      "date": "2014-07-31T04:16:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "3797a97b41c9c3a23df854a8055505862341e825",
+      "date": "2014-07-25T10:24:15Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "58d9b1d0c2770015c7ff335a400741bd1bcfde74",
+      "date": "2014-07-25T10:02:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d69dc734ded5a6892cc483f32bcf18875e7a80ae",
+      "date": "2014-07-25T09:49:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "e7d99b1389b293250439a30d7aedc2a992b490d8",
+      "date": "2014-07-25T09:36:58Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "13f1a9cd53bf5f109113b15348e56997953f2132",
+      "date": "2014-07-24T01:26:27Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "fdb0de10b169e00dca7d8abc7923ad9799dfd927",
+      "date": "2014-07-24T01:26:01Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "c521fe0fd9eef634d62c600b85f38d51d315f3fa",
+      "date": "2014-07-23T22:17:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "bd34f87510d2fa23c77da09c3aab0df0bbb96fbc",
+      "date": "2014-07-23T21:52:28Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a35294d1b0c490d266c780e3920096c98b0535ef",
+      "date": "2014-07-23T18:11:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "6b4a98d3c9eac43b0465075cad7148c258a49d77",
+      "date": "2014-07-23T17:38:52Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "2a3c5447747e33aff391ab1e3ff6f3248a8a8c97",
+      "date": "2014-07-23T00:39:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "6bf1fcaf1266faef26fa0b1afbd467e94f874dcc",
+      "date": "2014-07-22T01:09:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "2ef0c46f09d438fa68da9c0c49ab91acf493afc1",
+      "date": "2014-07-22T00:08:21Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "900d86de0185d0335f11bd52b6471ed547f000bf",
+      "date": "2014-07-21T21:06:28Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a5c71e6e5a16784a42b463ce7d3c669038354802",
+      "date": "2014-07-21T20:51:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "83f5e0e67b19bd1586af41c58bce4f5e8e3b3664",
+      "date": "2014-07-18T01:51:03Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "26deae6b32436cf2e7b897de37d9ab7f5e4689d4",
+      "date": "2014-07-16T23:23:12Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d1bcafe59b75ec6e27ee792bd496da842ea39ab7",
+      "date": "2014-07-16T02:18:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d1ce04fd5b5c4979c455358b9562e8666def22f4",
+      "date": "2014-07-15T20:01:45Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "e0b1340a7f6e1269ea5b3a95fe5939f889476acd",
+      "date": "2014-07-11T21:30:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a4e8c8293d637695f4fd8ed177ef0ecd7d2605c7",
+      "date": "2014-07-09T03:52:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "f80c9ce5716f630a1516dcafdb0a6cfc3b0d93de",
+      "date": "2014-07-04T08:16:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "99429b8c079946dd60bbb457a1a62f2a9bf74f1c",
+      "date": "2014-06-30T07:11:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "aec9c22009df65972e1cc539b4c6b9265ea20839",
+      "date": "2014-06-30T05:59:19Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "7a90d177407bf49cf96418633e2903c2770f2274",
+      "date": "2014-06-25T19:44:47Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1ae445ddeb2ca8e1a516e5bc702264f6bc0116a7",
+      "date": "2014-06-25T18:08:36Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "bc15994b940bb9ba54776afa989cd9c84ffaa38e",
+      "date": "2014-06-18T17:51:50Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4d623478d21db7260d0fd9b835fc741e067acc4a",
+      "date": "2014-06-18T12:37:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1cd2bfb906645e9ec0567463dbed94b0483bdc40",
+      "date": "2014-06-17T22:45:26Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "d69754fa6cd06512da260945e8704674a7da12dc",
+      "date": "2014-06-17T18:48:47Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "063e18b43f66b4a6cc5401df49ef6d4c3be8ac94",
+      "date": "2014-06-17T17:37:22Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "8dd8a74095e694478c05eecd35d36ee1d529b7d2",
+      "date": "2014-06-17T01:43:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "0bce85586df2b247cc1b72e96fac2a299cc1be69",
+      "date": "2014-06-17T01:38:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "198f73ce81fbd0c679ee276da7ba89a964370067",
+      "date": "2014-06-16T22:00:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "6ed721a4d94a563a4c9d7d12ef5d143bc7905349",
+      "date": "2014-06-16T18:50:20Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "0829d0b423df6b1184a4537365a038c373f125f2",
+      "date": "2014-06-16T08:42:02Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4cecec58ab287a8bd30176b7b45436114eb828d3",
+      "date": "2014-06-16T08:39:25Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "5b241909d5bf4ba842b9c430b4ca391207618c8e",
+      "date": "2014-06-13T15:31:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "edd91dd4d7acb947fccaefa11fb655a4761f32f4",
+      "date": "2014-06-12T22:57:26Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "4ea039b22fd20c74eba216632acb4ab60c56ff15",
+      "date": "2014-06-12T15:07:41Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "fd085f504db4c9fffc5fb41e06248be7520c5f88",
+      "date": "2014-06-11T21:56:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "95e6203dfa765b9948f09853410d634d70804098",
+      "date": "2014-06-11T21:55:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "1ac072e04eb76dc5870abd900332e79ad1bdbbf8",
+      "date": "2014-06-11T21:53:31Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "a57e36a4da28caa2457c23f4880c7343eb940544",
+      "date": "2014-06-11T15:45:03Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "180da4bb57bcbbe09bbb62d241ba9c0efa6972c7",
+      "date": "2014-06-11T14:43:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "c8cc1847c5a8ec27a861e13684b26f39358c18e5",
+      "date": "2014-06-09T09:03:58Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "682ebc2008af49d731a2eb2d376778aec0d85b4a",
+      "date": "2014-06-07T20:40:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "commit",
+      "id": "41d5357119ff8179aeb41923300ca61717014e84",
+      "date": "2014-06-07T20:39:46Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 105591157,
+      "date": "2015-05-26T16:26:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 105926305,
+      "date": "2015-05-27T14:11:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 110391985,
+      "date": "2015-06-09T14:54:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111168657,
+      "date": "2015-06-11T15:13:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111230982,
+      "date": "2015-06-11T18:20:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111318169,
+      "date": "2015-06-12T01:01:23Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111337585,
+      "date": "2015-06-12T02:58:34Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111356350,
+      "date": "2015-06-12T04:39:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111553460,
+      "date": "2015-06-12T16:47:19Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111626100,
+      "date": "2015-06-12T21:42:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111659121,
+      "date": "2015-06-13T02:52:07Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111659360,
+      "date": "2015-06-13T02:54:02Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111670458,
+      "date": "2015-06-13T05:07:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111724234,
+      "date": "2015-06-13T16:01:44Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111738378,
+      "date": "2015-06-13T18:24:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111742847,
+      "date": "2015-06-13T19:44:08Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111785059,
+      "date": "2015-06-14T05:45:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111852160,
+      "date": "2015-06-14T17:16:49Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111861881,
+      "date": "2015-06-14T18:34:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111868663,
+      "date": "2015-06-14T19:34:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111872703,
+      "date": "2015-06-14T20:16:58Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111874202,
+      "date": "2015-06-14T20:28:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111876041,
+      "date": "2015-06-14T21:05:57Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 111910442,
+      "date": "2015-06-15T03:29:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 112223254,
+      "date": "2015-06-15T22:04:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 112223754,
+      "date": "2015-06-15T22:07:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 112659033,
+      "date": "2015-06-17T05:40:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 112671545,
+      "date": "2015-06-17T06:30:27Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 112691918,
+      "date": "2015-06-17T07:27:02Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 112815609,
+      "date": "2015-06-17T14:07:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 112850809,
+      "date": "2015-06-17T15:36:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 114224027,
+      "date": "2015-06-22T19:10:20Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 116189566,
+      "date": "2015-06-28T03:35:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 116189622,
+      "date": "2015-06-28T03:38:24Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 120177894,
+      "date": "2015-07-10T00:01:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 120756685,
+      "date": "2015-07-12T19:52:36Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121327948,
+      "date": "2015-07-14T18:14:54Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121436518,
+      "date": "2015-07-15T00:40:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121436869,
+      "date": "2015-07-15T00:44:08Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121440097,
+      "date": "2015-07-15T01:01:34Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121676543,
+      "date": "2015-07-15T16:49:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121678177,
+      "date": "2015-07-15T16:55:04Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121682109,
+      "date": "2015-07-15T17:10:45Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121710583,
+      "date": "2015-07-15T18:50:28Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121722572,
+      "date": "2015-07-15T19:35:30Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121724908,
+      "date": "2015-07-15T19:46:50Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 121778146,
+      "date": "2015-07-15T23:52:50Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 122379564,
+      "date": "2015-07-17T19:15:52Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 122756391,
+      "date": "2015-07-20T04:18:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 123340604,
+      "date": "2015-07-21T14:32:32Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 123342175,
+      "date": "2015-07-21T14:33:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 124604829,
+      "date": "2015-07-24T18:12:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 125284573,
+      "date": "2015-07-27T17:46:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 125305274,
+      "date": "2015-07-27T18:57:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 127624067,
+      "date": "2015-08-04T14:07:07Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 127641207,
+      "date": "2015-08-04T14:56:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 127769963,
+      "date": "2015-08-04T21:37:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 128377741,
+      "date": "2015-08-06T14:07:09Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 129576160,
+      "date": "2015-08-10T19:30:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 132733430,
+      "date": "2015-08-19T18:28:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 132745691,
+      "date": "2015-08-19T19:08:14Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 132748538,
+      "date": "2015-08-19T19:19:39Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 132759630,
+      "date": "2015-08-19T19:54:31Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 132780545,
+      "date": "2015-08-19T20:53:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 132794613,
+      "date": "2015-08-19T21:37:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 132833964,
+      "date": "2015-08-20T00:21:26Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 133538256,
+      "date": "2015-08-21T19:32:26Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 133538904,
+      "date": "2015-08-21T19:36:01Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 133576329,
+      "date": "2015-08-21T22:03:11Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 133580361,
+      "date": "2015-08-21T22:33:06Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 135502057,
+      "date": "2015-08-27T17:36:12Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 136050695,
+      "date": "2015-08-29T21:02:16Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 136152884,
+      "date": "2015-08-30T15:13:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 136156793,
+      "date": "2015-08-30T16:18:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 137545850,
+      "date": "2015-09-03T19:14:55Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 137736124,
+      "date": "2015-09-04T13:20:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 137770155,
+      "date": "2015-09-04T15:34:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 137782158,
+      "date": "2015-09-04T16:25:35Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 138576038,
+      "date": "2015-09-08T14:20:08Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 139468305,
+      "date": "2015-09-11T07:01:33Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 141870228,
+      "date": "2015-09-21T03:50:43Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 141910694,
+      "date": "2015-09-21T08:42:52Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 141926650,
+      "date": "2015-09-21T09:45:00Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 144725228,
+      "date": "2015-10-01T13:24:40Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 144727873,
+      "date": "2015-10-01T13:37:08Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 146371995,
+      "date": "2015-10-08T00:09:22Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 147146574,
+      "date": "2015-10-11T02:19:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 147160355,
+      "date": "2015-10-11T05:44:42Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 147468720,
+      "date": "2015-10-12T17:28:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 147785121,
+      "date": "2015-10-13T17:29:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 147785844,
+      "date": "2015-10-13T17:31:55Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 147785906,
+      "date": "2015-10-13T17:32:10Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 150298345,
+      "date": "2015-10-22T17:31:01Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 152778314,
+      "date": "2015-10-31T22:29:38Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 153255548,
+      "date": "2015-11-03T06:11:17Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 155553787,
+      "date": "2015-11-10T20:19:13Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "com",
+      "id": 155819895,
+      "date": "2015-11-11T15:38:00Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 56349202,
+      "date": "2014-09-22T09:29:39Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 56350009,
+      "date": "2014-09-22T09:37:36Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 56503609,
+      "date": "2014-09-23T10:53:59Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 56503767,
+      "date": "2014-09-23T10:55:56Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 56504869,
+      "date": "2014-09-23T11:09:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 56551982,
+      "date": "2014-09-23T16:51:48Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "pr",
+      "id": 41,
+      "date": "2015-10-13T17:27:05Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "pr",
+      "id": 40,
+      "date": "2015-10-12T17:21:18Z"
+    },
+    {
+      "dev_id": "mwrock",
+      "repo": "CenturyLinkCloud/chef-provisioning-vsphere",
+      "type": "issue",
+      "id": 8,
+      "date": "2015-06-29T17:39:00Z"
+    }
+  ]
+}

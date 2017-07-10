@@ -1,0 +1,5455 @@
+{
+  "user_repo": "rtomayko/shotgun",
+  "dep_repo": "rack/rack",
+  "dep_date": "2009-02-21 09:17:22 UTC",
+  "dep_commit_id": "d8cc3fdf290e21657ef978b0ffb9008851d7563a",
+  "social_date": "2009-02-21 01:30:46 UTC",
+  "devs": [
+    "Wardrop",
+    "rkh",
+    "josh",
+    "djanowski",
+    "rtomayko"
+  ],
+  "interactions": [
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "220952cac255f4b14a7fa6e802059c68fb503a0e",
+      "date": "2015-04-08T05:44:18Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 472685,
+      "date": "2010-10-16T12:09:07Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 473449,
+      "date": "2010-10-17T00:34:29Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 1822580,
+      "date": "2011-08-17T02:40:03Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18378996,
+      "date": "2013-05-23T23:50:51Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18387254,
+      "date": "2013-05-24T05:29:56Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 42788917,
+      "date": "2014-05-12T00:55:03Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 60179555,
+      "date": "2014-10-23T01:06:32Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 60500934,
+      "date": "2014-10-25T23:22:43Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 60504020,
+      "date": "2014-10-26T02:07:55Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 60536445,
+      "date": "2014-10-26T23:07:30Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 60545836,
+      "date": "2014-10-27T03:04:03Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 836,
+      "date": "2015-04-08T05:44:31Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 749,
+      "date": "2014-10-23T00:27:52Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rtomayko/shotgun",
+      "type": "issue",
+      "id": 33,
+      "date": "2011-08-17T01:35:31Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 683,
+      "date": "2014-05-08T03:22:53Z"
+    },
+    {
+      "dev_id": "Wardrop",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 564,
+      "date": "2013-05-23T00:05:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7b238fc26654863562c60c151aad13a1b4103d52",
+      "date": "2015-02-19T09:11:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "575bbcba780d9ba71f173921aa1fcb024890b867",
+      "date": "2014-10-10T15:27:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "022b0076b0eacad03eac48060198f05aa776a866",
+      "date": "2014-10-02T19:29:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ab172af1b63f0d8e91ce579dd2907c43b96cf82a",
+      "date": "2014-10-02T13:35:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "606daecacddb85fa60f740c5acbd0fea848459a8",
+      "date": "2014-06-23T07:29:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8dc31fec37f6f53a5f0f8e24274da9035abd92b2",
+      "date": "2014-01-26T22:23:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "234d6d3ca68af2019fbd330c807d7d532ce8992a",
+      "date": "2014-01-06T08:34:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1f47a4478546602d3c17902cc3faf42b106f0638",
+      "date": "2013-09-27T08:35:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bcd46f738c4333599dfa6730c52f991334cb8e9e",
+      "date": "2013-09-09T14:44:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "0adc7ceb9359426fee21d5e554dd62ec7d535e34",
+      "date": "2013-09-03T11:16:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "210167f02486ea05e55181d88b2309850879539f",
+      "date": "2013-08-25T09:58:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "89cf6256a46ff1196e53e08cedb14ec8c49308ce",
+      "date": "2013-06-16T23:51:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2d1bc944e9b8cc2160fd324d24f7b3b9b5ff6ae7",
+      "date": "2013-06-15T10:24:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9a76a1116025eed19e0220c088bd6b0bdac9a6ff",
+      "date": "2013-04-22T15:45:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "155461c4a337dcfbac014197eca9df8aece7eed4",
+      "date": "2013-04-22T15:45:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c67be4624545b4263184c4a0e8f887efd0a66320",
+      "date": "2013-04-20T14:38:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a811f12ea4e26a73ee90720c042b3dcf97c0aee0",
+      "date": "2013-04-20T14:19:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e753c6d12191041f77fd09220ef75cd4952d6a7b",
+      "date": "2013-04-20T08:05:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a04035de731422500877af339d0d02fa18b2f898",
+      "date": "2013-04-17T18:03:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bba55fcb66e381e69ab908779d6095c66daf338f",
+      "date": "2013-04-15T10:23:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1e56bfc9d8fb7749c2d4172a58605f15e9d73f76",
+      "date": "2013-04-13T11:01:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4771a131b8eaa2bd6528b2ab8999f3e4a29881a9",
+      "date": "2013-04-13T11:00:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a2101458b8dad737aee7c80b4af23d45861649df",
+      "date": "2013-04-12T17:37:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "fb7600126436b342c8726d1346e0f662ebffcca6",
+      "date": "2013-04-12T17:03:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b0b68e18f17741caf651d8c4ba1ea22b25f3fe9c",
+      "date": "2013-04-12T16:52:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "232ed1ee3a2620e717a603319e52aa82d687554b",
+      "date": "2013-03-29T16:01:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b0e81f6155645563b2522eb2404235511d9d8a70",
+      "date": "2013-01-30T11:07:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e1a4c0094501fed6a0a893667a5e3e221a37bde2",
+      "date": "2013-01-22T14:23:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9b76e4fb58b5870ff48ba9704432787bc2e76cfb",
+      "date": "2013-01-13T15:29:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7f4a60c07dad2b1413c1ec8b54b8cea305a0be5a",
+      "date": "2012-12-29T19:05:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "285cc67a77eb924446660c981480245e50f1e3a6",
+      "date": "2012-12-29T18:51:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "72573c161cd18220f233a9cc4f63245f7ae76629",
+      "date": "2012-12-15T09:50:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8a3b6295e343339fdfc3445b9d762cb1685f5286",
+      "date": "2012-12-15T09:48:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5289aea0e7412bc351668cf264442fd0f8b6116a",
+      "date": "2012-12-12T10:37:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9f13525dc8d17e0491517939e366a9601956ffeb",
+      "date": "2012-12-12T10:13:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "fe431e753224694938ef46857486fc66c2cf990a",
+      "date": "2012-12-12T10:13:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d0fa93d2f0ce3a242af204107f84fd8d3ef2b675",
+      "date": "2012-12-12T10:04:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ea7102cbf8413724bea6eac34cebc340d2c4f13b",
+      "date": "2012-10-25T09:29:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "477020c083bed91866204c7d62d70c9d2a554da7",
+      "date": "2012-10-25T09:28:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "869c4c346a2b6bfd55a41947039b5b217b57d398",
+      "date": "2012-10-16T08:05:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ccfdaf3ecac1870d7743db5a22302944868627c5",
+      "date": "2012-09-17T08:11:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ea7ed1aeb8e6e0e5d68edca03a9d2e687a3ce388",
+      "date": "2012-09-05T10:54:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d084a14fc5be6587fb1720a4f126bae2c7e74d10",
+      "date": "2012-08-29T12:21:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1038c7e36d9701a95e32ade81a6d68d812b05d23",
+      "date": "2012-08-29T12:21:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ab67e70d82911c0c86dce737c7064d0bd6daf3d4",
+      "date": "2012-07-30T13:36:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9fffbfdbd33b5a059aa9ba2b1bfbd6c6f5378a02",
+      "date": "2012-05-12T19:21:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f38c49a0f5d7928b9a695d32b929109ba6474714",
+      "date": "2012-05-09T10:23:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f377236adcafe8483e9ea8a2a9e868d36ad0d85e",
+      "date": "2012-05-09T10:22:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6496241b25daa20fd9dd736119dc39bdac54869d",
+      "date": "2012-04-10T16:33:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1900eb7c506ec03b698feb6103cf3c49021c0c58",
+      "date": "2012-03-24T08:25:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "382c3c560f661df4fe9c1b31bb8d291721977949",
+      "date": "2012-03-11T11:56:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5dc7bac8ef84c7140900cb2986ca4f165c56ef71",
+      "date": "2012-03-11T10:40:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c442b13dc64a7b19f2c80e87ac29ca7fb3fd6229",
+      "date": "2012-03-11T10:21:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1f86db6a1e838cb111434ed0f3aa144babf32158",
+      "date": "2012-03-11T10:03:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8d2cb75f5be5d0de5b50128c37909d26a42fae93",
+      "date": "2012-03-07T07:43:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9ad30a2fa4cec24d3bfbd92a18f73a52087ee8e2",
+      "date": "2012-02-25T12:37:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2a1a4fc9a224bbdacfe682166ebe8daeeab1fce2",
+      "date": "2012-02-02T12:23:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d03553aaaa47f07bbe436b55b56b527f7bf80809",
+      "date": "2012-01-31T13:30:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "01bd05619bb546f48afb17a513b363553864a8b6",
+      "date": "2012-01-25T11:02:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9f72924cac4395fb554273447619afa4d31fa56f",
+      "date": "2012-01-23T08:24:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "62ff9ad3d5733f913a4da895bd8f2493075c32e0",
+      "date": "2012-01-18T15:43:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9a004149f61382d0bfc0a45b81a992db695e66d6",
+      "date": "2012-01-17T22:28:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e20baec005238f9876281c0d083fe5a4e01aa034",
+      "date": "2011-12-30T11:08:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c6f08b5343c2eea7640726f7da2ec0b938f6ba54",
+      "date": "2011-12-07T08:00:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ccb327549633dd0c028d27dd21a7fd29f58c8d45",
+      "date": "2011-11-30T11:32:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c280631c7a3f60519b36e7ed98fff4c36c407bd0",
+      "date": "2011-10-13T21:51:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "96399d348cd04741b78424c98c44efca9a0fd2d3",
+      "date": "2011-10-01T19:08:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2bab9be99c9c83f686ec712e08949a032df85d28",
+      "date": "2011-10-01T19:03:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "34521f4a14b8f33818cd1532d1757c57e16f3d4c",
+      "date": "2011-10-01T18:58:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2bdc3e1d7fb4a5c43d170aab64c342637ff3902b",
+      "date": "2011-10-01T06:59:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2fc2fc1e6542bd6bb1897579487262312b821f8e",
+      "date": "2011-09-16T20:51:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "92e5aef6d012bc4473b939a55a62ffd82cbbc69c",
+      "date": "2011-09-07T17:37:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f91a6ed7d23e832e3725b7b2f7fc5a7b3d2e878f",
+      "date": "2011-09-07T17:34:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "120225c2f597d587cec618ef613de0d1e7b0bedc",
+      "date": "2011-09-01T20:45:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4425e374c4d1aec2aa13cc16556b577aa5df1b09",
+      "date": "2011-08-29T14:38:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2c460e3eeaa7124940f79cc19a5e16419b2980e9",
+      "date": "2011-08-23T16:25:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "84a9d3ee76af367913aa914d045ed3006e7a6f14",
+      "date": "2011-08-23T15:35:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "cc6b31c1cdc23a147a926ff93b5eb41f3db347ac",
+      "date": "2011-08-16T04:59:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c3219ea3a0806b7e0d2c92bac34687b1b0670c73",
+      "date": "2011-08-04T06:57:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "39c5bda91c721a3b1beaf9b207492bf73fc819fb",
+      "date": "2011-08-02T10:45:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f66506dd0415a30c16c1558b11b756e3e55159d2",
+      "date": "2011-07-27T14:44:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "71c51c3db5084a4efbfdbeeb6d0a9e959ccd7e02",
+      "date": "2011-07-18T11:32:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "15eed639135dab0591c5bf52601a048ad7a6512c",
+      "date": "2011-07-18T06:34:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e30452c8e84de809733b26f80feccc65a023fed4",
+      "date": "2011-07-16T12:54:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "edee3079ba542aa65fb0b63c25ef33f6c1c7ee8d",
+      "date": "2011-07-16T08:01:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6573154f64852e952fbd7263fd374fe9b5669afb",
+      "date": "2011-07-06T10:48:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "63827213a407f3e69a99d482616cf0e572dc159d",
+      "date": "2011-07-06T10:47:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5044091e4acc71dca110da68a2e4420d9bed71a5",
+      "date": "2011-07-04T08:20:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6d1bf83fdbac2e599375b5db01b32f4619b9e039",
+      "date": "2011-06-29T18:20:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5aaf1bb2cb7f1f9d5e120a1f2a8450f4e9517cf7",
+      "date": "2011-06-29T18:15:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7e9dc5156a01262c5a5eece73c75afa1fe0dac6f",
+      "date": "2011-06-29T18:13:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "48192572883e49960df386b65c1d08cd24e4b1da",
+      "date": "2011-06-29T17:25:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "28842366aef7b086f251dd274251e9dc40c11d3a",
+      "date": "2011-06-27T08:59:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d0e8aedb18a830356e4a624cf6ea36ca303a7f41",
+      "date": "2011-06-16T10:10:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b82e4f0781219b67a5f9b44faba8ffb725193153",
+      "date": "2011-06-16T09:15:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "48566079126c4db6a285a8c9ee4bfd9e642e0aac",
+      "date": "2011-06-14T07:58:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c038a7561526ff85c2c7681b5eb506ad9186678e",
+      "date": "2011-06-14T07:49:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c02443dade833d1073ebe297f0e4b23c4e3248e0",
+      "date": "2011-06-14T07:44:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "44850886ff2a0a7371e1819b88f52da87295c2a6",
+      "date": "2011-06-14T07:37:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "90ca4dfab2af8439de08dc3be682f605b1c9944f",
+      "date": "2011-06-10T15:59:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1a7751d04090162bf08a8f0a0d265288453aa880",
+      "date": "2011-06-10T15:51:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f0a1e6fe5f206de424a64e45584de1ea3ae90d8b",
+      "date": "2011-06-09T20:14:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "30ec24ac3cd2c036705f413009d67c254faf0446",
+      "date": "2011-06-09T20:13:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "57789645095af82de33a99905bcd7060eb33ab2a",
+      "date": "2011-06-09T20:13:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c627b71129a1399a99561c84a1beb3498db91ff0",
+      "date": "2011-06-09T19:47:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "627e482f0bd71a5b89b9a24413c0ab1353525f46",
+      "date": "2011-06-09T11:27:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b4d8c90bbedbc5de7cff15def822fd53fc3b623b",
+      "date": "2011-06-09T07:14:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e88aa4ea9524d86b692480f7e5c9f57a3cbe240f",
+      "date": "2011-05-31T11:01:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "992a9ef7f49b8856874d196e7d6e6c09d0e0fe37",
+      "date": "2011-05-31T10:36:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "15c64da09dee5a10f4459b9f5a7085edb7255532",
+      "date": "2011-05-31T10:31:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "dec966d2931675aaa1c049244734ee87581b20ad",
+      "date": "2011-05-31T09:47:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "03a25fe97ef8c6b37d2815fec451c6fd35f5cee5",
+      "date": "2011-05-31T09:15:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a23dbb801b28fbe51988d120f821bf101481c22f",
+      "date": "2011-05-31T09:02:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "dcdb63500f01f7bf22b1dcf74e613a694d332370",
+      "date": "2011-05-04T10:04:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b17ce2faafb2b5fdd98fadc36e996b8ededd07c3",
+      "date": "2011-05-04T09:19:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "84472fb1ca71be813114129263404f38aaaed8bb",
+      "date": "2011-05-03T12:50:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1ce5400238de6f5cd09d446a86f64c406223a160",
+      "date": "2011-03-21T23:27:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "33e080e1af415760a86dc5e59357cb69e4267fee",
+      "date": "2011-03-21T21:00:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "dff8e34f43c2897062d5b252406398ced2d360a8",
+      "date": "2011-03-18T17:54:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "828e2ab0396c5bbf4b5ccd76e6392a475633a81f",
+      "date": "2011-03-18T14:05:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "889e2bcd658b9437d7fd5e023b59ad868e38f878",
+      "date": "2011-03-18T14:02:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "71a07b9d9c90953002452c3ed6ea48ef256fa1c9",
+      "date": "2011-03-18T13:48:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "81b4ce3e281dc5b6a2138251f4d14ef30f3ee025",
+      "date": "2011-03-18T13:35:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "64cea8ee4235cd724c2f3b66b096d4528a942264",
+      "date": "2010-09-08T12:59:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7eb26e4a3f81921631abe48fa9577b6d9c9d3506",
+      "date": "2010-09-08T12:26:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8179a388192f37df9456089d3855596e56a5a10d",
+      "date": "2010-09-08T11:42:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "83a965d931dca1dd4cf3bb7151e207d5f53b86dd",
+      "date": "2010-09-08T11:40:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "85a70515faf372939cc50c2bd088c551fac76ed4",
+      "date": "2010-06-08T19:06:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 168007,
+      "date": "2010-03-24T13:07:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 168027,
+      "date": "2010-03-24T13:38:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 472787,
+      "date": "2010-10-16T14:14:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 473741,
+      "date": "2010-10-17T07:28:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 44339109,
+      "date": "2014-05-27T21:39:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 399116,
+      "date": "2010-09-10T10:56:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 863714,
+      "date": "2011-03-12T15:16:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 865301,
+      "date": "2011-03-13T08:01:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 865811,
+      "date": "2011-03-13T14:23:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 896572,
+      "date": "2011-03-20T23:05:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1092579,
+      "date": "2011-05-03T08:13:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095318,
+      "date": "2011-05-03T17:45:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095535,
+      "date": "2011-05-03T18:23:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095706,
+      "date": "2011-05-03T18:56:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095741,
+      "date": "2011-05-03T19:01:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1102077,
+      "date": "2011-05-04T20:49:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1119033,
+      "date": "2011-05-08T12:57:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1205925,
+      "date": "2011-05-19T19:53:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1206636,
+      "date": "2011-05-19T21:47:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1226822,
+      "date": "2011-05-24T08:29:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1254365,
+      "date": "2011-05-28T16:12:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1262189,
+      "date": "2011-05-30T16:28:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1268708,
+      "date": "2011-05-31T17:36:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1332904,
+      "date": "2011-06-09T09:00:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1360414,
+      "date": "2011-06-13T17:25:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1364386,
+      "date": "2011-06-14T07:54:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1364641,
+      "date": "2011-06-14T08:46:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1379821,
+      "date": "2011-06-16T09:31:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1380478,
+      "date": "2011-06-16T12:10:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1400884,
+      "date": "2011-06-20T06:40:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1401020,
+      "date": "2011-06-20T07:24:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1401338,
+      "date": "2011-06-20T08:39:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1404027,
+      "date": "2011-06-20T16:55:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1413961,
+      "date": "2011-06-21T21:21:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1430163,
+      "date": "2011-06-24T04:05:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1440324,
+      "date": "2011-06-26T07:18:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1490804,
+      "date": "2011-07-02T22:45:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1490851,
+      "date": "2011-07-02T23:02:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1496252,
+      "date": "2011-07-04T08:09:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1537720,
+      "date": "2011-07-09T06:44:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1605132,
+      "date": "2011-07-19T07:41:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1724945,
+      "date": "2011-08-04T06:59:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1775701,
+      "date": "2011-08-10T19:10:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1813711,
+      "date": "2011-08-16T04:59:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1880685,
+      "date": "2011-08-23T15:11:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1880725,
+      "date": "2011-08-23T15:15:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1880965,
+      "date": "2011-08-23T15:36:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1881054,
+      "date": "2011-08-23T15:44:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1881170,
+      "date": "2011-08-23T15:56:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1881349,
+      "date": "2011-08-23T16:19:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1980521,
+      "date": "2011-09-02T16:17:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2004587,
+      "date": "2011-09-05T17:12:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2022051,
+      "date": "2011-09-06T20:41:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2033156,
+      "date": "2011-09-07T20:17:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2119687,
+      "date": "2011-09-16T23:02:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2120117,
+      "date": "2011-09-17T00:07:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2246261,
+      "date": "2011-09-30T05:10:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2257211,
+      "date": "2011-10-01T14:48:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2257420,
+      "date": "2011-10-01T15:45:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2258233,
+      "date": "2011-10-01T18:36:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2267709,
+      "date": "2011-10-02T23:42:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2267741,
+      "date": "2011-10-02T23:51:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2268082,
+      "date": "2011-10-03T01:38:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2282554,
+      "date": "2011-10-04T04:58:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483033,
+      "date": "2011-10-21T16:06:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483257,
+      "date": "2011-10-21T16:26:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483502,
+      "date": "2011-10-21T16:48:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483520,
+      "date": "2011-10-21T16:49:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483766,
+      "date": "2011-10-21T17:09:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2504823,
+      "date": "2011-10-24T15:26:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3000487,
+      "date": "2011-12-03T12:53:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3409940,
+      "date": "2012-01-09T10:58:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3680250,
+      "date": "2012-01-27T01:03:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4211329,
+      "date": "2012-02-28T08:12:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4309023,
+      "date": "2012-03-04T11:02:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4311350,
+      "date": "2012-03-04T17:26:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4327815,
+      "date": "2012-03-05T17:53:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4341569,
+      "date": "2012-03-06T09:54:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4347779,
+      "date": "2012-03-06T16:37:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4438118,
+      "date": "2012-03-11T10:43:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4438121,
+      "date": "2012-03-11T10:44:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4557023,
+      "date": "2012-03-17T21:00:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4636156,
+      "date": "2012-03-22T11:01:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4713243,
+      "date": "2012-03-27T10:03:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4895952,
+      "date": "2012-04-03T07:36:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5215098,
+      "date": "2012-04-19T05:20:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5676802,
+      "date": "2012-05-13T14:56:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5678928,
+      "date": "2012-05-13T19:52:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5679288,
+      "date": "2012-05-13T20:35:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5684670,
+      "date": "2012-05-14T08:15:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5961609,
+      "date": "2012-05-28T09:10:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5961665,
+      "date": "2012-05-28T09:14:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6110763,
+      "date": "2012-06-04T20:55:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6121017,
+      "date": "2012-06-05T09:11:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6122519,
+      "date": "2012-06-05T11:01:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6122561,
+      "date": "2012-06-05T11:06:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8123422,
+      "date": "2012-08-29T12:24:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8128450,
+      "date": "2012-08-29T15:07:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8141958,
+      "date": "2012-08-29T21:32:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8151304,
+      "date": "2012-08-30T07:23:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8222758,
+      "date": "2012-09-02T15:10:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8255102,
+      "date": "2012-09-04T07:52:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8255220,
+      "date": "2012-09-04T07:57:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8256396,
+      "date": "2012-09-04T08:47:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8261149,
+      "date": "2012-09-04T12:30:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8265414,
+      "date": "2012-09-04T14:44:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8265990,
+      "date": "2012-09-04T14:59:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8292842,
+      "date": "2012-09-05T09:47:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8292858,
+      "date": "2012-09-05T09:48:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8294291,
+      "date": "2012-09-05T10:54:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8294531,
+      "date": "2012-09-05T11:06:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8788369,
+      "date": "2012-09-22T12:33:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8882050,
+      "date": "2012-09-26T08:03:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10020988,
+      "date": "2012-11-02T16:54:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10021615,
+      "date": "2012-11-02T17:12:10Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10562207,
+      "date": "2012-11-20T16:47:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11411378,
+      "date": "2012-12-15T22:27:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11628851,
+      "date": "2012-12-21T22:17:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11763628,
+      "date": "2012-12-30T11:19:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11921472,
+      "date": "2013-01-05T23:08:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11922436,
+      "date": "2013-01-06T00:49:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11922661,
+      "date": "2013-01-06T01:12:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11927269,
+      "date": "2013-01-06T11:35:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11929150,
+      "date": "2013-01-06T14:40:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11930757,
+      "date": "2013-01-06T16:49:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11931738,
+      "date": "2013-01-06T18:08:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11931748,
+      "date": "2013-01-06T18:09:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11931849,
+      "date": "2013-01-06T18:15:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11932326,
+      "date": "2013-01-06T18:51:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11936300,
+      "date": "2013-01-06T23:02:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12560493,
+      "date": "2013-01-22T19:08:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12560512,
+      "date": "2013-01-22T19:08:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12836885,
+      "date": "2013-01-29T14:31:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12884233,
+      "date": "2013-01-30T10:53:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13026833,
+      "date": "2013-02-02T09:19:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13028940,
+      "date": "2013-02-02T12:44:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13448374,
+      "date": "2013-02-12T18:43:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13448495,
+      "date": "2013-02-12T18:45:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13449283,
+      "date": "2013-02-12T18:59:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13575819,
+      "date": "2013-02-14T20:12:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13747233,
+      "date": "2013-02-18T22:42:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13987150,
+      "date": "2013-02-23T08:44:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14104472,
+      "date": "2013-02-26T10:16:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14104982,
+      "date": "2013-02-26T10:28:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14145781,
+      "date": "2013-02-26T23:06:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14159381,
+      "date": "2013-02-27T06:35:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14159461,
+      "date": "2013-02-27T06:38:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14219390,
+      "date": "2013-02-28T06:46:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14219650,
+      "date": "2013-02-28T06:55:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15005594,
+      "date": "2013-03-16T14:25:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15026235,
+      "date": "2013-03-17T16:58:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15102543,
+      "date": "2013-03-19T08:27:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15334813,
+      "date": "2013-03-23T10:13:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15574081,
+      "date": "2013-03-28T08:52:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15640568,
+      "date": "2013-03-29T13:28:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15767122,
+      "date": "2013-04-02T10:14:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15860389,
+      "date": "2013-04-03T19:54:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 16304753,
+      "date": "2013-04-12T17:06:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 16713183,
+      "date": "2013-04-20T23:25:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 16723212,
+      "date": "2013-04-21T13:36:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17626769,
+      "date": "2013-05-08T19:00:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17627478,
+      "date": "2013-05-08T19:12:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17768785,
+      "date": "2013-05-11T22:36:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17778568,
+      "date": "2013-05-12T14:16:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17779476,
+      "date": "2013-05-12T15:20:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18386439,
+      "date": "2013-05-24T04:49:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18781838,
+      "date": "2013-06-01T01:58:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18825889,
+      "date": "2013-06-03T07:36:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18826365,
+      "date": "2013-06-03T07:49:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18826682,
+      "date": "2013-06-03T07:57:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 19494378,
+      "date": "2013-06-15T10:24:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 19494596,
+      "date": "2013-06-15T10:43:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 19503530,
+      "date": "2013-06-15T21:13:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 21212147,
+      "date": "2013-07-18T20:25:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 21356640,
+      "date": "2013-07-22T16:28:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 22401790,
+      "date": "2013-08-09T15:27:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 22596371,
+      "date": "2013-08-13T20:49:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 23704554,
+      "date": "2013-09-03T11:12:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 23704741,
+      "date": "2013-09-03T11:15:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 24081844,
+      "date": "2013-09-09T14:45:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 24629121,
+      "date": "2013-09-17T22:53:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 24908473,
+      "date": "2013-09-23T09:41:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 25797974,
+      "date": "2013-10-07T10:22:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 26051552,
+      "date": "2013-10-10T13:04:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 26768659,
+      "date": "2013-10-22T00:26:10Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 31635875,
+      "date": "2014-01-06T09:23:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 35712270,
+      "date": "2014-02-21T09:41:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43490280,
+      "date": "2014-05-19T11:19:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43491222,
+      "date": "2014-05-19T11:31:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43491740,
+      "date": "2014-05-19T11:38:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43492441,
+      "date": "2014-05-19T11:48:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46561234,
+      "date": "2014-06-19T13:41:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46813159,
+      "date": "2014-06-23T07:24:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46818646,
+      "date": "2014-06-23T08:38:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46818713,
+      "date": "2014-06-23T08:39:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 47765987,
+      "date": "2014-07-02T11:44:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 53582973,
+      "date": "2014-08-27T14:45:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 57630131,
+      "date": "2014-10-02T13:35:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 57690947,
+      "date": "2014-10-02T19:20:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 58671673,
+      "date": "2014-10-10T15:27:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 63716610,
+      "date": "2014-11-19T21:26:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 74414252,
+      "date": "2015-02-15T11:43:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 75018787,
+      "date": "2015-02-19T09:11:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 81172772,
+      "date": "2015-03-15T17:31:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 189,
+      "date": "2011-06-09T14:04:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 188,
+      "date": "2011-06-09T07:15:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 182,
+      "date": "2011-05-31T11:04:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 181,
+      "date": "2011-05-31T09:56:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 180,
+      "date": "2011-05-31T09:17:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 179,
+      "date": "2011-05-31T09:04:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 156,
+      "date": "2011-05-04T09:49:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 155,
+      "date": "2011-05-04T09:20:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 154,
+      "date": "2011-05-04T09:10:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 136,
+      "date": "2011-03-21T22:54:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 132,
+      "date": "2011-03-18T17:57:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 131,
+      "date": "2011-03-18T14:08:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 130,
+      "date": "2011-03-18T13:50:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 129,
+      "date": "2011-03-18T13:50:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 50,
+      "date": "2010-09-08T13:00:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 49,
+      "date": "2010-09-08T12:39:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 48,
+      "date": "2010-09-08T11:44:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rtomayko/shotgun",
+      "type": "issue",
+      "id": 1,
+      "date": "2009-06-26T12:43:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 629,
+      "date": "2013-12-05T13:49:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 359,
+      "date": "2012-03-08T08:14:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 300,
+      "date": "2011-12-30T20:39:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 128,
+      "date": "2011-03-12T15:43:24Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "69bbe41d23e1bfb66f0017591d179971bf050119",
+      "date": "2009-09-06T14:37:13Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "0936f5774951b55aac42eb65f86cf7bd911e67e2",
+      "date": "2009-09-06T14:34:30Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d5859a96e223b382947c09dc71ac4941d62889e7",
+      "date": "2009-09-06T14:32:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "cbd00971d725c9ee4440d3b024e37446df02878f",
+      "date": "2011-06-29T20:18:34Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "404f2f167f9f7d89d0662870ed13cde827703139",
+      "date": "2011-05-31T17:40:08Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9b915c89ec129918a3ad1d1a1b5cf3167e03517a",
+      "date": "2011-05-31T17:35:47Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e4f276105ba890ffccfdac5755b0f0c6a2aa8861",
+      "date": "2011-05-31T17:35:26Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d85697ed60a64c419ce1d987a02170520615fdee",
+      "date": "2011-05-31T17:33:32Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5851aac3e4b4e803b7042131d3d528c5b3bae0fc",
+      "date": "2011-05-24T02:47:55Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bc30108180e2472423497657b55f7ccb8749a7a0",
+      "date": "2011-05-20T02:46:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1e99b9bcc7e9519d32e028fb1f24d6ef3b34b597",
+      "date": "2011-05-19T17:10:51Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a4a788e48458a501636fe9955c2a5e3de0fa1b7d",
+      "date": "2011-05-17T21:14:59Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c0d7bc2dd05f45de7cb420ca9bf8a49873c1f9c5",
+      "date": "2011-04-27T22:05:52Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b81080be0e5b3e9a794aa56609083b5d9dc90c3b",
+      "date": "2011-03-21T15:32:46Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "104976c9109b53bbea6c689b988d223fc1e906b8",
+      "date": "2011-03-21T15:32:18Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1a5a44ab518c1cc97e429d717979f09c1369c88f",
+      "date": "2011-03-18T15:20:34Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "397dc1ee58cec2e405b140247737b5b381556984",
+      "date": "2011-03-18T15:20:14Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b7a08718f71a333ece8e830cc9808ce75e645886",
+      "date": "2011-03-18T15:19:30Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d7a3bb21684557b55920cc48d6011be528279421",
+      "date": "2011-01-04T00:08:18Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "94cc9d909bd1eb0f29df209f88103c3667fbcb49",
+      "date": "2010-12-19T20:17:26Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "364b6b3b055f6a7d541bdec872f009a5ba9b190b",
+      "date": "2010-12-09T18:08:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bff192e43593fd8eed6def7d0ff4a6416ac247b9",
+      "date": "2010-12-09T17:05:17Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "dda892d60daff0fe7289008a4153fa628dcc8d11",
+      "date": "2010-10-26T15:25:01Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7e286c13154de7b519af0a841453513ebb038cf0",
+      "date": "2010-06-16T15:01:50Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "fe67334cc009d7faf02661bb85146e245ad07d44",
+      "date": "2010-06-16T14:54:02Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "0c2bb7bba6c7810f8bb4c09e333d4f33a35dd497",
+      "date": "2010-06-16T14:51:08Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "51b96e72be96fefd8bfbbe34fba840ae610e36e6",
+      "date": "2010-06-16T14:43:25Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "53844d743b83c764efafc0509322f7a9df0a8a8d",
+      "date": "2010-06-16T14:31:56Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "11c96093530216d3442729d82f636174d4ad97a9",
+      "date": "2010-04-07T18:34:00Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "98a61aa6120323b465fa3b7b6e650654c82ba469",
+      "date": "2010-04-07T18:32:22Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4b6bc8630252e1616315759f12266d31edaf5b67",
+      "date": "2010-01-21T15:09:49Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "18eb0d324c59b658fa6739015a96d3f457dbb03f",
+      "date": "2010-01-21T14:30:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5984e3ebe357710b92304b0c602f64f34c85a99f",
+      "date": "2010-01-21T02:05:19Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e6ebd831978adc3172ad487be18affab940f3d4d",
+      "date": "2010-01-03T19:20:07Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bbe3f10aaa6a925f4bcc4d722bf08b12ac291518",
+      "date": "2010-01-03T18:36:04Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c6805fb93da30e0056b38e0fa6015c3d1bca5876",
+      "date": "2009-12-27T00:10:36Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b5a47e25cf65ad2d87cf9e20474ca372ed91c1b0",
+      "date": "2009-12-26T23:50:26Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "43de60320ae895f29918d03b7d43d455a0c4d272",
+      "date": "2009-12-26T23:25:20Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e43e4d85baae52f29613a6721109ea5cd0fd18f2",
+      "date": "2009-12-26T22:42:00Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9ce4c79432d9e0f545700ae2b352b6b1f8f2f1c5",
+      "date": "2009-12-26T17:24:20Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8e6bc663d1a72f717dc913faf72cc84097da8f8a",
+      "date": "2009-12-26T17:17:52Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "99acee31104cb2cc0e3adb1c25a9a29dfc510619",
+      "date": "2009-12-26T17:15:47Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bf10d313b125e7fde1acaab1fe6492dc32c9a25f",
+      "date": "2009-12-26T17:10:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "faafcea111bbe60733f5ba6a16539ac0bffb6d40",
+      "date": "2009-12-26T17:07:21Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "806e6e3be27d033037c993b3c1570d3fcbda5024",
+      "date": "2009-12-26T17:03:42Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2a8c937af7dc9c1e7dc5fb59e8ba70c6cd1b86e8",
+      "date": "2009-12-26T16:58:20Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "afb1b4c0aeee1e2f443b5783b42b69e1716bfcac",
+      "date": "2009-12-25T03:04:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4870337073f6f0952a97f67c63b3d867d7c74e1f",
+      "date": "2009-12-25T03:01:27Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ae7a6eba3653f1b070b554d41a330be848565883",
+      "date": "2009-12-25T02:46:36Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1ffa95c55394c862798727ac8b203ecedda8842a",
+      "date": "2009-12-21T02:58:34Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d8ccbf37576d53fe37489d818b63def524df1a44",
+      "date": "2009-12-21T02:50:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "fb32ff74f1e68650b7b4fa9889d277ef1fd30380",
+      "date": "2009-12-21T02:39:11Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e2a1a644efda64614e2b5cab3a4ff89e5fc6d642",
+      "date": "2009-12-21T02:22:45Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e1b3b3d278237f7c1c81aa6042a1d2ac28ab93bf",
+      "date": "2009-12-21T02:18:11Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4cc6af9b4f0b633b076f27d3a76bf86ebf9fe64e",
+      "date": "2009-12-11T22:44:07Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ab6c66bc8a1ec928e4c3eb0f0b97323879db84dc",
+      "date": "2009-12-11T22:42:37Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "78ae5ef9c7e8c9410f18063bcb130e70666a0489",
+      "date": "2009-12-11T22:40:57Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "45c3d819eaa9849265280858acf5fd4c461cf049",
+      "date": "2009-12-11T22:29:43Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "df22480a10063d3735374a394154658e72780c35",
+      "date": "2009-12-11T22:18:41Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "981f182bcfa1b848aa9e66c72500d855f6ee77ff",
+      "date": "2009-12-11T22:03:39Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "37195bedbc6d1f02a47fea5712ad792aad5c1d4b",
+      "date": "2009-12-11T22:00:57Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7077d4b6d3eb25c856c83b7c8a22210216fde645",
+      "date": "2009-12-11T21:52:08Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a1534a5d7b48812e1e67d7ff02ef53b70e3ea492",
+      "date": "2009-12-11T21:40:08Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5c4bd17d791d97310667acf6b458456aa1f8af0d",
+      "date": "2009-12-11T03:52:38Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d4906ef283949d9fe656bd869f46e2c72b401bf8",
+      "date": "2009-12-11T03:08:01Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ec8e0696bcd991d6bd5ea12799af6d3edee302ef",
+      "date": "2009-12-11T03:03:32Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "18cbfc5bcd22193b42bfff69bd8ad17d26eec594",
+      "date": "2009-09-05T18:29:45Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a0b2ee5f2975430627aa959ed8c9de044ec85528",
+      "date": "2009-09-05T18:27:50Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "71030b9dbea07d4e573803805ff430d52a542607",
+      "date": "2009-08-05T16:01:43Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "0acfeae8194bfe79e32c2a85a57026928729304d",
+      "date": "2009-08-04T03:33:24Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b0f49bd0d6a5e7d6841168fe5e7de509aa1beac1",
+      "date": "2009-08-04T03:21:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6ae0a1014c2bfc06ad4d91ea04da5c42be454079",
+      "date": "2009-08-03T21:03:30Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "39fec318fbe5bda17eab4aa3d35c2ed30a36583e",
+      "date": "2009-08-03T17:02:37Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6f40dc99e3380efb4adccf8bfb4d07441bede8fb",
+      "date": "2009-08-03T15:33:18Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "0bf8d8e840ae226d6efed8af345feb67a10f6aa6",
+      "date": "2009-05-11T03:19:20Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "de58ed717d150999f6de5bfffdd18f9e83a40c02",
+      "date": "2009-05-01T00:02:57Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "40eba67d30a660f748692bcfe7fcb758a2c8357a",
+      "date": "2009-04-28T16:43:22Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "702d2ab905c21e8a1ce6ca38cc31a91b5328bf46",
+      "date": "2009-04-28T15:38:33Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "89bfa04323f330fa8a73f20345695c75ca325c77",
+      "date": "2009-04-28T15:35:07Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "491dbff6b53cc59a02a71024330dbbbca76dddbe",
+      "date": "2009-04-28T15:22:02Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c8bf180f4316c04627c090c78abfc4b7c24a34f4",
+      "date": "2009-04-28T05:51:14Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5a2eae5c8533812d9ddaf7e14ecd295922da8155",
+      "date": "2009-04-28T05:36:35Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4c6efcad787683fb9e93ac490628a33f86b7c9f9",
+      "date": "2009-04-28T05:20:38Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "884770528a349eec8d9d4f91bf252e0d53e35641",
+      "date": "2009-04-25T21:41:08Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6139d2976efeb8c33a5fc6aa3c9ef9f6a11c3990",
+      "date": "2009-04-25T21:01:05Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c4eb1ae8d69145442d29c71fbb8cffc6000eba7a",
+      "date": "2009-04-25T20:02:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "916f273449c9a05c68e9cd20fc55d56a2b974104",
+      "date": "2009-04-25T19:31:52Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c4d243344652922f6e92524f02178acc044db44f",
+      "date": "2009-04-25T19:29:00Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9b7a0569e4067d0c23a00fc24273436e85c56d7f",
+      "date": "2009-04-25T19:24:55Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bfaeaf74ce295a8a303d2ba824b0baaea71e647d",
+      "date": "2009-04-24T18:45:20Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a1649f5aa5587d33b7e7fc4e82af4c69c582c6a0",
+      "date": "2009-04-19T00:54:37Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e678c6ad13366e4aad0d1368788f08a1e329eca6",
+      "date": "2009-04-19T00:47:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5c00dd698edb953b4bee432fa12a20ba69a067c1",
+      "date": "2009-02-15T00:10:38Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c9b4159e66860188c1abeebb90b1efc9d8fe53de",
+      "date": "2009-02-11T00:30:49Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "94a08fe93e785f34520d31fc2413d31bc211416d",
+      "date": "2009-02-10T19:13:37Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6e330bdda5b003f4c2ed1b20af47c05c544eadaa",
+      "date": "2009-02-01T05:40:09Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7c03363f1002fdd690cac0c4cec850a8e54379c4",
+      "date": "2009-02-01T04:03:54Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2f79f55c314ea6026ffc3350f261ad3e902566be",
+      "date": "2009-01-22T04:16:14Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b5bf66fafea226610e081be2ab3de89ce0011149",
+      "date": "2009-01-22T04:00:37Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "0f081dde86e02a13870178fd76d5cb27bd1643a3",
+      "date": "2009-01-18T16:52:05Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a2a260012d0ab6c52d31f90205469af4b738598b",
+      "date": "2009-01-21T02:56:26Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7409b0c30b6e9fa7bcf02f65348ed1799c271e37",
+      "date": "2009-01-15T20:01:31Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5368e30d2109597d6aa828bba9b8e810a0adb841",
+      "date": "2009-01-15T20:37:38Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c03ad439e67e5429058e3bb91d0ab191e450efef",
+      "date": "2009-01-15T06:16:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "44eff477440b5e81eac8d032ae2c04ab19fede95",
+      "date": "2009-01-15T06:10:54Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "3513f4fd106eaf8259bd1b16def343cce95d66ec",
+      "date": "2009-01-14T00:21:51Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d6fa6afde6f0d5597b2040751a8c910132f18b12",
+      "date": "2009-01-14T18:38:51Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8b8690bcb7762cde729088c2abdacb610ebea1f7",
+      "date": "2008-12-30T04:31:27Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5db554e70ef4fae2e45a62508b9510cc3407af5e",
+      "date": "2008-12-29T17:49:29Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4f8d0fcb784bd4806e9d4bc47524836300193f5d",
+      "date": "2008-12-24T03:32:38Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "61ce750c93cbe552bbf6b5c8af08c31a3f15489e",
+      "date": "2008-12-24T03:22:50Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5b60d28e922a662c9c5f30caed38e1a7d285e455",
+      "date": "2008-12-09T16:34:19Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "488194ed69a102b899c365ceab4b0d0b24dcc162",
+      "date": "2008-12-02T17:28:49Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e4ad5c7b9228eedee9275f69fd5dcd4a04192bf8",
+      "date": "2008-09-07T17:20:22Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "af50b70c22d9c1eabf563f46acb43b7a65d9491a",
+      "date": "2008-05-26T14:12:22Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ebdd511d332d2b6cd33bda7bb4777518cfc89fa4",
+      "date": "2008-05-24T14:57:09Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "3ea35b4d310640ccc79fa77b412f2c26bb4099db",
+      "date": "2008-05-17T20:39:16Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c9f851ad79d2e0e25ce126c562b1c2a80902e89d",
+      "date": "2008-05-06T23:14:47Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6b39151e389e7c91bdeebadf4e2cab42fdd0db5c",
+      "date": "2008-05-06T20:44:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 477401,
+      "date": "2010-10-19T03:37:13Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 494058,
+      "date": "2010-10-26T15:27:23Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 494059,
+      "date": "2010-10-26T15:27:31Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 499736,
+      "date": "2010-10-28T15:27:10Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 511694,
+      "date": "2010-11-02T13:59:23Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 595684,
+      "date": "2010-12-08T00:09:24Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600504,
+      "date": "2010-12-09T18:05:06Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600522,
+      "date": "2010-12-09T18:08:54Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600530,
+      "date": "2010-12-09T18:11:56Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600539,
+      "date": "2010-12-09T18:19:00Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600556,
+      "date": "2010-12-09T18:25:09Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600557,
+      "date": "2010-12-09T18:25:20Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600563,
+      "date": "2010-12-09T18:27:14Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600567,
+      "date": "2010-12-09T18:28:13Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600572,
+      "date": "2010-12-09T18:29:35Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600581,
+      "date": "2010-12-09T18:31:53Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600597,
+      "date": "2010-12-09T18:36:37Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600829,
+      "date": "2010-12-09T20:06:56Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600832,
+      "date": "2010-12-09T20:07:15Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600839,
+      "date": "2010-12-09T20:13:02Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600855,
+      "date": "2010-12-09T20:19:44Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 600856,
+      "date": "2010-12-09T20:19:50Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 602531,
+      "date": "2010-12-10T14:53:55Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 608164,
+      "date": "2010-12-13T15:04:06Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 617845,
+      "date": "2010-12-17T03:08:39Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 622945,
+      "date": "2010-12-19T20:01:42Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 623002,
+      "date": "2010-12-19T20:33:54Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 623005,
+      "date": "2010-12-19T20:34:27Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 623012,
+      "date": "2010-12-19T20:36:56Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 623016,
+      "date": "2010-12-19T20:39:21Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 623023,
+      "date": "2010-12-19T20:42:35Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 623026,
+      "date": "2010-12-19T20:44:34Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 672887,
+      "date": "2011-01-12T20:18:12Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 675724,
+      "date": "2011-01-13T19:56:19Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 676227,
+      "date": "2011-01-13T22:51:41Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 676376,
+      "date": "2011-01-13T23:56:11Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 676432,
+      "date": "2011-01-14T00:20:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 690654,
+      "date": "2011-01-19T18:48:46Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 700679,
+      "date": "2011-01-23T18:05:36Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 711491,
+      "date": "2011-01-26T23:37:59Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 760279,
+      "date": "2011-02-10T19:13:27Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 832315,
+      "date": "2011-03-03T23:16:01Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 832437,
+      "date": "2011-03-03T23:49:22Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 832451,
+      "date": "2011-03-03T23:51:32Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 832497,
+      "date": "2011-03-04T00:04:12Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 832508,
+      "date": "2011-03-04T00:06:51Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 832553,
+      "date": "2011-03-04T00:23:59Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 939540,
+      "date": "2011-03-31T04:10:54Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 987617,
+      "date": "2011-04-12T04:06:58Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1042694,
+      "date": "2011-04-22T04:10:55Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1042702,
+      "date": "2011-04-22T04:14:30Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1058250,
+      "date": "2011-04-26T13:46:01Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1058284,
+      "date": "2011-04-26T13:55:28Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1058360,
+      "date": "2011-04-26T14:10:41Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1059125,
+      "date": "2011-04-26T16:24:27Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1067009,
+      "date": "2011-04-27T22:11:27Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1067016,
+      "date": "2011-04-27T22:12:54Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1067022,
+      "date": "2011-04-27T22:15:06Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1067026,
+      "date": "2011-04-27T22:15:48Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1088613,
+      "date": "2011-05-02T16:16:23Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1089403,
+      "date": "2011-05-02T17:41:05Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1089487,
+      "date": "2011-05-02T17:55:11Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1092022,
+      "date": "2011-05-03T04:11:16Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1124108,
+      "date": "2011-05-09T16:25:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1204546,
+      "date": "2011-05-19T16:20:07Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1207635,
+      "date": "2011-05-20T02:03:50Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1207677,
+      "date": "2011-05-20T02:16:44Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1225709,
+      "date": "2011-05-24T02:47:46Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1268676,
+      "date": "2011-05-31T17:32:47Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1268677,
+      "date": "2011-05-31T17:33:18Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1275624,
+      "date": "2011-06-01T16:58:30Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1275680,
+      "date": "2011-06-01T17:07:07Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1278997,
+      "date": "2011-06-02T04:51:49Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1346026,
+      "date": "2011-06-11T01:40:11Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2267698,
+      "date": "2011-10-02T23:36:48Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2267725,
+      "date": "2011-10-02T23:47:42Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2282510,
+      "date": "2011-10-04T04:48:11Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2755969,
+      "date": "2011-11-16T05:38:29Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2961264,
+      "date": "2011-11-30T15:40:40Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2961311,
+      "date": "2011-11-30T15:43:29Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3191849,
+      "date": "2011-12-17T22:22:21Z"
+    },
+    {
+      "dev_id": "josh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4225731,
+      "date": "2012-02-28T21:16:28Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "47b9e26745517f5ab9c53a6e1afd63e54305e2d5",
+      "date": "2015-03-01T19:05:59Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "50f58793b0ad05be20345201552f47e8c8a33b93",
+      "date": "2015-03-01T19:04:46Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "318aeb5e4bd80fb01559ed43cbd047b82badb770",
+      "date": "2015-03-01T18:34:48Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "0925fbade9cd96adc00e1fb61838c41f114fd81e",
+      "date": "2015-03-01T18:28:11Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "3eecac746c90827e0ca66cb0f433c4bd92350c91",
+      "date": "2015-03-01T18:27:57Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "1136c7dedbc42bd5fbe3a97db523ffb044109e4d",
+      "date": "2015-03-01T16:47:07Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "73f447bebe02a2cc052ff0eb60f09a73864b22bf",
+      "date": "2015-03-01T15:24:17Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "b3d7a3e5ace31ca0e48562d30bc18c8be06968bb",
+      "date": "2015-03-01T14:45:26Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "2497e1ddaa8148fc6b567c174b0090fa94690790",
+      "date": "2015-03-01T14:38:41Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "1d03056696692f4eae39298a4a13d22e4c1f3c42",
+      "date": "2015-03-01T12:06:11Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "af7a02b5bf91d907e79bd3cdcb47f48289a7a3cd",
+      "date": "2015-03-01T12:05:19Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "efa31ca29eb81ab1ef7fe0ef5d2461f52a51ed28",
+      "date": "2014-11-06T20:36:42Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b155fc56f3857028e36184d6e837d3d59d7a6773",
+      "date": "2010-08-03T16:45:23Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 62047282,
+      "date": "2014-11-06T20:39:08Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 62047697,
+      "date": "2014-11-06T20:41:53Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 62134043,
+      "date": "2014-11-07T12:10:01Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76593633,
+      "date": "2015-03-01T11:55:30Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76593781,
+      "date": "2015-03-01T12:00:20Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76593970,
+      "date": "2015-03-01T12:05:21Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76594005,
+      "date": "2015-03-01T12:06:09Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76594121,
+      "date": "2015-03-01T12:09:52Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76594262,
+      "date": "2015-03-01T12:13:37Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76594325,
+      "date": "2015-03-01T12:15:36Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76594396,
+      "date": "2015-03-01T12:17:36Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76599561,
+      "date": "2015-03-01T14:41:19Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76601609,
+      "date": "2015-03-01T15:27:16Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76602281,
+      "date": "2015-03-01T15:36:16Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76610976,
+      "date": "2015-03-01T16:51:09Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76611192,
+      "date": "2015-03-01T16:51:54Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76625321,
+      "date": "2015-03-01T19:23:10Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76625340,
+      "date": "2015-03-01T19:23:33Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76625358,
+      "date": "2015-03-01T19:23:48Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76625366,
+      "date": "2015-03-01T19:24:00Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 343962,
+      "date": "2010-08-06T14:39:21Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14172631,
+      "date": "2013-02-27T13:07:52Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14638409,
+      "date": "2013-03-08T19:09:56Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 16837197,
+      "date": "2013-04-23T03:23:05Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17180186,
+      "date": "2013-04-29T17:11:46Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "pr",
+      "id": 57,
+      "date": "2014-11-06T20:38:14Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rtomayko/shotgun",
+      "type": "issue",
+      "id": 41,
+      "date": "2012-09-12T02:32:26Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 524,
+      "date": "2013-02-23T13:27:52Z"
+    },
+    {
+      "dev_id": "djanowski",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 42,
+      "date": "2010-08-05T20:14:26Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "9ad259047cd8c650e34fe240b31e09671bc832ef",
+      "date": "2013-06-18T20:56:25Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "13907afd79a6487e4b2ef952f04032798429d28c",
+      "date": "2013-06-18T20:49:16Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "c141ecaa247a1a4d13bc07889826eeaabfd9aa3d",
+      "date": "2013-06-14T22:52:01Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d9195d7e1e4ac2eb3d949ec1b7df7a5e7e694ad5",
+      "date": "2011-02-24T17:48:16Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "0a0d5a9addc6b1ec821bce525957b0e0d8f0d85c",
+      "date": "2011-02-24T17:43:28Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "8a2284c4331c95dd377a02c45c1136ca8af1247b",
+      "date": "2011-02-24T17:42:48Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "7939e2caf5e281b6cf3378d46c0216f3140148f9",
+      "date": "2011-02-24T17:35:26Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d544d3a3bb1d7905eaaeb608ff1ac629cd1a05ec",
+      "date": "2011-02-24T17:34:10Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "89f3e50adadfd2d0808bca7cab7deb9a598546a2",
+      "date": "2010-06-24T16:37:37Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "b7c102268634cdf0034a5d6d5cce40edc8ebc1c8",
+      "date": "2010-06-24T16:34:04Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "89c7b91fc56ec88d0f83bae2135bba230015e9f6",
+      "date": "2010-06-23T07:18:34Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d9eec7f4e81724377f1a7fb5860462928326dcbd",
+      "date": "2010-06-23T04:36:03Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "57a7ee1d189f2d6c89e0406dab5cf5209b5f94e9",
+      "date": "2010-06-23T04:33:23Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "6195d655926a0fcd23beb1f0261c390230606743",
+      "date": "2010-06-23T04:11:00Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "c180af8f03ce96bfa9451cbe0838ca85e281f207",
+      "date": "2010-06-23T03:40:57Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "76a88ec88b028ab8eddc50e94062c05a4f3f49fb",
+      "date": "2010-06-22T14:01:07Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "e419ece69b9b4d31065c2ee3f50c70ff253e1154",
+      "date": "2010-06-22T13:58:33Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "bab0a41e00c2f4c44c37654a19717b4458467d5b",
+      "date": "2010-06-22T13:51:13Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "192eb648126e97a3887c9b85eebc698de0e1b6a0",
+      "date": "2010-06-22T12:26:38Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d29222e09783ce9553f0987f04894bf3faecb54b",
+      "date": "2010-06-22T12:25:31Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "4015a22548f60c31312225ab3339f42e15082b02",
+      "date": "2010-06-22T12:04:21Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "9e8baf5b6abf312a9e223fc7e00614f62926fb39",
+      "date": "2010-06-22T12:01:09Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "57af06d63dbec78e9b797364a97bb1aab2a72027",
+      "date": "2010-06-22T12:00:32Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "2855a710b590c745a62316fb941865f7f7f2bfb7",
+      "date": "2010-06-22T11:07:37Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "b6bf84142c3c22a970c4984937d41e0ca7aba9fb",
+      "date": "2010-06-22T11:06:53Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "556605891fae2854725950b49aad3b57988a2dd4",
+      "date": "2010-06-22T11:06:36Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "c4fad9b8e4b2fdddde8f5489f336e9145ff92620",
+      "date": "2010-06-22T10:27:37Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "9612f34f4eb6712312e776c1588146f575240ed6",
+      "date": "2010-06-22T10:24:51Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "fa4ea7799be1c29ce282838d5bd347a88103cd0b",
+      "date": "2010-06-22T10:24:20Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "dc77e908c6f272c0ab34f8d34a7923b0fe727f5b",
+      "date": "2010-06-22T10:23:56Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "4fd8babf680a4ce1768dcc7e36a95ad0a781f311",
+      "date": "2010-06-22T10:22:59Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "f28c7897faaf124c015136a61e0fc8101d861a7a",
+      "date": "2010-06-22T10:22:02Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "5ffbda8b52fc5b509e64f1a2686b27b82ece7cf9",
+      "date": "2010-06-22T09:44:49Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d4c538c1d1a875a8065560e95727cfaae903c959",
+      "date": "2010-06-22T09:44:12Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "bc832620474cb566228f1b280733e710f7d4c891",
+      "date": "2010-06-22T09:20:45Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "c0e4c5edf406de9b37656aea5c1077a1f07c101a",
+      "date": "2010-06-22T08:29:41Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "99b053c0de214bbdc40d3824a40332248fb6b7e7",
+      "date": "2010-06-22T08:20:16Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "07f416b933976f4bc06b6433910693a2d152016e",
+      "date": "2010-04-25T05:05:21Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "0f7e56113722ad799719294b66c09135ca7c01cb",
+      "date": "2010-01-28T14:30:12Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "4c4fac6eb3eb653623c5d678d996d559b91f3e2a",
+      "date": "2010-01-26T07:26:09Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "4a82737a66750d162532fa694adf0fa845978671",
+      "date": "2010-01-26T07:07:40Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "182c887e3c669f825e885879fc43a79d39f32975",
+      "date": "2010-01-26T06:44:33Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "b2cbe44e385a26abdfc6f73168293b92c6b0a7f3",
+      "date": "2010-01-26T06:43:07Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "835ae2cf9e0cd4406af9c3c4c546370c92e65580",
+      "date": "2010-01-26T06:40:35Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "542cc79f79d9689370a56b77b16fa8385fc499fc",
+      "date": "2010-01-26T06:34:03Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "91f76ba3a75a22f60121b1403881aec70f35d75f",
+      "date": "2010-01-16T15:07:23Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "eb3bae12d39fac56d5ee8cdddb508fad7f73a596",
+      "date": "2010-01-16T14:52:13Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "14de2fb5f9d0add37a46c656ae741081bee4f87e",
+      "date": "2010-01-16T14:11:58Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "a8f649d2a3a982794db4b6e9135f33ef5f4c1c5b",
+      "date": "2010-01-16T13:15:23Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "5fa3807ed41e6cc201252a6671c22a3937a38060",
+      "date": "2009-08-13T22:18:51Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "3a5d978d582a85688fe1415e01d2ea2cf35114a2",
+      "date": "2009-08-10T06:45:43Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "c2f2effb229391e5800349a50e368f317a3e2a3a",
+      "date": "2009-05-11T14:09:09Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "827e7dbefb379f626f49311f3b293022725554d4",
+      "date": "2009-03-22T12:47:22Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "2b0dec26ad7b216c05003ef088c88727390ea67a",
+      "date": "2009-03-22T12:36:30Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "a44093ceca16cf003a75988eac342cdedde48c0c",
+      "date": "2009-03-22T12:32:46Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d807e0d31195b9eec82031b0d73e0a003183d129",
+      "date": "2009-03-22T12:26:17Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "58f4e3ebb0add13f7b3584c8a9185b85a45caacd",
+      "date": "2009-03-22T12:25:08Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "850f5970b5b9b73701ea1e0fa0430bbf0ddebe3e",
+      "date": "2009-03-22T12:22:12Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "a21fb2fb2755405b026be21740e017387835a18a",
+      "date": "2009-03-22T12:09:59Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "124cef86d9b9400ab036c50c462beb4c856dbee5",
+      "date": "2009-03-22T12:09:17Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "4f88640971a893939448f44ac11971285b6c38a1",
+      "date": "2009-02-21T20:32:46Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "dbfb856e0bb97b05fbd220669ae55d61f37131d2",
+      "date": "2009-02-21T09:55:51Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "bcf9154254a672c06af06a8fda04cb976787d694",
+      "date": "2009-02-21T09:49:29Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "6385c6f5ac2456372ba98a64e6c29906e43c260d",
+      "date": "2009-02-21T09:31:52Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "45068ab34226b3325e075d62eb69c53ffc958986",
+      "date": "2009-02-21T09:24:26Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "479b43438d7d95874cdc6b5e1b3a6320c3932f1f",
+      "date": "2009-02-21T09:22:18Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "d8cc3fdf290e21657ef978b0ffb9008851d7563a",
+      "date": "2009-02-21T08:23:20Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "9657564bb7b1b40e1d3651980f90c6800215b116",
+      "date": "2009-02-21T08:18:28Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "9bf124ac345848e54a298f9ba7dd7bc567caeae3",
+      "date": "2009-02-21T02:47:10Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "897fbd854dfa3b24d39ebb2dde3fae6fa72c1cbe",
+      "date": "2009-02-21T02:15:09Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "commit",
+      "id": "cb9ecff90114f757cba31a43bab5572341ea4f0e",
+      "date": "2009-02-21T01:30:46Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c2cffe0b75d31e457ff977e349344b3af09c5eb8",
+      "date": "2010-04-29T21:55:34Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c028a23b36debbce1005347d4234fe6e32373223",
+      "date": "2010-03-09T14:54:15Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8ec26961a6edf79c1a0c730a58e5d095b8bcecdf",
+      "date": "2010-02-22T22:47:55Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "01532da684cbb004661987c40d8ba8c952a773e3",
+      "date": "2010-02-08T19:37:54Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b82c7d66b55a1df4bb3e87735af3ef34f1bd85d1",
+      "date": "2010-02-08T19:35:27Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "065ba85cc49a15d952c46410aad4ef78a98f7717",
+      "date": "2009-12-24T04:42:37Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bdb95317b65cac058a6698521740fc51160ce47f",
+      "date": "2009-12-24T04:24:56Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "67f7f9b4ee1907b2db0e6addc0ad65f7d53916f4",
+      "date": "2009-12-22T23:19:22Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "aea2d608fe592a665741087a8d6d31fcf26848ec",
+      "date": "2009-01-15T13:46:21Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a846eb464becd009e77e813dd0c31703f9cd7cd0",
+      "date": "2009-04-25T14:35:10Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c81542e28aa715ca209186f5c58b96f373b44fcf",
+      "date": "2009-03-13T16:57:02Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c82590723025c7f51c2bfa246225263d1971f179",
+      "date": "2009-03-06T05:21:52Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "86ddc7a6ec68d7b6951c2dbd07947c4254e8bc0d",
+      "date": "2009-03-06T05:20:58Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1270a6db3d535f3abddba1c9566feb09535c3f56",
+      "date": "2009-03-06T05:20:17Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "980d681627e64e1b3d010936060ae886c39aa8ae",
+      "date": "2009-03-06T05:19:23Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2a506e81922b0265ebfea135956c5e6234dfc64a",
+      "date": "2008-12-09T01:29:56Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "51f91a6066123451ff4502eecfffc0e54fc25d4a",
+      "date": "2009-02-03T23:19:16Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "3576a34f1bbe880e2bfc5557266d1bffe479052e",
+      "date": "2009-02-03T22:39:22Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b7939fc311f236ae9bc456919078470dc10b8107",
+      "date": "2009-02-02T11:18:42Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8c80996b1719284b45858200b9b3d7a0d77436de",
+      "date": "2009-02-02T11:08:21Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "aadfd1386132279ee06159384c385c3eee03b3bb",
+      "date": "2009-02-01T08:57:22Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bebd5893059949e03f3e724df61c712fe1d7c5d1",
+      "date": "2009-02-01T08:48:58Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "732a4fa212850f1663634dabf783d6c1a68cfcfc",
+      "date": "2009-02-01T08:17:36Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "aa318a1dbca1d152e3d82b3ee3c69ebc08a70399",
+      "date": "2009-02-01T08:55:22Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "756b19da59c430851e8331afffcf3286efa428ca",
+      "date": "2009-02-01T06:47:16Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c00b38623da44c7d23a7efa8d5d5b7543bf79b04",
+      "date": "2008-12-29T10:15:25Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "76c3aefaab4fc5c667adeea27f99b2376fd161b6",
+      "date": "2008-12-29T08:40:46Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4e174436f7709a300759418ea4d26bf3bc568ead",
+      "date": "2008-12-12T05:00:27Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "30025a28b21113805f74b783a0db1db68aca9404",
+      "date": "2008-12-23T08:23:49Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ea814ff1f14e1103215547d9d97487f63ef36f46",
+      "date": "2008-12-23T19:52:11Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7a0476be9289b6e38dbc27946168d41894439f42",
+      "date": "2008-12-23T06:17:18Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a697597aeb1a0e1590dc1ff7505c82d458ef5148",
+      "date": "2008-12-19T03:25:24Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 66067,
+      "date": "2009-10-26T08:59:06Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 66071,
+      "date": "2009-10-26T09:15:17Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 66202,
+      "date": "2009-10-26T15:33:44Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 87210,
+      "date": "2009-12-08T06:32:06Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 87211,
+      "date": "2009-12-08T06:33:42Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 87213,
+      "date": "2009-12-08T06:34:19Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 87856,
+      "date": "2009-12-09T01:12:08Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 88204,
+      "date": "2009-12-09T16:08:57Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 88239,
+      "date": "2009-12-09T16:53:56Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 111283,
+      "date": "2010-01-16T14:59:46Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 111284,
+      "date": "2010-01-16T15:02:54Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 111285,
+      "date": "2010-01-16T15:03:17Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 111287,
+      "date": "2010-01-16T15:03:44Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 118543,
+      "date": "2010-01-26T10:01:10Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 154422,
+      "date": "2010-03-09T16:30:45Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 219831,
+      "date": "2010-04-25T05:06:14Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 219835,
+      "date": "2010-04-25T05:10:47Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 219836,
+      "date": "2010-04-25T05:11:47Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 255978,
+      "date": "2010-05-27T20:43:55Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 266729,
+      "date": "2010-06-07T16:55:49Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 283513,
+      "date": "2010-06-22T02:26:54Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 284040,
+      "date": "2010-06-22T14:26:45Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 284042,
+      "date": "2010-06-22T14:28:15Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 285048,
+      "date": "2010-06-23T07:18:54Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 285051,
+      "date": "2010-06-23T07:22:14Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 286883,
+      "date": "2010-06-24T16:41:18Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 303175,
+      "date": "2010-07-07T18:06:47Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 307616,
+      "date": "2010-07-11T14:11:06Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 319028,
+      "date": "2010-07-20T04:03:37Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 381437,
+      "date": "2010-08-31T19:32:22Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 747647,
+      "date": "2011-02-07T21:37:43Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 792089,
+      "date": "2011-02-21T05:54:51Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 806328,
+      "date": "2011-02-24T17:29:22Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 806334,
+      "date": "2011-02-24T17:31:11Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 806402,
+      "date": "2011-02-24T17:56:08Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 806412,
+      "date": "2011-02-24T17:57:44Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 806413,
+      "date": "2011-02-24T17:58:05Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 806425,
+      "date": "2011-02-24T18:00:14Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 1157613,
+      "date": "2011-05-13T22:00:18Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 12632278,
+      "date": "2013-01-24T01:11:36Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 15129430,
+      "date": "2013-03-19T17:20:57Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 15136431,
+      "date": "2013-03-19T19:09:02Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 19485839,
+      "date": "2013-06-14T22:51:59Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 19640969,
+      "date": "2013-06-18T20:49:13Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76622266,
+      "date": "2015-03-01T18:20:42Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 76622318,
+      "date": "2015-03-01T18:21:52Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "com",
+      "id": 130150525,
+      "date": "2015-08-12T03:49:24Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 154400,
+      "date": "2010-03-09T16:05:23Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 399609,
+      "date": "2010-09-10T16:20:14Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1067113,
+      "date": "2011-04-27T22:39:41Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1207735,
+      "date": "2011-05-20T02:34:03Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1207744,
+      "date": "2011-05-20T02:37:43Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1225819,
+      "date": "2011-05-24T03:23:35Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1225820,
+      "date": "2011-05-24T03:23:56Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3656737,
+      "date": "2012-01-25T19:05:45Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3657034,
+      "date": "2012-01-25T19:22:09Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3675122,
+      "date": "2012-01-26T19:42:06Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "issue",
+      "id": 11,
+      "date": "2010-01-16T15:01:37Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "issue",
+      "id": 9,
+      "date": "2009-12-14T11:48:43Z"
+    },
+    {
+      "dev_id": "rtomayko",
+      "repo": "rtomayko/shotgun",
+      "type": "issue",
+      "id": 8,
+      "date": "2009-12-14T11:35:21Z"
+    }
+  ]
+}

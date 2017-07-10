@@ -1,0 +1,705 @@
+{
+  "user_repo": "joelittlejohn/jsonschema2pojo",
+  "dep_repo": "FasterXML/jackson-databind",
+  "dep_date": "2012-04-18 22:54:20 UTC",
+  "dep_commit_id": "3a97cccc79b5c8c9e034b070c8de69ac6012151e",
+  "social_date": "2013-02-26 21:39:33 UTC",
+  "devs": [
+    "fge"
+  ],
+  "interactions": [
+    {
+      "dev_id": "fge",
+      "repo": "joelittlejohn/jsonschema2pojo",
+      "type": "commit",
+      "id": "a8d4c34021f4c25c8600ab7c6c4a02caaf36aadc",
+      "date": "2013-02-26T21:41:14Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "joelittlejohn/jsonschema2pojo",
+      "type": "commit",
+      "id": "e9cd6fb08277fc874b528d1ef3b512d87c2d7aac",
+      "date": "2013-02-26T21:39:33Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "1b8244e28f75f2ef49fb5ffa8fb69c9c9838f858",
+      "date": "2014-04-07T05:13:03Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "82fc90de25198d7a30c2928cc3f92c96768919ea",
+      "date": "2013-02-08T13:21:45Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "83dc2d194139a8bbc82e61e6d807ff9b2956f26c",
+      "date": "2013-01-28T21:06:26Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "645c6ab7148315083911d54d8f6b19589f3a5a86",
+      "date": "2013-01-28T20:39:17Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "833886744101ab8ded5907759b98d8a2bb262f55",
+      "date": "2013-01-24T04:11:50Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "2daf8115ef95167954b17f7a990609a54010ecf3",
+      "date": "2013-01-24T04:11:50Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "84a892017bebafe92a21d4394ab9070907dbec26",
+      "date": "2013-01-24T01:24:20Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "1b8b422a5fba1a37d789fe1a6b9173e7cc44fbb0",
+      "date": "2013-01-24T01:24:20Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "469b2724edec674d493cc409273c73b871136d48",
+      "date": "2013-01-18T19:05:00Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "bacc96937359bbae8dbc4c46430865d3e89ab7f5",
+      "date": "2013-01-11T12:55:54Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "dcc5439b593d3569ad3ba5c2f1ef82f272e2591f",
+      "date": "2013-01-11T18:50:32Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "commit",
+      "id": "e5eb2acab5e1c949c079dc1a02a05b2a48033e65",
+      "date": "2012-11-17T16:12:54Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8313569,
+      "date": "2012-09-05T20:56:31Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8314280,
+      "date": "2012-09-05T21:20:04Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8583421,
+      "date": "2012-09-15T10:06:36Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8622046,
+      "date": "2012-09-17T16:48:57Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8942961,
+      "date": "2012-09-27T16:40:50Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8945195,
+      "date": "2012-09-27T17:47:16Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8953535,
+      "date": "2012-09-27T20:47:44Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8953558,
+      "date": "2012-09-27T20:48:31Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8955112,
+      "date": "2012-09-27T21:15:47Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8955728,
+      "date": "2012-09-27T21:33:22Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8956889,
+      "date": "2012-09-27T22:16:25Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8968037,
+      "date": "2012-09-28T08:44:44Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8974270,
+      "date": "2012-09-28T11:58:49Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8975232,
+      "date": "2012-09-28T12:46:12Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8980317,
+      "date": "2012-09-28T15:32:19Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 8984881,
+      "date": "2012-09-28T17:35:28Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10121343,
+      "date": "2012-11-06T18:20:30Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10364697,
+      "date": "2012-11-14T12:40:42Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10434098,
+      "date": "2012-11-16T02:07:13Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10434570,
+      "date": "2012-11-16T02:30:52Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10435424,
+      "date": "2012-11-16T03:20:08Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10475699,
+      "date": "2012-11-17T16:18:43Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10523754,
+      "date": "2012-11-19T18:00:03Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10526357,
+      "date": "2012-11-19T19:07:45Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 10527302,
+      "date": "2012-11-19T19:31:26Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 12436884,
+      "date": "2013-01-18T19:19:22Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 12636278,
+      "date": "2013-01-24T04:06:38Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 12636467,
+      "date": "2013-01-24T04:15:20Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14690863,
+      "date": "2013-03-10T22:28:42Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14706186,
+      "date": "2013-03-11T10:35:52Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14708468,
+      "date": "2013-03-11T11:35:12Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14733441,
+      "date": "2013-03-11T18:58:16Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 14744124,
+      "date": "2013-03-11T21:32:56Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 19511181,
+      "date": "2013-06-16T11:37:08Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 19932833,
+      "date": "2013-06-24T20:19:11Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 19940750,
+      "date": "2013-06-24T22:28:53Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 19966230,
+      "date": "2013-06-25T10:12:51Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20066970,
+      "date": "2013-06-26T17:53:03Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20096166,
+      "date": "2013-06-27T04:04:47Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20096197,
+      "date": "2013-06-27T04:06:20Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20096565,
+      "date": "2013-06-27T04:22:55Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20125253,
+      "date": "2013-06-27T14:56:30Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20238431,
+      "date": "2013-06-29T22:35:08Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20255867,
+      "date": "2013-06-30T21:31:30Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20264885,
+      "date": "2013-07-01T06:12:24Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20308524,
+      "date": "2013-07-01T20:36:43Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 20313349,
+      "date": "2013-07-01T21:54:17Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 25015742,
+      "date": "2013-09-24T15:35:02Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 25027793,
+      "date": "2013-09-24T17:59:06Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 34546127,
+      "date": "2014-02-08T15:09:11Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 39625206,
+      "date": "2014-04-05T01:18:00Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 39670852,
+      "date": "2014-04-06T15:13:21Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 69996381,
+      "date": "2015-01-14T21:34:32Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 69998383,
+      "date": "2015-01-14T21:45:57Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 69999488,
+      "date": "2015-01-14T21:52:44Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 70002837,
+      "date": "2015-01-14T22:12:41Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "com",
+      "id": 70016355,
+      "date": "2015-01-14T23:51:46Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 434,
+      "date": "2014-04-07T05:19:47Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 249,
+      "date": "2013-06-25T10:10:59Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 248,
+      "date": "2013-06-25T10:09:37Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 162,
+      "date": "2013-02-08T13:29:36Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 155,
+      "date": "2013-01-28T21:11:10Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 153,
+      "date": "2013-01-24T02:28:06Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 145,
+      "date": "2013-01-11T21:07:10Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 144,
+      "date": "2013-01-11T18:55:10Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 114,
+      "date": "2012-11-19T17:21:44Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 110,
+      "date": "2012-11-17T16:19:42Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 109,
+      "date": "2012-11-16T02:45:07Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 108,
+      "date": "2012-11-15T20:23:39Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 107,
+      "date": "2012-11-15T12:55:54Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 105,
+      "date": "2012-11-13T17:44:21Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 104,
+      "date": "2012-11-12T19:55:42Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 86,
+      "date": "2012-09-29T13:01:38Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 83,
+      "date": "2012-09-28T08:11:56Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "pr",
+      "id": 82,
+      "date": "2012-09-27T20:54:00Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 680,
+      "date": "2015-01-14T21:15:36Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 433,
+      "date": "2014-04-05T00:21:31Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 251,
+      "date": "2013-06-26T03:03:42Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 186,
+      "date": "2013-03-08T19:15:12Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 115,
+      "date": "2012-11-19T18:45:32Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 101,
+      "date": "2012-11-05T16:21:17Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 85,
+      "date": "2012-09-28T10:32:21Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 80,
+      "date": "2012-09-27T09:37:38Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 70,
+      "date": "2012-09-05T08:20:41Z"
+    },
+    {
+      "dev_id": "fge",
+      "repo": "FasterXML/jackson-databind",
+      "type": "issue",
+      "id": 21,
+      "date": "2012-05-31T20:17:43Z"
+    }
+  ]
+}

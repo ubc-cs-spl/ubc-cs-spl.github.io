@@ -1,0 +1,6042 @@
+{
+  "user_repo": "test-kitchen/test-kitchen",
+  "dep_repo": "net-ssh/net-ssh",
+  "dep_date": "2012-12-18 23:08:02 UTC",
+  "dep_commit_id": "57dc4aea4c35f1823a9db236853cdbdf37c999a7",
+  "social_date": "2013-02-06 20:25:47 UTC",
+  "devs": [
+    "chr4",
+    "jtimberman",
+    "sethvargo",
+    "tyler-ball"
+  ],
+  "interactions": [
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "d0eb8b00371330d259a248402021de8eb0cf8cc9",
+      "date": "2014-05-01T17:34:29Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "16398e414cdcf59939c31357c136a188fd10ecab",
+      "date": "2014-05-01T17:33:21Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "b1fc36b983bd580d66ca9c2c65b5167f9cb8fa08",
+      "date": "2014-04-17T11:22:26Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "cba8e6cfd0c2c9f849613737d2b40704372b8a2e",
+      "date": "2014-04-17T11:11:33Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "483add718deefe976ca272e168e24185fc93a9b3",
+      "date": "2014-04-17T11:10:44Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "c66b6a0e5f89550e2f60ae15df4141f9a367770b",
+      "date": "2014-04-16T15:34:29Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "83ce879180a1aba73ac200ef022c44352028b000",
+      "date": "2014-04-16T14:40:28Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "0138e03d736f8924acb95b94dca67a32dd7e58da",
+      "date": "2014-04-16T14:39:23Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "commit",
+      "id": "c0bed21b715c38959572918f10d3586f4575d4d5",
+      "date": "2014-04-16T14:38:24Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 37933733,
+      "date": "2014-03-18T13:46:48Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 40607523,
+      "date": "2014-04-16T14:46:51Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 40607708,
+      "date": "2014-04-16T14:48:28Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 40711263,
+      "date": "2014-04-17T13:04:29Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 40711301,
+      "date": "2014-04-17T13:04:58Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 40723968,
+      "date": "2014-04-17T15:03:15Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41490300,
+      "date": "2014-04-27T07:32:53Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41772017,
+      "date": "2014-04-30T08:26:19Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41963965,
+      "date": "2014-05-01T22:24:08Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41964080,
+      "date": "2014-05-01T22:25:22Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41967019,
+      "date": "2014-05-01T23:04:15Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41968829,
+      "date": "2014-05-01T23:30:44Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41969932,
+      "date": "2014-05-01T23:48:37Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41970261,
+      "date": "2014-05-01T23:54:47Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41970424,
+      "date": "2014-05-01T23:57:43Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 41971384,
+      "date": "2014-05-02T00:13:39Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 46314853,
+      "date": "2014-06-17T14:34:30Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 47777672,
+      "date": "2014-07-02T13:48:02Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 49092763,
+      "date": "2014-07-15T21:08:19Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 49159663,
+      "date": "2014-07-16T12:45:32Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 49183955,
+      "date": "2014-07-16T15:38:24Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 49184281,
+      "date": "2014-07-16T15:40:36Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 49185423,
+      "date": "2014-07-16T15:48:24Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 49202139,
+      "date": "2014-07-16T17:52:55Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 50602729,
+      "date": "2014-07-30T11:27:24Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 56649977,
+      "date": "2014-09-24T10:09:36Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 56650081,
+      "date": "2014-09-24T10:10:48Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 57593840,
+      "date": "2014-10-02T07:37:11Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 57655080,
+      "date": "2014-10-02T16:16:46Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 57657746,
+      "date": "2014-10-02T16:34:57Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 499,
+      "date": "2014-09-16T11:39:27Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "pr",
+      "id": 162,
+      "date": "2014-05-01T17:50:51Z"
+    },
+    {
+      "dev_id": "chr4",
+      "repo": "net-ssh/net-ssh",
+      "type": "pr",
+      "id": 160,
+      "date": "2014-04-16T14:46:29Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "27f3a3db2b2c2387808d6aaa9140ffc65e9a538a",
+      "date": "2014-01-10T06:12:55Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "b934b45db306389a9ed42eae5375a4814aaf4cfe",
+      "date": "2013-09-20T03:40:16Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "ebaa0e08bab7b5c973ff6cac44558a17071d7460",
+      "date": "2013-07-12T19:42:05Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "9d7b8d41c828d13e28d7b8aad7f0d795c33e043e",
+      "date": "2013-07-07T01:41:48Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "78bc90b6f5fa9bf3787d928b60f850c4cc45260a",
+      "date": "2013-06-29T16:42:25Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "7845f801414868398793685516d508c62e8fe90b",
+      "date": "2013-06-29T15:26:12Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "85431e28c8ef32a3c6a0e76cdf0e7f4d38e1b78a",
+      "date": "2013-06-28T19:43:47Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "6c5e76409e581fee38979ac72706f00b66ac156c",
+      "date": "2013-06-19T00:29:39Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "671e8e6c771131a54863b1923dbe15280e4be4f8",
+      "date": "2013-05-13T15:21:31Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 7945250,
+      "date": "2012-08-22T18:59:38Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 7945827,
+      "date": "2012-08-22T19:19:08Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 8966044,
+      "date": "2012-09-28T06:45:34Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 8966049,
+      "date": "2012-09-28T06:46:08Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 10704704,
+      "date": "2012-11-26T04:57:00Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 10706361,
+      "date": "2012-11-26T07:02:05Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 10776174,
+      "date": "2012-11-27T20:48:04Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 11136497,
+      "date": "2012-12-07T16:37:26Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12746525,
+      "date": "2013-01-27T02:30:16Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12746701,
+      "date": "2013-01-27T02:48:38Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12747088,
+      "date": "2013-01-27T03:37:10Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12766660,
+      "date": "2013-01-28T02:35:27Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12766681,
+      "date": "2013-01-28T02:37:09Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12768002,
+      "date": "2013-01-28T04:05:41Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12768040,
+      "date": "2013-01-28T04:08:33Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12768050,
+      "date": "2013-01-28T04:09:27Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12768064,
+      "date": "2013-01-28T04:10:35Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12768087,
+      "date": "2013-01-28T04:12:09Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12769118,
+      "date": "2013-01-28T05:29:16Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12769137,
+      "date": "2013-01-28T05:30:09Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12769153,
+      "date": "2013-01-28T05:31:18Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12769174,
+      "date": "2013-01-28T05:32:42Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12769185,
+      "date": "2013-01-28T05:33:24Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12770548,
+      "date": "2013-01-28T06:58:34Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12823196,
+      "date": "2013-01-29T07:15:19Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12845572,
+      "date": "2013-01-29T17:10:45Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12898459,
+      "date": "2013-01-30T16:35:39Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13018314,
+      "date": "2013-02-01T22:48:01Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13018834,
+      "date": "2013-02-01T23:02:27Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13018908,
+      "date": "2013-02-01T23:04:40Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13019164,
+      "date": "2013-02-01T23:13:18Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13019241,
+      "date": "2013-02-01T23:15:34Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13019732,
+      "date": "2013-02-01T23:32:33Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13020379,
+      "date": "2013-02-01T23:56:22Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13021367,
+      "date": "2013-02-02T00:36:23Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13058062,
+      "date": "2013-02-03T23:38:55Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13111521,
+      "date": "2013-02-05T02:22:43Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13115397,
+      "date": "2013-02-05T05:36:41Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13115409,
+      "date": "2013-02-05T05:37:30Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13705267,
+      "date": "2013-02-18T03:35:56Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13705667,
+      "date": "2013-02-18T03:58:57Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 13986117,
+      "date": "2013-02-23T06:32:53Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 14188869,
+      "date": "2013-02-27T18:02:56Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 16010317,
+      "date": "2013-04-07T06:20:55Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 16010325,
+      "date": "2013-04-07T06:21:49Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 16053171,
+      "date": "2013-04-08T14:23:50Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 16425834,
+      "date": "2013-04-16T04:17:50Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 16816813,
+      "date": "2013-04-22T19:34:57Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17140378,
+      "date": "2013-04-28T19:02:58Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17204687,
+      "date": "2013-04-30T01:18:00Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17746254,
+      "date": "2013-05-10T21:43:41Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17746935,
+      "date": "2013-05-10T22:02:30Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17746948,
+      "date": "2013-05-10T22:02:46Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17761317,
+      "date": "2013-05-11T14:57:06Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18079485,
+      "date": "2013-05-17T18:50:38Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18425492,
+      "date": "2013-05-24T19:37:58Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18425849,
+      "date": "2013-05-24T19:44:58Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18425881,
+      "date": "2013-05-24T19:45:27Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18425946,
+      "date": "2013-05-24T19:46:29Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18425979,
+      "date": "2013-05-24T19:47:11Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18426145,
+      "date": "2013-05-24T19:50:43Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18426279,
+      "date": "2013-05-24T19:53:05Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18426342,
+      "date": "2013-05-24T19:54:13Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18426505,
+      "date": "2013-05-24T19:56:52Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18426577,
+      "date": "2013-05-24T19:58:20Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18431129,
+      "date": "2013-05-24T21:30:50Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18431302,
+      "date": "2013-05-24T21:34:07Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432435,
+      "date": "2013-05-24T22:00:57Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432513,
+      "date": "2013-05-24T22:02:57Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432598,
+      "date": "2013-05-24T22:04:58Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432651,
+      "date": "2013-05-24T22:06:19Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432729,
+      "date": "2013-05-24T22:08:18Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432782,
+      "date": "2013-05-24T22:09:53Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432806,
+      "date": "2013-05-24T22:10:32Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18432857,
+      "date": "2013-05-24T22:11:31Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18433005,
+      "date": "2013-05-24T22:15:05Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18433028,
+      "date": "2013-05-24T22:15:33Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18433092,
+      "date": "2013-05-24T22:17:42Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18438080,
+      "date": "2013-05-25T01:57:37Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18438152,
+      "date": "2013-05-25T02:02:23Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18439393,
+      "date": "2013-05-25T04:08:06Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18718331,
+      "date": "2013-05-31T01:17:51Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18884467,
+      "date": "2013-06-04T01:43:03Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18885174,
+      "date": "2013-06-04T02:08:10Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18885186,
+      "date": "2013-06-04T02:08:31Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19142543,
+      "date": "2013-06-08T03:58:22Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 20233583,
+      "date": "2013-06-29T17:18:42Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 20564154,
+      "date": "2013-07-07T01:41:22Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 20572585,
+      "date": "2013-07-07T15:44:17Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 20583433,
+      "date": "2013-07-08T02:57:34Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 20583637,
+      "date": "2013-07-08T03:06:57Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 20583693,
+      "date": "2013-07-08T03:10:15Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21123098,
+      "date": "2013-07-17T15:54:29Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21123274,
+      "date": "2013-07-17T15:57:00Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21834701,
+      "date": "2013-07-31T01:21:54Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21912416,
+      "date": "2013-08-01T03:34:25Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21912491,
+      "date": "2013-08-01T03:37:25Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21989435,
+      "date": "2013-08-02T06:54:39Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 22813071,
+      "date": "2013-08-17T14:47:02Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 22813502,
+      "date": "2013-08-17T15:12:35Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 22813607,
+      "date": "2013-08-17T15:18:22Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25292352,
+      "date": "2013-09-28T06:27:11Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25781858,
+      "date": "2013-10-07T02:00:26Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25782627,
+      "date": "2013-10-07T02:38:56Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25783697,
+      "date": "2013-10-07T03:37:13Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26303430,
+      "date": "2013-10-15T01:36:21Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26572966,
+      "date": "2013-10-18T05:21:24Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26573004,
+      "date": "2013-10-18T05:23:15Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27056782,
+      "date": "2013-10-25T03:33:06Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 29719585,
+      "date": "2013-12-03T15:35:20Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 30483641,
+      "date": "2013-12-13T03:23:59Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32819383,
+      "date": "2014-01-21T03:52:14Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38868378,
+      "date": "2014-03-27T22:21:31Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45443954,
+      "date": "2014-06-08T18:13:49Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45455216,
+      "date": "2014-06-09T01:46:49Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 46080652,
+      "date": "2014-06-14T07:14:05Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50407799,
+      "date": "2014-07-28T21:55:13Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51152010,
+      "date": "2014-08-05T05:41:16Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51370372,
+      "date": "2014-08-06T17:45:43Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52076569,
+      "date": "2014-08-13T16:52:36Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52077380,
+      "date": "2014-08-13T16:58:12Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52077574,
+      "date": "2014-08-13T16:59:46Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 58174515,
+      "date": "2014-10-07T12:11:21Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 58174982,
+      "date": "2014-10-07T12:16:05Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 58589706,
+      "date": "2014-10-09T22:45:34Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61573324,
+      "date": "2014-11-04T00:13:23Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63671287,
+      "date": "2014-11-19T16:46:35Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 67752150,
+      "date": "2014-12-20T22:25:22Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 70784424,
+      "date": "2015-01-21T04:54:12Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 71956350,
+      "date": "2015-01-29T02:07:09Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 72148073,
+      "date": "2015-01-30T03:20:55Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 72390929,
+      "date": "2015-02-01T23:23:37Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 77457925,
+      "date": "2015-03-05T21:40:35Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83334680,
+      "date": "2015-03-19T05:24:51Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 89716301,
+      "date": "2015-04-05T04:56:33Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 100033215,
+      "date": "2015-05-07T22:00:51Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 106976707,
+      "date": "2015-05-30T02:32:49Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 121346639,
+      "date": "2015-07-14T19:17:55Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 13203179,
+      "date": "2013-02-06T20:25:47Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 13207322,
+      "date": "2013-02-06T21:50:36Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 318,
+      "date": "2014-01-10T06:14:13Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 214,
+      "date": "2013-10-07T03:36:34Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 164,
+      "date": "2013-07-07T01:52:16Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 152,
+      "date": "2013-06-19T00:30:48Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 115,
+      "date": "2013-05-13T15:22:47Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 10,
+      "date": "2012-11-21T02:35:25Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 8,
+      "date": "2012-10-01T23:08:03Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 3,
+      "date": "2012-08-22T18:59:24Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 2,
+      "date": "2012-08-22T17:46:09Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 777,
+      "date": "2015-07-14T19:17:25Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 700,
+      "date": "2015-04-22T03:20:23Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 213,
+      "date": "2013-10-07T01:56:54Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 163,
+      "date": "2013-07-07T01:41:02Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 160,
+      "date": "2013-06-29T16:42:06Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 159,
+      "date": "2013-06-29T15:23:38Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 153,
+      "date": "2013-06-25T19:25:31Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 151,
+      "date": "2013-06-19T00:28:36Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 149,
+      "date": "2013-06-14T19:57:43Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 114,
+      "date": "2013-05-13T15:20:35Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 97,
+      "date": "2013-05-05T22:45:08Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 29,
+      "date": "2013-01-27T06:03:16Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 28,
+      "date": "2013-01-27T05:30:16Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 27,
+      "date": "2013-01-27T05:12:35Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 26,
+      "date": "2013-01-27T04:54:51Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 25,
+      "date": "2013-01-27T03:30:08Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 24,
+      "date": "2013-01-27T03:12:47Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 22,
+      "date": "2013-01-27T02:45:31Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 21,
+      "date": "2013-01-27T02:37:12Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 20,
+      "date": "2013-01-27T02:24:25Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 19,
+      "date": "2013-01-27T02:17:03Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 18,
+      "date": "2013-01-27T02:16:18Z"
+    },
+    {
+      "dev_id": "jtimberman",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 17,
+      "date": "2013-01-27T02:13:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "aa1009c5c1eb3f6febe2637900e9e4c8600abe2d",
+      "date": "2015-01-28T16:22:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "492104a266c87f65df2627b1f262b03c2d0f6fab",
+      "date": "2015-01-21T14:59:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "e3f2ed50720f2aebae5c603213fa0da842770e95",
+      "date": "2015-01-15T20:26:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "8e4ed89f405a2bf68cd51b7289dcadc783eadd2b",
+      "date": "2014-12-20T17:49:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "dcfced869608b411ad2bffc067c42458878dcbd3",
+      "date": "2014-12-05T15:55:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "3d5e5d74ab2418b743b63d71f8fd2fd985e1f000",
+      "date": "2014-12-02T19:24:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "57ff15ca21d6b22a44f269d1ab87fb3df97e148d",
+      "date": "2014-11-28T17:36:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "459238b88ccb4219d8bcabd5a89a8adcb7391b16",
+      "date": "2014-09-08T15:27:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "349a728dda458184b167e118213ce8a06e7bd777",
+      "date": "2014-08-13T19:38:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "e2a508e4ce33d3b41636f220919e78e080207985",
+      "date": "2014-07-29T14:27:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "a48d5e1c8ddcac6bb60bd61221ce477e8480fe32",
+      "date": "2014-07-24T01:23:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "d766675da9e6bf72f09f320a92b48fa529ffefdc",
+      "date": "2014-06-06T15:12:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "fb988bed077abb032a40cd697aa356369e637b69",
+      "date": "2014-05-30T14:48:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "3d3d024443e89bb5a7182e22b5ce2e59b8964853",
+      "date": "2014-05-01T13:43:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "9b232eaeffcbea5e73b2e4278a278f6313106138",
+      "date": "2014-04-24T23:26:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "137e0b5a41ad2093d134314fa9a8cf5caabf3520",
+      "date": "2014-04-04T16:53:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "1b40eb1a102958c9790600fa455d7ed398043e60",
+      "date": "2014-03-17T15:47:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "04e8e42ffb841e53901e3c81a48c02f0d4cd6002",
+      "date": "2014-02-26T19:08:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "13aed86b33ee164d45abdec5bb091da15180d5a2",
+      "date": "2014-02-19T22:43:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "08eacb7c25a1932e5d4d119acc04a7c807738375",
+      "date": "2013-11-09T18:15:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "2226041b95ecf88b190c481e957b036c0c32c2df",
+      "date": "2013-11-06T17:37:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "9fb5c4b96163d90179d0099b58a2d97878412d63",
+      "date": "2013-11-06T02:40:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "e266ac7912eb3136b054526e728add88ebcdf772",
+      "date": "2013-11-06T02:59:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "62cafb0b685ef80e1807f522349056279785fce5",
+      "date": "2013-11-06T01:50:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "8440fc623e154506a3adcb58ebe95b710beea6f7",
+      "date": "2013-11-05T04:51:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "ada9c45350d7ece9e2cb47dcc37287f2eeaecbf7",
+      "date": "2013-11-05T04:50:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "a655ed5296511c708ba7fb3a9cb277020a74c443",
+      "date": "2013-11-05T04:43:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "e232e5513af115b31a63ea36ddefc952d76f5ab7",
+      "date": "2013-11-05T04:30:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "5307a0ece69b57352ef7a5616ea88159a81c01fa",
+      "date": "2013-11-05T04:25:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "d57401dd9d4ded41a480a50de7e1461f4e58df95",
+      "date": "2013-11-05T04:23:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "3ceee249c0d950a8b2c6e0d1b237272b4e2fd14c",
+      "date": "2013-11-06T00:16:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "4b6e98f71738b058c505e6e415d7f5a5977f06d1",
+      "date": "2013-11-06T00:01:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "cba2323100badbed69b399c350533004446a5d08",
+      "date": "2013-11-01T21:40:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "bf1545ed5b35eaa963bdaf541b67c91b48bca790",
+      "date": "2013-11-01T21:39:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "03def8c1f6b4ba86f5f7c6bbfb4a01eb68ee84b9",
+      "date": "2013-09-27T16:55:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "feb13eed172bdc1d8b2f8bb05b01955a5670f2ac",
+      "date": "2013-11-01T20:40:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "1e961e43ffe7e15c0680d908d8d3a912adb1eea1",
+      "date": "2013-10-23T01:54:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "a617a89e3f6210f3cff451164b4e3d4b7cde8f0a",
+      "date": "2013-09-27T16:06:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "0fdb01010e89c67d78e8a22db5165201addd3a48",
+      "date": "2013-05-15T18:56:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "7db401251295704bd55a1b3d217ecd3e0d6f6ba6",
+      "date": "2013-05-10T20:29:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "260ff11477e51437ae7ae5c80ede0796b906840d",
+      "date": "2013-05-10T20:05:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "05eb2d2409d657793716d4748b6057b22c3c754e",
+      "date": "2013-05-10T20:03:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "bb6b9db44e42c5da7dfa43bcae104a1127e9c584",
+      "date": "2013-01-21T16:53:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12878722,
+      "date": "2013-01-30T08:15:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12904031,
+      "date": "2013-01-30T18:19:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12904980,
+      "date": "2013-01-30T18:38:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12906197,
+      "date": "2013-01-30T19:01:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12906328,
+      "date": "2013-01-30T19:04:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12906503,
+      "date": "2013-01-30T19:07:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12906545,
+      "date": "2013-01-30T19:08:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12906590,
+      "date": "2013-01-30T19:09:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12907602,
+      "date": "2013-01-30T19:28:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12912030,
+      "date": "2013-01-30T20:57:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 12970721,
+      "date": "2013-01-31T22:48:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17741198,
+      "date": "2013-05-10T19:58:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17742539,
+      "date": "2013-05-10T20:24:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17743157,
+      "date": "2013-05-10T20:37:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17753320,
+      "date": "2013-05-11T03:03:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17767084,
+      "date": "2013-05-11T20:44:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17770694,
+      "date": "2013-05-12T01:25:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 17959757,
+      "date": "2013-05-15T19:14:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18010299,
+      "date": "2013-05-16T15:55:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18324735,
+      "date": "2013-05-23T05:58:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18884506,
+      "date": "2013-06-04T01:44:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18885209,
+      "date": "2013-06-04T02:09:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 18885224,
+      "date": "2013-06-04T02:09:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19129071,
+      "date": "2013-06-07T19:49:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19129363,
+      "date": "2013-06-07T19:55:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19129370,
+      "date": "2013-06-07T19:55:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19185552,
+      "date": "2013-06-10T08:11:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19275735,
+      "date": "2013-06-11T17:09:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19285486,
+      "date": "2013-06-11T19:13:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19285857,
+      "date": "2013-06-11T19:19:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 19294075,
+      "date": "2013-06-11T21:36:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 20899578,
+      "date": "2013-07-12T19:39:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21123578,
+      "date": "2013-07-17T16:01:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21145694,
+      "date": "2013-07-17T21:18:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21147718,
+      "date": "2013-07-17T21:50:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 21272344,
+      "date": "2013-07-19T19:37:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 23029713,
+      "date": "2013-08-21T16:21:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 23720696,
+      "date": "2013-09-03T15:20:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25256798,
+      "date": "2013-09-27T16:08:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25256877,
+      "date": "2013-09-27T16:09:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25256981,
+      "date": "2013-09-27T16:11:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25257082,
+      "date": "2013-09-27T16:12:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25257535,
+      "date": "2013-09-27T16:19:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258364,
+      "date": "2013-09-27T16:31:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258514,
+      "date": "2013-09-27T16:33:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258549,
+      "date": "2013-09-27T16:34:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258608,
+      "date": "2013-09-27T16:35:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258652,
+      "date": "2013-09-27T16:35:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258741,
+      "date": "2013-09-27T16:37:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258878,
+      "date": "2013-09-27T16:39:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25258953,
+      "date": "2013-09-27T16:40:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25259032,
+      "date": "2013-09-27T16:41:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25259141,
+      "date": "2013-09-27T16:43:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25259266,
+      "date": "2013-09-27T16:45:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25259436,
+      "date": "2013-09-27T16:47:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260071,
+      "date": "2013-09-27T16:56:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260110,
+      "date": "2013-09-27T16:56:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260173,
+      "date": "2013-09-27T16:57:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260218,
+      "date": "2013-09-27T16:58:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260291,
+      "date": "2013-09-27T16:59:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260564,
+      "date": "2013-09-27T17:04:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260654,
+      "date": "2013-09-27T17:05:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25260711,
+      "date": "2013-09-27T17:06:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25261952,
+      "date": "2013-09-27T17:23:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25299083,
+      "date": "2013-09-28T14:32:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25301200,
+      "date": "2013-09-28T16:26:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25309572,
+      "date": "2013-09-28T22:03:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25325888,
+      "date": "2013-09-29T18:33:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25814562,
+      "date": "2013-10-07T14:48:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 25832764,
+      "date": "2013-10-07T18:28:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26103915,
+      "date": "2013-10-11T00:32:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26180986,
+      "date": "2013-10-11T22:59:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26290013,
+      "date": "2013-10-14T21:23:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26290448,
+      "date": "2013-10-14T21:29:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26291353,
+      "date": "2013-10-14T21:43:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26295769,
+      "date": "2013-10-14T22:55:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26447556,
+      "date": "2013-10-16T19:03:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26746097,
+      "date": "2013-10-21T19:03:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26755343,
+      "date": "2013-10-21T20:54:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26757183,
+      "date": "2013-10-21T21:14:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26936605,
+      "date": "2013-10-23T19:11:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 26962030,
+      "date": "2013-10-24T02:17:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27016784,
+      "date": "2013-10-24T18:19:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27336940,
+      "date": "2013-10-29T19:48:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27397641,
+      "date": "2013-10-30T15:12:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27402893,
+      "date": "2013-10-30T15:55:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27597000,
+      "date": "2013-11-01T20:08:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27597711,
+      "date": "2013-11-01T20:19:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27597824,
+      "date": "2013-11-01T20:21:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27599587,
+      "date": "2013-11-01T20:47:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27599762,
+      "date": "2013-11-01T20:49:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27600158,
+      "date": "2013-11-01T20:55:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27600208,
+      "date": "2013-11-01T20:56:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27600306,
+      "date": "2013-11-01T20:57:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27600530,
+      "date": "2013-11-01T20:59:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27600940,
+      "date": "2013-11-01T21:04:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601044,
+      "date": "2013-11-01T21:06:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601189,
+      "date": "2013-11-01T21:08:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601297,
+      "date": "2013-11-01T21:09:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601349,
+      "date": "2013-11-01T21:10:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601470,
+      "date": "2013-11-01T21:12:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601543,
+      "date": "2013-11-01T21:13:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601567,
+      "date": "2013-11-01T21:13:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601702,
+      "date": "2013-11-01T21:15:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601747,
+      "date": "2013-11-01T21:15:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601765,
+      "date": "2013-11-01T21:16:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27601843,
+      "date": "2013-11-01T21:17:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27602091,
+      "date": "2013-11-01T21:21:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27602255,
+      "date": "2013-11-01T21:23:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27602307,
+      "date": "2013-11-01T21:24:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27602538,
+      "date": "2013-11-01T21:27:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27602869,
+      "date": "2013-11-01T21:32:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27831429,
+      "date": "2013-11-06T01:23:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27832448,
+      "date": "2013-11-06T01:37:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27835935,
+      "date": "2013-11-06T02:28:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27836162,
+      "date": "2013-11-06T02:32:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27837936,
+      "date": "2013-11-06T02:59:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27893202,
+      "date": "2013-11-06T17:16:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 27895269,
+      "date": "2013-11-06T17:39:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 28097407,
+      "date": "2013-11-08T20:57:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 28113751,
+      "date": "2013-11-09T02:58:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 28134807,
+      "date": "2013-11-09T19:28:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 28134909,
+      "date": "2013-11-09T19:32:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 28135837,
+      "date": "2013-11-09T20:14:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 28722075,
+      "date": "2013-11-18T18:04:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 29576867,
+      "date": "2013-12-01T16:31:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 29827159,
+      "date": "2013-12-04T17:41:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 30343257,
+      "date": "2013-12-11T17:45:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 30518552,
+      "date": "2013-12-13T15:43:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 30520499,
+      "date": "2013-12-13T16:07:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 30530434,
+      "date": "2013-12-13T18:10:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 30537846,
+      "date": "2013-12-13T19:46:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 30942855,
+      "date": "2013-12-19T16:28:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32098201,
+      "date": "2014-01-11T15:03:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32122941,
+      "date": "2014-01-12T13:53:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32142083,
+      "date": "2014-01-13T02:29:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32491224,
+      "date": "2014-01-16T17:30:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32627727,
+      "date": "2014-01-17T17:43:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32657692,
+      "date": "2014-01-17T22:33:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32657881,
+      "date": "2014-01-17T22:34:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32658401,
+      "date": "2014-01-17T22:37:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32658874,
+      "date": "2014-01-17T22:43:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32659386,
+      "date": "2014-01-17T22:47:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32660295,
+      "date": "2014-01-17T22:51:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32660509,
+      "date": "2014-01-17T22:54:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32660710,
+      "date": "2014-01-17T22:57:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32660943,
+      "date": "2014-01-17T23:00:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661105,
+      "date": "2014-01-17T23:03:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661309,
+      "date": "2014-01-17T23:06:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661398,
+      "date": "2014-01-17T23:07:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661472,
+      "date": "2014-01-17T23:09:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661526,
+      "date": "2014-01-17T23:10:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661641,
+      "date": "2014-01-17T23:12:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661704,
+      "date": "2014-01-17T23:13:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661774,
+      "date": "2014-01-17T23:14:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661835,
+      "date": "2014-01-17T23:15:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32661892,
+      "date": "2014-01-17T23:16:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32662128,
+      "date": "2014-01-17T23:20:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32671416,
+      "date": "2014-01-18T01:48:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32671425,
+      "date": "2014-01-18T01:48:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32692624,
+      "date": "2014-01-18T20:48:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694330,
+      "date": "2014-01-18T21:56:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694359,
+      "date": "2014-01-18T21:57:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694387,
+      "date": "2014-01-18T21:58:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694412,
+      "date": "2014-01-18T21:59:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694481,
+      "date": "2014-01-18T22:01:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694527,
+      "date": "2014-01-18T22:03:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694609,
+      "date": "2014-01-18T22:07:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694661,
+      "date": "2014-01-18T22:09:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694708,
+      "date": "2014-01-18T22:11:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32694726,
+      "date": "2014-01-18T22:11:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32699536,
+      "date": "2014-01-19T02:41:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32715116,
+      "date": "2014-01-19T18:13:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32728773,
+      "date": "2014-01-20T01:23:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32728917,
+      "date": "2014-01-20T01:30:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32728955,
+      "date": "2014-01-20T01:31:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32802104,
+      "date": "2014-01-20T22:12:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32808190,
+      "date": "2014-01-20T23:41:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32901874,
+      "date": "2014-01-21T16:29:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32902229,
+      "date": "2014-01-21T16:32:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32904253,
+      "date": "2014-01-21T16:52:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32904589,
+      "date": "2014-01-21T16:55:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32909134,
+      "date": "2014-01-21T17:39:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32913120,
+      "date": "2014-01-21T18:20:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32914010,
+      "date": "2014-01-21T18:29:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32914064,
+      "date": "2014-01-21T18:30:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 32977507,
+      "date": "2014-01-21T23:43:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33134984,
+      "date": "2014-01-23T15:44:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33139694,
+      "date": "2014-01-23T16:23:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33147178,
+      "date": "2014-01-23T17:31:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33193444,
+      "date": "2014-01-24T02:55:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33232620,
+      "date": "2014-01-24T15:37:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33232707,
+      "date": "2014-01-24T15:38:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33326175,
+      "date": "2014-01-26T18:49:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33409411,
+      "date": "2014-01-27T19:11:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33428507,
+      "date": "2014-01-27T22:04:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33493927,
+      "date": "2014-01-28T16:17:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33634752,
+      "date": "2014-01-29T21:46:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33634862,
+      "date": "2014-01-29T21:47:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33637025,
+      "date": "2014-01-29T22:09:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33637069,
+      "date": "2014-01-29T22:09:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33655520,
+      "date": "2014-01-30T02:41:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33717436,
+      "date": "2014-01-30T18:29:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33725957,
+      "date": "2014-01-30T19:52:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33729890,
+      "date": "2014-01-30T20:31:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 33730632,
+      "date": "2014-01-30T20:38:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34024232,
+      "date": "2014-02-04T02:13:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34029566,
+      "date": "2014-02-04T04:23:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34090901,
+      "date": "2014-02-04T18:29:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34136861,
+      "date": "2014-02-05T04:31:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34136891,
+      "date": "2014-02-05T04:32:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34346497,
+      "date": "2014-02-06T17:15:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34584671,
+      "date": "2014-02-09T20:11:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34652537,
+      "date": "2014-02-10T16:42:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34652648,
+      "date": "2014-02-10T16:43:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34652803,
+      "date": "2014-02-10T16:45:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34672608,
+      "date": "2014-02-10T19:35:30Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34692237,
+      "date": "2014-02-10T22:31:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34693039,
+      "date": "2014-02-10T22:34:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34694827,
+      "date": "2014-02-10T22:42:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34698401,
+      "date": "2014-02-10T22:58:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34771770,
+      "date": "2014-02-11T16:28:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34841762,
+      "date": "2014-02-12T06:03:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34899454,
+      "date": "2014-02-12T18:29:24Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 34912504,
+      "date": "2014-02-12T20:17:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35034228,
+      "date": "2014-02-13T22:29:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35044713,
+      "date": "2014-02-14T00:46:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35095509,
+      "date": "2014-02-14T15:52:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35166770,
+      "date": "2014-02-15T20:26:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35407438,
+      "date": "2014-02-18T17:09:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35411540,
+      "date": "2014-02-18T17:44:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35413954,
+      "date": "2014-02-18T18:05:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35414911,
+      "date": "2014-02-18T18:14:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35415217,
+      "date": "2014-02-18T18:17:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35416352,
+      "date": "2014-02-18T18:27:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35559298,
+      "date": "2014-02-19T22:43:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35813821,
+      "date": "2014-02-22T20:34:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 35823137,
+      "date": "2014-02-23T03:49:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 36163766,
+      "date": "2014-02-26T19:08:16Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 36400930,
+      "date": "2014-02-28T22:25:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 36477180,
+      "date": "2014-03-03T02:30:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 36596214,
+      "date": "2014-03-04T06:37:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 36904170,
+      "date": "2014-03-06T16:13:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 36905568,
+      "date": "2014-03-06T16:25:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 36960931,
+      "date": "2014-03-07T02:04:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 37066056,
+      "date": "2014-03-07T20:48:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 37452351,
+      "date": "2014-03-12T19:22:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 37453510,
+      "date": "2014-03-12T19:32:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 37454301,
+      "date": "2014-03-12T19:39:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 37828615,
+      "date": "2014-03-17T15:27:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 37832783,
+      "date": "2014-03-17T15:57:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 37871338,
+      "date": "2014-03-17T21:16:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38195983,
+      "date": "2014-03-20T17:25:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38299109,
+      "date": "2014-03-21T17:10:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38357906,
+      "date": "2014-03-22T17:21:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38389564,
+      "date": "2014-03-23T17:39:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38399392,
+      "date": "2014-03-23T22:14:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38493477,
+      "date": "2014-03-24T20:02:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38508609,
+      "date": "2014-03-24T22:19:35Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38508644,
+      "date": "2014-03-24T22:19:58Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38704269,
+      "date": "2014-03-26T16:16:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38704696,
+      "date": "2014-03-26T16:19:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38704756,
+      "date": "2014-03-26T16:19:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38769454,
+      "date": "2014-03-27T05:04:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38869897,
+      "date": "2014-03-27T22:38:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 38934961,
+      "date": "2014-03-28T15:55:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39125317,
+      "date": "2014-03-31T18:42:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39131050,
+      "date": "2014-03-31T19:33:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39472402,
+      "date": "2014-04-03T16:24:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39585661,
+      "date": "2014-04-04T16:43:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39585841,
+      "date": "2014-04-04T16:45:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39586345,
+      "date": "2014-04-04T16:50:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39586411,
+      "date": "2014-04-04T16:51:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39586550,
+      "date": "2014-04-04T16:52:59Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39675429,
+      "date": "2014-04-06T18:10:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 39769304,
+      "date": "2014-04-07T18:57:55Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 40529486,
+      "date": "2014-04-15T20:22:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 40997370,
+      "date": "2014-04-22T02:14:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41057739,
+      "date": "2014-04-22T15:54:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41057853,
+      "date": "2014-04-22T15:55:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41074486,
+      "date": "2014-04-22T18:13:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41198914,
+      "date": "2014-04-23T18:43:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41204841,
+      "date": "2014-04-23T19:37:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41205606,
+      "date": "2014-04-23T19:44:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41206185,
+      "date": "2014-04-23T19:49:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41221019,
+      "date": "2014-04-23T22:07:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41223684,
+      "date": "2014-04-23T22:42:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41223817,
+      "date": "2014-04-23T22:43:44Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41224281,
+      "date": "2014-04-23T22:49:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41225215,
+      "date": "2014-04-23T23:01:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41226779,
+      "date": "2014-04-23T23:23:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41331350,
+      "date": "2014-04-24T20:59:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41344682,
+      "date": "2014-04-24T23:26:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41697052,
+      "date": "2014-04-29T16:14:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41910472,
+      "date": "2014-05-01T13:40:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41910568,
+      "date": "2014-05-01T13:41:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 41910684,
+      "date": "2014-05-01T13:43:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42086573,
+      "date": "2014-05-02T22:46:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42094676,
+      "date": "2014-05-03T03:08:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42110066,
+      "date": "2014-05-03T16:55:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42115018,
+      "date": "2014-05-03T20:05:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42115296,
+      "date": "2014-05-03T20:17:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42228685,
+      "date": "2014-05-05T19:35:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42354815,
+      "date": "2014-05-06T20:31:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42355011,
+      "date": "2014-05-06T20:33:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42356478,
+      "date": "2014-05-06T20:45:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42454835,
+      "date": "2014-05-07T17:09:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42491277,
+      "date": "2014-05-07T22:25:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42561813,
+      "date": "2014-05-08T15:11:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42561886,
+      "date": "2014-05-08T15:11:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42572662,
+      "date": "2014-05-08T16:36:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42784827,
+      "date": "2014-05-11T22:05:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 42785589,
+      "date": "2014-05-11T22:33:38Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 43124876,
+      "date": "2014-05-14T19:17:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 43135430,
+      "date": "2014-05-14T20:48:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 43137655,
+      "date": "2014-05-14T21:06:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 43214887,
+      "date": "2014-05-15T14:17:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 43236113,
+      "date": "2014-05-15T16:56:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 43303949,
+      "date": "2014-05-16T07:20:22Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44099404,
+      "date": "2014-05-24T20:47:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44134402,
+      "date": "2014-05-25T14:26:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44280166,
+      "date": "2014-05-27T14:03:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44426916,
+      "date": "2014-05-28T15:56:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44448994,
+      "date": "2014-05-28T18:50:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44659178,
+      "date": "2014-05-30T14:48:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44659199,
+      "date": "2014-05-30T14:48:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44688047,
+      "date": "2014-05-30T19:07:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44699863,
+      "date": "2014-05-30T21:08:41Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 44752375,
+      "date": "2014-05-31T16:19:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45004208,
+      "date": "2014-06-03T18:43:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45157161,
+      "date": "2014-06-04T21:56:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45161697,
+      "date": "2014-06-04T22:44:08Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45412446,
+      "date": "2014-06-07T15:11:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45418133,
+      "date": "2014-06-07T18:52:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 45667673,
+      "date": "2014-06-10T20:33:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 46033060,
+      "date": "2014-06-13T16:41:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 46058907,
+      "date": "2014-06-13T20:57:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 46066892,
+      "date": "2014-06-13T22:29:49Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 46179495,
+      "date": "2014-06-16T13:44:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 46383421,
+      "date": "2014-06-18T00:36:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 46388446,
+      "date": "2014-06-18T02:00:39Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 47247300,
+      "date": "2014-06-26T16:24:12Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 47305885,
+      "date": "2014-06-27T04:02:34Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 48231792,
+      "date": "2014-07-07T19:52:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 49778665,
+      "date": "2014-07-22T18:15:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 49925992,
+      "date": "2014-07-23T19:53:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 49926340,
+      "date": "2014-07-23T19:56:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 49927779,
+      "date": "2014-07-23T20:08:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50485376,
+      "date": "2014-07-29T14:43:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50485866,
+      "date": "2014-07-29T14:46:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50525560,
+      "date": "2014-07-29T19:26:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50527647,
+      "date": "2014-07-29T19:43:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50542000,
+      "date": "2014-07-29T21:32:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50550124,
+      "date": "2014-07-29T22:47:56Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50761874,
+      "date": "2014-07-31T13:59:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50797423,
+      "date": "2014-07-31T18:16:03Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 50909401,
+      "date": "2014-08-01T17:05:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51222460,
+      "date": "2014-08-05T16:26:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51344665,
+      "date": "2014-08-06T14:47:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51820349,
+      "date": "2014-08-11T18:28:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51823930,
+      "date": "2014-08-11T18:54:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51825828,
+      "date": "2014-08-11T19:08:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51834807,
+      "date": "2014-08-11T20:19:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51838521,
+      "date": "2014-08-11T20:48:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 51843150,
+      "date": "2014-08-11T21:25:29Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52051212,
+      "date": "2014-08-13T13:58:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52076884,
+      "date": "2014-08-13T16:54:54Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52077566,
+      "date": "2014-08-13T16:59:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52298430,
+      "date": "2014-08-15T11:54:50Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52355006,
+      "date": "2014-08-15T20:39:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52355405,
+      "date": "2014-08-15T20:43:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52359027,
+      "date": "2014-08-15T21:19:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52359419,
+      "date": "2014-08-15T21:23:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 52520724,
+      "date": "2014-08-18T16:52:26Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 53361968,
+      "date": "2014-08-26T01:23:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 55612569,
+      "date": "2014-09-15T16:01:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 59382892,
+      "date": "2014-10-16T15:44:17Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 59563902,
+      "date": "2014-10-17T19:35:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 60855909,
+      "date": "2014-10-29T00:31:18Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61281835,
+      "date": "2014-10-31T15:56:05Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61493095,
+      "date": "2014-11-03T15:22:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61496296,
+      "date": "2014-11-03T15:41:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61506617,
+      "date": "2014-11-03T16:41:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61512316,
+      "date": "2014-11-03T17:14:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61575889,
+      "date": "2014-11-04T00:42:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61579695,
+      "date": "2014-11-04T01:27:21Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61647601,
+      "date": "2014-11-04T14:34:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 61660867,
+      "date": "2014-11-04T15:52:36Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 62003499,
+      "date": "2014-11-06T16:14:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63083776,
+      "date": "2014-11-14T15:51:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63248580,
+      "date": "2014-11-17T00:56:10Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63516227,
+      "date": "2014-11-18T18:06:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63517528,
+      "date": "2014-11-18T18:14:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63522275,
+      "date": "2014-11-18T18:43:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63525664,
+      "date": "2014-11-18T19:04:04Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 63526969,
+      "date": "2014-11-18T19:12:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 64014395,
+      "date": "2014-11-21T18:24:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 64648081,
+      "date": "2014-11-26T14:10:27Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 64916302,
+      "date": "2014-11-28T17:36:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 65110521,
+      "date": "2014-12-01T18:26:09Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 65141238,
+      "date": "2014-12-01T21:51:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 65254903,
+      "date": "2014-12-02T16:07:51Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 65255377,
+      "date": "2014-12-02T16:10:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 65717639,
+      "date": "2014-12-04T22:46:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 67501325,
+      "date": "2014-12-18T15:26:47Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 67743723,
+      "date": "2014-12-20T17:49:42Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 67862794,
+      "date": "2014-12-22T17:12:32Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 67896432,
+      "date": "2014-12-22T22:08:37Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 68325330,
+      "date": "2014-12-30T02:43:06Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 69037764,
+      "date": "2015-01-07T15:31:20Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 70139364,
+      "date": "2015-01-15T18:51:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 70142394,
+      "date": "2015-01-15T19:08:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 70306026,
+      "date": "2015-01-16T19:15:43Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 70851724,
+      "date": "2015-01-21T14:59:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 71885575,
+      "date": "2015-01-28T18:15:15Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 71906387,
+      "date": "2015-01-28T20:09:57Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 86942918,
+      "date": "2015-03-27T13:40:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 13203266,
+      "date": "2013-02-06T20:27:31Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 13456854,
+      "date": "2013-02-12T20:47:07Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 13457336,
+      "date": "2013-02-12T20:53:45Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 381,
+      "date": "2014-03-11T18:40:53Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 247,
+      "date": "2013-11-08T05:52:19Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 246,
+      "date": "2013-11-08T05:11:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 238,
+      "date": "2013-11-05T04:53:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 222,
+      "date": "2013-10-23T01:56:11Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 206,
+      "date": "2013-09-27T16:07:02Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 145,
+      "date": "2013-06-08T03:45:28Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 116,
+      "date": "2013-05-15T18:59:25Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 111,
+      "date": "2013-05-10T20:04:13Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 422,
+      "date": "2014-05-01T13:44:01Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 389,
+      "date": "2014-03-17T23:44:00Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 380,
+      "date": "2014-03-07T18:29:14Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 329,
+      "date": "2014-01-17T22:32:48Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 289,
+      "date": "2013-12-12T19:40:46Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 239,
+      "date": "2013-11-05T18:33:33Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 207,
+      "date": "2013-09-27T16:28:40Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 150,
+      "date": "2013-06-14T22:22:23Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 138,
+      "date": "2013-06-04T00:29:52Z"
+    },
+    {
+      "dev_id": "sethvargo",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 110,
+      "date": "2013-05-10T19:51:19Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "9b906c6292d9c183ffb5d631f7355c030790f058",
+      "date": "2015-11-13T21:21:07Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "5e4fa6baff5d51dc983be3f7b67ffe1bcbf2a8d2",
+      "date": "2015-09-18T15:38:10Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "cee961fb0e8e490fbd8efc7f94abc9b3085449bb",
+      "date": "2015-09-17T17:49:01Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "5c7a4c7d6b7d1e3a894d94e42fb176490b8f4954",
+      "date": "2015-08-14T15:03:38Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "12cfe4ebd3941ee5b00b8f4b0244d4752357d0ce",
+      "date": "2015-08-11T14:26:01Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "e95bc2adda93945825e14a6c90831a491ea45f4d",
+      "date": "2015-08-03T21:02:29Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "ac0d6cb454671e7b523258dbd2816cb364259966",
+      "date": "2015-08-03T21:01:35Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "171812f9c67561fe5cb21c52fb7a1156cba3bd82",
+      "date": "2015-08-03T20:21:57Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "621cd45784c3aed0e893d390c2758125b250151a",
+      "date": "2015-08-03T20:12:13Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "a46dd40f9d0db9e82dcf47282d82e92cd5625088",
+      "date": "2015-08-03T20:03:05Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "5b540624dfb40dd0d5183834214d8d31d8c02d01",
+      "date": "2015-08-03T19:56:20Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "25cb733c40f19f33b1d9504cc27355472a297641",
+      "date": "2015-08-03T19:30:11Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "9ac7ac085d6398b496abefe9fa9946b23673b00f",
+      "date": "2015-08-03T18:22:15Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "fe70cb5a21a2223dec168d8e893a18accc9619e6",
+      "date": "2015-07-31T17:48:57Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "aa3127a69ffad5bd612d0f40705d11d6806b98c7",
+      "date": "2015-04-20T17:49:25Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "e7e9175f90a1748020c690543112f5ddb13343b9",
+      "date": "2015-04-15T20:45:24Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "4765b0560213bacc8a0b218171786962d8209246",
+      "date": "2015-07-27T15:44:57Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "72632ed74fcf945a8cbaf8e817496f118a8056e8",
+      "date": "2015-06-18T21:23:20Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "946133a3ca0029f3154585db3e257dd0a1936139",
+      "date": "2015-06-18T19:54:29Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "7ad85b75a7e83bcaa47c23ac641df952b770a34c",
+      "date": "2015-06-18T17:26:46Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "07cda74cc0fb8765f29338a2fb31f9b5adac7126",
+      "date": "2015-06-09T17:01:29Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "b73b8fbccaf84242efb3c05502e36557c963c83a",
+      "date": "2015-06-04T22:10:17Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "fdc66ca79f0ac45638aefaabd8ecbd04f9f126fe",
+      "date": "2015-03-23T18:59:46Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "8f909907454bd62c21d52f0bd87b1b3caf99d993",
+      "date": "2015-03-11T23:07:42Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "cf8a3585633388f01b08ac545f39e5313f287554",
+      "date": "2015-03-10T23:50:14Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "commit",
+      "id": "21ade18e6e4070407e53cad6f6457b064114f002",
+      "date": "2015-02-06T00:45:50Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 69959357,
+      "date": "2015-01-14T17:52:01Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 70014066,
+      "date": "2015-01-14T23:31:05Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 71869356,
+      "date": "2015-01-28T16:47:28Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 71907576,
+      "date": "2015-01-28T20:16:47Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 71912716,
+      "date": "2015-01-28T20:48:19Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 72094292,
+      "date": "2015-01-29T20:04:59Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 72097896,
+      "date": "2015-01-29T20:27:42Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 72493046,
+      "date": "2015-02-02T16:58:34Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 73329807,
+      "date": "2015-02-06T23:05:16Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 73378984,
+      "date": "2015-02-07T19:29:47Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 73971898,
+      "date": "2015-02-11T21:48:18Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 74329448,
+      "date": "2015-02-13T21:24:37Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 74334423,
+      "date": "2015-02-13T21:58:55Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 74965808,
+      "date": "2015-02-18T22:51:12Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 74967472,
+      "date": "2015-02-18T23:02:23Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 77267001,
+      "date": "2015-03-04T22:44:57Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 77268713,
+      "date": "2015-03-04T22:55:23Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 78392555,
+      "date": "2015-03-11T23:08:18Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 79363191,
+      "date": "2015-03-13T20:38:24Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83182116,
+      "date": "2015-03-18T21:16:51Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83183354,
+      "date": "2015-03-18T21:19:22Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83185250,
+      "date": "2015-03-18T21:24:04Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83186382,
+      "date": "2015-03-18T21:28:35Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83189901,
+      "date": "2015-03-18T21:33:51Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83195961,
+      "date": "2015-03-18T21:44:43Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83197093,
+      "date": "2015-03-18T21:49:18Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83687206,
+      "date": "2015-03-19T17:32:00Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83778734,
+      "date": "2015-03-19T22:09:25Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83779883,
+      "date": "2015-03-19T22:12:17Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83803784,
+      "date": "2015-03-19T23:30:47Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 83817294,
+      "date": "2015-03-20T00:15:10Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 85020008,
+      "date": "2015-03-23T14:21:36Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 85146002,
+      "date": "2015-03-23T18:59:45Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 85153332,
+      "date": "2015-03-23T19:11:07Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 85160038,
+      "date": "2015-03-23T19:33:11Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 85163091,
+      "date": "2015-03-23T19:40:29Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 92944086,
+      "date": "2015-04-14T16:16:26Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 92952740,
+      "date": "2015-04-14T16:24:50Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 92969163,
+      "date": "2015-04-14T16:41:50Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 92977923,
+      "date": "2015-04-14T16:54:55Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 92978784,
+      "date": "2015-04-14T16:56:31Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 97592755,
+      "date": "2015-04-29T21:34:45Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99590238,
+      "date": "2015-05-06T20:09:52Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99602004,
+      "date": "2015-05-06T20:37:08Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99604096,
+      "date": "2015-05-06T20:44:53Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99607162,
+      "date": "2015-05-06T20:56:01Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99608974,
+      "date": "2015-05-06T21:01:17Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99610328,
+      "date": "2015-05-06T21:08:51Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99992149,
+      "date": "2015-05-07T19:38:58Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 99992319,
+      "date": "2015-05-07T19:39:21Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 101052187,
+      "date": "2015-05-11T21:26:48Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 101055771,
+      "date": "2015-05-11T21:38:13Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 101058867,
+      "date": "2015-05-11T21:49:00Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 101059364,
+      "date": "2015-05-11T21:51:50Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 101061188,
+      "date": "2015-05-11T22:02:27Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 103164457,
+      "date": "2015-05-18T18:35:29Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 104050769,
+      "date": "2015-05-20T21:58:08Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 104053911,
+      "date": "2015-05-20T22:02:18Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 106928814,
+      "date": "2015-05-29T20:36:42Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 106928842,
+      "date": "2015-05-29T20:36:54Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108035018,
+      "date": "2015-06-02T18:03:12Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108130989,
+      "date": "2015-06-02T23:32:49Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108566908,
+      "date": "2015-06-03T18:35:06Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108599830,
+      "date": "2015-06-03T20:09:10Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108603331,
+      "date": "2015-06-03T20:20:23Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108605703,
+      "date": "2015-06-03T20:27:01Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108611075,
+      "date": "2015-06-03T20:46:02Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108614705,
+      "date": "2015-06-03T20:58:27Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108615072,
+      "date": "2015-06-03T21:00:20Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108616968,
+      "date": "2015-06-03T21:09:43Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 108658214,
+      "date": "2015-06-04T00:38:21Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 110135040,
+      "date": "2015-06-08T20:53:39Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 110135853,
+      "date": "2015-06-08T20:55:22Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 110137019,
+      "date": "2015-06-08T20:58:03Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 110434104,
+      "date": "2015-06-09T17:01:27Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 113206733,
+      "date": "2015-06-18T16:18:38Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 113224240,
+      "date": "2015-06-18T17:13:08Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 113231034,
+      "date": "2015-06-18T17:37:18Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 114207027,
+      "date": "2015-06-22T18:21:15Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 114314276,
+      "date": "2015-06-23T00:52:01Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 115004110,
+      "date": "2015-06-24T20:38:18Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 115010061,
+      "date": "2015-06-24T20:56:45Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 115011252,
+      "date": "2015-06-24T21:01:47Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 115049676,
+      "date": "2015-06-25T00:01:21Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 117315987,
+      "date": "2015-06-30T19:39:22Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 117341110,
+      "date": "2015-06-30T21:02:50Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 117341491,
+      "date": "2015-06-30T21:04:49Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 124685721,
+      "date": "2015-07-24T19:53:42Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 126430167,
+      "date": "2015-07-30T18:43:58Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 126443858,
+      "date": "2015-07-30T19:18:20Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 126444547,
+      "date": "2015-07-30T19:21:53Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 126768427,
+      "date": "2015-07-31T17:45:21Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 126769522,
+      "date": "2015-07-31T17:47:48Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 126787075,
+      "date": "2015-07-31T19:07:16Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 127352278,
+      "date": "2015-08-03T18:00:36Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 127361911,
+      "date": "2015-08-03T18:24:54Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 127372673,
+      "date": "2015-08-03T19:06:20Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 127385415,
+      "date": "2015-08-03T19:48:54Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 127389085,
+      "date": "2015-08-03T19:59:20Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 127394556,
+      "date": "2015-08-03T20:15:07Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 129559494,
+      "date": "2015-08-10T18:36:52Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 129562381,
+      "date": "2015-08-10T18:46:44Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 129871889,
+      "date": "2015-08-11T13:25:44Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 129903396,
+      "date": "2015-08-11T14:25:55Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 130099186,
+      "date": "2015-08-11T22:36:17Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 130294729,
+      "date": "2015-08-12T13:05:41Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 131139465,
+      "date": "2015-08-14T15:03:48Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 132787035,
+      "date": "2015-08-19T21:14:41Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 133478481,
+      "date": "2015-08-21T16:13:11Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 140429099,
+      "date": "2015-09-15T15:25:44Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 140447886,
+      "date": "2015-09-15T16:15:01Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 141168533,
+      "date": "2015-09-17T18:04:27Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 141506978,
+      "date": "2015-09-18T16:57:19Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 149634564,
+      "date": "2015-10-20T17:04:53Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "com",
+      "id": 151542343,
+      "date": "2015-10-27T15:32:28Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "net-ssh/net-ssh",
+      "type": "com",
+      "id": 127398660,
+      "date": "2015-08-03T20:29:38Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 805,
+      "date": "2015-08-03T20:24:32Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 790,
+      "date": "2015-07-24T21:13:49Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 748,
+      "date": "2015-06-18T17:28:22Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 736,
+      "date": "2015-06-04T22:17:44Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 689,
+      "date": "2015-04-15T20:45:49Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 633,
+      "date": "2015-03-10T23:51:52Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 612,
+      "date": "2015-02-12T01:22:34Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 600,
+      "date": "2015-02-06T00:50:55Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "pr",
+      "id": 590,
+      "date": "2015-01-29T19:35:09Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 806,
+      "date": "2015-08-03T20:27:26Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 798,
+      "date": "2015-07-31T17:48:51Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 764,
+      "date": "2015-07-02T19:48:45Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 757,
+      "date": "2015-06-25T17:26:35Z"
+    },
+    {
+      "dev_id": "tyler-ball",
+      "repo": "test-kitchen/test-kitchen",
+      "type": "issue",
+      "id": 732,
+      "date": "2015-06-03T20:30:40Z"
+    }
+  ]
+}

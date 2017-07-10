@@ -1,0 +1,4984 @@
+{
+  "user_repo": "stripe/stripe-ruby",
+  "dep_repo": "rest-client/rest-client",
+  "dep_date": "2011-05-26 18:47:01 UTC",
+  "dep_commit_id": "0813418b743e3cae6bae1265d2b90bc8b6f9a2b4",
+  "social_date": "2012-04-13 06:55:55 UTC",
+  "devs": [
+    "ab",
+    "ebroder",
+    "boucher"
+  ],
+  "interactions": [
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "97b3f397fc7b77900882b1db1487e1f9d95ca8e8",
+      "date": "2015-04-24T00:35:41Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "960fd2b422506c4db02dd3a97fd9061ed271aca2",
+      "date": "2015-04-14T01:17:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "d046a876f9303f5bbb41e13a0cbc7a367e3b13a1",
+      "date": "2014-11-03T02:54:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "cee76d05cab54e743a6f6dceef4aab2249295c5b",
+      "date": "2015-04-09T23:49:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "9cf5089dc15534b7ed581e0ce4d84fa82f592efb",
+      "date": "2014-07-15T20:42:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "39a196541f857ac6266b7a06f589ead21c87a8aa",
+      "date": "2014-07-15T20:05:10Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "f6c6485ee915f28cc044c6c4bf8dffeab1e098b1",
+      "date": "2015-11-12T11:41:47Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "715e85abffb6a09df5eba0159c3058b5eb03b8a5",
+      "date": "2015-11-12T11:01:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3a62c3ad488fd3e3adf70eb480e00db25fd6d9fe",
+      "date": "2015-11-12T01:30:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "10d3599745a134fa69eccc2f16f6e70133a3bb6c",
+      "date": "2015-11-12T01:29:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3e8f445570962b5118aef82c75ebce3df143a63b",
+      "date": "2015-11-12T01:20:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "33a3e77d1011ee1f67b94556313f35dac559ee99",
+      "date": "2015-11-12T01:05:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "92872e10b56e51ade54f14ff2a19b9b0310b1f0a",
+      "date": "2015-11-08T10:21:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "6990fc8a7f3c1e754aa74abfad01a54cdf053b88",
+      "date": "2015-11-08T09:14:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3d0fd0b18869ce3ad1994a0c6af4b3361e9ff9e4",
+      "date": "2015-11-08T08:55:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4a332f6b6452d4b899db0d3f0ee00bc1b2de938a",
+      "date": "2015-11-08T07:21:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "2b14af06a838382ed5266094ed26d8ec247e0456",
+      "date": "2015-11-08T01:03:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "57642c28ce5d872c53c24063346b6df0c23abd66",
+      "date": "2015-11-08T00:29:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ae240b4ffbd4f2484609fa1e32d378e49cf175c7",
+      "date": "2015-11-08T00:26:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "76f7593bb13ae20de43b78c5c1adfc5bda297d2d",
+      "date": "2015-11-07T23:55:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "991e0d84c06facf40dc7ccd37f3aeb44d5d9ae17",
+      "date": "2015-11-07T22:26:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "23725e351506ba274a535f3cd23d454088f0d57a",
+      "date": "2015-11-07T22:24:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "609bdb558e0334ece449f3efd730c9397119cfcc",
+      "date": "2015-11-07T20:40:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "c8d25a8b775b3324fbd6d1d9b268f6c050927e17",
+      "date": "2015-11-07T20:33:52Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0c5f773706ad15fb9625e00bd341aa3eda4ccc9b",
+      "date": "2015-09-27T20:00:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a9fe90b28160c4f61c4d2da7aa1f50b84ad6a567",
+      "date": "2015-09-27T19:59:10Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "248ac4359a4d54e3c490f12fa04564d3eb0c15ad",
+      "date": "2015-09-27T19:47:41Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4f1bc2109bce59d74ec43d2e2a37150d7c77010d",
+      "date": "2015-09-13T21:18:30Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "7928152945bd8d953df2061be6b4fcb8b73bf1d9",
+      "date": "2015-09-13T07:51:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "cd17c9f851b774df868b7d4ab27cc4831281a00c",
+      "date": "2015-09-13T07:23:18Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "2d00544b17135325c02cfe8b172fd9331e957ddc",
+      "date": "2015-08-12T07:25:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "630190c8f5ceed9bf7c83b462f5a71d9562873e6",
+      "date": "2015-09-13T06:52:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a5b0998fdcdd366bf35aff29dc1299faaabb790e",
+      "date": "2015-09-10T03:54:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3763caca56ba9931c75fbb590920d3416fa61ddc",
+      "date": "2015-09-09T17:41:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "883903f5e5ae6c894db4e1271b3236301d881ee1",
+      "date": "2015-06-10T08:36:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "218bf10656ed964d67c1c2e8a8188715e85d4274",
+      "date": "2015-06-10T08:33:05Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "40eddc184a7b3fe79f9b68f291e06df4c1fbcb0b",
+      "date": "2015-06-10T08:14:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b15eb29f3ac8be19ed3a08eefcf8bd7c53b4e51f",
+      "date": "2015-06-10T07:59:05Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0eebab244dc2694da2f57daa11fb11835193a404",
+      "date": "2015-06-10T07:24:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "51fe68130936fbcb5031ea707af8f7125cea236a",
+      "date": "2015-06-10T07:07:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "58c61be229d77744d2d3199620da1974e244292d",
+      "date": "2015-06-10T06:55:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "726772e41c3b4818aff220dd507cd24d7e8d6183",
+      "date": "2015-06-10T06:55:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a2dbe2c4747b25a40d3205e3413a3a10daf2ddd1",
+      "date": "2015-06-10T06:53:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "dd9769365c7d3c16587d61459d912311416ef35d",
+      "date": "2015-06-10T01:40:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0a9e09666987bbe4601cbf3621b3de047a94b3ba",
+      "date": "2015-05-28T01:37:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ae2efa4aa9c5ee0258f6993e821ec949bcd3d646",
+      "date": "2015-06-10T01:00:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "efac3c4e894f3170cd3bfb734a0ff0f275fef1ff",
+      "date": "2015-06-10T00:56:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "181bcd8157482c9c8c303d0f20fb628a1fc8db7f",
+      "date": "2015-05-19T02:12:43Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "9bbfd932f28dea1a3e4e216bba422f2ed7514be8",
+      "date": "2015-05-19T01:53:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b7052f67c98d929bd0a740689dbbeb9db959c0ea",
+      "date": "2015-05-19T01:30:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "19850ae4e49c4b894cf0cb9d79d442413469f3dc",
+      "date": "2015-05-18T16:21:51Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d20961c64ff74d0dbda666a46c78c009193417ba",
+      "date": "2015-04-29T17:32:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ae6f85030664699efdff9ff0d719da27e9020a0b",
+      "date": "2015-04-27T23:10:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e357ea8910c1708a5c8545842d6a0f31917b8b11",
+      "date": "2015-04-27T23:06:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5a3ff4ccf332285e0a672452a124af90728023a8",
+      "date": "2015-04-24T19:54:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ad1c5db3ac5647a0f09969a42583d23f907c99ab",
+      "date": "2015-04-16T01:20:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d2ceac62cf86c3b1418c598ad9148cc574054cab",
+      "date": "2015-04-16T01:17:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5457e396a0a5c4827630e56a47b3857eeb66fa3f",
+      "date": "2015-04-15T23:29:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "85180bb1e839985fffdab283914ffaaf4f4cbc4d",
+      "date": "2015-04-15T23:31:10Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d90102084021ad0bc780e2ef2179fc3b98f605fe",
+      "date": "2015-04-15T23:28:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4a92558bd2f2ac0a788d793205967ed91f3f1ae7",
+      "date": "2015-04-15T23:27:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1affca3412c90a2fc97f17bd1e735e2ab901b675",
+      "date": "2015-04-15T22:37:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ad9552ebc07bb6f9df042946c47733d2e29b3a6b",
+      "date": "2015-04-15T22:36:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5e30a00ded43b41b7a9180811ace902229028ffe",
+      "date": "2015-04-15T22:32:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e3e02f4301a1bbb494db1ca07b27f54d7d2922c8",
+      "date": "2015-04-15T22:16:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5e5fcd95808c288118a7b28d5e25a44ec709c62f",
+      "date": "2015-04-15T22:14:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "38afe2c895d2690e1175cff3883ae557ac22c82b",
+      "date": "2015-04-15T20:03:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b2ac75df98881135972cb6af686dd1b90154d187",
+      "date": "2015-04-15T19:01:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "adae03c9e78a3656968bc8d838f36c8269d611c9",
+      "date": "2015-04-15T00:11:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1c2cdd3a96de721da8d73faab336742ca9625650",
+      "date": "2015-04-15T00:05:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1fc7da092391b4a54164d12b425fcf4bf4ae406f",
+      "date": "2015-04-14T23:25:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b782131a31da46258bb8027e139d2d7c0481e87d",
+      "date": "2015-04-14T23:19:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "7bc3b15371d8f12a4ecbd1825f29d9fa17b1d633",
+      "date": "2015-04-14T23:14:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "137db928c07990341ba0868726a2a11f3ce6a7d8",
+      "date": "2015-04-14T23:08:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "86c291e141038f7c875621d21604fbcdb98501e3",
+      "date": "2015-04-14T22:44:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "f1a07a03d006c1ad5d067db884cb560c2e5db33f",
+      "date": "2015-04-14T22:43:42Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "bd0a5d40522a405e621bd7562f11e75db225b71b",
+      "date": "2015-04-14T20:10:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "eda6d053088f7659721a49600ce84e677527dda9",
+      "date": "2015-04-14T20:00:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "dfb1fbc83f58150b37ffbf6e4bb9f8ce5e016247",
+      "date": "2015-04-14T19:47:10Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "82f4827e9221c32623090b4b661d218a2e642537",
+      "date": "2015-04-14T19:45:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d310f567b6bf0acbc533cf222a0bbe738b024fb6",
+      "date": "2015-03-24T05:05:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a99be16710d06085a1ed55f788d67290e232e910",
+      "date": "2015-03-24T04:59:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "2e0649f40317aafc719802a8d1318cc6c56a5295",
+      "date": "2015-03-24T04:55:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4b47aad655c9b2dae8d0b3fec3df460c6dfb7eb0",
+      "date": "2015-03-16T18:42:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e02950850111acfc2b06680281e7c5fc5c559f7e",
+      "date": "2015-03-24T02:57:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "cf5e7179dbeb22122756a3506d3e8bdafe8c9fcb",
+      "date": "2015-03-23T01:10:06Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1ab555e3d4e49f9a39fe1760c90715d359166907",
+      "date": "2015-03-23T01:05:05Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "6c6b8f2fc0f1796ba4265ce90adc87eecbb83aec",
+      "date": "2015-03-23T00:54:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "c215b22bdbcb988dcc40117ff45432b0db25175b",
+      "date": "2015-03-22T02:08:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "12e92312b97fce97d9d7fb3577beff5ac0c05fba",
+      "date": "2015-03-17T02:39:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "37d92c0a64ad656bfde11745293b5de7dccafb9b",
+      "date": "2015-03-16T21:21:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "59af2eba463110b7b3c6bb0a76ca02e25927d383",
+      "date": "2015-03-15T01:47:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "c0b0159ab510c30fe748092b69237db7bbb59d49",
+      "date": "2015-03-15T00:01:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "23210393bbad317ccb2cf2aad13c3559db8c55e5",
+      "date": "2015-03-14T22:58:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1907f03c2274d183ae82d7ee67be134880d7f5ad",
+      "date": "2015-03-14T22:36:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "c3a4dc6f2d1b16857691f3b738932a7b9344a7de",
+      "date": "2015-03-14T22:25:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4932e7e35807f98ca131412e4b74a9013b3b2dde",
+      "date": "2015-03-14T22:18:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "8e89ccc5d5a4801d5424ab9ad511573d2ef94d55",
+      "date": "2015-03-14T20:20:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1e85af475f146ce2f6b5fad3ae233793c0c3ebc9",
+      "date": "2015-03-14T20:00:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5241c193ce512169d701ec45b100c55d8a699db2",
+      "date": "2015-03-14T19:49:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "15021e9773e1b9982a068a8ce51fa83a038b02f4",
+      "date": "2015-03-14T19:32:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "84dd16f380f2d04bda70cec8089c270a01c3619b",
+      "date": "2015-03-14T19:23:44Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e52e24a09525184608a4f09a817123c7ddd2e5ac",
+      "date": "2015-03-14T19:19:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "8b8731388f077347a28d169cf7c707132e5c20ff",
+      "date": "2015-03-14T01:48:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "562c6edebfaf94632b808894978bdd91800f59fc",
+      "date": "2015-03-14T01:07:05Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "f066bc271ec6222fae803e4aed404110ecc68c6d",
+      "date": "2015-03-14T01:01:52Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5ce0c6ebde6cdf9089ec48355624e039ce942d6b",
+      "date": "2015-03-14T01:00:51Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "6d7818f517cc341fcb0c8c1194d3d349b1b795de",
+      "date": "2015-03-13T23:11:33Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0ff056315cd0ff19e3eb21f74209999cf9d1581a",
+      "date": "2015-02-20T02:18:12Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "988d5a81ff3081c1c6a3ab267e81a9fff94bd9e4",
+      "date": "2015-02-20T02:16:43Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "778e1ea5c7a28350ad94a9742a46062c8eebd581",
+      "date": "2015-02-20T02:15:18Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "221e3f200f76bd1499591fbc6c3ea3f6183b66ef",
+      "date": "2015-02-20T02:14:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "10c3beb1ebb94211cfcbfa4e938d08c0f0894dc2",
+      "date": "2015-02-20T02:10:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0f1af51dd5cfb539ee3b4e9cbcf41a4f25544b4f",
+      "date": "2015-02-20T01:09:05Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b860da40d5cde7f1d5146771880b1178e4a80c54",
+      "date": "2015-01-29T03:48:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "29b56a33f331beb4239c165201993301bdeffe1e",
+      "date": "2015-01-28T10:45:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "2f75cd3d764bf298f10ac25d946ed957aaac833f",
+      "date": "2015-01-28T06:35:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "69105b8721db2778dcca3ea24fb0034bcf028a7a",
+      "date": "2015-01-28T05:59:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "05ba65c47aa02344bed9c995b411d7c8956af3c3",
+      "date": "2015-01-28T05:59:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "12450bdaa09646f9168ab140a310dad1e1ade3ce",
+      "date": "2014-12-05T23:01:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b732acec1e693b728483e0d23f05b409aa383566",
+      "date": "2014-12-05T22:36:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "08480eb86aef1e6185ccf12a530611cefe720f4b",
+      "date": "2014-12-05T01:02:57Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4cc904f230a259f8293f3777a49e796e3a97d607",
+      "date": "2014-12-04T22:42:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3d69b2b6a28b690e12470e88453659856e1ecb19",
+      "date": "2014-12-04T22:16:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d7c89e4d24596e0816ef1fdae25718d856ea19d1",
+      "date": "2014-12-04T22:15:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "440b8256e5daa04f9cb1824dad8a0f4f0f573953",
+      "date": "2014-11-28T05:25:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "18ee352a95b958dd0990da50d0f2cdce857f62c6",
+      "date": "2014-11-28T05:25:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "050febaa06955204fcb5867addd1f7093eba9d33",
+      "date": "2014-11-28T04:22:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "04f1e80a7fdcb319222f74b4a1a1610d41ed2ade",
+      "date": "2014-11-28T03:15:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5b5d1856264a3b3a8a9e5c0ac55c79b638ca568f",
+      "date": "2014-11-28T02:56:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "27cd0fc3c5396e28b93d71fdfa8116fe75a53964",
+      "date": "2014-11-26T02:21:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d305da5762f0aa94e79d2c57f756a0072cfb98d6",
+      "date": "2014-11-25T23:26:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "abc39d66f8dbc51cfef741428e2fcfcd5c195bb1",
+      "date": "2014-11-25T23:22:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0bc47d8679883b614f9b06b99431288d674e495f",
+      "date": "2014-11-25T23:19:57Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "9c3c296c1b4192ddc54495d64e0df856a23f546c",
+      "date": "2014-11-25T23:03:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "22de67bb6cfe31f4e49d3528d37df262895cb03d",
+      "date": "2014-11-25T22:52:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "39ef45627983fce488facd6d52a692d5e898db3c",
+      "date": "2014-11-03T01:45:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d554909ef94f79223a627d5b70195f897e14186d",
+      "date": "2014-11-03T02:24:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0a34d940b0938d68c361e4d01efd0acd521792c3",
+      "date": "2014-11-03T00:25:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "238105b17acbaeded78bb641d592d6cfcda27d73",
+      "date": "2014-11-02T23:57:10Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "26b5ff3ba235ce05eacd1057fc1d319d7106e37d",
+      "date": "2014-07-14T19:38:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1914fef697bc455e3bd30300db980e2ab4365f14",
+      "date": "2014-07-13T02:13:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "7451fb27d460e57dc6b111975c8c42b9a1c687c4",
+      "date": "2014-07-09T23:23:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "cd955cb38d5a4d33f333ae572d278846e483a9a2",
+      "date": "2014-07-09T04:29:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4bffdacd4b668f092ad347a5296fe79550c03738",
+      "date": "2014-07-09T00:28:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "abe9ee825539ab3697119a196d2ada65c6b270f7",
+      "date": "2014-07-09T00:25:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "13fea87dc783399a91d5d312c5dab186b6c3a8c5",
+      "date": "2014-07-08T11:03:52Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "543dbc3816cb839e68d814f0e98e31294612c4c0",
+      "date": "2014-07-08T10:54:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "85ad601e33340864ab1c2f27cda22ccba00bee31",
+      "date": "2014-07-08T09:58:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3316e639ca643169ee05d18c84440dbde6fd8da9",
+      "date": "2014-07-08T09:26:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5315b4ed898d4f71e15dbf16c3d96f384d57833b",
+      "date": "2014-07-08T09:25:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "39c5b122738c7c0c5b48ae901d86bbe90b6195bc",
+      "date": "2014-07-08T09:03:41Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "7502ce3e97f31fffad4ba1a822d2f39c9befb37a",
+      "date": "2014-07-08T08:30:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "13bd04f24a58f7b9f96ec8a07a385c79a46a6b31",
+      "date": "2014-07-08T07:51:42Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "6139b63c80e7269269f9419980add1e58667106e",
+      "date": "2014-07-08T07:25:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "38ddebfcdc603ed4af717811f5d5e5c7fe148f65",
+      "date": "2014-06-26T21:34:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5af40b2f9d2ab839a7975d879940dd5277dfe087",
+      "date": "2014-06-26T21:33:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "40b76a225a75e182c4bcb77d7c92eb9c03dd2e9e",
+      "date": "2014-05-22T18:23:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ee50db6fd1444f35f7a7a3e089bab0c5c84742f4",
+      "date": "2014-05-01T02:28:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "886f179264c41ea76ca5dc9e0598f0ff96d23183",
+      "date": "2014-04-26T02:32:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "aae076256a4a09aeb3f39464da5fa6d678b469d7",
+      "date": "2014-04-26T02:31:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "583782dee4893ded66bee688cedbdf3c343e5c48",
+      "date": "2014-04-26T02:31:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "cef0e4019125bf47d785084a38f34ce137432fe0",
+      "date": "2014-04-26T01:36:44Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0f7d92862172b10fb2b9a4a356a5a8ccb5f8e184",
+      "date": "2014-04-26T01:20:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a67e6d6fa81bb73583cbee39fa8d9dce4c4c7ab1",
+      "date": "2014-04-26T01:24:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "bd01dd5902d5872599f722ccbaa1c9ead19cb9d7",
+      "date": "2014-04-26T00:32:10Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b843d055800c3329771ad5bce0ee2d6286aa7434",
+      "date": "2014-04-25T23:20:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "eb47d1aea9eb1dd9e756ccf48e003e0f8022c599",
+      "date": "2014-04-10T23:40:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e7592a65e3d5fa6d6694da13eccc09fec1bb0385",
+      "date": "2014-04-10T05:22:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "cc7887f0a094779231cb4ed20792aaf3257f936f",
+      "date": "2014-04-10T05:02:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "72a5b19a9b30e46810448680c5574f09e3e04575",
+      "date": "2014-04-10T03:59:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "9815fddcf3c1433a85de3b16ecf5f76b334eb6c3",
+      "date": "2014-04-10T00:42:44Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "6d4ffd45acfb7e11b63bc153eb009b68f350ecb0",
+      "date": "2014-04-05T22:30:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "aabbe6d0b5a83be2b0cc40cebd29325d03d55e8e",
+      "date": "2014-04-04T22:55:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4dbaf7e6043d0eb9de0efab1dfc825cac9ff7599",
+      "date": "2014-04-03T19:49:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "902db106a60a2481ef56763f09f40f9b36323f35",
+      "date": "2014-04-03T19:40:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a95da365bb97e5d6a2982a26a20dd73a65d98726",
+      "date": "2014-04-02T08:49:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b59e2e5b3cd1bbdb9815c292177f21ac5c02c64c",
+      "date": "2014-04-02T08:30:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "eef44c5a0016c9f4dccc0d9632d806b58a25c638",
+      "date": "2014-04-02T08:10:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "43be49ff3a65bcd1d27f5e1c2f1ebad7fb32c86b",
+      "date": "2014-04-02T07:23:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "c5f5415b4e072ac4aa7017001dd1ffdd90efab19",
+      "date": "2014-04-02T07:17:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "713112e517e9414fde2c0a15abaf1845420540d3",
+      "date": "2014-04-02T07:02:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d0f020839314b106efd231aef8a15acd1260e9ef",
+      "date": "2014-04-02T06:59:12Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d12c69a4314e11c838a1283b7b8c79bd1eefc99b",
+      "date": "2014-04-02T05:43:51Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "96aa4224c77cee4348a597f426e8e007bdca12a6",
+      "date": "2014-04-01T04:49:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "cba459f27ea0d11b8c14acc6fd317adb7f4c3112",
+      "date": "2014-04-01T04:15:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "6b706194b288adad0b6b0bbdb6c80b58de76cd37",
+      "date": "2014-04-01T04:09:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5835159573eb2ad5c46ebce63a912d833d392acd",
+      "date": "2014-04-01T03:59:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e06d044d42890129ff5b653ba59800b640f6ea58",
+      "date": "2014-04-01T03:50:27Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "706c2727576b31ab89e0f8b5b9e178b4eae483cf",
+      "date": "2014-04-01T03:48:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d50274b5306c0236185ce7881ee0ace755b411dd",
+      "date": "2014-04-01T03:44:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3a55541e13bbbc505c6b69db8196266ad54a5a47",
+      "date": "2014-04-01T03:36:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "44d88e933198f94ae4b7ae2e557120afde0f6f5a",
+      "date": "2014-04-01T03:35:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e503e61154fc09962bb035e4f84d24d199f7a0c6",
+      "date": "2014-04-01T03:34:30Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a229af471e6f5bd924211df45ce0b4a0d3c96073",
+      "date": "2014-04-01T00:42:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "d7ddc7e928b8e429e2ccd1f53817fd2afdf14bd3",
+      "date": "2014-03-31T23:03:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "1d0f0d9fa31f693582faf274c7a91bf543e96669",
+      "date": "2014-03-31T00:41:51Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e30ecc8929ac5fcc6d3e5951fdd7ddf1472e7e8d",
+      "date": "2014-03-17T06:55:41Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0037bf373b26c6c644e44bd65842b096173ed84d",
+      "date": "2014-03-28T19:28:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "43c08e587993a564ca5eaa4e4a286c339ccf2906",
+      "date": "2014-03-28T09:54:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5eb961881421e82810f227250851d05c8e6c5db6",
+      "date": "2014-03-28T09:53:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "0dca1579008f492e0195386449c239ce74ac018a",
+      "date": "2014-03-28T09:18:41Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "94b35789e33daa9ba8d6c1e26145efd8a84b13ec",
+      "date": "2014-03-28T07:52:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "f378ad154a6cc3a15c162552f6b1b08822885099",
+      "date": "2014-03-16T22:36:47Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5cc2ed397d1f5912f5b55b184bf55bc353242931",
+      "date": "2014-03-16T21:56:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "cf9d706917a64a917619a0868421d84695931555",
+      "date": "2014-03-16T21:46:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "b41a3941c36cfcc9e5728ea84ca4ca4a8c9fdf97",
+      "date": "2014-03-16T21:45:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a68d9bd7a2ba9cd0061d676551036f217a290c0e",
+      "date": "2014-03-16T21:22:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "534cd8fc627a53e0f6b55ecf41697687790a203a",
+      "date": "2014-03-13T07:35:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "c7ca540bc3e7944dd722e5d6b50fa34735df96cf",
+      "date": "2014-03-13T07:32:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "f27084433937577087cf184e993050d96464f6ef",
+      "date": "2014-03-13T07:09:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "4620ad254d2768e5e6c1bb485b817cb0fa9e67ce",
+      "date": "2014-03-13T01:03:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "eaa1723fba236e0feed7fe46491fd4071f132cfb",
+      "date": "2014-03-13T00:57:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ae88da404c60cedf6c5adbe8974c5e837aa4f853",
+      "date": "2014-03-13T00:55:18Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "39a0034c3eac3cfdb215a8dcc54591021b768c4d",
+      "date": "2014-03-12T22:49:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "8f021b158b81dfe4747b1bc618d6588ce1625a4a",
+      "date": "2014-03-12T22:45:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ba27c717cf6d61f3197ae87dab74e9e2adba49d7",
+      "date": "2014-03-12T22:14:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "ba3b7027583a9d7ef772e66bd4c98b60b70458f3",
+      "date": "2014-03-12T22:13:41Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "e99defb99b08892e92b49d9fab933f55c7a2f48f",
+      "date": "2014-03-07T07:27:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "825f5bb8b2ca2e18a25b19f3bd0adad441101c4d",
+      "date": "2014-03-07T07:18:25Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3c95dbd45c826086b0d5d30c7dd06aa2a570d015",
+      "date": "2014-03-07T06:53:27Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "77850e467ab03f6e40f0cbb4f30c55493f24bba0",
+      "date": "2014-03-07T03:59:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "37cb95aaaadc013f57eecd3f7620dccad003b15e",
+      "date": "2014-03-07T03:57:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "3dead1647450c4b7825bdceefc21795e88a59a48",
+      "date": "2014-03-07T02:18:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "64b9c2d44fa5fa1d96e8e3cdac646fdac18f7ae7",
+      "date": "2014-03-07T02:03:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "2debd20660995515673abbb5dde8f8e1ee40deaa",
+      "date": "2014-03-07T01:39:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "37815dd3cab3f2d4353a1f721509ce99dbe48651",
+      "date": "2014-03-07T01:08:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "34870965f206a7be0d0780282675678f42bd698e",
+      "date": "2014-03-07T00:38:57Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "f2df84f185e7bb4ca02ccd2cd00b22643514d792",
+      "date": "2014-03-07T00:35:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "a5fb980ced296100a7a966b6c3d803f257d36756",
+      "date": "2014-03-07T00:27:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 37011566,
+      "date": "2014-03-07T10:16:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 37501849,
+      "date": "2014-03-13T05:39:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 40039131,
+      "date": "2014-04-10T03:13:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 48270727,
+      "date": "2014-07-08T04:22:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 55441178,
+      "date": "2014-09-12T18:18:42Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 61585874,
+      "date": "2014-11-04T02:45:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 65515614,
+      "date": "2014-12-04T00:04:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 93599385,
+      "date": "2015-04-15T23:44:42Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 95757087,
+      "date": "2015-04-24T00:09:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 21654343,
+      "date": "2013-07-26T23:31:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 22223336,
+      "date": "2013-08-07T01:05:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 22226418,
+      "date": "2013-08-07T02:46:10Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 22227627,
+      "date": "2013-08-07T03:31:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 22228139,
+      "date": "2013-08-07T03:50:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 31785958,
+      "date": "2014-01-07T22:17:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36955168,
+      "date": "2014-03-07T00:27:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36955691,
+      "date": "2014-03-07T00:35:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36962951,
+      "date": "2014-03-07T02:44:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36965846,
+      "date": "2014-03-07T03:51:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36974544,
+      "date": "2014-03-07T07:44:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36974570,
+      "date": "2014-03-07T07:44:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36979454,
+      "date": "2014-03-07T09:12:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 36980305,
+      "date": "2014-03-07T09:25:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 37475754,
+      "date": "2014-03-12T22:13:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 37475875,
+      "date": "2014-03-12T22:14:52Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 37476475,
+      "date": "2014-03-12T22:21:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 37476840,
+      "date": "2014-03-12T22:25:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 37480639,
+      "date": "2014-03-12T23:10:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 37787381,
+      "date": "2014-03-17T06:07:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 37787615,
+      "date": "2014-03-17T06:14:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38895603,
+      "date": "2014-03-28T07:52:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38896505,
+      "date": "2014-03-28T08:11:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38897010,
+      "date": "2014-03-28T08:21:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38897098,
+      "date": "2014-03-28T08:23:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38897333,
+      "date": "2014-03-28T08:28:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38898841,
+      "date": "2014-03-28T08:53:44Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38898950,
+      "date": "2014-03-28T08:55:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38899576,
+      "date": "2014-03-28T09:05:47Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38901282,
+      "date": "2014-03-28T09:30:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38902000,
+      "date": "2014-03-28T09:41:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38902215,
+      "date": "2014-03-28T09:43:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38903363,
+      "date": "2014-03-28T10:00:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38956488,
+      "date": "2014-03-28T19:04:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 38969255,
+      "date": "2014-03-28T21:20:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 39298528,
+      "date": "2014-04-02T08:00:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 39299044,
+      "date": "2014-04-02T08:04:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 40044229,
+      "date": "2014-04-10T05:25:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 40044326,
+      "date": "2014-04-10T05:27:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 40044438,
+      "date": "2014-04-10T05:30:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 40322504,
+      "date": "2014-04-13T22:43:52Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 41241382,
+      "date": "2014-04-24T04:21:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 41241572,
+      "date": "2014-04-24T04:26:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 41454304,
+      "date": "2014-04-26T01:58:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 43824626,
+      "date": "2014-05-21T22:52:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 43925301,
+      "date": "2014-05-22T18:23:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 44358710,
+      "date": "2014-05-28T02:23:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 44358838,
+      "date": "2014-05-28T02:25:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 44467530,
+      "date": "2014-05-28T21:33:44Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 44669869,
+      "date": "2014-05-30T16:21:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48277251,
+      "date": "2014-07-08T06:41:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48278394,
+      "date": "2014-07-08T07:00:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48282740,
+      "date": "2014-07-08T08:00:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48283196,
+      "date": "2014-07-08T08:07:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48322434,
+      "date": "2014-07-08T10:58:51Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48387819,
+      "date": "2014-07-08T19:24:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48413870,
+      "date": "2014-07-08T23:47:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48414183,
+      "date": "2014-07-08T23:52:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48414771,
+      "date": "2014-07-09T00:00:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48415634,
+      "date": "2014-07-09T00:13:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48416001,
+      "date": "2014-07-09T00:19:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48416807,
+      "date": "2014-07-09T00:34:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48417662,
+      "date": "2014-07-09T00:49:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48428884,
+      "date": "2014-07-09T04:29:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48545788,
+      "date": "2014-07-09T22:56:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48546747,
+      "date": "2014-07-09T23:08:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48550363,
+      "date": "2014-07-09T23:56:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48796748,
+      "date": "2014-07-12T00:24:15Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48797156,
+      "date": "2014-07-12T00:35:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48829833,
+      "date": "2014-07-13T02:26:27Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48949284,
+      "date": "2014-07-14T19:39:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48949388,
+      "date": "2014-07-14T19:40:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 48953049,
+      "date": "2014-07-14T20:11:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 49088117,
+      "date": "2014-07-15T20:30:15Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 49372281,
+      "date": "2014-07-17T21:57:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 49373023,
+      "date": "2014-07-17T22:05:05Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 49776842,
+      "date": "2014-07-22T18:02:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 49777046,
+      "date": "2014-07-22T18:03:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 50559336,
+      "date": "2014-07-30T00:37:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 50560041,
+      "date": "2014-07-30T00:47:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 50564846,
+      "date": "2014-07-30T01:56:11Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 50564912,
+      "date": "2014-07-30T01:57:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 58731920,
+      "date": "2014-10-11T00:37:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 61427946,
+      "date": "2014-11-02T22:55:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 61429470,
+      "date": "2014-11-02T23:36:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 61430280,
+      "date": "2014-11-03T00:02:06Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 61430461,
+      "date": "2014-11-03T00:06:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 61431030,
+      "date": "2014-11-03T00:25:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 62488246,
+      "date": "2014-11-11T01:37:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 62488402,
+      "date": "2014-11-11T01:38:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 63131884,
+      "date": "2014-11-14T21:29:15Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 63132187,
+      "date": "2014-11-14T21:31:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 63393456,
+      "date": "2014-11-17T23:03:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 64470527,
+      "date": "2014-11-25T21:04:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 64853829,
+      "date": "2014-11-28T04:37:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65019815,
+      "date": "2014-12-01T04:32:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65717162,
+      "date": "2014-12-04T22:42:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65717270,
+      "date": "2014-12-04T22:43:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65718342,
+      "date": "2014-12-04T22:51:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65721485,
+      "date": "2014-12-04T23:16:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65721630,
+      "date": "2014-12-04T23:17:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65722931,
+      "date": "2014-12-04T23:28:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65723146,
+      "date": "2014-12-04T23:30:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65723484,
+      "date": "2014-12-04T23:33:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65723683,
+      "date": "2014-12-04T23:35:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65724124,
+      "date": "2014-12-04T23:39:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65730829,
+      "date": "2014-12-05T00:47:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65731763,
+      "date": "2014-12-05T00:57:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 65873081,
+      "date": "2014-12-05T23:49:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71748431,
+      "date": "2015-01-27T23:10:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71748530,
+      "date": "2015-01-27T23:10:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71749177,
+      "date": "2015-01-27T23:15:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71761084,
+      "date": "2015-01-28T00:51:30Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71785733,
+      "date": "2015-01-28T06:03:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71786107,
+      "date": "2015-01-28T06:09:18Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71786277,
+      "date": "2015-01-28T06:11:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71786417,
+      "date": "2015-01-28T06:13:32Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71786448,
+      "date": "2015-01-28T06:13:57Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71787018,
+      "date": "2015-01-28T06:22:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71787141,
+      "date": "2015-01-28T06:23:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71787204,
+      "date": "2015-01-28T06:24:44Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 71787629,
+      "date": "2015-01-28T06:30:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 75179966,
+      "date": "2015-02-20T02:29:42Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 75180481,
+      "date": "2015-02-20T02:36:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 75180590,
+      "date": "2015-02-20T02:37:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80685771,
+      "date": "2015-03-14T19:24:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80689778,
+      "date": "2015-03-14T19:35:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80689971,
+      "date": "2015-03-14T19:38:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80699257,
+      "date": "2015-03-14T20:12:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80702304,
+      "date": "2015-03-14T20:21:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80702330,
+      "date": "2015-03-14T20:22:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80704113,
+      "date": "2015-03-14T20:27:30Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80705601,
+      "date": "2015-03-14T20:29:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80708558,
+      "date": "2015-03-14T20:33:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80717150,
+      "date": "2015-03-14T20:51:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80724684,
+      "date": "2015-03-14T21:22:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80726912,
+      "date": "2015-03-14T21:33:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80727834,
+      "date": "2015-03-14T21:36:18Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80744088,
+      "date": "2015-03-14T22:28:43Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80755043,
+      "date": "2015-03-14T23:01:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 80796171,
+      "date": "2015-03-15T01:59:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 81849563,
+      "date": "2015-03-16T18:13:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 81859501,
+      "date": "2015-03-16T18:38:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 82063866,
+      "date": "2015-03-17T03:01:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 82063962,
+      "date": "2015-03-17T03:02:18Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 85313493,
+      "date": "2015-03-24T02:47:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 85314740,
+      "date": "2015-03-24T02:48:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 85325280,
+      "date": "2015-03-24T03:28:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 85338697,
+      "date": "2015-03-24T05:00:57Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 85340423,
+      "date": "2015-03-24T05:08:52Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 85340920,
+      "date": "2015-03-24T05:11:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 86166475,
+      "date": "2015-03-25T18:42:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 86167044,
+      "date": "2015-03-25T18:43:25Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 92527838,
+      "date": "2015-04-13T23:02:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 92595144,
+      "date": "2015-04-14T04:30:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93033579,
+      "date": "2015-04-14T19:37:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93034889,
+      "date": "2015-04-14T19:40:06Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93038294,
+      "date": "2015-04-14T19:46:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93038911,
+      "date": "2015-04-14T19:47:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93071621,
+      "date": "2015-04-14T21:34:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93108166,
+      "date": "2015-04-14T23:21:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93545667,
+      "date": "2015-04-15T19:48:05Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93555626,
+      "date": "2015-04-15T20:24:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93592807,
+      "date": "2015-04-15T23:04:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93593105,
+      "date": "2015-04-15T23:06:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93610898,
+      "date": "2015-04-16T01:19:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93611573,
+      "date": "2015-04-16T01:23:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 93611661,
+      "date": "2015-04-16T01:24:40Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 95736161,
+      "date": "2015-04-23T22:33:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 95746117,
+      "date": "2015-04-23T23:23:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 95746417,
+      "date": "2015-04-23T23:25:42Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 96875521,
+      "date": "2015-04-28T02:02:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 98407907,
+      "date": "2015-05-02T22:00:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 99700376,
+      "date": "2015-05-07T03:29:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 99700419,
+      "date": "2015-05-07T03:30:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 99700495,
+      "date": "2015-05-07T03:31:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 103105263,
+      "date": "2015-05-18T15:30:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 103117955,
+      "date": "2015-05-18T16:21:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 103297622,
+      "date": "2015-05-19T01:54:25Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 105601193,
+      "date": "2015-05-26T16:55:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 106093706,
+      "date": "2015-05-27T22:09:52Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 106094495,
+      "date": "2015-05-27T22:11:49Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 106131257,
+      "date": "2015-05-28T01:23:41Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 106131477,
+      "date": "2015-05-28T01:25:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 106133292,
+      "date": "2015-05-28T01:30:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 106594325,
+      "date": "2015-05-28T20:54:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 110527709,
+      "date": "2015-06-09T23:00:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 110540612,
+      "date": "2015-06-10T00:16:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 110630267,
+      "date": "2015-06-10T07:25:55Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 113056769,
+      "date": "2015-06-18T07:02:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 130137529,
+      "date": "2015-08-12T02:23:47Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 130157773,
+      "date": "2015-08-12T04:34:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 130159353,
+      "date": "2015-08-12T04:44:27Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 130159742,
+      "date": "2015-08-12T04:49:33Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 130215004,
+      "date": "2015-08-12T08:26:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 130215554,
+      "date": "2015-08-12T08:29:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 130439421,
+      "date": "2015-08-12T20:35:20Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 137598385,
+      "date": "2015-09-03T23:11:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 139833198,
+      "date": "2015-09-13T01:09:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 139846004,
+      "date": "2015-09-13T05:50:46Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 139846060,
+      "date": "2015-09-13T05:52:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 139846117,
+      "date": "2015-09-13T05:55:00Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 140871578,
+      "date": "2015-09-16T20:08:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 142783609,
+      "date": "2015-09-24T02:16:22Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 143903531,
+      "date": "2015-09-28T23:47:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 150354460,
+      "date": "2015-10-22T20:58:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 150669036,
+      "date": "2015-10-23T19:24:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154766137,
+      "date": "2015-11-07T23:59:28Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154766510,
+      "date": "2015-11-08T00:04:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154766699,
+      "date": "2015-11-08T00:10:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154766728,
+      "date": "2015-11-08T00:11:51Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154766754,
+      "date": "2015-11-08T00:12:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154766805,
+      "date": "2015-11-08T00:14:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154780367,
+      "date": "2015-11-08T07:08:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154780895,
+      "date": "2015-11-08T07:17:42Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154784388,
+      "date": "2015-11-08T07:43:27Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154788524,
+      "date": "2015-11-08T08:12:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154789281,
+      "date": "2015-11-08T08:29:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154789414,
+      "date": "2015-11-08T08:33:44Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154789522,
+      "date": "2015-11-08T08:37:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154789642,
+      "date": "2015-11-08T08:42:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154790400,
+      "date": "2015-11-08T09:06:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 154790471,
+      "date": "2015-11-08T09:09:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156082200,
+      "date": "2015-11-12T11:45:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156083506,
+      "date": "2015-11-12T11:51:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156084158,
+      "date": "2015-11-12T11:55:17Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156088735,
+      "date": "2015-11-12T12:18:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156089699,
+      "date": "2015-11-12T12:20:12Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156090596,
+      "date": "2015-11-12T12:22:18Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156092309,
+      "date": "2015-11-12T12:31:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156092708,
+      "date": "2015-11-12T12:34:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156094964,
+      "date": "2015-11-12T12:47:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156095202,
+      "date": "2015-11-12T12:49:01Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156095599,
+      "date": "2015-11-12T12:51:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156095726,
+      "date": "2015-11-12T12:52:21Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156095868,
+      "date": "2015-11-12T12:53:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156096808,
+      "date": "2015-11-12T12:59:31Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156097086,
+      "date": "2015-11-12T13:00:57Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156097636,
+      "date": "2015-11-12T13:02:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156098326,
+      "date": "2015-11-12T13:06:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156098882,
+      "date": "2015-11-12T13:09:47Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156951417,
+      "date": "2015-11-16T08:06:59Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156952566,
+      "date": "2015-11-16T08:15:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156953666,
+      "date": "2015-11-16T08:24:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156969356,
+      "date": "2015-11-16T09:32:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 156976930,
+      "date": "2015-11-16T10:06:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "com",
+      "id": 157211598,
+      "date": "2015-11-16T23:48:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 240,
+      "date": "2015-04-14T22:03:04Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 238,
+      "date": "2015-04-10T01:35:23Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 237,
+      "date": "2015-04-09T23:11:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 147,
+      "date": "2014-07-15T20:35:45Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 127,
+      "date": "2014-03-25T07:27:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 442,
+      "date": "2015-11-16T23:27:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 437,
+      "date": "2015-11-12T13:15:47Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 434,
+      "date": "2015-11-12T01:07:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 433,
+      "date": "2015-11-08T09:12:19Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 432,
+      "date": "2015-11-08T00:16:56Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 424,
+      "date": "2015-09-27T19:59:07Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 399,
+      "date": "2015-06-10T07:08:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 398,
+      "date": "2015-06-10T01:23:47Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 391,
+      "date": "2015-05-19T02:12:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 383,
+      "date": "2015-04-16T01:19:14Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 382,
+      "date": "2015-04-16T00:40:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 381,
+      "date": "2015-04-15T22:31:24Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 380,
+      "date": "2015-04-14T23:09:03Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 367,
+      "date": "2015-03-23T01:17:08Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 365,
+      "date": "2015-03-22T02:31:36Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 362,
+      "date": "2015-03-14T22:21:13Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 361,
+      "date": "2015-03-14T18:57:33Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 324,
+      "date": "2014-11-03T02:34:37Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 323,
+      "date": "2014-11-02T23:59:48Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 277,
+      "date": "2014-04-10T04:34:58Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 273,
+      "date": "2014-03-28T09:57:09Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 268,
+      "date": "2014-03-13T01:06:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 211,
+      "date": "2013-08-07T03:49:38Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 210,
+      "date": "2013-08-07T03:21:50Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "pr",
+      "id": 207,
+      "date": "2013-07-31T01:39:27Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 441,
+      "date": "2015-11-16T10:57:26Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 436,
+      "date": "2015-11-12T12:00:27Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 435,
+      "date": "2015-11-12T11:59:35Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 413,
+      "date": "2015-08-12T08:41:16Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 369,
+      "date": "2015-03-24T02:47:54Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 363,
+      "date": "2015-03-14T23:55:34Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 354,
+      "date": "2015-01-28T06:07:57Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 337,
+      "date": "2014-12-05T22:54:02Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 302,
+      "date": "2014-07-13T02:17:39Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 299,
+      "date": "2014-07-09T23:55:53Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 286,
+      "date": "2014-05-21T22:51:29Z"
+    },
+    {
+      "dev_id": "ab",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 265,
+      "date": "2014-03-07T01:12:45Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "fd09e677311d7d78a02af9b6c7f61b3a2c3b752d",
+      "date": "2013-07-15T19:21:18Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "9999a482fddcce2e54c818d3164fd01cd86ccb0b",
+      "date": "2013-07-15T18:52:27Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "9b64772b7edc78f18e6694a73b45d610a1bcaa49",
+      "date": "2013-07-06T00:44:18Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "616b1699585664102d92f0664bb1e60ef3fba0bc",
+      "date": "2013-07-05T17:28:19Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "1fbce5288cef350cc760c64b4bc4d19b22db76a4",
+      "date": "2013-07-01T06:00:01Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "daafdb983dee5323a740bdfa11aae52503cc1817",
+      "date": "2013-07-01T05:34:30Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c52973e7dee635d82e8346d2b9f832cf513ffdd3",
+      "date": "2013-06-30T05:46:52Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "2dbc700fc35c9f6191e274febcd283223fce7d9a",
+      "date": "2013-05-06T20:56:14Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "2861964755df980f705e2188cfb9aab93cc4b343",
+      "date": "2013-05-06T20:53:00Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "aecfaa818f131707d7d4d1bd7bf8171dd23c397f",
+      "date": "2013-05-01T23:34:18Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "a95da742d485a00d77fe0dcbe7243703d4fc6618",
+      "date": "2013-05-01T22:02:34Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "dcb407c6d7cd7f07e3ab8461502a5f03d9656fdf",
+      "date": "2013-05-01T21:46:23Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "3ab7c3253a2f8f31bb79d8f2706f6457fb3f45bf",
+      "date": "2013-05-01T21:46:07Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "6f664422d40304eea946bf81e46aa190aefaa02c",
+      "date": "2013-05-01T21:44:50Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "1b3dd625fd0ef5652a139ab0f7e21f216ceced48",
+      "date": "2013-05-01T21:43:44Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "a3884060a3f5aabc23f865858aaa9f505f357c82",
+      "date": "2013-05-01T21:38:05Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c8fd61066022f2f5bd0ac9b1b1c74a18281b6a52",
+      "date": "2013-05-01T21:38:03Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "523cdd548ba02f8c92f95f766e26c869140b5d1e",
+      "date": "2013-05-01T21:38:01Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "91c90ff43e1ad982243ab7f80bee4f6e658d4a2c",
+      "date": "2013-05-01T19:25:23Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "6b044e90ca1a3e0865605fbcaff956f3766aa7fb",
+      "date": "2013-05-01T19:17:09Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "fe3eb47e60525cd8d026904403ec92d0134c0bac",
+      "date": "2013-02-22T02:07:06Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "a1ab276487c9fc678a5cd23b8f87bcd4e04f2b10",
+      "date": "2013-02-22T02:19:21Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "3e30d5ad78e3b76f99287fa932100a9af9c8c5b5",
+      "date": "2013-01-29T00:18:54Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "0c281891948a793e79cc997d31918ba7f987f7ae",
+      "date": "2012-12-05T00:11:34Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "cf3c4a11b63abf958adc7549d5af8a91c9c30bb4",
+      "date": "2012-11-21T21:58:52Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "150c69a91ddd9231fd315ade6923c7fc8ee9436d",
+      "date": "2012-11-21T21:52:23Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "3354d9dddde3628cbf6bee88f33a434fec5845c6",
+      "date": "2012-11-21T21:51:51Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "7571ab5a386842723428631ffcbc19f10402ca00",
+      "date": "2012-10-08T23:54:23Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "79516e8552998cbb2cdfe27a929b6747645bae6b",
+      "date": "2012-10-08T23:43:39Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "f7a69489af9b84d6d9c726a1f313e1bc6161c2e5",
+      "date": "2012-10-08T23:40:39Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "e776c7a3cb8975905ab32328d95630b68c384af3",
+      "date": "2012-10-08T23:24:03Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "f625968bfd60a25d0c3e53403f510cf827d68a9c",
+      "date": "2012-09-15T03:36:16Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "5ed29ec7be7787cd888cbc0b6f285b9e2ac29531",
+      "date": "2012-09-15T03:21:31Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "e8adad2c342e963f78dbe91c7bb31d7d5df0c02a",
+      "date": "2012-09-15T03:10:43Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "ae850157d743357218a1ce4d995619f809b0646b",
+      "date": "2012-09-15T03:09:01Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "6b58d14fc163cb81be12f4f9f1b4f9d72fdb460c",
+      "date": "2012-09-15T03:01:44Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "cdde220990ded7a09f5ec0f426952286ee67af16",
+      "date": "2012-08-31T18:41:02Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "cf7054c43060dd56efb41beb9c104d6b84825b77",
+      "date": "2012-07-24T01:41:37Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "35e7375ad7b36969b8adb4ea2ea023dc6f8f6fb7",
+      "date": "2012-05-17T18:48:50Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "b905b2164cdd8e8e47a0254c62da2a6633354179",
+      "date": "2012-05-08T00:24:44Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "f84ee25b032b8752868e423299aa6c534ebabc96",
+      "date": "2012-05-08T00:23:18Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "5f70ea3bbd5c3af1e27ce456fcfdcb8be5f11d7d",
+      "date": "2012-05-05T05:52:14Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "e69407fa3c8fe4b81f878655bf0415cce7738206",
+      "date": "2012-05-05T05:52:10Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "065f2316c77ee81ee8c0395a6f5125b4117952e0",
+      "date": "2012-05-05T05:48:08Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "776807349f0fc3fd7d438e02b0d49399f80b802e",
+      "date": "2012-05-04T22:58:05Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "95b3e956910e05a767113be6532c2ea5b6f7201a",
+      "date": "2012-05-04T10:09:12Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c878e8989881d55abe2665236f1739b38e676704",
+      "date": "2012-05-04T06:50:00Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "eee7ab5c44f9bbab67813ec5a1b743dd86227f1a",
+      "date": "2012-05-04T09:57:04Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "b3974868ac112ce4f1719c00ac4c550a30423228",
+      "date": "2012-05-04T06:44:31Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "eba6826b058315cb21206ebb66a5c4ae4b106074",
+      "date": "2012-05-04T06:38:05Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "69b1e4b0bddf68e2183e4c332b15e235e6e212ff",
+      "date": "2012-05-01T23:32:56Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "f1d7ab61232078c35c4e13752c7c2f2682a8fcd0",
+      "date": "2012-04-30T23:32:15Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "1b2f07a9ea807be27ccf4cc82a737747b291d794",
+      "date": "2012-04-30T21:46:36Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "56d7c98945b44dadb76ecae0dc56d9676a27c8ee",
+      "date": "2012-04-30T21:41:46Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "f8073e132ac511c8b95bf2dfa34f35515ffd1e71",
+      "date": "2012-04-26T20:54:49Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "32e619c04a9ed8e5abd0a4d9f2cec2fb6e4dded4",
+      "date": "2012-04-23T17:18:57Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "2e9693eccff66349e57dc236566125d2f0a4b20b",
+      "date": "2012-04-23T17:08:00Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "69a96ecc4b08549cf496c26a92ebbd8f405db49f",
+      "date": "2012-04-23T17:00:29Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "rest-client/rest-client",
+      "type": "commit",
+      "id": "5a3b760cfb6a94c17a8b2ccb0c9ba542861e485c",
+      "date": "2014-06-13T14:25:41Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5284593,
+      "date": "2012-04-23T16:01:55Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5289060,
+      "date": "2012-04-23T19:13:19Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5291603,
+      "date": "2012-04-23T20:55:29Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5346907,
+      "date": "2012-04-26T00:23:06Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5428802,
+      "date": "2012-04-30T21:55:45Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5430477,
+      "date": "2012-04-30T23:32:03Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5524730,
+      "date": "2012-05-05T05:54:05Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5542187,
+      "date": "2012-05-07T00:30:13Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5561228,
+      "date": "2012-05-07T21:24:17Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5590672,
+      "date": "2012-05-09T01:07:58Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5609257,
+      "date": "2012-05-09T19:34:32Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5609355,
+      "date": "2012-05-09T19:38:05Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5609422,
+      "date": "2012-05-09T19:40:36Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5703799,
+      "date": "2012-05-14T22:23:06Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5893798,
+      "date": "2012-05-24T06:34:18Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5910464,
+      "date": "2012-05-24T16:11:20Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 6143527,
+      "date": "2012-06-06T05:53:34Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 6446147,
+      "date": "2012-06-20T06:45:01Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 6446165,
+      "date": "2012-06-20T06:46:19Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 6925918,
+      "date": "2012-07-12T03:07:36Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 6927346,
+      "date": "2012-07-12T05:27:17Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8201319,
+      "date": "2012-08-31T18:40:57Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8285920,
+      "date": "2012-09-05T02:34:18Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8286078,
+      "date": "2012-09-05T02:45:19Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8383794,
+      "date": "2012-09-08T02:19:30Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8383803,
+      "date": "2012-09-08T02:21:19Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8467429,
+      "date": "2012-09-11T18:20:54Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8467824,
+      "date": "2012-09-11T18:33:40Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8581431,
+      "date": "2012-09-15T03:21:13Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8581584,
+      "date": "2012-09-15T03:49:15Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8657233,
+      "date": "2012-09-18T14:46:01Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 9189345,
+      "date": "2012-10-05T20:49:25Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 9241272,
+      "date": "2012-10-08T21:40:52Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 9516535,
+      "date": "2012-10-17T05:35:44Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 10613182,
+      "date": "2012-11-21T20:33:29Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 10616302,
+      "date": "2012-11-21T22:07:01Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 10645703,
+      "date": "2012-11-22T21:45:51Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 10704600,
+      "date": "2012-11-26T04:49:23Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 10874106,
+      "date": "2012-11-30T01:06:01Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 10914888,
+      "date": "2012-12-01T08:28:56Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 10980808,
+      "date": "2012-12-04T01:48:32Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 11017593,
+      "date": "2012-12-04T21:58:11Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 11017688,
+      "date": "2012-12-04T22:01:08Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 11349136,
+      "date": "2012-12-13T19:32:21Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13853660,
+      "date": "2013-02-20T20:12:50Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13866652,
+      "date": "2013-02-21T00:54:21Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13867531,
+      "date": "2013-02-21T01:24:19Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13869397,
+      "date": "2013-02-21T02:27:36Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13870209,
+      "date": "2013-02-21T02:56:42Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13871342,
+      "date": "2013-02-21T03:38:18Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13907629,
+      "date": "2013-02-21T19:26:39Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13918928,
+      "date": "2013-02-21T23:06:57Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13924866,
+      "date": "2013-02-22T02:06:07Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13925165,
+      "date": "2013-02-22T02:19:16Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13925491,
+      "date": "2013-02-22T02:32:15Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 16522176,
+      "date": "2013-04-17T18:01:14Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 17507976,
+      "date": "2013-05-06T21:02:42Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 20264185,
+      "date": "2013-07-01T05:38:36Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 20264335,
+      "date": "2013-07-01T05:45:23Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 20530162,
+      "date": "2013-07-05T17:28:17Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 20533058,
+      "date": "2013-07-05T18:35:39Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 20546233,
+      "date": "2013-07-06T00:44:02Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 20994132,
+      "date": "2013-07-15T18:52:31Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 20996659,
+      "date": "2013-07-15T19:21:16Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 25331459,
+      "date": "2013-09-29T23:17:26Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 25947390,
+      "date": "2013-10-09T05:21:16Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 26235243,
+      "date": "2013-10-14T04:35:44Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 26425128,
+      "date": "2013-10-16T14:56:40Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 26653919,
+      "date": "2013-10-19T16:56:06Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 31140449,
+      "date": "2013-12-23T19:57:39Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33283772,
+      "date": "2014-01-25T08:11:51Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33290935,
+      "date": "2014-01-25T15:10:13Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33308956,
+      "date": "2014-01-26T04:23:32Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33308959,
+      "date": "2014-01-26T04:23:51Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33309161,
+      "date": "2014-01-26T04:41:35Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33309184,
+      "date": "2014-01-26T04:42:58Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33322300,
+      "date": "2014-01-26T16:58:28Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33565006,
+      "date": "2014-01-29T08:31:12Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33589188,
+      "date": "2014-01-29T14:35:24Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 37501963,
+      "date": "2014-03-13T05:42:25Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 37501971,
+      "date": "2014-03-13T05:42:38Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 48270673,
+      "date": "2014-07-08T04:21:28Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 52562566,
+      "date": "2014-08-18T22:07:34Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 131701245,
+      "date": "2015-08-17T07:02:45Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 141876605,
+      "date": "2015-09-21T04:38:33Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 145605002,
+      "date": "2015-10-05T17:25:53Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 107,
+      "date": "2014-01-25T15:03:59Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "issue",
+      "id": 42,
+      "date": "2012-10-08T22:50:24Z"
+    },
+    {
+      "dev_id": "ebroder",
+      "repo": "stripe/stripe-ruby",
+      "type": "issue",
+      "id": 32,
+      "date": "2012-06-19T01:06:21Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "56b792ccad7dbbef6ea20e1d18d86502238eaf94",
+      "date": "2013-02-21T20:09:10Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "b2aafa854e49d1c8b935afdf159ff92b490243bd",
+      "date": "2013-02-21T19:54:16Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "1b9f776f654fbc560b15ed8b123e6477f38014cc",
+      "date": "2013-02-04T23:54:26Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "06c67e404e992b6747269598be0fdf81d46bb609",
+      "date": "2013-02-04T23:51:48Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "5ffde047d386be597684b03464895649edc50223",
+      "date": "2013-02-01T20:12:03Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "0080cfe707b07044c660cf277d54becabd2ee933",
+      "date": "2012-10-31T00:06:28Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "140ef12a06b7efd328abb85a0a65caf4d78f070f",
+      "date": "2012-10-31T00:04:35Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c0999ac5bbd17e502cb2676e5b0ac8dc4f13e46a",
+      "date": "2012-10-30T05:13:07Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "7f87b2bc4ad01f80073ef452e81b3ccfcee9302d",
+      "date": "2012-10-26T02:42:23Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "e885c8cc6484e2ee61768704a43969b9711cafe3",
+      "date": "2012-03-22T18:43:43Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "9178c63f089fa5709b32c989955133df83692be3",
+      "date": "2012-02-24T23:47:43Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c6847c2ad29acd2bcdc19952301f54521f1f14a0",
+      "date": "2012-02-22T20:15:57Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "1e7c20a75d429f364bd39d42361f6ebea5b6a492",
+      "date": "2012-02-02T20:02:24Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "da996f99c3f318f5bafa9da89f140fe5c05bfdb2",
+      "date": "2012-01-27T22:58:15Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "5d9f3c59098ab6d98cde4533b42a0bb28d9a8cc9",
+      "date": "2012-01-27T00:33:04Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "d328e7b4079cf9e3098de9fdbf65da84777f35ed",
+      "date": "2012-01-27T00:32:14Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "a1ff66d7fc62ee3b0b8d0644af82bbcf5dd2e464",
+      "date": "2012-01-26T08:39:10Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "54d41ff9406231443da58f5cd5b976cfc304014b",
+      "date": "2012-01-20T21:19:19Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "5fcaa4949526386e12a75e569501098ab41be45a",
+      "date": "2011-09-15T21:09:03Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "d86340531da3e7ac3ce6f966d8ff9a7ae27ad598",
+      "date": "2011-06-20T18:56:27Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "98a57663819b6f31466f49e95da81f19c54c1bb9",
+      "date": "2011-06-20T18:49:15Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 3658815,
+      "date": "2012-01-25T20:55:42Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 3785196,
+      "date": "2012-02-02T20:02:52Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 3933209,
+      "date": "2012-02-13T01:41:29Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 4120944,
+      "date": "2012-02-22T20:24:09Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5271263,
+      "date": "2012-04-22T21:11:49Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5584676,
+      "date": "2012-05-08T19:55:37Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5609283,
+      "date": "2012-05-09T19:35:34Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 5609375,
+      "date": "2012-05-09T19:38:45Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 13910092,
+      "date": "2013-02-21T20:10:51Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 50,
+      "date": "2013-02-01T20:12:36Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 12,
+      "date": "2012-01-27T22:59:41Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 10,
+      "date": "2012-01-20T21:21:20Z"
+    },
+    {
+      "dev_id": "boucher",
+      "repo": "rest-client/rest-client",
+      "type": "issue",
+      "id": 125,
+      "date": "2012-04-13T06:55:55Z"
+    }
+  ]
+}

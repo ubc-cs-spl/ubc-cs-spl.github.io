@@ -1,0 +1,5495 @@
+{
+  "user_repo": "tmm1/http_parser.rb",
+  "dep_repo": "brianmario/yajl-ruby",
+  "dep_date": "2011-03-17 04:08:41 UTC",
+  "dep_commit_id": "2fe2394e6c682faf1b47841287e7adea991d0ae2",
+  "social_date": "2010-10-21 15:33:25 UTC",
+  "devs": [
+    "brianmario",
+    "sferik",
+    "igrigorik"
+  ],
+  "interactions": [
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0a1882d0d1437510d1ba192dc3477dd9acd9e5d7",
+      "date": "2015-09-22T18:01:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7f76d9c45a0b1e51451741f114d3080386715236",
+      "date": "2014-12-10T22:23:22Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bbf7596d609c06f97f1500d8384b518681c46233",
+      "date": "2014-11-14T16:32:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e8401ec9495ba6cf0205ccf6a4beb7dd2fc323c0",
+      "date": "2014-10-07T18:02:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d2e4ddee0158be330bd92dd79e42d15e3abfc3e5",
+      "date": "2014-06-23T11:51:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8bda6f72707eabe4975897aab6d6495fb541044b",
+      "date": "2014-06-20T15:27:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d8a0b8d5c879b0810b43eaab241fb87b68c93453",
+      "date": "2014-06-05T16:44:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "25eb05f2ba7320abaf953c203384c7e5dec30d23",
+      "date": "2014-06-05T16:43:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "38569da8f4decb40f68a314efdfa058dfcdd46cd",
+      "date": "2014-06-03T20:52:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a18cbb383caa7e02528e333e23926c333c7bd918",
+      "date": "2014-06-03T20:08:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4f4c1d995b95bb786fd161b86f36760494330abb",
+      "date": "2014-06-03T20:04:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8fec09325790d5b4a69a3ecc03691036edfad7df",
+      "date": "2014-05-30T18:07:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "78520ebac1c9cd9f94c679797611dfa57878d40e",
+      "date": "2014-05-30T17:41:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "82cd05e57c80456b2d37d8989e4fc1b82253b6c7",
+      "date": "2014-05-30T17:35:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5d15f34e5076650baca12bb08e163d7771b031cb",
+      "date": "2014-05-30T17:30:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fb61daad73340968badf6f84e41ec6931db2e87e",
+      "date": "2013-12-17T19:16:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0618d0dd063d4d38ca058ca3cb0d492e8a15767f",
+      "date": "2013-12-17T19:14:22Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f0850cfc6ac5d63b211b2c45cec08d8953766686",
+      "date": "2013-12-17T19:13:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8f5e27818b73974e5123d6d53f458fda7af549ad",
+      "date": "2013-12-17T19:12:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d0f3e17b38556e094973de746be94bde01ad434f",
+      "date": "2013-11-07T18:12:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1229f702dd8fe71885cd3841129e3000ea694fba",
+      "date": "2013-11-07T07:07:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e714920bf251fdfe3fe707dd0798b0972d28462f",
+      "date": "2013-02-19T18:45:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "970cc384b0866fb772e01a9b340787f363088cd1",
+      "date": "2013-02-06T21:41:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f6e74a6ddf132a22add34d689d85263eb57428c5",
+      "date": "2012-11-14T20:58:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "105935e13ae565bf0273e7e5046ff37c16b2f4b3",
+      "date": "2012-09-12T19:21:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5d90659c696531d4a1888b3d1eae485f5d6e9bc3",
+      "date": "2012-09-12T19:21:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "57588ea93c85bea3d1da16472cdb9fe88b30ea31",
+      "date": "2012-09-12T19:20:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1e536c49a483db0acacf40adc51540eaf0e8632a",
+      "date": "2012-09-12T19:19:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "945a3516291263e353f0d3b47567ead0f9df93aa",
+      "date": "2012-09-12T19:19:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b08b3f7ffd2fe5fad051f9d4a78db7ce71d7a5fc",
+      "date": "2011-12-16T23:33:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "026698bf0a62c4afe70754cedd39d5091554598f",
+      "date": "2011-12-14T20:29:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "eef5c48be81b6404af66da3f185ec9301e5214d8",
+      "date": "2011-11-09T20:24:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "be5e6d7df52658dd50f8fe7dc71b98be9bdd8434",
+      "date": "2011-11-09T20:20:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8109393d7f541a35900e4791072afdd53b9299ed",
+      "date": "2011-11-08T04:27:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d9c054514e04120ecd388488d0302e7e2edd3192",
+      "date": "2011-10-31T23:34:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8a17376a40b646a0214effbf6ad8b3a2b8e96f0f",
+      "date": "2011-09-22T12:21:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8d7ff3c627d491964d636ba37e6c4bfec4254ff2",
+      "date": "2011-09-22T12:19:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "527f486a6754a793ff4221713bac2779736a425d",
+      "date": "2011-09-22T12:15:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b44bc2e391280b95c8f2ace65b3bcd4ad2beac4b",
+      "date": "2011-09-22T12:06:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d9500d199a0357f443ea11466339d1927ac00d9f",
+      "date": "2011-09-22T12:02:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "90da878318ff51b667e2835ca17e2f2c62f79979",
+      "date": "2011-09-22T11:56:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0bf82cd8aeb6fe6b59c33e41bbeaf824c6093cc9",
+      "date": "2011-09-20T15:00:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "dbc38c90ff74a0421f462a6d32ed166f32e96f94",
+      "date": "2011-09-20T13:43:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fe19e542e097d8af4b69ad88930c09e657898455",
+      "date": "2011-09-20T13:22:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0b61e6edd33f8de238cb998a0951439e1beab0df",
+      "date": "2011-09-20T13:14:26Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0ba9dde99770ba951a95c945835634b6cb6d7896",
+      "date": "2011-09-18T18:57:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a8f6c16b7b67c244c7541e9a4ca9753e4bda859d",
+      "date": "2011-09-16T00:17:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1bdd9fc36d74eb48af470fd46937558a00895439",
+      "date": "2011-09-16T00:07:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "09dfe41dfd0d1a0f647dc63f76145c84c9115086",
+      "date": "2011-09-14T06:47:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9a48b602b1dc02ab1c60fc1f9e2efbeca2250bd9",
+      "date": "2011-09-14T06:41:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "14bf5fdb39d6a3a72ad70a2a4733abdc8cf99e41",
+      "date": "2011-09-14T06:07:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3127064144ee3944586941f9d637d6257a5d2aca",
+      "date": "2011-09-14T06:01:22Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e798f682cc6d898259a6a51a04f2306cfe64d8f7",
+      "date": "2011-09-14T05:51:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e777c625b7f5ecd36b538e37baafbfd847f2e577",
+      "date": "2011-09-14T05:50:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2f12b168b3ae9fd2307d0341eadda4de5d7ab7ef",
+      "date": "2011-09-14T05:50:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "010c335056a701376b4d8fe69f73baad397a5ef1",
+      "date": "2011-09-14T05:39:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "315c408c7d48e24351e247c72f97fda345e32e0e",
+      "date": "2011-09-14T05:34:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f7d32dbc33ce57ed276055101a481b2965ad11d4",
+      "date": "2011-09-14T05:18:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7fffc41bb3c039b0b22e3970e35d1d7d22b3949c",
+      "date": "2011-09-14T05:18:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "03d12b5a63830ea9eb4594ea2b8d5cdd24433f26",
+      "date": "2011-09-14T04:53:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f14ff3a983751879af0a3a122e26da536de955ad",
+      "date": "2011-09-14T04:00:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5adf6a6cb374dce205852ea62f0b176bf6aa8479",
+      "date": "2011-08-16T14:28:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "84fb526089aed4081622883ab4b77cd9d2de2206",
+      "date": "2011-08-16T14:13:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bc2fce1080b3d8fc251e7314940408e932ad29e8",
+      "date": "2011-08-16T14:08:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "344ea1dac40a227d5430cd2dc29d9b8d4fda76a7",
+      "date": "2011-08-16T14:02:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e323aaf1ae58e061aa2e34c3fcf33427473bc9d3",
+      "date": "2011-08-07T19:21:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4621ddfffdec157ac44da52f940ff404a2d224d4",
+      "date": "2011-07-21T14:05:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fc206b4ced1b4d7ea67299cebaf6ed8a9525abbf",
+      "date": "2011-07-21T14:05:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "97eaf18c576042bc98769e89946b327edc8e4890",
+      "date": "2011-05-07T17:15:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5fa7d899bf0e0d12b5cf747550d8666b474e7812",
+      "date": "2011-04-25T16:39:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "aee14ff274253cb28d926d77f41f274f096b7ca7",
+      "date": "2011-03-23T06:38:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0e73ff25b09fa5bdaf5ee847e952763b3c7f9134",
+      "date": "2011-03-23T06:33:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ac1501a96ccee9324c8264fd96e633bb9e4929e9",
+      "date": "2011-03-23T06:28:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4fbb82352e974c6996a627a2249e32ac611ab545",
+      "date": "2011-02-21T20:11:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c6868c131b59b687bb8b537c979fa63c848ab7ee",
+      "date": "2011-02-18T01:03:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c5b745ce8b67613da96635475c3521d3c112fd24",
+      "date": "2011-02-15T02:39:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "139323d8f89a3a8e74225aff495e9c21830945f1",
+      "date": "2011-02-11T19:53:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bfa94e454fe88107ea13a11c27602d2dc45e667c",
+      "date": "2011-02-11T19:50:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3a30e8777d678f809e1362c451263cfeee0f216c",
+      "date": "2011-02-03T03:09:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3b4830315bcca355ab08d4d163c8e0729c44f0be",
+      "date": "2011-02-02T23:04:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "85e5aec53f6ae91d66c2d40fcf2634ec0d112e60",
+      "date": "2011-02-02T22:58:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "46d0c11f30b3cdcfcfacd7397656dd3ed627b7a2",
+      "date": "2011-01-27T09:14:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "eb801e7c63c3cfa0f4b8ab55b6b3a7b9aa72d398",
+      "date": "2011-01-11T21:17:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9f95083926f1b7008d049d151af4adefb2e56c86",
+      "date": "2011-01-11T18:53:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a7e8c52c8012025f865146586df6e12bc8672522",
+      "date": "2011-01-11T18:51:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7d49544ec6dc326cef4008ff6f1514d2ce1f8c2d",
+      "date": "2011-01-11T18:46:46Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7443757664060ca86bb333c4e41cc2f53125d328",
+      "date": "2011-01-11T18:40:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "59375e35da04bf862784daec2c0ccae90a5fe04c",
+      "date": "2010-12-20T06:48:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "59dc6a8f396af5fb5cf9a8cb9273442786c228c8",
+      "date": "2010-12-20T06:47:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7fa1c3c357a406e1c65e7e2dc42ea471c9d38c55",
+      "date": "2010-12-20T06:47:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "41e6b7da1dd61455033c140ec9e879c72008e4d7",
+      "date": "2010-12-20T06:06:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "679dc46268f7366a1fef1c35ce981d474f976c28",
+      "date": "2010-12-19T19:30:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0fb365a3b3071b2bad285752ff33f0d4247e75bd",
+      "date": "2010-12-19T18:28:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d7c89329b67b4d5383f31ef2e3097ff0a1390d19",
+      "date": "2010-12-19T10:02:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "850ac3e6cf08aeca9199e2fb1b3f2f4f96c3a0b7",
+      "date": "2010-12-19T09:59:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bf1a4706f966d4f9969ee722f29c7c6f0bc7735d",
+      "date": "2010-12-19T06:18:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "12b105abebf7c21d619b90860a54ddbd04a69b47",
+      "date": "2010-12-19T01:50:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7c0a60f3b378ee3223b123ebe3453ead6b3fb267",
+      "date": "2010-12-19T01:26:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4fe2e4e410f17da63009976e4b7f39fea506e393",
+      "date": "2010-12-19T01:26:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "07ddf3b12f38dffd53a56205645c6e4d4f394a7b",
+      "date": "2010-09-28T04:42:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "09ae7ce1246cbd969529880968636c0a0d102fc5",
+      "date": "2010-09-13T18:10:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "363f533270a70681d9e6c8a26615e57e2fa57c11",
+      "date": "2010-07-20T15:48:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a6847b8bf3db037d60e16969d72df129336464b7",
+      "date": "2010-07-13T05:34:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "34ddda124d12f6ff13d62bac98a46bb601c1fdda",
+      "date": "2010-07-13T05:31:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d9cc2c22476884e91c7cd1f254f758af4d9f5eaf",
+      "date": "2010-06-26T17:41:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "67e27670e2d768f0ed7e12ccb26c0e3f6d8f9e94",
+      "date": "2010-06-14T04:55:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b50dda31fe5c5d6dde0a767df66327bc2d1d6892",
+      "date": "2010-06-02T06:54:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b46f8cda59ca8eb86ba5ed3867303e80d0fd4473",
+      "date": "2010-06-02T06:49:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0de5527151500ec8e024ebf3ca41cf5862c1772e",
+      "date": "2010-05-07T23:13:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0381430ab0e49697a0fd161eb433753dfbfe01f0",
+      "date": "2010-05-01T17:35:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f708201a8c47293e26aae6a842965962549df9ac",
+      "date": "2010-05-01T17:35:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c938954e0e977fe346e9b4dd526c897f76d8f30b",
+      "date": "2010-05-01T17:27:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b55a5d7ad33179b223d54ad56912e38beee13ac2",
+      "date": "2010-05-01T17:26:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "78196cc73a1050a8c7244b1d86ac117aaa9cc446",
+      "date": "2010-04-27T00:33:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ee00da1e3a233d2128954422bde4604a9d9fbf6a",
+      "date": "2010-04-27T00:32:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2b9ac0b0a016075c0dff6712489ad52ca49ce28d",
+      "date": "2010-04-21T21:41:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "03a9248b726ba60f61003bf9e23ad59d5647782f",
+      "date": "2010-04-08T03:32:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "252f6fe913df97c38eab0a51ca9bb28cebc14329",
+      "date": "2010-03-25T15:14:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bf6ede158666f955c97b7b6c9e1e1cf28337a77b",
+      "date": "2010-03-25T14:52:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "eeacdccdf737b20ae779d88a3373571066087ed7",
+      "date": "2010-03-25T14:49:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f4382a871fefd774e05ba263a48c283564180968",
+      "date": "2010-03-23T17:06:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e77dae5a9881b184a5fa8461cddbf265bab0c611",
+      "date": "2010-03-23T17:02:22Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "937d53aa230354836e78c915aef6b6282bd53ec0",
+      "date": "2010-03-21T23:36:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "95a59e248b10d6716078458ba019bc29a68a8447",
+      "date": "2010-03-21T23:03:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "714421bbb92063d6650f195d582ba01a8079e11b",
+      "date": "2010-03-19T22:56:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "07dd794038aa520f249cb8560f49bf7177a05fbe",
+      "date": "2010-03-19T13:52:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9ed815df0594b72db5f4390c38e2e6c2fda2ad74",
+      "date": "2010-03-19T13:52:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2496fab91df56019485b4fb01fabb365e50d0407",
+      "date": "2010-03-19T07:12:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9ebf80f4eac144cce16bfa0395eaf9b6dca8106e",
+      "date": "2010-03-10T09:22:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2220848a3328cd8752838e249f379c5fe265797b",
+      "date": "2010-03-10T09:16:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a2b2b53bb1e5fdb53410a4d878a8a243b4fe2836",
+      "date": "2010-03-03T20:34:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f05959e77d986d922290cf45da84916b03d5669b",
+      "date": "2010-03-03T20:32:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a7a7a9788e13d91319e97d5eae578e9e9219dd0b",
+      "date": "2010-03-03T20:23:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "27e0be21e37ee202c5865b736891cbf63f36e12d",
+      "date": "2010-02-23T19:29:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a07bb1ce06d5dd55a6b342fe80a468061cb21622",
+      "date": "2010-02-23T19:29:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c00a199d599f92d7fe70ea1941741c84ac0e44c8",
+      "date": "2010-02-23T19:29:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c5d8d5779de81c77b0a38d36ad76f5eadc0df198",
+      "date": "2010-02-23T19:24:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f13145f89b4575a5c8682cf8f1a700c948314b88",
+      "date": "2010-02-23T19:23:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a0e06b2ab5590d45b395f8aa7e4a1a046b9bb77d",
+      "date": "2010-02-23T19:19:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "754390efe023495df49a48cbd1f182b5a9e6ee69",
+      "date": "2010-02-23T19:06:28Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1f5cecd96716109f6e04f3474efe49bea575043b",
+      "date": "2010-02-22T23:25:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0daa7dc06d65921fa02aff78c481378b0433a1a3",
+      "date": "2010-02-19T08:02:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ddc2638abf0b7d4a9c4c8a51ba811d3ab5f05586",
+      "date": "2010-02-19T08:00:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c9c6d4ee93023514f344689ee818cf9f7f0e1550",
+      "date": "2010-02-18T18:49:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c6c0079dd2724b47cc5aa5edc188edd684e392d1",
+      "date": "2010-02-18T07:42:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9a432e69a250c679981bd3501f653a3fa1124d52",
+      "date": "2010-02-18T07:41:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2bc1c02691217c03aa76f141d7f183a3e07f1a8d",
+      "date": "2010-02-18T07:21:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "16b05300f26c05d632ba4d4c45b12d3d9fa634a1",
+      "date": "2010-02-05T19:35:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f7c18c7360d0afdb4d2204c643f8e0d85b18601d",
+      "date": "2010-02-05T19:34:46Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8facde6c4c8f5648d9dc7138c5144b9e3c98d235",
+      "date": "2010-02-05T19:34:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5ddb12f37dbc154871d0cddc1c4398b9bbb637ce",
+      "date": "2010-01-28T04:56:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b09d4d378887d523f77a026db50265ca9554b918",
+      "date": "2010-01-28T04:22:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3346e821f6934e0d22e5619d3cecd58633f616cd",
+      "date": "2010-01-26T16:57:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "83e8fc512cc715baa9d3102c0c9b93f89ab5205f",
+      "date": "2010-01-26T16:53:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "05f1bb120963efa94e40a1503d175dff752da145",
+      "date": "2010-01-26T15:41:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b742b2d81b27b80e6f77024f1c5d3959d3ddedd1",
+      "date": "2010-01-21T08:01:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a94ac674ef159c818782b90f574660ec94ab93f5",
+      "date": "2010-01-02T01:03:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7360730442523cdbffc816480bf939bbd3f4165b",
+      "date": "2010-01-02T01:00:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "41e1894d9be370db2e1ed5db79bf9c4223cef4ae",
+      "date": "2010-01-02T00:53:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6849f5811943a5e60befba6f933854d6be7a2d34",
+      "date": "2010-01-02T00:39:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "819f521d912dca8a1e15994cfb0163f949096310",
+      "date": "2009-12-31T16:43:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0ab9dccf2aa53f9afcff2f7cf4fd17e980210d95",
+      "date": "2009-12-15T15:13:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8474f0337b420267f7744015c1a7b5e4dc1fd0cd",
+      "date": "2009-12-12T09:21:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "cacbc903033fbbf4414a1627019962cb9d72a4e1",
+      "date": "2009-12-12T07:32:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "06d9075f7bc2708603378e10f95b85ac03aaf22b",
+      "date": "2009-12-08T14:29:22Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "444a411774a933881bf259429259efc495d895c8",
+      "date": "2009-12-04T16:45:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6e64c2e6db2374f7a7a7df3f92df5f51348d4f6a",
+      "date": "2009-12-04T16:45:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9cb5537c804d1d75c49500efe1a97c7d7b048614",
+      "date": "2009-12-04T16:43:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b6c02578b3c57cda0de294051fd12412bab480ce",
+      "date": "2009-12-01T18:41:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "384b28805575362a084c4fda088da9b6c9a82df3",
+      "date": "2009-12-01T18:40:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ae265f08d49d4b5818d797ac4e22bcaec6002d53",
+      "date": "2009-12-01T17:05:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7ae496ab2054df00674e33a82e05b5e11adfdc97",
+      "date": "2009-12-01T16:56:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2ac108e9c7714c272b42c0706f972dbc75f955e0",
+      "date": "2009-11-25T15:33:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "de711f0bb49544821c65a6500bb6647e7e94458d",
+      "date": "2009-11-25T14:58:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9d4cca0175142c2308746d7c1d40d89b682b168f",
+      "date": "2009-11-25T00:41:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "05b65e5a679f90f4cba073c4c367e4cd2cbea2d8",
+      "date": "2009-11-23T07:39:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "290110213f52aebbb122691f3cac102ab9edb917",
+      "date": "2009-11-23T07:27:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "55977bd4befa8fc3e66ae2984aace3047f30dce4",
+      "date": "2009-11-22T04:00:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "83319ad4360040f2ce71ab65f6ab23658d335823",
+      "date": "2009-11-22T03:20:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4633984cc24a4914918fc969a041cbb24d814f69",
+      "date": "2009-11-22T03:20:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2eb63bfa5f8a01107294476e19b8c29fc511b58f",
+      "date": "2009-11-16T23:17:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "dfb7d2976bf350ddf8fa9a86d5797da655636649",
+      "date": "2009-11-16T22:50:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5f8ff724dbd117f4141a256a0b9bb67e3ef783dc",
+      "date": "2009-11-14T00:25:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bb248de36daadbeddaf804d1b9feedd8d1ec1f14",
+      "date": "2009-11-14T00:25:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2d31ad9b8cfc2e10585996f0507908656e4552e8",
+      "date": "2009-11-13T22:26:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "50d4899b86b528076f6b9b3044943d457686d822",
+      "date": "2009-11-13T22:23:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "203b8a9bcc93769f4e4b1bbf71e45dacdc06d47e",
+      "date": "2009-11-11T22:37:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "793037fd5d1d1254b50316cdb7dd25f0e160db4f",
+      "date": "2009-11-05T04:52:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "151ba216df046304e054730428347308dacb1848",
+      "date": "2009-11-05T04:42:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "75d520562f1e8df3ad775dd1af02358c27c59a73",
+      "date": "2009-11-05T04:41:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0a738560326fe8d979cc2b5a61b9b6b6abf8c4ec",
+      "date": "2009-11-05T04:40:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2fc8065b31650cdafd3f616c7e344480a788dbf3",
+      "date": "2009-11-05T04:33:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "387452b3a1171d398dea411d3566329a6d8e87d7",
+      "date": "2009-11-05T04:06:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7cc21b2334e0bcf03dc0fbfa8bef9954c0b8b734",
+      "date": "2009-10-30T23:12:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "023f66756685a9933651993cfc07aa086aa873e3",
+      "date": "2009-10-30T00:02:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8e702992bd05b3161e11f296089445f460aad303",
+      "date": "2009-10-27T19:14:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c9503327d8bdec9676437f1e0bae3cb1d2152ff9",
+      "date": "2009-10-27T18:51:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a0a14a3f25882f7d3871058bba20bf22ed659d7f",
+      "date": "2009-10-25T06:15:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5f4d0cf830cf6ae5a1ab39dd2e5fc7bef54aa964",
+      "date": "2009-10-24T07:09:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "24b02b256c5b922995b46ed333146e3beacb430c",
+      "date": "2009-10-24T07:04:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2e679ac3de59807365c16c73938297f1dfb4bbe3",
+      "date": "2009-10-22T14:35:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8e284eadd91713c480064b1839d6492a911a8fa1",
+      "date": "2009-10-21T05:34:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2e50ee02de3ad2c05af497c1aba5db65e2360d66",
+      "date": "2009-10-21T05:05:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e4eb952727108f4fa8f88e667a722dfd38faaefe",
+      "date": "2009-10-20T19:30:22Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5ec06fcf9e4f039d26eac7aff93c7cfab40ff04f",
+      "date": "2009-10-20T18:42:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d7066e145f02f91d6d1f89396f7d50f5f9d27e6c",
+      "date": "2009-10-20T18:40:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4337664883fae458569a75188e797efe990d24d2",
+      "date": "2009-10-20T18:18:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "06729b0450f657c9ab9492959f85093e98d2578d",
+      "date": "2009-10-20T18:12:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a65b13d8789083a87ce95eff2ebb8e7e1ff9b1b5",
+      "date": "2009-10-20T17:44:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "13029c5a625c28d38e734e7bfaf6eb211a7d22e9",
+      "date": "2009-10-19T17:09:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f98aac28e04539aa7f9cb73d7d753435e5a71896",
+      "date": "2009-10-19T07:34:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "95b2d83ea978e0162f9a353e370650e3e61d93b0",
+      "date": "2009-10-15T15:04:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "30e02511a0ea0719c79be76aac7ae20b081e2470",
+      "date": "2009-10-08T22:27:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f07be2fdaaba41565554f3d68e549ed909fd6a71",
+      "date": "2009-10-06T17:30:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "13c36b3644893814d62601367c1bfa5d250bfcc0",
+      "date": "2009-10-06T17:20:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4bbcf0b6d7f43a1530f861b7acc2523f884c696c",
+      "date": "2009-10-01T05:55:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1c87caf091d330d726cd259ac4cbc46a385bcb9a",
+      "date": "2009-10-01T05:54:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "74e346806d235dff2414af8ffc47d067da7647e5",
+      "date": "2009-10-01T05:51:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e2522ffcaf3a4dce34abe669edc9cdcd1a3f557b",
+      "date": "2009-09-28T04:04:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ac3bb888aebb150ec45eca0ee6bac42431b02c04",
+      "date": "2009-08-25T23:16:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b28ac15cc202142e9cee07f7c95ff54187353e88",
+      "date": "2009-08-25T20:46:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a93e541b74589f455452b40b1dde88bbeafb4c28",
+      "date": "2009-08-25T20:46:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0915795f954cc9f340a1c35ddd7606ea55d5d5de",
+      "date": "2009-08-25T18:49:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "25e96695de2e4d42be3fa66c6c4cf3e46ed3096f",
+      "date": "2009-08-25T18:48:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a8ec9f007de16aea78113917fdd292281ce00f5e",
+      "date": "2009-08-20T17:42:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e254c466d8ed7d3ccd9f508e635d4f5824b2ed77",
+      "date": "2009-08-20T17:38:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5ba022cf66c0f50215e7ac0a3cdf932921fb0d80",
+      "date": "2009-08-20T05:56:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d6d5249745c9f689a1c5c79c9ec9b315897e6375",
+      "date": "2009-08-20T05:56:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a27897c02aff819022b369f024b68df77326d8e4",
+      "date": "2009-08-20T05:48:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "410d260274d1305cfd0d643a3e290845f366af44",
+      "date": "2009-08-20T05:16:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "95a8c2b980e1b600ae54984cdff7432413f184ed",
+      "date": "2009-08-20T05:09:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "18709db641759011279cdfa00bb668b58d487be6",
+      "date": "2009-08-20T05:01:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "edab018acc191a7e2df397da2e00ab5033ecb397",
+      "date": "2009-08-01T04:38:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7e7bf66c6c5d1d457516566f028712896e957be2",
+      "date": "2009-07-31T19:20:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9dc8becc10a60ba7808a904283cac10f3775ac10",
+      "date": "2009-07-31T19:19:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2e42e9f41f48dc962ac088e776a10c0e4535f244",
+      "date": "2009-07-31T19:17:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2e6d68eaf246bc1026c53d48586e970eda367a2b",
+      "date": "2009-07-31T19:16:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c7e36f20ce38a66a8d202a91140c1cdf5f100439",
+      "date": "2009-07-24T03:32:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3f562ef26b22c497d490195738251699fa64ec2c",
+      "date": "2009-07-22T23:53:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "57a9348a23642c065d44e0f0286dc512275797f3",
+      "date": "2009-07-15T04:07:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b859cc4457836b7f248eb972122bfe99767af6b0",
+      "date": "2009-07-15T04:07:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5de60866915a7c6c12539fff40da22f15de4ad97",
+      "date": "2009-07-15T04:06:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "86129c81a9e01ee6a7db6cedb7ec1ec98bbcf034",
+      "date": "2009-07-14T02:12:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c53f392995deb13a956ddd7349e62fdc773a523b",
+      "date": "2009-07-14T02:12:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "debb1df68950e85f76f787ebb31e3aa9d143c449",
+      "date": "2009-07-14T02:11:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a7d09a776ffbf4fae767b668cf90c02476ab7e11",
+      "date": "2009-07-13T19:34:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "65dd23b29b854a76e77764e2eb129776b742d55e",
+      "date": "2009-07-13T15:35:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ec95bc4e0f13603e8131982bbf0642c91db04210",
+      "date": "2009-07-09T07:30:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5e97cf95618563070b9d2e651086cd17d1cfaa92",
+      "date": "2009-07-09T07:26:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a05185e4c2411473aeb9124538cbaf141ed6df02",
+      "date": "2009-07-09T07:26:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f1c6797f4c1720037b9d1f081782d42e68f06a1b",
+      "date": "2009-07-07T05:05:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e58f1e3691ac6cd8927d2c2c1f71d912f68a3353",
+      "date": "2009-07-07T03:37:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "53f86d33d2e49bc69846a11c8df4431aaac11e3a",
+      "date": "2009-07-07T03:35:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "746261e0954fdb41107f2cf47e20d5dc532e1a50",
+      "date": "2009-07-07T03:34:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2b37cebea18b54e9b61a59b08fcbf42bc18dc5a8",
+      "date": "2009-07-06T05:04:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4d6c4fb987680ff575eba4ed768616e7e884c922",
+      "date": "2009-07-06T04:57:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "84c06a609d21c0c5ff07b724e9ca32ab6fb7c4c3",
+      "date": "2009-06-25T02:45:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "66dbfd5399a7c96e4900fb0975762ab4bc097e85",
+      "date": "2009-06-24T06:36:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "86037635c1eb0684fcb5afb7eb57331c4a94b5cf",
+      "date": "2009-06-24T06:34:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f8d4b5422983ba5a7bfe5ae62b5fd49e487d6d97",
+      "date": "2009-06-24T06:25:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6df62aa876dcdc49cb8d57f840e8c8e7833ce6a8",
+      "date": "2009-06-24T06:05:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ecfbb8c5ecec9a96d0ad842301ba0760b023b058",
+      "date": "2009-06-23T22:31:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "20948d0764267151f9a705b7d51c646a7fe1e859",
+      "date": "2009-06-23T06:12:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "39d2bb2974f18029e918474637c195395967410b",
+      "date": "2009-06-23T06:07:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "71db6c7241535f618a7520d8d88ab68a0242c18c",
+      "date": "2009-06-23T06:06:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bcab02a735e8a3e705647aeb64aa24f94190ab42",
+      "date": "2009-06-23T05:53:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "866e58ed553083e079ed5797eb5a6256dd6ce2d3",
+      "date": "2009-06-20T02:36:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7704df682ed1ea67938da480db213ecafad50e96",
+      "date": "2009-06-20T02:33:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "693efa1797f779eb93e6bd0666d7df8b4002d167",
+      "date": "2009-06-20T02:26:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "66f687deb928c9937bd194f547842455c292d461",
+      "date": "2009-06-20T02:25:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "365bdb7982b9e5d6677339effe3609012084e65a",
+      "date": "2009-06-20T02:25:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d0395b4fc788e9259ddb7a48e9f364267a83dc7a",
+      "date": "2009-06-20T01:59:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e395c0119b202ed765e06833ed6f92a5c2c97a0c",
+      "date": "2009-06-20T01:56:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "de19912f018cac955d0c3ca64d88ce67cab75259",
+      "date": "2009-06-20T01:51:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3cc09df8a102bbf8f88c6050c29d764d5fdcd741",
+      "date": "2009-06-18T14:13:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ceec0b517171aeab917bd9f66db66fbbf10d5969",
+      "date": "2009-06-18T07:39:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c9864c9e7ed469a2a54cbee6d1a3ac6bd2ede6d0",
+      "date": "2009-06-18T07:37:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fd45f65d7e73779be7644c584f7e792351db99fc",
+      "date": "2009-06-18T06:11:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d207f2e245f05e2ecf15dcab873d78eae391ab68",
+      "date": "2009-06-18T05:44:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "20e7cdb3fefc756d50116cbc247379bb26a2ced1",
+      "date": "2009-06-18T05:12:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "76bec6d0195f9a668e847a00ea077ce00818f63c",
+      "date": "2009-06-18T05:12:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a8f53040a3c54a6d61c23823cd8cd2d0b01c1053",
+      "date": "2009-06-18T04:57:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3cc58dd8a1cfc5ec49f8f21243cc4ce7f52e40e8",
+      "date": "2009-06-18T04:33:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b30c6f0383fecb14df2b13524a38fdc199fef2c3",
+      "date": "2009-06-17T08:26:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8753c54ba70d6d7b451cbea34e58674dad4ce6be",
+      "date": "2009-06-17T08:21:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b784b7322c822f8d74d624caad67d4a305276efd",
+      "date": "2009-06-17T07:58:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c62b3777b1106984ebec605f2a5fec543144cd9a",
+      "date": "2009-06-17T07:56:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c1535fb2b8748d8da9c8375f3f4f4bd6d1e113b2",
+      "date": "2009-06-10T16:24:22Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6b461a1cac13610735f1aba2d9b972d7318975ee",
+      "date": "2009-06-10T16:17:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e4c0637ee75083b400dff9c380a37f385c272391",
+      "date": "2009-06-10T16:16:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1ded0452b92d20851c9f7072d64aa6dec273552c",
+      "date": "2009-06-10T15:20:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e8681b83934a5b2a24bb907aecb8d4f59ef4e447",
+      "date": "2009-06-08T07:51:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bbead49ea8df6af6c2b0e9d92a020764179437c1",
+      "date": "2009-06-08T07:45:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "dce197a554279c3b7bf2b34c36dcf01d3aded46d",
+      "date": "2009-06-10T15:22:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2e4cc38ab0434c648ce61aacc9a7ed704379cd0e",
+      "date": "2009-06-10T15:20:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e71a6980f76520e4b4a2e597b20b696aad7dbdf3",
+      "date": "2009-06-10T05:00:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "456ea11a96e330218b311fbecdabf20925eb317f",
+      "date": "2009-06-08T07:51:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "28f4255175666602816cc1535f68deea26ce74bc",
+      "date": "2009-06-08T07:45:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "09580d68949cacfb41d629335f568f96b5e2ff6b",
+      "date": "2009-06-18T04:31:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "537a05df33646958aa11004792485238544c262f",
+      "date": "2009-06-17T07:57:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6b2a6bf7dd8a61bd59d27ae637b9c0800b33678d",
+      "date": "2009-06-17T00:14:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "41f7f23f79fe069c62516f86f943f9003c35859a",
+      "date": "2009-06-17T00:13:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2d3160956fd7d2685ac00fd5f6730dea5ad40032",
+      "date": "2009-06-17T00:12:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ef4ce75f500256bbe184087bd010b1a2dd3cf5c9",
+      "date": "2009-06-16T06:38:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e723fa7d73d55327f8e1bec814b7b7bda6084577",
+      "date": "2009-06-15T23:04:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8a46da8ed71b6b0ca2e7892869a6362143e8f102",
+      "date": "2009-06-08T01:10:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "675fff0133630db4ecacc4751642dec4e0c670e7",
+      "date": "2009-06-08T00:52:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "397111523d86e4282d46092bba94fec9b6ebc1c2",
+      "date": "2009-06-08T00:51:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0148aa0e147ffc226ee43a8ddf07a1711eee59c7",
+      "date": "2009-06-08T00:46:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b5e921cf26ed0fb7dc79ec187694394b2c1de8dd",
+      "date": "2009-06-08T00:28:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "28c64295b10529fad14dfbc09d4258bf1c90a267",
+      "date": "2009-06-07T21:41:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "14a99ac910ddcd8cb85caad19a0a58d520fdee69",
+      "date": "2009-06-07T21:34:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c30212648be7c91abc5530180d5c29f57d28e1c7",
+      "date": "2009-06-07T20:32:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2f9a9d68162db51926a81f0957a5736b08c89a89",
+      "date": "2009-06-06T01:20:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ebb2a4060ae4bf591515e1fe29ac66fa5788d1c4",
+      "date": "2009-06-06T01:13:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6351c81584d9a2aac928e77bb5604d79353c69a3",
+      "date": "2009-06-04T18:17:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "291fa727259ecb02eb0331475c158ce27784dc18",
+      "date": "2009-06-04T18:11:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "28109844169bbaaa9ed367361859b9d27de10274",
+      "date": "2009-06-04T17:41:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3cad76f5935df1d9d099f943065a2c9b4bec47fb",
+      "date": "2009-06-04T17:31:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d26d7ec9a80afb79b8fa0bc421d51b3f9cff010f",
+      "date": "2009-06-04T17:08:46Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "65b1f69dc1ab5f325285da6b5a1e11190d60d9cc",
+      "date": "2009-05-31T06:21:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7ecba58f39adcbc94e9ce5e7314b19032203f791",
+      "date": "2009-05-31T06:16:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ba552f964574b10c2e9a4cae935caae9081dc518",
+      "date": "2009-05-31T04:50:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "52eed1b987fb26095039e830caef34c37fb06d64",
+      "date": "2009-05-31T04:42:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f847de8d616c237a1c91547752b32f3dbaada291",
+      "date": "2009-05-30T21:00:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "95c1be238e03c3b4435665f01d04a6685436ae15",
+      "date": "2009-05-30T20:55:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5f8c02ae8ecb1126966f7b85fdfa6bd863b0a675",
+      "date": "2009-05-30T20:55:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1a18af0d5625df921e252fd3a6097ef68010b671",
+      "date": "2009-05-30T07:25:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1fbe362c2466ee2cc28e50735ab0aa625f997e11",
+      "date": "2009-05-30T07:17:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "498abff5a929165c2c24a64efb3adb32bc84f022",
+      "date": "2009-05-30T06:56:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d04a364acef85ac3706dc6237ea58729aead433b",
+      "date": "2009-05-29T04:37:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e6a7993c9c300491bbf73ca4ac0466e9336a1510",
+      "date": "2009-05-26T14:57:46Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "aa89d019acb7eda4cb61f6bda12b6f2eb9849313",
+      "date": "2009-05-26T00:24:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4aadc7d2008fe10f194534d2aa1e4023157bfc1d",
+      "date": "2009-05-26T00:22:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "364d68f80ae60258b05a241b12eb498f731d26ec",
+      "date": "2009-05-26T00:10:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3f9a1f6f2260082eb02bdb5ea072e9ed6086515e",
+      "date": "2009-05-25T21:38:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "47f27135a7c9fdd8de0ab8d0ad950181aac4600a",
+      "date": "2009-05-25T21:09:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9c74c16462afd2478545307d01fb7a602f73309d",
+      "date": "2009-05-25T21:08:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f28b93f5e510201fa9a9892f3d4eeaab7e5b1785",
+      "date": "2009-05-25T21:05:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "92b5449d00d3413b15ba88e826690e03abda6f64",
+      "date": "2009-05-25T20:55:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6e862ecb4c5274b9b2350ee0fe9e990a172e0373",
+      "date": "2009-05-25T20:49:46Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fb418550c85fc17053bb01fab7391248929cde08",
+      "date": "2009-05-25T19:58:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8070e10966e09140ae508b775a74020a1d3a0ab4",
+      "date": "2009-05-23T00:40:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "cd1ca0551ac93367a3e49163cd53644f8ae66b45",
+      "date": "2009-05-22T00:19:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8731a7087871e1f6d76c4263d15d51d7ced6e892",
+      "date": "2009-05-20T17:40:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c97ac448453d0075e218390fcea95915735e8f07",
+      "date": "2009-05-20T14:49:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4dc775e220f28bf5d3c4141a313871ad282e6ea4",
+      "date": "2009-05-20T14:24:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "34858398fd93fcb2c58e6016ca6afdb46bc9313f",
+      "date": "2009-05-20T14:17:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b2d5e3491bf0a3964873b90ad1d19c4b9219bbf7",
+      "date": "2009-05-20T06:32:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d9bd250ef2b1c8ae16450c7967020019f3cd5e7c",
+      "date": "2009-05-20T06:28:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "89af4f926a5583aad6518ad6973777f1d6b30fbe",
+      "date": "2009-05-20T06:25:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4109adebd4b36b46990752e82f483fb063dd4117",
+      "date": "2009-05-20T06:21:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9219d3aa3d656ac26c671174aeef0b30c486dc9c",
+      "date": "2009-05-20T05:43:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "cd842c2234de97d463eaee66e13c0cf1a073a1e5",
+      "date": "2009-05-20T05:33:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "19f8b84e70a189c88725078cb7b768ba3ce49c0d",
+      "date": "2009-05-20T05:29:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ddb5cb96d28dacfef7be78cf8904bd45578fe320",
+      "date": "2009-05-20T05:28:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "935774ca43242e8d04d47272675020065daa4cec",
+      "date": "2009-05-20T04:30:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d55412096750fde798efe1d84e0ad4be9ae0eb4d",
+      "date": "2009-05-19T04:57:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4f69e0ad90ea6e43e87311d1dfe5fe1098543e1e",
+      "date": "2009-05-19T04:56:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "945c466d7382af2485e061c89c91e67668abc276",
+      "date": "2009-05-19T04:56:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "73dd9f3d2fe964afaf9580de8a421fb3a4931b3a",
+      "date": "2009-05-19T04:34:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "63b1bdfc7fbfa708a88fff37a54a2bb7fd92e025",
+      "date": "2009-05-19T04:33:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e29501cc295db91c19e21929a216cca9ad34d9ff",
+      "date": "2009-05-19T04:33:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c1764d90cfc6f2137b3a6ee6d2882b2882a8293f",
+      "date": "2009-05-19T04:33:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "114b4e560e176bc9ddb0cf1eca6ee2cab088c43b",
+      "date": "2009-05-19T04:28:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1bdacd93dc346cbc559f1d4d37a35b0923fd2f2c",
+      "date": "2009-05-19T03:46:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "872e6522d34072e55a5d51f4c547a208d26a4d90",
+      "date": "2009-05-19T03:25:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7b7031004bed090b4deb3787a2525d0ff05adddf",
+      "date": "2009-05-19T02:47:12Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c4d83e7c8f6ddd1cab52d323d1cd0543ce2c76de",
+      "date": "2009-05-19T02:44:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e7a70ff2091f466e82a7eba8630b730de4fec838",
+      "date": "2009-05-19T01:58:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "36c61bdbb210e3d412b17f356134553027759626",
+      "date": "2009-05-19T01:47:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9964a19efe342bc1d9f24a8f039825d94fa22db6",
+      "date": "2009-05-19T01:46:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fe3f03b7671d813b062336ba765f6af05a43c571",
+      "date": "2009-05-19T01:40:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "33464eec2cd937c88c31e3cc1f0b58557fefabbd",
+      "date": "2009-05-19T01:37:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "520f2ede180bca27a1e0bd32aa926fee8b0fb6ad",
+      "date": "2009-05-19T01:34:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e217fa5e47f4a270b6c3b9b783a3dd783550c0be",
+      "date": "2009-05-19T01:26:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0500a0f1158e96d957cbcee65b1fc7454a27ae57",
+      "date": "2009-05-18T20:09:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "63d2db9173338881ac2b095c1a254371cffe9dea",
+      "date": "2009-05-17T19:47:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a3f1ed5c8f7c286d8313769eb640904cbabf5d27",
+      "date": "2009-05-17T19:46:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "21a497c010461c777a1ea87fd60292e911b5e289",
+      "date": "2009-05-17T19:46:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3fa0af4fd6e8cb7ae0327042719d9791f5cdbd4f",
+      "date": "2009-05-17T19:37:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "962241f142ba098b2e8c145efb109c155fc2055a",
+      "date": "2009-05-17T18:20:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2fd7197259a345b2fee4b37e04239a49d0347588",
+      "date": "2009-05-17T18:20:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3d56e354f0fdcbc213c641fc0b0f494d05b2c56c",
+      "date": "2009-05-17T18:20:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "46b16223ea9ee181295167600224178576a09330",
+      "date": "2009-05-17T18:19:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7a5faf7f7121294fbf5141ed864202361865e863",
+      "date": "2009-05-17T18:14:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "af5e50bbcc7ebed825a8c58f34111e854f40d402",
+      "date": "2009-05-17T17:41:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0909effacfa8b2b9cc1ccb55b57e350bd1e72f2c",
+      "date": "2009-05-17T17:26:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ce61879b4a3f6e997bdf77105278814a375f6514",
+      "date": "2009-05-17T07:12:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "77a064b0624625b692975be00efada7df889c94b",
+      "date": "2009-05-15T19:33:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a17bf160c11131de284d27e90c18b53648c3b3a1",
+      "date": "2009-05-15T19:11:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "926eabb99f6f07d179606b5cd38602a9af4c98ef",
+      "date": "2009-05-15T05:42:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4459338375de88c6f460e827966c45019958b041",
+      "date": "2009-05-15T05:27:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b94fbb48f6e8ca21f57f18aae1b7f788c00122cc",
+      "date": "2009-05-14T16:51:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6a55e38c5d576be9cac80875c4505a81472ca8a9",
+      "date": "2009-05-14T16:05:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "dbc3c4dca4bfa594a26c956eb05da3feee850cae",
+      "date": "2009-05-14T15:55:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3e5cbdd57af406a4e4f2b6ca550167cb513a981d",
+      "date": "2009-05-14T15:32:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c508354197f013a301db41a4b59541d27d9308c6",
+      "date": "2009-05-14T14:59:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6e281bd083d54d68fc57a0405bbd7d37f92b8fd6",
+      "date": "2009-05-14T07:59:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "cd3cd19e47c6dc02d0407f032b9801d2493969b0",
+      "date": "2009-05-14T07:54:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9a106da96a0a0fa3fe47c2e97caa42947544a4d6",
+      "date": "2009-05-14T07:51:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ee95828b593fcc08a499c47fe61af6174f5469f8",
+      "date": "2009-05-14T07:51:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a73e7199e4e157f348097267a8574afab35f5604",
+      "date": "2009-05-14T07:23:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0c3d258fdc4be15a9e55814e01a2c95653046816",
+      "date": "2009-05-12T07:25:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fc70672939e01b09acc267ed2f69256d212f62ff",
+      "date": "2009-05-12T07:11:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8ac6ef2166a2dc8bdd81acb54f61d11a6989054d",
+      "date": "2009-05-12T07:03:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "77fe4efe5d2bdacff3c672e8535b993666d9e6a4",
+      "date": "2009-05-12T07:02:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "dba7903b6c4dde525321a55d7fbdaee6917e9ea8",
+      "date": "2009-05-12T07:01:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a7984f05df3dcf03161b429393940dc8cfc51b79",
+      "date": "2009-05-12T06:57:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0708421cc238d4408e555e707f79850c998a797e",
+      "date": "2009-05-12T06:12:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ec86a3d439eba2aea89ddfc22ea6166a8a43c848",
+      "date": "2009-05-12T06:10:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a9896720c84e1369e603d3af3876aaea1a4f0392",
+      "date": "2009-05-11T18:22:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "38638587c911a6a587dc2022bf3fe3ae0c0b5a94",
+      "date": "2009-05-10T06:59:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5376a59ecb3142691cf8c0847fbde0dc67dd50da",
+      "date": "2009-05-08T16:03:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "936236e7dda22353239496ab8106fc0c051ae591",
+      "date": "2009-05-08T16:03:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0dc352e24ebe5fa6e1abd792fcdadc6ef5c7c4cd",
+      "date": "2009-05-08T16:00:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ee0b1e38d2a98ff3b3bb15a4944c2520687ddac9",
+      "date": "2009-05-08T15:57:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f64843c85331c18a4b3bde2e2e4f568e9f9af287",
+      "date": "2009-05-08T04:40:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7ada38d55349f9bcd1ecd3d99d253887408abfc1",
+      "date": "2009-05-08T04:18:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6dc2a357513c33394eb88d93276388197f6c55cd",
+      "date": "2009-05-08T03:55:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "505446c4affe4521a853d912f44a014148a56ab4",
+      "date": "2009-05-07T23:49:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e70b80c6c7bfba7057fa281dda42eb4848bf4028",
+      "date": "2009-05-07T05:53:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "80d067e2b6282a00cfd9bb615a0002eb22b687aa",
+      "date": "2009-05-07T05:28:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "db51718a0ce573ebd2f7b932cab7f2c73df8e862",
+      "date": "2009-05-07T05:25:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a2d65494c98d8c53d58dc154ae7e55a57f227104",
+      "date": "2009-05-07T05:17:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d6d3bdd93d8302f53c3d5b1337d92797526195a9",
+      "date": "2009-05-07T00:18:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5c3f403349ec44d3482e46acc8f21aeae010c4bb",
+      "date": "2009-05-06T23:12:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1a1b034547607c869c7bae54254770d8796c1f48",
+      "date": "2009-05-06T05:13:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e529fce122ba0ac43346d4b565611fe1ee86dd7e",
+      "date": "2009-05-06T05:13:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a41e6384af51b7626c9f9970c4d48d2d1b66475f",
+      "date": "2009-05-06T04:38:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c91b5639c3c09d433e8e73bdb215e9d5f75c402a",
+      "date": "2009-05-06T04:36:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f417a46a3a0a927665bddbd9d1b1b778bab81447",
+      "date": "2009-05-03T07:19:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "addfceb1201aa36fe096eb20f6f78e914c23bbf0",
+      "date": "2009-05-03T03:28:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1a0cc2acccde43b1a51fe51c2298584bef7683dd",
+      "date": "2009-05-03T03:34:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3f5859cf961835f01f178ca61f41c4e5b1fa42f8",
+      "date": "2009-05-03T03:31:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "448f779bd5dbcb1af8f2a76c13f918dedf9ee49e",
+      "date": "2009-05-03T03:31:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fc9ba13489054ef4b0ed0d48b69234cbee8c02b6",
+      "date": "2009-05-01T00:02:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a6413ba5929b945a1d614b2ba601d21ce52d848c",
+      "date": "2009-04-30T22:46:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6ee73b20f5bffee704f73c99ecbb7b820336f2c1",
+      "date": "2009-04-30T22:43:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "45aeb889600660e2d37ee2381ec49c2c90831e79",
+      "date": "2009-04-30T20:17:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1a514f02e718b7b7e55fa2a9b5944c707b3cfd1b",
+      "date": "2009-04-30T20:17:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ca590c2d9d76b28d02d151d3ad983d1fbf6aa56a",
+      "date": "2009-04-30T20:17:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f279246f2d38c5d2e1266974d100a0055feb0390",
+      "date": "2009-04-30T17:56:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9e9f668234c0eb8adcda6eda4941428d19210bd4",
+      "date": "2009-04-30T16:20:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1fd690e4b6ec426d1fbd69ffe6fef4817bf59203",
+      "date": "2009-04-30T05:56:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0cfa49f0a2eb367ddfc17eb7e5b767126ff9f094",
+      "date": "2009-04-30T05:55:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8c0d141458e4bb4614c114df10436843e6e9b197",
+      "date": "2009-04-30T04:14:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "435bc3cde7ec68e23f5da18450893ed16c849a39",
+      "date": "2009-04-30T04:13:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fd6f623c3156a605fd36aa9dc9304a3058e0c49f",
+      "date": "2009-04-30T04:12:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c17f28fbe38db58caa3801fc42855550f4c7cfa9",
+      "date": "2009-04-30T04:11:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "df710264b86ef7adbe2fc6acb2d181573486b248",
+      "date": "2009-04-30T03:49:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "caac45506725fc3c918cd81295a47b6c17996ff8",
+      "date": "2009-04-30T02:34:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ef77ffca912f4967f8b09eaeb8d89ace65c24027",
+      "date": "2009-04-30T00:30:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "99963ad2eb1ff025bf4ec311d901f5faaa6d030d",
+      "date": "2009-04-30T00:23:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3956701a04da900703bae6601e2582081e9b4ddc",
+      "date": "2009-04-28T00:52:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "067e97be0d40743bb230e33d92535fe9fbf1f107",
+      "date": "2009-04-28T00:48:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "cc3b174ae625d81145e6cc53d08c34f3cc1982e3",
+      "date": "2009-04-26T19:49:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "92d0d3f0efce4a088f9ef53343a9d3041bc0bc3b",
+      "date": "2009-04-26T19:49:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c222bfeff221c8b33ecf67ecda125dd651640776",
+      "date": "2009-04-26T19:47:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b1ccc1c2d454b028aac1c9d60df0cbdd4935dfdf",
+      "date": "2009-04-26T16:57:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "3b58b4cd679be7a2d14f991b6b2b57c857db34a0",
+      "date": "2009-04-25T20:58:12Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f037ba187fc2ae2d8c26a8cb5a35aa7514ce63fc",
+      "date": "2009-04-25T20:57:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c55dedd8f279e69adda88f01ac127cca8647310c",
+      "date": "2009-04-24T23:37:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "503a51d2dec58f6521f1cb8a760b3cdd1e5e3f9a",
+      "date": "2009-04-24T23:37:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "43eb547f324385f6574ebfd399a2837f2d31ff52",
+      "date": "2009-04-24T23:05:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "57b9f8d8061a59862f0a47d4cf71fbfa02dcce54",
+      "date": "2009-04-24T22:55:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ed5c661be18ac656d2df4f9085e90f3a8fbd6640",
+      "date": "2009-04-24T22:55:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b208be5e44f1591d429e28b4bbb605f0dacac256",
+      "date": "2009-04-24T18:28:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "358789a1e96ec7f525e25f84e6340911cc32b3a8",
+      "date": "2009-04-24T18:27:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "87d03fc2c323f5a5c7e308641b8e4ed7eac1d2bd",
+      "date": "2009-04-24T17:37:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8773bbaac372d0040522596b2741494c3572b568",
+      "date": "2009-04-24T16:45:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5ec2bb3051cf2a5d3247d15feba1d9149c13a5a0",
+      "date": "2009-04-24T16:36:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6011cf289eacf7a10a4b21aa0593184b579965c8",
+      "date": "2009-04-24T16:35:26Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a5cd599df8104456a58c1a68462e50d892a61acb",
+      "date": "2009-04-24T07:10:12Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "14d9deee0428b8902b2f2c601042ede223d1dc84",
+      "date": "2009-04-24T07:09:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4b0027d5cab63be52550023d0e8f397b3574ad21",
+      "date": "2009-04-24T06:55:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b522b935b892774ced4d592148a2058619a60995",
+      "date": "2009-04-24T06:38:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "cdf7d69675136b0aba438ff46a0c8f99be036edc",
+      "date": "2009-04-24T06:38:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1daf690068584b4993e089320a7ee87612f3883f",
+      "date": "2009-04-24T06:37:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "d175c9c58a23162222956def2d372e74a380d9d3",
+      "date": "2009-04-24T06:27:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f95bd95a36da8fce9ff5bb18acdb2e0d95b6f177",
+      "date": "2009-04-24T05:56:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "20d56394f41792093764f223f74d2d309f2da8ae",
+      "date": "2009-04-24T05:52:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1867ddee9430a8f482629606b74d4ac1adc4ebbe",
+      "date": "2009-04-24T05:51:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c0887904a376d6d05749e10076ef5dec7af65a5f",
+      "date": "2009-04-24T05:49:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1dbc4843ae04e292ef711175418c730b33868c2a",
+      "date": "2009-04-24T05:43:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7db057a07d27f9017bb9fe91313b3cee822d950a",
+      "date": "2009-04-24T04:21:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "31e37c0ad2d6dee4567e6710cf459b1432af6586",
+      "date": "2009-04-24T04:01:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "fff7e7c02f65ef36eadede3e8b219d28d7538b1d",
+      "date": "2009-04-24T00:46:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "edc63ef77d6769aa678b79a1674689d946353a21",
+      "date": "2009-04-24T00:33:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "665e27ba03559dbd4ee550227544644a8dc4ee09",
+      "date": "2009-04-24T00:32:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7dcefc7efde73b3e9921a9d967ca6e62a40ca80c",
+      "date": "2009-04-24T00:23:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0089d76cacb7750bf5928bfc90918b19ab698d5a",
+      "date": "2009-04-23T22:22:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "35405807d024105bdba6f80b79cf6b55dc3ccf95",
+      "date": "2009-04-23T20:17:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "f500a83a7a41279dd6de0a72e97896ef6a79f5b7",
+      "date": "2009-04-23T20:15:28Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "82fdb50a6adbf9da3d1c76a174d5ac18ecee63b0",
+      "date": "2009-04-23T20:14:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8d1f7147ac2501aa8291665d84bf9c16f08e951c",
+      "date": "2009-04-23T20:12:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8e2652b24087bf20b6419f782d5096707ef458a9",
+      "date": "2009-04-23T19:03:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "75b3c6e6369b5a73fdcc84cb35b4373c481de9fa",
+      "date": "2009-04-23T19:02:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "7f9e5f726f30bdda3726da373e7868c2f0517287",
+      "date": "2009-04-23T02:21:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "858038cd62094be5f2bc11b43c3053f8e1147c91",
+      "date": "2009-04-23T01:56:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6e8a1dcee39933b0f887ed9b709c55ca05440842",
+      "date": "2009-04-23T01:46:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6a7472530d1a3018480e6d1e9ad9cb41417bc034",
+      "date": "2009-04-23T00:05:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "e593d173dfd162ce217bf17a2a68eef65ec70ea5",
+      "date": "2009-04-22T23:16:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b8c9269addd332e624b46bbaa665a50cf2da5032",
+      "date": "2009-04-22T21:14:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "ea750e377d8abc8be6182afbb1a32634dd7629ab",
+      "date": "2009-04-22T16:03:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "166450380f90c63393c5944acff9bbf365d5f1ef",
+      "date": "2009-04-22T16:02:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "1052a057b795aa65f7c6b89b53beefb27255ffd7",
+      "date": "2009-04-22T16:02:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "c6384bdf6476b3d9dfcd4373c64aea1a1354ffad",
+      "date": "2009-04-22T07:43:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "150d41c8c3c51df82e2b37361a7e6cce9d971e7d",
+      "date": "2009-04-22T07:36:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "dd0a23ced574450a5b0902a1d792bacc6f4e7db1",
+      "date": "2009-04-22T07:27:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bb4b388ec2090e55330e9fe5f1b491128b15d824",
+      "date": "2009-04-22T02:08:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "364f7feffa5e94ebd34768e61254a6b2bf489723",
+      "date": "2009-04-22T00:23:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "95967744fa2c90e4d3cfe9e4f13f4bade3435f76",
+      "date": "2009-04-21T23:44:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "b39f36360306fa4480017fed840b3c985667ae5a",
+      "date": "2009-04-21T23:40:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "cbb1b854111418eb99965bb7ffdef89c95800e49",
+      "date": "2009-04-21T15:54:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "5c21bb0b139d5edf396eab37ea07b759303f2f6b",
+      "date": "2009-04-21T09:52:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "47f4310ad0354e7831bec216b4c9a63416b77b6c",
+      "date": "2009-04-21T07:58:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "840827b3fdfcf5314bcf2f5213b780d5f69a14ed",
+      "date": "2009-04-21T03:52:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0393b5f489d4d6d72fc869fe6d452ff0c6da20a5",
+      "date": "2009-04-21T03:40:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "4ce51f702019f4d2dd66724191d1df5f63e1c23d",
+      "date": "2009-04-21T01:38:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "236105deaf89e9cfe0938b21af80a5c6ca030e7f",
+      "date": "2009-04-21T01:14:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "103f0a103a2fa56fe814a24afbf9490e423ed426",
+      "date": "2009-04-21T01:13:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "2859e5edd162afd3110cbba3bb128fddd71b6052",
+      "date": "2009-04-21T01:13:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9f6ec766d3f857138388ee6d512f02ba2d41718b",
+      "date": "2009-04-20T18:18:31Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "9e7ef03cab830913b3f2025d4c5c15754e221db4",
+      "date": "2009-04-20T17:59:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "58fb4982fe86c2fadcdabeafab91ac4361234cb3",
+      "date": "2009-04-20T17:58:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0d1a91546b03f37c570f1da0de5f3e01cc84ba6b",
+      "date": "2009-04-20T17:56:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "80099cc970f97586ccddd67ec9c64b91ab0ccb63",
+      "date": "2009-04-20T07:40:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "0ed7c078e4fbdb03e243b8fd8a17fb9a756cba74",
+      "date": "2009-04-20T07:29:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bf9b61f367d6fcb419e93f1c22a9ed17d08da772",
+      "date": "2009-04-20T07:12:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "926fbe79e8c3c794ba5ba22d490e085e60cb0de1",
+      "date": "2009-04-20T07:10:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bdb626e9f16e4b98757d34a4013b03c2d3b1f9b5",
+      "date": "2009-04-20T00:11:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "76d02cc53f1814eee018b2da777fadfa88b7fd21",
+      "date": "2009-04-19T22:33:28Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "8fe7f0fc89a4c300f202ad1caf6d88ba5a499308",
+      "date": "2009-04-19T21:37:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "bae51ad3de3502d0ae5ab23e7c66130c2c14c497",
+      "date": "2009-04-19T19:13:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "26825167505bfe8c0667cf69b700e37198615d7c",
+      "date": "2009-04-19T18:38:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "dff47c7c28d21a9d1ae45e3c772837c7f787319c",
+      "date": "2009-04-19T16:18:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "a64826718656160b29528ad1a0ecee469517f0dc",
+      "date": "2009-04-19T16:17:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 130569005,
+      "date": "2015-08-13T08:00:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 13572,
+      "date": "2009-05-29T23:06:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 40280,
+      "date": "2009-08-20T17:46:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 40282,
+      "date": "2009-08-20T17:50:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 40284,
+      "date": "2009-08-20T17:53:28Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 40297,
+      "date": "2009-08-20T18:08:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 40763,
+      "date": "2009-08-21T19:48:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 42006,
+      "date": "2009-08-25T17:42:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 42040,
+      "date": "2009-08-25T18:54:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 42041,
+      "date": "2009-08-25T18:54:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 42802,
+      "date": "2009-08-28T00:50:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 50721,
+      "date": "2009-09-21T18:23:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56105,
+      "date": "2009-10-05T19:09:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56122,
+      "date": "2009-10-05T19:43:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56135,
+      "date": "2009-10-05T20:09:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56214,
+      "date": "2009-10-05T22:27:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56236,
+      "date": "2009-10-05T23:22:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56340,
+      "date": "2009-10-06T07:38:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56346,
+      "date": "2009-10-06T07:53:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56494,
+      "date": "2009-10-06T15:18:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56552,
+      "date": "2009-10-06T17:32:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56555,
+      "date": "2009-10-06T17:38:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 56688,
+      "date": "2009-10-06T23:23:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 57672,
+      "date": "2009-10-08T18:42:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 57702,
+      "date": "2009-10-08T19:47:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 62726,
+      "date": "2009-10-20T01:22:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 68982,
+      "date": "2009-11-01T01:10:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 68983,
+      "date": "2009-11-01T01:11:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 68984,
+      "date": "2009-11-01T01:12:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 69117,
+      "date": "2009-11-01T17:56:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 69169,
+      "date": "2009-11-01T22:47:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 85461,
+      "date": "2009-12-04T18:03:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 87610,
+      "date": "2009-12-08T19:43:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 93311,
+      "date": "2009-12-18T07:14:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 93313,
+      "date": "2009-12-18T07:14:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 93322,
+      "date": "2009-12-18T08:11:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 119892,
+      "date": "2010-01-27T23:32:27Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 119897,
+      "date": "2010-01-27T23:41:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 119898,
+      "date": "2010-01-27T23:43:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 120094,
+      "date": "2010-01-28T04:56:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 120095,
+      "date": "2010-01-28T04:57:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 120485,
+      "date": "2010-01-28T17:26:57Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 120573,
+      "date": "2010-01-28T18:46:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 121759,
+      "date": "2010-01-30T10:02:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 122294,
+      "date": "2010-01-31T06:53:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 137497,
+      "date": "2010-02-17T16:32:59Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 137586,
+      "date": "2010-02-17T17:59:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 137595,
+      "date": "2010-02-17T18:23:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 137608,
+      "date": "2010-02-17T18:39:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 140368,
+      "date": "2010-02-20T19:06:34Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 141745,
+      "date": "2010-02-22T17:58:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 142263,
+      "date": "2010-02-23T02:45:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 149100,
+      "date": "2010-03-02T23:44:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 149168,
+      "date": "2010-03-03T01:52:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 149169,
+      "date": "2010-03-03T01:53:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 149849,
+      "date": "2010-03-03T20:09:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 156979,
+      "date": "2010-03-12T04:34:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 161614,
+      "date": "2010-03-17T18:04:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 162833,
+      "date": "2010-03-18T20:08:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 162835,
+      "date": "2010-03-18T20:11:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 163672,
+      "date": "2010-03-19T18:53:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 163759,
+      "date": "2010-03-19T20:44:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 163931,
+      "date": "2010-03-20T00:57:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 164315,
+      "date": "2010-03-20T16:26:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 166637,
+      "date": "2010-03-23T05:02:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 166639,
+      "date": "2010-03-23T05:04:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 167148,
+      "date": "2010-03-23T17:11:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 169159,
+      "date": "2010-03-25T14:54:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 169161,
+      "date": "2010-03-25T14:59:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 169354,
+      "date": "2010-03-25T17:55:28Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 169356,
+      "date": "2010-03-25T17:57:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 169377,
+      "date": "2010-03-25T18:12:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 169425,
+      "date": "2010-03-25T18:56:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 178507,
+      "date": "2010-04-05T21:43:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 185289,
+      "date": "2010-04-12T21:34:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 221526,
+      "date": "2010-04-27T00:34:26Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 221527,
+      "date": "2010-04-27T00:34:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 221530,
+      "date": "2010-04-27T00:36:39Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 221531,
+      "date": "2010-04-27T00:38:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 222285,
+      "date": "2010-04-27T17:11:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 260914,
+      "date": "2010-06-02T04:04:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 261418,
+      "date": "2010-06-02T14:27:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 263233,
+      "date": "2010-06-03T20:19:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 284401,
+      "date": "2010-06-22T19:03:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 289100,
+      "date": "2010-06-26T17:46:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 290517,
+      "date": "2010-06-28T12:44:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 291654,
+      "date": "2010-06-29T02:09:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 293773,
+      "date": "2010-06-30T15:48:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 293779,
+      "date": "2010-06-30T15:53:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 295996,
+      "date": "2010-07-01T21:57:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 319691,
+      "date": "2010-07-20T15:49:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 360467,
+      "date": "2010-08-18T16:11:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 360772,
+      "date": "2010-08-18T19:17:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 363873,
+      "date": "2010-08-20T16:03:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 386341,
+      "date": "2010-09-03T03:20:23Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 386344,
+      "date": "2010-09-03T03:21:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 386349,
+      "date": "2010-09-03T03:21:56Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 402545,
+      "date": "2010-09-12T19:09:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 404378,
+      "date": "2010-09-13T18:12:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 428547,
+      "date": "2010-09-24T21:36:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 590805,
+      "date": "2010-12-06T07:22:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 669827,
+      "date": "2011-01-11T18:48:48Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 692215,
+      "date": "2011-01-20T07:46:45Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 692239,
+      "date": "2011-01-20T08:03:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 715459,
+      "date": "2011-01-27T17:32:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 763950,
+      "date": "2011-02-11T19:51:09Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 768451,
+      "date": "2011-02-13T21:28:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 768470,
+      "date": "2011-02-13T21:33:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 794511,
+      "date": "2011-02-21T20:04:37Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 795689,
+      "date": "2011-02-22T02:31:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 810181,
+      "date": "2011-02-25T17:10:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 823904,
+      "date": "2011-03-01T21:04:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 832805,
+      "date": "2011-03-04T01:49:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 832958,
+      "date": "2011-03-04T02:45:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 947399,
+      "date": "2011-04-01T22:20:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1053611,
+      "date": "2011-04-25T16:38:43Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1107927,
+      "date": "2011-05-05T20:16:12Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1281640,
+      "date": "2011-06-02T16:23:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1281816,
+      "date": "2011-06-02T16:58:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1307268,
+      "date": "2011-06-06T05:30:28Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1312627,
+      "date": "2011-06-06T23:25:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1324119,
+      "date": "2011-06-08T02:31:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1324772,
+      "date": "2011-06-08T06:15:12Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1507225,
+      "date": "2011-07-05T20:46:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1688886,
+      "date": "2011-07-30T17:19:12Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1715041,
+      "date": "2011-08-03T02:26:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1749571,
+      "date": "2011-08-07T19:21:04Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1751512,
+      "date": "2011-08-08T04:12:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1785171,
+      "date": "2011-08-11T19:36:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1816469,
+      "date": "2011-08-16T14:02:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1816488,
+      "date": "2011-08-16T14:05:01Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1816572,
+      "date": "2011-08-16T14:14:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1816597,
+      "date": "2011-08-16T14:17:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1816665,
+      "date": "2011-08-16T14:23:12Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1817395,
+      "date": "2011-08-16T15:34:18Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1882073,
+      "date": "2011-08-23T17:39:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 1958288,
+      "date": "2011-08-31T15:16:54Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089496,
+      "date": "2011-09-14T04:00:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089501,
+      "date": "2011-09-14T04:01:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089514,
+      "date": "2011-09-14T04:05:16Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089517,
+      "date": "2011-09-14T04:06:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089602,
+      "date": "2011-09-14T04:25:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089607,
+      "date": "2011-09-14T04:27:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089608,
+      "date": "2011-09-14T04:27:35Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089851,
+      "date": "2011-09-14T05:24:46Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089857,
+      "date": "2011-09-14T05:25:49Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089862,
+      "date": "2011-09-14T05:27:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2089865,
+      "date": "2011-09-14T05:27:50Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2110090,
+      "date": "2011-09-15T22:51:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2110565,
+      "date": "2011-09-16T00:01:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2110605,
+      "date": "2011-09-16T00:08:02Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2110851,
+      "date": "2011-09-16T00:53:20Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2144940,
+      "date": "2011-09-20T13:22:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2166241,
+      "date": "2011-09-22T11:11:40Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2197679,
+      "date": "2011-09-26T12:39:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2361474,
+      "date": "2011-10-11T13:47:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2361503,
+      "date": "2011-10-11T13:49:46Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2461710,
+      "date": "2011-10-19T21:49:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2663571,
+      "date": "2011-11-08T03:57:51Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2663743,
+      "date": "2011-11-08T04:33:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2687344,
+      "date": "2011-11-09T21:08:55Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2687383,
+      "date": "2011-11-09T21:11:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2687639,
+      "date": "2011-11-09T21:27:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2690301,
+      "date": "2011-11-10T01:20:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 2734317,
+      "date": "2011-11-14T18:24:32Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3120857,
+      "date": "2011-12-13T09:36:10Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3128077,
+      "date": "2011-12-13T19:26:26Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3128614,
+      "date": "2011-12-13T19:57:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3128624,
+      "date": "2011-12-13T19:57:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3148499,
+      "date": "2011-12-14T20:29:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3970683,
+      "date": "2012-02-14T22:06:33Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3975461,
+      "date": "2012-02-15T06:01:58Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 3975479,
+      "date": "2012-02-15T06:04:00Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 4304831,
+      "date": "2012-03-03T21:34:08Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 4441595,
+      "date": "2012-03-11T19:54:44Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 5443031,
+      "date": "2012-05-01T17:11:14Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 5470220,
+      "date": "2012-05-02T19:34:05Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 5470825,
+      "date": "2012-05-02T20:02:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 9992096,
+      "date": "2012-11-01T19:16:26Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 10384473,
+      "date": "2012-11-14T21:04:36Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 11383978,
+      "date": "2012-12-14T17:14:52Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 12804608,
+      "date": "2013-01-28T21:04:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 13206814,
+      "date": "2013-02-06T21:41:11Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 13322097,
+      "date": "2013-02-09T00:17:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 13364960,
+      "date": "2013-02-11T00:37:13Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 13365317,
+      "date": "2013-02-11T01:03:38Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 13790325,
+      "date": "2013-02-19T18:45:30Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 15018965,
+      "date": "2013-03-17T08:01:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 15019103,
+      "date": "2013-03-17T08:14:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 26183655,
+      "date": "2013-10-11T23:50:07Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 27743745,
+      "date": "2013-11-05T02:50:47Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 27803435,
+      "date": "2013-11-05T19:21:03Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 27942098,
+      "date": "2013-11-07T07:07:42Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 27991237,
+      "date": "2013-11-07T18:12:41Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 30863182,
+      "date": "2013-12-18T17:42:53Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 32145154,
+      "date": "2014-01-13T04:37:28Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 43861659,
+      "date": "2014-05-22T08:35:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 44681492,
+      "date": "2014-05-30T18:08:06Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 45013728,
+      "date": "2014-06-03T20:08:19Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 46691286,
+      "date": "2014-06-20T15:27:17Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 46834438,
+      "date": "2014-06-23T11:51:29Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 66535631,
+      "date": "2014-12-10T22:23:21Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 72910875,
+      "date": "2015-02-04T18:33:24Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 72924670,
+      "date": "2015-02-04T19:47:15Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "tmm1/http_parser.rb",
+      "type": "pr",
+      "id": 1,
+      "date": "2010-10-21T15:33:25Z"
+    },
+    {
+      "dev_id": "brianmario",
+      "repo": "brianmario/yajl-ruby",
+      "type": "issue",
+      "id": 1,
+      "date": "2009-05-21T19:31:50Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "10dd2edf301fa8d1639cab7ed1c152c659866d51",
+      "date": "2014-08-25T08:27:10Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "ef98c2388f057459a93d59d464faf1a87853af82",
+      "date": "2014-06-23T07:28:11Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "51392c86649e54b0d706a961f72ad977e970b636",
+      "date": "2014-06-23T07:25:59Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "81307eaa1489f56d108f894229030b3f51120321",
+      "date": "2014-10-07T11:22:47Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "14d9ed468d0b3b8a63350beeae0068db3ae48155",
+      "date": "2014-06-23T08:09:13Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "commit",
+      "id": "6db3c802be789f7c6944a98d87ae83df5c6319e3",
+      "date": "2014-06-23T08:07:01Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 30282836,
+      "date": "2013-12-11T00:22:42Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 34976792,
+      "date": "2014-02-13T13:19:29Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 53239362,
+      "date": "2014-08-25T08:27:06Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 30863648,
+      "date": "2013-12-18T17:48:08Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 35774478,
+      "date": "2014-02-21T21:16:48Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 68744434,
+      "date": "2015-01-05T17:39:16Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 72976130,
+      "date": "2015-02-05T01:14:03Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "pr",
+      "id": 147,
+      "date": "2014-10-07T11:23:32Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "pr",
+      "id": 141,
+      "date": "2014-06-23T08:00:07Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "pr",
+      "id": 128,
+      "date": "2013-12-18T11:31:34Z"
+    },
+    {
+      "dev_id": "sferik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "issue",
+      "id": 32,
+      "date": "2013-12-01T13:27:23Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "commit",
+      "id": "45e212f3df542e15658f6aeb7c02796ef04a3049",
+      "date": "2011-10-01T00:56:11Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1048970,
+      "date": "2011-04-24T01:21:41Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1119424,
+      "date": "2011-05-08T16:11:50Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1120611,
+      "date": "2011-05-08T23:30:26Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1720418,
+      "date": "2011-08-03T18:29:09Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1920642,
+      "date": "2011-08-27T17:46:34Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1921537,
+      "date": "2011-08-27T21:26:06Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1921538,
+      "date": "2011-08-27T21:26:31Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 1921544,
+      "date": "2011-08-27T21:27:29Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 5155834,
+      "date": "2012-04-16T16:08:14Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 6028713,
+      "date": "2012-05-31T06:11:02Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 6028766,
+      "date": "2012-05-31T06:16:15Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 6028925,
+      "date": "2012-05-31T06:32:17Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "com",
+      "id": 6156212,
+      "date": "2012-06-06T16:55:54Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 669539,
+      "date": "2011-01-11T16:56:23Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 4440034,
+      "date": "2012-03-11T16:24:47Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 4444039,
+      "date": "2012-03-12T01:05:00Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "com",
+      "id": 12030874,
+      "date": "2013-01-09T04:10:06Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "pr",
+      "id": 10,
+      "date": "2011-10-01T01:09:16Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "issue",
+      "id": 7,
+      "date": "2011-08-27T17:39:51Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "tmm1/http_parser.rb",
+      "type": "issue",
+      "id": 5,
+      "date": "2011-04-10T22:10:28Z"
+    },
+    {
+      "dev_id": "igrigorik",
+      "repo": "brianmario/yajl-ruby",
+      "type": "issue",
+      "id": 98,
+      "date": "2012-03-03T21:17:58Z"
+    }
+  ]
+}

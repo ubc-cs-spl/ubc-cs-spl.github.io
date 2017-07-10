@@ -1,0 +1,5444 @@
+{
+  "user_repo": "dicom/ruby-dicom",
+  "dep_repo": "minimagick/minimagick",
+  "dep_date": "2011-04-28 21:12:52 UTC",
+  "dep_commit_id": "5d7e3bc05b1687988e68f82cca22d4c8cd5212b8",
+  "social_date": "2011-04-12 19:40:35 UTC",
+  "devs": [
+    "dicom"
+  ],
+  "interactions": [
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6377c008029b4cec150e44f014378d5bf2dd4e29",
+      "date": "2015-09-28T07:47:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1349de196574f39bb86e4fc67027c7a86c8c36e7",
+      "date": "2015-02-23T08:33:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b3ee0c5f85b59e35792e029e3db9569533cc65e7",
+      "date": "2015-02-23T08:31:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3e3b758f2aaa1f01af990d12139fed2f91ec3e5c",
+      "date": "2014-07-04T13:54:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1ef643391ca15f714d89070f749cc6dddebc080f",
+      "date": "2014-06-20T11:04:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bd6c1d52fa59b27da268e3a239bd63a58ca2ddd0",
+      "date": "2014-06-20T11:04:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6be881b4e18952477b32bba81698fa6191edba07",
+      "date": "2014-06-18T13:42:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f8a1e4d6141cd2be99ac7e5c69db3d6176c3c602",
+      "date": "2014-06-18T12:55:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "efee85a93f47d03282820d4823754977fe3181b8",
+      "date": "2014-06-18T12:51:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d2155a25a4842f4126b370ead347a011bbc79838",
+      "date": "2014-06-18T12:51:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "86b495f8154318e89bf29445169689bc61d12e57",
+      "date": "2014-06-17T09:04:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bffee498ccde14093704dc42c32ef4a09ae6e74c",
+      "date": "2014-06-17T07:54:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d2102921ffaa69fbd6ebf270d25751379c62fa0a",
+      "date": "2014-06-16T11:42:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8af6f3efa1329e2d9a355be73a5ebc427fda682a",
+      "date": "2014-06-13T13:13:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "96749839a9b9c4e23323deff067b8968d25ad637",
+      "date": "2014-06-03T13:30:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "257ebffdd640f8d9838df827f79867ddb563de36",
+      "date": "2014-03-05T20:24:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b892f8fd0b6841e2978f3a7f736f73511c1486d2",
+      "date": "2014-01-29T07:09:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8dbda1d53a9bf5b7132ad91103649a7d7ebe6ed7",
+      "date": "2014-01-20T09:45:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3b8eea9037d9afe63d2740bde1cb8b743b95d310",
+      "date": "2014-01-20T09:30:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "691a5e8e6c120d43a53d8c4156e64b080408163f",
+      "date": "2014-01-20T09:11:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "573214041f7c43514c6205c8b0919ceb8062e614",
+      "date": "2014-01-15T11:17:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "be73a349e2f73b827050fb859f03b00abc025a55",
+      "date": "2014-01-10T14:43:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "74b53aead9952fe1e26feed093720b9739b4558c",
+      "date": "2014-01-10T14:15:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f8e548fef17389fbb9dee28bd3e999ebf3f749c3",
+      "date": "2014-01-10T13:57:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e6eaa543f0e860f1dbb0b01be921393248098445",
+      "date": "2014-01-10T12:49:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "059671f4800252062b8a63a7e15c967bbad81faa",
+      "date": "2014-01-08T11:37:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "78356a438fe306048d0685e6c99d13d46ba6a57b",
+      "date": "2014-01-08T10:50:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c9246e4287936e39c8e89b9b6a1adfee1ae79f6d",
+      "date": "2014-01-08T10:16:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "19c2849f2716a306255a60eed4b2d2d2d422eb77",
+      "date": "2014-01-08T09:42:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a59520db9544675c87762746aee92cb79ad852ca",
+      "date": "2014-01-07T14:00:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7bcee521f3bdab4afde895dbf705716b2c144a5b",
+      "date": "2014-01-07T13:01:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b100950a2154507844ad0b007e8347d515cf925c",
+      "date": "2014-01-07T12:49:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7c11443b5f992dcc4f83370610337ee34a228a04",
+      "date": "2014-01-07T12:16:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c68ede4b85d789a518419da6babab71d88946c97",
+      "date": "2014-01-07T10:22:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f039b24a0e055755c7f445862f2d8b8120b86bf4",
+      "date": "2014-01-07T10:15:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0c485485c12cdb7ea4ee619bb0ac211336ec2dfa",
+      "date": "2014-01-07T10:12:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "71af0ebf53957a23427663a06f4517e39a120647",
+      "date": "2014-01-07T10:02:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3bcd803c0f5daf18e563a370e20f1532ce493c3f",
+      "date": "2014-01-07T09:18:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ee05cfa2790889b4d2c7688a272bc97ebee166af",
+      "date": "2014-01-07T08:28:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "696513baaf5d6289a000fd87cd2fe09b2b96046b",
+      "date": "2014-01-06T14:01:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "494558c8df12d97c7df2d5035c1ecfc6dd4730c7",
+      "date": "2014-01-06T12:52:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "aec01f0a83b2537f4afa6bb10f6e451ef783498e",
+      "date": "2014-01-06T12:22:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "491e0e6c94a4bd617aca6dd0b8561d35f64c2a4f",
+      "date": "2014-01-06T12:20:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6ccab9e3678e497d1114ff147fecaa2e06e31c20",
+      "date": "2014-01-06T12:00:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6c9d5f62ba6f358277045fced703cc745dde2bf2",
+      "date": "2014-01-06T12:00:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1d16f103350391dd0b0c70d2ebe16c6f462a3bb0",
+      "date": "2014-01-06T11:50:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a631da515e39146bafbc85b80bb60f6a216532d2",
+      "date": "2013-11-26T12:57:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5aa55d29aa4a13e9994cb1001fcbbf8f82c93f2c",
+      "date": "2013-09-24T08:37:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "09ab05efab2d8ad1d87271d2ec9c68686a7b3060",
+      "date": "2013-09-04T12:27:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8936dfd83756ff0395b917b1d25e3be48a8ba987",
+      "date": "2013-09-04T08:18:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b105149f778138d7faff0811a23926d00ca7230c",
+      "date": "2013-08-23T14:22:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "202a1d461d6080908977d5da722d286a0976fdf0",
+      "date": "2013-08-23T14:18:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "59327969f582d880aec61e3c19d330f7fb9f2f37",
+      "date": "2013-07-15T17:44:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "675e534a823f0f129721b08e130e0278c0b55d5a",
+      "date": "2013-07-02T09:01:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4d5282fdba34bf6e6a45aafd02b718d9d8778e35",
+      "date": "2013-05-24T10:22:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "681eeccc54c26bedb3af95f81cfec218891c595d",
+      "date": "2013-05-24T10:11:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "357b429ef01e8636746206f13daac02ca97b774b",
+      "date": "2013-05-24T08:34:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "96a76a0fad74ca0651631a1b896857105d0922f8",
+      "date": "2013-05-24T08:32:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "efe63f811608b08121804741fb64c190dc418f56",
+      "date": "2013-05-24T08:31:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e5253ed8cf18b4c2fde43bf2e8f1d83efaf5a60f",
+      "date": "2013-03-26T14:44:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "19c9d0556054fc9e267889b7028c096df879f0a9",
+      "date": "2013-03-26T14:41:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "86364fffc3ce3384de1d162ab25feb1eecf7cd29",
+      "date": "2013-03-26T14:26:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1e130bf95b192108d29ef83c961689be91d48a93",
+      "date": "2013-03-26T13:34:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "91e422bd033d467f23c2778f0398b8f0eef5e81b",
+      "date": "2013-03-26T12:53:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "05108a386f38f6d0a6bf73191e52924873ace45f",
+      "date": "2013-03-26T12:34:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9aa00dd4bb0297add704013a335d1960eece8cc9",
+      "date": "2013-03-26T12:20:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6e522db7b4313236a64c198f476e6b139e13b6a5",
+      "date": "2013-03-26T12:19:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4cc1073ee6f94f91f9ca6323085aa1b82f50f78f",
+      "date": "2013-03-26T12:19:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8efe24e818fd97c79b7e68b095dab38e3b6febf3",
+      "date": "2013-03-26T12:17:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bf7709f50cc5d64f225079e8f137666507c32109",
+      "date": "2013-03-26T12:17:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "499367446173ecbe940b381e6e30e741ce092614",
+      "date": "2013-03-26T10:14:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0f96628321b3d0e4dc62ecdc080295ee8062944d",
+      "date": "2013-03-26T08:46:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d58c8a95e97365e4086fcdeedcb851fd4c35815f",
+      "date": "2013-03-25T14:42:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "eaa1e3fed9db654943f49dd8dd393028929caa47",
+      "date": "2013-03-22T10:33:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ae8eb38666ad5116e5a7859ffb66e35cad72ff5d",
+      "date": "2013-03-22T10:22:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "567fd6a160c2e496821989338ef9268e59c9a40c",
+      "date": "2013-03-22T09:14:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2e3e98861fc3d21ca56d56cf9b6771a3e16c9c54",
+      "date": "2013-03-20T14:40:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9a1c8f400a5e8bde7a37257b41801b09b8bd7034",
+      "date": "2013-03-19T10:24:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7a699d61ebdb0361748f66dcad954d4a350a5335",
+      "date": "2013-03-19T09:55:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f1cb487a5a5a78b2a2b24c06116dd11fc13311ab",
+      "date": "2013-03-19T09:42:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8e3d93167e6a9aa0bf9ba50844937413b96d8f93",
+      "date": "2013-03-19T08:11:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3311c9e105e049364b2b9025dc49bf368ca43969",
+      "date": "2013-03-18T14:40:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7a57527066e462237dd7ec42b0361826b89684af",
+      "date": "2013-03-18T13:32:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7ea0433de77f0f42126681b397bfca7135f4c7c0",
+      "date": "2013-03-18T11:34:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d2e0a6d4b3f7f3012f4d650ff8e295d38e8bd33d",
+      "date": "2013-03-18T11:32:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "73cb0845541c5493662eafe2c6252dc010bbdd4f",
+      "date": "2013-03-15T15:08:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9b37eaaa8b2fc1f6b77bd864b22c1df25917d245",
+      "date": "2013-03-15T14:57:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "961c2779a6ce7614a1f2376edd4046e6f8ebbbd3",
+      "date": "2013-03-14T12:07:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "43182e3340919bb6f73031766d60031ff08127ab",
+      "date": "2013-03-14T11:46:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e050e26350d6cbae09736331be307656eff092ca",
+      "date": "2013-03-13T09:05:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "77a0083f0433d6c5e9206e45c1c7939f367c8bbe",
+      "date": "2013-03-11T14:55:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f7b7fe2d2f2e507ba14e64a50c4e19e59bcdba06",
+      "date": "2013-03-11T13:29:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bdc07264931df456865785faad50d8669eb072d2",
+      "date": "2013-03-08T14:46:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "45004d65b70b90198394ad36a2d8badd96be23a6",
+      "date": "2013-03-08T14:35:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e5daba9592aba78923f91604f96230ebb07c32f9",
+      "date": "2013-03-07T13:34:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a215d4e691b893d0b8173e1204878f227a2f0e78",
+      "date": "2013-03-06T10:28:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8455d4f36f41e7707e2fa5e3761b872af602bc63",
+      "date": "2013-03-05T21:30:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d243bbb30cd2b70374408f6cecf80221496f5ec3",
+      "date": "2013-03-05T21:14:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d4d1593520f3dae43bcecfb1012e09ede1e1d727",
+      "date": "2013-03-05T21:02:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a0f09cce38245e88099ff9db76868dcef06f3bfd",
+      "date": "2013-03-05T15:23:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "abb80cc39f9272a9aabe34f285b8c88f9c64f85e",
+      "date": "2013-03-05T11:41:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "de615911ef147041e11d3c5042ea2a4594406146",
+      "date": "2013-03-04T15:27:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "631e78658a8687c616ecc77ef534874ffd547f8f",
+      "date": "2013-03-04T13:52:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "46912a51a1c95602300725718df781a29874c374",
+      "date": "2013-03-01T10:20:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0d209a76701faf8768d8741517ca12182f962fae",
+      "date": "2013-03-01T10:18:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1a73a310fbff595ca30a88e8014e7c860dac2c0a",
+      "date": "2013-02-28T12:50:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "05f3f474e72d6d6d216dbab4a000fda1bbad1d4a",
+      "date": "2013-02-28T10:28:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8867717c7ec537821fc77e4702bdddf692487ec3",
+      "date": "2013-02-28T08:35:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "52d4feaeed73535534132d4eb13b8d665f9ef270",
+      "date": "2013-02-25T22:26:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "237ec91753b8b79c2618c09a805276da97034110",
+      "date": "2013-02-20T22:05:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "08c10765c521edd1480ef72cca4d3de3337b8714",
+      "date": "2013-02-18T21:48:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fd67f14d747f0a9f06b80e95f774ad2b115dbac9",
+      "date": "2013-02-18T11:28:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "436220ffdba277475acefe15dd3a8d71c5ea4245",
+      "date": "2013-02-17T22:44:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "74daf5f790a6893c04aa32ca9946ddb1bd846b38",
+      "date": "2013-02-12T12:17:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7a4e2ae1c4afd58217bbc2e186262552ac3eddd1",
+      "date": "2013-02-12T12:15:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dbde3688a2a7ca201133a3bbb167dffbedfdde47",
+      "date": "2013-02-12T11:31:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bc288f97603b69bb6a69c0a48e79257e9df37948",
+      "date": "2013-02-11T21:05:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a5271b10211758a878e7032a0219b6674796bc5d",
+      "date": "2013-02-11T20:36:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b15de2a7681821df8ca460edb3e5ad4979cbac9b",
+      "date": "2013-01-26T18:15:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "25ad6fdfbeff1a09bc61a3560dc58f826a55ca1d",
+      "date": "2013-01-26T18:15:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4f53aceccbc5e998bc8c7dc17f708874155814b1",
+      "date": "2012-10-16T13:14:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b90234eb40f80cb5f406ba276e22f7c0e1f175c4",
+      "date": "2012-10-16T13:10:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "23b69947f09880e50d9ed840e19f8b0afa6db554",
+      "date": "2012-10-15T20:21:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9b29d7638395b6307185e784a31e69bca6afeeee",
+      "date": "2012-10-15T14:58:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fc0b37f7eb8c8ff4e5bfda64fa20a6c68e3d7511",
+      "date": "2012-10-15T14:44:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cc472c028360454d98e1edaef1c8422a6b6848bd",
+      "date": "2012-10-04T13:20:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "891c65055af30ea9dc504dd96eabcbb6c188f3e8",
+      "date": "2012-10-03T09:07:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2ed7804db0c270f57eba0c35eca62b1e96183b06",
+      "date": "2012-10-02T13:39:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "55191ad0f05c7af483dbf1bddff8ce6d4fee9082",
+      "date": "2012-10-02T13:35:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "14b94035ef1aebe3b195acc28f536b7d39c746b6",
+      "date": "2012-10-02T13:32:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "42adfe4b732237d3a50db9e5a9d02f15048977bd",
+      "date": "2012-10-02T13:32:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "152241dacaf656d472ca942de8fdb2a1a088a2c2",
+      "date": "2012-09-10T14:19:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c517e80e86fefb5c6ef3fe81ba00b9aacfc49b37",
+      "date": "2012-09-10T14:16:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "06e2192a6485cd936375d8edba0bb49f06df663d",
+      "date": "2012-09-10T14:13:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fc2ca074d406376e32a88803cbf40f6d2c74b1f0",
+      "date": "2012-09-10T13:52:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "03967a242d667869906dc7cafc243cde58d2e298",
+      "date": "2012-09-10T13:51:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4c2d489b479bf53bb31978c1efbc57fa2e5727b0",
+      "date": "2012-09-10T12:31:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f227a44fba1f45f47e7e650b2c6e1143903b2829",
+      "date": "2012-09-10T11:55:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3fc7b5f641a68aaac27a7bab7176b85ca472c078",
+      "date": "2012-09-10T09:24:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6516eb29d9d7208eef848d00b357f90842122a04",
+      "date": "2012-09-04T16:10:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dfc9467e50302d19aa1fc242bd469c4ae5e8c238",
+      "date": "2012-09-03T21:27:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "040dacdb410cf00906f6e0cc093fcd01adabbf6a",
+      "date": "2012-09-03T14:18:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9b19c064427f20cd2bb0be8e2ecfe12a32d1eeaa",
+      "date": "2012-09-03T12:14:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2a2db2c949f8b38a13a3769bb336d1778f09e993",
+      "date": "2012-08-31T16:34:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "67a8025a7af857114c8aebbf9736d74499bd390b",
+      "date": "2012-08-30T16:12:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7c5714157995ff33703f54ee0b5b8eefff70deb9",
+      "date": "2012-08-23T12:29:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a9201cb0ebfcfec6a23a503ed577f3e3905888b4",
+      "date": "2012-08-23T12:28:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1cf96024f1090d848bd5f398166600ea4b27ab53",
+      "date": "2012-08-23T11:38:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "38531ec07e2762e170c92dce051500a3901f7cb9",
+      "date": "2012-08-23T10:56:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3be67443c7979ed64e912af1810b4645af2fae7d",
+      "date": "2012-08-23T08:54:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4b9db837a0b1cb4e2aa38f665b7a707868e99199",
+      "date": "2012-08-23T08:48:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a62aee7ab2609d6ee95dbffd933fa99319312e4b",
+      "date": "2012-08-22T20:43:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ce254362099c498589a47c9b670f0f23b86e50c8",
+      "date": "2012-08-22T13:58:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "04c66e9064d4831735dfeef108a0f55cb00d9cd8",
+      "date": "2012-08-22T08:19:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cb8e8121424f2a57954cb895dfd1b5ead4de5db5",
+      "date": "2012-08-21T12:46:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c8579a16bab0d408961e2d04dbfbc956cdbc26d4",
+      "date": "2012-08-21T12:34:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9bf7db7d1262cd5abbb3920f58627dc8690b6b98",
+      "date": "2012-08-21T11:42:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9cd4222ce54f683d774e7c9d36306b8a745ddad1",
+      "date": "2012-08-21T08:28:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "55dcc6163ea40feba3a667de357576957bbc4f3e",
+      "date": "2012-08-21T08:27:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "01e803ec380a253a1547765cbf2eb2c49d2fad18",
+      "date": "2012-08-20T14:22:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9c349d5f945057bd6a4b8b9671c8cd2803131c7f",
+      "date": "2012-08-20T13:59:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7687185d607139ce069439f5f573bb883dd51511",
+      "date": "2012-08-20T12:06:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "85301e0cf49793261ef459485c96f57dd2167113",
+      "date": "2012-08-20T11:23:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c667843feadd72ad6a57eacd4342530a4d26f242",
+      "date": "2012-08-20T10:51:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f32f9a6b0650d0ba4d9dca46d40a61f3ba5c4e7f",
+      "date": "2012-08-20T08:19:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "95d7444f4c6d2d4c92979d86797332dddc9927ba",
+      "date": "2012-08-20T07:43:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9b7698e91fc98e288ac50bebce9fbcd1e9515ca7",
+      "date": "2012-08-17T14:34:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9fc31a5bac8a121360c50a8bebb04ff408e2c039",
+      "date": "2012-08-17T12:48:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8560c693e92277e63e2fe3b06f3baa40cdcf70c5",
+      "date": "2012-08-17T12:44:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bc7e813781c439138576d1be76e49885f3d279a7",
+      "date": "2012-08-17T07:55:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bb2febe349761354cdc679a02d4a760c75f61e67",
+      "date": "2012-08-16T14:22:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "235a53e7085ad360ba2fc860ff133d1b5e267c0b",
+      "date": "2012-08-15T14:00:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b537f7c8c9656c432179119956e5fdaaed76fcae",
+      "date": "2012-08-07T13:47:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1f21065112fc6da3e5b6449999924694d41d30a5",
+      "date": "2012-08-07T07:43:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bca84ff08a589e7de5c5f38719752f0f25b04a32",
+      "date": "2012-08-07T07:37:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "331c3449b362c32a1e8b5b94005631f40631b46f",
+      "date": "2012-08-06T10:32:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "56355b272a5b5774f5fe20d8e691da9cf8e79b23",
+      "date": "2012-07-26T14:10:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "05b5145f71cb19535579bcd1624fc72bff82f149",
+      "date": "2012-07-26T14:02:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2ef05b523cf72003e7412df5c3af3dd5d891871e",
+      "date": "2012-07-20T14:24:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3c1af0593b21c31128c47939267be823f9578fb4",
+      "date": "2012-07-20T14:19:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a9af06f71ced39d5c05c119365e4e7e21f39d908",
+      "date": "2012-07-20T09:28:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "107dce0898d48a446840bd4fff46239bc3646490",
+      "date": "2012-07-19T13:29:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d9c44564a3b39b8b3a829b24a60c643974a79642",
+      "date": "2012-07-19T13:28:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8120fc5abe643b4ab410a052ff92ca566eeed59a",
+      "date": "2012-07-19T11:33:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "02bfdf796a9107e5b40062b2c4bc6ceacba82c8e",
+      "date": "2012-05-06T21:12:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8e1ab22f45f4eb12e84a38bdaae4731a99013b63",
+      "date": "2012-05-06T21:11:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b6193f27d7093b32d01ee57ad7e6177cf148d9f3",
+      "date": "2012-05-06T00:31:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8fdd0891dec26e9b0d1f3fe8b0564c70489ed155",
+      "date": "2012-05-05T23:42:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "96a2cf38a4e6030d88fceb7071dd555ecf9c2703",
+      "date": "2012-05-05T21:51:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "36fb8fb885104f346fd13ce7ebb82809fc6591ab",
+      "date": "2012-05-04T16:29:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "847a705c3b38dedccc1ca192c098c30bea2f44e1",
+      "date": "2012-05-03T21:32:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "42157f06742afb2726a938c5a710be880325faa7",
+      "date": "2012-05-03T20:49:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d48fb70315f24687239a56a91a7188063673441f",
+      "date": "2012-04-21T19:17:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7536d8703c400fcdbb3e0b6b756f8568a3361f60",
+      "date": "2012-04-19T19:44:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1c519ba918394a874ff1bc491224031cc2bc9247",
+      "date": "2012-04-03T14:38:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "69e8e94fa9d7a0f2c00b714fb76847aa527078f5",
+      "date": "2012-04-02T19:48:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f25501a0768012b0fd9f323e2d313cb882d0fc28",
+      "date": "2012-04-02T19:47:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "26eb0e5ef178e518c5741283b07231692930faab",
+      "date": "2012-04-02T18:36:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ce5a8b0281fd3e9c908e94c956dc8c15e14629aa",
+      "date": "2012-03-29T16:41:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "36e79400443267492c5716db78ba5fb7e3888d02",
+      "date": "2012-03-29T16:32:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c751a5d1987fe97813d36bb08a8bcbe35321fe0a",
+      "date": "2012-03-29T16:30:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "66e839ca573e9c5d7b650f40f7d4fa21ba2e81bf",
+      "date": "2012-02-19T22:20:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "97052c90975a11e33167bcf7448fcd44a2cac25e",
+      "date": "2012-02-19T22:17:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "327cad9796e889acc37b796b192ed3e76a61780e",
+      "date": "2012-02-19T21:47:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "36f7dc83a495ce69342ebda3bdc707ba3f9cc064",
+      "date": "2012-02-15T21:58:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "11fa477903123d7807268a5535879759445f8ee6",
+      "date": "2012-02-15T21:55:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "013fceef587f25a9c930c5e76609ff5c90f2cada",
+      "date": "2011-12-28T22:04:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "98825cfac023cf8381464ea80c1397dd946d2844",
+      "date": "2011-12-28T22:01:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2e7c002d35b39d2136d1142a0143a5daadb7b76c",
+      "date": "2011-11-12T00:10:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c1e40135d7225682813c62c93de2718ce8dadf5f",
+      "date": "2011-11-11T23:52:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f37201d0d9b37bab3a5f9c78b51d1fb403b7d151",
+      "date": "2011-11-01T21:07:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cf6bd091d249cc2a4a8dddba77fef95e80d6dcd8",
+      "date": "2011-11-01T20:13:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f53e2f9e65d29907603215fb1abb5ced31f2745d",
+      "date": "2011-11-01T19:49:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0b82465441fd6adbc8c9b553a960817878d33c7a",
+      "date": "2011-11-01T08:06:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fb65afcb4061a78b3e525a8cc31b1076efd4de5d",
+      "date": "2011-11-01T08:03:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dcbb7dc8568aa26e0e7bb6fa91112aea356c28b5",
+      "date": "2011-10-10T20:04:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e1f23f7d455afa130868392a6811c293a0b23d76",
+      "date": "2011-09-29T15:40:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f9558bcdfa0254c939f052ff0d59c6025eeaabd7",
+      "date": "2011-09-29T15:38:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "97bbd407b8357dce67b24056c6fe66ddfa13fcb2",
+      "date": "2011-09-29T15:35:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7a385523b77612c2f58add3f17ac003d535441b7",
+      "date": "2011-09-29T15:33:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "add0d5f77c63da725d148340f8bc8fd31b82c2ac",
+      "date": "2011-09-28T19:08:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8ca74949ef8d8885dc58e4ace2fe31a652bd3a6c",
+      "date": "2011-09-28T19:00:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3ec75f3cfeda6c876f906e901e4f4a153ce023a4",
+      "date": "2011-09-28T18:58:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2643dde0edc40faf5a905590cf5f88097dbc449b",
+      "date": "2011-09-28T18:55:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "eb832b3539684279aca6a72dd6c803a2d1fcec18",
+      "date": "2011-09-28T18:37:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d46d23d814d5c8163940fdaad5106e2e158d5b68",
+      "date": "2011-09-28T18:33:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ed743046cb2104a027eefe45df6682263b5884d8",
+      "date": "2011-09-28T18:33:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "54f732977fdd2b91fe2a6a10c73f46d8fb66fe63",
+      "date": "2011-09-27T18:36:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5894466f61a8a286d22360e3c5367bf9ff7dc994",
+      "date": "2011-09-27T18:04:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "873fb1a81abfc6a5f285e79c3dcfc628b9e0c4c3",
+      "date": "2011-09-26T19:34:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f7c4f39dfe4a6513dc3110ce228107057f9897af",
+      "date": "2011-09-21T12:28:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3da4736844377621d6ed61bc4e74fa99206cc0e5",
+      "date": "2011-09-21T11:03:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f578282b88d56e09ccd161b9735f9e3a318b453e",
+      "date": "2011-08-15T17:23:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "88f0a4ccbd0e2e6b5ed9f13ea1794f9b1a3c3755",
+      "date": "2011-08-14T12:17:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "86fc869ce13f6c4d51f6392307887621f870bf52",
+      "date": "2011-08-14T12:16:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e3e6a38bde071db8f74e96fea29e9051e642a518",
+      "date": "2011-08-14T12:15:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3fb6467f259d5e8796a41b0a5f73b17c5444d771",
+      "date": "2011-08-09T21:13:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "170b63f66458d122e12dffcbfbeb0439f165a24c",
+      "date": "2011-08-09T20:57:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5f49d2d8b8c5c53ae9a44e5a9e3d4ab9a1eb98a3",
+      "date": "2011-05-27T19:05:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0dcad7de4c4198f75433c1fa2c3f9bce392cc5dd",
+      "date": "2011-05-26T19:48:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b70d68c103a6b0bdcbc3d16c4d471349223fdaca",
+      "date": "2011-05-17T12:06:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "aeee333925d56d4ce465de9cbf080ef67c89b4a4",
+      "date": "2011-05-17T12:06:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "12055aa11bc0209107034b59e233b61548edcbbd",
+      "date": "2011-05-17T11:45:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0500cbe1b187e6db5684478ec74fd96b694a0e70",
+      "date": "2011-05-17T11:26:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4dba153d58c0569c42ff3a8e0568682ff174ff6c",
+      "date": "2011-05-17T11:21:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2164c36c5e3ba97b2b8b36af3df2e86752841072",
+      "date": "2011-05-13T16:46:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "435b65767eb1442e0e9b049a9bf61c9b3f3fed3c",
+      "date": "2011-05-13T16:43:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "531140771c38b52fd5a7b232ee9a1de5eac5c6cb",
+      "date": "2011-05-13T16:30:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6643ffb04422a456160d0906e2874c27e58f6677",
+      "date": "2011-05-13T16:26:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a72082e00b2a9882b32dd5a08f164a634b5fdc7c",
+      "date": "2011-05-13T16:24:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ea5084a51918971afd09a20d2e7ae437c85a7e21",
+      "date": "2011-05-10T21:43:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ebebb861291d7682cba4a613b983641c1e63d73f",
+      "date": "2011-05-09T22:02:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cdca5de9a2e957c1cde36159607aab367f82634b",
+      "date": "2011-05-09T21:59:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8ee8ac09c074178dfb5354b28099f154b04d7ee9",
+      "date": "2011-05-09T21:57:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3d5398b81d51e35965b483f564e11ea1e6762c78",
+      "date": "2011-05-09T21:48:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "91f0ec3e01c6986a0abe3666add70dbe6b354895",
+      "date": "2011-05-09T21:45:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c728430844469c1c23d93fac9ed0d858f9b08eda",
+      "date": "2011-05-09T21:41:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4d5de658318a94f0268a52f83adb7916fa285ec9",
+      "date": "2011-05-05T16:42:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "073576d2fd2cf49989ca497b1c3a45a8ab36c0f8",
+      "date": "2011-05-05T16:33:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "67fb4077470880f49184c2f3d6e7a68400643d89",
+      "date": "2011-05-05T16:25:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "383ca810d4b8a7fa45585554eeba3a6bd610b0a3",
+      "date": "2011-05-05T16:02:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c06f4603b014770c14a56d79aa7e7aaa8d691d04",
+      "date": "2011-05-05T15:55:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "79c9e645c37fd51aed9df8982f8390a74c5f3877",
+      "date": "2011-05-05T15:38:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "35f3ab9ec1e3765cf8a315d0aae51adb4fdeedf1",
+      "date": "2011-05-05T15:27:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d294c9dd44e8184847532ef3e49b5d0fe5d0fa71",
+      "date": "2011-05-04T18:45:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "24af6a144a2da40b643b411d38ec8a6cbac33799",
+      "date": "2011-05-04T18:43:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bb39764deed13e27452e7bcdecda796488f4fa99",
+      "date": "2011-05-04T18:33:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6fbdb0f8bf3be667efc3a5e05e530385474806f7",
+      "date": "2011-05-04T18:32:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ed3f2b7feb49b678a80a32392c42d8ee4ed915a2",
+      "date": "2011-05-03T20:56:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b11c0eab200985c72313fefb7d878c5a312a48e7",
+      "date": "2011-04-29T21:56:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ff6b2aae8e290428d1ace9d465c066d1a92e098f",
+      "date": "2011-04-29T21:52:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d49b9a43fc8923fd54b1dcbf39ed78edff4022a3",
+      "date": "2011-04-29T21:49:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a0bd4446a6dcf85195e1d891eb30c2c1a15be87c",
+      "date": "2011-04-28T21:17:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5d7e3bc05b1687988e68f82cca22d4c8cd5212b8",
+      "date": "2011-04-28T21:12:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "04ad6f55ffa4cb0dffe04cb256d7dda2206bdb48",
+      "date": "2011-04-27T21:33:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2c3f7ccce9d888fddc4557cdcb497a17d008b043",
+      "date": "2011-04-27T21:27:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3ad40cab6d31e31b9107c9831e180d357a3abb58",
+      "date": "2011-04-26T14:27:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8f1860a190f21d30577a2e82b9a830600349002d",
+      "date": "2011-04-26T14:17:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9b9002837b2f21ec36a011d8a2391435783bd2ed",
+      "date": "2011-04-20T12:50:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d31d5b9b3f5581c6729f966d95468ef8070db3d4",
+      "date": "2011-04-20T12:49:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "248681061a1c45723a0914b0dc8b1d376594b8fa",
+      "date": "2011-04-20T12:46:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ebda20cdd4a284ee5dc218528c190e4cf21d0a4d",
+      "date": "2011-04-19T21:08:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c065abb653ba892c32592e15f4cd7157db0d0538",
+      "date": "2011-04-19T21:04:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ab6a5e662e74038cbe1ec42784dd871dc7a1c45c",
+      "date": "2011-04-19T20:59:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9f14d5941293286602d1af35cde75467227d5518",
+      "date": "2011-04-19T18:57:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "16cde3ad84143cd5eb91993ada641d5a8c924bdc",
+      "date": "2011-04-19T18:54:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "47b63b4699e609e33c1be3b7693a1fcf40ccad9a",
+      "date": "2011-04-15T23:19:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "de77861b302c74ba40e01a8e9e0a44706ba06254",
+      "date": "2011-04-15T20:05:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fe2a705f00fa229e98829e4bfc65c5eb2264fe50",
+      "date": "2011-04-15T19:54:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d911f02e94c246fed32566e38bc16f0c7260c487",
+      "date": "2011-04-15T19:47:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2dd708e7898e6a8c06fd7be9eb9329037be47793",
+      "date": "2011-04-14T21:04:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7928361671ba758c3e79eb98802066b1fe2a3a6a",
+      "date": "2011-04-13T20:56:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0310d06d2b64a0994911aa072ddd2290e95822e4",
+      "date": "2011-04-12T19:24:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dcebe77eff1c06f9bcabb0ba3b910349b9cda204",
+      "date": "2011-04-11T19:48:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "285ea7267ca4a28069c5cd021008221b0eb9a4e3",
+      "date": "2011-04-09T10:55:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c543838c2d58b10885059d2899700d377d8d6ac0",
+      "date": "2011-04-04T20:32:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c76ad6f8ba4c39895199e6b526486e3c674e43c8",
+      "date": "2011-04-04T20:29:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "12468a413fec6fc859f788f81c6163eefca7ad29",
+      "date": "2011-04-04T20:10:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0b1dc9c350a83755972207bb6c44ac7342820cad",
+      "date": "2011-04-02T16:31:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "50f9a1914a5a98a793b0b14eb6fe12685f577ca0",
+      "date": "2011-03-06T22:49:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "59c4c59208d01099e0b4c81cd94c4cb03fe0dcf7",
+      "date": "2011-03-06T22:42:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4c0ebf523a97ef19255095d4b8fb975d75eaae7a",
+      "date": "2011-03-06T17:02:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "91f794044935a92a69d4deb991aa06b637252705",
+      "date": "2011-03-06T16:21:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8d594240aeb4ed6c706e63a6c96abab483220552",
+      "date": "2011-03-05T23:47:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e31c3dc26f09f5752ebffa6939e7fc7642a5531e",
+      "date": "2011-03-03T23:12:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c7d806c7ee5b4e60c56f7f875dedd7b951337a6b",
+      "date": "2011-03-02T22:20:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0007750dfbf3ee00d2cd92f36e6d721afaf7200a",
+      "date": "2011-03-02T22:19:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cdd870bd618307e3b2147bf058c0a39cc4fa94ba",
+      "date": "2011-03-01T21:19:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "72ca5773c2a3147b2635056d4736594d514bc42d",
+      "date": "2011-02-28T22:22:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4583471d9b109203893933b3e684f30156f1d2a6",
+      "date": "2011-02-28T20:41:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d810474fe157e39fe88a7289d73ca76b4233cd06",
+      "date": "2011-02-27T23:14:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d148a60fb84f32127d0331b7370cd1009062b6aa",
+      "date": "2011-02-24T22:35:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d396c3bf41a2229685c2cc913e32a5208aa48784",
+      "date": "2011-02-23T22:35:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7c5d75ed3aa2ca664717d6e42a469ed853b6896f",
+      "date": "2011-02-23T22:34:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "adcf79f8453d06cb3963a00f7531448b29883ff3",
+      "date": "2011-02-23T22:19:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8cc71a3f32a7d91984b1d4b81a339eaa2ffe8236",
+      "date": "2011-02-21T22:17:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9d14d19ee6c091f994899af2fcaeafc4a7156791",
+      "date": "2011-02-20T23:00:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f226613b05b62d65e7eecb2b1567c4e6ad106eb4",
+      "date": "2011-02-20T14:26:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "54739a3b9068b97956ce9c7b5b128ae8c72ed652",
+      "date": "2011-02-19T14:05:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9e1bc07de562111aef856ff1383b1a44e06b3918",
+      "date": "2011-02-18T22:57:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f3e4cff4e83788cb274a0d9996f8dd2132b018be",
+      "date": "2011-02-18T22:53:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "35099bfcb16a1721907cda1900ccaae69081c5bd",
+      "date": "2011-02-16T22:08:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ff7e5f2ae5fd3dd23f41fa5e90ac1258d065ceb1",
+      "date": "2011-02-14T21:27:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "df9f7271b672f36ca53b15f5290c4c4d47e6c4d9",
+      "date": "2011-02-10T21:45:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ad5ff0ae82dae06d793a58da182e2e974c9ff9e0",
+      "date": "2011-01-16T16:30:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fe2f3b76d81a5f0ab77c57c6b3a07f135b6af50f",
+      "date": "2011-01-16T01:04:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "018cfb2c408725ff742822a0e491eba0f6d7d9ef",
+      "date": "2011-01-11T20:11:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e14abfa85b5f0defb1841a41c4ffc049e04709ec",
+      "date": "2011-01-10T20:56:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "91989c02a07c66d4bbf37c5631167c0b03291f94",
+      "date": "2011-01-10T18:46:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "96ec0035f86cd5a740c9273baf991c1a8f225260",
+      "date": "2010-12-05T17:31:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "be5743dd79396a3912fc33dc2f6cca5de00bf4c4",
+      "date": "2010-12-01T18:39:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c3c02e66d2bedf570f01f5ac3a9678faa5c03ba1",
+      "date": "2010-12-01T18:36:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "89c00cefaf76b156554fee6670f90fcc3bc86a91",
+      "date": "2010-11-30T22:35:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f009096bb3277a71a684ea4d3f331b74991c0884",
+      "date": "2010-11-30T20:25:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f916696a229b1655b648f0ac202fcf5199ba43ab",
+      "date": "2010-11-30T19:53:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bc717f2d2c1a1786d432fdc0581e5f667df2902a",
+      "date": "2010-11-24T21:30:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "83fbf98f7816f7f528023c0397db49413a42d63a",
+      "date": "2010-11-24T20:45:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a823e38ebb9342969c17bb359c6da64c37f7a8f5",
+      "date": "2010-11-21T14:57:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "069ac848eef7d0a07b22f977b930094dff9ca96b",
+      "date": "2010-11-07T20:48:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e858c8c3cc2e56a2cda0bad297fa736ab94a0482",
+      "date": "2010-11-07T14:33:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3a24b0080d77561a32e3d523a0cb4a73d93b4801",
+      "date": "2010-10-30T12:15:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dbf5dd774fd2e40c0d56c071958f6a16a0ab68b2",
+      "date": "2010-10-26T19:03:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0cb829f1cb27425bf573715e3c61dd58be5402b4",
+      "date": "2010-10-24T21:23:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b952ad3d314c86f4085b8d5844fc53ece6c044aa",
+      "date": "2010-10-20T21:36:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "289033d1366ea42026d10c1b05b2ff76aa9480de",
+      "date": "2010-10-19T21:25:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dfdf98ee0ebaf87b69dde5b74fe8b658482cee19",
+      "date": "2010-10-17T21:06:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3810904f4e7674d50da1470f83b143b230ac5233",
+      "date": "2010-10-17T21:03:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "52c0cde2d4610e021c3ab1ead1e50d51393a3b33",
+      "date": "2010-10-14T20:11:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c0af471a381f6b33cdccdd002143f36f4e22ca3a",
+      "date": "2010-10-08T21:07:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "eea57c536ae5bf01d4ca6c6e97c91ec116fc9ecf",
+      "date": "2010-10-07T21:25:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7f5cc55aa251efdd2f4d1b1d7b429e01bb6be0af",
+      "date": "2010-10-07T20:13:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "83cef95b165201e0f52ebaa0c94fd019501801af",
+      "date": "2010-10-06T19:49:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1ee220405473b9f4809a8c7e2a628adfd8d3def6",
+      "date": "2010-10-03T18:47:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4c9e621ba13b099fde95e4c454b8383a92181e4b",
+      "date": "2010-10-03T18:20:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c2e064eef0400e7ec46a36c64f755d4c33ed3e6c",
+      "date": "2010-10-03T18:14:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "47d242f60a50ced898ab391bfdd62beff61cf255",
+      "date": "2010-10-03T16:49:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1c53c5bfbdb179d88de985ec4a4fd5faec9ca956",
+      "date": "2010-10-03T00:17:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f98d8dbba75d2314c1edbddbe921f683ea60dfe3",
+      "date": "2010-09-20T20:37:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ac52037ce87d03621e3fb604efeff1f10a808693",
+      "date": "2010-09-20T20:33:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a4524277e7a80ebb82e86e7b213530e84c51db27",
+      "date": "2010-09-09T19:38:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ca5db67d3c9fdd3098dfc27976a3a9693bffb580",
+      "date": "2010-09-07T20:46:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8e58fad59866315dddb5dd4b11a594642783e120",
+      "date": "2010-08-01T17:51:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "72b381a94592da49701a5bc8c5f43c24de4c8017",
+      "date": "2010-08-01T17:50:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5ebd490349edf0e89680ac162177e46c3b764ad2",
+      "date": "2010-08-01T17:43:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "19ab53e9a62431c05adf36e5e153737840add015",
+      "date": "2010-08-01T17:42:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "59616c076862e66e53d892b644bc5a02097b7dcf",
+      "date": "2010-08-01T17:21:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "01f76cdeb9b30a54395ac124a1bcfbb66a2905ca",
+      "date": "2010-08-01T16:34:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6c51366f4a1e6584611e7f9969eb4029515ba61b",
+      "date": "2010-08-01T16:30:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7763235be25fd70ab2da7542151d8bd7cd172690",
+      "date": "2010-07-30T14:09:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d68d8b02dab38ea694164c258f19eed40a3521aa",
+      "date": "2010-07-29T14:33:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d4cf9d9f737d84f53e9d02c15a3f5135bb569b7e",
+      "date": "2010-07-29T14:28:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a4408f0fd6e616e97be2a29f79f98bb7e9653fd7",
+      "date": "2010-07-28T20:22:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "69f85e8a6ab4eeb05d80446b2f0a76e270d46e64",
+      "date": "2010-07-28T18:50:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c65cf3b01d225b500f3fba36e898dc45a76b6e68",
+      "date": "2010-07-28T18:45:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "98359be22e344d5cb5e3382a92103c6e9d95eea7",
+      "date": "2010-07-27T21:12:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d6548c6835e2e54d198626e0db9cce915b208896",
+      "date": "2010-07-26T21:12:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7f71734910febd5b15fff54773197738ccee0acc",
+      "date": "2010-07-26T20:37:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c1ae62db8073eabc98e8f768c277efd3e8c00acd",
+      "date": "2010-07-26T20:21:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "42e0bc670097a4b5db57c419e2799fce60519476",
+      "date": "2010-07-26T16:26:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "94b69244f3cf40f849fade246766ae4f69572a72",
+      "date": "2010-07-26T16:12:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "629029f0d81f482582f1af51324c070bf2067174",
+      "date": "2010-07-26T16:03:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "204498e9db8cb27444d60a03fd7aa06e7f736793",
+      "date": "2010-07-22T14:16:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6cbaf3b137098e2a3b857b3287fb06eab88444c8",
+      "date": "2010-07-22T14:11:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0f0a336a21965655559cf9b6a85db70bb07c3752",
+      "date": "2010-07-21T21:19:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d2825470b6fe7183f0a6a67b79b4ed49f2d884fa",
+      "date": "2010-07-21T21:14:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "30929ba838b593063e8fee874d4f57d354005ef1",
+      "date": "2010-07-21T21:10:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "353f92c1425f04159e99ce8a924cf5205c490a61",
+      "date": "2010-07-20T20:16:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2668e4ec1f84352f8c4a9dd29284886d437b54bc",
+      "date": "2010-07-17T14:18:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dfb9872ee80d2d3c89af9141085b80abc7c42f81",
+      "date": "2010-07-16T18:43:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fc3c05db4be9240b1f290555f17e5fbb305e0777",
+      "date": "2010-07-15T21:25:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "04102fb532bdcd528de70b8bfa32080b35fa6637",
+      "date": "2010-07-14T20:43:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d9fd0d467d4921c3b6771310c24824572824b5fd",
+      "date": "2010-07-13T17:03:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "21816e743b21621092ef14a585de9db462a6ec7c",
+      "date": "2010-07-12T16:04:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c7ee292f798e54535c1afe265d60eadab1c240ac",
+      "date": "2010-07-11T21:48:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ac733110ff96af4bbde436e8006715f21b452af8",
+      "date": "2010-07-10T23:33:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "32997f0158b5820c2bcae5e4df626383dbd96606",
+      "date": "2010-07-08T14:21:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8fdc5283a36bd932aa02bb965390b2d16ef6b36b",
+      "date": "2010-07-07T14:16:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e33f16288b74ae9368779bc0d4e209079480d361",
+      "date": "2010-06-20T11:22:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "56406e2f5c388c01e3f0c2625dd4abd74711e898",
+      "date": "2010-06-18T19:36:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "32a9cc387a6b0ce66171343f6fc9da9cd85e2768",
+      "date": "2010-06-18T19:13:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4568a0b5a46565865be0d5493d042745b800dcfb",
+      "date": "2010-06-18T18:50:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d3eaf9fbdf8c79e6b161337f71fc0eb42f484316",
+      "date": "2010-06-17T17:45:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4a063afaca786113a42d109e18f34f710822baeb",
+      "date": "2010-06-16T18:22:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9b063ddd3d585c6c96061847f63ce897ad564b93",
+      "date": "2010-06-16T16:14:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "08dfccbd71878d0fe48bc6dc9148636fd7d9b484",
+      "date": "2010-06-15T21:05:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "01ef81cefe9f5d99d316a0b185015bfdac12d452",
+      "date": "2010-06-14T16:59:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "93a5a3556f661375fd8979ef7b84413fa4042d62",
+      "date": "2010-06-11T18:01:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "616897250a8e4b4a0f397ced44e69dd61065dea8",
+      "date": "2010-06-05T17:16:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0f217e61ac1f040c5b27aa388d23a2ab6c6585b5",
+      "date": "2010-06-05T15:41:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e5e06f5facdc2af915d3bd23b8e5833101a049a3",
+      "date": "2010-06-05T15:37:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "11655df15428d6c717cb2fa50469e237c53c1a89",
+      "date": "2010-05-23T22:39:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1511d41205b00b814ec04e47954a618ccb91c668",
+      "date": "2010-05-23T22:21:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7fde1a8e5a4ccf9638062a2c2808426508fb017e",
+      "date": "2010-05-18T20:16:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9b4392d6ad8c6d69845d5398bf77d18ae59828e9",
+      "date": "2010-05-17T21:11:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9bbc809636f801852f4079cd5ee08dacf62afce6",
+      "date": "2010-05-17T21:07:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "55cb5721b461b319e458172f79f7da2acd3acd91",
+      "date": "2010-05-17T21:02:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5b9803f0248a40300a121c5dc9daf66c78e367a7",
+      "date": "2010-05-10T21:18:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5894756ab5852e089dcf767218e3429b5f1619b9",
+      "date": "2010-05-09T20:48:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "34c189b6654739284dbab91357486bda7ea6eb43",
+      "date": "2010-05-09T00:28:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b7d06a682ea39a1ec92c18936fb249575c8c48ec",
+      "date": "2010-05-09T00:26:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0ef169489b0a1d4bac65270227cea6ea7ce79cc3",
+      "date": "2010-05-09T00:25:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "21b51b24a279b1ebd1d83958caceab7842661c84",
+      "date": "2010-05-08T21:27:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bb73c62d6ebb805ad18da91453bef0716e6c1ea2",
+      "date": "2010-05-08T00:29:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cba38e0f270ac781ccf7d4b9f0c3ec1125d785a3",
+      "date": "2010-05-08T00:26:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e3f03986d48ddcf64f33df6db4a8938b566f003a",
+      "date": "2010-05-08T00:22:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "11444bd4c4d46bb9d477219d667dc65c340f1c0d",
+      "date": "2010-05-08T00:15:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "dc847048221d421983ba58648b5ac3a76c903f06",
+      "date": "2010-05-08T00:01:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "174cb495941253e06ad3395bb2a5abcef5226d23",
+      "date": "2010-05-07T23:51:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "baeb40037869b5db1924ae55522b3a3e93728d12",
+      "date": "2010-05-06T20:32:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cda1212bc24c968c428a2bfaf06613e05174e0a2",
+      "date": "2010-05-06T20:27:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cecbf5dde7b69844106f7a37fbdfb974540c236d",
+      "date": "2010-05-06T20:25:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a8e55a7e475054a10d2f172763e8ae51ef8f26fe",
+      "date": "2010-05-06T20:18:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e680841f64d5f59954a280953ef873de1dd2daf8",
+      "date": "2010-05-05T16:08:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "87a966282c0b2ca6ae3a4fb8230a7cd8191ef6db",
+      "date": "2010-05-04T16:27:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a7f760e3cd7ee8835bdfba87c8b099ebf0b4f7a8",
+      "date": "2010-05-04T16:23:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "39e0909255594f244ff417650576a042fbb306c6",
+      "date": "2010-05-04T16:19:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "edff38d9c44f0c4fa7b33b4d481e1741f8928e9e",
+      "date": "2010-05-04T16:00:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e0743791e3920bc24faaabc9563b479f1bd50c2d",
+      "date": "2010-05-04T15:57:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1e8a53b67856ad795f40b417df1af609c3336da1",
+      "date": "2010-05-04T15:48:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2889c1aaf0cdbeb2a4ce71cc57e402e7a0f0bca5",
+      "date": "2010-05-04T15:37:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "99d119422b2718dea512e3971b92e859e8a733c1",
+      "date": "2010-04-30T23:01:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4fc8dd46f1147906d718c72bed7dd2b576c37ed6",
+      "date": "2010-04-29T22:55:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6cbc66862cb45d45ae108be772efa0c0ffde449d",
+      "date": "2010-04-29T21:47:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "abd742600d4a45ffb9f1ea3894d3cc853d99c773",
+      "date": "2010-04-29T21:45:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b3e74bef79cc9a2c192c0be24da082aaab91364d",
+      "date": "2010-04-29T21:42:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fd8df67e1ccb3c38458491df18c0438f1b78c7c7",
+      "date": "2010-04-29T20:59:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7766ffee25556f15065b9decd8aedf0ffc5cf693",
+      "date": "2010-04-28T19:52:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "792c2eec2d01d20146d5636b75fedd7e6c51d3b8",
+      "date": "2010-04-27T20:40:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3b8bd2ebaf6a302d48bf28dea603f0ce0f5915c7",
+      "date": "2010-04-27T16:08:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "653a9a9e684123fa37792755a9d62dbbce541c38",
+      "date": "2010-04-26T19:13:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e3135770605077f0b6f16c16ccb37bd1745ef952",
+      "date": "2010-04-26T18:34:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ee201263f62bff8a8ec78c9b2e6acd52e9f87432",
+      "date": "2010-04-26T17:49:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c918518f6d40ef37a5af268e1585d00d900e92a7",
+      "date": "2010-04-26T17:46:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "72bcda060f7d9c0660c7b1da21334b45ca122638",
+      "date": "2010-04-25T22:10:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "94c6aa2f0f3a5bdb010f80b4ca0a5a4fdb4c2dd3",
+      "date": "2010-04-25T21:44:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "63af11f0d453a7108f306a20f373081f4e15298a",
+      "date": "2010-04-25T00:08:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8b91837b401943f5147289f69d9dc22cb0ac91b7",
+      "date": "2010-04-24T22:06:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6f4257a3cf5ebe61648bb806f332aa8b73daddc5",
+      "date": "2010-04-23T22:49:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "95ae2997e27d7ceb0f30386043a8c05683384e83",
+      "date": "2010-04-23T20:51:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9d502a913733183a16bba5b6c2b0f24c950a0fa6",
+      "date": "2010-04-23T20:48:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9f57f1bd43615edc810e90194174395ecfd00c11",
+      "date": "2010-04-23T20:47:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b5cf7da1f3cf1d8ea7ff60c4184d7b4c5ecd4815",
+      "date": "2010-04-23T20:44:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f85eebc7446236b96d859c43353f103e9a08fb90",
+      "date": "2010-04-23T19:25:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f825359fae77ac8926d136587c8eb038eeffb672",
+      "date": "2010-04-22T20:58:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d6e5d0f3fdd538af56d251fbc5fe1a5f77064a1d",
+      "date": "2010-04-21T17:05:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e71c657a414e8d2b13f9ff27b7c669b8dc5d9031",
+      "date": "2010-04-20T21:06:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9a6880a41748c6be1d4315b830c5ec9ef65b7ba1",
+      "date": "2010-04-20T21:05:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1023892cddb77ad5b300614b86bf40a226ba977d",
+      "date": "2010-04-20T21:05:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e9e0ed42869c5d1dac108974e791328b385b959e",
+      "date": "2010-04-20T21:04:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3e15da59d172300e12ceb3bb3a60fd61ef7f8b48",
+      "date": "2010-04-20T21:04:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b87097f8988ecaec1e9b5ae83b53178947562a65",
+      "date": "2010-04-20T21:01:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "034ae27316078f79a5f26df67860fcc2d3f2f7c7",
+      "date": "2010-04-20T20:54:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4349bd7ac856b53dbbfcae9adf5326da70496e56",
+      "date": "2010-04-20T20:51:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "be4cccde7f1d6d070d38c5f2e58ee0ab03254283",
+      "date": "2010-04-20T20:50:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "df581f37586d34b1936537378f610dfe87bf471e",
+      "date": "2010-04-20T20:46:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c059e035d3238af321e08e75b1db96362b663dd2",
+      "date": "2010-04-15T16:29:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5020d725af5cd910081901cd36ec035a196a1bb0",
+      "date": "2010-04-11T20:02:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d0fc5bec5dc6e5979041fa095aedf832b9b79d22",
+      "date": "2010-04-07T20:01:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "298437ab8654bf1d0bfb7931e1b4fdcfefc70107",
+      "date": "2010-04-07T19:58:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "31ed1efce13b9556fef312276ff8110e1b7c6ff6",
+      "date": "2010-03-23T20:56:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d87b945ae8b0c09237f6c21f136fd1ae1ca63a9b",
+      "date": "2010-03-06T21:50:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "99fa2afc397f98fd675be3dfb490ee31c29c2946",
+      "date": "2010-03-06T21:46:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c8b33066a2d71773741d702df3d31725b051bacd",
+      "date": "2010-03-05T19:06:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7120ad3fcc7e1e859a97fde6b139ac5fdf9e0779",
+      "date": "2010-03-05T17:52:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7ec36f62f02d01955cc8e4acb6d7bed41c9c0453",
+      "date": "2010-03-04T17:51:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cc29d578ce92d097ea288c490ab547cc91d0ee74",
+      "date": "2010-02-28T13:23:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8ec5c0c19dfbe594c2ababec02e645be4f2a545e",
+      "date": "2010-02-28T13:03:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e5df18ba53d81948cc9e03a33916983a33af1e87",
+      "date": "2010-02-28T12:42:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "26d73105f1c2baa30171e104cd411a3a2e4286a4",
+      "date": "2010-02-28T12:20:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "212781b42935aedea5d155b3078ae67bb86ca2c7",
+      "date": "2010-02-27T15:06:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a2da31ea07b341fb1534a287754b890792249ef4",
+      "date": "2010-02-27T14:23:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7fda90e2946264ff733708f4bf986d73c3b65876",
+      "date": "2010-02-27T13:13:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e6006258c2a0990b7a9146106a8eb14509583879",
+      "date": "2010-02-27T12:37:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a20b24491c84b7901b215237789c25beac8d8c3f",
+      "date": "2010-02-27T12:35:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cb059b3a27e6e77cceb0b0a9ccb54c7856504a8b",
+      "date": "2010-02-27T11:59:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c7dea784ec92f18b271deec0d13fc859b81be9f3",
+      "date": "2010-02-27T11:40:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1860212c8a1df30db52280586c455a0f8fb662bb",
+      "date": "2010-02-25T21:55:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "fcbf16cd46f100e65cf57e8f72c5e5b56f147c0b",
+      "date": "2010-02-25T21:47:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0d7f2966d92953834690300b6448f8c5fc5b492d",
+      "date": "2010-02-25T19:57:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b2d2228d8b1b09d948b2b5227f306e17e8c82456",
+      "date": "2010-02-25T19:33:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "071ec583956f175252ee2b6d1cc5d5303dd0dbcb",
+      "date": "2010-02-24T17:28:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1b5f2f04a965627a202b2c37bd6e0a7a69675240",
+      "date": "2010-02-23T20:41:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ba68f9530f1ca47473694ac9b593514e5b409615",
+      "date": "2010-02-21T15:22:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "53064540baddd434bcd8c070ca85a6455cf56965",
+      "date": "2010-02-21T14:51:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "46be6bd98fd9d0dba47140b88de5a2c834221902",
+      "date": "2010-02-21T13:51:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b36cd62bf5aa68fb03b54ffba57aeccbbe4d4aef",
+      "date": "2010-02-17T21:01:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2b27fcaf22dee888858bba274281a9d649ec5aa4",
+      "date": "2010-02-17T20:32:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a462bcb008ac6fdcba6b914f886b2bdab2b5e3b4",
+      "date": "2010-02-17T20:04:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "799af77506532cd27c3e1b9acc5246660d8f4871",
+      "date": "2010-02-16T20:25:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d999bbfa5b5ef3e9dc439b4874ba9663c1a2cb76",
+      "date": "2010-02-16T17:53:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "eb234e0aaa13e8184149c6086f860d6f1c908192",
+      "date": "2010-02-15T20:08:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ca9e8054248eb8802d25af536fef30efa34aaed8",
+      "date": "2010-02-14T20:51:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a355eabfe1ac97dde6f9b25b96a749a2107ed1d3",
+      "date": "2010-02-11T16:32:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1fc5dabd3fdc5396223aa0d604a533a8c5f715ba",
+      "date": "2010-02-09T17:49:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ca564ee7fe8f371d9d8892b73bc9d8c5d7df4096",
+      "date": "2010-02-09T17:18:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "715ab65f67d84368847a24727285c36b019ca7dd",
+      "date": "2010-02-08T20:21:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ff041f4471f0bbbd61d758a54495577d05b686b4",
+      "date": "2010-02-07T18:24:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a29bf6dc590c2b0f373267782a46177c63d39e13",
+      "date": "2010-02-07T16:58:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e65a8d11180a70eca2d24776209f1519a455e3bc",
+      "date": "2010-02-07T15:49:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7cecb0131408af298d5a437c3e3576459e4e26a5",
+      "date": "2010-02-05T18:02:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "244e2052aa59319a0f4474d122a384373c7980be",
+      "date": "2010-02-05T17:51:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7c9fced92bf808f39c8f177b3a4d825a75b2d916",
+      "date": "2010-01-31T22:08:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b547d6a22dbc395becfbd0fc8662f04795a630f5",
+      "date": "2010-01-31T16:05:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bbd13b491a1d34d3e04d3b087485edabbae326d0",
+      "date": "2010-01-31T16:04:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "44a5ba0e6fd89d182977564364a476437841b7fe",
+      "date": "2010-01-31T16:02:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "306bce7fb96a1a98e679352e0322989ee5cc84df",
+      "date": "2010-01-31T13:47:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d4ea611f68d030901e8fdaf351055f1ddb634dd4",
+      "date": "2010-01-28T21:11:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ae8c67ee79978435afd1932ff3cd464c34f3eeaf",
+      "date": "2010-01-24T17:57:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7ebf582c08a9b1bfd73242ff53c7c0a9dd9bb3d7",
+      "date": "2010-01-24T17:20:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a9e6284b7f1b1e1064d44b8ce59691e6b1a9048f",
+      "date": "2010-01-20T21:49:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b6a5250fbeb5f4b6583a877574cd18361248a433",
+      "date": "2010-01-20T21:48:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ca388fdc6294fecefa2d488511b9d72d5dd9927b",
+      "date": "2010-01-18T21:16:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9bad07e59d0e96487b91f47e6977cd142cb62afe",
+      "date": "2010-01-17T13:33:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1d5f40ed811b3d38a91e54d31d336b692d1ef11a",
+      "date": "2010-01-17T00:34:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "854a3d9e66faf0cdd98856fbcb6507155cc81271",
+      "date": "2010-01-12T21:33:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7838feb89601c05657960df0f5453c110ea909bd",
+      "date": "2010-01-12T18:15:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a2e64bdba0353df8badcc98c0589bd75fe8722e0",
+      "date": "2010-01-10T19:15:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "47631d634154928e54b85880c0ae822e748c6e12",
+      "date": "2010-01-10T19:12:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e38ea46de7b4b91f1a8572309791e4aa6d7446e2",
+      "date": "2010-01-10T16:42:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ea43258d3571e25d68d80a7d965927ebb6b83cb0",
+      "date": "2009-12-16T21:11:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4e2ace011103afa0df77523781e36685cbfc3a4a",
+      "date": "2009-12-16T21:10:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "abb2328331c0b24c57e95c1be754449715ab8118",
+      "date": "2009-12-16T21:01:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "342708d17ee0fd6097c22a0855c9bc92e5d64edc",
+      "date": "2009-12-13T21:38:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "67071e059350c5297bbd7cbfd095723d2e6221a2",
+      "date": "2009-12-13T21:01:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b5a681ea383c8588018132cf4c297acb65a33198",
+      "date": "2009-12-13T19:11:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9ce66dc80935816ead91975aec429d014e9f3527",
+      "date": "2009-12-12T21:49:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a896ba31b4d0d2dbab248d713758f3dabf058439",
+      "date": "2009-12-12T21:32:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f4eb03fb17aecd68537ee65e7950c8e1cb6846e1",
+      "date": "2009-12-12T21:16:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "86a8f6a4b606ebd5cb37771fa5706c6559bd62ba",
+      "date": "2009-12-12T20:51:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9a9b2390d5698ff6f5c97cbbff31b17191409a2f",
+      "date": "2009-09-12T12:22:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "353652dd643d3283ecb0a89317c47b4818e36b80",
+      "date": "2009-09-08T20:53:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0040eb8a5154954cc30f511cc8d3084eb4ef5b5b",
+      "date": "2009-08-30T14:46:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f7ec6fc84a40997beecc9b81b83ba8de0e3a4043",
+      "date": "2009-08-30T13:49:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "50936272cba6a044d2a62fd84db291289f738f00",
+      "date": "2009-08-23T20:47:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a53eace563c7e852b1892d9906930245c20f19e9",
+      "date": "2009-08-23T20:33:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d88c2e1250c3147a55afdacac18a9c72c488f399",
+      "date": "2009-08-23T20:31:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e2582db1a6f8a01e8ad1685c461677fad116f65d",
+      "date": "2009-08-23T13:49:46Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1f29e2773954db30cdcc6a11dcebf2b4d02cea0f",
+      "date": "2009-08-23T12:27:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cb763dc91fdfee7c480bcc4c93cb529502d6ba36",
+      "date": "2009-08-23T11:04:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "741d51e9f7fc04ad590334b256a9868be752c4a6",
+      "date": "2009-08-22T22:17:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2478875916f6f6e7e4b42373fc8822afd2712a92",
+      "date": "2009-08-22T22:17:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6b5bbae771174b478b26b661232cc7258bebade0",
+      "date": "2009-08-22T22:14:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "6cf083ac410390d1cd2ec0da5a58cc0993610d39",
+      "date": "2009-08-22T19:24:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a45ae33a16b27149b8f898ad1611b6dd441392b9",
+      "date": "2009-08-22T18:46:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "307de2c2470282f3513f2aaac4326ce710aff5de",
+      "date": "2009-08-14T17:14:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0b93713bb18dbade807ef830519a70d031a5f6d7",
+      "date": "2009-08-14T17:12:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c906ca300d52e562d4f6236508861df91f150516",
+      "date": "2009-08-14T17:10:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8eb78ad5c43aa572904a68ecf9225936141fff24",
+      "date": "2009-08-13T21:49:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7bfbbf0bbf4c324a3a4e1f95ed50352e944d2576",
+      "date": "2009-08-13T21:38:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8e3221616548e1fb35f53c53e9d0a9a52fdabb8e",
+      "date": "2009-08-13T21:18:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d41b1f7ed0f384f90487fc5f8430bfa780844fb0",
+      "date": "2009-08-13T21:07:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7435e949945fd69d09178557b77e55bf94a80f9c",
+      "date": "2009-08-13T20:52:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d252ae19c9f49620c829665e4fb42fe6154b3427",
+      "date": "2009-08-13T20:32:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "39ff3adfce5b57a7c96721ae503864c0f0904c20",
+      "date": "2009-08-13T20:19:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0a1d02651c4b74de4ac0aba98d7232d660099c4e",
+      "date": "2009-08-13T19:43:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4ff1e568c610843bac71a1a0b30adad7faff275f",
+      "date": "2009-08-13T19:38:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "49b2fef922e19884116aac20e78d7c643dd2294d",
+      "date": "2009-08-13T19:33:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2e76ac63a1898ca49c46a8c8cfb84f41b0a67180",
+      "date": "2009-08-13T19:32:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1cb1058170c9244b4b0e5b4b8847b8842dcffab1",
+      "date": "2009-08-13T19:29:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "50d5402a6a4b470d0fb1b3704ef6b0aeaec383f9",
+      "date": "2009-08-13T19:28:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "283ceee095c4cc1b942f248369a021fb0105dfc7",
+      "date": "2009-08-13T19:26:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4ed485d5227b88188c61e949ae9c966e88d542ad",
+      "date": "2009-08-13T19:16:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bd7c354856e3e54588dd836ca17064e3e39a36b7",
+      "date": "2009-08-13T19:02:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ff1fa536b91f10a4a98ac6d4d21a1fe9374a0a03",
+      "date": "2009-08-13T18:54:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ce6c361b0bcf65b8d218ea407e42cf9f1c8337a4",
+      "date": "2009-08-09T21:02:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "940941a9d5b5d5851d5f5c94beabe601f49caf30",
+      "date": "2009-07-26T20:54:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7f5d06b93b9bd855424b34bac0c17813099fdc36",
+      "date": "2009-07-26T18:19:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7641951692d7cbf729f0647b50a5cbe7c4eb8d14",
+      "date": "2009-07-22T16:45:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e13f086068aff0e1844161dfc1ad74b2483b5b42",
+      "date": "2009-07-21T17:05:49Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1f212eff0ab9217153c64d7d0828c8e297fa486f",
+      "date": "2009-07-21T17:02:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f513bb8f3984f03e4df07d7eec3fcc42d41a7265",
+      "date": "2009-07-21T16:59:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f2f16fbb2966e4ab71cd5d9fadd6d345319f1025",
+      "date": "2009-07-19T16:33:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "38b699bdde66c6536efd2c16b73f384d3bbe6d3a",
+      "date": "2009-07-18T20:32:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a71f0038fa404ed679251cae8c737c52e6ce4106",
+      "date": "2009-07-18T19:37:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "051a0c8bd20e7d87313ef4f769ce2d1ec61f4d94",
+      "date": "2009-07-18T19:33:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "d9b40068bd3aef992a423ef4dfab2ddc2d9fc889",
+      "date": "2009-07-18T19:18:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "4a664b8cf54f0e284e562e2033c5ebc6e04cb672",
+      "date": "2009-07-18T19:11:48Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "0dcdb91efad33aa061baec19ce30c16e2e8a67f5",
+      "date": "2009-07-12T21:19:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ccc1e9da1f49289839758366f2b330aebdc245dc",
+      "date": "2009-07-12T21:13:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3cba67f620dba38bd883b08aff54ff9f14e80455",
+      "date": "2009-07-12T21:02:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e836f3b761982c0ad7a66b91fceac73faceac852",
+      "date": "2009-05-06T15:43:29Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a83fed177c04c44b773ada5a98b468e95cfd69ef",
+      "date": "2009-05-06T15:12:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "985cef59e81828d44b5aa04197927f414a7c64fa",
+      "date": "2009-05-04T18:05:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "12de3e006ac412c4a1224f6b87793600c0332620",
+      "date": "2009-05-04T18:00:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "42b2233b3b8fac8b44176ae473c8227bda74c276",
+      "date": "2009-05-04T16:47:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "790b11ddec6b7ab18a5c9bb82912009df0964436",
+      "date": "2009-05-04T16:35:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f8bcc11740a220541fd6eea97ecf3ad1d437f43b",
+      "date": "2009-05-03T21:07:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "62fefa2cc13a954377c555186019d7b18c6de388",
+      "date": "2009-05-01T13:21:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cd68bd2beaf2564d0253abcccdd56fe952db377b",
+      "date": "2009-05-01T12:32:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "45327e6ae97296f8a5a4fcca9a5c429728a8cd11",
+      "date": "2009-04-27T20:57:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "01fc47e22c22777c607c0dcd3366ba660ab5e0c0",
+      "date": "2009-04-27T20:41:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "aa47d91603983434eb89f93b2e90f98ae2f32b74",
+      "date": "2009-04-27T20:10:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "7a8f9e3d260e6e9e895b567484b3f516483174dc",
+      "date": "2009-04-27T17:15:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a1268a48504fbec54d26373743e3b33ca0fdbf96",
+      "date": "2009-04-27T16:47:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ddd463810b0aee3d65e3b7207c7071a5e45f93e8",
+      "date": "2009-04-27T16:30:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "8ba8a02338285451afd9c4531de61fa45b03042f",
+      "date": "2009-04-27T16:26:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1c98152939f1e66d6a14c7a83851bb29bd961e22",
+      "date": "2009-04-27T16:14:54Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "e0caad1fa7c6ac24671765b3cd0265f6a656edaf",
+      "date": "2009-04-26T21:20:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "de12d9600e31f8c24dd02bd0279a32bbceff3299",
+      "date": "2009-04-26T20:45:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "03692aea7ffba06fe7eb5217762f165361de404b",
+      "date": "2009-04-26T20:41:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "120b5492113a42770dda3967c86be70617da7ca6",
+      "date": "2009-04-26T20:32:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9a0149daff808a65636cae08eb49c5c31cf0b3fa",
+      "date": "2009-04-26T19:15:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "9bead7e1d7bc6d8ae86be5aa8bb140bed42c2b63",
+      "date": "2009-04-26T19:11:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1bf612c89584e1f42adc413cce9be16d55634177",
+      "date": "2009-04-26T18:44:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f3dbcbcc91ec023eebd38d22b03a24c2e23bb6a0",
+      "date": "2009-04-26T18:41:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "cc882e2418267b2faa2b158cc437b2413fd40470",
+      "date": "2009-04-26T18:23:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "308c9bbe5f8cc800eefb446903c6a293953dffc0",
+      "date": "2009-04-26T12:38:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c27918eb2a2a9a0cf3ceba72f01e48da924c8d30",
+      "date": "2009-04-26T12:35:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "36ff09ebdaee57509d8ebc4b5113023186898a25",
+      "date": "2009-04-25T21:34:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3fad3902183ba320e3c226fe758a1d312eb215b8",
+      "date": "2009-04-24T22:30:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1a49b6dd4df1712e87c93ca2fa6aab9cf92dcee6",
+      "date": "2009-04-23T20:47:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "46a4583f9fd41a39d5b6ef6a61f6ae4ab0d1d97c",
+      "date": "2009-04-23T20:44:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b18336ede70b1647fff7a291ac49814f2459dc42",
+      "date": "2009-04-23T16:40:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b49f6ae0a4c4dd1b504f9201887010f9b3bdc039",
+      "date": "2009-04-22T20:40:40Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "1764fef3947bfd8c0df9a4bd35610b662c7b2f78",
+      "date": "2009-04-22T16:59:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f76643c8649be2569528ea0c0a420ebf34feb498",
+      "date": "2009-04-22T16:43:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "bf7d6ea42e393fa22b9d13587e2d044e7fcad229",
+      "date": "2009-04-22T16:25:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f6d82859db3e91b21bf32caf55be46a670336530",
+      "date": "2009-04-21T20:48:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "86bfc9aa6eff7c1134e2deaa2a570a64ebea7884",
+      "date": "2009-04-20T20:55:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3ca571fa6a0a04430d868f76ccd6500fcae61bf3",
+      "date": "2009-04-19T21:45:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "f00a1d16d5e4d2a3397605f8be10303bfc397015",
+      "date": "2009-04-19T21:23:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "2ebac2ca827ec22d9b2e5645db6696365d55d613",
+      "date": "2009-04-19T21:14:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "5559b1145407d007c0743f33fb17bf16958111b9",
+      "date": "2009-04-19T17:52:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "50a9fc4ad52b94724a9e1e5e437b962c08f272ca",
+      "date": "2009-04-19T17:50:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "a2a8af094f8e8b5da4d7c73cc1750ad934ee26d0",
+      "date": "2009-04-11T22:55:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "3e28a73c06fe3cc9fba66eb9f202ee62722bdb84",
+      "date": "2009-04-11T21:20:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "ab609b86d074dd0d6a5cfcc71d55e9297e107985",
+      "date": "2009-04-11T17:56:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "906e24b647487b4b844b46430f2f6555ac3a25eb",
+      "date": "2009-04-08T13:12:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "b7146c71ba196e614be9db8af7265c4ccbfcd39c",
+      "date": "2009-03-28T19:51:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "commit",
+      "id": "c903111353edd190882f8981f06002da98ab1ef4",
+      "date": "2009-03-28T16:44:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "minimagick/minimagick",
+      "type": "commit",
+      "id": "c407ebd8f27c2deb23597d27ad5447df3926eae0",
+      "date": "2011-04-12T19:40:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2796,
+      "date": "2009-04-23T20:53:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2797,
+      "date": "2009-04-23T20:55:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 3085,
+      "date": "2009-04-24T20:02:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 4108,
+      "date": "2009-04-28T06:08:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 4378,
+      "date": "2009-04-29T05:51:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 4401,
+      "date": "2009-04-29T09:27:21Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 5737,
+      "date": "2009-05-04T17:24:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 5739,
+      "date": "2009-05-04T17:25:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 17613,
+      "date": "2009-06-12T20:00:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 30814,
+      "date": "2009-07-25T10:14:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 135697,
+      "date": "2010-02-15T20:22:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 135788,
+      "date": "2010-02-15T22:07:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 137725,
+      "date": "2010-02-17T20:52:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 146820,
+      "date": "2010-02-28T13:43:50Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 150291,
+      "date": "2010-03-04T09:27:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 234369,
+      "date": "2010-05-09T13:21:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 234594,
+      "date": "2010-05-09T20:18:18Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 268413,
+      "date": "2010-06-08T20:15:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 279858,
+      "date": "2010-06-18T13:00:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 304711,
+      "date": "2010-07-08T19:27:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 316175,
+      "date": "2010-07-17T14:25:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 317509,
+      "date": "2010-07-19T07:13:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 321643,
+      "date": "2010-07-21T21:21:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 552842,
+      "date": "2010-11-19T08:16:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 552936,
+      "date": "2010-11-19T08:45:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 662794,
+      "date": "2011-01-08T16:08:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 755890,
+      "date": "2011-02-09T22:02:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1074192,
+      "date": "2011-04-29T07:30:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1106678,
+      "date": "2011-05-05T16:30:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1151253,
+      "date": "2011-05-13T06:41:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1152921,
+      "date": "2011-05-13T13:51:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1152969,
+      "date": "2011-05-13T14:02:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1154769,
+      "date": "2011-05-13T16:47:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1163740,
+      "date": "2011-05-14T21:08:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1165633,
+      "date": "2011-05-15T10:49:22Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1218514,
+      "date": "2011-05-22T20:29:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1218723,
+      "date": "2011-05-22T21:32:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1241149,
+      "date": "2011-05-26T09:18:55Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1244878,
+      "date": "2011-05-26T19:51:09Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1308062,
+      "date": "2011-06-06T09:21:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1336532,
+      "date": "2011-06-09T19:18:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1352661,
+      "date": "2011-06-11T19:56:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1445702,
+      "date": "2011-06-27T07:44:53Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1446630,
+      "date": "2011-06-27T11:22:25Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1591490,
+      "date": "2011-07-17T21:06:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1602685,
+      "date": "2011-07-18T21:37:15Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1652500,
+      "date": "2011-07-26T08:24:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1652780,
+      "date": "2011-07-26T09:20:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1653762,
+      "date": "2011-07-26T12:46:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1666644,
+      "date": "2011-07-27T19:09:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1666910,
+      "date": "2011-07-27T19:41:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1681052,
+      "date": "2011-07-29T13:12:24Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1707159,
+      "date": "2011-08-02T07:45:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1734359,
+      "date": "2011-08-05T10:40:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1758704,
+      "date": "2011-08-08T21:58:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 1767393,
+      "date": "2011-08-09T21:01:27Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2108128,
+      "date": "2011-09-15T19:31:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2155411,
+      "date": "2011-09-21T12:30:45Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2502118,
+      "date": "2011-10-24T11:02:11Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2514043,
+      "date": "2011-10-25T07:40:43Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2522288,
+      "date": "2011-10-25T20:08:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2531512,
+      "date": "2011-10-26T15:14:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2532970,
+      "date": "2011-10-26T16:55:10Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2841379,
+      "date": "2011-11-22T21:56:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 2967292,
+      "date": "2011-11-30T22:07:47Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 3180095,
+      "date": "2011-12-16T17:28:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 3248925,
+      "date": "2011-12-22T13:20:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 3295709,
+      "date": "2011-12-28T22:06:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 3372489,
+      "date": "2012-01-05T16:59:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 3421758,
+      "date": "2012-01-09T22:40:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 3990191,
+      "date": "2012-02-15T22:05:36Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 4656278,
+      "date": "2012-03-23T09:56:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 4811073,
+      "date": "2012-03-29T11:53:02Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 4886868,
+      "date": "2012-04-02T19:53:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 5023900,
+      "date": "2012-04-09T11:41:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 5230265,
+      "date": "2012-04-19T19:44:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 6757875,
+      "date": "2012-07-04T11:04:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 7278694,
+      "date": "2012-07-26T14:14:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 7798416,
+      "date": "2012-08-16T20:33:19Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 7969493,
+      "date": "2012-08-23T13:30:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 8588046,
+      "date": "2012-09-15T19:31:04Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 9447461,
+      "date": "2012-10-15T14:46:28Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 9849547,
+      "date": "2012-10-28T19:43:41Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 9863677,
+      "date": "2012-10-29T11:53:26Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 11775202,
+      "date": "2012-12-31T10:33:14Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 13392605,
+      "date": "2013-02-11T17:46:38Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 13402909,
+      "date": "2013-02-11T21:08:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 13429998,
+      "date": "2013-02-12T12:17:39Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 14226882,
+      "date": "2013-02-28T10:31:34Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 14386198,
+      "date": "2013-03-04T15:30:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 14801993,
+      "date": "2013-03-12T20:44:20Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16637320,
+      "date": "2013-04-19T05:58:33Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16637514,
+      "date": "2013-04-19T06:08:23Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16650619,
+      "date": "2013-04-19T12:37:31Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16651029,
+      "date": "2013-04-19T12:48:56Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16651276,
+      "date": "2013-04-19T12:54:13Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16651332,
+      "date": "2013-04-19T12:55:35Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16651565,
+      "date": "2013-04-19T13:01:07Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 16656447,
+      "date": "2013-04-19T14:38:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 17151241,
+      "date": "2013-04-29T06:03:42Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 17477564,
+      "date": "2013-05-06T11:50:57Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 17480504,
+      "date": "2013-05-06T13:10:08Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 18169244,
+      "date": "2013-05-20T20:06:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 29289899,
+      "date": "2013-11-26T12:57:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 33561369,
+      "date": "2014-01-29T07:09:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 33561890,
+      "date": "2014-01-29T07:23:01Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 36788785,
+      "date": "2014-03-05T20:22:16Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 41036308,
+      "date": "2014-04-22T13:02:30Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 41610457,
+      "date": "2014-04-28T20:39:51Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 44965383,
+      "date": "2014-06-03T13:41:05Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 46667768,
+      "date": "2014-06-20T11:10:58Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 69821032,
+      "date": "2015-01-13T21:12:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 72952290,
+      "date": "2015-02-04T22:19:17Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 75565376,
+      "date": "2015-02-23T15:32:37Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 84970018,
+      "date": "2015-03-23T12:20:44Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "com",
+      "id": 143662570,
+      "date": "2015-09-28T07:47:00Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 47,
+      "date": "2013-03-22T10:20:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 46,
+      "date": "2013-03-22T10:17:59Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 45,
+      "date": "2013-03-22T10:03:12Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 26,
+      "date": "2011-08-26T09:11:03Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 25,
+      "date": "2011-08-26T08:56:32Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 19,
+      "date": "2011-04-13T12:41:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 18,
+      "date": "2011-04-13T12:04:52Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 17,
+      "date": "2011-04-13T12:00:06Z"
+    },
+    {
+      "dev_id": "dicom",
+      "repo": "dicom/ruby-dicom",
+      "type": "issue",
+      "id": 9,
+      "date": "2010-04-07T20:55:11Z"
+    }
+  ]
+}

@@ -1,0 +1,3963 @@
+{
+  "user_repo": "emberjs/ember-rails",
+  "dep_repo": "rails/jquery-rails",
+  "dep_date": "2013-10-24 19:19:59 UTC",
+  "dep_commit_id": "4c215706e871b48e9bdcd1e766a256b4ef4ce665",
+  "social_date": "2012-04-16 19:18:44 UTC",
+  "devs": [
+    "chancancode",
+    "indirect",
+    "joliss",
+    "tricknotes"
+  ],
+  "interactions": [
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "5e854ff7028160fd7fcd42479017d55f8dd98965",
+      "date": "2014-12-19T23:48:50Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "dca5893b356bcf6d3e4e57ea1c4f1280e7501f1d",
+      "date": "2014-12-19T23:47:54Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "94558fd15bad77719d15090ba1b743564f1b1201",
+      "date": "2014-09-06T03:16:44Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "0f16815f1cf7dee2cc24a8079904723791287457",
+      "date": "2014-09-06T02:13:49Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "c338a6d07542ad1e639017d1ee1c654767166574",
+      "date": "2014-09-06T00:32:38Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "1c5920bf29ca706f5b21ea37d9e2f507555c6f75",
+      "date": "2014-08-30T03:05:10Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 29773986,
+      "date": "2013-12-04T03:00:06Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 30872828,
+      "date": "2013-12-18T19:34:04Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 53321279,
+      "date": "2014-08-25T20:10:53Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 53946198,
+      "date": "2014-08-30T02:19:36Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 53947214,
+      "date": "2014-08-30T03:19:28Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 54067317,
+      "date": "2014-09-01T14:45:52Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 54697737,
+      "date": "2014-09-06T00:58:34Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "emberjs/ember-rails",
+      "type": "issue",
+      "id": 400,
+      "date": "2014-12-04T06:52:06Z"
+    },
+    {
+      "dev_id": "chancancode",
+      "repo": "rails/jquery-rails",
+      "type": "issue",
+      "id": 168,
+      "date": "2014-08-30T02:19:18Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "94a231fa9103ea5d8cbe43321ee16609a5d33129",
+      "date": "2012-04-28T11:00:09Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "cad456a33d4a4c4123e35918e85ebb91a7a9576f",
+      "date": "2012-04-29T22:14:05Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "da21e7965c2ebc84b3d50e16a2471a5007bade47",
+      "date": "2012-04-29T22:14:10Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "449093c51eccbb36ac4a9c6b194313b28b77515f",
+      "date": "2012-04-28T10:59:50Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "440d6bcd0f202d56c1b6e8f7c52387d12a2054fb",
+      "date": "2012-04-29T22:02:22Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d50bb5b7709719df02b91264fc437bc5390eddb4",
+      "date": "2012-04-28T11:06:33Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "b70b226c499e4204cb1c508f6b27b3b1b11dbfaa",
+      "date": "2012-04-28T10:56:21Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "16aa3f633d8f8f48df73942b057132356bfd3d9a",
+      "date": "2013-12-19T03:53:22Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "bd6c64153c4fa475fae6f58615f637c7585d05d6",
+      "date": "2013-07-11T03:32:07Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "cf47e7141fec4ee6f2a75f43c6664d11d0e5ca50",
+      "date": "2012-11-27T23:49:20Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "8c06dc06b336b68755da551dbc11d0237c7def28",
+      "date": "2012-11-26T17:24:15Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "a90cac062b47f77529c1f920d2e088e0959dc124",
+      "date": "2012-11-26T17:20:37Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "29d632b9a9aa4a5c76d1d4b0cb10080233d82858",
+      "date": "2012-11-26T17:13:44Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "89995ca530508692f41c0aeb834f454889304ac7",
+      "date": "2012-11-26T16:56:25Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "0f96105aa17b062e1b49e184941d13bdc2ac8ce0",
+      "date": "2012-11-22T17:36:48Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "d4329188f5d460da5e3c660e2524d88d4dacf8a8",
+      "date": "2012-11-22T17:30:13Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "7227796559768de04bb88581dcc2a1cff0dcdecb",
+      "date": "2012-10-01T18:03:14Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "c1eb6aeeb213202eadff373067db6f4c3e7581f3",
+      "date": "2012-05-29T18:20:20Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9205e3eb0269a2103b9022fa968f1092534beeef",
+      "date": "2011-05-26T20:40:38Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "430efe809ab7ff22f48081fe4785f03f4fa61ac5",
+      "date": "2011-05-26T20:40:04Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9adbff424c28c542c7c0aab128d0bcae980b1d4a",
+      "date": "2011-05-26T20:37:06Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "a38fda7e9af4afe010ad616b18357003e8b48cfa",
+      "date": "2011-05-26T20:36:41Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "0f5b38daacf9b97229fd9b03106b4daaf1777cb5",
+      "date": "2011-05-24T22:06:02Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "3a8007fc5cf6019e56d37af5675ba4e78aee239a",
+      "date": "2011-05-22T02:41:59Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "ba760f3c20619cbf38c92b126d2dc4073afac4b7",
+      "date": "2011-05-22T02:39:05Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "8836541a9d75710aecec5f4ea08cade0496bd09d",
+      "date": "2011-05-17T17:24:58Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "8b1a80d78f857e0426be603d90f0ad7cb6c4647b",
+      "date": "2011-05-17T17:13:45Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "15e630ac8b01fbfa24d0696f014d79f920078275",
+      "date": "2011-05-17T17:10:56Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "a4d01e911b72c939f44aaf40229d8bb4513865f8",
+      "date": "2011-05-17T13:44:40Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "f987e02de4ce5d0cd623ea84bdf035ebc843dbd6",
+      "date": "2011-05-17T13:43:48Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "c8f0383ea97bf25ea20116e13ff0ef11da7fd01c",
+      "date": "2011-05-17T13:41:53Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "66ff41ed0132d6df3e7b940d402759e4520514cb",
+      "date": "2011-05-12T21:11:33Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "5bb1f20a5e35c621f6bfbfa6b8f35c22caac705f",
+      "date": "2011-05-11T07:07:13Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "0f1f809ee042035118190fa7586ee2ce06565e9d",
+      "date": "2011-05-11T06:55:43Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "2fdd38996e3582666d159846aa6a60188ea9a05b",
+      "date": "2011-05-11T06:55:39Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "a1adf3000acdd2f54296e44d8d436ac19a2a3cbb",
+      "date": "2011-05-11T06:42:08Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "8800c15e7dfc574310719a9bb668cd3e5eada575",
+      "date": "2011-05-06T19:52:19Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "0bd6b598501d405aa6c3e94fc100507ba10bdc8b",
+      "date": "2011-05-06T19:48:07Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "5fe0bcd260c6014ad892f488872d7292a24c9b0a",
+      "date": "2011-05-06T19:41:34Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9b0d46ba702c475c898c9b0bd9d8c069dc174fba",
+      "date": "2011-05-06T19:41:18Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "caf852b2716dd7017c4edfd4abb571b4bb779ace",
+      "date": "2011-05-06T19:40:26Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "524534513ba59c05b356772180c52c44315d4ba3",
+      "date": "2011-05-04T08:42:54Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "8ef88b1fe019465b0cd8038d3f96c8643e2f83b1",
+      "date": "2011-05-04T03:12:02Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9e4c9fdd9ed0d2d8ce0f68944fa5abd9b8d9ddbb",
+      "date": "2011-05-04T03:02:46Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "5917d1d45e6fb5b5814390b22db02de564ba43e9",
+      "date": "2011-05-04T03:02:35Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "3ddc02c416a1be6eb697e6ca12b097af74f7d855",
+      "date": "2011-05-04T03:08:48Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "858304c232836c5e23a6e13114139c16906e39aa",
+      "date": "2011-05-04T03:01:42Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "6cc8f44f5549c182982ae23b432bdd20985c20a4",
+      "date": "2011-05-04T03:02:20Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "ebff14ff13628573e1047cc194d9d61f4442015d",
+      "date": "2011-05-04T03:02:05Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "ae0acdc6d67b0aeaca3bc09117d19fe028c42e86",
+      "date": "2011-05-04T02:10:27Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "3bd77102c15d772cc8aa1b0c6e1b89501057a000",
+      "date": "2011-05-04T02:10:19Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "42cc7396a07322c1d6f94808ea51228853e8e10e",
+      "date": "2011-05-04T00:10:37Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "6e455500480581958158364013cbc7c7b2eb8a0b",
+      "date": "2011-05-03T23:50:23Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "b632ec6a71a6781910a4461eb45cd13f2d54f1b5",
+      "date": "2011-05-03T23:50:15Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9c698bf2868c6a64391551a2338a715f2a4809f6",
+      "date": "2011-05-03T06:21:59Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "7f678323d21985e2b0b3953c33740014f390ce0e",
+      "date": "2011-05-03T06:20:55Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "20f31dbc5f9456e9303439a7870ea5cbc2fa9d61",
+      "date": "2011-02-05T20:33:00Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "fba28b9d783f8704ff0d6f616e6acc1b91d70ab1",
+      "date": "2011-01-07T21:09:16Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "350e626943086cd9e45b5041a0eccce0de633af3",
+      "date": "2010-12-02T06:35:23Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "a50afdc6ebbe03c1bcf67928e5ed0b4c1016eae3",
+      "date": "2010-12-02T06:33:37Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "59a6fee0df485d5cc60abb6ef324af73fcbd049e",
+      "date": "2010-11-04T17:22:34Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9f51b1403d7ede82abc2987ad5e91c055eee7f98",
+      "date": "2010-11-04T17:17:27Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "74718bc011082f36fb0e598473eb38b9ceaf94c4",
+      "date": "2010-11-04T17:17:07Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "d5cbb3b8f38cfddac6d2fedc41c6c58175409175",
+      "date": "2010-10-21T02:56:42Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "cd5cee6a50ff8b50d31bb61860a63aec0cbbb637",
+      "date": "2010-10-21T02:56:29Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "437727a7e058af31c818b26eb1184e91d7d2aaa5",
+      "date": "2010-10-21T01:37:15Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "a30758ab71c1f95809ce0d85a5e0c768c8fae55a",
+      "date": "2010-10-21T01:34:03Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "3b50a5af8477c81eb805a15a39f798ab190947d3",
+      "date": "2010-10-20T22:55:07Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9eb2931312cbbec95a1345513704c5fcb1a2e83e",
+      "date": "2010-10-20T22:51:52Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "45c87b16d32988b5e7dfce967c1df9f78c2ab465",
+      "date": "2010-10-17T06:55:50Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9678a3d42dad670a3d381754196dc39979fce177",
+      "date": "2010-10-17T06:55:15Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "f7a7f13b43c2aab0ddbf04f7a9a6cc18237034f5",
+      "date": "2010-10-17T06:52:14Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "082affa76ef8bcc65445161a7364be81bb504a5e",
+      "date": "2010-10-17T06:30:30Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "5d32fa6c496f2207c9d94f6b71109c9e6a274a71",
+      "date": "2010-10-17T06:29:03Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "f19cfc634f064c02afa0faecaad99620388b7235",
+      "date": "2010-10-17T05:47:21Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "bb0f8409d16b8ef79d301996df467071799f2190",
+      "date": "2010-10-13T18:15:27Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "04110837b05236f18eadb22e073999c63d8bfd42",
+      "date": "2010-10-13T18:14:44Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "f686cb3a544151f81df6780520980897b259940b",
+      "date": "2010-10-13T18:14:27Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "b0122ae1e14f7f9dd0f738f46bcb759002bf6c37",
+      "date": "2010-10-13T18:14:03Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "c6fa9385a9202e8f878e416007ebab8ad59ad4f2",
+      "date": "2010-10-13T18:10:06Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "0652b288310f022258e9230b35f74483e2c4470a",
+      "date": "2010-10-13T18:07:56Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "42755b2d95103bc46b11a91152b5f22cd0657da5",
+      "date": "2010-10-13T18:07:11Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9731a9b064c5d3f5fead3909173f8e5c14de41a2",
+      "date": "2010-10-08T21:49:01Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9e3d3232606b9e319f8c66a15782a670156db5f4",
+      "date": "2010-10-08T21:25:03Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "21a8e5bcb902e4335b56bb5b6df6705814bcb533",
+      "date": "2010-10-02T23:10:06Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "e11d3841bc6f5ea62479f58f47792b0b2a82f15e",
+      "date": "2010-10-02T18:25:40Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "41cc61d69212aec4171c1365f0f1a5e35f992b2d",
+      "date": "2010-10-02T18:18:11Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "e25a881efd3ff9e70cd45a49be5269753a48b926",
+      "date": "2010-10-02T18:12:03Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "9aa7ca6f99381b828b9cf7ba82c020f2710bafe0",
+      "date": "2010-10-02T18:11:35Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "3a3adcf93997b6bf2450becd215cd71a0ca30ff4",
+      "date": "2010-10-02T18:07:04Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "459f557e203d21edd0ee7d456b44c34e8df5c1b9",
+      "date": "2010-10-02T17:51:19Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "e91e8126dc08464579b9f78171629b190e0bdd88",
+      "date": "2010-09-16T19:54:58Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "ca8e007c471e80a66af01496ae1cd7f1a19bee5e",
+      "date": "2010-09-16T19:50:48Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "d7cb074f9e7e6c7281bd73b154226b1a27fe5c83",
+      "date": "2010-09-16T19:46:59Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "b62e12c1e0b59cc397cc2fee8bd03664a06c2e39",
+      "date": "2010-09-09T01:41:28Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "da57404b7a87baf381ee59d96c6d96bac403e8a9",
+      "date": "2010-09-03T02:18:17Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "b7796062e839569e9ff034b19bb75224ac871b42",
+      "date": "2010-08-31T16:56:50Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "95e85c13877764a6c519755e88b18aa5c6dc45c9",
+      "date": "2010-08-18T08:45:58Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "d4d1cedb782932ae8abd2ede38374ae3cbdf0d76",
+      "date": "2010-08-18T08:45:42Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "4b1462779dfae29fdfe2774f9276141148cb74f6",
+      "date": "2010-08-18T08:45:25Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "95115e48186ba656657871de865795e5094f56b1",
+      "date": "2010-08-16T23:10:14Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "8f0fd78d15dfb8e4b8d5075d26fe65293c492caf",
+      "date": "2010-08-16T23:09:23Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "6617ebaf90626fde9c5254798a877248f0c81793",
+      "date": "2010-08-16T23:05:05Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "036ca0e8d484775c0048591d8223eea81ceb0e7e",
+      "date": "2010-08-16T23:04:53Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "e76ae48c7dea81511dd3949246be4ff51a3bf6a4",
+      "date": "2010-08-16T19:35:20Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "7d6abaeb4a4d73b8c2da412a30ca0a32e716666b",
+      "date": "2010-08-16T19:31:38Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5351414,
+      "date": "2012-04-26T07:59:36Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5517407,
+      "date": "2012-05-04T18:43:30Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5564732,
+      "date": "2012-05-08T00:37:36Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5566236,
+      "date": "2012-05-08T02:48:12Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5617122,
+      "date": "2012-05-10T03:02:21Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5640037,
+      "date": "2012-05-11T00:15:15Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1271478,
+      "date": "2011-06-01T01:14:05Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1300639,
+      "date": "2011-06-04T03:39:59Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1302440,
+      "date": "2011-06-04T19:00:06Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1335777,
+      "date": "2011-06-09T17:29:34Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1344794,
+      "date": "2011-06-10T20:24:05Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1488099,
+      "date": "2011-07-02T01:10:45Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1491493,
+      "date": "2011-07-03T05:57:14Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1495574,
+      "date": "2011-07-04T04:20:31Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1585576,
+      "date": "2011-07-16T01:46:49Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1589348,
+      "date": "2011-07-17T06:47:20Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1590606,
+      "date": "2011-07-17T16:53:48Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1591570,
+      "date": "2011-07-17T21:28:43Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1771224,
+      "date": "2011-08-10T09:36:45Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1775417,
+      "date": "2011-08-10T18:40:13Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1860458,
+      "date": "2011-08-20T18:29:26Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1860468,
+      "date": "2011-08-20T18:32:13Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1860470,
+      "date": "2011-08-20T18:32:57Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1885229,
+      "date": "2011-08-23T23:20:21Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 1937404,
+      "date": "2011-08-29T23:22:54Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 2822298,
+      "date": "2011-11-21T22:29:02Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 2822381,
+      "date": "2011-11-21T22:34:46Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 6927003,
+      "date": "2012-07-12T04:56:25Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 6927722,
+      "date": "2012-07-12T06:05:14Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 7539867,
+      "date": "2012-08-06T23:40:39Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 7539916,
+      "date": "2012-08-06T23:44:31Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 7540458,
+      "date": "2012-08-07T00:16:17Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 7540745,
+      "date": "2012-08-07T00:34:47Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 7540788,
+      "date": "2012-08-07T00:37:38Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 7547100,
+      "date": "2012-08-07T08:40:33Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 7564843,
+      "date": "2012-08-07T19:59:10Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 9043110,
+      "date": "2012-10-01T18:01:37Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 9043766,
+      "date": "2012-10-01T18:20:26Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 9475352,
+      "date": "2012-10-16T07:28:27Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 9476603,
+      "date": "2012-10-16T08:26:22Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 10262537,
+      "date": "2012-11-11T02:31:36Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 10641098,
+      "date": "2012-11-22T17:37:06Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 10724512,
+      "date": "2012-11-26T17:22:37Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 12466178,
+      "date": "2013-01-20T05:15:56Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 13324127,
+      "date": "2013-02-09T01:50:44Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 13341321,
+      "date": "2013-02-09T23:44:46Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 14357465,
+      "date": "2013-03-03T22:50:43Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 15350936,
+      "date": "2013-03-24T03:43:26Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 15440149,
+      "date": "2013-03-26T04:14:21Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 16029446,
+      "date": "2013-04-08T02:13:07Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 16031570,
+      "date": "2013-04-08T04:02:47Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 16031590,
+      "date": "2013-04-08T04:03:36Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 18590801,
+      "date": "2013-05-29T01:25:50Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 20788084,
+      "date": "2013-07-11T03:36:05Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 20788953,
+      "date": "2013-07-11T03:53:47Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 20789702,
+      "date": "2013-07-11T04:27:19Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 20790267,
+      "date": "2013-07-11T04:51:02Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 20790677,
+      "date": "2013-07-11T05:08:27Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 21755802,
+      "date": "2013-07-29T22:10:21Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 21756146,
+      "date": "2013-07-29T22:16:41Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 30903336,
+      "date": "2013-12-19T03:53:20Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 31144037,
+      "date": "2013-12-23T21:10:40Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 33297934,
+      "date": "2014-01-25T19:42:47Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 36946206,
+      "date": "2014-03-06T22:34:25Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 53,
+      "date": "2012-05-09T08:09:32Z"
+    },
+    {
+      "dev_id": "indirect",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 47,
+      "date": "2012-05-03T22:20:39Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "72ded129acf4ef68796de8bb64cffdb70b62b80a",
+      "date": "2012-06-27T10:40:04Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "ce70b914314bffe93c2dee03d5d9f91221f31b66",
+      "date": "2012-05-08T10:55:03Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "597b1338d9e3a5789b6a500051ff8d84f6136f26",
+      "date": "2012-05-05T11:32:07Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "fa21ffaf94273c818266478aa3fc7e8f442af2b7",
+      "date": "2012-04-26T19:36:30Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "944c656be1c099894d2350ebe5c0ee94b694af76",
+      "date": "2012-04-26T19:33:29Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "8e89344a448a9714e219c233a4d1d4176edfacc8",
+      "date": "2012-04-19T13:05:11Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "ab6e3e9f046beb2bcafbd0d2e744d16591bb463e",
+      "date": "2012-04-16T19:40:58Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "487500d8f90bd95339cf9ae356d061b80c1456fe",
+      "date": "2012-03-20T13:34:01Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "2d78b94681a9c0c87331ba3a98f066e3c1b33214",
+      "date": "2012-03-04T13:22:18Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "commit",
+      "id": "44564cddcc1272edf6d76030337439f1bfff1d7e",
+      "date": "2012-02-22T00:03:55Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5160130,
+      "date": "2012-04-16T19:18:44Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5160620,
+      "date": "2012-04-16T19:42:14Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5254657,
+      "date": "2012-04-20T22:36:30Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5267029,
+      "date": "2012-04-22T11:02:26Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5290068,
+      "date": "2012-04-23T19:51:21Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5365147,
+      "date": "2012-04-26T19:00:50Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5365186,
+      "date": "2012-04-26T19:02:46Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5365257,
+      "date": "2012-04-26T19:06:32Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5365296,
+      "date": "2012-04-26T19:08:26Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5365919,
+      "date": "2012-04-26T19:38:26Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5405395,
+      "date": "2012-04-29T14:38:47Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5497549,
+      "date": "2012-05-03T20:28:49Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5572045,
+      "date": "2012-05-08T10:57:12Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5600085,
+      "date": "2012-05-09T13:34:02Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5606271,
+      "date": "2012-05-09T17:37:15Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5606343,
+      "date": "2012-05-09T17:40:17Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5606362,
+      "date": "2012-05-09T17:41:06Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5618764,
+      "date": "2012-05-10T06:07:26Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 5986801,
+      "date": "2012-05-29T15:29:17Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 4092339,
+      "date": "2012-02-21T23:52:58Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 4108536,
+      "date": "2012-02-22T17:06:09Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 4677114,
+      "date": "2012-03-24T22:28:00Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 4901449,
+      "date": "2012-04-03T13:44:40Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 4901476,
+      "date": "2012-04-03T13:46:23Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "com",
+      "id": 6614609,
+      "date": "2012-06-27T20:28:39Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 71,
+      "date": "2012-06-27T10:41:10Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 51,
+      "date": "2012-05-05T11:32:39Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 46,
+      "date": "2012-04-26T19:37:11Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 45,
+      "date": "2012-04-26T18:55:57Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 41,
+      "date": "2012-04-19T13:05:57Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 36,
+      "date": "2012-04-16T19:41:32Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "pr",
+      "id": 51,
+      "date": "2012-03-20T13:35:13Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "pr",
+      "id": 49,
+      "date": "2012-03-04T14:41:11Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "pr",
+      "id": 47,
+      "date": "2012-02-22T00:05:44Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "emberjs/ember-rails",
+      "type": "issue",
+      "id": 44,
+      "date": "2012-04-20T22:37:53Z"
+    },
+    {
+      "dev_id": "joliss",
+      "repo": "rails/jquery-rails",
+      "type": "issue",
+      "id": 46,
+      "date": "2012-02-20T11:04:34Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "4c6971e47016169f55652b3e1cac6edcee7ce079",
+      "date": "2015-10-06T14:09:35Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "5a1381b7c6484ffe3f3c6f4917bd66e96046fbd7",
+      "date": "2015-10-06T05:29:15Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e2bb84f6b1d3e1d48d336a8f7e001e882c7fdcee",
+      "date": "2015-08-28T00:56:45Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "7201c9046f606c1a4422a2f4f9389d628f34589a",
+      "date": "2015-08-28T00:47:26Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "6bb1e3d90db1a7f1f72df014cbd98c8d83378e86",
+      "date": "2015-08-28T00:47:13Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "c45c5d23755ef9f8ab51d9f611cdd3517a11badf",
+      "date": "2015-08-27T17:01:32Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "ad2fe745ae7dc3f80c62c8a9c120baca61552c36",
+      "date": "2015-08-27T16:40:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "31a5d102adb1d8b4be4409441af2994db2b48968",
+      "date": "2015-08-27T16:36:13Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "a2a60052983ab6dcc375bb9402f524c7ebcddeaf",
+      "date": "2015-08-27T16:35:48Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "0f63bd3178587cffcda7f0a8a95ca1fa21232459",
+      "date": "2015-08-13T16:17:20Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d01a278b5f9f99856903d754f76e57a6b86f0859",
+      "date": "2015-08-13T16:16:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "231749dc9d2f7d2c6f3bd52d7d9ca9263c1863a5",
+      "date": "2015-08-13T15:31:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "6a00ad45d19cd07de17fbd6c2988cf5a594cb01e",
+      "date": "2015-07-13T09:13:17Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "b841223c598a176fd9f4fb87cf6d14293a8fec32",
+      "date": "2015-07-09T16:54:50Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "5578921a2e31da167da156d1ec2fdafd8e55efbf",
+      "date": "2015-07-09T15:52:48Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "3ab4cb0cd13ceda3c64991dc1fe0f4f0a753c556",
+      "date": "2015-07-09T11:00:50Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "3a6350e5d83b0c408b65b17d309c9a2986a7d0e3",
+      "date": "2015-07-05T15:05:20Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "93a231d9d9b1af747b70fbc51ebf803976d56350",
+      "date": "2015-07-05T06:06:27Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "04a1065ee6813cf9c3408ebb19b82308dbd9e4ad",
+      "date": "2015-07-05T05:53:27Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "6e23dfe53da5b40209bdd4598fc63b7e5f475f0e",
+      "date": "2015-07-05T05:36:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e9726a3a14c55e044f8376167943959e830445d4",
+      "date": "2015-07-05T05:28:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "519108af899d742de81993fb9eff65547bc81475",
+      "date": "2015-07-05T05:28:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "fe8cfb567b6ddbb47c66fd19cd6c5cfb806f437f",
+      "date": "2015-07-05T05:12:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "5643839b31d9025603f4ba39bb0732433f2fcddd",
+      "date": "2015-07-05T04:30:49Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "6ce803a59086aa92167d12e82643223121e1f255",
+      "date": "2015-04-25T15:45:57Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d772cd547acb9325bb3c5c359c0d8921ab4451d9",
+      "date": "2015-04-25T08:24:57Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "3041746d81dce446f8084bc54ec07d2444b3c425",
+      "date": "2015-04-25T08:22:28Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "859bab2d5b870bbde41f6305915f372e546f8837",
+      "date": "2015-04-25T08:00:21Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "5fa76871e8308435b116223aeca964fac1852313",
+      "date": "2015-04-25T07:56:44Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "3233197f1abc4e674173b2d68dbc3857d7b80e60",
+      "date": "2015-04-21T04:16:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "495b60500fbb4cc4ebd27752dc30bfdee47a5ecf",
+      "date": "2015-04-18T16:12:24Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "45f4eef600d5a5f0473ad73b1f8e8d71dadf2b24",
+      "date": "2015-04-11T10:39:07Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "b3003f78fac94aa70bafcb3918a7affa570b3b03",
+      "date": "2015-04-11T10:37:26Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "82483ffc2d8ac910dcf743170d206c5c15a72892",
+      "date": "2015-04-11T09:57:18Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "04e6f3bcf99c1dac5136bf76b175404fbbe2cbcc",
+      "date": "2015-04-02T16:27:39Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "a581cc99e08650e6122bbaa2acee5c0277b9e108",
+      "date": "2015-04-02T16:27:12Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "421603f3925a6c643fcf1c973d553f93ed9ba7af",
+      "date": "2015-04-01T18:47:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "4a665e098386119fd045a92d7d93588cb7802a26",
+      "date": "2015-04-01T17:29:51Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "c40aa83dd114dbfec148f7b6956e072612294733",
+      "date": "2015-03-29T16:29:29Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "4f353fa75273965c90abf45798e03e013c87897c",
+      "date": "2015-03-29T16:19:04Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d10de1263bf186c52487d51eb30ea0a79881f6c6",
+      "date": "2015-03-29T15:54:52Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "2a7ff28469fd810272aad3bc38bc812df0471dba",
+      "date": "2015-03-29T15:22:10Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "58a97cc8b38ae9a5bcf33ec486b4f7549327155d",
+      "date": "2015-03-23T18:12:13Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "f29d951608b969a7b596bb06afbc412cad651714",
+      "date": "2015-03-29T15:16:53Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "3b40cb15a45eef559e07ba7fe2f7ac09448c48e9",
+      "date": "2015-03-29T14:46:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "c3a9c93e7876dd4760ab9a07d90aeb04b04afe43",
+      "date": "2015-03-29T12:12:16Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "3962263b4353dccafd39329683c2d0f49d6c7bfa",
+      "date": "2015-03-27T15:55:22Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d09eeb774b83935fc104a735161e9e68394e3056",
+      "date": "2015-03-27T15:45:12Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "4e9c7c614f08ee2bcde5374da60ad8914e33f679",
+      "date": "2015-03-24T01:14:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "aa34a21906917d1affa77db3c68f1953986236b4",
+      "date": "2015-03-23T19:02:45Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "94d81e5c1bbb5dc16168522e9835a957cf72ed4f",
+      "date": "2015-03-13T16:12:39Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "1af34d1d74d99360cf31b880ac57f43c83f63835",
+      "date": "2015-03-13T16:24:35Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "bd4d2295f66698f80f87bb1495674ecb9a19e370",
+      "date": "2015-03-13T16:01:37Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "c92911aed03e38d5fdb072b88df2d4f5c138e8f6",
+      "date": "2015-03-13T15:45:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "bd32b6d46bc4f1801369c01410dfedfbfb6168ff",
+      "date": "2015-02-23T15:55:23Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "c28c0da9358172ea78360bb1cda46ac168663871",
+      "date": "2015-02-24T14:06:23Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "0f04c87b5544d0814f2ba87be6f6dab5bc8b7b74",
+      "date": "2015-02-24T14:00:59Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "f174b19f5bdd159a120b33efa80a4de210e88cff",
+      "date": "2015-02-23T16:44:26Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "9e5458eb117863db26d4db6dba67db3cd178bb70",
+      "date": "2015-02-23T16:49:53Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "8e460d267992664779c5aa49afc4b2c89e0ddce1",
+      "date": "2015-02-17T13:23:52Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "fadb4c58a5158882522239948dad895b1ac63360",
+      "date": "2015-02-17T13:21:51Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d69edeb610c7f1a04ae1ce476b40fc069a7bb538",
+      "date": "2015-02-09T06:28:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "1c47129bdf46005a3b74b6469c2824d8999e9f71",
+      "date": "2015-02-13T08:58:31Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "9e2b3b3b9bcdc5111ba0e41f243b9837574f9ad0",
+      "date": "2015-02-13T08:57:08Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "dc89ce4ed160c7b77d925944305319942d2f66d0",
+      "date": "2015-02-13T08:14:05Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "6ea4c7d9db5bacc6dd9b7f457819a5be766af232",
+      "date": "2015-02-11T18:31:13Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e291d19540ff2a9ec9b0e94b4364535f9dedb45f",
+      "date": "2015-02-11T18:18:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "70981bc91bbf88872f790db25c7fd73a47e2b6c8",
+      "date": "2015-02-11T09:46:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "6c4f350c2e900534ad7d3d1e9045df378a1e209b",
+      "date": "2015-02-11T09:45:52Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "1529d5b8209671c655930bfe912dd6047c21474e",
+      "date": "2015-02-11T09:32:32Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "72a789e3facac84d173bdbfadfb9216ecc4e011f",
+      "date": "2015-02-11T09:23:05Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "a95a192afe09d4ffda95a58d8e2d7538d61dde5f",
+      "date": "2015-01-23T00:39:04Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "05ccd1f4c47a80d78ed1ff6ca210a32bc9322b36",
+      "date": "2015-01-22T18:20:33Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "a545e7da215f6aefde6a1c6f8290f2e7dfc386e8",
+      "date": "2015-01-22T17:30:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "fefb3dcd3207ce4936e4eef5db9ce251af66cf31",
+      "date": "2015-01-22T15:44:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "31d355c3a0a01ad8601127eaf41fdfaf8fd5bdf1",
+      "date": "2015-01-22T15:35:34Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "2edb87691bad449c5b82e5be38e626d8b9c4109d",
+      "date": "2015-01-01T10:03:35Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e13de90ccc888aa0778d9118aaec959c6b6e4ae1",
+      "date": "2015-01-01T10:01:11Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "22a397815b8e96d6c354c31108ea22b2f3c0de70",
+      "date": "2015-01-01T09:16:00Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "ab5617b1e8b7ee51fe69df9b6beee56b31bb0374",
+      "date": "2015-01-01T09:14:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "9edd4015fb59db319a3b50564d80378d8b58f241",
+      "date": "2015-01-01T08:57:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "2b0593721b77a2af850fc6fdd795a240c6eb80e8",
+      "date": "2014-12-29T16:14:04Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "27833fa021cd0a12613a2329c799b6f8b2ace8ec",
+      "date": "2014-12-29T16:11:05Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "ffed357f98d2fea3361f1995129464f4101ed876",
+      "date": "2014-12-29T10:01:22Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "213310a702abcaffa5439c623a35635f46a8578f",
+      "date": "2014-12-29T09:52:28Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "7e120de01d3c21a5535de6c1d107ea1173f39188",
+      "date": "2014-12-29T09:45:00Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e2b5d367a3d724fedd8febf9876a2692e047fac4",
+      "date": "2014-12-28T18:51:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "8ac4732cf75102274dca45d10301ab86b483c5d1",
+      "date": "2014-12-28T16:02:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "13f4d1654001e9e6f1312239f23ba957caad16ef",
+      "date": "2014-12-28T07:25:59Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "a7e990f1576e8ddaa4ad8877f3bfe20d9fc3c694",
+      "date": "2014-12-28T07:06:36Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "882ce98aab30f6dadf215951871cff9902e0ff23",
+      "date": "2014-12-27T09:35:38Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "8324863ad9f1ebc8326b2426ed6f3fd1f41e275a",
+      "date": "2014-12-27T09:07:18Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "73791415d7aa1c6d1c846f75d80d62be6beffa79",
+      "date": "2014-12-23T12:34:24Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "eab6ee3091dc21b5317b055a2127fcbeaaa3a6e9",
+      "date": "2014-12-20T17:35:21Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "6aaa15c2bcd01cc314cf3ae6b322775f1c824549",
+      "date": "2014-12-20T16:57:45Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "c0186ccb8a16bed8e8f737b0f3f9571134383878",
+      "date": "2014-12-20T16:35:33Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "49bc4953f035d448808f62c723f9011410ee552f",
+      "date": "2014-12-18T17:21:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e759247c723ded8de60279190e0f41229d182b14",
+      "date": "2014-12-20T09:01:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "2e8242787e3a778ac091f4b655d35094530e960c",
+      "date": "2014-12-16T06:20:20Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "81dedb21d8f596bb75dae8261bffd47a116c5e38",
+      "date": "2014-12-13T09:44:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d72d27c2f062246ae902e6776a6feccce549edce",
+      "date": "2014-12-13T09:33:01Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "00eed8491fee3298eb253fd8d2a2c0b2cdbd8b5c",
+      "date": "2014-12-13T07:37:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "10526e8b7440c41a91594c590369ed03881bf973",
+      "date": "2014-12-12T18:06:59Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "3e25ccf396bd958141224b0c8ccb09822f187329",
+      "date": "2014-12-11T11:44:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "b91b75920f312278a3deaee6a5ee7db13989e4ea",
+      "date": "2014-12-11T15:03:29Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "9bb76354600ee9b2df6b67a64ba2cd6779866c96",
+      "date": "2014-12-10T15:02:50Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "1281325b09af927f8c660f8025c569d5e099b3b2",
+      "date": "2014-12-09T19:17:18Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "5ee2602a875587003f83d107a94faec85555c989",
+      "date": "2014-12-10T15:16:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "156fe8044ccca3dbdd3566027c41b0aa9306b47d",
+      "date": "2014-12-10T15:32:47Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "58fd4d16bace21e7a0ae1dc93f39d823f89ed25b",
+      "date": "2014-12-06T08:49:10Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "88b44ffaf5dd09546e59197a4d022fa13db7a208",
+      "date": "2014-12-06T07:17:26Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "472c0964453ae46439eede2c5aedcadb3abfd122",
+      "date": "2014-10-22T16:12:12Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "d7dd377c2b1c8345ae3cfc9b3e88375b8615546d",
+      "date": "2014-10-21T16:11:48Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "92fa84e2c502357480f1a29e80d0d14fea18348d",
+      "date": "2014-10-15T16:46:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "b50aaad8ed97c44c49a6555cbcf8d0f9d6c03fe9",
+      "date": "2014-10-16T19:43:33Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "982099ffd36defeb66028c91fcbba2d979d428a4",
+      "date": "2014-10-15T16:46:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "a22f68a9bba196e690c9c0f5a9a6ec6b5b444d76",
+      "date": "2014-09-30T15:54:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "36ef292f6258873933219817a518b8a9eaed302a",
+      "date": "2014-09-30T15:46:01Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "4c5d0d5c461d78111f9503dc93c613565839318d",
+      "date": "2014-06-14T12:15:48Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "a2401e46714a9226bd8c0d5cdfdeda3b2a346c66",
+      "date": "2014-05-16T10:14:27Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "f4b6fbdda20322e49b79a69e0ba699f710a5d202",
+      "date": "2014-05-16T09:53:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "541e49feff10c88b50debbcdd3ef719bfa8f520c",
+      "date": "2014-05-14T14:43:48Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e93aad58f893d49815bec329c8389b416cd95c39",
+      "date": "2014-05-16T08:42:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "5957c2461ef6ff664592eb372346bab0031c358e",
+      "date": "2014-05-16T08:34:57Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "2a5c1c32b619c4bdc649461a77eeed3a9258c072",
+      "date": "2014-05-14T14:33:47Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "02021b904c02c814ffd50b064f805e45aad4ff39",
+      "date": "2013-06-08T13:46:07Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "be2b10dbd6c3fdd670c00d71e6047a8e64cfe8f7",
+      "date": "2013-05-23T17:50:10Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "7a20380729d3f107616287793893b191bde33688",
+      "date": "2013-05-20T17:19:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "5e308b69e31befd7081c2f1076c624cc08737a97",
+      "date": "2013-05-21T03:45:20Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "b7fed2fbd60463d1a244d723e6f80ebf660ba7c7",
+      "date": "2013-05-20T17:19:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "e46d31bb1fefca35973123f254d39404fd47ee8f",
+      "date": "2013-05-01T15:24:32Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "50ac40453e85cc4315d28859962977573e2c1294",
+      "date": "2013-02-27T16:37:37Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "commit",
+      "id": "bc8b43c0bd3351c00645e220cbe4aa0b049389e6",
+      "date": "2012-09-20T02:46:59Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 14186058,
+      "date": "2013-02-27T17:13:23Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 15752430,
+      "date": "2013-04-02T03:40:15Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 18187476,
+      "date": "2013-05-21T03:48:50Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 18227234,
+      "date": "2013-05-21T18:25:08Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 43316111,
+      "date": "2014-05-16T10:06:01Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66402412,
+      "date": "2014-12-10T04:14:47Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66464383,
+      "date": "2014-12-10T15:06:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66466788,
+      "date": "2014-12-10T15:20:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66475332,
+      "date": "2014-12-10T16:08:06Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66492535,
+      "date": "2014-12-10T17:49:05Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66494256,
+      "date": "2014-12-10T17:59:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66608539,
+      "date": "2014-12-11T11:50:28Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66633626,
+      "date": "2014-12-11T15:19:53Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66714377,
+      "date": "2014-12-12T00:28:45Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66808757,
+      "date": "2014-12-12T17:55:05Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66808821,
+      "date": "2014-12-12T17:55:28Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66809073,
+      "date": "2014-12-12T17:57:32Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66815328,
+      "date": "2014-12-12T18:41:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66860483,
+      "date": "2014-12-13T01:55:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66871227,
+      "date": "2014-12-13T09:50:49Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66895761,
+      "date": "2014-12-13T23:24:44Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 66903918,
+      "date": "2014-12-14T05:55:45Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67117451,
+      "date": "2014-12-16T06:20:31Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67945100,
+      "date": "2014-12-23T12:09:48Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67945185,
+      "date": "2014-12-23T12:11:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67945245,
+      "date": "2014-12-23T12:11:55Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67945430,
+      "date": "2014-12-23T12:14:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67945584,
+      "date": "2014-12-23T12:17:01Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67945854,
+      "date": "2014-12-23T12:20:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67945976,
+      "date": "2014-12-23T12:22:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67946214,
+      "date": "2014-12-23T12:26:16Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 67946428,
+      "date": "2014-12-23T12:29:16Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68015660,
+      "date": "2014-12-24T01:02:06Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68174382,
+      "date": "2014-12-27T10:06:59Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68211160,
+      "date": "2014-12-28T16:12:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68213157,
+      "date": "2014-12-28T17:20:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68213859,
+      "date": "2014-12-28T17:45:45Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68214211,
+      "date": "2014-12-28T17:59:36Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68215563,
+      "date": "2014-12-28T18:49:27Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68215693,
+      "date": "2014-12-28T18:53:39Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68233490,
+      "date": "2014-12-29T05:33:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68233681,
+      "date": "2014-12-29T05:39:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68234053,
+      "date": "2014-12-29T05:52:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68234429,
+      "date": "2014-12-29T06:05:32Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68244880,
+      "date": "2014-12-29T09:59:53Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68245550,
+      "date": "2014-12-29T10:11:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68250047,
+      "date": "2014-12-29T11:24:12Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68265906,
+      "date": "2014-12-29T15:22:39Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68295833,
+      "date": "2014-12-29T19:51:50Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68327694,
+      "date": "2014-12-30T03:43:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68482769,
+      "date": "2015-01-01T08:57:39Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68482780,
+      "date": "2015-01-01T08:58:47Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68483566,
+      "date": "2015-01-01T10:08:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68512100,
+      "date": "2015-01-02T07:33:17Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68521072,
+      "date": "2015-01-02T11:35:27Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 68637224,
+      "date": "2015-01-04T15:47:57Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 69535257,
+      "date": "2015-01-12T07:07:52Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 69535774,
+      "date": "2015-01-12T07:18:28Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 69731971,
+      "date": "2015-01-13T11:37:05Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 69772166,
+      "date": "2015-01-13T16:26:22Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 69777763,
+      "date": "2015-01-13T16:56:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 70089240,
+      "date": "2015-01-15T14:03:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 70091194,
+      "date": "2015-01-15T14:18:36Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 70092001,
+      "date": "2015-01-15T14:24:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 70629522,
+      "date": "2015-01-20T09:55:51Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 70631721,
+      "date": "2015-01-20T10:13:53Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 71041293,
+      "date": "2015-01-22T15:49:07Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 71050885,
+      "date": "2015-01-22T16:39:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 71071202,
+      "date": "2015-01-22T18:26:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 71149092,
+      "date": "2015-01-23T05:19:28Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 71304305,
+      "date": "2015-01-24T07:49:21Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 71372535,
+      "date": "2015-01-25T13:15:26Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 71372543,
+      "date": "2015-01-25T13:15:30Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 73855887,
+      "date": "2015-02-11T09:49:23Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 73958399,
+      "date": "2015-02-11T20:29:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 74630817,
+      "date": "2015-02-17T08:08:00Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 74630866,
+      "date": "2015-02-17T08:08:32Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 74664860,
+      "date": "2015-02-17T13:08:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 74666794,
+      "date": "2015-02-17T13:25:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 74667994,
+      "date": "2015-02-17T13:34:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 74752718,
+      "date": "2015-02-17T21:03:52Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 75009029,
+      "date": "2015-02-19T07:27:53Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 75188924,
+      "date": "2015-02-20T04:43:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 75438615,
+      "date": "2015-02-22T14:47:06Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 75438634,
+      "date": "2015-02-22T14:47:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 75439217,
+      "date": "2015-02-22T15:01:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 75587969,
+      "date": "2015-02-23T17:21:10Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 75588705,
+      "date": "2015-02-23T17:25:10Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 78708659,
+      "date": "2015-03-13T00:13:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 79078710,
+      "date": "2015-03-13T16:02:13Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 86842817,
+      "date": "2015-03-27T06:44:06Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 87403934,
+      "date": "2015-03-29T12:12:14Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 87435200,
+      "date": "2015-03-29T16:19:30Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 87438141,
+      "date": "2015-03-29T16:37:00Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 87438435,
+      "date": "2015-03-29T16:38:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 87725055,
+      "date": "2015-03-30T15:35:35Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 87729942,
+      "date": "2015-03-30T15:47:48Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 87731071,
+      "date": "2015-03-30T15:49:39Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 88342631,
+      "date": "2015-04-01T04:01:00Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 88418981,
+      "date": "2015-04-01T09:51:03Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 88967426,
+      "date": "2015-04-02T16:31:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 90964752,
+      "date": "2015-04-08T16:21:17Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 90967277,
+      "date": "2015-04-08T16:30:55Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 90967575,
+      "date": "2015-04-08T16:32:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 92729304,
+      "date": "2015-04-14T09:54:10Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 92731811,
+      "date": "2015-04-14T09:57:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 92733672,
+      "date": "2015-04-14T10:03:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 94177516,
+      "date": "2015-04-18T16:12:20Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 94631137,
+      "date": "2015-04-21T03:54:01Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 94631331,
+      "date": "2015-04-21T03:54:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 94633339,
+      "date": "2015-04-21T04:15:51Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 95724891,
+      "date": "2015-04-23T21:30:24Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 102943169,
+      "date": "2015-05-18T07:05:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 105276412,
+      "date": "2015-05-25T17:39:08Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 105276740,
+      "date": "2015-05-25T17:43:11Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 112501141,
+      "date": "2015-06-16T17:15:40Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 112503048,
+      "date": "2015-06-16T17:20:07Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 117951834,
+      "date": "2015-07-02T08:06:49Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 118579679,
+      "date": "2015-07-05T04:58:08Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 118579735,
+      "date": "2015-07-05T05:01:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 118583091,
+      "date": "2015-07-05T05:37:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 119671793,
+      "date": "2015-07-08T17:32:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 120070496,
+      "date": "2015-07-09T17:01:47Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 120853203,
+      "date": "2015-07-13T08:48:49Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 121853419,
+      "date": "2015-07-16T07:04:30Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 131554308,
+      "date": "2015-08-16T14:06:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 134890238,
+      "date": "2015-08-26T08:02:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 135495485,
+      "date": "2015-08-27T17:11:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 135594005,
+      "date": "2015-08-28T00:53:40Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 135944314,
+      "date": "2015-08-29T05:50:22Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "com",
+      "id": 135944366,
+      "date": "2015-08-29T05:52:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 496,
+      "date": "2015-10-06T05:29:57Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 495,
+      "date": "2015-08-27T17:11:21Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 494,
+      "date": "2015-08-27T17:09:22Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 491,
+      "date": "2015-08-24T02:16:44Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 489,
+      "date": "2015-08-13T15:11:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 485,
+      "date": "2015-07-09T16:30:58Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 484,
+      "date": "2015-07-09T16:16:36Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 482,
+      "date": "2015-07-05T05:30:28Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 481,
+      "date": "2015-07-05T04:51:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 474,
+      "date": "2015-04-25T08:54:49Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 468,
+      "date": "2015-04-11T09:58:08Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 466,
+      "date": "2015-04-02T16:11:02Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 463,
+      "date": "2015-03-29T14:49:13Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 461,
+      "date": "2015-03-27T15:45:36Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 460,
+      "date": "2015-03-23T19:03:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 459,
+      "date": "2015-03-23T18:07:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 453,
+      "date": "2015-02-24T14:07:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 452,
+      "date": "2015-02-23T17:17:37Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 451,
+      "date": "2015-02-23T17:14:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 450,
+      "date": "2015-02-23T16:50:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 448,
+      "date": "2015-02-17T13:07:59Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 446,
+      "date": "2015-02-13T08:18:42Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 445,
+      "date": "2015-02-11T18:21:27Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 443,
+      "date": "2015-02-11T09:25:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 434,
+      "date": "2015-01-22T17:32:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 433,
+      "date": "2015-01-22T17:27:18Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 432,
+      "date": "2015-01-22T15:36:45Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 424,
+      "date": "2015-01-01T09:28:31Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 421,
+      "date": "2014-12-29T16:13:32Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 420,
+      "date": "2014-12-29T09:56:15Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 419,
+      "date": "2014-12-28T16:10:19Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 416,
+      "date": "2014-12-20T17:57:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 415,
+      "date": "2014-12-20T17:43:47Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 414,
+      "date": "2014-12-20T16:45:47Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 413,
+      "date": "2014-12-20T09:07:54Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 412,
+      "date": "2014-12-20T09:04:01Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 410,
+      "date": "2014-12-13T07:36:44Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 409,
+      "date": "2014-12-12T18:07:49Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 407,
+      "date": "2014-12-11T15:18:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 406,
+      "date": "2014-12-11T11:45:27Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 405,
+      "date": "2014-12-10T16:05:09Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 404,
+      "date": "2014-12-10T15:17:25Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 403,
+      "date": "2014-12-09T19:23:12Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 402,
+      "date": "2014-12-06T08:50:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 401,
+      "date": "2014-12-06T07:34:22Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 392,
+      "date": "2014-10-22T16:17:46Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 390,
+      "date": "2014-10-21T16:23:34Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 388,
+      "date": "2014-10-16T19:52:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 386,
+      "date": "2014-09-30T15:54:44Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 369,
+      "date": "2014-06-14T12:16:08Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 366,
+      "date": "2014-05-16T10:18:59Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 365,
+      "date": "2014-05-16T10:01:00Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 364,
+      "date": "2014-05-16T08:51:11Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 205,
+      "date": "2013-06-08T14:12:00Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 196,
+      "date": "2013-05-23T17:53:50Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 195,
+      "date": "2013-05-21T17:38:43Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 194,
+      "date": "2013-05-20T17:20:40Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 193,
+      "date": "2013-05-20T17:18:31Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 182,
+      "date": "2013-05-01T16:32:53Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 145,
+      "date": "2013-02-27T17:12:03Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "pr",
+      "id": 96,
+      "date": "2012-09-20T03:21:29Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "issue",
+      "id": 458,
+      "date": "2015-03-23T15:33:39Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "issue",
+      "id": 447,
+      "date": "2015-02-17T08:04:06Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "issue",
+      "id": 444,
+      "date": "2015-02-11T09:51:41Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "issue",
+      "id": 418,
+      "date": "2014-12-25T12:24:55Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "emberjs/ember-rails",
+      "type": "issue",
+      "id": 408,
+      "date": "2014-12-12T18:04:56Z"
+    },
+    {
+      "dev_id": "tricknotes",
+      "repo": "rails/jquery-rails",
+      "type": "issue",
+      "id": 183,
+      "date": "2014-12-20T08:45:36Z"
+    }
+  ]
+}

@@ -1,0 +1,1022 @@
+{
+  "user_repo": "test-kitchen/busser-serverspec",
+  "dep_repo": "bundler/bundler",
+  "dep_date": "2013-05-22 08:46:28 UTC",
+  "dep_commit_id": "dc7aad37a9df894be6f9c566dcbd01693034f06f",
+  "social_date": "2014-10-06 18:29:23 UTC",
+  "devs": [
+    "fnichol",
+    "cl-lab-k",
+    "schisamo"
+  ],
+  "interactions": [
+    {
+      "dev_id": "fnichol",
+      "repo": "bundler/bundler",
+      "type": "commit",
+      "id": "fd5eee9fd82dffc3062fef91ace251cfc0ba5211",
+      "date": "2014-05-28T16:16:16Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "bundler/bundler",
+      "type": "commit",
+      "id": "40e170da27653c856c6260c563c4b9c80b260447",
+      "date": "2010-08-02T20:11:20Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 58067144,
+      "date": "2014-10-06T18:29:23Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 83121898,
+      "date": "2015-03-18T18:57:13Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 139368566,
+      "date": "2015-09-10T20:21:28Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 338249,
+      "date": "2010-08-02T20:27:26Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 4403925,
+      "date": "2012-03-08T22:11:18Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 18745036,
+      "date": "2013-05-31T13:35:40Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 44573366,
+      "date": "2014-05-29T19:23:28Z"
+    },
+    {
+      "dev_id": "fnichol",
+      "repo": "bundler/bundler",
+      "type": "pr",
+      "id": 3050,
+      "date": "2014-05-28T16:43:37Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "ed48d23b76d864555ea3b75d7b86785a942acbda",
+      "date": "2015-07-08T08:31:30Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "c7f134987987181a58623eb854a4c25da0ea74a3",
+      "date": "2015-06-02T03:11:25Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "0e13dc5667b293ed4a9e0e5484538d7e5f5e0845",
+      "date": "2015-06-02T03:00:26Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "dd27dea55249b458bed6e38c5fc3f3f1d424eb43",
+      "date": "2015-06-02T02:56:06Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "e42549464f8b978dbda18604a7311c596af3c31a",
+      "date": "2015-04-27T01:44:03Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "dbe3cc73c75c06c0b832c8d95de5cb59fdabeaf2",
+      "date": "2015-04-27T01:39:44Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "560201e8debb1bf98c79486d9e76009405894933",
+      "date": "2015-04-01T22:48:04Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "83e857d609fc8ef130ad6e7a85694fbd35369835",
+      "date": "2015-04-01T22:37:14Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "ba77db35008c20e86cf2a5d8b12a6f9e034540be",
+      "date": "2015-03-30T01:02:44Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "2ae4a571b292a67d306abe20f7d2cd9677b94064",
+      "date": "2015-03-30T00:54:02Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "99703c1daf8568707ce261502f645c2a9ca0ee99",
+      "date": "2015-03-30T00:46:24Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "d28968c5d7ac8554581cf4eb437c1fefd80503a7",
+      "date": "2014-10-17T02:08:09Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "c68fd28f0a072a73e4998077df396596c40417ef",
+      "date": "2014-10-17T02:03:37Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "03ce9ed5ef2d2ca7d99833f0257e19c691cdd71b",
+      "date": "2014-10-16T09:24:40Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "204a904b1f83cb58d6f74e14a34510962b29e839",
+      "date": "2014-10-16T09:20:41Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "1c9c9b2717cd65b25d68cc3c4bb5b7829caada4d",
+      "date": "2014-10-16T06:52:49Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "56a26c32bac0008ba5c99b94498d300cbb9d1c6d",
+      "date": "2014-10-16T06:49:37Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "a93c4bc07c534337449352017411c2e511989c99",
+      "date": "2014-10-16T06:33:36Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "f568ab07397d66cb003381168a705c5fcc9f5551",
+      "date": "2014-10-16T05:22:49Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "09b316cd5f77b21438193ea0f0276481c2fa7ef0",
+      "date": "2014-10-16T05:18:02Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "9e72ad225132fc6e6275c325366b4793d33b9983",
+      "date": "2014-10-16T05:04:26Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "36b00b86df85799264aa4737e59ce367e2d0ef10",
+      "date": "2014-10-16T04:50:20Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "54dd869b6935e20c3d6216702012fef0f2f363b4",
+      "date": "2014-10-16T04:45:52Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "36b9ebdb99165a39955df14e0c2b78131172c490",
+      "date": "2014-10-16T04:35:18Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "a3d34c4541ed705ceb87957ccf1a271c3751a42f",
+      "date": "2014-10-08T09:42:30Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "4ce5904dae94cc1ba4eb375334a61df5f76024f7",
+      "date": "2014-10-06T03:25:27Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "fd7f6cf9e49b56ed8ed8623e02a1535f7ac36acf",
+      "date": "2014-10-06T03:21:30Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "54fbf2f4591274f88a83622d502b9b4cf102f39d",
+      "date": "2014-10-06T03:16:44Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "457c889157f1eed77d6ac26692d89843cd1c2f7e",
+      "date": "2014-10-05T04:57:32Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "65985e9908245cb92d5cdf847a02b317d0e01ed0",
+      "date": "2014-10-05T04:43:37Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "33ca7b6c9daf9610600e503ebfcec447a5dadc24",
+      "date": "2014-09-24T09:42:38Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "d813516eadfa1075f0a9a50cdb9d0aa07e09c14e",
+      "date": "2014-09-24T09:39:38Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "a08e8c11d05d1d61db72d63b91fb6470187143ed",
+      "date": "2014-09-24T09:25:32Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "e3e2ce3f71662d818dfa62abf47dbdaf3886d1af",
+      "date": "2014-09-24T09:24:29Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "a41a6da67872b1102fc7a33e7a8362bd17f8804e",
+      "date": "2014-09-24T08:58:13Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "c1442bf0a9b670bb9e9d3f70041f99d6e186e75a",
+      "date": "2014-03-20T08:38:51Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "7fbe048f617797cfc765b0e67dc3f676636b0b3b",
+      "date": "2014-01-25T03:24:16Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "2903b84a5c6608287bb764ddf9065633b176db36",
+      "date": "2014-01-25T03:11:29Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "f86539cdb40c0fa97d2ce2943db3baad748cbfa7",
+      "date": "2014-01-25T03:05:15Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "9666913d93a5f305cd339d491f902fda36965c15",
+      "date": "2014-01-25T02:49:12Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "0d527b337a554704c54e0af8060e141e6eee67f1",
+      "date": "2013-12-19T03:05:42Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "f0c160f6bcf7b42fe1961edf918d1b2124475a73",
+      "date": "2013-11-14T02:39:18Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "5eb329ee04abe5e927cd5923c3ad95c8558a57d2",
+      "date": "2013-11-14T02:38:11Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "5fbf940cc1a75642275409bd7bb8e5f2133705a9",
+      "date": "2013-11-14T02:22:06Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "0434901fddac7d4085d5030bb403d937c51135cb",
+      "date": "2013-11-01T01:43:13Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "27a7a9ef2e81731158884a5621b8510468f98907",
+      "date": "2013-11-01T01:37:18Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "99d430e698ea9c333406b379c5acfbc32885b7b3",
+      "date": "2013-07-12T16:37:47Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "79e6461a234405fbb17ab5033d3da369e0b0ff2d",
+      "date": "2013-07-12T09:49:55Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "0173d5ed69e54bffd77f7920281aa9380bee2dbb",
+      "date": "2013-07-12T09:05:25Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "c7649ce1fa3599f011c2b28bd412bd8ea07eb110",
+      "date": "2013-07-12T08:44:51Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "4f4a8ecd5860f55b2564b9804e73589effead74c",
+      "date": "2013-07-10T07:44:23Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "d2f11e2bb292bb331b324d5df18ae8799d72944c",
+      "date": "2013-07-10T01:14:01Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "dc73c0e3bbb4a6ec3733eeff6549bda92b8a4b8e",
+      "date": "2013-07-10T01:13:17Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "7beef2574c9af2c3c55809a7d96617da30be671a",
+      "date": "2013-07-09T02:09:50Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "c40e75cf612cd39de8ea17399972acde0c7a0a5e",
+      "date": "2013-07-09T02:07:29Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "12c31a91fd679ced480597cea9994337a40e2da8",
+      "date": "2013-06-18T08:28:36Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "e17847017aabd9e7f0b18e13f8f0d919439122a3",
+      "date": "2013-06-18T08:28:20Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "68d74fa235cc3c35149bbefdbf85e113e398a9b2",
+      "date": "2013-06-18T08:12:13Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "f93ac371c6b25ae78080853955c96e6d8a9d8fc3",
+      "date": "2013-06-18T08:02:28Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "773cd0f16491e6546a34f76402fbc4df008ce0ad",
+      "date": "2013-06-07T00:49:54Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "8a418c09e480516b3e7b69cdb2632c8ee19209f7",
+      "date": "2013-06-06T11:03:35Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "b78fad592e6377389f7b84965e502c5c98c9d00a",
+      "date": "2013-06-06T10:52:51Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "6c544efd14b6acf0cacbd8f397d58bf15e9c27d2",
+      "date": "2013-06-06T10:48:18Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "085c0281637437fa46f3aad371710acacb5fe3ca",
+      "date": "2013-06-06T10:36:03Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "142cb8949b666ad26c4211857e15c6203260b2a6",
+      "date": "2013-06-06T10:32:10Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "ab8ad3df699cd9bd1d847707b5bf328df56e5403",
+      "date": "2013-06-06T10:31:57Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "285031633eb8d258e2cff61e47b7232154032cb5",
+      "date": "2013-06-06T10:31:25Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "90309591666c124de7daf7bb5496402d0bc0107d",
+      "date": "2013-06-06T09:30:38Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "b9c27cbb22dc89f0a6f3572465b86f7d0b7b2387",
+      "date": "2013-06-06T09:27:45Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "807525b6ce4286d6ff50e14706e4e0ba9c3aec1a",
+      "date": "2013-05-22T09:00:46Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "5f636a9cdafb5618b118e8c8a4d81533d8386e46",
+      "date": "2013-05-22T08:46:45Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "commit",
+      "id": "dc7aad37a9df894be6f9c566dcbd01693034f06f",
+      "date": "2013-05-22T08:46:28Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 20646666,
+      "date": "2013-07-09T00:46:16Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 20785614,
+      "date": "2013-07-11T01:54:34Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 25215002,
+      "date": "2013-09-27T00:39:00Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 25290643,
+      "date": "2013-09-28T04:53:55Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 27400184,
+      "date": "2013-10-30T15:33:54Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 27455549,
+      "date": "2013-10-31T01:52:34Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 27543274,
+      "date": "2013-11-01T02:00:28Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 28454400,
+      "date": "2013-11-14T02:22:19Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 30388589,
+      "date": "2013-12-12T04:26:37Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 30912861,
+      "date": "2013-12-19T08:38:58Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 35050098,
+      "date": "2014-02-14T02:29:30Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 35051394,
+      "date": "2014-02-14T03:01:13Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 35354907,
+      "date": "2014-02-18T05:50:54Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 41287075,
+      "date": "2014-04-24T14:33:47Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 50840273,
+      "date": "2014-08-01T01:36:24Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 51865678,
+      "date": "2014-08-12T02:13:55Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 52437542,
+      "date": "2014-08-17T22:27:37Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 53224702,
+      "date": "2014-08-25T03:53:50Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 55246975,
+      "date": "2014-09-11T10:37:36Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 56915701,
+      "date": "2014-09-26T03:33:49Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 57926847,
+      "date": "2014-10-05T05:03:18Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 57966224,
+      "date": "2014-10-06T02:40:46Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 57972240,
+      "date": "2014-10-06T03:39:25Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 57987511,
+      "date": "2014-10-06T08:28:41Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 59303339,
+      "date": "2014-10-16T01:48:42Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 59303673,
+      "date": "2014-10-16T01:54:10Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 59303751,
+      "date": "2014-10-16T01:55:17Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 59306213,
+      "date": "2014-10-16T02:33:21Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 59457260,
+      "date": "2014-10-17T02:06:54Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 60026520,
+      "date": "2014-10-22T01:58:01Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 60035729,
+      "date": "2014-10-22T04:38:14Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 60241151,
+      "date": "2014-10-23T13:50:32Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 68661080,
+      "date": "2015-01-05T02:15:27Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 68662136,
+      "date": "2015-01-05T02:38:32Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 68827461,
+      "date": "2015-01-06T05:20:14Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 87504570,
+      "date": "2015-03-30T00:49:48Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 88655497,
+      "date": "2015-04-01T22:46:39Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 94984627,
+      "date": "2015-04-22T00:41:15Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 95377497,
+      "date": "2015-04-23T00:49:56Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 95775010,
+      "date": "2015-04-24T02:13:22Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 96465588,
+      "date": "2015-04-27T02:05:02Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 107346137,
+      "date": "2015-06-01T07:58:18Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 107536729,
+      "date": "2015-06-01T14:41:52Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 107783661,
+      "date": "2015-06-02T03:05:29Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 112716328,
+      "date": "2015-06-17T08:31:49Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 112720992,
+      "date": "2015-06-17T08:42:18Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 113009012,
+      "date": "2015-06-18T01:49:48Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 119407064,
+      "date": "2015-07-08T03:06:27Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 119482633,
+      "date": "2015-07-08T08:02:32Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 133354668,
+      "date": "2015-08-21T09:43:48Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 139955046,
+      "date": "2015-09-14T03:40:13Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 146149061,
+      "date": "2015-10-07T10:36:23Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 146149681,
+      "date": "2015-10-07T10:37:59Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 149413475,
+      "date": "2015-10-20T02:59:36Z"
+    },
+    {
+      "dev_id": "cl-lab-k",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 59462939,
+      "date": "2014-10-17T03:46:35Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 27389898,
+      "date": "2013-10-30T13:46:57Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 27438137,
+      "date": "2013-10-30T20:54:41Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 27486025,
+      "date": "2013-10-31T13:39:56Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "com",
+      "id": 27555195,
+      "date": "2013-11-01T09:35:37Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 108436770,
+      "date": "2015-06-03T14:02:04Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "test-kitchen/busser-serverspec",
+      "type": "pr",
+      "id": 4,
+      "date": "2013-10-28T23:34:53Z"
+    },
+    {
+      "dev_id": "schisamo",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 3710,
+      "date": "2015-06-03T14:01:58Z"
+    }
+  ]
+}

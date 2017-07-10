@@ -1,0 +1,4994 @@
+{
+  "user_repo": "fog/fog-aws",
+  "dep_repo": "bundler/bundler",
+  "dep_date": "2014-12-30 22:20:57 UTC",
+  "dep_commit_id": "095fa8763f53e898635243b5fd5ec1536c87d396",
+  "social_date": "2013-12-10 13:15:29 UTC",
+  "devs": [
+    "geemus",
+    "lanej",
+    "felixbuenemann",
+    "fcheung",
+    "mikehale",
+    "ehowe"
+  ],
+  "interactions": [
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2df3e43e8597d9f3b724212e8dec23e05f80f933",
+      "date": "2015-11-16T16:56:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "8760f241f8dff82a8a60d41ef3dfb6bb74883c97",
+      "date": "2015-11-15T23:41:37Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "bda6b12d4ab5333f1a28b351c628f86d692462d5",
+      "date": "2015-11-11T16:48:22Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "feb8aa3785bae1e5a89cccc006e5f268cd5f0094",
+      "date": "2015-10-19T21:22:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "de2355ea97e895e1f5b6a3ce5f4cde72950cbbba",
+      "date": "2015-10-19T14:30:44Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4e546c6ccf0d763494a53f66c14c03c0e0c516f0",
+      "date": "2015-10-16T21:24:59Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "27ec738ffea05beb0562f6097bd3bd6f8e2ff61f",
+      "date": "2015-09-22T20:08:27Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "7a02ca231853b01dd1d62360ed7055526af532db",
+      "date": "2015-09-16T15:19:48Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "881b05e7884a4d9dae053af672afff538751e6ca",
+      "date": "2015-09-14T21:58:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3a31e22fd686939a6a69b2690823d6b8b416d03b",
+      "date": "2015-08-26T14:25:52Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "eb4be1cf72c1682f5270d70c35562f4836c396dd",
+      "date": "2015-08-25T13:45:21Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d9651260e1c336d40147c5b9f41414ca4d253e8c",
+      "date": "2015-08-24T19:55:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "aca110ada5c345f7c2ba66851757820189d5f170",
+      "date": "2015-08-21T15:55:43Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "70e92b36d912bd902cd7e06262e400be9ab883d6",
+      "date": "2015-08-14T15:15:20Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "1add8cfc16a96322b5b905ebcbf496eaf83ce208",
+      "date": "2015-08-13T16:12:37Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5ee82a6ca4eabcf57f912809179575f33d96d3b1",
+      "date": "2015-08-07T20:03:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ff46ec8b176a74f8e90d699b438154e1f339d8fb",
+      "date": "2015-08-07T14:40:39Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2ca24dcbdfc9a6549954ac0a1bce9e8474a13cbd",
+      "date": "2015-08-03T20:43:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "624bf4bd78db16d0dcf6fb99407fb1f3eaabdcea",
+      "date": "2015-07-07T20:12:22Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4e577827fa8c9862db4f552c1586ea9dc71dfeb3",
+      "date": "2015-06-25T15:51:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "9d405e28ccd634ce1a65349c75e64889e088b61c",
+      "date": "2015-06-24T14:22:44Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5ff9facd2c50c63ed14ddd200a826b742019e43d",
+      "date": "2015-06-23T14:26:38Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "87c8c6405adb25ec396b5e3ee03e7d964ea37182",
+      "date": "2015-06-17T15:42:18Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "037a1ddb553c3dd6e323bc83eeb39106018f676d",
+      "date": "2015-06-17T15:39:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ae2b2d7210084388775d95f0ad8a135716596378",
+      "date": "2015-06-15T20:47:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "22a6deb3e662430274f9998b5bcb283415bb222c",
+      "date": "2015-06-12T00:16:47Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "916351a3532e80a0318e766ec12bb87fa2348350",
+      "date": "2015-06-01T20:51:03Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f54f7fd95a131a41dea589309515475c7cff8ce8",
+      "date": "2015-05-30T16:25:38Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e324c6a4a2c9aa1246b574b3ed269faa34c253c9",
+      "date": "2015-05-30T16:18:10Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e7049a48a76de45e8596f11a4bdaf699f5740812",
+      "date": "2015-05-27T21:02:40Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "7ca20e12fb3ccf19ef0170b6e40a5ed58b4dcf2c",
+      "date": "2015-05-20T18:17:41Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d000eaad5907c3ccb4c2b8f8172e203d17439a7d",
+      "date": "2015-05-20T18:16:11Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5b0aafa8b5de738b10730345a042f6bb8045e401",
+      "date": "2015-05-13T15:11:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "daaa6cf0d87bab98b7f67705d35857a881238a3c",
+      "date": "2015-05-13T15:09:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "818c8e14ce115262011520c148a343a89ffa852f",
+      "date": "2015-05-07T15:55:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d3b3f68335231db7f2f7d392d206aa9e32c4e0e5",
+      "date": "2015-05-05T15:59:42Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b2641d558fb0ebf24a6e5938bd50ab3997a42ab6",
+      "date": "2015-05-04T21:27:57Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4d7ab74f3b6066ebf720670fae6f736f572e1f81",
+      "date": "2015-05-01T19:58:47Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c16d40aa24879822414820e938b0c2eb35783daa",
+      "date": "2015-05-01T16:01:26Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d18165576099b1c5d736f233c206505257144af6",
+      "date": "2015-04-27T19:03:19Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3958e09ba5d8d47b133de743508ce14cc96a6b0e",
+      "date": "2015-04-27T15:43:10Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "377d74b0ca79e75c5e8856c0ea2a3bfa3a0cf569",
+      "date": "2015-04-17T21:08:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "7f3650d1a8145112e287015bef64e8a7a9293d33",
+      "date": "2015-04-17T19:57:47Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b4f8154f18d44c8e067590d2927f9223269432c9",
+      "date": "2015-04-17T13:38:55Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "29e75e0512596cc83c4af13547b8fccf97eb4d05",
+      "date": "2015-04-16T15:34:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e1b354cddfe11c0a3dc7df39d7ee2f286a4ec405",
+      "date": "2015-04-14T15:37:12Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "cb4dd3b42781d85ea1fe877e2336f23feebde53e",
+      "date": "2015-04-10T15:06:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f351c007c51ba53143ab2116c501336ae516546b",
+      "date": "2015-04-10T15:04:55Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d57984d580b94fb5630408449dcc9c29e14cbdf0",
+      "date": "2015-04-07T19:41:21Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f591ac63a597301321daf9386cbc14e1194060ed",
+      "date": "2015-03-27T15:04:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4baad7075745f61469a5a51b9c150f70580e000a",
+      "date": "2015-03-25T16:27:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "180a4aace9a256ab91fff6c8ab3cde36632637f8",
+      "date": "2015-03-24T20:44:09Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "8f537d28401e5e08dd409db24d7526055d9d0fcc",
+      "date": "2015-03-20T18:10:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f3e6d93e19a95d5412c68e7dd8c2bfe55846ebb2",
+      "date": "2015-03-13T20:11:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "50392fd980eb6b59e7a42a595c7e713e8792db1f",
+      "date": "2015-03-12T21:15:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "da2d458fea1bd99a9ae17b513628dadde1ac9df2",
+      "date": "2015-03-10T14:13:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d08ab562ec76d42b1d50a4ecaafb135239da4f03",
+      "date": "2015-03-10T14:13:15Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b558fa284914c655cce01f6987d19e7b8566f055",
+      "date": "2015-03-09T14:33:27Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0d61c7da34eb3cbdcfa9de87b59a8b7f0baabdf6",
+      "date": "2015-03-04T20:42:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d5ac0674410cc0e204a2050dbf0879bc398e0f85",
+      "date": "2015-03-02T22:19:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "cba35fb5be021a4f6e63d440dc885392238a1f8d",
+      "date": "2015-02-24T14:59:26Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "072a3e9cef4a9c3aacd78085dfb4497f2b86743e",
+      "date": "2015-02-23T22:43:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "007105c637f8eb915da46ca3c756f2686df1b209",
+      "date": "2015-02-20T14:43:08Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "41b31b21bf6236ac7b6403fb4e21383ac10c5af6",
+      "date": "2015-02-17T22:17:52Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "9537c55146e6da2b59e0b0366e2df1ace5473b28",
+      "date": "2015-02-14T16:48:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "edbab3494a97517e61df658824f291834484685d",
+      "date": "2015-02-10T15:30:54Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2604076bcfd6692e656b8b87629b13dfcc43f076",
+      "date": "2015-02-09T20:11:14Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "a37bb7e4396cf7de77b99798c4dd5595f409191c",
+      "date": "2015-02-02T21:31:51Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b32a9b27db2e08c221d0c82763800d50cd4d1c3b",
+      "date": "2015-02-02T21:07:32Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "00607d6363335f3d2eaa7fb635f2f93ee92ee982",
+      "date": "2015-01-27T19:39:26Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "8720546908cf665367baa1a44a12bc1b924b0705",
+      "date": "2015-01-27T17:07:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "519757a2f0a83a838458922fb4f41bd2bc0efe58",
+      "date": "2015-01-27T01:52:19Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "653a7b53e93ea35e45c5c58a18da496fe5df21ac",
+      "date": "2015-01-27T01:37:19Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "54ed9b921adf87a8b63cd15f8274399482cc7b62",
+      "date": "2015-01-26T23:28:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b60f189cad2b9b8d82fed0d62a5d4cae4fc8b1c8",
+      "date": "2015-01-26T17:10:51Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "963b150a7ec37df55b354199e7be5d94614cafa5",
+      "date": "2015-01-26T00:26:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c01c5e08179a49d2848a69000c2aa19a1c744511",
+      "date": "2015-01-26T00:14:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5d14fc9ae2e9d8e46af608cf1a5f34b02782a59c",
+      "date": "2015-01-26T00:07:21Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "015ca6c7b989ae92d9d71d9552a93c4d39526a6a",
+      "date": "2015-01-26T00:03:42Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c8192c96da340650c58ffd3beba0e77299afd357",
+      "date": "2015-01-26T00:02:13Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d80f3b98dcaa7a5e6e8b5c2aff72708f5bf306cb",
+      "date": "2015-01-26T00:00:54Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3a906f4c2a329c8b7efd79d8c2827e0880a13ceb",
+      "date": "2015-01-26T00:00:29Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ec67c4fc61c7ccba90b2a8c8a817c600b713b398",
+      "date": "2015-01-25T23:58:45Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ef843285d4d4c27b00398575f13fb9d45986934b",
+      "date": "2015-01-23T18:13:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "dca37f10cace25d0c24509d5eb1b2050613e5fde",
+      "date": "2015-01-12T16:39:16Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "089a0b78293dbfc65ec9b169eee31cad414151d7",
+      "date": "2015-01-12T16:38:23Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5c8865e954405d2066995b4f611b28bd18ce93a5",
+      "date": "2015-01-12T16:36:20Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f8513dc9289fa42dbf4b19825fccd959e2d087a2",
+      "date": "2015-01-09T22:42:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "bundler/bundler",
+      "type": "commit",
+      "id": "047444cf3b841a9aef0696565781fe0bf1b38c1d",
+      "date": "2012-03-06T23:57:41Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "bundler/bundler",
+      "type": "commit",
+      "id": "46cb60511e43a1cecc525218eccd54275dfa8751",
+      "date": "2011-08-13T15:00:23Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 69591898,
+      "date": "2015-01-12T15:58:19Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 70413462,
+      "date": "2015-01-18T16:00:40Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 70502417,
+      "date": "2015-01-19T14:39:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71237151,
+      "date": "2015-01-23T18:13:20Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71400995,
+      "date": "2015-01-25T23:58:43Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401084,
+      "date": "2015-01-26T00:00:32Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401098,
+      "date": "2015-01-26T00:00:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401160,
+      "date": "2015-01-26T00:02:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401215,
+      "date": "2015-01-26T00:03:40Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401291,
+      "date": "2015-01-26T00:06:06Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401336,
+      "date": "2015-01-26T00:07:19Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401481,
+      "date": "2015-01-26T00:11:23Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401558,
+      "date": "2015-01-26T00:13:24Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71401592,
+      "date": "2015-01-26T00:14:15Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71402053,
+      "date": "2015-01-26T00:26:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71402080,
+      "date": "2015-01-26T00:26:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71496778,
+      "date": "2015-01-26T17:10:54Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71560765,
+      "date": "2015-01-26T23:28:33Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71575111,
+      "date": "2015-01-27T01:37:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71575342,
+      "date": "2015-01-27T01:39:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71580770,
+      "date": "2015-01-27T02:41:38Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71658052,
+      "date": "2015-01-27T14:42:13Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71685405,
+      "date": "2015-01-27T17:07:11Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71713142,
+      "date": "2015-01-27T19:39:24Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72043107,
+      "date": "2015-01-29T15:26:44Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72080973,
+      "date": "2015-01-29T18:49:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72093656,
+      "date": "2015-01-29T20:01:21Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72537899,
+      "date": "2015-02-02T21:07:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72542154,
+      "date": "2015-02-02T21:31:54Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72704241,
+      "date": "2015-02-03T18:18:32Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72740082,
+      "date": "2015-02-03T21:36:27Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 73551001,
+      "date": "2015-02-09T17:28:27Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 73580795,
+      "date": "2015-02-09T20:11:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 73718986,
+      "date": "2015-02-10T15:30:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 73779647,
+      "date": "2015-02-10T20:42:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 74382198,
+      "date": "2015-02-14T16:48:03Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 74767059,
+      "date": "2015-02-17T22:17:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75097135,
+      "date": "2015-02-19T17:31:52Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75097489,
+      "date": "2015-02-19T17:33:40Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75248053,
+      "date": "2015-02-20T14:42:11Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75248214,
+      "date": "2015-02-20T14:43:06Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75315869,
+      "date": "2015-02-20T20:44:08Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75577813,
+      "date": "2015-02-23T16:34:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75654071,
+      "date": "2015-02-23T22:43:20Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75771595,
+      "date": "2015-02-24T14:59:29Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75985114,
+      "date": "2015-02-25T15:52:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 76839085,
+      "date": "2015-03-02T22:19:32Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77202192,
+      "date": "2015-03-04T17:20:18Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77242509,
+      "date": "2015-03-04T20:41:04Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77242587,
+      "date": "2015-03-04T20:41:28Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77242673,
+      "date": "2015-03-04T20:41:59Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77693458,
+      "date": "2015-03-07T15:20:06Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77695103,
+      "date": "2015-03-07T15:58:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77863538,
+      "date": "2015-03-09T14:31:21Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77863949,
+      "date": "2015-03-09T14:33:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77939814,
+      "date": "2015-03-09T20:52:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 78059844,
+      "date": "2015-03-10T14:08:27Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 78060910,
+      "date": "2015-03-10T14:13:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 78620614,
+      "date": "2015-03-12T21:15:20Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 78622733,
+      "date": "2015-03-12T21:19:43Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 78730212,
+      "date": "2015-03-13T01:13:29Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 79331437,
+      "date": "2015-03-13T20:11:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 79334613,
+      "date": "2015-03-13T20:14:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 79373873,
+      "date": "2015-03-13T20:46:59Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 79400511,
+      "date": "2015-03-13T21:08:23Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 84091361,
+      "date": "2015-03-20T18:10:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 85039132,
+      "date": "2015-03-23T15:03:22Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 85039458,
+      "date": "2015-03-23T15:03:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 85043537,
+      "date": "2015-03-23T15:15:32Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 85044927,
+      "date": "2015-03-23T15:17:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 85159573,
+      "date": "2015-03-23T19:30:49Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 85685029,
+      "date": "2015-03-24T20:44:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 86096806,
+      "date": "2015-03-25T16:06:23Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 86100896,
+      "date": "2015-03-25T16:14:50Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 86103463,
+      "date": "2015-03-25T16:23:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 86104768,
+      "date": "2015-03-25T16:27:28Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 86965876,
+      "date": "2015-03-27T15:04:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 87340083,
+      "date": "2015-03-29T01:38:24Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 88141134,
+      "date": "2015-03-31T15:54:38Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90709586,
+      "date": "2015-04-07T19:41:19Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90712217,
+      "date": "2015-04-07T19:51:09Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90716710,
+      "date": "2015-04-07T20:10:42Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90949022,
+      "date": "2015-04-08T15:22:47Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90950741,
+      "date": "2015-04-08T15:28:16Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90952145,
+      "date": "2015-04-08T15:33:24Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 91266307,
+      "date": "2015-04-09T15:35:28Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 91585922,
+      "date": "2015-04-10T15:04:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 91586469,
+      "date": "2015-04-10T15:06:28Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 91664980,
+      "date": "2015-04-10T19:56:25Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 92912933,
+      "date": "2015-04-14T15:34:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 92914776,
+      "date": "2015-04-14T15:37:15Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 93747901,
+      "date": "2015-04-16T14:26:39Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 93765483,
+      "date": "2015-04-16T15:34:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 93774831,
+      "date": "2015-04-16T16:14:06Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 93987840,
+      "date": "2015-04-17T13:38:52Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 94062703,
+      "date": "2015-04-17T19:57:50Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 94063928,
+      "date": "2015-04-17T20:05:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 94063983,
+      "date": "2015-04-17T20:05:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 94064277,
+      "date": "2015-04-17T20:07:49Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 94064878,
+      "date": "2015-04-17T20:11:26Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 94075682,
+      "date": "2015-04-17T21:08:28Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 94075850,
+      "date": "2015-04-17T21:09:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 96713073,
+      "date": "2015-04-27T15:35:48Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 96716879,
+      "date": "2015-04-27T15:43:13Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 96719876,
+      "date": "2015-04-27T15:50:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 96781455,
+      "date": "2015-04-27T19:03:22Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 97076223,
+      "date": "2015-04-28T14:09:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 97081865,
+      "date": "2015-04-28T14:24:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98165460,
+      "date": "2015-05-01T15:58:39Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98166277,
+      "date": "2015-05-01T16:00:21Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98166481,
+      "date": "2015-05-01T16:01:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98167805,
+      "date": "2015-05-01T16:10:15Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98220311,
+      "date": "2015-05-01T19:58:51Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98220414,
+      "date": "2015-05-01T19:59:38Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98853828,
+      "date": "2015-05-04T21:28:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98854059,
+      "date": "2015-05-04T21:29:26Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 98854500,
+      "date": "2015-05-04T21:32:00Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99121407,
+      "date": "2015-05-05T15:48:02Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99124011,
+      "date": "2015-05-05T15:58:51Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99124217,
+      "date": "2015-05-05T15:59:45Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99567238,
+      "date": "2015-05-06T18:37:57Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99918397,
+      "date": "2015-05-07T15:48:50Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99920863,
+      "date": "2015-05-07T15:55:08Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99920963,
+      "date": "2015-05-07T15:55:38Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101710304,
+      "date": "2015-05-13T15:09:28Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101710965,
+      "date": "2015-05-13T15:11:09Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101711872,
+      "date": "2015-05-13T15:15:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101712790,
+      "date": "2015-05-13T15:19:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101780120,
+      "date": "2015-05-13T19:10:32Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101780176,
+      "date": "2015-05-13T19:10:49Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101780588,
+      "date": "2015-05-13T19:13:11Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 102128936,
+      "date": "2015-05-14T18:32:23Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 102130219,
+      "date": "2015-05-14T18:36:35Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 102131796,
+      "date": "2015-05-14T18:41:06Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103976737,
+      "date": "2015-05-20T18:07:02Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103979585,
+      "date": "2015-05-20T18:14:12Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103981725,
+      "date": "2015-05-20T18:16:13Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103983107,
+      "date": "2015-05-20T18:17:39Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103984175,
+      "date": "2015-05-20T18:20:03Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103986719,
+      "date": "2015-05-20T18:26:48Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103986961,
+      "date": "2015-05-20T18:27:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103987175,
+      "date": "2015-05-20T18:28:57Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106073235,
+      "date": "2015-05-27T21:00:56Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106073791,
+      "date": "2015-05-27T21:02:43Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106082571,
+      "date": "2015-05-27T21:20:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106590872,
+      "date": "2015-05-28T20:47:29Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106592635,
+      "date": "2015-05-28T20:51:38Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106924743,
+      "date": "2015-05-29T20:18:35Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106937556,
+      "date": "2015-05-29T21:12:39Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 106937674,
+      "date": "2015-05-29T21:13:34Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107058989,
+      "date": "2015-05-30T16:19:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107059520,
+      "date": "2015-05-30T16:25:41Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107685227,
+      "date": "2015-06-01T19:53:41Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107703538,
+      "date": "2015-06-01T20:51:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107704147,
+      "date": "2015-06-01T20:51:57Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107704279,
+      "date": "2015-06-01T20:52:06Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107707085,
+      "date": "2015-06-01T20:56:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 107716448,
+      "date": "2015-06-01T21:20:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 110871451,
+      "date": "2015-06-10T18:38:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 111312637,
+      "date": "2015-06-12T00:16:51Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 111313466,
+      "date": "2015-06-12T00:23:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 111313650,
+      "date": "2015-06-12T00:24:12Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 111567105,
+      "date": "2015-06-12T17:28:27Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112206092,
+      "date": "2015-06-15T20:47:07Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112206953,
+      "date": "2015-06-15T20:48:57Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112478650,
+      "date": "2015-06-16T15:56:35Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112481555,
+      "date": "2015-06-16T16:08:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112853334,
+      "date": "2015-06-17T15:39:08Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112853506,
+      "date": "2015-06-17T15:39:25Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112853877,
+      "date": "2015-06-17T15:40:12Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112854842,
+      "date": "2015-06-17T15:42:16Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112858573,
+      "date": "2015-06-17T15:53:49Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112875384,
+      "date": "2015-06-17T16:53:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 113597507,
+      "date": "2015-06-19T18:23:31Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 114523124,
+      "date": "2015-06-23T14:26:35Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 114523782,
+      "date": "2015-06-23T14:27:52Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 114884992,
+      "date": "2015-06-24T14:22:49Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 114958940,
+      "date": "2015-06-24T17:58:37Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 115300973,
+      "date": "2015-06-25T15:51:28Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 117306354,
+      "date": "2015-06-30T19:04:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 117313631,
+      "date": "2015-06-30T19:28:12Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 117313655,
+      "date": "2015-06-30T19:28:20Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 117686855,
+      "date": "2015-07-01T14:06:13Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 118059070,
+      "date": "2015-07-02T14:57:09Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 119000087,
+      "date": "2015-07-06T21:13:46Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 119321295,
+      "date": "2015-07-07T20:12:27Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 119321392,
+      "date": "2015-07-07T20:12:55Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 120032288,
+      "date": "2015-07-09T15:23:26Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 120032577,
+      "date": "2015-07-09T15:23:57Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 120033227,
+      "date": "2015-07-09T15:25:21Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 120034349,
+      "date": "2015-07-09T15:28:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 120962640,
+      "date": "2015-07-13T15:12:16Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 121651439,
+      "date": "2015-07-15T15:25:45Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 123484627,
+      "date": "2015-07-21T21:37:16Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127401773,
+      "date": "2015-08-03T20:44:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127696025,
+      "date": "2015-08-04T18:08:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127696537,
+      "date": "2015-08-04T18:10:18Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 128717052,
+      "date": "2015-08-07T14:40:41Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 128725301,
+      "date": "2015-08-07T15:06:15Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 128725869,
+      "date": "2015-08-07T15:09:06Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 128805509,
+      "date": "2015-08-07T19:37:35Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 128817142,
+      "date": "2015-08-07T19:58:04Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 128819761,
+      "date": "2015-08-07T20:03:02Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129559315,
+      "date": "2015-08-10T18:35:58Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129559929,
+      "date": "2015-08-10T18:38:44Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129951818,
+      "date": "2015-08-11T16:14:19Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129970054,
+      "date": "2015-08-11T17:05:52Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130356452,
+      "date": "2015-08-12T16:04:55Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130356691,
+      "date": "2015-08-12T16:06:02Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130415622,
+      "date": "2015-08-12T19:14:03Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130440023,
+      "date": "2015-08-12T20:38:13Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130687489,
+      "date": "2015-08-13T14:08:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130718252,
+      "date": "2015-08-13T14:51:29Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130718728,
+      "date": "2015-08-13T14:52:11Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130745463,
+      "date": "2015-08-13T16:12:40Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 131143460,
+      "date": "2015-08-14T15:15:18Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 131143667,
+      "date": "2015-08-14T15:15:54Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 132242727,
+      "date": "2015-08-18T15:07:24Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 133469093,
+      "date": "2015-08-21T15:48:54Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 133471489,
+      "date": "2015-08-21T15:55:46Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 134357886,
+      "date": "2015-08-24T19:56:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 134590866,
+      "date": "2015-08-25T13:45:24Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 135039349,
+      "date": "2015-08-26T14:25:55Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 135434146,
+      "date": "2015-08-27T13:41:14Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 136732368,
+      "date": "2015-09-01T14:02:50Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 136781743,
+      "date": "2015-09-01T16:26:49Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 136862980,
+      "date": "2015-09-01T21:13:33Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 137090742,
+      "date": "2015-09-02T13:58:59Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 137092118,
+      "date": "2015-09-02T14:03:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 137476862,
+      "date": "2015-09-03T14:58:48Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 137831563,
+      "date": "2015-09-04T19:23:40Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 138584012,
+      "date": "2015-09-08T14:33:55Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 138589474,
+      "date": "2015-09-08T14:47:09Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 138943114,
+      "date": "2015-09-09T15:14:40Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 139273610,
+      "date": "2015-09-10T15:03:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 140216612,
+      "date": "2015-09-14T21:57:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 140216821,
+      "date": "2015-09-14T21:58:49Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 140506132,
+      "date": "2015-09-15T19:16:03Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 140774321,
+      "date": "2015-09-16T15:19:45Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 140781278,
+      "date": "2015-09-16T15:41:25Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 142404365,
+      "date": "2015-09-22T20:08:30Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 144434609,
+      "date": "2015-09-30T14:47:53Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 144547697,
+      "date": "2015-09-30T21:27:39Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 145231326,
+      "date": "2015-10-03T09:51:12Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 145231433,
+      "date": "2015-10-03T09:52:44Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 148840309,
+      "date": "2015-10-16T21:25:01Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 149217402,
+      "date": "2015-10-19T13:45:14Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 149226246,
+      "date": "2015-10-19T14:18:17Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 149231964,
+      "date": "2015-10-19T14:30:47Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 149351254,
+      "date": "2015-10-19T21:22:29Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 152671362,
+      "date": "2015-10-30T23:12:42Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 153381995,
+      "date": "2015-11-03T15:03:45Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 153384804,
+      "date": "2015-11-03T15:14:26Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 154519883,
+      "date": "2015-11-06T20:12:04Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 155477653,
+      "date": "2015-11-10T16:31:33Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 155515031,
+      "date": "2015-11-10T18:01:25Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 156160917,
+      "date": "2015-11-12T16:43:03Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 156170646,
+      "date": "2015-11-12T17:14:50Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 156202662,
+      "date": "2015-11-12T19:02:14Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 156465669,
+      "date": "2015-11-13T15:37:05Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 156871500,
+      "date": "2015-11-15T23:41:39Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 157096442,
+      "date": "2015-11-16T16:56:51Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 197,
+      "date": "2015-11-11T16:48:41Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 2,
+      "date": "2015-01-09T22:43:50Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "bundler/bundler",
+      "type": "pr",
+      "id": 1695,
+      "date": "2012-03-06T23:58:36Z"
+    },
+    {
+      "dev_id": "geemus",
+      "repo": "fog/fog-aws",
+      "type": "issue",
+      "id": 1,
+      "date": "2015-01-09T21:54:10Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5518f791f53af77f9871ec696f025a4df47163f0",
+      "date": "2015-09-02T17:42:57Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "1ade2645f381ca49940b44780e3cfea324b676d7",
+      "date": "2015-09-01T22:13:58Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "edbec30380ded5499011d24b57f9bebeda91ca84",
+      "date": "2015-09-01T21:31:13Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "039c497e4140e0dafeb435d74748979685217cac",
+      "date": "2015-09-01T16:20:43Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "306b4cd5d890d3c6ea5472be30175c58efa472bb",
+      "date": "2015-08-26T21:38:19Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "1db00d725c94634fd4c8ecdc317abd6c709e7e7e",
+      "date": "2015-08-26T21:36:26Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "822aedb108ae2c97637a1fe7f2b630b7866e80cf",
+      "date": "2015-08-24T20:55:59Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "66ea51da53972d80ef162f97885131f6bcac6ace",
+      "date": "2015-08-24T20:36:21Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "52a9098c6dff1c45e5bcd4d63cb56a52758cb8d8",
+      "date": "2015-08-24T18:01:01Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "883972e9ab878c8d2b039220963b148cf34b35e2",
+      "date": "2015-08-24T17:43:48Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b48d51ba162d6f9caf393464dca3429df91a304f",
+      "date": "2015-08-21T23:42:17Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2c6c36c194555762ddcd0681aaf4b94478520af0",
+      "date": "2015-08-21T23:26:16Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ff252c39793f788bc3869d89e08376addbb823c7",
+      "date": "2015-08-13T16:04:19Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "9cf9e1a877c4657731d8a60da03a2bf31b81fbf3",
+      "date": "2015-08-13T15:58:47Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "fdf71a9ed193b37f2dcdb2bec753e7880adb4ba9",
+      "date": "2015-08-07T21:38:12Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5693a9cf2f37351ef082f46658001a2228b2d723",
+      "date": "2015-08-06T23:00:02Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "cfc0b87eb77f7d2c197e902703d555e0533d98d7",
+      "date": "2015-07-31T21:36:16Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3ffd9fa667479fa6f9715e51279be3a20106cede",
+      "date": "2015-07-30T21:29:41Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "a6814f6eafe89437b7b6d84e2d083483a96e19f5",
+      "date": "2015-07-29T02:19:10Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e0575cb2a3e39d5a6edb0aa86df74da02ed9a810",
+      "date": "2015-07-28T20:52:31Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f68bf1cecb895c1cbb85c789e6b84b2fbbfbf628",
+      "date": "2015-07-28T18:17:21Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "391b2f4ff5dc46279af98de7b2f15dbff9530a25",
+      "date": "2015-07-18T02:09:44Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c98019aeb2aa3edac7d96e5e7b7696c3ace2a2ef",
+      "date": "2015-07-10T17:02:44Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "a9d0d3746318d5a441db075f490d0b25258afa9f",
+      "date": "2015-07-10T17:02:12Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b932a1cc4874f2748d1ebbbc108d0171c34ccf26",
+      "date": "2015-07-08T22:53:06Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "aaba0859d7bda9be88cab22dba73392362ec59ab",
+      "date": "2015-07-08T22:52:40Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f72508522e1d8cdefc3138b55260849516ce75e9",
+      "date": "2015-07-08T21:21:06Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2816fa4e3545afd25ef5e2d9f4e31493a0356ab8",
+      "date": "2015-07-08T21:20:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e7d489d121a00c3eb76b805046d372148b7ca5c1",
+      "date": "2015-07-08T21:20:26Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "59d843c7f68444139c34b34a8e9067ed58a4f13b",
+      "date": "2015-07-08T19:31:27Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "a48674ed98b8abff315c50008badd65a9a712f91",
+      "date": "2015-07-08T19:30:50Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b03235f99fcf18c2d0d60e727d7649947dc534b4",
+      "date": "2015-07-08T19:30:35Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "1e8a4997330f32f5fb744ea98dde41c63c0a17fc",
+      "date": "2015-07-07T20:17:55Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "66c51cc752dfa02ed8a30e4d0773a01f32e53781",
+      "date": "2015-07-06T18:27:34Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "80ca9fd454d93862bc6fe76e90b31e86e1cb328c",
+      "date": "2015-06-29T15:40:10Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f25ec9c719cce5141f99bd8b5a5cb7d79a34fda6",
+      "date": "2015-06-23T17:22:32Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e4b3aa377a21613addcb4760188f20e5bf9336de",
+      "date": "2015-06-17T23:59:09Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f2f571236115df9776b855b57061fda7cdc1162b",
+      "date": "2015-06-17T15:28:01Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c87b30cda69cb7a1c4a5b3e6424bdc9886d07cfd",
+      "date": "2015-06-17T15:17:17Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c95b5598253488c8bb68528b8773ab8e4de388ab",
+      "date": "2015-06-15T20:48:25Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0eaa3d57f162ccb5f6ad6c28eb252f791b3f5e30",
+      "date": "2015-06-13T01:45:11Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2dd6657c284c496b385974c106ca10c1d39feddf",
+      "date": "2015-06-12T15:09:54Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "df887662349014edabf83b557ec1b2292e4b800f",
+      "date": "2015-06-09T17:04:17Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "a2c7f226f7b11628fe9941b0c4b7c6bd02f1c6b3",
+      "date": "2015-06-01T20:28:43Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "8a2bd922ab22dd049c5e795bf1153b1dab7ac333",
+      "date": "2015-06-01T19:47:01Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "cdd724dff6d0901aef4a043bec5c5ad350ff21c9",
+      "date": "2015-06-01T16:14:45Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b11b9da37bf4a4b72da336c07428e6698799ea3a",
+      "date": "2015-05-29T23:15:52Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "065eb4c257cbd1a7d2f09da65b434b25a37db4ed",
+      "date": "2015-05-29T22:22:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "6f87a3e80314b08526957a3b1ddb00ae528c87d1",
+      "date": "2015-05-29T21:14:30Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0cc42793330102698d14c35d998f87ffa3a8fd53",
+      "date": "2015-05-28T20:20:48Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e46e5c487b3db6264e64b34105aa9f42ffbfc389",
+      "date": "2015-05-27T23:08:35Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "da3d63cb21c823a1653aae802054302385b2ee12",
+      "date": "2015-05-21T19:02:21Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e131f1266e819978535290bfcb928104a77034e2",
+      "date": "2015-05-21T16:30:27Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "8908b6f6e742d068f63e724c74af9dbf20a7f3be",
+      "date": "2015-05-21T15:39:32Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "bb0fca83c50eb51c44c9b67ef6c7a729da4e1cf3",
+      "date": "2015-05-20T22:55:28Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "116cb9b57c8ea5374b8e9250eee59abdd5b4e62c",
+      "date": "2015-05-21T18:13:42Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "162a05bdebaed571dbfae4a7b191ebbf52aa9f4c",
+      "date": "2015-05-19T20:44:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "edf1ced788ce7558a85a330f60462d50980b6f3c",
+      "date": "2015-05-19T20:08:59Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b037c3a86f3f456f1e4e9005045948f9900672a8",
+      "date": "2015-05-19T19:35:22Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d0f6ae984d42d4083e03084d4ef0965dbbe34a57",
+      "date": "2015-05-18T22:04:05Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "531e242958ab031f600ca8d27a491d430318cf5d",
+      "date": "2015-05-13T17:18:51Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b8de5cfcd6eeb39900245783264605a3747ab5a6",
+      "date": "2015-05-13T17:17:27Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "70df9b37689cf7391326edcf13233c986bec0bb1",
+      "date": "2015-05-13T17:14:48Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b73b29c209229fe6e0a584a5475be55318cbef34",
+      "date": "2015-05-13T17:12:41Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "07b1e458de637483ab34b103b001dee6484c1f08",
+      "date": "2015-05-13T16:44:47Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "26d1254d895d4e2c039e7f69de4026a4d9f9faa2",
+      "date": "2015-05-13T16:34:07Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f402dce5aa6354cf4c92a48b3a761d0b7fc9bb2b",
+      "date": "2015-05-11T17:13:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "6f4643ce12db290e2770ad47ce87a225924a11f0",
+      "date": "2015-05-08T22:15:53Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "219c2b1038d3b0b8393a4c0cd7e9b66c8086f70e",
+      "date": "2015-05-08T21:12:12Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "39abf370a471fa33e164e5d9f85703a4641ac6b4",
+      "date": "2015-05-08T21:11:58Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c48dd760a9c1af6008f8f4db4f53e3a8f3569bb3",
+      "date": "2015-05-08T18:12:07Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0c79f2f83610c1fc1926d055e47fbdeebaf7ec78",
+      "date": "2015-05-07T22:20:10Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "956f53e274a26c7d635b26aefb96483e106f6e52",
+      "date": "2015-05-12T17:34:11Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "276bac566489248d11ce6c8b6ddb6bc87b1fd346",
+      "date": "2015-04-07T22:02:38Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5903a7819b12ec6feb3b1d4177f9a1f4a4ca3a59",
+      "date": "2015-04-07T20:08:23Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "cf5fbd52654f7777970a84c582f198fb01c948d0",
+      "date": "2015-04-06T16:13:10Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "88986d37c6aefa98e31d954fa437c6ee7c2ff7c5",
+      "date": "2015-03-26T22:15:08Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c00a5f428b891b67ef65daae11c2f8524868b18c",
+      "date": "2015-03-19T19:50:35Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "148a6af9cfad55e6686bfb08157d38cb44f1f90f",
+      "date": "2015-03-13T14:19:06Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e803d815ec9e21d140e1126eb119fd804ad430bb",
+      "date": "2015-03-13T01:11:54Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b3d87a95294dd86c5ac36c5da9d23097f6368770",
+      "date": "2015-02-25T22:25:27Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "a4e70582be9bae8cb0c79a2002bfb4b0adaf6a5c",
+      "date": "2015-02-21T21:16:31Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "64178d52931b6670472fb53972ae7d8491242c50",
+      "date": "2015-02-20T00:20:16Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e4622dc8edc55bbbac52941fda7ca60c47c6121c",
+      "date": "2015-02-19T23:55:18Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "bfbd572f7b1a2922192b336bc4c68bd3594dda15",
+      "date": "2015-02-19T23:54:23Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "09c705fb64cd7f464c24340299f1d4eb2094101f",
+      "date": "2015-02-18T16:30:24Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2fdec09debc592b2219e3606e063709158f63252",
+      "date": "2015-02-18T03:09:00Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ad80568ea1d36032ba445db59ead4034edc6da9a",
+      "date": "2015-02-17T16:56:33Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2d340e77feed362a82edaabf28d0b72bcfcdfc68",
+      "date": "2015-02-13T22:59:52Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c47a4244f874cd5779dd07b5b287bd09688eea03",
+      "date": "2015-02-13T22:48:54Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5edef2ceb8a47cb496c4be710fc35b9e1886a481",
+      "date": "2015-02-13T21:49:14Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "6eef6d15c3cc934115901ca68777afe403e64099",
+      "date": "2015-02-13T21:49:05Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d1fa078da53d34fe62b898edc9be048ce4a2eaec",
+      "date": "2015-02-10T16:45:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4960acd91b69ffab5cc26fece49ef59b2b60eb6b",
+      "date": "2015-02-06T17:54:49Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "268a25ffe631c74942518c493a7d52ff2ab2c3b4",
+      "date": "2015-02-03T19:28:18Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3c9198a789451a42cd776010f19a45b6fb84b2ff",
+      "date": "2015-01-27T00:15:08Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "18d86f822cea75947c105091f0fac85a7c5652b8",
+      "date": "2015-01-23T21:07:26Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "a4b127fac419a1ff3f57a1957963b008e528f0e1",
+      "date": "2015-01-23T17:07:36Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "bd134ee09354ee9f933376c7204a9aaf5c2a1372",
+      "date": "2014-12-30T22:49:25Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "76d86d9631a7648090c2f17ee9a26ed75f95a25b",
+      "date": "2015-01-01T00:47:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d496bcd266d584ffcded6e265e8166138a3fb22a",
+      "date": "2014-12-17T23:59:45Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "da2a4adc308399868a3b481ecb755850f8b8028a",
+      "date": "2015-01-13T16:49:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ca79a6465247ac2228db7a51d4eea2b46f5a3b70",
+      "date": "2015-01-11T21:18:00Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3dad29880c248fb54346f28a92eb68df5458d72b",
+      "date": "2015-01-06T17:36:28Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c3626c86378b03f65f62e94334df40dcb4fcf818",
+      "date": "2015-01-06T17:32:01Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "367f79f0c59b16d3adb39b4b1f5a3fa80d64807a",
+      "date": "2015-01-05T18:35:35Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ec4b5964186f10990d58e96b7413cfaea644b2a0",
+      "date": "2015-01-05T18:33:26Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2a3404d75c4b12dd68a101a61e7cb9ebb38250a9",
+      "date": "2015-01-05T18:30:43Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0bc53fc8155d368f6b77a6c64d85f35022846010",
+      "date": "2015-01-05T17:11:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "12b8822fe840c0470405aaff958f3d006a21afae",
+      "date": "2015-01-04T00:30:02Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b41e06334bd338b9c034811b2fc671180ea4943b",
+      "date": "2015-01-04T00:26:01Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ca33f4503f04e4f510619321a7d2d2fe239e3ce7",
+      "date": "2015-01-02T19:37:40Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "9a3349b6029b09e52e0e65b3b16d3ee0bcbe756d",
+      "date": "2015-01-02T19:37:20Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "6d34488d0567a49f541643d86fdcc2bc317c2042",
+      "date": "2015-01-02T19:01:49Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "1a754d76c0d9e4c80e580b0a946f558ac59a77d3",
+      "date": "2015-01-02T19:01:27Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "617c50eeb88f1c44a625442f9ddcdd6d27a5ba09",
+      "date": "2015-01-02T19:00:04Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b4f03edd52c1206092035d4f0c99c3c1c4408e31",
+      "date": "2015-01-02T18:44:42Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "8ca885c7c8bc7e45b2f3d0ca95b22071b2c2d978",
+      "date": "2015-01-02T18:31:17Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "6e4c726db810de9a3f274f27cd80711c99216635",
+      "date": "2015-01-02T17:49:51Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "dcfd354b8a96c01ab20f6043884caa134def1d09",
+      "date": "2015-01-02T17:34:40Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d48d376e9cfbda6cde455dc89ebdd9578798b8b4",
+      "date": "2014-12-30T22:25:09Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "095fa8763f53e898635243b5fd5ec1536c87d396",
+      "date": "2014-12-30T22:20:57Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 69410777,
+      "date": "2015-01-09T22:29:52Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 70686932,
+      "date": "2015-01-20T16:44:25Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 70687803,
+      "date": "2015-01-20T16:48:23Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 71889047,
+      "date": "2015-01-28T18:34:01Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72085089,
+      "date": "2015-01-29T19:12:50Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 73734384,
+      "date": "2015-02-10T16:44:58Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 73734607,
+      "date": "2015-02-10T16:46:03Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 74342945,
+      "date": "2015-02-13T23:04:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 74703819,
+      "date": "2015-02-17T16:58:12Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 74803628,
+      "date": "2015-02-18T03:09:06Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 74895601,
+      "date": "2015-02-18T16:30:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75165853,
+      "date": "2015-02-20T00:06:28Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 75316254,
+      "date": "2015-02-20T20:46:21Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 78729691,
+      "date": "2015-03-13T01:11:50Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 78991169,
+      "date": "2015-03-13T14:19:13Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90127939,
+      "date": "2015-04-06T16:13:24Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90161992,
+      "date": "2015-04-06T17:23:20Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90712484,
+      "date": "2015-04-07T19:52:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90713723,
+      "date": "2015-04-07T19:58:16Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 90745664,
+      "date": "2015-04-07T22:03:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 100384787,
+      "date": "2015-05-08T22:26:42Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 100956928,
+      "date": "2015-05-11T15:58:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 101430739,
+      "date": "2015-05-12T21:45:30Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103228410,
+      "date": "2015-05-18T22:10:36Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103601708,
+      "date": "2015-05-19T17:24:57Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103689862,
+      "date": "2015-05-19T22:50:27Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 104396300,
+      "date": "2015-05-21T19:33:18Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 104691149,
+      "date": "2015-05-22T15:30:15Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 108621230,
+      "date": "2015-06-03T21:29:40Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 110517830,
+      "date": "2015-06-09T22:02:40Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 110814075,
+      "date": "2015-06-10T16:07:47Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 111651947,
+      "date": "2015-06-13T01:45:08Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112507046,
+      "date": "2015-06-16T17:29:55Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112840449,
+      "date": "2015-06-17T15:17:15Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 116736442,
+      "date": "2015-06-29T15:40:07Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 116736752,
+      "date": "2015-06-29T15:41:38Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 118947952,
+      "date": "2015-07-06T18:27:31Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 119706122,
+      "date": "2015-07-08T19:30:33Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 119706159,
+      "date": "2015-07-08T19:30:47Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 125349306,
+      "date": "2015-07-27T21:35:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 125809856,
+      "date": "2015-07-29T02:19:15Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 126499026,
+      "date": "2015-07-30T21:38:06Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 126817267,
+      "date": "2015-07-31T21:35:27Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129633446,
+      "date": "2015-08-10T22:26:30Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129957803,
+      "date": "2015-08-11T16:32:28Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130769195,
+      "date": "2015-08-13T17:23:43Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 134619957,
+      "date": "2015-08-25T15:17:59Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 135159660,
+      "date": "2015-08-26T20:22:12Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 135194472,
+      "date": "2015-08-26T22:19:20Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 137177806,
+      "date": "2015-09-02T17:21:57Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 137816831,
+      "date": "2015-09-04T18:41:35Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 137830426,
+      "date": "2015-09-04T19:18:22Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 140615755,
+      "date": "2015-09-16T03:30:10Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 153074136,
+      "date": "2015-11-02T16:29:19Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 156169744,
+      "date": "2015-11-12T17:12:51Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 156196428,
+      "date": "2015-11-12T18:39:03Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 2181045,
+      "date": "2011-09-23T17:47:26Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 178,
+      "date": "2015-09-01T22:14:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 173,
+      "date": "2015-08-21T23:27:00Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 169,
+      "date": "2015-08-13T17:23:29Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 168,
+      "date": "2015-08-13T15:59:39Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 165,
+      "date": "2015-08-06T23:11:44Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 158,
+      "date": "2015-07-28T18:19:31Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 151,
+      "date": "2015-07-08T21:25:29Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 137,
+      "date": "2015-06-17T15:29:03Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 131,
+      "date": "2015-06-09T17:05:03Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 128,
+      "date": "2015-06-01T16:14:18Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 126,
+      "date": "2015-05-29T18:03:41Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 121,
+      "date": "2015-05-21T18:05:53Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 119,
+      "date": "2015-05-20T22:56:37Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 114,
+      "date": "2015-05-18T22:05:09Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 111,
+      "date": "2015-05-13T16:47:43Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 108,
+      "date": "2015-05-11T21:45:18Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 107,
+      "date": "2015-05-08T21:19:39Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 79,
+      "date": "2015-03-26T22:15:48Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 74,
+      "date": "2015-03-19T19:53:19Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 57,
+      "date": "2015-02-20T00:01:56Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 54,
+      "date": "2015-02-17T16:57:14Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 53,
+      "date": "2015-02-13T23:03:53Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 49,
+      "date": "2015-02-06T18:13:09Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 38,
+      "date": "2015-01-22T22:45:39Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 36,
+      "date": "2015-01-22T18:25:55Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 30,
+      "date": "2015-01-20T04:51:07Z"
+    },
+    {
+      "dev_id": "lanej",
+      "repo": "bundler/bundler",
+      "type": "pr",
+      "id": 1449,
+      "date": "2011-09-22T23:59:12Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127347385,
+      "date": "2015-08-03T17:49:44Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127348714,
+      "date": "2015-08-03T17:52:54Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127350641,
+      "date": "2015-08-03T17:57:29Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127370877,
+      "date": "2015-08-03T19:01:03Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127377767,
+      "date": "2015-08-03T19:24:22Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127384063,
+      "date": "2015-08-03T19:45:35Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127400655,
+      "date": "2015-08-03T20:38:15Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127400738,
+      "date": "2015-08-03T20:38:28Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127437549,
+      "date": "2015-08-04T00:02:47Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129981101,
+      "date": "2015-08-11T17:33:04Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130074157,
+      "date": "2015-08-11T21:00:43Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130428508,
+      "date": "2015-08-12T20:05:31Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130444186,
+      "date": "2015-08-12T20:51:03Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 13129601,
+      "date": "2013-02-05T13:44:16Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 73245145,
+      "date": "2015-02-06T14:36:14Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 74512868,
+      "date": "2015-02-16T14:08:08Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 74513770,
+      "date": "2015-02-16T14:14:21Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 85523658,
+      "date": "2015-03-24T14:29:38Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 85626424,
+      "date": "2015-03-24T18:08:17Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 87491433,
+      "date": "2015-03-29T22:39:17Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "pr",
+      "id": 4110,
+      "date": "2015-11-16T19:42:15Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "fog/fog-aws",
+      "type": "issue",
+      "id": 160,
+      "date": "2015-08-03T17:46:25Z"
+    },
+    {
+      "dev_id": "felixbuenemann",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 3404,
+      "date": "2015-02-16T11:57:20Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "88d00aa41da29786076546bbd34ca9397b30df22",
+      "date": "2015-09-29T09:58:17Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "440f62a4994859b1bb42457b324996ec8ef1a404",
+      "date": "2015-09-29T09:11:23Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0dee386695d1f02d03694ca5f5d86e3424b05dd0",
+      "date": "2015-07-08T08:41:35Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "64700555e3a3e32bcb200ec3ba7b2466f4965381",
+      "date": "2015-06-12T20:01:24Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d2287ba09cafe2c4e9225d50556fa1f2824ead57",
+      "date": "2015-05-07T07:19:06Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "9f0ba1ce3092a45c0a7343db7c97b26ec4842701",
+      "date": "2015-04-26T18:20:55Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "9b9faf6818ab27a335cbc0b9675a654ef80124c9",
+      "date": "2015-03-21T14:41:32Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "31aa4a0d73dc8ae4eb97675cdb34742dfc638338",
+      "date": "2015-02-23T16:57:02Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2200f60f5a8730f176011a831bb932360bedf5c8",
+      "date": "2015-02-20T12:01:26Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "1b820466e5bf381bb3da7d582b75156bff35989c",
+      "date": "2015-02-01T19:47:59Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "becea65ad84d3a28f99b681fa6cbd1e2153b94fa",
+      "date": "2015-01-20T21:56:37Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ed890b1ea97854312c13269a8657858f266c1756",
+      "date": "2015-01-21T10:09:17Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "bb4eb92226d8b46798b846164cae465730816917",
+      "date": "2015-01-20T12:25:12Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d4e936921b09ddcbddcff4a8cd0f8ff9603e8786",
+      "date": "2015-01-20T10:33:53Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "cc8b04aa6f6c2196fe00a4ce4d69ff6d64c0bd9c",
+      "date": "2015-01-11T21:09:09Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3f69279ffdfc037cb2119176628a7eda5a589d34",
+      "date": "2015-01-11T21:06:22Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "7b0c0a372995d0519e72328d377a9ee5d1f3d10f",
+      "date": "2015-01-11T20:47:08Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "160249a6c75817c5702c6999ee95625e5961ab6b",
+      "date": "2015-01-11T20:05:26Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3ac107e3ee4e052fa6863584e24b9e5302090d69",
+      "date": "2015-01-11T15:50:28Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "dd30ec7972fb7f095b37155fd6ba39593fc9513a",
+      "date": "2015-01-11T15:19:17Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 70692868,
+      "date": "2015-01-20T17:15:33Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72379097,
+      "date": "2015-02-01T19:15:45Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72610133,
+      "date": "2015-02-03T08:10:32Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77696410,
+      "date": "2015-03-07T16:26:05Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77696514,
+      "date": "2015-03-07T16:28:17Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77808314,
+      "date": "2015-03-09T07:00:20Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 77959494,
+      "date": "2015-03-09T22:37:16Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 84715468,
+      "date": "2015-03-22T22:17:08Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 85074605,
+      "date": "2015-03-23T16:22:36Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 89539032,
+      "date": "2015-04-04T09:42:50Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99615932,
+      "date": "2015-05-06T21:33:05Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 99753654,
+      "date": "2015-05-07T07:24:35Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 103831912,
+      "date": "2015-05-20T10:00:49Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 104162071,
+      "date": "2015-05-21T07:07:28Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 104674881,
+      "date": "2015-05-22T14:33:06Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 110260614,
+      "date": "2015-06-09T07:31:10Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 110261212,
+      "date": "2015-06-09T07:33:17Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 110914865,
+      "date": "2015-06-10T21:09:26Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112539515,
+      "date": "2015-06-16T19:32:39Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 112838507,
+      "date": "2015-06-17T15:11:36Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 113380880,
+      "date": "2015-06-19T05:34:24Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 113568902,
+      "date": "2015-06-19T16:38:53Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 114467457,
+      "date": "2015-06-23T12:01:25Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 114562749,
+      "date": "2015-06-23T16:25:26Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 121202041,
+      "date": "2015-07-14T11:04:30Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127406626,
+      "date": "2015-08-03T21:07:43Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127407072,
+      "date": "2015-08-03T21:09:59Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 127754588,
+      "date": "2015-08-04T20:38:44Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129961752,
+      "date": "2015-08-11T16:39:48Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 129985554,
+      "date": "2015-08-11T17:40:54Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130449427,
+      "date": "2015-08-12T21:07:31Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 130705503,
+      "date": "2015-08-13T14:40:05Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 132252292,
+      "date": "2015-08-18T15:35:19Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 30225757,
+      "date": "2013-12-10T13:15:29Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 189,
+      "date": "2015-10-07T12:48:37Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 147,
+      "date": "2015-07-08T08:51:09Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 133,
+      "date": "2015-06-12T20:17:57Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 106,
+      "date": "2015-05-07T07:23:40Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 96,
+      "date": "2015-04-26T18:44:38Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 75,
+      "date": "2015-03-21T14:44:34Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 60,
+      "date": "2015-02-23T16:58:59Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 46,
+      "date": "2015-02-01T19:50:11Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 35,
+      "date": "2015-01-21T10:11:07Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 34,
+      "date": "2015-01-20T21:57:48Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 32,
+      "date": "2015-01-20T12:28:02Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 31,
+      "date": "2015-01-20T11:10:50Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 4,
+      "date": "2015-01-11T21:07:26Z"
+    },
+    {
+      "dev_id": "fcheung",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 3,
+      "date": "2015-01-11T20:06:56Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "e7e2cd4b1b9fe05166c6712dbdddab84fa62c0a3",
+      "date": "2015-07-02T22:19:53Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "c6e1d95cf3875d9d8467d1a639e36c58a8a1f4b1",
+      "date": "2015-07-02T22:15:00Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "5037c97b9082c2f93406f1e96444568e5d91e73e",
+      "date": "2015-07-02T22:08:56Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "2a26069930481caf5d56ccbce31c2e0c9d939996",
+      "date": "2015-07-02T22:08:27Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "f8a8172520916fc006f7c330e4f2903ea3a9eeec",
+      "date": "2015-07-02T21:58:30Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b881539288a24f66769af24cecd49a9a15a118e3",
+      "date": "2015-07-02T21:08:30Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0cd44b71db08ab36d3f9cab6fa2520eddbd1176c",
+      "date": "2015-07-02T21:07:20Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "449fb4b6d7ec94023a6e23145e1d15f882c35afe",
+      "date": "2015-07-02T21:06:50Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "1b6a1b9eb9273556642be27a990400d31db06b99",
+      "date": "2015-07-02T20:54:16Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "28a01545e30e9abf8608294a22ff13b52aab3af1",
+      "date": "2015-07-02T20:52:41Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0ec563f778b88d9aedbfd82cd0d4c09488560a7a",
+      "date": "2015-07-02T20:21:18Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4bfa355e86ec9d040d6ab2175cc6298353a5d6d4",
+      "date": "2015-07-02T20:12:09Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4012f0dc4359a1291a0bf76d732183947887a7b8",
+      "date": "2015-07-02T19:59:39Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "b5a1a3576cc26377827dd65ee33058913ba71daf",
+      "date": "2015-07-02T19:57:29Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "3ca6b75c868c1986ec011a35e8a886138bee70a1",
+      "date": "2015-07-02T19:23:25Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "44d05ede460034bbbbed2643e9a3dd1ad4f499b2",
+      "date": "2015-07-02T18:32:04Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "01bae5ee531d71a843a5ae8186026d925bfef2d7",
+      "date": "2015-07-02T16:21:36Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d85cedbc8914f1d624cf3cace29b404aa81a49be",
+      "date": "2015-07-02T14:06:39Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "508d737fee5b1d6779e886d9357854f47fd58309",
+      "date": "2015-07-02T14:06:28Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "df99aa8b8e8cfd40db03509d564c85b92bc90f68",
+      "date": "2015-07-01T17:13:23Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "af1b64b520f4aba0be70e11c9bf14ca02e94224b",
+      "date": "2015-07-01T15:24:11Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d3a7e410fbf00bec75970d2fa7e7db3f058cf8e2",
+      "date": "2015-07-01T15:16:30Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "64234692e430911ab5e894fe8c9c3836a06c1b9d",
+      "date": "2015-07-01T14:49:29Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d2010fd7169495ea62bb9e2d4b12aab3baefab3f",
+      "date": "2015-07-01T14:41:00Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "0a8e3575a36cf8d524f577bf0d454cd5c541c772",
+      "date": "2015-07-01T14:38:27Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "4b6aa85313261c4eb2b25b7100b245d449b30cb2",
+      "date": "2015-07-01T14:12:04Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "7024576bb2f63e25e438a9c02a6a9a048661cc1c",
+      "date": "2015-06-30T22:15:14Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "561dcded5b9e1e04e79352e109864ebfb5c3a68e",
+      "date": "2015-06-30T17:50:46Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "6ed24dfa68a525e500b11bc67f94b0c57ddb93b7",
+      "date": "2015-06-25T20:22:39Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "24829d1eeb2df37b759cf483cfac4aaa4f024b98",
+      "date": "2015-06-24T21:10:55Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "398aa7b10829011ea23986d439a7f77aef31d552",
+      "date": "2015-06-24T20:41:21Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "7741d4035afe506d8fadf9385abb6212cd6e7686",
+      "date": "2015-06-24T15:54:30Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "44bdf304f79093f277fb703c327f19032249ce9d",
+      "date": "2015-06-24T15:53:33Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "059b124ec38d810b4b1da6a7b5f36740adb8e77c",
+      "date": "2015-06-23T15:03:25Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "301a642abd34016eb2001073173496f197fc3337",
+      "date": "2015-06-19T21:30:10Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d2b1d8623bb9f941bcd31107cc238b8454b96ae6",
+      "date": "2015-06-19T21:15:33Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "16922f0f391d7b02a34355cdfbd788e96738672c",
+      "date": "2015-06-19T20:55:32Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "98fa5997e5ee1fb7d7f4b8440b15b8a8d33a75ca",
+      "date": "2015-06-19T16:51:54Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 118194578,
+      "date": "2015-07-02T23:39:36Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 98847062,
+      "date": "2015-05-04T20:53:43Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 98849729,
+      "date": "2015-05-04T21:05:38Z"
+    },
+    {
+      "dev_id": "mikehale",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 143,
+      "date": "2015-06-30T22:26:03Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "eef87291d508c18d05296d47d681ff569232fb81",
+      "date": "2015-09-22T18:28:41Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "eed2c71a5d73643be3d86d8f41ca3964d1096af5",
+      "date": "2015-08-14T14:13:34Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "60ace7f28f68b2c2cea7b915dd469c667cd6975e",
+      "date": "2015-07-10T15:56:16Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "ec3eb24d981234a3c844e62b8f73edce9c67c49c",
+      "date": "2015-04-17T15:26:32Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "d5fd93cc5c781c3531551a54c8675cfe87390be4",
+      "date": "2015-03-24T18:06:22Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "commit",
+      "id": "11b7855b1a3aeb117c43efd714b8ecff1e3fd2c6",
+      "date": "2015-01-20T14:42:23Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "com",
+      "id": 72118981,
+      "date": "2015-01-29T22:38:55Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "bundler/bundler",
+      "type": "com",
+      "id": 129590703,
+      "date": "2015-08-10T20:08:54Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 184,
+      "date": "2015-09-22T18:30:49Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 170,
+      "date": "2015-08-14T15:30:31Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 153,
+      "date": "2015-07-10T16:16:04Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 152,
+      "date": "2015-07-10T15:57:16Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 92,
+      "date": "2015-04-17T15:27:18Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 76,
+      "date": "2015-03-24T18:11:38Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "fog/fog-aws",
+      "type": "pr",
+      "id": 45,
+      "date": "2015-01-29T17:10:23Z"
+    },
+    {
+      "dev_id": "ehowe",
+      "repo": "bundler/bundler",
+      "type": "issue",
+      "id": 3930,
+      "date": "2015-08-10T20:03:27Z"
+    }
+  ]
+}

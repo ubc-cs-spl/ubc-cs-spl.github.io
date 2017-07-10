@@ -1,0 +1,6447 @@
+{
+  "user_repo": "JakeWharton/butterknife",
+  "dep_repo": "google/compile-testing",
+  "dep_date": "2013-10-17 15:08:56 UTC",
+  "dep_commit_id": "a47fee9cf3b2b0f8bfb816072bc018c5afe4b661",
+  "social_date": "2013-10-28 04:42:00 UTC",
+  "devs": [
+    "cgruber",
+    "JakeWharton",
+    "imminent"
+  ],
+  "interactions": [
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "db256e040bdc1dab480a9687f45efb30169ce9a0",
+      "date": "2015-04-07T19:00:13Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "4b34805f734d36b781506c106c2aed866af4904e",
+      "date": "2015-04-07T18:59:23Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "c656924d03a8de912fd9a35492a334eaa03aec03",
+      "date": "2015-04-07T18:55:56Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "aa5be1f7c3f45f2c467f5629cb55a2e68f5d67c0",
+      "date": "2015-03-26T17:05:52Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "25ea4e16f44daef71475100cb7b6919cd9ccbbea",
+      "date": "2015-03-16T17:08:47Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "d885684db75d15ef081b9a5f185b189c3eacfe4a",
+      "date": "2015-02-05T00:40:12Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "a205872f587a684cb99621da057c02039f55dd68",
+      "date": "2015-02-05T00:36:44Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "14f3f956a11bbf2445e3d61ac138215aff48d9e9",
+      "date": "2015-02-05T00:36:21Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "800f41bae268ca5e511814b4484ea15ef72794f5",
+      "date": "2015-02-04T23:44:47Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "0e4d2e15986f859f9a6940e7038af438a3894500",
+      "date": "2015-02-04T23:32:50Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "5bba6c91185b7aa939364dc594ca3b5bddbb0927",
+      "date": "2015-02-04T21:50:45Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "80f0ad4a9c9ce7ae186b697e9b532b67a1082093",
+      "date": "2015-02-04T21:47:17Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "b69c8c1614cba2019410ff63bd705d637ec9c9b6",
+      "date": "2014-10-13T21:16:28Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "d52e3444411562ede40b948a1f5f288ce4d02bec",
+      "date": "2014-10-13T21:16:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "f8051f3a7806f95a721560301cf14800f28814ef",
+      "date": "2014-10-13T21:12:28Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "28880dcd7facd59fcedc36378b0b34b8cde9a726",
+      "date": "2014-10-13T20:20:09Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "a0ad3f3f4d2c7ff13323846ea3b6cb3e496232e9",
+      "date": "2014-10-13T19:59:13Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "68916d10d7a0da62901a37e8c4b272b0527698af",
+      "date": "2014-10-13T18:46:47Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "6fe801f59625c800de14315454600e287adde26e",
+      "date": "2014-09-06T02:56:10Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "9c7cd2c2baa1e6b380b93680c70530834e5f839b",
+      "date": "2014-09-06T02:55:53Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "d574f576777af095966c4776ada539151f0338e2",
+      "date": "2014-09-06T02:55:31Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "b99fd34f72c2c2fd4eef89fd76fa64022b7e28f8",
+      "date": "2014-09-06T02:55:11Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "2c20a5e9336c5f5341d96d798d9a79d41c77e451",
+      "date": "2014-09-06T02:54:54Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "74e051e95921904a74adc76d2cb5a2f6d9e2fa08",
+      "date": "2014-09-06T02:54:34Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "34175ae7a22aa9f71c52f6a3065474f7ae15e4c3",
+      "date": "2014-09-06T02:54:18Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "9e01eaa6ad7166d55fe14e7553f2b86b3b7e0f1b",
+      "date": "2014-09-06T02:53:58Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "8d5f3084baadd98fae3f4f9e899c3cf426242463",
+      "date": "2014-09-06T02:53:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "f8667f4edce73d28c282ee009d8f9c94ded84115",
+      "date": "2014-07-22T17:48:52Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "b999cf74458f99c4073b06902a1c1c3aec47648f",
+      "date": "2014-07-21T19:44:56Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "20e3e8f31b6a07410499f92d7b449e3c6501ffcd",
+      "date": "2014-07-21T19:32:41Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "0f92b28ba6423d8e0242f2146e0308c630bf2f11",
+      "date": "2014-07-21T03:18:26Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "bf6de0c973863fecedb85cd45e198c17dbbe9e10",
+      "date": "2014-07-18T22:41:10Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "5015d69a52edf337b41aaeba0d79caf77e5d1e6f",
+      "date": "2014-07-17T20:15:08Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "3e4e2bbd47e901a7a6e7a531dc111b459500a07c",
+      "date": "2014-07-17T20:14:17Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "f9bedfbaf95674357b8ea2f54dff2441d1d9dc08",
+      "date": "2014-07-17T20:14:01Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "c721f26a11083e05f7cada3d0068812a3d6156f9",
+      "date": "2014-07-17T20:13:45Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "b849f547e76ea546215321650c6a80eef505719c",
+      "date": "2014-07-17T20:13:28Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "7933bde651720ea7fcb0c60d3832f5033dd4b896",
+      "date": "2014-07-17T20:13:08Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "353db303733db04db5aaab8bf372fe7efd64c832",
+      "date": "2014-07-17T20:12:52Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "6f2ca4593a1d1c60b48453a8f7391a4b450d3180",
+      "date": "2014-07-17T20:12:31Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "30eeb19bec3ebafd30fc793aea8c6976d193c142",
+      "date": "2014-07-17T20:12:09Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "440f9b708b2b290e353cd78414042ac655784ffb",
+      "date": "2014-07-17T20:11:50Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "cf9d650d014ebc89447fa019216e12aaf2a015ab",
+      "date": "2014-07-17T20:11:25Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "dd69f2a8553e25e0728a03b82076c44a6b54d25a",
+      "date": "2014-07-17T20:10:50Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "1161551284f68392004f5d6c6584a6547a903906",
+      "date": "2014-07-17T20:10:34Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "f1afebd56ffd87c9d73511f7cd3f853a3d9db22c",
+      "date": "2014-04-20T08:11:12Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "cf0c66a68fc2a87e2b000e518689100efe9cb844",
+      "date": "2014-04-20T08:00:54Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "c5b5bbf60520df4fdd7837639d49d6d2571929f4",
+      "date": "2014-04-20T07:58:53Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "2f348490d7edec079f575bfe2f79a96cf517e888",
+      "date": "2014-02-24T22:56:38Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "2e6c1587a3afc5dcd44e36d70a488dede42cbd72",
+      "date": "2014-02-20T18:30:36Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "092e91c4b84ac10c2b00f71337526d8e867dcba3",
+      "date": "2014-02-18T20:55:50Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "1e32fd6695865cb716f8179ace3e964f71cdeb11",
+      "date": "2014-01-27T22:41:36Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "c474bc8df6ea0febfbdf622914f75156e9cbcccd",
+      "date": "2013-09-11T00:44:16Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "8001602b300c67e6b3a4c248fe53501ff0715e14",
+      "date": "2013-08-28T18:04:47Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "32fe11ca9668fd13dc78500f8107cfb23cddbd5b",
+      "date": "2013-08-28T18:03:22Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "72bca8577ea0f6996a45eeb621c248aecb7285ef",
+      "date": "2013-08-28T17:05:33Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "9a191a21640fd5cabb3b083d11e2725e1422415d",
+      "date": "2013-08-27T00:53:13Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "f8fd56cd822a12e3ac5b1e8b256d2bbc070ab72c",
+      "date": "2013-08-26T21:52:28Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "2fba992cc3f61a85b80b7fe0baed3f66d93778a5",
+      "date": "2013-08-26T21:51:54Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "f4fea0ac7de4cb0f60dd1f53018402904e738ace",
+      "date": "2013-08-26T21:51:33Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "e964ac25334071018051a343161efdc15c5e463f",
+      "date": "2013-08-23T23:21:42Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "67c445966f904ac5eaa463fcbe2652d2cc84cc17",
+      "date": "2013-08-13T15:46:11Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "c9e6fe4207285a88171503263cd8f3e180686841",
+      "date": "2013-08-12T21:37:18Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "e1559d5220d4bb3b70e09db790b48ba37e8839c1",
+      "date": "2013-08-03T00:14:46Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "802bc00210c84c34cb46323aeeba089ba479ed2d",
+      "date": "2013-08-03T00:02:14Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "7e9d636ecf9a7a907d1f84a78e3074a5b1bca73f",
+      "date": "2013-08-03T00:00:44Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "1c01e96ae8172a77b4896153a6a9b8af037098c2",
+      "date": "2013-06-21T14:25:55Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "3e9d00ce5d77b1cbf625d5b6a75e04fbf10cf06c",
+      "date": "2013-05-29T23:58:12Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "c0c550892f64e19ddde496bac631e69f362daaa8",
+      "date": "2013-05-24T19:18:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "afdb3b284d9758219a685239a99c6ef30a2ada4f",
+      "date": "2013-05-24T19:15:46Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "7f6fef9d9ac8fac49d958e4cdd3c6519b35aa8b5",
+      "date": "2013-05-23T21:39:15Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "85b81393b08319ace2734187ac25ec1371536f36",
+      "date": "2013-05-22T23:04:23Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "a90ea7c9aec9bea44e1f9fd00f230d5ce44a5993",
+      "date": "2013-05-22T23:40:07Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "b281ea4dfe5cfc7cf9d1a74541c411a07a89c0b4",
+      "date": "2013-05-22T23:21:57Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "999ba0bf3339093e45b91e69cfe26188330dc9c7",
+      "date": "2013-05-22T23:16:07Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "264f814f08e598db808b8ea1712eb1b5cf01ed98",
+      "date": "2013-05-22T22:18:33Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "a85ff72bb18c60f936a78a3a3cdb940dca2cc53f",
+      "date": "2013-05-22T21:46:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 62520063,
+      "date": "2014-11-11T09:07:55Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23366998,
+      "date": "2013-08-27T20:15:22Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23387690,
+      "date": "2013-08-28T03:34:07Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23392037,
+      "date": "2013-08-28T05:15:33Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23392336,
+      "date": "2013-08-28T05:27:13Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23392364,
+      "date": "2013-08-28T05:28:12Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23392380,
+      "date": "2013-08-28T05:28:38Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23448695,
+      "date": "2013-08-28T21:21:15Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23448816,
+      "date": "2013-08-28T21:22:59Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23597675,
+      "date": "2013-08-31T01:11:17Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23602048,
+      "date": "2013-08-31T07:17:37Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 23973128,
+      "date": "2013-09-06T22:20:54Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24207293,
+      "date": "2013-09-11T01:30:16Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24255004,
+      "date": "2013-09-11T16:30:48Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24261026,
+      "date": "2013-09-11T17:47:20Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24262487,
+      "date": "2013-09-11T18:06:05Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24279830,
+      "date": "2013-09-11T21:56:36Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24354384,
+      "date": "2013-09-12T20:45:23Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24777328,
+      "date": "2013-09-19T22:13:14Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24852274,
+      "date": "2013-09-21T00:56:10Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24940004,
+      "date": "2013-09-23T18:02:10Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24974546,
+      "date": "2013-09-24T04:49:31Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 24974991,
+      "date": "2013-09-24T05:05:36Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 25031841,
+      "date": "2013-09-24T18:48:00Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 25032921,
+      "date": "2013-09-24T19:00:16Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 27189790,
+      "date": "2013-10-28T05:08:07Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 28802239,
+      "date": "2013-11-19T16:03:46Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 29318806,
+      "date": "2013-11-26T18:36:54Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 29318867,
+      "date": "2013-11-26T18:37:54Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 29333559,
+      "date": "2013-11-26T21:02:11Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 29336345,
+      "date": "2013-11-26T21:36:08Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 35436378,
+      "date": "2014-02-18T21:29:49Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 40128875,
+      "date": "2014-04-10T19:37:07Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 42915109,
+      "date": "2014-05-13T04:05:40Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 42915151,
+      "date": "2014-05-13T04:06:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 49037707,
+      "date": "2014-07-15T14:17:21Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 49046948,
+      "date": "2014-07-15T15:16:11Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 49365272,
+      "date": "2014-07-17T21:03:00Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 49365325,
+      "date": "2014-07-17T21:03:21Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 49487585,
+      "date": "2014-07-18T22:44:07Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 49769745,
+      "date": "2014-07-22T17:13:37Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 49789307,
+      "date": "2014-07-22T19:36:06Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 54703668,
+      "date": "2014-09-06T05:56:50Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 58837756,
+      "date": "2014-10-13T02:41:51Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 58936559,
+      "date": "2014-10-13T18:46:00Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 63124275,
+      "date": "2014-11-14T20:28:27Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 65888675,
+      "date": "2014-12-06T07:26:47Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 66712531,
+      "date": "2014-12-12T00:09:10Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 66818723,
+      "date": "2014-12-12T19:04:43Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72956513,
+      "date": "2015-02-04T22:44:07Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72956702,
+      "date": "2015-02-04T22:45:21Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72964175,
+      "date": "2015-02-04T23:37:01Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72964302,
+      "date": "2015-02-04T23:37:58Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72964540,
+      "date": "2015-02-04T23:39:40Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72964714,
+      "date": "2015-02-04T23:40:50Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72964757,
+      "date": "2015-02-04T23:41:08Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72965643,
+      "date": "2015-02-04T23:47:51Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 72965736,
+      "date": "2015-02-04T23:48:33Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 81812252,
+      "date": "2015-03-16T17:05:43Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 195,
+      "date": "2014-11-10T23:47:25Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 69,
+      "date": "2015-04-07T22:46:59Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 68,
+      "date": "2015-04-07T18:51:33Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 67,
+      "date": "2015-03-16T17:09:08Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 64,
+      "date": "2015-02-04T23:31:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 63,
+      "date": "2015-02-04T21:58:32Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 62,
+      "date": "2015-02-04T21:55:23Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 61,
+      "date": "2015-02-04T21:48:47Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 55,
+      "date": "2014-10-13T18:39:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 53,
+      "date": "2014-08-26T16:09:28Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 49,
+      "date": "2014-07-17T20:50:05Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 37,
+      "date": "2014-02-18T20:56:24Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 20,
+      "date": "2013-09-11T18:30:37Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 9,
+      "date": "2013-08-28T20:45:08Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 7,
+      "date": "2013-08-28T17:12:18Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 5,
+      "date": "2013-08-28T00:38:26Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 2,
+      "date": "2013-08-27T01:01:22Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 197,
+      "date": "2014-11-11T07:33:28Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 196,
+      "date": "2014-11-11T07:31:42Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 44,
+      "date": "2014-05-13T01:50:19Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 22,
+      "date": "2013-09-11T22:07:37Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 21,
+      "date": "2013-09-11T21:44:04Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 19,
+      "date": "2013-09-11T13:11:30Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 18,
+      "date": "2013-09-11T13:02:36Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 17,
+      "date": "2013-09-11T07:33:47Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 16,
+      "date": "2013-09-11T07:21:59Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 15,
+      "date": "2013-09-11T07:16:39Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 14,
+      "date": "2013-09-11T00:50:30Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 13,
+      "date": "2013-09-11T00:48:34Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 4,
+      "date": "2013-08-27T21:23:42Z"
+    },
+    {
+      "dev_id": "cgruber",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 1,
+      "date": "2013-08-26T22:33:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "5233a90caed1c6a66d6bffefec8932b79338eb53",
+      "date": "2015-04-17T04:18:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "acc1c90d75f84c38056d4931ebb5c4bc99357969",
+      "date": "2015-03-16T14:30:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "afcac3ed02b6d5d819d7f2d5f7b6741177fa8ca1",
+      "date": "2015-03-15T07:30:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "34d308280d1b0a37757a73b3bb12c93f837287f1",
+      "date": "2015-03-15T06:02:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ec778ad8cbb21b68828153c0a4dbfc6b39319ced",
+      "date": "2015-03-14T23:14:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "9970b0a88a9f718f7036a71d86686432caea0f6e",
+      "date": "2015-03-07T05:26:54Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b67157807ffaf0202da0f009dd9ee82dbad82c65",
+      "date": "2015-03-07T05:22:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "508d59e651f1e75e6da9a24201a5cfaa44b10485",
+      "date": "2015-03-06T06:16:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4daa4e4f6c73f90352fb67201e289d464a828cc8",
+      "date": "2015-03-03T21:37:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "f6447bae70b8d425525341a72250332e929fd965",
+      "date": "2015-02-08T19:37:18Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "fb5bedda7bf11f4b9f105f09c762b9a503349144",
+      "date": "2015-02-02T16:55:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "54ac2a7c87a2f26fdfde7ca8acde8c650ac018cf",
+      "date": "2015-01-30T17:07:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "46ac6c5fdd915e7d1b545e0cfdd7a8c00df2583f",
+      "date": "2015-01-30T06:31:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "863ad411313e8aa552c5c074b9c6721d14e1bd19",
+      "date": "2015-01-30T06:30:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e80c4b73e255165cc822c751d6e8c849f301b2ce",
+      "date": "2015-01-30T06:28:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a3d2a698c21ca0af8250bf992c7f640982e67fab",
+      "date": "2015-01-30T06:19:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "81486a2043efb2255834444e862034d6a3b75f35",
+      "date": "2015-01-20T18:01:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b7c2d8e6a5df0e49e9fae2904672c6536dc256a8",
+      "date": "2015-01-20T17:59:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "59c0b728a983064d38c3bc28a4f690e6027c05ef",
+      "date": "2015-01-20T08:09:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "42b385310bc034f086f325f2bf6b14c88cd9f4e9",
+      "date": "2014-12-20T11:21:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "bac2342500971a3c6664629c3a63ca74d6e4819c",
+      "date": "2014-12-20T11:14:16Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0a5be77a4a7f75996eda2033eed55e7153269fcc",
+      "date": "2014-12-01T07:25:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "78767690a46490e5c5bd1f36a4e03033b61700cc",
+      "date": "2014-11-09T21:26:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "84aff92f1af702c28e85542e8f914207523ad5c1",
+      "date": "2014-11-01T22:28:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "eee48dfafed93408e0d2951560d29acc1c4db189",
+      "date": "2014-10-28T01:29:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "69ef78ad96fa6882e891684e619781c22d5e76ee",
+      "date": "2014-10-28T01:29:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "f8f53941821f77aa1bab8d5e535084b29037a28d",
+      "date": "2014-10-28T01:26:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e2df14c84b20cdc8d8eab65377438288ef73af14",
+      "date": "2014-10-28T01:19:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "8d6dc80168e812e1331c7ecc69bc4ff514166a6d",
+      "date": "2014-10-28T01:08:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c54b70abc566dd0fb40bf9f6120ef7a7e26f2d81",
+      "date": "2014-10-28T01:05:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1a79f66240d634ff4b985bda922af24c66f27172",
+      "date": "2014-10-28T01:05:35Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "cf92050a1433a5527f696402b91cc4ddc3e79633",
+      "date": "2014-10-28T00:39:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "759881d54643b8b8b745ccda9f1b78a4532552b3",
+      "date": "2014-10-27T23:56:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "43f6a8165b2e894fdf15a9f81700f78b93bf2070",
+      "date": "2014-10-27T23:49:35Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c3b25ccd4927ef07e9a022199e28894211f040ae",
+      "date": "2014-10-27T23:35:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "d0550ba0c9cc973deb9c7089b0e6716601d97fb8",
+      "date": "2014-10-27T23:09:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "dfb820c8bda8ed7a84f845d26b8bffd0ca66159e",
+      "date": "2014-10-27T22:44:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1770c70cd0a42d6aa9cadd766bac85c016addd6b",
+      "date": "2014-10-27T20:47:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "582040deb3dc368c2aeb416a009bf422f46cbcb8",
+      "date": "2014-10-27T20:29:52Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "3dcd577810a623d15327a07a589a232a9e8dc355",
+      "date": "2014-09-30T07:36:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "13c6f90856216729792524c80d65c4c63ada7a41",
+      "date": "2014-09-29T00:42:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7f9b45c6f5a360606de6b428c36ff6af92f9f69e",
+      "date": "2014-08-20T19:51:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ef6858ed097a1fc771a0039af69b7544d63f1da7",
+      "date": "2014-08-06T23:28:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "406ac2b6876b1d74effc003db720fd55f7145bbb",
+      "date": "2014-08-06T23:23:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4efbc1935d6fca35ed5d94486da27974a35d0c38",
+      "date": "2014-08-06T23:21:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e0ef2903d963cd59a258abcce6011dfc47b2a7e1",
+      "date": "2014-08-02T06:51:35Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2ca01cbc9fadedcfb8e2eecc0632516c3ecc55ec",
+      "date": "2014-08-02T06:51:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "fa6b046b55d30bdddd343244b86cff64030c71c7",
+      "date": "2014-08-02T06:48:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "aff64e81ba2b2a3c220cc67d3e83d48869c754c2",
+      "date": "2014-08-02T06:42:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "571082edcb05e3c1125dafd6f5c804988a6eeab3",
+      "date": "2014-06-20T01:25:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "79cef8f277def3fd109aaa26e12417bd5f9c538a",
+      "date": "2014-06-20T01:25:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e471cfa0c93cea7d5171981640581170568e8583",
+      "date": "2014-06-20T01:22:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "bc032a8c1e2ce7cb053e69bc94c401e604ea3a9d",
+      "date": "2014-06-10T22:54:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "bfb45917e90c5ab8286e0f73590d8cb816394c44",
+      "date": "2014-06-02T16:33:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "dbcdcd4514853696f643ff1038ceeadd22826c1e",
+      "date": "2014-05-30T16:32:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "9a0b95cf077181f237f26e7cd3ac0b37e3f15aa9",
+      "date": "2014-05-21T00:27:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "55fe9f7b9f5c146ef38f356005e6e00cb2cec777",
+      "date": "2014-05-21T00:27:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e31ed7dcaa40f4d18681df148f5c39d904127cc5",
+      "date": "2014-05-21T00:24:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "3f844741ada79cd97c99b5fa43e4d6e928853389",
+      "date": "2014-05-21T00:20:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2741cd8e0d6ad5e5af3d843a9df9a4f839a85454",
+      "date": "2014-05-21T00:12:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c58aa07a477ca80e8cdff5e2df62062f460a77fd",
+      "date": "2014-05-21T00:03:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "9959ff0ca8f3927b626cfea63f9185f59ccbe190",
+      "date": "2014-05-12T16:27:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "faf1c3373f1249a6535e58e165c3dc1d4e7b4708",
+      "date": "2014-05-12T15:32:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a1be8baca3637f0a92a1bfc24c2c9b50aaa2c310",
+      "date": "2014-05-08T04:16:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ba78169537d0da68f6f2d11ee71423f4de9fe6a5",
+      "date": "2014-05-05T05:25:16Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "10b69403fb024876c4265226cb9274e60425f6e1",
+      "date": "2014-05-05T05:25:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "26da67b5e08f1611e6eec5d2f2d69bcb460c6447",
+      "date": "2014-05-05T05:20:52Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "bea5b4a9ddfdf242129a6f16680e71632079624f",
+      "date": "2014-05-04T08:39:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e7d2365a8259d7531fec45ad1b9ac40fb66b88a7",
+      "date": "2014-05-04T08:35:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "161a2f2387ccd60ae8eb1dc6a8186f08703253e0",
+      "date": "2014-05-04T08:00:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a6e70748fab32f3053ac1d5c5e92010fd6e198b8",
+      "date": "2014-04-24T00:28:48Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "5e0e091ac29fba5fe29bc000484168c1b7a625f1",
+      "date": "2014-04-21T07:37:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "383044c2f0eba7147ab197d232e8ad413dac21a6",
+      "date": "2014-04-21T07:37:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "797de780f669754c22652e14671bc91df6f63b3e",
+      "date": "2014-04-21T07:17:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "d9967aae168640766255263ead606d3f907d5aae",
+      "date": "2014-04-21T07:03:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "9306a2dc3058ad4c52b9243acef31331dedd7f4e",
+      "date": "2014-04-20T10:07:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "576e9c96d823b69d9c44071d3412b2c950c754de",
+      "date": "2014-04-20T10:04:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7d3a1d5d22e56040a750afedaacaf2c7cfce5178",
+      "date": "2014-04-19T09:25:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "d8d516900d21916698e41643a760c9794774925b",
+      "date": "2014-04-19T08:49:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "981ec8b00f7d481921401451d48bd349924b334d",
+      "date": "2014-04-19T08:10:38Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ef323457e3c82ab808f51f5c09ef59f5965d331c",
+      "date": "2014-04-19T08:01:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "3c53e65aa850c8f64e08d3db88e68748acf2bd9a",
+      "date": "2014-04-19T07:37:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b9680eabac0dbd666e8c36e27ed3ac1284dae924",
+      "date": "2014-04-19T07:26:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "3ddd48b137e11b6265f9be992bc6a6a757d4437d",
+      "date": "2014-04-19T06:57:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "9199d34ee07aa2a94f3f488a12d9f23c55c28055",
+      "date": "2014-04-19T06:03:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "244a9e7f73df20c80faefd0bb78d81e9c6ed642f",
+      "date": "2014-04-18T21:05:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "9b68a9d0adae25a52970e73368b1dcbb28c2f351",
+      "date": "2014-04-15T07:21:54Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "db31f5e2c2a6799d8d959d164adcd5695e433d95",
+      "date": "2014-04-15T07:19:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "be02ebf98d8f0c712b6dc149bb8b71e08d465963",
+      "date": "2014-04-15T07:13:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "08e88fc562c02c0b67b1fc2296c858bb635c6766",
+      "date": "2014-04-15T07:08:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4bde7cf413c78dc97b67476b6229e5a7c8353089",
+      "date": "2014-04-15T07:05:38Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "5a2bf2eac418f6094e4f15244798a9197a342189",
+      "date": "2014-04-15T06:11:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ceef7908dc9e26618df36420ea5e83af0cbb2386",
+      "date": "2014-04-15T06:11:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0c7bde502f689e8ea8a8ee2c784b85681e2f7a9d",
+      "date": "2014-04-14T19:48:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "309a6312011fb28fc64b8f35e2ae507a91ecd6a6",
+      "date": "2014-04-14T16:50:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ef74a9393189b722a99f8230befa1db3c7083024",
+      "date": "2014-04-14T16:44:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "3a6f2eb9713cfcea3037282e4fc4d34d50f19d6c",
+      "date": "2014-04-14T08:12:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "fd4213546c2bbd99e13041f4a58602d3486ee1a7",
+      "date": "2014-04-14T08:08:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6f2ba2667f53fe83260a9b7583f8eeba48aebe70",
+      "date": "2014-04-14T08:04:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "57f631032e67d743fe91929c975f1dfbd8ca066a",
+      "date": "2014-04-14T08:01:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "661c81ac167609c89ccf94256d8a0c9a0ef9e692",
+      "date": "2014-04-14T07:31:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "445fdd1758e621535ff0bd3728e7b878563cbc83",
+      "date": "2014-04-14T07:29:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1278730225e381870448fad75946b1ab13ae450e",
+      "date": "2014-04-14T07:29:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "23127c7cdc2f45b2540d795bab980739083ba60e",
+      "date": "2014-04-14T07:13:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ca233ea3a3a7ca04b4c0664e18cfe084493d07a2",
+      "date": "2014-04-12T09:11:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7f8c13293ea5982b4928231260b0a81e6066d9b0",
+      "date": "2014-04-14T05:47:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "018c2ddf2739ef8ebc0799091639ad9a8dd7f075",
+      "date": "2014-04-10T16:49:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "13fa8e0067d454eaad856cbe7099439631dcb1db",
+      "date": "2014-04-10T06:02:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2d55a415085ae6b502174c4272480dd74f6705b4",
+      "date": "2014-04-08T05:36:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "39382533ca112f55b67d1568b35b49ebf1225e28",
+      "date": "2014-04-08T05:36:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "594a2cd9bbb5ebe33415671f7996a8c6ea3d006d",
+      "date": "2014-03-26T05:14:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "cf4bec7a5c4ba4be0c82bc876183fac0caf3fe2a",
+      "date": "2014-03-03T17:11:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ac6cd3006b80cf3ab84775ac2fcaefa490f58b4d",
+      "date": "2014-02-24T21:26:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "65b824819efc50c731c1b168a55d03e0bc1d4954",
+      "date": "2014-02-03T03:32:54Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "50a61adb7c888bf2be12df4e825677fc0cfed626",
+      "date": "2014-01-12T09:43:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2420921f5600cdc2970936a052bafc65324205c4",
+      "date": "2014-01-04T11:25:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "02e0ddfbc20da3ec3ddbd757f6f0c929c29627f2",
+      "date": "2013-11-30T22:45:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b930c02d591f0caacc5be6e3f19e104b7c4af702",
+      "date": "2013-11-30T22:45:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "65227e44b26a995db1c11b597bb95bdeac7700ca",
+      "date": "2013-11-29T05:36:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "444f870ff3e6244617cb1e0ca4576f1c7fb77ef5",
+      "date": "2013-11-28T05:45:18Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c49a980b227a55da8655bdfd7653b8c2337fa9d9",
+      "date": "2013-11-26T09:31:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "271af5cf0acf12f87e6e234752fab49c850fd2c7",
+      "date": "2013-11-26T07:08:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4e0663b03a454a391e3e071f706233df5192ec11",
+      "date": "2013-11-26T07:08:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1eece1e58af2a4b675e70364c2bf32dac77ff622",
+      "date": "2013-11-26T07:01:54Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6b4ca62ba8b214b9b3376298712176a59e6f205a",
+      "date": "2013-11-26T07:01:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4a0d852f009c1d19e5e49a5326f5bcbd98e7b2a1",
+      "date": "2013-11-26T06:56:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0eb04aee4302c47f5f98df3e31e281a0191387b7",
+      "date": "2013-11-26T06:54:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7653434733c8814668e49783a75f6cc41257f4f4",
+      "date": "2013-11-26T06:52:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "84e8df8f2a615f94466ce6d3841e8f5f8f0ee249",
+      "date": "2013-11-25T18:20:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "d97bfcbff7890e1840f4e9b4c84f412a0e3966da",
+      "date": "2013-11-25T18:20:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "393aeab4abb41fca15e7ac14188f2b80acdef13f",
+      "date": "2013-11-25T18:17:57Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e20a43584c3418a4b2b3f70259933eeec901812b",
+      "date": "2013-11-25T18:17:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6a15c27ef1007316659d74dd68d62679bac0e910",
+      "date": "2013-11-21T14:50:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "45b1eb9534d51405b993ae17dabc774a9d4a3892",
+      "date": "2013-11-21T13:58:16Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "037c8028d14ed608edf058326c06fc933b3f3077",
+      "date": "2013-11-21T10:32:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "8dbb8f79de4140fc23b63d7205dc548c94deb729",
+      "date": "2013-11-21T10:32:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "fc5fa74daf19d7ba4fd273ee3a11bc5934a27bbd",
+      "date": "2013-11-21T01:51:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7b1363ded1e9bb0912251d806e74a3165324291e",
+      "date": "2013-11-19T01:58:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "adc1ab28e84815aad254f362205f9a07946abef9",
+      "date": "2013-11-19T00:02:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "48296d071e0ffb2c7b064db21291588af89f48f8",
+      "date": "2013-11-18T21:24:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "39fe30fa92675ae5caa342374b80120445122978",
+      "date": "2013-11-18T15:06:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ea8c9b740058cbc793adbf91a0c4e9642b3cd5fd",
+      "date": "2013-11-18T14:55:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "af2ce88feb46057d4b6150fa8e5badb990447448",
+      "date": "2013-11-18T13:27:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "8619d3a1719afe1cbaecf8fa9041599b90d561fe",
+      "date": "2013-11-18T13:25:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2b23af1bd0d96c8309885a275dd586aa728c92fb",
+      "date": "2013-11-18T10:35:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6def755b4d9d88699d73ee698cc0ed4498aeac1b",
+      "date": "2013-11-12T17:34:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "da34c94c59f5c164d3f6b5d235f18448a921a9ec",
+      "date": "2013-11-12T17:46:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4c8d9b5b62e5796609191ff49052b49c8d546b04",
+      "date": "2013-11-12T17:46:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4c1b2c6caa5cdcf2d48c203e6a7d35cfd4e9aabe",
+      "date": "2013-11-12T17:36:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0896e029b46dd475da94560fc140b569bcfbf467",
+      "date": "2013-11-06T19:47:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "955c34598562b8e5d34866136ee8f7ddd50a21b8",
+      "date": "2013-11-04T18:04:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "d110cae9e305c8c2bb9ddc00d2d91d7a4560c284",
+      "date": "2013-11-04T17:37:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "12d06f4dd638533af6666258096f968d8c1b7488",
+      "date": "2013-10-15T20:18:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "12c94d73c5c25e0caf142cdbad329f60fe462b6b",
+      "date": "2013-10-08T03:01:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "cc051bb34348b1be3f0d0455c3c6f29c340d8b11",
+      "date": "2013-10-06T02:51:57Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1968d35be6f2d3294c7accb3b247808eeeb4a5ce",
+      "date": "2013-09-11T17:33:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b0431a3e07cc40e8a15d6b90d101399cbfa54689",
+      "date": "2013-09-11T06:35:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7cb28c8b4f1a12cc1b2c9d8503eb4ff0e311578d",
+      "date": "2013-09-11T06:35:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "95753247006b696c21c5134eaeab4f8ce4921cb3",
+      "date": "2013-09-11T06:31:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "645130a6a1bf90e8e56040c47d3d810e4126b7df",
+      "date": "2013-09-09T06:24:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b60948eab772f2121014e46f81b107fd05d98e91",
+      "date": "2013-08-14T22:09:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "cc85a639447ee064a23716776b54fee8a9e11d0b",
+      "date": "2013-08-06T22:05:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ada4c88f7e2cce90cf9be23febce80c704be8883",
+      "date": "2013-08-06T00:02:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6355ff6a9b88974d056ee7f933344ccc366a7724",
+      "date": "2013-08-04T22:12:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b1b1db3eed75eb361eeff03febec0a313cbfd19d",
+      "date": "2013-07-18T07:42:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e0c312f7911461c6533789e57a77e0cd8a694e43",
+      "date": "2013-07-18T07:42:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "541811a6d891bbcfac8fccba0dd192b536afcf62",
+      "date": "2013-07-18T07:35:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "8cc6aa5d7d48d334887e6a50756b58b88ae063a8",
+      "date": "2013-07-18T06:36:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0682c0fcaf30ca42beb7aa721d193ee285c26617",
+      "date": "2013-07-18T02:04:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "19f3cd84d0ba1ca04d533940bb75ffa3bbd2bfa6",
+      "date": "2013-07-17T06:14:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1a3d50197d4fe9353c37ffd3b46ba42439dc63bd",
+      "date": "2013-07-17T06:13:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6b1cf4689d3d18a9ddbd6e94910a3b05e2d3f5ae",
+      "date": "2013-07-17T06:06:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "27c610af9744995d33864f5cbe27c3ba1323d428",
+      "date": "2013-07-10T06:42:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b58114ec20827c769a3081bcf087cb810a150ffb",
+      "date": "2013-07-10T06:16:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4054628ea461aa7bff2c4613d87bde97133bf74a",
+      "date": "2013-07-10T06:12:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "912fecf86b171f90d5a3b537690c662eff63a6dd",
+      "date": "2013-07-10T05:52:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "657722bcce2cd1d7ad48f4689481d929dedc0681",
+      "date": "2013-06-18T15:55:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "46d60ee4c94f3a00f99c4ddf3ce13f74d3bb0564",
+      "date": "2013-06-14T06:06:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a105ce17fe6e1987288b8977f6ab88b20630b8a9",
+      "date": "2013-06-04T14:03:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "43e7be3cc258bd950719e8cc6c14fe62c48c2f13",
+      "date": "2013-06-04T05:43:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "21602f903a0cf30ec3b04aed412fbe62697612b9",
+      "date": "2013-06-04T05:30:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e67af0b892bc08aed4aab4aa5a53ec6b6f7306b4",
+      "date": "2013-06-04T05:29:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e2cf46840a086fb3356de9b72c64f2d6ee116976",
+      "date": "2013-06-04T05:27:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "58ad74f171dd75b4442fc8eb2e76fb21833e4254",
+      "date": "2013-06-04T05:15:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c6fa7a191b8f2f3c7765eb7d97c0d1f9afb54dbe",
+      "date": "2013-06-04T04:56:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c02017156ed09a70557a072774e882095ff3dc65",
+      "date": "2013-06-04T04:56:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "cdc587f9c9e62f5f7e7c8f821cb5c6362fa8a386",
+      "date": "2013-06-04T04:35:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "d5ded6b9e5ffb74140d0297cbe93c5108eb5fa16",
+      "date": "2013-06-04T03:59:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "375caae6cfce769017f0215b262a3a717f69eae3",
+      "date": "2013-06-04T03:17:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6d8fe10fef31a0d322bb69864068e7c08aeb1ef2",
+      "date": "2013-06-01T06:27:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a280e5f68441752f650be251c8279611a626aa31",
+      "date": "2013-05-11T03:23:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b7edbe78557da2f8b3202bbde8cc91033eb95436",
+      "date": "2013-05-02T18:19:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "dc7c7393ac82a83b59a6f8616bbeae69373769db",
+      "date": "2013-04-28T06:55:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0ce136ddde5a6c0bc51bde03808b3693451897c9",
+      "date": "2013-04-28T06:55:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ab1f17266de7c08b4fa4f4520e22de6f25165047",
+      "date": "2013-04-28T06:50:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a08c22dc5db19831820e39f08333cec7ed6156f6",
+      "date": "2013-04-28T06:49:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ddb514d00dc41783cf9118c17842c8de3e583023",
+      "date": "2013-04-24T05:33:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7f01c9d8fd3b75a5853c607536442240657d6878",
+      "date": "2013-04-24T01:43:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0c4797eb3999ad877cae64b7123322edcf96e75a",
+      "date": "2013-04-13T00:51:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6bb4c5c9195ca9860604fe11c83bc30ed7a641c5",
+      "date": "2013-04-13T00:51:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "83bf98ed1a5a9ef1739ff4d72180b5a89f498e07",
+      "date": "2013-04-13T00:38:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "f10e46a49ab1de2effacbc97e4b33e45678cbb5a",
+      "date": "2013-04-12T22:41:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "912d7b2434195014cfb2229bd939e66c68a0447c",
+      "date": "2013-03-28T20:56:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "67909aaaefe8f3b93ab4a2182e523ce0bc233543",
+      "date": "2013-03-28T20:18:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e370252fecaaae68f5054dbeb3d9e7b567e4ce6a",
+      "date": "2013-03-28T00:27:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "fa89384d52b6e664afb8fc96f37d5d6fe052397f",
+      "date": "2013-03-28T00:20:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e360aab14395d65dc0d6675a4e7814dd2293850c",
+      "date": "2013-03-26T18:08:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ccdb93e3034e80c000273fd77e28ac5d34ab4783",
+      "date": "2013-03-26T18:08:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b7e7ebac595b2875fe9d28b5e7189d8735a98d77",
+      "date": "2013-03-26T18:06:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "65ce8323f91d3e7045d4426c331a0aa89f85d60d",
+      "date": "2013-03-26T07:36:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "885adeeb1962708cbd0e00aca939cb3056a2e5a4",
+      "date": "2013-03-26T04:48:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1f5d6aacc52d2aac4917ad4c06ea6cdc82e45de6",
+      "date": "2013-03-26T01:53:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "39fe7d84f9dc845c6b6f03dea36943987653383f",
+      "date": "2013-03-25T20:35:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "d18c579ea67818004eb647320cc2202d3d9d70ae",
+      "date": "2013-03-25T20:34:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "f11eeb28490f904a501d165073adf938216721d4",
+      "date": "2013-03-25T20:29:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "11af074d452d323a734918e642669de9a49beef4",
+      "date": "2013-03-25T20:11:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "cf5835ffcb0d1bf086b0d11ea4ba763e6a45f402",
+      "date": "2013-03-25T05:36:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "4a8e8edc00db12efcd50f1555b24f4ea85cf002e",
+      "date": "2013-03-25T05:34:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "3cb069b214c8299d02a7025c538dff2c672da63b",
+      "date": "2013-03-25T05:34:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "159fe071f86f7b5c16007468c2e2c84c8dadd11b",
+      "date": "2013-03-25T05:31:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1d4f005e2639235a75bdeaf2397fbed08d48f12b",
+      "date": "2013-03-25T05:29:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "b0ff54ce5087fd43bb0628117e92c3968c8d2095",
+      "date": "2013-03-25T05:19:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a7fb85dfcd361c27be562baffa9b8612cd761f5a",
+      "date": "2013-03-25T05:18:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "01a545eec640b4d2d83b462c0de784b7ca61ad85",
+      "date": "2013-03-12T07:01:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c7a90af6b43fbd414b1e28d024f43b1df9fec5c0",
+      "date": "2013-03-12T07:01:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "5ee084295e404a7605163c61e8fc5c98e58087c0",
+      "date": "2013-03-12T06:59:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "94ec816c52b13922426ce1838c619194017b60e4",
+      "date": "2013-03-12T06:59:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "41424da40cd2dda13989e478832df4d60427980e",
+      "date": "2013-03-12T06:27:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a423b2fea95ee775d74461351cfa2ebdf0bbf5ec",
+      "date": "2013-03-12T06:12:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "5d2be22f5547709ccea2cb2843d1fc4bf1dde5a4",
+      "date": "2013-03-12T06:12:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7a7613062632ffdbe3f143b69e98f0868d6655e4",
+      "date": "2013-03-12T06:09:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "5094795eaf98d2a13c012677ea39014c4cc322ff",
+      "date": "2013-03-11T06:57:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "7d96d1e479bb4b1440e985e0403840abcd985ac6",
+      "date": "2013-03-11T06:54:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "28537f81932c87e99e6ae99bf65a5cc3d98b6549",
+      "date": "2013-03-11T02:48:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "67b377e6e47937b491481433a0d443aaffa6272e",
+      "date": "2013-03-11T02:14:35Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "69a1137b3fea92a2d85ffe6bf0b7c9c2951e6cb9",
+      "date": "2013-03-07T08:14:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "26e233573127b1eed1558cb100f8ab12054f27b3",
+      "date": "2013-03-07T08:01:54Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "538db130bd69ab9fde4db98ea6a58e7460092ee1",
+      "date": "2013-03-07T08:01:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ae79bf3f02e9dc5eb71201c0dbfcf159e4caf868",
+      "date": "2013-03-07T08:01:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2123b1ffceeca2c35897094cb3d7314d3374ae70",
+      "date": "2013-03-07T07:31:57Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "85c324a0348c0585c0f5689c8dcbc1bf4029be62",
+      "date": "2013-03-07T07:26:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "547d351e21038aee7e7f3ebf65a554c34e9efa12",
+      "date": "2013-03-07T07:25:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "05fee106086278942d96abb2afab891c2bd4e011",
+      "date": "2013-03-07T07:24:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "037d9b23ebd2c77502e6e9cddeb8697cba9c9e47",
+      "date": "2013-03-06T22:15:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "38efe6934373b38e30ebf7f0776fdf5d8b8652e9",
+      "date": "2013-03-06T22:15:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "810be02b5851a4d7a5526f6610cdf2ecf80abae7",
+      "date": "2013-03-06T22:14:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e004282f524b36dddb6cfb3b6324e67d42e40160",
+      "date": "2013-03-06T20:15:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0373096faa25d61d93fb40366ca1411342d42bd2",
+      "date": "2013-03-06T02:33:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "37fcac57f1ee0a6b0b379eb5fa2043e5fdb1ba41",
+      "date": "2013-03-06T02:32:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e1b012505c4c4b1406e2d56f6ded30b40428dcda",
+      "date": "2013-03-06T01:30:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6b5eacf344b9bac1aa8cac928803dfacf8302719",
+      "date": "2013-03-05T23:43:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "0b7503aca5912ee3e1e560157be61f5c7701cc97",
+      "date": "2013-03-05T19:34:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "c6fe9446e13a2a64bbfcd3f0d4549b22f6d72ca2",
+      "date": "2013-03-05T19:34:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "685903e1607d9488aa979f452009bb57fe4c9102",
+      "date": "2013-03-05T19:32:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "066eaaaa91e2b7fb0a8a39465372a2d4101d956c",
+      "date": "2013-03-05T19:32:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2945ad001eaa45d60f344c664c7a856f64640163",
+      "date": "2013-03-05T19:26:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e149e5f436141ce8dfa4d0d9f6c6cddeb01be0b9",
+      "date": "2013-03-05T19:24:48Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "acda820af757562d1f20ae77fbea88b1b2865192",
+      "date": "2013-03-05T19:12:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "fcd8d6e8855fc179bee0c79c792831ca10ae1dde",
+      "date": "2013-03-05T19:08:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "1ac9ac39a6dc189da19aeaa48bd185ee96490434",
+      "date": "2013-03-05T17:44:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "741824df99ef6c2a486f72d18484c61b87447330",
+      "date": "2013-03-05T17:42:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ea198a7a71a216636657d65fe01898ae0ab40ae5",
+      "date": "2013-03-05T15:46:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "708cb2730e3726ec51df7025e3133093790c9353",
+      "date": "2013-03-05T08:56:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "49ff3819f60cb11fe1505b13ec2dff6dae71022a",
+      "date": "2013-03-05T08:56:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "8b971011893613245ab662450ee6555c30333c7f",
+      "date": "2013-03-05T08:48:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "commit",
+      "id": "54a2f464720c3591d52447d7acb66f6319c794fe",
+      "date": "2013-11-05T00:12:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14452696,
+      "date": "2013-03-05T17:23:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14458875,
+      "date": "2013-03-05T19:10:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14459324,
+      "date": "2013-03-05T19:18:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14523344,
+      "date": "2013-03-06T20:15:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14546937,
+      "date": "2013-03-07T07:50:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14671626,
+      "date": "2013-03-09T22:01:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14675378,
+      "date": "2013-03-10T03:07:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14689637,
+      "date": "2013-03-10T21:24:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14691499,
+      "date": "2013-03-10T23:03:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14691716,
+      "date": "2013-03-10T23:15:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14692183,
+      "date": "2013-03-10T23:40:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14692253,
+      "date": "2013-03-10T23:44:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14695391,
+      "date": "2013-03-11T02:45:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14697067,
+      "date": "2013-03-11T04:16:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14761386,
+      "date": "2013-03-12T07:03:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14908499,
+      "date": "2013-03-14T15:24:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14945582,
+      "date": "2013-03-15T06:25:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15091911,
+      "date": "2013-03-19T01:05:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15202929,
+      "date": "2013-03-20T20:56:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15203154,
+      "date": "2013-03-20T21:00:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15203950,
+      "date": "2013-03-20T21:14:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15204517,
+      "date": "2013-03-20T21:24:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15377798,
+      "date": "2013-03-25T04:51:18Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15378094,
+      "date": "2013-03-25T05:10:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15403132,
+      "date": "2013-03-25T16:16:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15410103,
+      "date": "2013-03-25T18:03:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15423592,
+      "date": "2013-03-25T20:33:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15501277,
+      "date": "2013-03-27T02:40:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15501328,
+      "date": "2013-03-27T02:42:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15504014,
+      "date": "2013-03-27T04:37:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15559766,
+      "date": "2013-03-27T23:32:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15561599,
+      "date": "2013-03-28T00:21:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15561811,
+      "date": "2013-03-28T00:28:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15561949,
+      "date": "2013-03-28T00:33:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15597683,
+      "date": "2013-03-28T16:16:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15613958,
+      "date": "2013-03-28T20:55:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15743558,
+      "date": "2013-04-01T23:27:48Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16181993,
+      "date": "2013-04-10T15:33:38Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16186874,
+      "date": "2013-04-10T16:51:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16321418,
+      "date": "2013-04-12T22:44:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16325136,
+      "date": "2013-04-13T01:14:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16793089,
+      "date": "2013-04-22T15:02:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16908674,
+      "date": "2013-04-24T05:27:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16908771,
+      "date": "2013-04-24T05:31:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16938694,
+      "date": "2013-04-24T15:25:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16941954,
+      "date": "2013-04-24T15:47:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 17045259,
+      "date": "2013-04-25T22:42:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 17129823,
+      "date": "2013-04-28T07:04:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 17326961,
+      "date": "2013-05-02T08:51:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 17354872,
+      "date": "2013-05-02T18:19:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 17581807,
+      "date": "2013-05-08T01:39:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 17581910,
+      "date": "2013-05-08T01:43:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 17785944,
+      "date": "2013-05-12T21:44:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 18784457,
+      "date": "2013-06-01T06:27:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 18888572,
+      "date": "2013-06-04T04:28:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 18889607,
+      "date": "2013-06-04T05:15:57Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 18889613,
+      "date": "2013-06-04T05:16:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 18910897,
+      "date": "2013-06-04T14:03:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 19663058,
+      "date": "2013-06-19T04:55:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 20723175,
+      "date": "2013-07-10T05:59:54Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 20723548,
+      "date": "2013-07-10T06:16:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 20723590,
+      "date": "2013-07-10T06:17:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 20723656,
+      "date": "2013-07-10T06:19:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 20723779,
+      "date": "2013-07-10T06:24:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21123720,
+      "date": "2013-07-17T16:03:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21125174,
+      "date": "2013-07-17T16:24:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21165262,
+      "date": "2013-07-18T06:36:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21167583,
+      "date": "2013-07-18T07:42:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21207365,
+      "date": "2013-07-18T19:16:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21533523,
+      "date": "2013-07-25T05:08:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21688870,
+      "date": "2013-07-28T19:05:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21868430,
+      "date": "2013-07-31T14:52:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21900024,
+      "date": "2013-07-31T22:12:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21900058,
+      "date": "2013-07-31T22:13:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21900359,
+      "date": "2013-07-31T22:18:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21918551,
+      "date": "2013-08-01T07:01:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21918829,
+      "date": "2013-08-01T07:08:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21920703,
+      "date": "2013-08-01T07:55:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21965711,
+      "date": "2013-08-01T20:05:16Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21966232,
+      "date": "2013-08-01T20:13:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 22084100,
+      "date": "2013-08-05T02:22:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 22605914,
+      "date": "2013-08-13T23:41:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 22609990,
+      "date": "2013-08-14T01:36:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 22670145,
+      "date": "2013-08-14T21:51:57Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 22670166,
+      "date": "2013-08-14T21:52:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 23492305,
+      "date": "2013-08-29T14:14:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24032440,
+      "date": "2013-09-08T23:39:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24216332,
+      "date": "2013-09-11T06:42:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24216344,
+      "date": "2013-09-11T06:42:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24216354,
+      "date": "2013-09-11T06:42:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24777348,
+      "date": "2013-09-19T22:13:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24777634,
+      "date": "2013-09-19T22:18:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24900169,
+      "date": "2013-09-23T05:55:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24900197,
+      "date": "2013-09-23T05:56:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24933825,
+      "date": "2013-09-23T16:38:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 25104942,
+      "date": "2013-09-25T16:56:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26353366,
+      "date": "2013-10-15T17:10:18Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26368517,
+      "date": "2013-10-15T20:18:38Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26374631,
+      "date": "2013-10-15T21:37:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26392127,
+      "date": "2013-10-16T04:28:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26393223,
+      "date": "2013-10-16T05:08:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26875174,
+      "date": "2013-10-23T01:52:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26884680,
+      "date": "2013-10-23T07:10:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 27726658,
+      "date": "2013-11-04T21:56:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 27906922,
+      "date": "2013-11-06T19:47:48Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 28687268,
+      "date": "2013-11-18T10:21:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29260423,
+      "date": "2013-11-26T01:36:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29260437,
+      "date": "2013-11-26T01:36:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29260937,
+      "date": "2013-11-26T01:47:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29268404,
+      "date": "2013-11-26T05:27:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29270862,
+      "date": "2013-11-26T06:46:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29270868,
+      "date": "2013-11-26T06:47:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29270984,
+      "date": "2013-11-26T06:51:16Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29271037,
+      "date": "2013-11-26T06:53:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29404856,
+      "date": "2013-11-27T17:46:57Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29419018,
+      "date": "2013-11-27T20:49:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29497648,
+      "date": "2013-11-29T05:36:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29562835,
+      "date": "2013-11-30T22:45:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30196437,
+      "date": "2013-12-10T03:22:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30196650,
+      "date": "2013-12-10T03:28:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30255551,
+      "date": "2013-12-10T18:45:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30255826,
+      "date": "2013-12-10T18:49:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30259827,
+      "date": "2013-12-10T19:33:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31024807,
+      "date": "2013-12-20T17:07:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31203744,
+      "date": "2013-12-25T18:59:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31246197,
+      "date": "2013-12-27T03:57:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31251100,
+      "date": "2013-12-27T07:45:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31337181,
+      "date": "2013-12-30T08:34:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31337189,
+      "date": "2013-12-30T08:35:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31341718,
+      "date": "2013-12-30T11:18:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31342353,
+      "date": "2013-12-30T11:39:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31588660,
+      "date": "2014-01-04T21:09:14Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 32120056,
+      "date": "2014-01-12T11:06:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 32627650,
+      "date": "2014-01-17T17:43:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 32747955,
+      "date": "2014-01-20T10:20:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 32748485,
+      "date": "2014-01-20T10:28:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 33741437,
+      "date": "2014-01-30T22:27:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 33921815,
+      "date": "2014-02-03T02:58:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 34143078,
+      "date": "2014-02-05T07:24:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 34216473,
+      "date": "2014-02-05T17:48:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 34833563,
+      "date": "2014-02-12T02:44:52Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 34848859,
+      "date": "2014-02-12T08:40:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 34896463,
+      "date": "2014-02-12T18:00:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 35546468,
+      "date": "2014-02-19T20:47:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 35940961,
+      "date": "2014-02-24T21:26:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 36105606,
+      "date": "2014-02-26T09:18:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 36390450,
+      "date": "2014-02-28T20:21:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 36532864,
+      "date": "2014-03-03T17:12:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 37048860,
+      "date": "2014-03-07T17:48:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 37690471,
+      "date": "2014-03-14T20:14:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 38647733,
+      "date": "2014-03-26T03:53:18Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 38650658,
+      "date": "2014-03-26T05:14:18Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 38714427,
+      "date": "2014-03-26T17:34:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39533707,
+      "date": "2014-04-04T05:48:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39594910,
+      "date": "2014-04-04T18:16:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39699475,
+      "date": "2014-04-07T06:26:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39756545,
+      "date": "2014-04-07T17:08:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39809147,
+      "date": "2014-04-08T03:45:52Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39809425,
+      "date": "2014-04-08T03:53:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39811820,
+      "date": "2014-04-08T04:56:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39812536,
+      "date": "2014-04-08T05:15:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39813573,
+      "date": "2014-04-08T05:41:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39813636,
+      "date": "2014-04-08T05:42:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39922038,
+      "date": "2014-04-09T02:06:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39922381,
+      "date": "2014-04-09T02:14:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39924443,
+      "date": "2014-04-09T03:03:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39927122,
+      "date": "2014-04-09T04:11:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40029465,
+      "date": "2014-04-09T23:42:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40046344,
+      "date": "2014-04-10T06:15:18Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40046427,
+      "date": "2014-04-10T06:17:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40046577,
+      "date": "2014-04-10T06:21:10Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40046592,
+      "date": "2014-04-10T06:21:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40227071,
+      "date": "2014-04-11T17:13:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40334122,
+      "date": "2014-04-14T05:24:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40341644,
+      "date": "2014-04-14T08:02:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40342332,
+      "date": "2014-04-14T08:12:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40390133,
+      "date": "2014-04-14T16:53:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40405024,
+      "date": "2014-04-14T19:03:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40565994,
+      "date": "2014-04-16T06:02:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40863150,
+      "date": "2014-04-19T07:31:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40902749,
+      "date": "2014-04-20T19:28:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40902935,
+      "date": "2014-04-20T19:36:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40903093,
+      "date": "2014-04-20T19:43:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40903856,
+      "date": "2014-04-20T20:19:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 41088466,
+      "date": "2014-04-22T20:02:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 41235683,
+      "date": "2014-04-24T02:05:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 41407296,
+      "date": "2014-04-25T15:44:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 41924094,
+      "date": "2014-05-01T16:03:16Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42119578,
+      "date": "2014-05-03T23:47:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127115,
+      "date": "2014-05-04T08:01:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127141,
+      "date": "2014-05-04T08:02:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127261,
+      "date": "2014-05-04T08:08:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127372,
+      "date": "2014-05-04T08:15:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127462,
+      "date": "2014-05-04T08:22:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127678,
+      "date": "2014-05-04T08:35:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127682,
+      "date": "2014-05-04T08:35:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127692,
+      "date": "2014-05-04T08:36:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42127819,
+      "date": "2014-05-04T08:45:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42206542,
+      "date": "2014-05-05T16:24:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42475097,
+      "date": "2014-05-07T19:54:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42511946,
+      "date": "2014-05-08T04:16:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 42850245,
+      "date": "2014-05-12T15:54:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 43354098,
+      "date": "2014-05-16T16:53:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 43564232,
+      "date": "2014-05-19T22:02:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 43698409,
+      "date": "2014-05-21T00:03:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 43699026,
+      "date": "2014-05-21T00:13:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 43699496,
+      "date": "2014-05-21T00:20:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 43699517,
+      "date": "2014-05-21T00:21:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 44295377,
+      "date": "2014-05-27T15:53:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 44589260,
+      "date": "2014-05-29T21:43:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 44671128,
+      "date": "2014-05-30T16:32:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 44860203,
+      "date": "2014-06-02T16:34:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 45684413,
+      "date": "2014-06-10T23:18:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 46108312,
+      "date": "2014-06-15T06:31:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 50955758,
+      "date": "2014-08-02T06:43:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 51408400,
+      "date": "2014-08-06T22:49:08Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 51408433,
+      "date": "2014-08-06T22:49:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 51411151,
+      "date": "2014-08-06T23:20:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 51527049,
+      "date": "2014-08-07T20:28:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 52065245,
+      "date": "2014-08-13T15:33:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 52269130,
+      "date": "2014-08-15T02:43:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 53098241,
+      "date": "2014-08-22T18:01:02Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 53526411,
+      "date": "2014-08-27T04:47:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 53529637,
+      "date": "2014-08-27T05:57:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 53958473,
+      "date": "2014-08-30T13:30:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 54245522,
+      "date": "2014-09-03T02:42:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 54246046,
+      "date": "2014-09-03T02:51:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 54312266,
+      "date": "2014-09-03T15:14:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 54312996,
+      "date": "2014-09-03T15:19:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 55342695,
+      "date": "2014-09-11T23:18:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 56055304,
+      "date": "2014-09-18T15:27:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 56128454,
+      "date": "2014-09-19T02:25:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 56132870,
+      "date": "2014-09-19T04:00:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 56843044,
+      "date": "2014-09-25T16:14:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57101236,
+      "date": "2014-09-28T21:39:33Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57101575,
+      "date": "2014-09-28T21:50:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57245271,
+      "date": "2014-09-29T23:20:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57277090,
+      "date": "2014-09-30T07:31:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57277372,
+      "date": "2014-09-30T07:35:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57277408,
+      "date": "2014-09-30T07:35:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57899285,
+      "date": "2014-10-04T09:13:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 57920952,
+      "date": "2014-10-04T22:49:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 58522285,
+      "date": "2014-10-09T14:59:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 58524119,
+      "date": "2014-10-09T15:11:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 59972149,
+      "date": "2014-10-21T18:13:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 59973511,
+      "date": "2014-10-21T18:21:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 59974185,
+      "date": "2014-10-21T18:25:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 60505474,
+      "date": "2014-10-26T03:40:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 60664518,
+      "date": "2014-10-27T20:35:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 60667736,
+      "date": "2014-10-27T20:56:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 60685128,
+      "date": "2014-10-27T23:03:43Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 60696838,
+      "date": "2014-10-28T01:19:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 60880642,
+      "date": "2014-10-29T06:44:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 61041151,
+      "date": "2014-10-30T03:28:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 61041575,
+      "date": "2014-10-30T03:35:41Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 61041583,
+      "date": "2014-10-30T03:35:48Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 61041785,
+      "date": "2014-10-30T03:39:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 61386153,
+      "date": "2014-11-01T22:28:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 62517511,
+      "date": "2014-11-11T08:42:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 62539976,
+      "date": "2014-11-11T12:26:48Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 62723402,
+      "date": "2014-11-12T14:16:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63167783,
+      "date": "2014-11-15T10:31:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63167814,
+      "date": "2014-11-15T10:32:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63680341,
+      "date": "2014-11-19T17:37:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63697191,
+      "date": "2014-11-19T19:23:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63721515,
+      "date": "2014-11-19T21:57:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63846962,
+      "date": "2014-11-20T17:34:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 65494894,
+      "date": "2014-12-03T21:33:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 65702140,
+      "date": "2014-12-04T20:56:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 67982542,
+      "date": "2014-12-23T18:26:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 68110202,
+      "date": "2014-12-25T18:38:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69140108,
+      "date": "2015-01-08T06:07:29Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69222481,
+      "date": "2015-01-08T18:13:15Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69227346,
+      "date": "2015-01-08T18:44:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69228059,
+      "date": "2015-01-08T18:49:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69272716,
+      "date": "2015-01-09T00:00:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69272788,
+      "date": "2015-01-09T00:00:58Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69273331,
+      "date": "2015-01-09T00:06:35Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69414993,
+      "date": "2015-01-09T22:57:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69423203,
+      "date": "2015-01-10T00:00:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 69582321,
+      "date": "2015-01-12T15:03:20Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70549410,
+      "date": "2015-01-19T19:44:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70550251,
+      "date": "2015-01-19T19:50:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70551703,
+      "date": "2015-01-19T20:00:26Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70614151,
+      "date": "2015-01-20T07:26:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70619247,
+      "date": "2015-01-20T08:22:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70622815,
+      "date": "2015-01-20T08:58:50Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70700813,
+      "date": "2015-01-20T18:01:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70700888,
+      "date": "2015-01-20T18:01:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70700947,
+      "date": "2015-01-20T18:01:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 70707620,
+      "date": "2015-01-20T18:40:39Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 71891278,
+      "date": "2015-01-28T18:46:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72162830,
+      "date": "2015-01-30T07:10:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72558296,
+      "date": "2015-02-02T23:06:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72624475,
+      "date": "2015-02-03T10:06:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72625644,
+      "date": "2015-02-03T10:14:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72731512,
+      "date": "2015-02-03T20:48:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72808237,
+      "date": "2015-02-04T08:23:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72811454,
+      "date": "2015-02-04T08:53:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 72904150,
+      "date": "2015-02-04T17:56:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 73286846,
+      "date": "2015-02-06T18:24:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 74476336,
+      "date": "2015-02-16T08:54:46Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 75134000,
+      "date": "2015-02-19T20:55:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 75918260,
+      "date": "2015-02-25T07:40:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 75918420,
+      "date": "2015-02-25T07:42:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 76017035,
+      "date": "2015-02-25T17:53:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 77038220,
+      "date": "2015-03-03T21:26:47Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 77040947,
+      "date": "2015-03-03T21:38:25Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 77512404,
+      "date": "2015-03-06T06:16:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 77620288,
+      "date": "2015-03-06T19:29:42Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 77949780,
+      "date": "2015-03-09T21:44:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 77968238,
+      "date": "2015-03-09T23:41:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 77968288,
+      "date": "2015-03-09T23:42:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 79466833,
+      "date": "2015-03-13T22:10:01Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 79466852,
+      "date": "2015-03-13T22:10:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 79892852,
+      "date": "2015-03-14T05:05:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 79893111,
+      "date": "2015-03-14T05:05:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 79902525,
+      "date": "2015-03-14T05:12:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 80829461,
+      "date": "2015-03-15T04:02:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 80893437,
+      "date": "2015-03-15T07:37:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 81274280,
+      "date": "2015-03-15T22:36:28Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 83694778,
+      "date": "2015-03-19T17:59:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 84079450,
+      "date": "2015-03-20T17:26:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 84992548,
+      "date": "2015-03-23T13:15:52Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 86816818,
+      "date": "2015-03-27T04:38:35Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 87155729,
+      "date": "2015-03-28T03:44:51Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 88500951,
+      "date": "2015-04-01T14:14:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 91751341,
+      "date": "2015-04-11T03:18:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 93428162,
+      "date": "2015-04-15T14:44:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 93889833,
+      "date": "2015-04-17T04:16:03Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 96723080,
+      "date": "2015-04-27T16:00:07Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 97655367,
+      "date": "2015-04-30T04:08:52Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 97813388,
+      "date": "2015-04-30T14:16:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 98975220,
+      "date": "2015-05-05T07:01:06Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 99161736,
+      "date": "2015-05-05T18:07:04Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 27733997,
+      "date": "2013-11-04T23:32:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 27735599,
+      "date": "2013-11-04T23:58:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 27745622,
+      "date": "2013-11-05T03:44:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 27749971,
+      "date": "2013-11-05T06:14:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 27752754,
+      "date": "2013-11-05T07:48:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 28622532,
+      "date": "2013-11-16T08:49:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 28836194,
+      "date": "2013-11-19T21:14:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 28836296,
+      "date": "2013-11-19T21:15:57Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 35434577,
+      "date": "2014-02-18T21:12:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 48022363,
+      "date": "2014-07-04T08:59:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 67279830,
+      "date": "2014-12-17T05:43:16Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 244,
+      "date": "2015-03-15T07:33:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 243,
+      "date": "2015-03-14T23:45:35Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 237,
+      "date": "2015-03-07T05:22:59Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 219,
+      "date": "2015-01-20T09:46:17Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 205,
+      "date": "2014-12-20T11:17:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 154,
+      "date": "2014-08-06T23:23:34Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 122,
+      "date": "2014-04-18T21:07:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 119,
+      "date": "2014-04-12T09:20:09Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 69,
+      "date": "2013-10-06T02:55:24Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 59,
+      "date": "2013-08-04T22:14:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 48,
+      "date": "2013-07-10T06:43:37Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 47,
+      "date": "2013-07-10T05:53:22Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 42,
+      "date": "2013-06-18T16:11:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 26,
+      "date": "2013-04-12T22:43:30Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "pr",
+      "id": 30,
+      "date": "2013-11-05T00:18:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 239,
+      "date": "2015-03-10T03:53:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 232,
+      "date": "2015-03-03T20:58:05Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 192,
+      "date": "2014-10-30T03:35:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 186,
+      "date": "2014-10-27T20:47:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 183,
+      "date": "2014-10-23T06:34:44Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 152,
+      "date": "2014-08-01T01:43:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 143,
+      "date": "2014-05-23T20:47:56Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 142,
+      "date": "2014-05-23T16:40:49Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 131,
+      "date": "2014-04-30T23:13:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 118,
+      "date": "2014-04-09T01:40:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 90,
+      "date": "2014-01-04T11:47:11Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 77,
+      "date": "2013-11-26T01:37:45Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 64,
+      "date": "2013-09-11T06:44:00Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 58,
+      "date": "2013-07-31T22:18:13Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 50,
+      "date": "2013-07-17T16:01:12Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 29,
+      "date": "2013-04-23T22:17:36Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 23,
+      "date": "2013-04-10T16:51:31Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 8,
+      "date": "2013-03-09T22:00:32Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 7,
+      "date": "2013-03-09T21:56:40Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 6,
+      "date": "2013-03-07T00:17:19Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 2,
+      "date": "2013-03-05T09:16:23Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 1,
+      "date": "2013-03-05T09:01:53Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 65,
+      "date": "2015-02-16T08:32:27Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 58,
+      "date": "2014-12-04T19:16:55Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 52,
+      "date": "2014-08-02T05:08:52Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 33,
+      "date": "2013-11-19T20:58:21Z"
+    },
+    {
+      "dev_id": "JakeWharton",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 29,
+      "date": "2013-11-04T23:58:21Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "a47fee9cf3b2b0f8bfb816072bc018c5afe4b661",
+      "date": "2013-10-17T15:08:56Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "33bf92daf4380c1b198a800c3f1fdc086254ad3d",
+      "date": "2013-03-25T05:15:14Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "ccc57f4ffc212bcbafe86896b23bdebc4bfccea9",
+      "date": "2013-03-25T01:54:23Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "9a69cb59a6c3f59c2a5a79f451685e96b1e9e938",
+      "date": "2013-03-19T17:39:47Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "774de34bb21f1c88b14f377e7fc0c46dcbc8356e",
+      "date": "2013-03-19T03:47:13Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "e9468f855621b138a40aeb0eccd7817e59bcd9f2",
+      "date": "2013-03-19T02:30:55Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "6566154f3e08d4aa7f3ac43230292a23ec35e0fe",
+      "date": "2013-03-19T02:01:59Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "3f1cb86e8f1ad1b2d6644783a62e49f7a3e27595",
+      "date": "2013-03-19T01:51:16Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "2aa630a5aa0d46a3617c9a4633628e1d6c3ff68e",
+      "date": "2013-03-19T01:41:43Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "commit",
+      "id": "af1f77a7d6cb15e9d5fef322c394463366f1fa61",
+      "date": "2013-03-18T22:07:59Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14672931,
+      "date": "2013-03-09T23:26:54Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14674823,
+      "date": "2013-03-10T02:12:55Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14677001,
+      "date": "2013-03-10T06:05:39Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14693468,
+      "date": "2013-03-11T00:59:18Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14695971,
+      "date": "2013-03-11T03:14:01Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14696047,
+      "date": "2013-03-11T03:18:08Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14781326,
+      "date": "2013-03-12T15:20:19Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14908311,
+      "date": "2013-03-14T15:21:46Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14908963,
+      "date": "2013-03-14T15:31:28Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14945780,
+      "date": "2013-03-15T06:34:57Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 14970147,
+      "date": "2013-03-15T16:20:48Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15061454,
+      "date": "2013-03-18T15:34:16Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15062398,
+      "date": "2013-03-18T15:47:59Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15091757,
+      "date": "2013-03-19T01:00:03Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15091941,
+      "date": "2013-03-19T01:06:13Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15096298,
+      "date": "2013-03-19T03:57:24Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15203395,
+      "date": "2013-03-20T21:05:26Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15204599,
+      "date": "2013-03-20T21:25:33Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15377998,
+      "date": "2013-03-25T05:03:45Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15378203,
+      "date": "2013-03-25T05:17:12Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15380265,
+      "date": "2013-03-25T07:08:40Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15405331,
+      "date": "2013-03-25T16:49:09Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15415959,
+      "date": "2013-03-25T19:12:03Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15429639,
+      "date": "2013-03-25T22:24:38Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15503277,
+      "date": "2013-03-27T04:05:06Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15503924,
+      "date": "2013-03-27T04:33:58Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 15528805,
+      "date": "2013-03-27T15:07:55Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16187397,
+      "date": "2013-04-10T17:00:51Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 16239227,
+      "date": "2013-04-11T14:49:26Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 18713921,
+      "date": "2013-05-30T23:00:07Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 19686819,
+      "date": "2013-06-19T14:18:52Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 20559913,
+      "date": "2013-07-06T19:53:25Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 20753234,
+      "date": "2013-07-10T16:07:41Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21121026,
+      "date": "2013-07-17T15:27:14Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21206581,
+      "date": "2013-07-18T19:04:30Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21900175,
+      "date": "2013-07-31T22:15:13Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21965488,
+      "date": "2013-08-01T20:02:02Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 21966052,
+      "date": "2013-08-01T20:10:41Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24774481,
+      "date": "2013-09-19T21:23:29Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 24777597,
+      "date": "2013-09-19T22:18:09Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26374601,
+      "date": "2013-10-15T21:37:08Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26431924,
+      "date": "2013-10-16T16:05:32Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26432630,
+      "date": "2013-10-16T16:13:03Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26436912,
+      "date": "2013-10-16T16:57:36Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26478385,
+      "date": "2013-10-17T04:20:55Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26875110,
+      "date": "2013-10-23T01:50:16Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 26878737,
+      "date": "2013-10-23T03:49:23Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 28314493,
+      "date": "2013-11-12T17:31:18Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 28338521,
+      "date": "2013-11-12T22:07:26Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29268383,
+      "date": "2013-11-26T05:26:21Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29268484,
+      "date": "2013-11-26T05:29:38Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 29270898,
+      "date": "2013-11-26T06:48:20Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30252747,
+      "date": "2013-12-10T18:13:13Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30254672,
+      "date": "2013-12-10T18:35:58Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30255848,
+      "date": "2013-12-10T18:49:26Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30256526,
+      "date": "2013-12-10T18:56:57Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30261170,
+      "date": "2013-12-10T19:47:39Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30261458,
+      "date": "2013-12-10T19:50:55Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30262742,
+      "date": "2013-12-10T20:05:37Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 30264288,
+      "date": "2013-12-10T20:23:57Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31246238,
+      "date": "2013-12-27T03:59:57Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31350727,
+      "date": "2013-12-30T15:33:42Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31587674,
+      "date": "2014-01-04T20:24:07Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 31593269,
+      "date": "2014-01-05T00:52:12Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 32644320,
+      "date": "2014-01-17T20:40:40Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 34415864,
+      "date": "2014-02-07T08:19:37Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 34462206,
+      "date": "2014-02-07T16:28:28Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 35148634,
+      "date": "2014-02-15T06:18:46Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 35422523,
+      "date": "2014-02-18T19:24:22Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 37376773,
+      "date": "2014-03-12T05:27:26Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39607449,
+      "date": "2014-04-04T20:23:13Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 39920438,
+      "date": "2014-04-09T01:29:45Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 40565448,
+      "date": "2014-04-16T05:50:50Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 51425016,
+      "date": "2014-08-07T02:53:32Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 62586809,
+      "date": "2014-11-11T17:49:00Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63115817,
+      "date": "2014-11-14T19:24:50Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63394873,
+      "date": "2014-11-17T23:14:19Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63679654,
+      "date": "2014-11-19T17:33:59Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 63871795,
+      "date": "2014-11-20T20:14:41Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 64020225,
+      "date": "2014-11-21T18:59:13Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "com",
+      "id": 64020794,
+      "date": "2014-11-21T19:02:41Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 27220235,
+      "date": "2013-10-28T15:14:04Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 29409524,
+      "date": "2013-11-27T18:47:13Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "google/compile-testing",
+      "type": "com",
+      "id": 32711094,
+      "date": "2014-01-19T15:42:25Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 72,
+      "date": "2013-10-16T15:58:52Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "pr",
+      "id": 13,
+      "date": "2013-03-18T22:13:48Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "JakeWharton/butterknife",
+      "type": "issue",
+      "id": 14,
+      "date": "2013-03-25T06:00:05Z"
+    },
+    {
+      "dev_id": "imminent",
+      "repo": "google/compile-testing",
+      "type": "issue",
+      "id": 28,
+      "date": "2013-10-28T04:42:00Z"
+    }
+  ]
+}

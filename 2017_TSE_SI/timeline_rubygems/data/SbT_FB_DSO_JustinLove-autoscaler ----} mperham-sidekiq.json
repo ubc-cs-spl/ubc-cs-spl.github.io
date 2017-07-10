@@ -1,0 +1,1893 @@
+{
+  "user_repo": "JustinLove/autoscaler",
+  "dep_repo": "mperham/sidekiq",
+  "dep_date": "2012-10-21 15:17:28 UTC",
+  "dep_commit_id": "59f711ffc1d021aecbe32b15954f6734496a8fed",
+  "social_date": "2012-10-21 15:17:28 UTC",
+  "devs": [
+    "tmaier",
+    "espen",
+    "JustinLove",
+    "swrobel",
+    "tonkapark",
+    "thibaudgg"
+  ],
+  "interactions": [
+    {
+      "dev_id": "tmaier",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "37a576aa910405b4874ac4bed3327db81b4468a4",
+      "date": "2014-01-01T22:37:28Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "67f8adf5ae460e96b0f0b0a29c86b676616bad76",
+      "date": "2014-01-01T22:32:09Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 100241731,
+      "date": "2015-05-08T14:04:40Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 16532609,
+      "date": "2013-04-17T20:10:36Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 31431644,
+      "date": "2014-01-01T22:23:27Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "JustinLove/autoscaler",
+      "type": "pr",
+      "id": 50,
+      "date": "2015-01-09T15:39:07Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 1416,
+      "date": "2014-01-01T22:34:57Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 44,
+      "date": "2014-08-17T02:29:01Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 19,
+      "date": "2013-06-22T19:45:41Z"
+    },
+    {
+      "dev_id": "tmaier",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1415,
+      "date": "2014-01-01T21:41:00Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "af5d7fb8ca5bc2be0ab43c2ef4a3b29c07b5cbb8",
+      "date": "2013-05-13T13:54:05Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "cf2396e15ba099df5f6bf62d37525656619aba7b",
+      "date": "2013-05-13T21:41:53Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "5769311465dca436a12178c61cc01855617d5f88",
+      "date": "2013-04-27T16:08:42Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "commit",
+      "id": "ea55a58c3cb59f749a800a80eeae4054ee531e17",
+      "date": "2013-04-27T12:16:07Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17116156,
+      "date": "2013-04-27T13:31:17Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17133020,
+      "date": "2013-04-28T12:05:02Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17812685,
+      "date": "2013-05-13T13:52:47Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17842375,
+      "date": "2013-05-13T21:33:38Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17903664,
+      "date": "2013-05-14T20:41:44Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23792679,
+      "date": "2013-09-04T14:20:00Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23793533,
+      "date": "2013-09-04T14:29:32Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23795399,
+      "date": "2013-09-04T14:51:41Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23796538,
+      "date": "2013-09-04T15:04:16Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23798362,
+      "date": "2013-09-04T15:25:12Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23857920,
+      "date": "2013-09-05T10:17:31Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 32972971,
+      "date": "2014-01-21T22:45:43Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 17118603,
+      "date": "2013-04-27T16:09:29Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 17197486,
+      "date": "2013-04-29T22:01:12Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 17841749,
+      "date": "2013-05-13T21:24:07Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 17843277,
+      "date": "2013-05-13T21:47:21Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 32887594,
+      "date": "2014-01-21T14:09:25Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 33478211,
+      "date": "2014-01-28T13:35:40Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "pr",
+      "id": 15,
+      "date": "2013-05-13T13:54:10Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 920,
+      "date": "2013-05-13T21:43:54Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 886,
+      "date": "2013-04-29T21:23:42Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 882,
+      "date": "2013-04-27T12:16:15Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 23,
+      "date": "2013-09-04T14:04:36Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 22,
+      "date": "2013-09-04T13:37:17Z"
+    },
+    {
+      "dev_id": "espen",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 14,
+      "date": "2013-04-25T01:39:34Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "73ce42720d1e570c745f41890b95b56d801e0d7e",
+      "date": "2015-10-27T17:29:11Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "f3e1a427c7f7a1bcab5e0baaf73693341376a64f",
+      "date": "2015-10-23T19:53:19Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "27e07696f5bb85c5543b714a0c56a92a52026863",
+      "date": "2015-10-23T19:38:42Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "3538cfc7d36bcf9e59c66f4c96e155fa6cc5bc5f",
+      "date": "2015-10-23T15:53:21Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "5736aee34b74a791ca099ad4d89b910492f1ad05",
+      "date": "2015-10-23T15:28:18Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "73b248abe94774f1dcd68cc5cd2e789abb1bc274",
+      "date": "2015-10-23T15:22:26Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "ad51062958a34fbfb53352741ca9bc489c8a96b5",
+      "date": "2015-10-23T15:07:37Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "f452ef063342f6522b1ddffc2cbe38d2c763c104",
+      "date": "2015-10-21T02:06:12Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "a067e9da6725da46831dbbe0c676c72e71e0b1b8",
+      "date": "2015-10-21T02:05:29Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "aa77b696ec91980dc59aa59cab9a3761d5bba48b",
+      "date": "2015-10-21T02:01:29Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "e62918332073f5098635753083f786d0c165fc52",
+      "date": "2015-10-21T01:43:37Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "8b193f52e71cbedc1fabe0c0fd88b432aa13cac6",
+      "date": "2015-10-21T01:19:13Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "78b6bae9e7e6f49961b7d92d8581b07d68cfc48f",
+      "date": "2015-10-21T01:14:55Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "b742c1fd983f462d81625a2af8043be121f4e64c",
+      "date": "2015-10-21T01:10:54Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "74475f134d1c8149e95bf28396a7707406190658",
+      "date": "2015-10-21T01:02:42Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "2659417c39a1276fc52556babe3fd3c740263d31",
+      "date": "2015-10-21T00:49:51Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "0c7c7cc9b0931abb3a8599122bdf3bafeba75c6d",
+      "date": "2014-03-07T22:00:00Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "530b8575e123819cec651b772485a099f8be34d9",
+      "date": "2014-01-21T22:09:59Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "5e2d12260af1b9f44c2165554169bf9b40594375",
+      "date": "2013-12-17T21:31:39Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "0ee69a6fe27e6165ee9bd5274d31c4d39e39f70a",
+      "date": "2013-11-20T01:55:03Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "6d6590426d6cea0209a6711c8995c7bace8bebf7",
+      "date": "2013-11-20T01:40:46Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "9b49a4abfb056419db6c8c84c2c9e9b92c42ff68",
+      "date": "2013-09-05T23:02:46Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "07f8ae3245606e05e5dc4b626b09ea5b89ce77ae",
+      "date": "2013-08-31T20:22:59Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "197da7718075bd516d908fb8c3fdbd9f8eb2fac9",
+      "date": "2013-08-31T20:09:26Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "39d5bd8b71805858871fb9ca548478fbf4da4284",
+      "date": "2013-08-31T20:09:17Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "bb386d61cfce7c4ce9fa7cd08d2bb20452e93890",
+      "date": "2013-08-31T19:09:33Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "7b83ed899ef1df65c64f27b5adb2008647fd10c0",
+      "date": "2013-08-14T21:22:27Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "78131271eba1cdfb7882ed69a53cb1235e6def62",
+      "date": "2013-08-14T21:14:47Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "4eac35153599c6e925cd6c563bb4c9942ce057a1",
+      "date": "2013-08-14T17:18:40Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "fceaa3ba3f6f15800ffcd6a557eb3b4115211c15",
+      "date": "2013-08-14T16:53:41Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "ec15742a75a806cb05df362423b8094d9142ea49",
+      "date": "2013-08-14T16:44:18Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "f8d377e6614af7e1a43b3d713229bf86f456fd55",
+      "date": "2013-06-23T12:23:32Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "65122ba0ee70f631fef22aa0b5e8ac912709a773",
+      "date": "2013-06-21T18:11:29Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "925654cdd7fe509eb63f39db93028de7e7eb1252",
+      "date": "2013-06-21T16:12:18Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "4062021d0c96bc99bc55d01a3cd1bbd7e9ccc9dd",
+      "date": "2013-06-09T15:49:22Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "628d18d97b51a6b9c78a170aca2f5852afbf6648",
+      "date": "2013-06-09T15:25:38Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "08aac086052f4c894e0304235182e44c89d87a10",
+      "date": "2013-06-09T15:08:40Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "626b4dc28cb864cda408a3e28f11b3ec1184c3c9",
+      "date": "2013-06-09T15:03:08Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "b61382a11641656d8fc268754f4c45bdff82fb6f",
+      "date": "2013-06-08T17:52:24Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "19ad5f217a08e18a0b5382e89ad71c72dfdc8746",
+      "date": "2013-06-08T17:51:16Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "226972d365c87f6db74a9a192c3becd15162fb1a",
+      "date": "2013-06-08T17:41:46Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "97cf772def4a13fcc2d7ca7127f34faee99092b0",
+      "date": "2013-06-08T17:09:34Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "6e1fdf3ca929c9fc5e63899f31a888bdfdc34e51",
+      "date": "2013-06-08T16:53:32Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "4ba29af095eda23cb984475997e32d3feeb8911b",
+      "date": "2013-05-18T14:12:34Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "e00e84882ec82e6a05130c044c46f99cec67ef58",
+      "date": "2013-05-12T00:20:16Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "c3f6bd7c52884955dec66ac4bb70cee8c40caf5d",
+      "date": "2013-05-12T00:06:19Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "e7349fecfe90f6049f1c2bdb2ccf4327d52ff7c7",
+      "date": "2013-05-11T23:45:15Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "5179cb4d8ef20a5e7a2bbe07b2c73e46db5bf296",
+      "date": "2013-05-10T22:19:49Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "16cbd70ef9458d8c82282be788f3a30c20c099ee",
+      "date": "2013-05-10T21:46:53Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "0429231a4a8bc34aeb5e66cd4c9d774f62285e85",
+      "date": "2013-05-10T21:34:17Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "b13f39c50ab3e264c58f73cfdb75dc4bbe7f8d22",
+      "date": "2013-05-10T21:14:39Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "6737b9ba2fbe96d1c8ab70a127241f1538647dda",
+      "date": "2013-05-10T20:35:32Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "86f9824f7fce0d6c3e7ab3d2ec420182310b10e1",
+      "date": "2013-05-10T20:13:41Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "f9dfacb31d607a59d6dc1bd9aa3247dd9a766726",
+      "date": "2013-05-10T19:57:45Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "175bad42c7eca16167c1530190062d785101d2f4",
+      "date": "2013-05-10T18:56:03Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "1ea72d24fa9e12d99a13b9d345b7fe1a45a8e4bf",
+      "date": "2013-05-10T18:47:38Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "77e8f682535cbbfb38c3b2e610688232a6902cc9",
+      "date": "2013-05-09T14:45:12Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "e5f9cf1736f6bc01dd9b204e6bca51cae750602f",
+      "date": "2013-05-09T13:04:22Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "79707cfc1033d4dc6384469d5a133dc235509194",
+      "date": "2013-05-09T01:16:36Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "8603495714f9a74bd265b1336a9a40833ddf27b3",
+      "date": "2013-03-14T00:56:25Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "c65175a000af495f2f14d05ebe01093f9cb214f1",
+      "date": "2013-03-14T00:40:01Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "0b047621f012f70ae6862bfb6dc22a2898d2d54a",
+      "date": "2013-03-10T22:23:57Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "f9831803796096769da68729afe7dea81db9f4c7",
+      "date": "2013-01-29T03:25:15Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "18bd8bbdc52a048da9a5ff8cfb35cda9e317c29e",
+      "date": "2013-01-29T03:14:06Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "4d7853772ad9a14dc8f754278bce05489fb1cd8f",
+      "date": "2013-01-29T02:56:50Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "0c44cb191b77d732e4be3526dcc9f00a27d5d3b1",
+      "date": "2013-01-29T02:33:58Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "bad7ea7ccc822f820348feb85fce8b6afc69d13f",
+      "date": "2013-01-29T02:28:11Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "f6edeafdd9fdd6117bac09d86008146e95b7a581",
+      "date": "2013-01-26T02:08:57Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "36cfab9509a5a08e77e867b6d60875a727fdf696",
+      "date": "2013-01-26T02:06:47Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "b472d140df912caccd054fa8ce5eb38a9adcd86b",
+      "date": "2013-01-26T02:03:10Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "6fac7a305f3a90d5ad69f1959c79d378424b46d6",
+      "date": "2013-01-20T22:02:43Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "7a434855ee8ab2fc96df377ab76895f9da3d715b",
+      "date": "2013-01-20T22:00:02Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "0a72dfc33f60fa22341239dacad76f76f4716252",
+      "date": "2013-01-20T21:39:22Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "21e999ed1b62276c6353faa62b444d15b50cf2f1",
+      "date": "2013-01-20T21:22:26Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "a15f472821fa0966f56ab86ea43620c72ff55b14",
+      "date": "2012-11-06T15:27:37Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "3f7ec56f21797ab8fdd96e7ce692029288a2ffb0",
+      "date": "2012-11-06T15:20:33Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "6e09992995c2e9997e97c7a675abfd83ce957cc0",
+      "date": "2012-10-25T18:15:23Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "c07f4c17bbe95fdf1682b8130610cced38a9e445",
+      "date": "2012-10-22T02:29:14Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "7d03ab29fe4572fa0fa53490fdca472e0dceea82",
+      "date": "2012-10-21T21:52:47Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "427f7b065b7b50b4b2a55a80aa0208e3b49f43e1",
+      "date": "2012-10-21T18:48:07Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "03e8bda7e27247022f6416aa8507d8173a90df25",
+      "date": "2012-10-21T18:34:30Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "31922fd67b449ce3cb7c1bacebe1b57092c3a950",
+      "date": "2012-10-21T18:12:31Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "802a7e0267d059ffaa894c9b61ecc1f9632c2a45",
+      "date": "2012-10-21T17:39:59Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "a5520a865d4e9db651cfdd28e20a7515b698b259",
+      "date": "2012-10-21T17:36:06Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "7d3af6ff62db383e54fb1ab158c75045d97d2f31",
+      "date": "2012-10-21T15:56:48Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "aea75bcd7eab3922df7782e607cc93a5d5058385",
+      "date": "2012-10-21T15:26:35Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "59f711ffc1d021aecbe32b15954f6734496a8fed",
+      "date": "2012-10-21T15:17:28Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 10468371,
+      "date": "2012-11-17T00:48:28Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12441083,
+      "date": "2013-01-18T21:08:32Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12441387,
+      "date": "2013-01-18T21:16:10Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12455632,
+      "date": "2013-01-19T14:35:58Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12455683,
+      "date": "2013-01-19T14:40:39Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12529752,
+      "date": "2013-01-22T04:03:05Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12729587,
+      "date": "2013-01-26T02:28:20Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12867689,
+      "date": "2013-01-30T00:44:04Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12873604,
+      "date": "2013-01-30T04:19:25Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12981392,
+      "date": "2013-02-01T05:30:56Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 13039168,
+      "date": "2013-02-02T23:18:46Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 13086825,
+      "date": "2013-02-04T17:02:23Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14045253,
+      "date": "2013-02-25T14:40:29Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14045703,
+      "date": "2013-02-25T14:45:56Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14069013,
+      "date": "2013-02-25T19:32:31Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14690912,
+      "date": "2013-03-10T22:30:58Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14873609,
+      "date": "2013-03-13T22:48:08Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14873944,
+      "date": "2013-03-13T22:55:17Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14875849,
+      "date": "2013-03-13T23:40:09Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14876593,
+      "date": "2013-03-14T00:02:42Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14881660,
+      "date": "2013-03-14T01:25:10Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 14881765,
+      "date": "2013-03-14T01:29:24Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17096961,
+      "date": "2013-04-26T20:01:49Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17124953,
+      "date": "2013-04-27T23:01:56Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17784251,
+      "date": "2013-05-12T19:56:46Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17784282,
+      "date": "2013-05-12T19:57:39Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17784293,
+      "date": "2013-05-12T19:58:31Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17875092,
+      "date": "2013-05-14T13:18:00Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 17944196,
+      "date": "2013-05-15T15:03:57Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18101252,
+      "date": "2013-05-18T13:42:02Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18447415,
+      "date": "2013-05-25T13:46:28Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18447437,
+      "date": "2013-05-25T13:47:34Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18864356,
+      "date": "2013-06-03T19:20:40Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18868992,
+      "date": "2013-06-03T20:31:46Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18928916,
+      "date": "2013-06-04T18:23:54Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19170845,
+      "date": "2013-06-09T18:31:09Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19170922,
+      "date": "2013-06-09T18:36:07Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19170928,
+      "date": "2013-06-09T18:36:43Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19171036,
+      "date": "2013-06-09T18:43:02Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19832313,
+      "date": "2013-06-21T18:22:52Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19873163,
+      "date": "2013-06-23T12:26:54Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 21156503,
+      "date": "2013-07-18T01:04:28Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 22651336,
+      "date": "2013-08-14T17:14:18Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 22669887,
+      "date": "2013-08-14T21:47:39Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 22670457,
+      "date": "2013-08-14T21:57:20Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23336685,
+      "date": "2013-08-27T13:41:35Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23489927,
+      "date": "2013-08-29T13:43:09Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23613305,
+      "date": "2013-08-31T20:25:21Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23793267,
+      "date": "2013-09-04T14:26:13Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23794252,
+      "date": "2013-09-04T14:38:10Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23795178,
+      "date": "2013-09-04T14:49:09Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23795966,
+      "date": "2013-09-04T14:58:01Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23822101,
+      "date": "2013-09-04T20:39:28Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23823374,
+      "date": "2013-09-04T20:57:35Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23823516,
+      "date": "2013-09-04T20:59:41Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23906674,
+      "date": "2013-09-05T22:30:52Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 24593621,
+      "date": "2013-09-17T14:44:27Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 27169032,
+      "date": "2013-10-27T13:27:05Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 27215573,
+      "date": "2013-10-28T14:26:20Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 28857634,
+      "date": "2013-11-20T01:55:25Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 30792196,
+      "date": "2013-12-17T21:19:57Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 30793926,
+      "date": "2013-12-17T21:39:32Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 32969912,
+      "date": "2014-01-21T22:13:08Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 32973405,
+      "date": "2014-01-21T22:50:39Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 34553816,
+      "date": "2014-02-08T19:47:20Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 37072757,
+      "date": "2014-03-07T22:02:47Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 40101221,
+      "date": "2014-04-10T15:42:23Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 40757480,
+      "date": "2014-04-17T20:14:18Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 100274145,
+      "date": "2015-05-08T15:33:21Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 149758597,
+      "date": "2015-10-21T02:13:26Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 150597357,
+      "date": "2015-10-23T14:54:04Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 150618962,
+      "date": "2015-10-23T16:03:50Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 150620673,
+      "date": "2015-10-23T16:09:55Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 150627703,
+      "date": "2015-10-23T16:36:47Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 150662664,
+      "date": "2015-10-23T18:54:24Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 150675918,
+      "date": "2015-10-23T20:01:07Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 150676551,
+      "date": "2015-10-23T20:04:12Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 151270316,
+      "date": "2015-10-26T20:14:00Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 7838954,
+      "date": "2012-08-17T23:41:21Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 7839713,
+      "date": "2012-08-18T00:03:45Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 7840788,
+      "date": "2012-08-18T01:46:54Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 7848168,
+      "date": "2012-08-18T21:15:07Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 8165916,
+      "date": "2012-08-30T16:47:12Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 8731029,
+      "date": "2012-09-20T14:52:46Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 8960601,
+      "date": "2012-09-28T01:23:19Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 9071716,
+      "date": "2012-10-02T14:02:03Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 9648252,
+      "date": "2012-10-21T22:07:55Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "pr",
+      "id": 55,
+      "date": "2015-10-23T20:11:34Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 356,
+      "date": "2012-08-17T22:34:36Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 56,
+      "date": "2015-10-23T20:14:23Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 32,
+      "date": "2014-03-07T22:03:51Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 16,
+      "date": "2013-05-15T15:33:54Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 13,
+      "date": "2013-03-13T23:43:56Z"
+    },
+    {
+      "dev_id": "JustinLove",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 12,
+      "date": "2013-03-13T23:41:32Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "b0947b594e500f63e06db16f805dcf46e85aac99",
+      "date": "2013-03-09T22:45:30Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23507540,
+      "date": "2013-08-29T17:32:45Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23755852,
+      "date": "2013-09-03T23:41:36Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23801260,
+      "date": "2013-09-04T15:59:46Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 23905772,
+      "date": "2013-09-05T22:13:14Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 24264309,
+      "date": "2013-09-11T18:29:09Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 24548845,
+      "date": "2013-09-16T22:07:36Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 24624451,
+      "date": "2013-09-17T21:34:07Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 25285612,
+      "date": "2013-09-28T00:08:52Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 25287107,
+      "date": "2013-09-28T01:03:19Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 9928461,
+      "date": "2012-10-31T00:34:29Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 9928547,
+      "date": "2012-10-31T00:39:25Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "pr",
+      "id": 10,
+      "date": "2013-03-09T22:45:33Z"
+    },
+    {
+      "dev_id": "swrobel",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 21,
+      "date": "2013-08-28T23:23:31Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "4790f480553a5f762cad7d803925a4938eb7f9ec",
+      "date": "2013-01-18T20:05:15Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "JustinLove/autoscaler",
+      "type": "commit",
+      "id": "e233d5a39f0425999c6d06c665fa1bd4743fb131",
+      "date": "2013-01-18T16:45:58Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12460200,
+      "date": "2013-01-19T20:01:32Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 12437691,
+      "date": "2013-01-18T19:38:58Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 46857014,
+      "date": "2014-06-23T15:04:08Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 97772222,
+      "date": "2015-04-30T13:13:07Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "JustinLove/autoscaler",
+      "type": "pr",
+      "id": 5,
+      "date": "2013-01-18T20:41:45Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 6,
+      "date": "2013-01-18T21:01:40Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 3,
+      "date": "2013-01-16T05:08:22Z"
+    },
+    {
+      "dev_id": "tonkapark",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1796,
+      "date": "2014-06-23T14:47:50Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12771800,
+      "date": "2013-01-28T08:11:40Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 12776010,
+      "date": "2013-01-28T10:30:57Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18051344,
+      "date": "2013-05-17T09:15:35Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 18262545,
+      "date": "2013-05-22T07:52:43Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19170951,
+      "date": "2013-06-09T18:38:06Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19173796,
+      "date": "2013-06-09T21:13:17Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "com",
+      "id": 19890705,
+      "date": "2013-06-24T06:16:37Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 15061555,
+      "date": "2013-03-18T15:35:54Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 27475567,
+      "date": "2013-10-31T10:31:27Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 27485209,
+      "date": "2013-10-31T13:28:11Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 55854168,
+      "date": "2014-09-17T06:30:47Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 55854407,
+      "date": "2014-09-17T06:34:58Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 56001217,
+      "date": "2014-09-18T06:49:19Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 56004549,
+      "date": "2014-09-18T07:35:33Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 56004777,
+      "date": "2014-09-18T07:38:26Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 56014808,
+      "date": "2014-09-18T09:22:21Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 56015358,
+      "date": "2014-09-18T09:28:00Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "com",
+      "id": 62854834,
+      "date": "2014-11-13T08:07:56Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "pr",
+      "id": 7,
+      "date": "2013-01-25T09:58:13Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "pr",
+      "id": 494,
+      "date": "2012-11-01T14:52:52Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "JustinLove/autoscaler",
+      "type": "issue",
+      "id": 17,
+      "date": "2013-05-16T12:54:14Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1950,
+      "date": "2014-09-16T09:33:52Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 1949,
+      "date": "2014-09-16T08:54:48Z"
+    },
+    {
+      "dev_id": "thibaudgg",
+      "repo": "mperham/sidekiq",
+      "type": "issue",
+      "id": 779,
+      "date": "2013-03-18T14:53:56Z"
+    }
+  ]
+}

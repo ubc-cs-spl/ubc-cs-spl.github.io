@@ -1,0 +1,525 @@
+{
+  "user_repo": "chef-partners/knife-vsphere",
+  "dep_repo": "vmware/rbvmomi",
+  "dep_date": "2011-06-29 19:54:15 UTC",
+  "dep_commit_id": "0685cf27bc00de762c2516008e7bbcf2db351f9f",
+  "social_date": "2014-01-13 19:28:17 UTC",
+  "devs": [
+    "tim95030",
+    "bdupras",
+    "eklein"
+  ],
+  "interactions": [
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "cc23a71b42b2cb3798ae20b0d599cdc9f0de2192",
+      "date": "2015-06-24T21:32:14Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "d25d8e717a1db844f86b7b6e69654a0864671434",
+      "date": "2014-03-14T18:50:05Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "798ee26be2b3483581a8e3e0ce893be69bd8bc0c",
+      "date": "2014-03-14T00:08:53Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 66352989,
+      "date": "2014-12-09T20:36:28Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 67371745,
+      "date": "2014-12-17T18:50:56Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 67371936,
+      "date": "2014-12-17T18:52:04Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 74560341,
+      "date": "2015-02-16T19:29:25Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 74585272,
+      "date": "2015-02-16T22:55:07Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 113837291,
+      "date": "2015-06-20T23:06:50Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 113994358,
+      "date": "2015-06-22T03:37:41Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 114532349,
+      "date": "2015-06-23T14:49:51Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 114548489,
+      "date": "2015-06-23T15:36:06Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 114736527,
+      "date": "2015-06-24T05:55:00Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 114953937,
+      "date": "2015-06-24T17:48:42Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 115018926,
+      "date": "2015-06-24T21:34:49Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 115321418,
+      "date": "2015-06-25T16:48:23Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 115406793,
+      "date": "2015-06-25T21:44:33Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 116765380,
+      "date": "2015-06-29T17:14:38Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126590108,
+      "date": "2015-07-31T07:16:24Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126592332,
+      "date": "2015-07-31T07:30:12Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126961200,
+      "date": "2015-08-01T23:19:02Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126964778,
+      "date": "2015-08-01T23:40:22Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126965155,
+      "date": "2015-08-01T23:55:36Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 126965260,
+      "date": "2015-08-01T23:59:36Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 127422100,
+      "date": "2015-08-03T22:31:00Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 127422240,
+      "date": "2015-08-03T22:31:57Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 128459826,
+      "date": "2015-08-06T18:01:01Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 32202045,
+      "date": "2014-01-13T19:28:17Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 186,
+      "date": "2015-08-06T18:24:00Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 166,
+      "date": "2015-06-24T21:36:07Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 137,
+      "date": "2014-12-17T18:49:38Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 94,
+      "date": "2014-03-14T18:52:39Z"
+    },
+    {
+      "dev_id": "tim95030",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 93,
+      "date": "2014-03-14T18:51:18Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "402f205e0261ae547eda78934a1884a22f53fa70",
+      "date": "2014-05-12T22:53:22Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "5f69f83b5b2726bd6d3246bb296042eddbd0f008",
+      "date": "2013-09-05T02:47:43Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "ec10e5c98f5125e78b6abda154d46f0d086ac57b",
+      "date": "2013-08-22T23:24:44Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "f8b41f53230b4f76b00805d431a0395ce0fe6ced",
+      "date": "2013-08-22T23:13:18Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "a315bd94fd61a7719ace02269395b792ae73d36f",
+      "date": "2013-08-22T23:09:43Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "503e65bdd39e83551c7ba64ab6e63042d5576225",
+      "date": "2013-08-22T23:08:18Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "732e0709b077b028a1fcc6608c2872e68862ce2b",
+      "date": "2013-08-22T22:54:37Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "351d72b24829f2efa1f268f3ee660ad10757cee4",
+      "date": "2013-08-22T22:51:53Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "3be0b4e113b2bce54447a997ef152ff71a23fe63",
+      "date": "2013-08-22T22:23:40Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "9aa75ef55662979a834dd47792298806080e3c4a",
+      "date": "2013-08-22T22:19:03Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "f610212bb32c1b40d9ae09b4cf960be55708204c",
+      "date": "2013-08-22T20:43:58Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "cbf2fa33a5d7e6e086dddad041839f37bb3c98d7",
+      "date": "2013-08-22T16:01:41Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "ee6e4b3aa629cc7bcb567459d6b5d851b282939e",
+      "date": "2013-08-13T16:15:58Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "f58251f9f450538e50edf4c0d774c73d15e7040b",
+      "date": "2013-08-08T15:56:26Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 42970916,
+      "date": "2014-05-13T15:32:04Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 56544901,
+      "date": "2014-09-23T16:07:14Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 109,
+      "date": "2014-05-12T22:53:08Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 70,
+      "date": "2013-10-23T19:42:09Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 63,
+      "date": "2013-09-05T02:47:33Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 57,
+      "date": "2013-08-23T15:56:25Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 56,
+      "date": "2013-08-22T22:53:27Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 55,
+      "date": "2013-08-22T22:23:02Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 54,
+      "date": "2013-08-22T16:05:36Z"
+    },
+    {
+      "dev_id": "bdupras",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 50,
+      "date": "2013-08-08T15:57:41Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "1881d911f07b0b17d0d41add86cc9431decf99ea",
+      "date": "2014-06-05T22:48:19Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "9433cf8cf192ef8ddc901181b93fe6de1a729891",
+      "date": "2014-06-05T22:47:50Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "343d3a26ec13d406a147b8286a6d3882010ff42f",
+      "date": "2014-06-05T21:38:23Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "commit",
+      "id": "ccafca105c7fb587b99fea357544c4d5069b669c",
+      "date": "2014-05-19T15:16:11Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45263779,
+      "date": "2014-06-05T19:33:17Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45270683,
+      "date": "2014-06-05T20:33:59Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45272909,
+      "date": "2014-06-05T20:50:25Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45273861,
+      "date": "2014-06-05T20:57:42Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45276081,
+      "date": "2014-06-05T21:16:41Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45278610,
+      "date": "2014-06-05T21:39:21Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45279670,
+      "date": "2014-06-05T21:49:36Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 45285000,
+      "date": "2014-06-05T22:49:30Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 46179725,
+      "date": "2014-06-16T13:46:40Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "com",
+      "id": 46195646,
+      "date": "2014-06-16T15:45:45Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "vmware/rbvmomi",
+      "type": "com",
+      "id": 42970984,
+      "date": "2014-05-13T15:32:34Z"
+    },
+    {
+      "dev_id": "eklein",
+      "repo": "chef-partners/knife-vsphere",
+      "type": "pr",
+      "id": 111,
+      "date": "2014-05-19T15:20:05Z"
+    }
+  ]
+}

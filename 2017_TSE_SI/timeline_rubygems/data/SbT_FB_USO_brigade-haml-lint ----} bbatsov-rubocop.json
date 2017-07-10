@@ -1,0 +1,5430 @@
+{
+  "user_repo": "brigade/haml-lint",
+  "dep_repo": "bbatsov/rubocop",
+  "dep_date": "2013-09-13 21:44:50 UTC",
+  "dep_commit_id": "39fb64b4675cee6d3b9e2559dd0bcc083dadbc47",
+  "social_date": "2013-09-13 02:27:56 UTC",
+  "devs": [
+    "deivid-rodriguez",
+    "lencioni",
+    "mockdeep",
+    "oliverklee",
+    "geniou",
+    "fshowalter",
+    "sds",
+    "seanwalbran"
+  ],
+  "interactions": [
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "bfaffa1609cfddc9661bb2924d4bc7a2e535b940",
+      "date": "2015-01-07T13:20:31Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "d164dc932447199db80299e1040dae21216e53e7",
+      "date": "2015-11-11T08:26:19Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "dfa1f9b6a2ad2f3d0d7e97a481665f68d4097f17",
+      "date": "2015-11-11T08:28:34Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 69023778,
+      "date": "2015-01-07T13:51:45Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 69161074,
+      "date": "2015-01-08T10:23:48Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 69494706,
+      "date": "2015-01-11T13:37:10Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 70362422,
+      "date": "2015-01-17T10:43:40Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 90294647,
+      "date": "2015-04-07T00:15:15Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 62883414,
+      "date": "2014-11-13T12:29:43Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 63027437,
+      "date": "2014-11-14T09:09:29Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 64892270,
+      "date": "2014-11-28T13:09:48Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 64892306,
+      "date": "2014-11-28T13:10:10Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 65285436,
+      "date": "2014-12-02T19:07:41Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 65823594,
+      "date": "2014-12-05T17:25:32Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 70071728,
+      "date": "2015-01-15T11:17:37Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 70085850,
+      "date": "2015-01-15T13:34:54Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 131599297,
+      "date": "2015-08-16T18:36:31Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 131610563,
+      "date": "2015-08-16T19:22:59Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 131610989,
+      "date": "2015-08-16T19:25:16Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 131799134,
+      "date": "2015-08-17T12:27:32Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 155560125,
+      "date": "2015-11-10T20:44:07Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 155707723,
+      "date": "2015-11-11T08:54:33Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 155720639,
+      "date": "2015-11-11T10:01:29Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 60,
+      "date": "2015-01-15T14:02:31Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 57,
+      "date": "2015-01-07T13:35:12Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 2420,
+      "date": "2015-11-11T08:45:03Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 2424,
+      "date": "2015-11-12T00:41:15Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 2145,
+      "date": "2015-08-15T02:04:05Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 2144,
+      "date": "2015-08-15T02:01:46Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 2124,
+      "date": "2015-08-08T20:01:05Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 2123,
+      "date": "2015-08-08T18:10:47Z"
+    },
+    {
+      "dev_id": "deivid-rodriguez",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1466,
+      "date": "2014-11-26T20:05:54Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1b83cddb0ba6762cf7670e05b3d7c9f000edcaa2",
+      "date": "2014-09-11T16:43:44Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "aaf0b022999c4ead17bf09f3396c6a2da346421a",
+      "date": "2014-06-11T16:08:45Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "63455991bfdd1584005dae30d9a3967792961bb8",
+      "date": "2014-06-11T16:05:19Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c965f16577d2ad47b3aba636df15887d88a464b9",
+      "date": "2014-06-11T15:50:11Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "5da3d70720cbdbb64bff7196162e8e7187a19cbe",
+      "date": "2015-05-23T21:30:02Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "b2176b91e132549b8f506b75d5a9a4293ee09947",
+      "date": "2015-04-19T00:45:58Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 32303348,
+      "date": "2014-01-14T20:21:45Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 36256397,
+      "date": "2014-02-27T15:54:45Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 45761608,
+      "date": "2014-06-11T16:00:46Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 50995730,
+      "date": "2014-08-03T16:54:47Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 51081794,
+      "date": "2014-08-04T16:18:12Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 52649522,
+      "date": "2014-08-19T15:16:31Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 55292737,
+      "date": "2014-09-11T16:46:29Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 55305870,
+      "date": "2014-09-11T18:19:58Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 59024352,
+      "date": "2014-10-14T10:59:39Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 61828412,
+      "date": "2014-11-05T15:51:20Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62497176,
+      "date": "2014-11-11T03:32:07Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 64933483,
+      "date": "2014-11-28T23:02:09Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 97456744,
+      "date": "2015-04-29T14:58:03Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 97457384,
+      "date": "2015-04-29T15:00:28Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1917,
+      "date": "2015-05-23T21:36:42Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1811,
+      "date": "2015-04-19T00:46:48Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 39,
+      "date": "2014-10-09T21:33:35Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 38,
+      "date": "2014-10-09T21:29:35Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 4,
+      "date": "2014-01-14T16:37:24Z"
+    },
+    {
+      "dev_id": "lencioni",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 1,
+      "date": "2013-10-26T00:33:12Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "4f46a54b02a7497d56ae83815a0c6453e2883935",
+      "date": "2015-01-05T19:54:25Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "295d0879ddd43960f77b98506607ea9b343bfd8d",
+      "date": "2014-04-09T17:44:46Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "05aa259a0cb2c88a2c50bfadbbc09c8846982928",
+      "date": "2014-03-18T17:32:59Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37739295,
+      "date": "2014-03-15T21:59:56Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37902528,
+      "date": "2014-03-18T06:13:57Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37902929,
+      "date": "2014-03-18T06:23:53Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37903793,
+      "date": "2014-03-18T06:44:25Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37904218,
+      "date": "2014-03-18T06:53:28Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37904537,
+      "date": "2014-03-18T07:00:59Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37961408,
+      "date": "2014-03-18T17:21:46Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37961635,
+      "date": "2014-03-18T17:23:41Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 38336899,
+      "date": "2014-03-22T00:06:30Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 41829282,
+      "date": "2014-04-30T18:08:19Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 65688565,
+      "date": "2014-12-04T19:32:11Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 65839832,
+      "date": "2014-12-05T19:18:38Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 66310786,
+      "date": "2014-12-09T16:28:34Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67165009,
+      "date": "2014-12-16T14:16:28Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 33716980,
+      "date": "2014-01-30T18:25:43Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 33753267,
+      "date": "2014-01-31T01:09:24Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 33894043,
+      "date": "2014-02-02T07:07:28Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 34935446,
+      "date": "2014-02-13T00:25:04Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 34936531,
+      "date": "2014-02-13T00:41:53Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 34991153,
+      "date": "2014-02-13T15:45:57Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 34994161,
+      "date": "2014-02-13T16:12:32Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37891039,
+      "date": "2014-03-18T01:28:00Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37962927,
+      "date": "2014-03-18T17:33:40Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37963242,
+      "date": "2014-03-18T17:36:21Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37972757,
+      "date": "2014-03-18T18:49:56Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37973256,
+      "date": "2014-03-18T18:53:55Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37973508,
+      "date": "2014-03-18T18:56:08Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39803110,
+      "date": "2014-04-08T01:32:06Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40527300,
+      "date": "2014-04-15T20:03:36Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40530069,
+      "date": "2014-04-15T20:28:09Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40787746,
+      "date": "2014-04-18T05:22:51Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40968124,
+      "date": "2014-04-21T19:34:10Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40984475,
+      "date": "2014-04-21T22:28:50Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40985288,
+      "date": "2014-04-21T22:39:54Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41590338,
+      "date": "2014-04-28T17:50:43Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42244594,
+      "date": "2014-05-05T21:44:45Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42314005,
+      "date": "2014-05-06T15:04:00Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 45425868,
+      "date": "2014-06-08T01:39:01Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 45449755,
+      "date": "2014-06-08T21:54:46Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 46091566,
+      "date": "2014-06-14T15:53:35Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 46091640,
+      "date": "2014-06-14T15:56:09Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 46093490,
+      "date": "2014-06-14T17:01:25Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 46093599,
+      "date": "2014-06-14T17:05:29Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 46094273,
+      "date": "2014-06-14T17:33:45Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 59961103,
+      "date": "2014-10-21T17:02:29Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 62326703,
+      "date": "2014-11-10T00:06:54Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 65524715,
+      "date": "2014-12-04T01:41:23Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 65524981,
+      "date": "2014-12-04T01:44:30Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 66358148,
+      "date": "2014-12-09T21:09:51Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 74181648,
+      "date": "2015-02-13T00:16:15Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 11,
+      "date": "2014-03-18T06:38:38Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1551,
+      "date": "2015-01-05T19:54:30Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 984,
+      "date": "2014-04-09T17:45:24Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 903,
+      "date": "2014-03-18T01:25:55Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 902,
+      "date": "2014-03-18T01:02:24Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 52,
+      "date": "2014-12-09T16:27:33Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 51,
+      "date": "2014-12-09T16:24:16Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 46,
+      "date": "2014-12-04T19:26:33Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 10,
+      "date": "2014-03-18T03:05:16Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 9,
+      "date": "2014-03-15T00:32:41Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1653,
+      "date": "2015-02-13T00:15:31Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1568,
+      "date": "2015-01-13T00:14:42Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1509,
+      "date": "2014-12-18T02:06:41Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1483,
+      "date": "2014-12-09T18:07:21Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1474,
+      "date": "2014-12-04T01:44:02Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1473,
+      "date": "2014-12-04T01:40:27Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1141,
+      "date": "2014-06-07T00:40:34Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1138,
+      "date": "2014-06-05T17:36:17Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1065,
+      "date": "2014-05-06T00:27:54Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1064,
+      "date": "2014-05-05T20:11:31Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1051,
+      "date": "2014-04-29T17:45:48Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1045,
+      "date": "2014-04-29T00:02:43Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1043,
+      "date": "2014-04-28T17:41:19Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1022,
+      "date": "2014-04-21T19:02:02Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1004,
+      "date": "2014-04-15T00:27:12Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 901,
+      "date": "2014-03-18T00:30:09Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 899,
+      "date": "2014-03-17T17:52:36Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 898,
+      "date": "2014-03-17T17:38:08Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 814,
+      "date": "2014-02-13T00:40:07Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 805,
+      "date": "2014-02-08T23:06:15Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 785,
+      "date": "2014-02-02T00:49:48Z"
+    },
+    {
+      "dev_id": "mockdeep",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 776,
+      "date": "2014-01-29T19:57:56Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2144d676c6eb4408f139bccac2d2f8042605985e",
+      "date": "2014-12-22T15:23:46Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "e89efe20a1f4f0effc87181d66fd08811e7f1e57",
+      "date": "2014-12-22T16:13:59Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48821669,
+      "date": "2014-07-12T19:30:38Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48839548,
+      "date": "2014-07-13T12:43:52Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 53272508,
+      "date": "2014-08-25T14:41:33Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 53316349,
+      "date": "2014-08-25T19:37:12Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 58170258,
+      "date": "2014-10-07T11:26:27Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 58354795,
+      "date": "2014-10-08T13:12:57Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 36624384,
+      "date": "2014-03-04T13:42:12Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 36646935,
+      "date": "2014-03-04T16:56:48Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 36917186,
+      "date": "2014-03-06T18:05:12Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37811110,
+      "date": "2014-03-17T12:48:35Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 56,
+      "date": "2014-12-22T15:24:41Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1524,
+      "date": "2014-12-22T16:14:18Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 53,
+      "date": "2014-12-16T10:57:28Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 40,
+      "date": "2014-11-04T16:19:33Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 36,
+      "date": "2014-10-07T11:05:24Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 26,
+      "date": "2014-08-25T14:43:45Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 25,
+      "date": "2014-08-25T14:38:45Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1957,
+      "date": "2015-06-08T10:41:03Z"
+    },
+    {
+      "dev_id": "oliverklee",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 895,
+      "date": "2014-03-17T12:23:07Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f4c6a2a837eb8fca670fa65886d7dc4fb6169081",
+      "date": "2014-05-05T14:28:19Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e9e2b8d20a893e199ce4e52bc7348df0401fd9ba",
+      "date": "2014-03-18T07:09:12Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2b239a57a2f3422ba3c60f1a46761345ca748057",
+      "date": "2014-03-13T07:39:24Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "34d9c24ffdb026db64a148ccede770044cef57ee",
+      "date": "2014-05-27T11:32:22Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "a0249263e1df2a7345632ba8ff4df8a30195daef",
+      "date": "2014-05-19T13:34:49Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "c05c739585a1c1fafc5e4f90662f2800cb665a5a",
+      "date": "2014-05-23T05:21:07Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "d050401c7b1dca3c93a80c94c0395aea86a0e491",
+      "date": "2014-05-20T12:47:43Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "fc5a8a609dce2eb9dd11392952e03987726891cd",
+      "date": "2014-05-21T05:56:41Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "49ab420a919fb6f3baa31123b367ef7d9ba1cea2",
+      "date": "2014-05-18T08:03:30Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "8bb0e1ead43bf0c39955fade4983248cd27b1965",
+      "date": "2014-05-18T07:50:25Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "657d6b5c2045f39c45df9475287c7b8080c28cf8",
+      "date": "2014-05-12T13:11:24Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "1d9bbc873b8f968932c41c3304a48f6bb2bb706d",
+      "date": "2014-04-29T21:39:18Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "2d7261e055e709a0547f6ec89fc75294b14600ab",
+      "date": "2014-04-29T13:07:25Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "16531a197b869a2c7d2c0e12e11955882126d21b",
+      "date": "2014-04-29T12:44:50Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "2ef7b30383233fe92ace12b3b05b8e3a0180b8e4",
+      "date": "2014-04-29T10:26:06Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "0bb6644129ad021222e8bcd5f8e739a9295330fd",
+      "date": "2014-04-28T13:35:29Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "e7f7b7c22ea45c7b02e91651f91975b9897d8b8b",
+      "date": "2014-04-28T13:35:14Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "fa28e73c01d4ffbf3283052fed7901c01a9e5fea",
+      "date": "2014-04-25T15:05:40Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "4c9773e2521ec95191507ca866026abf183567f4",
+      "date": "2014-04-24T12:05:10Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "b41b4d3730c3c08e39c761b46e8c3cac1d26205e",
+      "date": "2014-04-24T11:44:35Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "4d187a1d8a3a907259a8abf89d90be7ccdf8e6bb",
+      "date": "2014-04-22T15:56:03Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "ea0489d6fc18b08ee8b089fb54de45384633eb81",
+      "date": "2014-04-17T10:42:15Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "37b6bce8b23e16e521b9e281b116a25c275b0966",
+      "date": "2014-03-13T09:31:15Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "ab3d2a35ffed61037187766c022b565dc2b875c9",
+      "date": "2014-03-13T09:21:03Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "8ddb860f7edb904762e46400ce19d6e24f3da369",
+      "date": "2014-03-11T21:15:48Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "82e37174390c0276676e2e9e0b2abcd05c05469a",
+      "date": "2014-03-11T20:49:48Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37730787,
+      "date": "2014-03-15T16:46:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37739696,
+      "date": "2014-03-15T22:17:42Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37902476,
+      "date": "2014-03-18T06:12:35Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37903421,
+      "date": "2014-03-18T06:35:46Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37903810,
+      "date": "2014-03-18T06:44:35Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37903831,
+      "date": "2014-03-18T06:44:56Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37904088,
+      "date": "2014-03-18T06:50:20Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37904284,
+      "date": "2014-03-18T06:54:57Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37905370,
+      "date": "2014-03-18T07:21:02Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 38254091,
+      "date": "2014-03-21T07:32:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 38417723,
+      "date": "2014-03-24T07:30:36Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 39489484,
+      "date": "2014-04-03T18:46:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48852917,
+      "date": "2014-07-13T21:54:23Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37352247,
+      "date": "2014-03-11T21:30:49Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37386691,
+      "date": "2014-03-12T08:54:46Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37394542,
+      "date": "2014-03-12T10:37:59Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37423218,
+      "date": "2014-03-12T15:38:14Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37505564,
+      "date": "2014-03-13T07:09:00Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37519396,
+      "date": "2014-03-13T10:43:26Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37525963,
+      "date": "2014-03-13T12:14:16Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39430587,
+      "date": "2014-04-03T09:20:09Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39635752,
+      "date": "2014-04-05T11:45:58Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40629120,
+      "date": "2014-04-16T17:42:40Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40642706,
+      "date": "2014-04-16T19:40:04Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40702536,
+      "date": "2014-04-17T10:55:17Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40704220,
+      "date": "2014-04-17T11:22:45Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 40716356,
+      "date": "2014-04-17T13:56:55Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41011205,
+      "date": "2014-04-22T07:30:08Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41012188,
+      "date": "2014-04-22T07:44:28Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41129217,
+      "date": "2014-04-23T06:35:37Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41132970,
+      "date": "2014-04-23T07:40:36Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41139567,
+      "date": "2014-04-23T09:06:54Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41407119,
+      "date": "2014-04-25T15:42:58Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41442315,
+      "date": "2014-04-25T21:40:50Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41490176,
+      "date": "2014-04-27T07:23:22Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41490553,
+      "date": "2014-04-27T07:54:05Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41553282,
+      "date": "2014-04-28T12:41:56Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41565742,
+      "date": "2014-04-28T14:37:56Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41566364,
+      "date": "2014-04-28T14:43:08Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41662185,
+      "date": "2014-04-29T10:43:13Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41662759,
+      "date": "2014-04-29T10:52:36Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41671513,
+      "date": "2014-04-29T12:51:57Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41680382,
+      "date": "2014-04-29T14:11:56Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41764244,
+      "date": "2014-04-30T06:18:23Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41795361,
+      "date": "2014-04-30T13:24:01Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41804212,
+      "date": "2014-04-30T14:40:07Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41827783,
+      "date": "2014-04-30T17:56:13Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41936772,
+      "date": "2014-05-01T18:02:14Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 41996082,
+      "date": "2014-05-02T06:44:49Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42006471,
+      "date": "2014-05-02T09:07:07Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42006677,
+      "date": "2014-05-02T09:09:06Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42010552,
+      "date": "2014-05-02T09:46:38Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42010689,
+      "date": "2014-05-02T09:47:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42025846,
+      "date": "2014-05-02T12:32:35Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42031431,
+      "date": "2014-05-02T13:24:26Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42045590,
+      "date": "2014-05-02T15:42:39Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42045656,
+      "date": "2014-05-02T15:43:12Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42393036,
+      "date": "2014-05-07T06:14:52Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42403650,
+      "date": "2014-05-07T08:54:22Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42412959,
+      "date": "2014-05-07T10:49:37Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42415515,
+      "date": "2014-05-07T11:24:02Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42418580,
+      "date": "2014-05-07T12:04:12Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42418862,
+      "date": "2014-05-07T12:08:03Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42419657,
+      "date": "2014-05-07T12:17:44Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42515625,
+      "date": "2014-05-08T05:52:52Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42641617,
+      "date": "2014-05-09T07:53:44Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42798641,
+      "date": "2014-05-12T06:05:24Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42798661,
+      "date": "2014-05-12T06:05:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42801124,
+      "date": "2014-05-12T06:58:36Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42813318,
+      "date": "2014-05-12T09:42:45Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42819566,
+      "date": "2014-05-12T11:06:31Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42819679,
+      "date": "2014-05-12T11:08:11Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42844058,
+      "date": "2014-05-12T15:09:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42887884,
+      "date": "2014-05-12T21:03:28Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42965162,
+      "date": "2014-05-13T14:52:10Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42965395,
+      "date": "2014-05-13T14:53:55Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 42978558,
+      "date": "2014-05-13T16:29:32Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43043425,
+      "date": "2014-05-14T05:22:46Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43433632,
+      "date": "2014-05-18T07:43:47Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43433653,
+      "date": "2014-05-18T07:45:18Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43433977,
+      "date": "2014-05-18T08:09:42Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43436536,
+      "date": "2014-05-18T10:38:38Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43436640,
+      "date": "2014-05-18T10:43:45Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43438801,
+      "date": "2014-05-18T12:39:57Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43588164,
+      "date": "2014-05-20T05:40:08Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43588276,
+      "date": "2014-05-20T05:43:05Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43589121,
+      "date": "2014-05-20T06:01:42Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43593879,
+      "date": "2014-05-20T07:23:12Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43595130,
+      "date": "2014-05-20T07:40:27Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43679475,
+      "date": "2014-05-20T20:36:53Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43713396,
+      "date": "2014-05-21T05:23:57Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43713496,
+      "date": "2014-05-21T05:26:04Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43715054,
+      "date": "2014-05-21T05:59:27Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43715214,
+      "date": "2014-05-21T06:02:49Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43716769,
+      "date": "2014-05-21T06:34:38Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43722663,
+      "date": "2014-05-21T07:42:20Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43732005,
+      "date": "2014-05-21T09:15:08Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43794036,
+      "date": "2014-05-21T18:13:06Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43971547,
+      "date": "2014-05-23T05:03:03Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 43972281,
+      "date": "2014-05-23T05:23:50Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 44182363,
+      "date": "2014-05-26T11:54:09Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 44262724,
+      "date": "2014-05-27T11:21:58Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 44264990,
+      "date": "2014-05-27T11:44:28Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 44553408,
+      "date": "2014-05-29T16:38:55Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 45877803,
+      "date": "2014-06-12T10:53:12Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 45980000,
+      "date": "2014-06-13T06:32:47Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 46603131,
+      "date": "2014-06-19T19:05:54Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 47118417,
+      "date": "2014-06-25T15:36:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 48835053,
+      "date": "2014-07-13T08:41:30Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 49303944,
+      "date": "2014-07-17T13:09:30Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 49968434,
+      "date": "2014-07-24T05:15:15Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 50053579,
+      "date": "2014-07-24T17:53:35Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 50957460,
+      "date": "2014-08-02T08:26:58Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 51213466,
+      "date": "2014-08-05T15:26:07Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 51217023,
+      "date": "2014-08-05T15:50:20Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 51250833,
+      "date": "2014-08-05T19:57:46Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 19,
+      "date": "2014-07-13T14:12:59Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 14,
+      "date": "2014-05-05T14:29:33Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 12,
+      "date": "2014-03-18T07:15:59Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 8,
+      "date": "2014-03-13T07:46:31Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1249,
+      "date": "2014-08-05T18:15:40Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1149,
+      "date": "2014-06-13T06:09:24Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1116,
+      "date": "2014-05-27T11:43:23Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1108,
+      "date": "2014-05-23T05:23:09Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1105,
+      "date": "2014-05-21T05:58:40Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1102,
+      "date": "2014-05-20T12:54:42Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1100,
+      "date": "2014-05-19T21:33:34Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1099,
+      "date": "2014-05-19T13:37:00Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1096,
+      "date": "2014-05-18T08:07:49Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1095,
+      "date": "2014-05-18T07:53:31Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1087,
+      "date": "2014-05-13T14:28:06Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1082,
+      "date": "2014-05-12T13:14:33Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1069,
+      "date": "2014-05-07T10:44:48Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1055,
+      "date": "2014-04-30T07:22:14Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1049,
+      "date": "2014-04-29T13:20:23Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1048,
+      "date": "2014-04-29T10:35:10Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1040,
+      "date": "2014-04-28T10:45:16Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1033,
+      "date": "2014-04-25T15:14:48Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1029,
+      "date": "2014-04-24T12:06:46Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1025,
+      "date": "2014-04-22T15:59:21Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 1012,
+      "date": "2014-04-17T10:45:36Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 869,
+      "date": "2014-03-11T21:28:10Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1157,
+      "date": "2014-06-18T06:58:53Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1050,
+      "date": "2014-04-29T14:47:38Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1010,
+      "date": "2014-04-16T14:29:51Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 946,
+      "date": "2014-04-03T09:11:30Z"
+    },
+    {
+      "dev_id": "geniou",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 868,
+      "date": "2014-03-11T15:08:09Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "221aa0e46141b6757ba15cffe8b781c3c686813b",
+      "date": "2014-09-11T01:42:22Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a9a50af5483522432b118690b4c12f882b4e9e5d",
+      "date": "2014-09-11T01:10:53Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "03b068447ff03054054558986323de46591b935d",
+      "date": "2014-04-03T01:28:20Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "11b6ec536c1254fdf33aa49635349700e18fc9df",
+      "date": "2014-03-30T01:48:35Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "6b1047ec963e6efaf837c3588a3150bb2e8c59c1",
+      "date": "2014-03-28T23:34:00Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "4b5e044bdc9ca5845f17c9d2c01cc5a700002f3b",
+      "date": "2014-03-28T01:11:11Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 55480880,
+      "date": "2014-09-13T03:53:10Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 37935064,
+      "date": "2014-03-18T13:58:42Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38053315,
+      "date": "2014-03-19T14:01:38Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38128129,
+      "date": "2014-03-20T01:52:39Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38393392,
+      "date": "2014-03-23T19:06:56Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38522172,
+      "date": "2014-03-25T01:34:17Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38641581,
+      "date": "2014-03-26T01:33:48Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38798780,
+      "date": "2014-03-27T12:56:00Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38880035,
+      "date": "2014-03-28T01:15:39Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 38978928,
+      "date": "2014-03-28T23:40:01Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39030781,
+      "date": "2014-03-30T16:39:02Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39045250,
+      "date": "2014-03-31T00:19:52Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39162697,
+      "date": "2014-04-01T01:46:03Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39275534,
+      "date": "2014-04-02T00:03:41Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39403999,
+      "date": "2014-04-03T01:34:32Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 39406153,
+      "date": "2014-04-03T02:19:23Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 61368181,
+      "date": "2014-11-01T13:29:45Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 61494750,
+      "date": "2014-11-03T15:32:18Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 28,
+      "date": "2014-09-11T01:47:08Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 27,
+      "date": "2014-09-11T01:15:24Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 942,
+      "date": "2014-04-03T01:31:43Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 931,
+      "date": "2014-03-30T02:03:59Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 923,
+      "date": "2014-03-28T01:14:23Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 900,
+      "date": "2014-03-17T23:25:36Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 30,
+      "date": "2014-09-14T00:39:51Z"
+    },
+    {
+      "dev_id": "fshowalter",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 29,
+      "date": "2014-09-14T00:31:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "d7e3c43ef02090bd4c88f6fa65da189ce7eed1cc",
+      "date": "2015-09-30T16:39:07Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "9da39868a875f34a11744b04bdefea66a25d0b3a",
+      "date": "2015-09-30T16:37:17Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "d4cfbbc824f8dcf222769064b28280b3a1789399",
+      "date": "2015-09-30T16:34:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "60fccde0634f8f6c0460b12a07171a9c56e8afa0",
+      "date": "2015-09-15T17:29:01Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ce027e0f5730be446d7112ee322826ef4ab22d68",
+      "date": "2015-09-08T18:46:50Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ad93903fff77030ce702d6995771864f8602cce2",
+      "date": "2015-09-07T01:26:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b0d0d7c9b164915d92139048fcf7d31d7edf06b4",
+      "date": "2015-09-06T00:08:22Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "0ddaab83c4399b4c3fe13d34acd6d1c1763c8068",
+      "date": "2015-09-03T17:37:10Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f19fcd4a84f5e02f4c794838a47e40c53e02d9cc",
+      "date": "2015-09-03T17:23:15Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "bb63462d0583f7bb3073a791b576089a088908f1",
+      "date": "2015-08-24T04:32:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "13301f5bcf482de51c1b0d95cd1defec602cccef",
+      "date": "2015-08-24T04:31:13Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "061ec0c787abbe879cb4af1d5ebcfac935d5cf68",
+      "date": "2015-08-23T01:07:30Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "32cd092e090ad5e120ff1ab17a41b18b1041ae0c",
+      "date": "2015-08-19T05:44:55Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ef5273f19eee5d349c844dd1e52d7f28e241912a",
+      "date": "2015-08-11T17:43:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ab02b731ea997fd1046bdb69c084f2a326d06917",
+      "date": "2015-07-14T05:59:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "52fbfc936a5d3e031341cc5b51734c80787c7311",
+      "date": "2015-06-24T18:59:51Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ac288556070d7ac4e4c07295ad0475ab81747b1d",
+      "date": "2015-06-24T18:54:43Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7449001fc9b7fc1a35156ef3af5f6301748e0188",
+      "date": "2015-06-24T18:54:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b002ec64eeffd787e04b6fe88eb5349f9311367f",
+      "date": "2015-06-24T18:47:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "eaab99ee9b7766b53c9eefab11ee6646e6f9c069",
+      "date": "2015-06-24T18:41:56Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2b7c712e784b5b6bff4e38e5ba80706a66251bf1",
+      "date": "2015-06-24T18:37:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1b5c6c48c37245f5fab5d92cbcb6e934cbfeea82",
+      "date": "2015-06-24T18:32:39Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "debbdbaae77f38c390844fc1874fbb76a8daf8a4",
+      "date": "2015-06-24T18:31:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "47ddb6879c76736f346fa353a8788d5a0628875c",
+      "date": "2015-06-24T03:50:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5549eb0c84c5e24fda9c709b6a8f123eaf557bc5",
+      "date": "2015-06-24T02:41:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "bf325b94c4ad9bc741bb2862c500cf6dcfac2277",
+      "date": "2015-06-24T02:39:06Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "db68cceb2c1cc71154758be656b4e0537033083b",
+      "date": "2015-06-24T02:36:59Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ce14e72428b2622c4cec20fe2861988005f11c79",
+      "date": "2015-06-24T02:31:42Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "fef40a3e177aea8c5fc1d8e92a07e7a0783f10c4",
+      "date": "2015-06-24T02:29:07Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "bb5ab60ebc9ce31cfb5bef6cae671e8a740d6093",
+      "date": "2015-06-24T02:26:45Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "31095d8af6f31d490061cae8f3b66bbe61b77eb5",
+      "date": "2015-06-24T02:12:08Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "8a15da35e55bb0b9c2d0c1f581a89509bc74746b",
+      "date": "2015-06-24T02:07:49Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a9d292a6190157fe452f7094f2eb1c6a8bf7795f",
+      "date": "2015-06-24T01:57:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6ab11335442fd32c0fd12e74c80a7a78c32d01e1",
+      "date": "2015-06-24T01:53:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a9ce99409166c76abc8adb5a5d3ee287c49939c9",
+      "date": "2015-06-24T01:14:12Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1635c078c27b6150ab9c094a17ec9f5d5edaddc8",
+      "date": "2015-06-23T20:46:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "134c4146e23f369e60f36c68e16c9d3f9fea7fe8",
+      "date": "2015-06-23T19:44:30Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2ab1806daa8533aa2c9fe170bbdc5827b56194dd",
+      "date": "2015-06-23T02:38:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2da54cdabc7ff0f717e16dd5197ee1104570195b",
+      "date": "2015-06-23T02:36:01Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "3cc0b634dc8af4e39da687c0155fb781dee81cd6",
+      "date": "2015-06-23T02:32:08Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "39027338382f0eb353ad3179ff84836e94072b3f",
+      "date": "2015-06-23T02:29:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "09bd37b30075fcf79650844838394ce1ee5a7614",
+      "date": "2015-06-23T02:26:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "40b15251b7602446fe417b715d93c187fe67446b",
+      "date": "2015-06-12T17:12:38Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ccc90b2cc901ea4dcdcc6772ca34ee1aff7a2fbf",
+      "date": "2015-06-11T17:19:29Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2d531b815b68c5d73d985e1f5921ee0fa21b65d8",
+      "date": "2015-06-11T02:04:53Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "bb89e9e23015fdc0194dee683dc3f614aed87764",
+      "date": "2015-06-10T16:53:42Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7e04bb5b3c20cc698d70ea5086f2180caaa90c42",
+      "date": "2015-06-10T00:48:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1fc4666fe9cacf0ddc25ac29a7f10efbe7007614",
+      "date": "2015-06-10T00:47:30Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ab42402f108620f8b20343a9b0687b8ecf825581",
+      "date": "2015-06-09T23:51:38Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b90512febb98f30d102c3eb173d3c6c222fb76d1",
+      "date": "2015-06-09T23:35:58Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "0c3f98e8e90825f873ca1f19d55315234cb86f5e",
+      "date": "2015-06-09T03:29:51Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "d95285da48387a8888b2753731f9a386bd1d0767",
+      "date": "2015-06-09T03:26:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b78c0fae7b98b063aff70422f3c6d89d4a9d0dcf",
+      "date": "2015-06-09T03:24:14Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "417a42a3c8576a1f9a4ca32d5c23e627f5d11822",
+      "date": "2015-06-09T03:22:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "55f0b8a081ac0de07b2cf5ce7cc3cad8168199c6",
+      "date": "2015-06-09T02:35:59Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ef2ab1fca0cd6c712bde37c2c8c96d226664d084",
+      "date": "2015-06-09T02:28:39Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "70bad964a51e0bf1f96bbe3421c9c2891d48f1de",
+      "date": "2015-06-08T06:59:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "4d783f08b975d30825d5660481f186f3fe9a8625",
+      "date": "2015-06-08T06:57:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "0b36c046b16fff425e4cb150a676d07d70ae8ca5",
+      "date": "2015-06-08T06:51:10Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7b1e25f22e1087463e4a4653c3a3e47e7144670b",
+      "date": "2015-06-08T06:46:56Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f222bfadcf96d3e1754fc235de8e5e51a98e15c2",
+      "date": "2015-06-08T06:20:33Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "54ac3b67a73ebd33f6341f741390dd784efa01d6",
+      "date": "2015-06-07T21:51:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b2b5043da33e4620a9f4fe0d8a3c27ec8e0f36bc",
+      "date": "2015-05-03T01:29:13Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6bbe2d2f4938a41f77b270488c73015fc89f7631",
+      "date": "2015-05-03T01:27:45Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "150789d8c3a9903a22ff0afd2657af9e4fb30c71",
+      "date": "2015-05-03T00:14:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6dc2574300915e6910ddecb6183b2fd95a7a0613",
+      "date": "2015-04-29T05:17:24Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e68c6722707943c575b67814518842d073874048",
+      "date": "2015-04-17T01:57:32Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "dea1699f691eff8f037fedd9371c5fbde5d04d7c",
+      "date": "2015-04-15T06:47:51Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6f8acb209749b0af085d04fb740e3315e5ae570a",
+      "date": "2015-04-13T07:20:36Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "830da7364b8d7c0bd97f6c68ee6775f466760672",
+      "date": "2015-04-01T07:31:04Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f6fb2f6ad4b7406a892a2dcb15b9501ee4d9a933",
+      "date": "2015-04-01T06:55:17Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2501dba1cbe88192853145d481b474721ddd1081",
+      "date": "2015-04-01T04:59:36Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5c6379453083e8d1f506bd96097104f8d28128c2",
+      "date": "2015-04-01T04:48:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6ee58fda220b2b1ddc77e9cc5cedf6fa3c6699ac",
+      "date": "2015-03-30T05:39:12Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2a287d007f300083aee30ac38b5b07be7a034d7d",
+      "date": "2015-03-28T19:17:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "275fcabb8684330afd6adae0605972481ab462c5",
+      "date": "2015-03-28T19:13:22Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "11ca42abc87ed71b5ae76bb6d7e932e5c7224216",
+      "date": "2015-03-11T06:11:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ee07324cef85b45ce9c9dd2cea33882c9841ab6f",
+      "date": "2015-03-11T05:22:40Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "9475505381a900861f08dba73388b18331bbd251",
+      "date": "2015-03-05T07:11:32Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "3768c38ff7ebce7a2062bfa0cb1163c51f640a26",
+      "date": "2015-03-05T06:58:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a7e8dcf38b6d46668ec34428126c63132570c8c2",
+      "date": "2015-02-28T19:31:29Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "28222423c4461d18223eb066530bb6e52142333f",
+      "date": "2015-02-28T19:30:51Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "3940ffc3110eb1953d46a57690c7697d857c1040",
+      "date": "2015-02-27T21:09:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e82d64426e58a4dc4ed09b574d742f4f90af9d88",
+      "date": "2015-02-13T02:52:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "9a40b86259f3df586db788810b81c97f37352eed",
+      "date": "2015-02-13T02:30:55Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7321389946863b0051edbe2fbe43dc9a395c41f3",
+      "date": "2015-02-13T02:21:07Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "0a88500d16d3dfa58823b46d538254573b5f2f18",
+      "date": "2015-02-13T01:40:56Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "182b536aecade41243fe2275bcdb3cf7623685ed",
+      "date": "2015-02-09T05:03:43Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6dd36da1f7469b0eea52caccb414fa8fb7640af8",
+      "date": "2015-02-09T04:49:56Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "9df12f7ab8b5eaf714617ab593dbc8998bd1c4b0",
+      "date": "2015-01-17T03:25:22Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7c28701490ee6b2bb07b2104b275ac47559ff225",
+      "date": "2015-01-14T08:26:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "246861f9fe10be9bbb0f3d56854da47d74b62b2b",
+      "date": "2015-01-14T06:35:33Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "60359273aa1afc452234806422414e6670a20f65",
+      "date": "2015-01-14T06:34:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6c69c6e1a3f2b0bf88a6c4c913c0cdd6c19d2d1a",
+      "date": "2015-01-12T17:34:10Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "9892b7739c822fe4d02aad477a3c25aa9cf5670a",
+      "date": "2015-01-12T17:33:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "befbef064f32d434fe7a52b7a1f7510b3add56e9",
+      "date": "2015-01-12T07:49:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "bfeb66c8a686fdcfabf099b70050c65fdd5c8e7d",
+      "date": "2015-01-12T07:43:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c43394b1b736c8b96e9dfeda27bf0275e22e53b0",
+      "date": "2015-01-11T10:07:10Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "40c428ea43d63284318a0feb444259cea3577328",
+      "date": "2015-01-11T09:59:16Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1709e34e14391d6856c60e47e9a95ae471ab69f8",
+      "date": "2015-01-11T09:54:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6b1a2e550a9bc494344ee27c386ad868bcb45b31",
+      "date": "2015-01-11T09:47:38Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6caf6b47267bbdcdcdba37aaf323d97dbea09481",
+      "date": "2015-01-11T09:43:41Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "271d4e983fa2986cc38ec2041679c71c79c954a0",
+      "date": "2015-01-11T09:08:40Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5d0f899ddb06eea44f5feb4f4bfa9191e7d48c8b",
+      "date": "2015-01-11T08:03:57Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "66a3e45b927bb8d1b86bbba81a0263f5cc0c80bf",
+      "date": "2015-01-11T08:02:55Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "af9056ad1a506898c64a10dfed6a58c9b822e1ab",
+      "date": "2015-01-11T05:04:24Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "8ed8888418d52c5539da936530859169b5f0d4ac",
+      "date": "2014-12-19T00:05:53Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "3e12a4385cf7a766912c97e21ce7809812c53ed9",
+      "date": "2014-12-18T23:59:17Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "46d7bb25fad5b05e669b7288656b222b50a0e145",
+      "date": "2014-12-16T05:12:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5934d523518fe53289c66cc7d55d5e7b4f88c1ed",
+      "date": "2014-12-16T05:07:49Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e76f11df1607f986f0049f0774240a7739b185d5",
+      "date": "2014-12-16T05:04:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1b7cf5e9e046198e7129036e6a6b36960977805c",
+      "date": "2014-12-16T05:02:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "277d49d4ac1c46c6f0a2ed001d0028a69f4f45dc",
+      "date": "2014-12-16T04:54:24Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "be6483f4a2625205ea3648dbc753ca860e37c38c",
+      "date": "2014-12-16T04:51:51Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "9015b6656543db6a44198ba455c8f42da0b138c0",
+      "date": "2014-12-16T04:46:29Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "45eb3de7b4351c817a163d725110fb6610b3aa57",
+      "date": "2014-12-16T04:39:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b87c00571c33a24a4c2bbd77fc0daee33e55848d",
+      "date": "2014-12-16T04:36:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "81aafb634db6593e3d5c94aa69f1bb8ecd86579f",
+      "date": "2014-12-16T04:17:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "0cc72121253b5ec8276bcc0d583660ef0df67bfe",
+      "date": "2014-12-16T04:01:34Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c25d3324708d6f5a5324ac3de380c082f453deb2",
+      "date": "2014-12-16T04:07:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "42f12914d50c1c92bbefeeaf79bef24732e19044",
+      "date": "2014-12-12T01:44:15Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6cb766eb479e4c0325e721eca972a82d08d74a80",
+      "date": "2014-12-12T01:39:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "417804cc2a21ced2ff14eb2eaf52e12aea4b74fc",
+      "date": "2014-12-05T21:26:49Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "300764b865ae2175ecf30de0d887d04b93859db4",
+      "date": "2014-12-05T23:09:40Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "0028d413d96dd56a8b30bc8a292776b65e6918be",
+      "date": "2014-12-05T23:06:52Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c2260ff8b99e33bb53498675cee6083f019dbee8",
+      "date": "2014-12-05T22:43:04Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2d7ac524b39a66f5f9c95cda12ca6a2578a51c70",
+      "date": "2014-12-05T19:09:39Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e088c1c02a41c2b43211a28731bf73a13506bdeb",
+      "date": "2014-12-04T02:59:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f347098757d666ae285387b7cf9a0f2e6f80ccbf",
+      "date": "2014-12-03T08:22:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "cdea0429036d410b4e75228c65d3da6cb5030f8f",
+      "date": "2014-12-03T08:16:39Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b3162b4e7ab440cf9aaf53cb43a099c2178cd6e5",
+      "date": "2014-12-03T08:21:24Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6377853720368042089561583be50fc5531769ff",
+      "date": "2014-12-03T06:58:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "585c9c8cd1334a7478b23572ed11e36ae8713856",
+      "date": "2014-12-03T06:49:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "731898089c47f5926720bc6f1abdcef0f8fe70e5",
+      "date": "2014-12-03T06:47:03Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "935f11613059112aae8fca96293c456e0c97ba72",
+      "date": "2014-12-02T08:19:21Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f695865db0c36cd23395aee461e318fc6940d3b3",
+      "date": "2014-12-02T08:15:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e560835f7c5e08cfa1a496fd0db5a672d41d1bdf",
+      "date": "2014-12-01T08:09:34Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "df8cdc7c0d7c7760e1692ea5d125e7b8e9433175",
+      "date": "2014-11-21T13:34:41Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "4e704157866ade63f12dd5b82c0e99f7f9f22ded",
+      "date": "2014-11-21T13:30:42Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c9ec3fa303b47783a9a2e555d4ebdd62e5ccb026",
+      "date": "2014-11-21T13:13:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "53a0b692548e15dbb7b808afadb1b3a3d782539a",
+      "date": "2014-11-21T13:13:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2f54c08f8948f579e1842964e5af4a898da5fff8",
+      "date": "2014-11-21T13:13:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7fc8576b6c1f25dd439c6c661238973b2fd8d217",
+      "date": "2014-11-21T13:13:14Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2024947e77bcbcac483a026ab654c776c01964fa",
+      "date": "2014-11-11T05:45:16Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b532e647da16be3f20bc9c3148aa5ce1aa9d9e9a",
+      "date": "2014-11-11T05:35:27Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c465be5b2bb93a150e66c76e9b810aeb49de3173",
+      "date": "2014-11-11T04:40:13Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "041802a2d92d8fae9e74a2e3816776b48ec345f5",
+      "date": "2014-11-11T03:32:52Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1a6d9dcd3d579de3f24956ba2a7b88b6d3d78bb6",
+      "date": "2014-10-07T22:21:58Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "09462b51e61ff7d3b05f8877e78979511cc1d610",
+      "date": "2014-09-25T06:37:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7210bc73662560171b8f291ed9cd81a34ce1e9ec",
+      "date": "2014-09-21T01:18:55Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f88048e0ff5fb3f1b07455a286e0124b919523a4",
+      "date": "2014-09-14T19:09:04Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "edfe18464539eefacbe14aae25e9cb45b1b90054",
+      "date": "2014-09-14T18:50:04Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "42aa2daba4a9c4aea3c4c39d8254753322b03116",
+      "date": "2014-09-14T18:45:22Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7479bb306db100d789b315c5f4791cd9f9404313",
+      "date": "2014-09-14T06:04:15Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "d76773e7ae6b47c758601a13b4a6ba000b69acc7",
+      "date": "2014-09-14T05:58:42Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "226d9ac09ea83de96c8c3d6c717d10bec7aa6a3d",
+      "date": "2014-09-14T05:14:17Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b032930e4f8a78c59e6bb8246b66ee836c5c5737",
+      "date": "2014-09-14T05:11:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "224ca389d7cd6670bce699e6109fab3684ab439c",
+      "date": "2014-09-14T05:07:44Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "30525735a75dcf027be9f366b002ec5479c5373f",
+      "date": "2014-09-14T04:42:12Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "84b368112d51709657e4617efdbbbba7fcf65365",
+      "date": "2014-09-14T04:21:12Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "59575bc484b1eb12e461085cb0b296be9ff347b1",
+      "date": "2014-09-14T04:17:30Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "65bae12bc154ba0fe397989e08c68788b9be7323",
+      "date": "2014-09-14T03:26:03Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "753126428bbdeed87ae232165cbecbd96801dccc",
+      "date": "2014-09-14T02:53:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "982daafb7dbf991f16961217ce07989c5b975181",
+      "date": "2014-09-13T07:21:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "35d12b354398711f77e847b643c4210ae5cb0b70",
+      "date": "2014-09-13T06:44:51Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "62363e48f2fcc56341ecf704d2bdcaa6338fc8d9",
+      "date": "2014-09-09T07:26:49Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a29094b72a1d1eb9e60cee29a7d2ea351268ed61",
+      "date": "2014-09-09T07:25:20Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7a0251beface59a15252b83272c0cc1064be9101",
+      "date": "2014-09-13T05:56:24Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7e1f2496c597786d380095c355029c0f76c75670",
+      "date": "2014-09-13T05:34:56Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "3c12086ad96c823d2c308926b38a7a29849045eb",
+      "date": "2014-09-13T05:25:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e16604a2373fd4fddd317f2d3c389aee35830e5a",
+      "date": "2014-09-13T05:21:21Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c325c5a3af58ab0e11d838cef840ba715a862c11",
+      "date": "2014-09-13T05:18:59Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ad7c17707668ba5ee0059d4355c406d87551bd8e",
+      "date": "2014-09-07T17:21:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "714913ef27a843a2f84d0c1bd1f7bd697751f77e",
+      "date": "2014-09-07T07:35:39Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "300cd3a0f2e199c5ccc238f13fa9ca7e2f0e436c",
+      "date": "2014-09-07T02:53:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "206f57cce0e0e80c9eadb0f527bb0e2827404e86",
+      "date": "2014-09-07T02:31:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "22edaae69024645883dd07630c68cd56a7c1fea5",
+      "date": "2014-09-07T02:04:45Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6d6d9f9adfa1bff68a134913e2ce6af8f7ae851e",
+      "date": "2014-09-07T01:59:21Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a08b381925e42c36cd1232fa2cd8fbadf907262f",
+      "date": "2014-09-07T01:48:16Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "cd3cfa38cd68aaf2095d9316d1a3733d8b5d7eee",
+      "date": "2014-09-07T01:24:14Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "15c8b96635a7a9b68343616d61c1f5902291b4b6",
+      "date": "2014-09-07T01:07:32Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b54a0ab61d6de7c0cdb237cea5d0dd0d4e279965",
+      "date": "2014-09-07T00:41:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5645cbbee6aa2f3a5058787faf60d09c2da0f056",
+      "date": "2014-09-07T00:41:07Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e7ae4b63512c4f4453cdff4818efe5090624fb38",
+      "date": "2014-09-06T23:15:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7338ee4ef752eeee9d50fa6c55e47db95819fedc",
+      "date": "2014-09-06T23:08:57Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "3475197cffab6d7c2986053314c4ab3aa7eda83a",
+      "date": "2014-09-06T22:47:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "d767d1a1e7ca5f2a7d2fd0a9d797d1117012b721",
+      "date": "2014-09-06T21:29:07Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5c742494da77c26a299c7288dbd1789301dd54b2",
+      "date": "2014-09-06T19:50:53Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "8bb64fa786ee438bb39315f97ea9d412e2600514",
+      "date": "2014-09-05T08:07:22Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "b4c3c342bca07ca5972a442bbfa2de2fa50c69f6",
+      "date": "2014-09-05T06:31:01Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "4d122d25f71e58416cd8443a940dc59c15e81772",
+      "date": "2014-08-25T18:45:57Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c155377b0c67b454aaed959ba1dc3d5c7c72af23",
+      "date": "2014-08-25T18:03:47Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "fa1c5298566d10de6d77be8fe7caee58bb003dde",
+      "date": "2014-08-01T21:38:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "7f31e4bcb1f84aba8868b2055fd62fc0da0de38e",
+      "date": "2014-07-23T01:15:59Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "8b96101ab2636cd15d1264a27c7daeeb4107f1a1",
+      "date": "2014-07-14T20:04:30Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c891034b8a82ccbfd9e33cdf676a359d99ebd2ba",
+      "date": "2014-07-14T19:58:40Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "aba2531fc18e6ea39ecf72d9902a80d3d9a39b48",
+      "date": "2014-07-14T19:55:33Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "967028ca84bdaa741c7455afb51934b0c6be2dec",
+      "date": "2014-07-13T23:44:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f3f878ff7aaaa6b43f7f663bc070ef1152ea7964",
+      "date": "2014-07-13T21:38:38Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "9ed9e2dca9cc32fb4a2d60948fea0381c4e71520",
+      "date": "2014-07-13T21:34:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6b9ef9c0e67496ee78799ef4250a2edd3b6752cc",
+      "date": "2014-07-13T20:51:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a98b97de9714e4c3362de53d2a49f665a29f9090",
+      "date": "2014-07-13T20:41:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "68a8a5284950457fbaa72b4a1184804ba3e9e249",
+      "date": "2014-07-13T20:33:20Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "099ff531607424446ef982c4ae9afea94439617b",
+      "date": "2014-07-13T20:26:35Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "776d3cf9754426a881cc8a37a196f069d0f643b3",
+      "date": "2014-07-13T20:26:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "08cfd8af3847e5828e1cc2a8ff4ae3ab5883680d",
+      "date": "2014-07-13T20:18:13Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "18f3192faad65b3310d3a26e902fc0a4d673288e",
+      "date": "2014-07-13T20:17:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1b8400da7541f3f4a02327b6beebe597301bc15a",
+      "date": "2014-07-13T19:51:35Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c993b9e301648d26aa892e8e843868485bf5fe5d",
+      "date": "2014-07-13T19:50:53Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "24503f6a963a9d3089182374c656982fe01a38f2",
+      "date": "2014-07-13T19:40:41Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "91bd47a19ebd6ac1aafe1e6d379f89a66831c75a",
+      "date": "2014-07-13T19:29:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a9845f06f1344a6542ab89b10ac1c92330141e3c",
+      "date": "2014-07-13T19:25:39Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a27da5ca270d450270a98a8e6876b0a6b16d5170",
+      "date": "2014-07-13T19:21:50Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5e725e3b268ef799d0856d5682d235250618043c",
+      "date": "2014-07-13T19:18:17Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "386185df50539af23a92c77501f3eedd718a956a",
+      "date": "2014-07-13T18:33:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "d21781545cf39fbd33d9c627360923e61106dd75",
+      "date": "2014-07-13T18:13:57Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "4eb360f7f50f2537b6f31ccc51bdb0d71e9b3a88",
+      "date": "2014-07-13T18:06:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "c2ffeaf4336f44f1a5c23ed5a57f2367c6fd4499",
+      "date": "2014-05-17T19:26:50Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "4e75879c8ed4b30b8af83d1a1faeed5895ac851c",
+      "date": "2014-04-05T19:21:22Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "8b7107dcfabdf781dc7d82ffde40f92033caafaa",
+      "date": "2014-04-05T19:13:29Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "52fd47053552831a8a31eed43980f80d5085d18b",
+      "date": "2014-03-12T06:15:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1ad40b93c3be66363519404966146cbc9502f5c2",
+      "date": "2014-07-08T18:01:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "ee7abd949734ceb1da2b17eb6c546973b502e8ec",
+      "date": "2014-07-08T17:59:03Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "4d93c002557e4e9cd21a5dd3c7c0d22e243c5a62",
+      "date": "2014-04-05T19:30:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "8bc5f17b91bf21018761b8c144a6d9a9fca0399a",
+      "date": "2014-03-12T06:33:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "0efff39a3f29ab202fcc32b18dbef8b7e3c732c9",
+      "date": "2014-03-12T05:09:33Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "6068a7e6a611a248f5a4183035ada7efe493df2c",
+      "date": "2014-03-12T05:07:30Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "8e571c831c91811bff38e41f2081f3e93c7c5005",
+      "date": "2014-03-12T05:02:34Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "1bc68ea4d2d3a71727f0295921469bc6b1fcefd9",
+      "date": "2014-03-12T04:47:42Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "97ce9319471f0434ee2f87afdc98db59c775f414",
+      "date": "2014-03-12T04:42:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2f5f562cdb938dad711650efb254bbbf2ea7d66e",
+      "date": "2014-03-12T04:38:50Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "a2bcdaeb8b50bb5d0291bc9dd5078da9a6c796e4",
+      "date": "2014-03-12T04:42:43Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "13a266befe18fd74ed420e66f8d2f0bcefc04605",
+      "date": "2013-09-13T02:57:55Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "5a2a9c5362b05de25cae494e67e4619048526932",
+      "date": "2013-09-13T02:49:35Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "cce93a92a50395905618dcdb5bd27ade13319838",
+      "date": "2013-09-13T01:45:50Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "041d0bc225d65a6e0e20d613cedeb3dd9eb70a6e",
+      "date": "2013-09-13T00:59:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "24327396b537b85f0d87643bfa415124b8320d15",
+      "date": "2013-09-13T00:31:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "94f36243e404e254fe7e59947fa965ce26409fdb",
+      "date": "2013-09-12T23:03:27Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "39fb64b4675cee6d3b9e2559dd0bcc083dadbc47",
+      "date": "2013-09-11T08:02:39Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "3e38fbbe4150f8169a2b865ac9f2b0a7086bb124",
+      "date": "2013-09-11T07:34:32Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "03aeb9be213a030ef803e0b4955d5369c6ea4a3d",
+      "date": "2013-09-03T07:07:52Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "de3522dd93dba2e8a4179c413e2f8abcd6520e4b",
+      "date": "2013-10-20T23:47:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 28748913,
+      "date": "2013-11-18T23:16:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 32303073,
+      "date": "2014-01-14T20:18:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 33726020,
+      "date": "2014-01-30T19:52:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 36084742,
+      "date": "2014-02-26T02:34:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 36274729,
+      "date": "2014-02-27T18:33:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37675681,
+      "date": "2014-03-14T17:43:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37901430,
+      "date": "2014-03-18T05:46:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 37901649,
+      "date": "2014-03-18T05:51:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 38305036,
+      "date": "2014-03-21T18:04:21Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 38305371,
+      "date": "2014-03-21T18:07:13Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 38305502,
+      "date": "2014-03-21T18:08:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 38305568,
+      "date": "2014-03-21T18:08:49Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 39646665,
+      "date": "2014-04-05T18:28:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 41828639,
+      "date": "2014-04-30T18:03:22Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 42342033,
+      "date": "2014-05-06T18:41:40Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 42985360,
+      "date": "2014-05-13T17:24:14Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 43394170,
+      "date": "2014-05-17T01:36:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 46899951,
+      "date": "2014-06-23T20:49:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48377537,
+      "date": "2014-07-08T18:08:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48378111,
+      "date": "2014-07-08T18:13:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48852033,
+      "date": "2014-07-13T21:10:58Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48852078,
+      "date": "2014-07-13T21:13:10Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48852104,
+      "date": "2014-07-13T21:14:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 48853562,
+      "date": "2014-07-13T22:23:55Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 49821581,
+      "date": "2014-07-23T01:06:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 49822247,
+      "date": "2014-07-23T01:17:15Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 50938170,
+      "date": "2014-08-01T21:42:58Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 53300509,
+      "date": "2014-08-25T17:54:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 53301233,
+      "date": "2014-08-25T17:58:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 53309689,
+      "date": "2014-08-25T18:49:36Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 55482698,
+      "date": "2014-09-13T05:38:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 55515480,
+      "date": "2014-09-14T04:50:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 55515504,
+      "date": "2014-09-14T04:51:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 56306074,
+      "date": "2014-09-21T17:33:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 56776234,
+      "date": "2014-09-25T05:46:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 58273697,
+      "date": "2014-10-07T22:30:13Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 58274261,
+      "date": "2014-10-07T22:35:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 58275226,
+      "date": "2014-10-07T22:45:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 58275276,
+      "date": "2014-10-07T22:45:38Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 61739579,
+      "date": "2014-11-05T00:18:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62496336,
+      "date": "2014-11-11T03:19:41Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62496552,
+      "date": "2014-11-11T03:22:58Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62497582,
+      "date": "2014-11-11T03:38:06Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62497778,
+      "date": "2014-11-11T03:41:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62498192,
+      "date": "2014-11-11T03:47:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62501488,
+      "date": "2014-11-11T04:44:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62586090,
+      "date": "2014-11-11T17:44:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62586110,
+      "date": "2014-11-11T17:44:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62929567,
+      "date": "2014-11-13T17:16:01Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62930427,
+      "date": "2014-11-13T17:21:17Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62931720,
+      "date": "2014-11-13T17:29:36Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 62936043,
+      "date": "2014-11-13T17:55:36Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 63971656,
+      "date": "2014-11-21T13:47:43Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 63971661,
+      "date": "2014-11-21T13:47:44Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 64999572,
+      "date": "2014-11-30T20:46:38Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 65137413,
+      "date": "2014-12-01T21:26:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 65364138,
+      "date": "2014-12-03T07:06:56Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 65370396,
+      "date": "2014-12-03T08:26:43Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 65839398,
+      "date": "2014-12-05T19:15:32Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 66226736,
+      "date": "2014-12-09T02:46:21Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 66227452,
+      "date": "2014-12-09T02:56:29Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 66720434,
+      "date": "2014-12-12T01:40:47Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 66720979,
+      "date": "2014-12-12T01:47:20Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67111423,
+      "date": "2014-12-16T04:34:27Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67112164,
+      "date": "2014-12-16T04:48:52Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67112193,
+      "date": "2014-12-16T04:49:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67579502,
+      "date": "2014-12-19T00:08:45Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67579744,
+      "date": "2014-12-19T00:11:21Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67666866,
+      "date": "2014-12-19T17:12:59Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67893477,
+      "date": "2014-12-22T21:41:20Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 69488501,
+      "date": "2015-01-11T09:33:27Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 69537730,
+      "date": "2015-01-12T07:55:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 69703784,
+      "date": "2015-01-13T07:07:10Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 70352731,
+      "date": "2015-01-17T03:28:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 73197622,
+      "date": "2015-02-06T07:39:58Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 73457871,
+      "date": "2015-02-09T05:01:00Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 73835387,
+      "date": "2015-02-11T05:16:23Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 74191235,
+      "date": "2015-02-13T01:48:47Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 74191256,
+      "date": "2015-02-13T01:49:03Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 75889414,
+      "date": "2015-02-25T01:40:52Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 75889856,
+      "date": "2015-02-25T01:45:13Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 75890399,
+      "date": "2015-02-25T01:50:34Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 76016685,
+      "date": "2015-02-25T17:51:34Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 76033251,
+      "date": "2015-02-25T19:11:29Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 76128446,
+      "date": "2015-02-26T06:22:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 76211603,
+      "date": "2015-02-26T16:36:19Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 76474195,
+      "date": "2015-02-27T21:23:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 77316888,
+      "date": "2015-03-05T07:05:03Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 78207388,
+      "date": "2015-03-11T05:29:24Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 78210944,
+      "date": "2015-03-11T06:13:56Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 79439864,
+      "date": "2015-03-13T21:42:18Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 79536711,
+      "date": "2015-03-13T23:48:53Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 87287608,
+      "date": "2015-03-28T19:19:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 87287654,
+      "date": "2015-03-28T19:20:36Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 88350149,
+      "date": "2015-04-01T04:56:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 88350269,
+      "date": "2015-04-01T04:57:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 89391043,
+      "date": "2015-04-03T18:52:49Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 89945320,
+      "date": "2015-04-06T06:35:35Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 89958853,
+      "date": "2015-04-06T07:27:26Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 91891649,
+      "date": "2015-04-11T17:43:51Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 94344492,
+      "date": "2015-04-20T02:56:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 95987801,
+      "date": "2015-04-24T16:40:30Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 100033056,
+      "date": "2015-05-07T22:00:02Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 110922015,
+      "date": "2015-06-10T21:37:29Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 110927810,
+      "date": "2015-06-10T21:55:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 111559490,
+      "date": "2015-06-12T17:07:55Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 111576040,
+      "date": "2015-06-12T18:01:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 112130824,
+      "date": "2015-06-15T16:39:34Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 112840051,
+      "date": "2015-06-17T15:16:07Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 112917604,
+      "date": "2015-06-17T19:15:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 114622312,
+      "date": "2015-06-23T19:49:41Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 114638680,
+      "date": "2015-06-23T20:51:11Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 114690896,
+      "date": "2015-06-24T01:16:46Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 114924329,
+      "date": "2015-06-24T15:56:40Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 117313861,
+      "date": "2015-06-30T19:29:31Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 117732073,
+      "date": "2015-07-01T16:11:44Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 120056869,
+      "date": "2015-07-09T16:22:06Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 127680623,
+      "date": "2015-08-04T17:17:15Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 127707327,
+      "date": "2015-08-04T18:40:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 132451289,
+      "date": "2015-08-19T05:31:12Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 132453756,
+      "date": "2015-08-19T05:47:54Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 137519405,
+      "date": "2015-09-03T17:24:07Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 137627268,
+      "date": "2015-09-04T02:18:20Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 137655934,
+      "date": "2015-09-04T06:04:25Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 138015581,
+      "date": "2015-09-06T00:49:34Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 138153437,
+      "date": "2015-09-07T01:38:05Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 138666586,
+      "date": "2015-09-08T18:48:37Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 144469592,
+      "date": "2015-09-30T16:36:28Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 144867874,
+      "date": "2015-10-01T22:38:32Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 144868429,
+      "date": "2015-10-01T22:41:58Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 147615489,
+      "date": "2015-10-13T06:10:35Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 148787714,
+      "date": "2015-10-16T18:06:04Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 155897330,
+      "date": "2015-11-11T20:10:47Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 24369510,
+      "date": "2013-09-13T02:30:48Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 25016249,
+      "date": "2013-09-24T15:41:09Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 26740475,
+      "date": "2013-10-21T17:59:36Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 26752376,
+      "date": "2013-10-21T20:18:20Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 27064435,
+      "date": "2013-10-25T05:18:50Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 27133921,
+      "date": "2013-10-25T23:46:32Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 583,
+      "date": "2013-10-21T19:58:38Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 582,
+      "date": "2013-10-21T00:01:08Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 75,
+      "date": "2015-04-11T17:42:49Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 1801,
+      "date": "2015-04-16T21:25:27Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 707,
+      "date": "2013-12-31T19:45:21Z"
+    },
+    {
+      "dev_id": "sds",
+      "repo": "bbatsov/rubocop",
+      "type": "issue",
+      "id": 483,
+      "date": "2013-09-13T02:27:56Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "f81eac4657b117dfba1eaf682eaefdce33070679",
+      "date": "2014-12-19T12:46:21Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "093fd4b689bef205cab6eca92bbfe17d1919262e",
+      "date": "2014-12-19T04:48:52Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "90784717ec83d4d5202aec666f786600b992b3b6",
+      "date": "2014-12-18T20:52:59Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "da6a40b9784661d61fdf21879d5fbf3c337b78ce",
+      "date": "2014-12-09T16:02:51Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "e6fb4074b2b12ef902a46d2aca4cfa3ff4c05557",
+      "date": "2014-12-08T15:02:41Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "commit",
+      "id": "2a16e78f908b16df62002c36addc8212c6566094",
+      "date": "2014-12-08T20:52:25Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "bbatsov/rubocop",
+      "type": "commit",
+      "id": "a3fc31ea904901604035eba80dd49b951afb9048",
+      "date": "2013-10-07T18:26:30Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67162798,
+      "date": "2014-12-16T13:59:37Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "com",
+      "id": 67670466,
+      "date": "2014-12-19T17:39:38Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "bbatsov/rubocop",
+      "type": "com",
+      "id": 25973050,
+      "date": "2013-10-09T13:59:09Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 55,
+      "date": "2014-12-19T04:54:03Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 54,
+      "date": "2014-12-18T22:16:11Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 50,
+      "date": "2014-12-09T16:07:30Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 48,
+      "date": "2014-12-08T21:01:20Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "pr",
+      "id": 47,
+      "date": "2014-12-08T20:57:32Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "bbatsov/rubocop",
+      "type": "pr",
+      "id": 549,
+      "date": "2013-10-07T18:29:56Z"
+    },
+    {
+      "dev_id": "seanwalbran",
+      "repo": "brigade/haml-lint",
+      "type": "issue",
+      "id": 49,
+      "date": "2014-12-09T14:46:23Z"
+    }
+  ]
+}

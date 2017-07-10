@@ -1,0 +1,867 @@
+{
+  "user_repo": "railsconfig/config",
+  "dep_repo": "rspec/rspec-rails",
+  "dep_date": "2014-04-17 15:17:09 UTC",
+  "dep_commit_id": "e537655715d09f832ddf213ef63c92811dadef23",
+  "social_date": "2010-07-11 03:47:26 UTC",
+  "devs": [
+    "Antiarchitect",
+    "jacquescrocker"
+  ],
+  "interactions": [
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "6d726b598483ff1abccff2f9250c6bb2cfe1e985",
+      "date": "2012-03-07T16:14:05Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 5040830,
+      "date": "2012-04-10T07:58:30Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 5380412,
+      "date": "2012-04-27T12:28:19Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 6394692,
+      "date": "2012-06-18T12:31:16Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 11932798,
+      "date": "2013-01-06T19:23:03Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 17595608,
+      "date": "2013-05-08T09:42:11Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 21470511,
+      "date": "2013-07-24T08:28:44Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 43080215,
+      "date": "2014-05-14T13:33:12Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 11825636,
+      "date": "2013-01-02T21:44:24Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "pr",
+      "id": 107,
+      "date": "2015-04-01T11:29:16Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "rspec/rspec-rails",
+      "type": "pr",
+      "id": 517,
+      "date": "2012-03-07T16:14:12Z"
+    },
+    {
+      "dev_id": "Antiarchitect",
+      "repo": "railsconfig/config",
+      "type": "issue",
+      "id": 106,
+      "date": "2015-04-01T10:08:48Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "815c7c4c55243565bf262e79292f473744980234",
+      "date": "2014-04-05T21:25:32Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "5cebb8d01b37abae5dca711764eec85d27cbc4f7",
+      "date": "2014-04-05T21:16:19Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "937b530da7d975c39c0b4aeaa112ab137084c8cc",
+      "date": "2013-03-19T21:45:37Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "3a09aa350e878a0adfdfedb71fca2eab80cb4fe4",
+      "date": "2012-08-10T23:01:36Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "ec6f46d870dace3ea5f66bf06a33b16fdc28fe7d",
+      "date": "2012-08-01T23:34:45Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "8c99b223060871afd99920a8fdc2a086e95d5380",
+      "date": "2012-05-09T21:11:26Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "7626ab165084ff64ae2acd50716ea2b85dea2da6",
+      "date": "2012-05-02T02:41:35Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "19eabd617252314b62e0ed7a73eb596dfb7da279",
+      "date": "2012-04-10T19:23:21Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "e11c8bbb69b97817dd1a410f94dd54e4803eb0fa",
+      "date": "2012-03-16T21:48:32Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "83dce720c30d41545cb4d84fb4e800c3929d4500",
+      "date": "2012-03-16T17:26:33Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "777acd3f9edf9e73d52f8f32fb2861e9d7a2e555",
+      "date": "2011-05-06T09:34:10Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "13fb1963e2ba3be05fd0e7aad6abe2f1e0ccf484",
+      "date": "2011-04-08T13:58:09Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "3be0b9a0a4bf31914601dbd6f950ce2c69de3f51",
+      "date": "2011-04-08T13:57:48Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "9fb74fde57ad5b72787748761df056830815af52",
+      "date": "2011-04-08T13:12:01Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "53257274be8818f6293cab82d40cf4c3a7dfe8b2",
+      "date": "2011-04-08T13:10:41Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "c6d5693b4873f70aec22d7a2dd1ecd5391ae6ca8",
+      "date": "2010-11-18T02:08:04Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "60af943627c7db19395adced3e44e50ea79453f9",
+      "date": "2010-11-17T23:44:58Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "b1c394839b6d0882bbb80933319018ae88aa5a12",
+      "date": "2010-11-17T23:40:28Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "244ae2805a0dce9030d936d468d62fb6a7521aed",
+      "date": "2010-11-17T23:34:34Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "e25565ccfd7d161e9ff554a3b8b52707593ed88b",
+      "date": "2010-11-17T23:32:53Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "dfa1da7d0069eac19d9486337fa49dad2cacb9f9",
+      "date": "2010-11-17T23:31:33Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "430097fe8927b8acb72843d35d9894ef47f1f759",
+      "date": "2010-10-26T21:30:36Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "aa9c79f3be57623236ef9c3884c8b683468af69a",
+      "date": "2010-10-26T21:30:18Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "354e1dea203514eccd16a95b28bcacd73cedd532",
+      "date": "2010-10-26T12:48:35Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "807ab33f9d3ca7a707ed3b2a84ce0532b9875493",
+      "date": "2010-10-26T12:21:05Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "4509ee4307f0ec368d0e252dce61be771846dfca",
+      "date": "2010-10-26T12:20:41Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "4e58aa474d2dea94cfca64b8bf7787424bd5c0ad",
+      "date": "2010-09-14T02:28:26Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "5c7ce6b0a0fa9e4f8cc7dc6e43df82cf8358b783",
+      "date": "2010-09-14T02:27:43Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "3117ee1f2d9a4ee5063a56e078156068faee98a0",
+      "date": "2010-09-14T02:25:57Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "2d7c0dc3389b2c3690c04dde5bba84ffe67a2881",
+      "date": "2010-09-14T02:00:20Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "f9583bdafd744ab9b05758142dcb9777f9345b60",
+      "date": "2010-09-07T22:44:27Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "a5f7cf4f79d67ef73dc5e442bedb030fb9e9805e",
+      "date": "2010-08-11T03:41:53Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "80faf077e0dd0b18859ea64f97d73887fb84d063",
+      "date": "2010-08-11T03:41:35Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "b6ce005bc087029ce1888e3edc4059c353dac1f9",
+      "date": "2010-08-11T03:40:57Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "926e646d7eaf6fcde3adf79b0f73dd5eebafa4ba",
+      "date": "2010-08-11T02:11:15Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "0d42cd17544f6d7d1aeb2e456f06fb6bb14c8d03",
+      "date": "2010-08-11T02:10:51Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "4149ca24d1213223cdbc2fb40d91cad168bd1f7c",
+      "date": "2010-08-11T02:06:48Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "e60ec28bd85bd4175e8cf7fe7a75d821c6aa4a46",
+      "date": "2010-08-11T01:59:35Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "67d6a1c633cc31bb59243529073a0420033c35e2",
+      "date": "2010-08-11T01:22:30Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "19d2361eab0ce6d351a0f9fef99f678bbf67eef3",
+      "date": "2010-08-11T01:22:19Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "22ab958b2dd3b44abc210c11fc4ca7d77cdcc698",
+      "date": "2010-08-11T01:19:18Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "2955aae531b5b64b6d2e44cc674438f3cd8a5185",
+      "date": "2010-08-11T00:57:30Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "9b541047b7bda616ac7b17348670fb9c3348aff3",
+      "date": "2010-08-11T00:57:17Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "1c7fb7c77610e2f3014879c3dd7cb52dbcf340c1",
+      "date": "2010-08-11T00:47:51Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "f5afbe3ad32e9a9bb0bba440a839a96c4aad973d",
+      "date": "2010-08-11T00:23:10Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "7b7e6067ab1e644e45c6938360ac3055380b3615",
+      "date": "2010-08-11T00:20:12Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "3224a01cf6cdd300d2f5638c2c827ba00bbc270b",
+      "date": "2010-08-11T00:16:13Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "c5f760119a91afcf8dd379b076cc2af6989d0469",
+      "date": "2010-08-10T23:45:20Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "46d6a24a856d77fe6be57c0f1c268919abd59dd2",
+      "date": "2010-08-10T23:44:58Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "793f75a6d3fe19ec5fdc41501c9ec129410b44ad",
+      "date": "2010-08-10T23:24:36Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "d7441bba379149775df481a769ee077891da9743",
+      "date": "2010-08-10T23:24:25Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "30c64d38756197fd52d757896da10ec212e172d8",
+      "date": "2010-08-09T01:07:07Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "3d13946cfe8a66b8cbf54caf89ceb48de4e9a64e",
+      "date": "2010-08-09T01:05:29Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "c27b36a43585ef622b00ac962c762cbec7785d0a",
+      "date": "2010-08-09T01:02:20Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "be8a56b78353116911842d70789afb71084c6167",
+      "date": "2010-08-08T23:58:09Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "5a25d140f68ab5b1588aa35bd375a42cf023b95b",
+      "date": "2010-08-08T23:57:10Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "3221dff29ba20d6f934eb63a4525045599425474",
+      "date": "2010-08-08T23:54:12Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "66c70344e50f086b9f45d85db3e9111d6448d323",
+      "date": "2010-08-08T04:07:52Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "98ad5bf040076585105425acff18920d281a967d",
+      "date": "2010-08-08T01:25:19Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "1ce3c38031f5df49f20d68425a1f3bec2e1f953b",
+      "date": "2010-08-08T01:17:46Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "f380344f8b77c1ee9de13ad031824684c72a8c5a",
+      "date": "2010-08-08T01:11:10Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "85ee063eaf42e375909a39606edc285eceb51bf5",
+      "date": "2010-08-08T01:07:33Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "b57bb9c68e4488dc1b8aeb12259b41c7fb76ccbb",
+      "date": "2010-03-21T20:24:06Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "af8a018ad5d2918e3882956589371ec1dac08d14",
+      "date": "2010-03-21T20:21:18Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "e0d5178b7295db1b24ab09ce2c8a7ad96514ade0",
+      "date": "2010-03-21T20:19:40Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "09af868812b69cd1e63e0e29d7d1a9a08af0e6ec",
+      "date": "2010-03-21T20:02:58Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "commit",
+      "id": "bd77665f164a554d0c8d1f003e38bd25be271709",
+      "date": "2010-03-21T20:02:58Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 394128,
+      "date": "2010-09-07T22:45:20Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 405211,
+      "date": "2010-09-14T02:17:49Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 493644,
+      "date": "2010-10-26T12:51:42Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 495134,
+      "date": "2010-10-26T21:26:26Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 495153,
+      "date": "2010-10-26T21:32:13Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549259,
+      "date": "2010-11-17T22:51:16Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549263,
+      "date": "2010-11-17T22:52:09Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549377,
+      "date": "2010-11-17T23:35:57Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549379,
+      "date": "2010-11-17T23:36:22Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549406,
+      "date": "2010-11-17T23:44:22Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549428,
+      "date": "2010-11-17T23:55:10Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549483,
+      "date": "2010-11-18T00:20:23Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 549655,
+      "date": "2010-11-18T02:09:02Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 4544184,
+      "date": "2012-03-16T17:26:43Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 5054024,
+      "date": "2012-04-10T19:23:07Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 5453028,
+      "date": "2012-05-02T02:41:31Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 5611845,
+      "date": "2012-05-09T21:09:43Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 5611907,
+      "date": "2012-05-09T21:11:53Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 7661126,
+      "date": "2012-08-10T23:00:50Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 7661145,
+      "date": "2012-08-10T23:01:46Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 8210841,
+      "date": "2012-09-01T07:37:06Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 8514158,
+      "date": "2012-09-12T23:51:26Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 9323665,
+      "date": "2012-10-10T23:34:18Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 13819145,
+      "date": "2013-02-20T07:20:28Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 15145316,
+      "date": "2013-03-19T21:45:42Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 17619576,
+      "date": "2013-05-08T17:04:08Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 20073522,
+      "date": "2013-06-26T19:27:32Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 39152880,
+      "date": "2014-03-31T23:00:07Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 39152966,
+      "date": "2014-03-31T23:01:17Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 39650813,
+      "date": "2014-04-05T21:04:27Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 39650868,
+      "date": "2014-04-05T21:06:38Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 39651447,
+      "date": "2014-04-05T21:31:35Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 39651463,
+      "date": "2014-04-05T21:32:21Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 39651486,
+      "date": "2014-04-05T21:33:10Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 40124911,
+      "date": "2014-04-10T19:01:57Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 40407044,
+      "date": "2014-04-14T19:22:56Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 40776200,
+      "date": "2014-04-18T00:07:59Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "com",
+      "id": 44490828,
+      "date": "2014-05-29T03:27:49Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 307384,
+      "date": "2010-07-11T03:47:26Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "issue",
+      "id": 72,
+      "date": "2014-04-13T06:19:22Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "issue",
+      "id": 70,
+      "date": "2014-04-05T21:04:03Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "issue",
+      "id": 5,
+      "date": "2010-09-14T02:12:37Z"
+    },
+    {
+      "dev_id": "jacquescrocker",
+      "repo": "railsconfig/config",
+      "type": "issue",
+      "id": 4,
+      "date": "2010-09-14T02:09:25Z"
+    }
+  ]
+}

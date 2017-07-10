@@ -1,0 +1,1940 @@
+{
+  "user_repo": "data-axle/cassandra_object",
+  "dep_repo": "twitter/thrift_client",
+  "dep_date": "2012-03-22 16:35:14 UTC",
+  "dep_commit_id": "60da9e6c0b4c34cbd67c210a4db1f0446bddf7c8",
+  "social_date": "2009-10-14 04:03:15 UTC",
+  "devs": [
+    "ryanking",
+    "eweaver@twitter.com",
+    "jmhodges",
+    "grantr"
+  ],
+  "interactions": [
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "8a67ee20cc6c0d13dcb990c1521f7a31b49216cf",
+      "date": "2010-02-26T18:10:08Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "4e1ef590f83b4e58928f76b7c5edf7fd9736d04b",
+      "date": "2010-02-26T18:08:59Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "62774d46a400d949281416bb380706ec93dfe773",
+      "date": "2010-02-05T18:48:09Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "e51b61e8b320e2e0a1809c535542db5e62a15d10",
+      "date": "2010-01-12T01:17:37Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "f1bfcea4b7429b14d484252bc8e66e1e8d9f7d15",
+      "date": "2010-01-11T21:56:35Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "e5e7a3d55e95ae29a4be15e95c8cac3b44ddcd30",
+      "date": "2010-01-11T20:50:26Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "d73c293c6b25dc33b3180fb4a293ba2ae45ae879",
+      "date": "2010-01-08T23:47:31Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "4a439323cabbf6239b24375a14c52bfc8a7ad8ef",
+      "date": "2009-12-17T01:20:59Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "be7eae5969778e6216ce37c5f55c29e87606fd11",
+      "date": "2009-12-08T21:54:53Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "f1e8bb86912925b2559d2c6075b9e5526079aaf3",
+      "date": "2009-12-08T21:50:17Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "f6b627efcef4bc9e723b69fa138be2ea4247b469",
+      "date": "2009-12-08T21:49:27Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "fccf3bf465dc9b540a96232668cfe544d8aa5eb1",
+      "date": "2009-11-12T22:06:07Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "c176e304dededa5d627dca13f342701e70518072",
+      "date": "2009-11-12T19:04:34Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "52f83bc2b69ce893a08d40c60bb6db8f1bfcafaf",
+      "date": "2009-11-05T23:42:25Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "f12421aefc6509dcc1171da766435cff82d9ee67",
+      "date": "2009-11-05T22:53:02Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "4745da3dab648b533927a96e82db467063b3e136",
+      "date": "2009-11-05T22:19:25Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "ab48a824483111454d166ea52a09c132bed30d71",
+      "date": "2009-11-05T22:04:15Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "cbe42c778c5f211189f5866abb6f0e8b8144a28c",
+      "date": "2009-11-05T00:45:25Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "ac7789cee110a7c64602a9bb7bd4740f82226ea8",
+      "date": "2009-11-05T00:42:58Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "0811f351d386713828f410fdd6b66ddca49cbcc2",
+      "date": "2009-11-04T22:07:27Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "87304d4fccfe7a861a32efe1df3d8a5ace5a9956",
+      "date": "2009-09-25T00:36:28Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "e27c73398eecb3fde74fb06efcb5695a0c8cd353",
+      "date": "2009-09-25T00:33:38Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "9b7dba93694df18240ced836f1a94f15689a6433",
+      "date": "2009-09-09T01:17:48Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "f96d5269ecb4fe4faa1bdca89ae37425b59c285d",
+      "date": "2009-09-09T00:53:43Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "88d5aac850ba470f967115dd84f517d7aed029f3",
+      "date": "2009-09-08T23:55:23Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "13e2ae4a3e6137170ef388b01beaf190b7162496",
+      "date": "2009-09-08T23:09:13Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "d3b44c3e80ee9fd0137f540376886d1396cc3e9d",
+      "date": "2009-09-04T21:45:34Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "181bb2d5b672bd6f44616a54e44cd00b859cd783",
+      "date": "2009-09-04T18:54:31Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "88762f8638635ab08f52f85ea7069fee3cabb9cf",
+      "date": "2009-09-04T18:42:52Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a87c951598b9f5a058e65b284a6a3f5dc667135e",
+      "date": "2009-09-04T00:42:01Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "0bf9eb7077de4d26746d32aa3c9c1c2dc2aa30b2",
+      "date": "2009-09-04T00:40:11Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "9e7ec3636a57f90f859425bb149a2b1f5a5844b5",
+      "date": "2009-09-04T00:25:36Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "01aa9b591583eb7f54297e8d2b11fec73b31f302",
+      "date": "2009-09-03T18:04:45Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "1e111b013599a37cb03baf09f306cf9768070ea9",
+      "date": "2009-09-02T23:33:44Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "2f738d6169016b4859f83776a4fed871eaecc846",
+      "date": "2009-09-02T23:30:22Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "c680b45a0f40341f82bf7a2775d12dbcd4634be8",
+      "date": "2009-09-02T23:10:57Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "4264437af6692cdb18b91ebc98a8ac638070f46f",
+      "date": "2009-09-02T22:02:00Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "caed05a1321c12567d83cb8cbdf9f9c69de76094",
+      "date": "2011-08-25T18:55:48Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "39403e4271008c1b03d714d6393b57a93f77e281",
+      "date": "2011-08-08T20:10:40Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b2070fd6673f1c7fcdda6bcb5d431776181449b8",
+      "date": "2011-06-30T22:23:53Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "e731c9c40a373d0b96eb8f8bee66cde51c877cf6",
+      "date": "2011-05-24T20:52:43Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "611d43c4f15a862158115b96c883367373d55ab3",
+      "date": "2011-02-23T23:33:10Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "90a9535d3064c86934968f18338d15ae9f795554",
+      "date": "2011-02-23T23:32:38Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "5f2f903990ab924d68382f22cc4b85d1dbd95c9e",
+      "date": "2010-12-08T19:25:33Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "25e8fae1386e3e9cdc25d98ba5115271243798cd",
+      "date": "2010-12-08T01:00:34Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a7c01ba70f69e87fee705e70ff61c6bec1bdef60",
+      "date": "2010-12-08T00:59:09Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "d0cde4a8c81420b875ce15e4fa30a8acaf7769dd",
+      "date": "2010-09-27T19:15:47Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "7ace99fc405130bb5306b910d8cd7a952ffb60a4",
+      "date": "2010-09-22T23:50:24Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "ddc675298f68dfb49c2e9cc5dcaacdb5771498f8",
+      "date": "2010-09-22T23:48:46Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b28ec57236072ca9eac14f7b2cf5e8ecc42b8cae",
+      "date": "2010-09-22T23:47:09Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "eab8b925280fa134a4824318234f4d9ab99856b3",
+      "date": "2010-09-22T23:44:15Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "32389e8c889fd745b60eed455a7b7a63e060ec7c",
+      "date": "2010-09-22T23:42:14Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "e7135e49b8e00e7721629df41ea8000be75ad232",
+      "date": "2010-09-22T23:41:52Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "4ee39cc80039d4d819840636d95d4d888975af10",
+      "date": "2010-09-22T23:39:26Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "aa522a6bdc1cf6b9d34355e3de5015b0ad6e39a4",
+      "date": "2010-09-17T17:19:54Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "49f1269d12b76cd934922a783ed5a4a91a4e45fd",
+      "date": "2010-09-17T17:15:15Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a71807bc558d96ecc8a7bc412b9520d0acce06f2",
+      "date": "2010-09-16T22:04:05Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "f0275d980b704d20f16725c2ab98f7e603279bba",
+      "date": "2010-09-15T21:35:43Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "719a6d349cd92fd1270b3a7cf486a36e11d69dfe",
+      "date": "2010-09-15T18:34:27Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "3c4b16c148e5e39f0791d693b0426ff55d2f79ac",
+      "date": "2010-09-14T22:44:12Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "ca88ab245f1b1c17a2b97607c4e9fc396c5d1e93",
+      "date": "2010-09-14T21:06:02Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "638f3b6b58d5ddf1d00db8340e8eaf90021dfcb6",
+      "date": "2010-09-14T20:57:50Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "650dec001a0a26a1e28e58339517084f09eeca2c",
+      "date": "2010-09-14T19:01:41Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "f4c1eabed88669243e3d8f8c1e9c5f603d887937",
+      "date": "2010-09-14T19:00:04Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "69f2727c44380c05a32483ef1c0887610f67c491",
+      "date": "2010-09-14T00:19:47Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "20fc22a75850241281b3ad3179bb1f24ae64e3a7",
+      "date": "2010-09-14T00:17:12Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "d884cbbabf1295fff14d2ae98dc453bfea458e8d",
+      "date": "2010-09-14T00:13:42Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "5846bfc3850e1df8e66a4e52ed9d60b0f2d4770b",
+      "date": "2010-09-13T23:50:16Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "bd6a4f491874a9dba31259d663010abe1c24e514",
+      "date": "2010-09-13T23:44:54Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "1a4e8d8f740c17bc5a059e9c85d736374d3416dc",
+      "date": "2010-09-13T23:37:37Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "ecf70f678eb370fe664f8936daf77320441055db",
+      "date": "2010-09-13T23:30:15Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c5e1d1921416ef07747a52598f8dcc91e3f021b2",
+      "date": "2010-09-13T23:27:15Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "d3a5548d865d232a2a8d578c3e63ef463f2fdd8d",
+      "date": "2010-09-13T23:17:58Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "7d4eab9c7ffbaab87375f9a1c8525a1f0e227186",
+      "date": "2010-09-13T21:55:30Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "7ccaec275b21f39fa36ea4c681c309ec0f9ff6ff",
+      "date": "2010-09-13T21:54:24Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "987222201c1f00dfe35db2616b1ec3bcd7d586ad",
+      "date": "2010-09-10T04:24:26Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "01e7e181a464cd62bd28546efc6f8fdbedbd8dd4",
+      "date": "2010-09-07T18:10:11Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "e77b7a2695a216c1c15df51d522c71f01ac80c01",
+      "date": "2010-08-23T20:43:44Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "7f416d280faf4f60666c202824664e2f1e742789",
+      "date": "2010-08-23T20:33:09Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "f619e8b8d5bd2c3c3a55088b5056e6acf0265d65",
+      "date": "2010-08-02T22:05:30Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "5f29f31f3b5fad3290d32cfc3485d90399651087",
+      "date": "2010-08-02T22:04:25Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "73a8c117b4b4ed523c9b8a8dfe974ad2e3785588",
+      "date": "2010-04-17T01:18:01Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "aff5177281aeac87ff93489a5459a160e2ada4ef",
+      "date": "2010-04-08T17:46:33Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a9780004bf3463ca69a0a5270bed11ea14d75171",
+      "date": "2010-04-08T17:35:04Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "5e8b523aa370c460a222739fc8a40653724b350f",
+      "date": "2010-03-31T19:10:41Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b1f51e2e00131841e367e6109cdea021b9598292",
+      "date": "2010-03-22T17:19:16Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c345f7ad7b97738294368625ef22d7ac83c62b95",
+      "date": "2010-02-24T01:12:55Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "2a8640afe1dd0b67a86f99353810cd6dc4f80ee7",
+      "date": "2010-02-18T22:08:19Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "789960d87a3f86574514bda66d82cf6170a8d80b",
+      "date": "2010-02-18T19:40:18Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c4c03b896a9eb66e698f9daeb02f4f5734b0f08a",
+      "date": "2010-02-12T21:46:06Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b48a78b9a7490b570bca73e8b48ec1e82d4263f3",
+      "date": "2010-02-12T21:45:22Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "9603612ea7f71f92be8ab8b62a60c727ef3dc92a",
+      "date": "2010-02-12T18:55:53Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "3c8bce2e1e44106f75b6cf2b2272273617de364a",
+      "date": "2010-02-12T18:15:02Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "7afb8ecbe62da6c76cd3c02f30702e6c8a2229d0",
+      "date": "2010-02-12T17:58:17Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "ff8e4d8d4d4101f019d23fee92e15798530a7067",
+      "date": "2010-02-12T17:56:57Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "6b23e8c79bbc830edebba01eaaabf6249f0f7997",
+      "date": "2010-02-11T18:34:29Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "ce7b6ffb0f12e2d9f21a7dda8250d0afe1ed7794",
+      "date": "2010-02-11T18:32:33Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "6714f2fb0314037242a4ec1ebd20d7ae778891ee",
+      "date": "2010-02-08T21:21:17Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "e1a533bd1fe0cac122dc8eb80b37a2906449e5c1",
+      "date": "2010-02-08T21:15:01Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 306011,
+      "date": "2010-07-09T17:56:05Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 306013,
+      "date": "2010-07-09T17:58:40Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 306014,
+      "date": "2010-07-09T17:59:11Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 306015,
+      "date": "2010-07-09T17:59:44Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 306464,
+      "date": "2010-07-09T23:56:23Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 347538,
+      "date": "2010-08-09T18:36:40Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 367798,
+      "date": "2010-08-23T20:25:26Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 367801,
+      "date": "2010-08-23T20:26:20Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 367807,
+      "date": "2010-08-23T20:27:15Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 367815,
+      "date": "2010-08-23T20:31:12Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 367822,
+      "date": "2010-08-23T20:32:47Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 407007,
+      "date": "2010-09-14T21:08:59Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 407009,
+      "date": "2010-09-14T21:09:35Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 424181,
+      "date": "2010-09-22T23:41:33Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 424184,
+      "date": "2010-09-22T23:43:41Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 442757,
+      "date": "2010-10-01T21:27:01Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 595769,
+      "date": "2010-12-08T01:00:57Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 595770,
+      "date": "2010-12-08T01:01:42Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 595773,
+      "date": "2010-12-08T01:02:31Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 803588,
+      "date": "2011-02-23T23:33:02Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 966264,
+      "date": "2011-04-06T21:44:01Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 1478616,
+      "date": "2011-06-30T22:20:02Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 1876957,
+      "date": "2011-08-23T04:24:32Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 1974799,
+      "date": "2011-09-02T00:09:20Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 3556274,
+      "date": "2012-01-19T01:05:10Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 3834757,
+      "date": "2012-02-06T19:14:45Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 3834772,
+      "date": "2012-02-06T19:15:07Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 8662958,
+      "date": "2012-09-18T17:31:01Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "pr",
+      "id": 12,
+      "date": "2010-09-14T21:08:19Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "issue",
+      "id": 11,
+      "date": "2010-08-13T00:59:50Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "issue",
+      "id": 10,
+      "date": "2010-08-06T22:49:03Z"
+    },
+    {
+      "dev_id": "ryanking",
+      "repo": "twitter/thrift_client",
+      "type": "issue",
+      "id": 4,
+      "date": "2010-07-08T01:26:25Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a83f80edf9c320e306c4f450bd9d40a3666d8f44",
+      "date": "2009-07-16T06:35:20Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "9b229d2831d452bcc1c023d5442b88af4c7fee7c",
+      "date": "2009-07-16T06:27:42Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "3dbae20bb749f571e1121798d9c3597fab83ed7f",
+      "date": "2009-07-16T06:09:56Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "6edb3f1aafbafda24ba37b8234e6ea9413467db7",
+      "date": "2009-07-16T05:51:18Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "b47132ac33dc4226734414c835f633c75731e479",
+      "date": "2009-07-16T05:29:45Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "665a3e578e85ffc03b41091b8d5057308b1b5906",
+      "date": "2011-02-23T07:41:14Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "f1e1da4c18f98ba9571368d9c4e3b27578323c2f",
+      "date": "2010-03-08T22:23:01Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "7a3900f7afca354836b76ecd6e7a49f77038c73c",
+      "date": "2010-02-02T03:57:04Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "fe9a9327e28f47369eddf47f81e673c4db9179e5",
+      "date": "2010-01-29T23:24:14Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a6fd0157178c08fb51fc769ee2e8a3bf81413abb",
+      "date": "2009-12-10T12:35:13Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "983f8ebf411dc4708ac7547f674e286537f56e09",
+      "date": "2009-12-10T12:28:49Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "94ba6b05b5d1e839ce89d700b67abf1d8336f92f",
+      "date": "2009-12-01T01:16:05Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "f31d744a8c550db3806be4b40f99178ca098d78a",
+      "date": "2009-12-01T00:04:14Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "2fd8b49b733f7ed16a07b5bb7bc317af5054901d",
+      "date": "2009-11-30T23:44:33Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "265b4a1e34bb182f2c855f58605bc8b8243705b2",
+      "date": "2009-11-30T23:43:32Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "dee15258316def4225483d1c8a5a1a9d31a7f459",
+      "date": "2009-11-30T23:01:56Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "2a6f6c881abad4a9a7ccacff7f2cb3c18ed7d58c",
+      "date": "2009-11-30T22:49:51Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "9d072e7382899b6403e4f3e4ef0dad77750cfd7a",
+      "date": "2009-11-12T05:38:47Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "991090cffe9c218f207e3ef453553d6dee395271",
+      "date": "2009-11-09T23:17:32Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "6bd77d806440597f234dc0c4ac60dd763a25e8c4",
+      "date": "2009-11-09T23:10:20Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "6c84df2cc607307ca902484c7d8fbf8141eac404",
+      "date": "2009-11-09T23:03:26Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "2dddfa425d82b2cfa25421bf7a7b9585a3a1e62c",
+      "date": "2009-11-09T23:01:35Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "0b05b2e3748c415c8b6a566e8fe8ad2ffb8021f3",
+      "date": "2009-11-09T22:58:46Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "433764f70234537e27b351f96f2a2f5467dddd62",
+      "date": "2009-11-09T22:57:22Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "bbc43fbd27c3073218b6a695189c53472f4d2c74",
+      "date": "2009-11-09T22:54:55Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b76df526dac3b8cd29000edb099b669dd1219370",
+      "date": "2009-10-29T22:36:28Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "d4445b16ae04b805a429a541f0bfb2290b70d14a",
+      "date": "2009-10-28T19:08:55Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "42c5f167fd99da9cd66225b1250c98d0ddad860b",
+      "date": "2009-10-28T19:04:07Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "fe1b2cd50c7db49811837f7661836985a6077e5b",
+      "date": "2009-10-26T18:43:41Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "4c9aef6da985c637decbb95a073936033e693cd9",
+      "date": "2009-10-26T18:37:47Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a57cdb0555f90f663eb16b4f710bfdfa3b464621",
+      "date": "2009-10-26T18:36:46Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a0cc0b6cbe4c2d750a6859dc49c148c3dadb54cd",
+      "date": "2009-10-20T03:04:42Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "acc21497604bcea8e435637dfd090a674c3bc399",
+      "date": "2009-10-20T03:04:10Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "1c66b46b7bf3b59cd288625bb843e827579ea7d1",
+      "date": "2009-10-20T01:35:51Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "e29316c20300681bd3dde4ebb0540e8e1a738aea",
+      "date": "2009-10-19T23:14:20Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "dbb43962d22da697bc46b591eafad68b6e76a8e3",
+      "date": "2009-10-15T00:36:01Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "36d73b97e966016559fe4dda690c0c9aa54aba7c",
+      "date": "2009-10-15T00:25:35Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "2a74d1db5b335c275fa7b5121a75ce373d222d7f",
+      "date": "2009-10-15T00:19:18Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b6f3a63f272915fbdb99eb5f7405d2bb2bc62e94",
+      "date": "2009-10-15T00:12:36Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "1251095e987b961bccac9659a842f5d40e2d7fd2",
+      "date": "2009-10-14T21:32:52Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "2037055a71ec48f193e44279f3779b7467959997",
+      "date": "2009-10-14T10:33:56Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "e9dcdab112b085372555b6ae104b7ae362b95796",
+      "date": "2009-10-14T09:54:33Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a1e73c1f36a13b86362e4b83d4cb7f52a7fce4b6",
+      "date": "2009-10-14T09:19:52Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "ab4d80bf5f56e4f817d6c413d9bf2b0461af34a8",
+      "date": "2009-10-14T09:19:22Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a9a511496be0e5afa36a8c9a375c90456b7d1fd8",
+      "date": "2009-10-14T06:25:13Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c0f87d7c09c9e0073b157485ca4073afa2fe9474",
+      "date": "2009-10-14T06:15:18Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "dafa4e9c34e33e177c48c4236a1cacf47a666207",
+      "date": "2009-10-14T04:58:05Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "3ede7f83204a042999e28cb48f275cd6f7baedaf",
+      "date": "2009-10-14T04:32:57Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "4f03e1f0fc6443f61cf77a02acb1069dd47c5f0a",
+      "date": "2009-10-14T04:18:43Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "15de9b12f928881cb073aa80e8fb605dc0b71740",
+      "date": "2009-10-14T04:15:03Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "6eeb7232075565f36b1e4f61da31d0143e150f21",
+      "date": "2009-10-14T04:07:15Z"
+    },
+    {
+      "dev_id": "eweaver@twitter.com",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "3a62d4017a29259920aa2eda9a6d6c2867eaf623",
+      "date": "2009-10-14T04:03:15Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "af8868ca8042e3605ba7217212cd3c75bfeea385",
+      "date": "2010-03-01T19:40:58Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "814a80b7809122e8831c1b3b994d791532514269",
+      "date": "2009-12-31T01:11:51Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "97cc881e15d0f9714ceca838482b58ae7c5bb1a6",
+      "date": "2010-05-15T20:57:18Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "aea3c2a4cac7a8936a97b07bbe69f1c095ace445",
+      "date": "2010-05-08T22:50:00Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c300db1d8fe7d90cbcc57926a2a7eac3911d70f2",
+      "date": "2010-03-09T20:25:34Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b89802fe90cb5445e57384cf928a1daf93a74f9d",
+      "date": "2010-03-09T20:22:54Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "502e2f21372e9a75d1687c9337a660b98341c61e",
+      "date": "2010-03-09T20:19:33Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "97ca9d3855af2d50bfb452c2dece20da70340372",
+      "date": "2010-03-03T21:44:40Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "70c34b26892818ed28102750a6669eaa239b8038",
+      "date": "2010-03-03T21:41:41Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "67dab45274551b5f933c25fb5c472aa1bb7fa313",
+      "date": "2010-03-03T20:38:18Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c823a2e55f49dc1af5412cec49f7ae12a851df49",
+      "date": "2010-03-03T09:22:10Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "2aad7d79ab2eb6be6bf47b6e7bd24d8c215d69b3",
+      "date": "2010-03-03T02:16:27Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "154df1fd03157357eca23b4200368e864e713722",
+      "date": "2010-03-03T01:41:32Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c4f6113f7b029a55bd8baa0a8b5d597e782b7a92",
+      "date": "2010-03-02T07:08:43Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b9096ef467ffaf9bcd25d63955a1e924969abfb0",
+      "date": "2010-03-02T06:59:53Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "854e69e734c730a2119cf06e5fac60924f83ac7c",
+      "date": "2010-03-01T11:29:51Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "b976e3ab24f28ceb2dc96a95e1412befbc5075f8",
+      "date": "2010-03-01T11:08:45Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "352c5aad023bffb3a753cce38b57e34bea99a0e4",
+      "date": "2010-03-01T11:06:12Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "5a804abd331e1c266dd81124a2bfc66bf55a52f3",
+      "date": "2010-03-01T11:02:20Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "10ad4e568eb2ef3845f17157c05f150987c3138a",
+      "date": "2010-03-01T10:56:49Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "c3361286d2069c0bacc6b6af5e3375270f176288",
+      "date": "2010-03-01T10:52:26Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "1a9438fae10dc0a674f0f1aad91d538055135c72",
+      "date": "2010-03-01T10:34:13Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "a59d91e0cdab6a773b608eda66902988a6c2b989",
+      "date": "2010-01-11T20:53:53Z"
+    },
+    {
+      "dev_id": "jmhodges",
+      "repo": "twitter/thrift_client",
+      "type": "commit",
+      "id": "89d6a07e551a690860ce9e8ed15cec8ed1e61af7",
+      "date": "2010-01-11T20:40:07Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "3756c78833845eb29a28a0222a7d491859570635",
+      "date": "2011-08-10T01:32:44Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "57637b99bf6c479032eb42b5c97d142863a999d1",
+      "date": "2011-06-14T18:20:48Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "ccbb4f9983f1187530fc58c8c36222400a413403",
+      "date": "2011-06-10T18:29:33Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "ef22b14a1c00a7c6d9d057717ef57942c1b24cc5",
+      "date": "2011-06-10T18:28:37Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "49b63340db96cf59d7d53f85a9b9cd0cbca956ff",
+      "date": "2011-06-10T18:28:03Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "12cb34429647e4f97e2e54872900893827a545d5",
+      "date": "2011-06-10T18:18:47Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "cc31862c7446fb72947cd8e615410fb97fdc7010",
+      "date": "2011-06-08T21:21:08Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "dd234f28848be8195c65021a5001703c4be8c813",
+      "date": "2011-06-08T21:20:04Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a179c3785dd0cb28ffa20ada699bfb37b36034ee",
+      "date": "2011-05-26T00:15:22Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "89acfb8b80add5213e7b7fadbcc1a08df0d1e0a5",
+      "date": "2011-05-26T00:14:19Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "2faa40f3b2a7e18bc5eda510c050c98c968ddeb0",
+      "date": "2011-05-26T00:13:58Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "1134677d503e9f5c7c5d0d2d1ad357c64f2440cf",
+      "date": "2011-03-12T00:55:00Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "6f8dd8a3ef36871996222e41613ca864b8a66eea",
+      "date": "2011-03-12T00:54:34Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "c944b573f29f6245453dcbcd4926c0c87224e339",
+      "date": "2011-03-11T20:43:13Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a525a5b47a66c5a9141e1bb39cd955599cdacad0",
+      "date": "2011-03-11T20:41:58Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "befcf362a7ac097d2be32678181689d579200a0f",
+      "date": "2011-03-11T03:18:56Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "c8b2608aa4c10ef57702ef9239e21ce5cc7bee7b",
+      "date": "2011-03-11T03:18:04Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "5182868a66666050910eff25fc41e965f22a3038",
+      "date": "2011-03-10T01:35:22Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "91a976bf51cce3198bf2c48d08ed9fdffece57bf",
+      "date": "2011-03-10T01:35:03Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "774bee67d9b642983f10db7bed0fdc9c53cac216",
+      "date": "2011-03-10T01:15:21Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "06e63c9d5133822ee8685e8ef2a0710d61309555",
+      "date": "2011-03-09T23:18:41Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "bca24bd5d53fd1edbba37505fd945af6db64b968",
+      "date": "2011-03-09T23:13:36Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "3247f6e85f647ac1965ce3f87be596bbe39f00ad",
+      "date": "2011-03-09T23:13:03Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "394b3cf9211fd5d773babceebf3f8655e6664575",
+      "date": "2011-03-09T22:58:47Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "ca22b31c6abb65061101944085941878b5673f80",
+      "date": "2011-02-19T01:41:15Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "178ba5af31d1f80cbe5391392637a03673f9ebb5",
+      "date": "2011-02-19T01:40:33Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "e84006a407db38f580afa0a5b540af995e8363a9",
+      "date": "2011-02-18T02:23:39Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "6aa5ae218904e5cc78ab1c0c6f3f6ec8cfae5f45",
+      "date": "2011-02-18T01:57:05Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "8bdc8e770ec5b712fd7e4382ed2f41ae071859cd",
+      "date": "2011-02-11T19:59:43Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "1ebd239ed60260329405f0ad02bcb09c0cfcbab7",
+      "date": "2011-02-11T19:57:42Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "85f862487e8d555dc43b17ec68cb84a3f38a8d4e",
+      "date": "2011-02-10T02:04:20Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "68710099eebaa9674afff98f14123f85da715476",
+      "date": "2011-02-10T02:03:34Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "77c93544023a093572301f8b6ccdfadd89bec915",
+      "date": "2011-02-05T00:47:36Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "b5be418313ca400f09a44e7bddd06609dc23dd22",
+      "date": "2011-02-04T19:29:05Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "bf31d346ed6382595f4a4e135a147b1a7c43f0b4",
+      "date": "2011-02-04T19:28:05Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "4121583c07d2e14ccde822f2bc932d3b7bebbb79",
+      "date": "2011-02-04T19:16:50Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "1eeb5cd37909c4df6722a1861f7f337e47aca16e",
+      "date": "2011-02-04T19:16:27Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "447a547db87269ac98efb1633fd536ce531e683d",
+      "date": "2011-02-04T19:14:53Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "009256e3b33d6ab63b692b26bfee5ae26c6d7c09",
+      "date": "2011-02-04T18:42:17Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "d15bbf0691fc518e4274741a149a7d19ff63d463",
+      "date": "2011-02-04T18:39:53Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "2083fc6d960f84ff85e269fe593344df82b0d0f0",
+      "date": "2011-02-04T01:35:04Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "dc90c1afe056c573128832e2a03c7d117428ebec",
+      "date": "2011-02-04T00:19:36Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "f238a282f3e8d6dcef389514f787093679c64377",
+      "date": "2011-02-03T23:29:15Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "9ce3c6f42c4d78799c3996db2fccf21743e14d9f",
+      "date": "2011-02-03T23:29:05Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "fd6cdff131e7199d52367bbe2693c7030ce28302",
+      "date": "2011-02-03T23:27:18Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "349a58846caa72fa3ce2f96e53dba229071cb9e9",
+      "date": "2011-02-01T01:54:17Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "4ca61da1b9980800daddca2439ce681d225b4ba7",
+      "date": "2011-02-01T01:43:55Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "294d55ee1b5787e7b5be72d5275b7f57fab22c71",
+      "date": "2011-01-24T19:16:20Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "4939fdaf4ee297e8e733fce8d046853a1e4b29ee",
+      "date": "2011-01-20T19:36:51Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "154ec3dbf977c8a6b537775b82336042e66ba503",
+      "date": "2011-01-20T02:07:29Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a21fc3fd9b0abc6a30fd3ed397036751b3b5b09d",
+      "date": "2011-01-14T02:54:07Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a5661e7c3f5678c003019a3c0439fd9c255d5cd2",
+      "date": "2011-01-14T02:44:36Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "41845ac486041cd357f54f03a9448305af504d34",
+      "date": "2011-01-14T02:43:16Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "0323d51372f6310474e93db481ed7f79de208c9d",
+      "date": "2011-01-14T02:42:32Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "99381f701434a5aa8c0a7714e694a40d51854f5e",
+      "date": "2011-01-14T02:41:33Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "8eea152343630c2f9f76f7ad85b1d8f263cecb32",
+      "date": "2011-01-14T02:41:01Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "ad0925ebe670f634f2237d7a88d1fda0709c582c",
+      "date": "2010-12-30T00:29:33Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a6cc8a076e27b7f6aa1d63a69da80868f60e1f5e",
+      "date": "2010-12-30T00:12:51Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "49cf57ed599f00f50ff21472f7d7548b48c42c92",
+      "date": "2010-12-30T00:09:59Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "f51fec09c5af9e14cf3f6aa0826681412f4e6521",
+      "date": "2010-12-30T00:16:52Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "6ffc30d9b53af1cd70bb0b3a0c57ef082da42ca6",
+      "date": "2010-12-11T00:48:26Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "72558b234aa09d3abf5fdd91b198141d06189459",
+      "date": "2010-12-10T23:45:20Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "08407db8fc68632e514baae927dcbf640cbd3ca5",
+      "date": "2010-12-10T23:43:14Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "8d5ac094f5a21b7e2b92c8d1bdf74c3e469c3f73",
+      "date": "2010-12-10T23:41:41Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "c24eb005917f665a6ef4770b5a9378d70c3c3d85",
+      "date": "2010-12-10T23:21:32Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "data-axle/cassandra_object",
+      "type": "commit",
+      "id": "a9e61f730574a831d41e6864b69e99116d019159",
+      "date": "2010-12-10T23:19:04Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "twitter/thrift_client",
+      "type": "com",
+      "id": 1055060,
+      "date": "2011-04-25T21:05:49Z"
+    },
+    {
+      "dev_id": "grantr",
+      "repo": "twitter/thrift_client",
+      "type": "issue",
+      "id": 20,
+      "date": "2011-04-25T21:03:51Z"
+    }
+  ]
+}

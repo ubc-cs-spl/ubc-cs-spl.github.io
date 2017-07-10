@@ -1,0 +1,2634 @@
+{
+  "user_repo": "schubergphilis/vagrant-cloudstack",
+  "dep_repo": "fog/fog",
+  "dep_date": "2013-02-06 04:30:14 UTC",
+  "dep_commit_id": "c0285aac7a0d57cee31ce3b21cec5baa92925e9d",
+  "social_date": "2013-02-06 04:30:14 UTC",
+  "devs": [
+    "atsaki",
+    "lndbrg",
+    "loa",
+    "mitchellh",
+    "mindjiver"
+  ],
+  "interactions": [
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "ea2bb10bcd7994fc0d6c02a70bffe70cc9032cc3",
+      "date": "2015-05-24T15:09:01Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "5d90184ab5e7bc7a145c87097edadc960785a7d6",
+      "date": "2015-05-24T14:12:35Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "bea7a96bd232a8c718cfe494149a9680889d9ee9",
+      "date": "2015-02-14T06:07:19Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "77746afdf60b9a4fd078292eb362926967960427",
+      "date": "2015-02-14T06:02:00Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "771d7e80d65c9b8859912eb97c0b3ebe78ebaab1",
+      "date": "2015-02-14T05:53:05Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "95e0828f10b8adf58a037a0dfefe0b375df6612e",
+      "date": "2014-12-23T08:14:06Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "7750bdbb336b18e86ef26e2ae055c0195d5aac26",
+      "date": "2014-12-23T08:11:51Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c6d813e7a04ba725ebd982bf934923680ccc5f17",
+      "date": "2014-12-06T08:00:12Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "9f3e2cc85981931bc785b607be87ab0063e1f286",
+      "date": "2014-11-02T08:10:38Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "007baf4d332f48abf68934ad6b5e9dd3dee73653",
+      "date": "2014-11-02T07:49:19Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "028ec30a4587eb48f2c4fb5e5b835f9f505f31f9",
+      "date": "2014-11-02T05:44:01Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "a04addf887f606e20918a6ffdf7b9d4b65a300e5",
+      "date": "2014-11-01T23:24:58Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "742071421105130a5c7a5461f605899cc2be8e58",
+      "date": "2014-06-29T10:42:24Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "32cc49a2bf856ddddd10331e19700174c43cddcc",
+      "date": "2013-12-22T15:15:12Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "cb4b358b80d42c8fda902cc061980e8d543f33a3",
+      "date": "2013-12-15T15:32:37Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "4e69d6f4adcbb761e856247a15dba349d94c5b18",
+      "date": "2013-12-03T00:07:29Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "9a8d69a671a1633b1811855b3e4167c3a539c133",
+      "date": "2013-11-17T14:08:42Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "4dcfeea9790a84058736c962929681b419af44fc",
+      "date": "2013-11-17T13:31:20Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "dcd7fc69c2fbf8228e3fcd3382c4939703107e9d",
+      "date": "2013-11-17T10:10:51Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "68b6e42736708086ed134d1ec3549f8d1f6306bc",
+      "date": "2013-11-16T21:14:36Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "beb43e4f6e31aeaa3b270c8b2ac51a64d9d4bdbc",
+      "date": "2013-11-16T12:14:47Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "5ea4ed351266062c6e1c91aaddd9b04281e51334",
+      "date": "2013-10-20T14:16:08Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "2b06eb1ff8fee9b1f0dc7545e81b5ea5be3b8cbb",
+      "date": "2013-10-20T14:12:34Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "26345017b8a3f9f010dbff17ccaa5473e73cb258",
+      "date": "2013-10-20T13:34:42Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "5b3a87c3b762833309beb4670bc34367e1fb5c66",
+      "date": "2013-10-20T13:19:35Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "2924bf02267980c1ae7752d2e014d853cafb8ea4",
+      "date": "2015-05-01T13:59:36Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 29682791,
+      "date": "2013-12-03T04:27:01Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 65925843,
+      "date": "2014-12-07T04:11:04Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 67933400,
+      "date": "2014-12-23T09:16:46Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 74357454,
+      "date": "2015-02-14T02:23:32Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 74367479,
+      "date": "2015-02-14T08:49:01Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 93597271,
+      "date": "2015-04-15T23:31:52Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 93597678,
+      "date": "2015-04-15T23:33:08Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 93597799,
+      "date": "2015-04-15T23:33:45Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 93598052,
+      "date": "2015-04-15T23:35:02Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 105020375,
+      "date": "2015-05-24T14:10:33Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 105700862,
+      "date": "2015-05-27T00:02:48Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 98256763,
+      "date": "2015-05-01T22:41:15Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 82,
+      "date": "2015-05-24T15:19:26Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 81,
+      "date": "2015-05-24T14:28:10Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 60,
+      "date": "2015-02-14T06:19:23Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 59,
+      "date": "2014-12-06T08:10:16Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 58,
+      "date": "2014-11-02T09:20:00Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 57,
+      "date": "2014-11-01T23:38:14Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 53,
+      "date": "2014-06-29T10:46:31Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 22,
+      "date": "2013-12-22T15:30:40Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 21,
+      "date": "2013-12-22T15:22:50Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 14,
+      "date": "2013-11-17T14:19:51Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 13,
+      "date": "2013-11-17T10:45:42Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 9,
+      "date": "2013-10-26T04:30:18Z"
+    },
+    {
+      "dev_id": "atsaki",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 3553,
+      "date": "2015-05-01T16:34:17Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "0705d0f9854bdc56cb2581964e0717d48c5bb61b",
+      "date": "2014-08-19T09:17:08Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "de596181cc420a8ebee1aa7a721397aecbfd6896",
+      "date": "2014-08-19T09:16:31Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "bd3b189e38f6f95a3ed4ee974f90a3edfd677362",
+      "date": "2014-08-19T09:16:07Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d1b04067fafb27aa818e400be8452a03e425bd80",
+      "date": "2014-07-01T11:36:40Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b7eac80b12a8be6ff66ac2633318c46ae7448b92",
+      "date": "2014-07-01T11:21:19Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d4cfc8d86cb7e2953598b281293608881530ec93",
+      "date": "2014-07-01T10:03:25Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "9cf3dd5f16649c267dd971e070cd8ba8ecfae33f",
+      "date": "2014-07-01T10:00:49Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "18117572029b41be23ecb8ceebada551608120b1",
+      "date": "2014-07-01T09:13:12Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "020c06101ad14759f3118f594e3c45321792023c",
+      "date": "2014-06-30T13:29:56Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "1d374f4fb4ef25b00b0a0e912d9ac0217393ecb4",
+      "date": "2014-06-30T13:16:54Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "8a07bffaddc9dd1b4899915940372695127e049e",
+      "date": "2014-06-30T13:16:16Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e01ae48aa28769e4afd4aef2b67f410c55eaa813",
+      "date": "2014-06-29T15:41:25Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "58ac23f69f860a367e68c8301af4f7cb232b3f93",
+      "date": "2014-06-29T15:37:46Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "98012fcfac55af7d84f9e59c04f40701fea7949d",
+      "date": "2014-06-25T10:25:50Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "aa61f7981c80d7ea9de31995a0c5e0ca4b258c5d",
+      "date": "2014-06-25T10:05:12Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c3a7bd85135f4c03408f3dcece07c7e0ee3be2bc",
+      "date": "2014-06-25T10:03:34Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "825b0d337e8fe6d1cd7db576cac0dfdcb81a3cba",
+      "date": "2014-06-24T18:37:51Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "2c1601e06d135512b200da2550547d08d70dc0e6",
+      "date": "2014-06-24T23:38:04Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "497f01c994ddf8bb2767fe764c347d8614fb7124",
+      "date": "2014-06-24T18:29:00Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "36e57e8578580c96c570a34bfa9d740ad9d85db7",
+      "date": "2014-06-24T18:23:54Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "37a47d5bbd171dd31073d8ae905edcc1037b0a06",
+      "date": "2014-06-24T18:22:53Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "91142f8f314fa98342c1e48912260b6298d9c098",
+      "date": "2014-06-24T18:03:17Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "15aef47687d0dbe22854f5bfc2bf7f2bc6bd8a3e",
+      "date": "2014-06-24T13:16:12Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "84d6cbd725cee3f7929194a4955be35de9cc9ecc",
+      "date": "2014-06-24T13:15:05Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d5428f1f25c48757641c62941ab0e0720622c3ec",
+      "date": "2014-06-24T12:50:59Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "8dcf60db3500a461a289142361bc2ad438835a62",
+      "date": "2014-06-23T12:50:32Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b72e0d0f48a79e089dd34df6652d66bb40f2e789",
+      "date": "2014-06-23T12:01:10Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "5cfe713028f76a950a769b99b0746a85cf6b474a",
+      "date": "2014-06-23T11:47:05Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "200acd37d262174e933b7a167f925bf0a98ca6b0",
+      "date": "2014-06-23T11:17:47Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "cede37dd9448cb0ee81a37ab99c63c1366413038",
+      "date": "2014-06-23T09:48:13Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "034ce90d648e5e5f63cbfce00c0ba77bcff4baff",
+      "date": "2014-06-23T09:47:22Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "bf01c050b6aca59fa6c68e9b899dba0d9525038d",
+      "date": "2014-06-23T09:44:55Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "010103b338f36a5ce4a93855fd1fef6cd08390d3",
+      "date": "2014-06-18T12:54:36Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e25e7f9f9911767572f33769a243ce1beadef7c6",
+      "date": "2014-06-18T09:07:41Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d07e38bc6ea549d430284273ab72d5f2b85d4aaf",
+      "date": "2014-06-17T13:19:44Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "0568f7c45c2e2ee2db1ce18a0ab950ed8425d5c6",
+      "date": "2014-06-17T13:15:15Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "863fd7426f885485e8789c53c541e6d2ee0e203b",
+      "date": "2014-05-14T09:38:46Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "5b856cc4b8cd12b7548d262322b0444d0cee9dff",
+      "date": "2013-12-03T11:53:15Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "998f21c5f51f8e7aba60d6847b61dbf82551594a",
+      "date": "2013-12-03T11:50:07Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "fa90ede18fda2da3a1b715b18e45b02ae82069c1",
+      "date": "2013-12-03T09:53:50Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "5aa208d6bb40d1076c036387f51588b2a94b1687",
+      "date": "2013-12-02T13:11:07Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "695129d41cdc4d060ef0061f2c0020cef86b6470",
+      "date": "2014-04-15T14:20:54Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "87de4ba23cf0f1be27ff0d5b6d2a8d384290b469",
+      "date": "2014-04-16T09:21:57Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 29617108,
+      "date": "2013-12-02T13:26:16Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 29617143,
+      "date": "2013-12-02T13:26:46Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 29703977,
+      "date": "2013-12-03T12:01:18Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 29707185,
+      "date": "2013-12-03T12:55:56Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 31853227,
+      "date": "2014-01-08T16:55:26Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 38875384,
+      "date": "2014-03-27T23:52:27Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40337715,
+      "date": "2014-04-14T06:56:22Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40527015,
+      "date": "2014-04-15T20:00:56Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 41610643,
+      "date": "2014-04-28T20:41:25Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 42829204,
+      "date": "2014-05-12T13:07:47Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 42829344,
+      "date": "2014-05-12T13:09:06Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 42829487,
+      "date": "2014-05-12T13:10:32Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 43060834,
+      "date": "2014-05-14T09:38:38Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 43060922,
+      "date": "2014-05-14T09:39:45Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46892515,
+      "date": "2014-06-23T19:49:32Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46892797,
+      "date": "2014-06-23T19:51:46Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46895230,
+      "date": "2014-06-23T20:09:27Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47004939,
+      "date": "2014-06-24T17:49:24Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47025018,
+      "date": "2014-06-24T20:18:38Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47082354,
+      "date": "2014-06-25T10:03:24Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47084748,
+      "date": "2014-06-25T10:32:45Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47086556,
+      "date": "2014-06-25T10:51:45Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47086905,
+      "date": "2014-06-25T10:56:21Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47092723,
+      "date": "2014-06-25T12:12:19Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47093147,
+      "date": "2014-06-25T12:17:15Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47109607,
+      "date": "2014-06-25T14:39:30Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47218137,
+      "date": "2014-06-26T12:14:40Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47458155,
+      "date": "2014-06-29T15:37:38Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47526096,
+      "date": "2014-06-30T12:36:28Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47632079,
+      "date": "2014-07-01T08:52:12Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 51891660,
+      "date": "2014-08-12T09:22:46Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 51892693,
+      "date": "2014-08-12T09:33:35Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 51905191,
+      "date": "2014-08-12T12:06:15Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 51913857,
+      "date": "2014-08-12T13:33:29Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 51924521,
+      "date": "2014-08-12T14:49:46Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 52492038,
+      "date": "2014-08-18T13:33:58Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 52608804,
+      "date": "2014-08-19T09:15:58Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 52608858,
+      "date": "2014-08-19T09:16:25Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 52608910,
+      "date": "2014-08-19T09:16:59Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 56502519,
+      "date": "2014-09-23T10:41:17Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 56651399,
+      "date": "2014-09-24T10:25:51Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 66630304,
+      "date": "2014-12-11T14:59:18Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 66635413,
+      "date": "2014-12-11T15:30:50Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 67851600,
+      "date": "2014-12-22T15:46:50Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 68012649,
+      "date": "2014-12-24T00:07:19Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 68012657,
+      "date": "2014-12-24T00:07:25Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 92476119,
+      "date": "2015-04-13T19:49:32Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 94755494,
+      "date": "2015-04-21T11:32:58Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40514702,
+      "date": "2014-04-15T18:09:59Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40579579,
+      "date": "2014-04-16T09:26:08Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40827737,
+      "date": "2014-04-18T17:37:44Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 47843097,
+      "date": "2014-07-02T22:04:00Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 63705391,
+      "date": "2014-11-19T20:12:49Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 54,
+      "date": "2014-08-12T09:22:08Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 49,
+      "date": "2014-06-24T18:43:59Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 47,
+      "date": "2014-06-24T08:50:05Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 46,
+      "date": "2014-06-23T12:52:30Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 45,
+      "date": "2014-06-17T13:20:28Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 2856,
+      "date": "2014-04-15T14:22:49Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "issue",
+      "id": 48,
+      "date": "2014-06-24T12:29:32Z"
+    },
+    {
+      "dev_id": "lndbrg",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 3015,
+      "date": "2014-06-24T12:29:09Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d51dd7558438f7fde4a6eb324505fe99f54420ed",
+      "date": "2014-05-13T11:08:53Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "1e7143bf7e27250071d7a9ced26c9bbe9b858bc5",
+      "date": "2014-05-13T11:01:32Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "f30e6203e3bffa0cd8e36231f648240df4be6c5f",
+      "date": "2014-05-13T11:01:06Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "6009387e79ba9b018b4d72ef21b5abd9df66c7b8",
+      "date": "2014-04-14T10:43:21Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "df5e8bb7c7afc4daecb38c15184dcc591d82b2ad",
+      "date": "2014-04-14T10:42:08Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "97ae564df7ad0773da004c1e0bbf43c6d89329b4",
+      "date": "2014-02-21T07:54:55Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "4ae2344b15c456b65b86f49afca2bd0d6e4f245e",
+      "date": "2013-11-19T10:12:13Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "532fd9c42ca647dda123a42ce435fa999fd9b52a",
+      "date": "2013-11-19T10:03:20Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "494f3ed889082d7412ba14aae2d0156efc2b3f98",
+      "date": "2013-11-04T09:28:22Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "64dcc229aa177e087edb2afd7dd15b9c86f0ecf7",
+      "date": "2013-10-28T13:35:40Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b354133b927024df4981021786633fed9302a900",
+      "date": "2013-10-28T13:25:02Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "68e12b9353a19e6666fba41f37aaa114faebc454",
+      "date": "2013-10-28T13:22:51Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "951ac1af022dac10e242b7593f01d32c323a17f2",
+      "date": "2013-10-26T15:50:59Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e5d30bccb369c3e74ae9df1b6a5af7b4fabbb65b",
+      "date": "2013-10-26T15:48:36Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "055c448cafcfc49f826e432e2c10f347f343172c",
+      "date": "2013-08-19T12:23:40Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "166279d977aee922c5559ef11b77879bf779164a",
+      "date": "2013-08-14T09:37:47Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "cc939ce66e03d95ef0f405622cedebb0f4ed9945",
+      "date": "2013-08-07T17:39:07Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "ae7651a82652f732da2cacde2b03aaedd3eb749b",
+      "date": "2013-08-07T17:09:26Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "864fd67006e5115ea34c27f1792e75cc28975973",
+      "date": "2013-08-07T16:54:09Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "4b10ac143e0de88af9193533587017f3e097e54c",
+      "date": "2013-08-07T16:46:44Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "ebc8d22f91244a902dc01733ec3ceaa8edc08cc0",
+      "date": "2013-08-06T11:42:49Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "723769bff874e0a568beff5d33ac6cbddb9fd00e",
+      "date": "2013-04-17T15:14:59Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "d7ccd0ef529d0cc12b2305c8c2587f1f7e391386",
+      "date": "2014-02-26T12:04:39Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 20502919,
+      "date": "2013-07-05T06:24:48Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 20885172,
+      "date": "2013-07-12T15:49:40Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 22173191,
+      "date": "2013-08-06T11:42:43Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 22176531,
+      "date": "2013-08-06T12:56:19Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 22625125,
+      "date": "2013-08-14T09:50:15Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 27672463,
+      "date": "2013-11-04T09:33:00Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 27689110,
+      "date": "2013-11-04T14:38:49Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 27689203,
+      "date": "2013-11-04T14:39:46Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 27689613,
+      "date": "2013-11-04T14:44:40Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 28777128,
+      "date": "2013-11-19T09:46:53Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 28777351,
+      "date": "2013-11-19T09:50:41Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 28967077,
+      "date": "2013-11-21T09:02:54Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 28967746,
+      "date": "2013-11-21T09:15:08Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 29757058,
+      "date": "2013-12-03T22:12:09Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 31861509,
+      "date": "2014-01-08T18:13:11Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 35553361,
+      "date": "2014-02-19T21:49:16Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 35635577,
+      "date": "2014-02-20T15:52:23Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 36124060,
+      "date": "2014-02-26T13:25:25Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 36455998,
+      "date": "2014-03-02T14:54:48Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 39099729,
+      "date": "2014-03-31T15:10:49Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 39099805,
+      "date": "2014-03-31T15:11:27Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 39100016,
+      "date": "2014-03-31T15:13:18Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40275761,
+      "date": "2014-04-12T09:12:34Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40284334,
+      "date": "2014-04-12T16:04:45Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40318218,
+      "date": "2014-04-13T20:10:05Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40346833,
+      "date": "2014-04-14T09:17:18Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40347175,
+      "date": "2014-04-14T09:22:20Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 41610412,
+      "date": "2014-04-28T20:39:33Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 41610861,
+      "date": "2014-04-28T20:43:17Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 42783424,
+      "date": "2014-05-11T21:11:33Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 43329023,
+      "date": "2014-05-16T13:11:31Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 44519059,
+      "date": "2014-05-29T10:32:43Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46857598,
+      "date": "2014-06-23T15:08:46Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46971200,
+      "date": "2014-06-24T13:37:02Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 92498337,
+      "date": "2015-04-13T21:05:00Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 93521433,
+      "date": "2015-04-15T18:26:21Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 94422671,
+      "date": "2015-04-20T11:00:01Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 36124224,
+      "date": "2014-02-26T13:27:25Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 37514147,
+      "date": "2014-03-13T09:36:49Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 39960259,
+      "date": "2014-04-09T12:57:28Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 39993433,
+      "date": "2014-04-09T17:39:11Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 39998322,
+      "date": "2014-04-09T18:18:37Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 40011266,
+      "date": "2014-04-09T20:17:18Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 64165273,
+      "date": "2014-11-24T08:48:05Z"
+    },
+    {
+      "dev_id": "loa",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 2713,
+      "date": "2014-02-26T13:23:01Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "cc2c66c29136bcd6d83d97f196654c10dad0f446",
+      "date": "2013-04-16T22:03:28Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "37a3a30cabe953a66966c0821d2f71918f6f8493",
+      "date": "2013-04-16T22:02:10Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "6df6ea035e8e16b681819e83f21dbf3e55038d16",
+      "date": "2013-04-16T22:00:34Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "f741432d2095957cf31e1d16bf929fa6f9e52ad0",
+      "date": "2013-04-16T21:58:31Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "6bea4fc92fb26df834f9fc19f60bac5cdd290dde",
+      "date": "2013-04-16T21:56:56Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "81562096e64041b388ea9c8828d293f5ff739e0e",
+      "date": "2013-04-16T21:56:39Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "12085913993b84161378a7b3cb1ce3362ee1f620",
+      "date": "2013-04-16T21:52:42Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "0c6497fcb47f2cb827e070dde11034b02bf8caae",
+      "date": "2013-04-16T21:48:12Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "02e34c1298255c472f260e178c0af0f126097b4d",
+      "date": "2013-04-16T21:47:48Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d4f494938f6a567942a6e75ce9591e9f1ba75aaf",
+      "date": "2013-04-16T21:43:39Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "ea982ad882e7cc9840a9424e2db98eb494915a1e",
+      "date": "2013-04-16T21:42:19Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "48f242d97ddad260eb8ca45bca68ee3892d1bcf3",
+      "date": "2013-04-16T21:37:22Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "3d5985bf69375af8a254aa5fb5e068f2439a9679",
+      "date": "2013-04-16T21:35:40Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "3544355f45c942ab1b4fa4d8350d475699fe8e80",
+      "date": "2013-04-09T22:41:37Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e30b3315a260bd0201fbb81e8528385655ddd676",
+      "date": "2013-04-09T22:40:57Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "7fef9038fec0c7685444bf9defd14a871b26ff6d",
+      "date": "2013-04-09T22:13:40Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "1d83d0d8b5113116835516c810fbf3780c702789",
+      "date": "2013-04-09T22:13:22Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "242022f068352544fc5b22808311f0d96de05159",
+      "date": "2013-04-09T22:06:34Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c236c102724913c7e88b52266a6c3194a14ef05e",
+      "date": "2013-04-09T22:00:25Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "340a33179ee81bfb481515f93a8820c973e6c7a0",
+      "date": "2013-04-09T22:00:08Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d796abee8f7f0946e2ff5cd50c27109d9880914c",
+      "date": "2013-04-09T21:59:44Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b48451a19139cd1d3700874dc34f4f44b54d8328",
+      "date": "2013-04-09T21:58:16Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "78feb81750f6181963c588cc77755a7da228adeb",
+      "date": "2013-04-09T21:57:26Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e19d2f06add5ff6ebdd853aa58998e10d308deaf",
+      "date": "2013-04-09T21:56:20Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "cae36f4f545d7ac2ae61f18d7408028e77d00ee8",
+      "date": "2013-03-27T23:42:50Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "8a09d54965d3aa32ec3b1afe19ecf203e84cb3e3",
+      "date": "2013-03-22T22:13:42Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "96ce8aaf1b320912e77b846458e46043a1305918",
+      "date": "2013-03-22T22:10:28Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "7760318a03cff3283044cb7582f8bb09901b26d5",
+      "date": "2013-03-22T21:30:54Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b293cb5a7711c652e9dab743cbd55660656c4ffc",
+      "date": "2013-03-22T21:30:04Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e467df7fbc638ef929ceea1bf3980c9bcd010c9e",
+      "date": "2013-03-22T21:23:59Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "9f831395c31caea18b03b883a33cd372a5ab9ef8",
+      "date": "2013-03-22T21:22:48Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "8027901c437de17b895936ba6a64cc3a4b597209",
+      "date": "2013-03-22T21:21:17Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "6ef6d4d72670d6a4e6df6bb245ee7e220293493b",
+      "date": "2013-03-22T21:20:38Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "efe661b6fde2f3abe105c229fc52eae8b98ea4b2",
+      "date": "2013-03-22T21:20:03Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c88be9d243e0b9322f50e270118b669046626a4d",
+      "date": "2013-03-18T16:18:45Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "97e713e3953db83d47dc677f6ffe11e7f78ffa1e",
+      "date": "2013-03-18T14:42:01Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "2926cb49626988f8a1ef3dba2f80328e8647d965",
+      "date": "2013-03-14T15:50:28Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "5b89ee958aed5872244df3d190577d1668ec75e9",
+      "date": "2013-03-14T15:25:35Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c6d88be02fa167bd31d68ca3cb7c294bc6a433da",
+      "date": "2013-02-08T04:13:15Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "baa7c1ee1b3048e38237894b9fda41fb34ff383d",
+      "date": "2013-02-08T04:12:38Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "7afadc4da47d0f8cf066b1a9ef729f041cb8f6a9",
+      "date": "2013-02-08T03:55:03Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "524f854410665b44ecde9cc06bf9df6d376470f9",
+      "date": "2013-02-08T03:54:31Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "a244b2fc924d092911ae92a11668fcdb61fb0c85",
+      "date": "2013-02-08T03:46:01Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "f6b5fe8904aede46e1edb0b31f69a8983af1eaf6",
+      "date": "2013-02-08T03:45:27Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "6636549fffc0ba0745ea3b6d6299875a9b2a971e",
+      "date": "2013-02-08T03:38:13Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "359e9cffb31c0b713e4d70ddba0bf15a2cf7bfc0",
+      "date": "2013-02-07T01:34:20Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "9ca53ba26c429d40540525b9137a4b93692541e7",
+      "date": "2013-02-07T01:32:04Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "74021d7c9fbc519307d661656f6ce96eeb61153c",
+      "date": "2013-02-07T01:31:24Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "7c19d499745c7a636c31860caef263e6a634c55f",
+      "date": "2013-02-07T01:11:56Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b7faf1eff73f24b1b2143e7918fce38d5d46cbe5",
+      "date": "2013-02-07T01:03:58Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "ced278e2d663c1150ed40d8db7d49c8402eb59e6",
+      "date": "2013-02-07T00:50:07Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "f50e37f0b62fb7445066bd4444e2edf3c5648264",
+      "date": "2013-02-07T00:19:54Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "65de31e5cc640f4989f64fc113e864e3d1b4c697",
+      "date": "2013-02-07T00:06:04Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "3d265f8a076a0798ae4e52319c2fe66ef7d04d7e",
+      "date": "2013-02-06T05:41:54Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "9758c85f28e924167cf77837eaf0122fdb268f02",
+      "date": "2013-02-06T05:29:16Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "f3601df8ff134f6c38138317fc8d2df3fb8822a9",
+      "date": "2013-02-06T05:25:04Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "00e6840cf418391061a8fe60f7fe6ef373219147",
+      "date": "2013-02-06T05:19:32Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d38a94139550459fa9fedcd8bd23aac6efa22683",
+      "date": "2013-02-06T05:09:02Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "f880906ab7c1b90e0df5308c70c18ca3cbf19280",
+      "date": "2013-02-06T04:43:20Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c8f843a4682bd4c48f088cba7937e27bba5e9ed2",
+      "date": "2013-02-06T04:41:55Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "09415ae68a397e1703294523d59b6f072d1d3b42",
+      "date": "2013-02-06T04:37:38Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c0285aac7a0d57cee31ce3b21cec5baa92925e9d",
+      "date": "2013-02-06T04:30:14Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "ef3fb86871e4de5b317533054f77a22fed5357c6",
+      "date": "2011-01-26T07:08:22Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "619ae8d7d3fd7cfcb5d98451f880786ad39378e0",
+      "date": "2010-08-20T18:07:21Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "commit",
+      "id": "99289a4b2d0e4b9fa654dba0be0a040bab811fa4",
+      "date": "2010-08-20T17:50:12Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 625764,
+      "date": "2010-12-20T21:36:56Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 625780,
+      "date": "2010-12-20T21:43:19Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 708547,
+      "date": "2011-01-26T07:10:03Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 28588322,
+      "date": "2013-11-15T17:41:53Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "pr",
+      "id": 148,
+      "date": "2011-01-26T07:09:30Z"
+    },
+    {
+      "dev_id": "mitchellh",
+      "repo": "fog/fog",
+      "type": "issue",
+      "id": 2397,
+      "date": "2013-11-14T21:27:37Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e5593cd10b679c9619d97fb9f8dd518d62637cfd",
+      "date": "2014-09-11T10:07:28Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "8173bc5b1f21bf04c52556d48d48251581c5df6f",
+      "date": "2014-06-24T15:49:11Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "ea2583b8530501e8889d0d095d4e605c9bd4c8c0",
+      "date": "2014-06-24T15:46:43Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d5cc8c27b8cd0100894fd693fafa03656c6b0350",
+      "date": "2014-06-17T13:43:45Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b1485a6d56bf68e94f6e0e0c9b9423ab88c78698",
+      "date": "2014-04-29T10:42:22Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "bd4c8880f010d7b14b03ac0df03b0847367c84c3",
+      "date": "2014-04-29T06:30:25Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "10926ce760fb0938525878c8698cff18b4ccdb9a",
+      "date": "2014-04-28T16:20:14Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "58c1dc76714f7ba235622c2be3dd9f5ab6e15100",
+      "date": "2014-04-15T21:15:52Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "8692e3220459198db978a080673c14715564fee2",
+      "date": "2014-04-15T20:51:59Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "6ad5112e6b63ad9b21e1e6dc2575b87409b9d5ce",
+      "date": "2014-04-15T20:43:50Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e487c0bb42e13a0e166fb77745c6afe99fe6e5c7",
+      "date": "2014-04-15T20:20:15Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "548a8084e663ed0f4b9c562d2456797db499fa3c",
+      "date": "2014-04-15T20:18:10Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "dd61a883d8dcd610850656d4804726319dfaeff7",
+      "date": "2014-04-15T19:55:40Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b8f130e2d53f42207498ff0b0fddfa6249682867",
+      "date": "2014-04-15T19:52:36Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "64884ad3e2031e30abd55b618cfa59308fb81da1",
+      "date": "2014-04-15T19:46:31Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "17f2fa84945005cf47da92822503b5ad8f698b41",
+      "date": "2014-03-31T15:48:31Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "dfe711e16044f4db351fa9c4214833da20818295",
+      "date": "2014-03-31T15:09:47Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "fe80cc5187675e0fd2fbb65f26e6984fdc2848cb",
+      "date": "2014-03-03T19:44:47Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "de6e25826cda7f2c42c454027ebc42cb3b68b47f",
+      "date": "2014-03-02T19:08:13Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "8a598541eb3d848b04a57cf88c9f71f2dc628a23",
+      "date": "2014-03-01T09:27:32Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "320299279887a5a7566205b3d50bc99a5e2ea3fd",
+      "date": "2014-01-12T18:04:58Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "920d335d7f7cd51f3c24d055fdb4402a8c08f6bc",
+      "date": "2014-01-08T18:32:00Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "a7a80c0ad66e5de1237053b8b5169501297e317e",
+      "date": "2014-01-08T10:21:17Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "798f659b3fa6d6e5ea00f870d71bb862585c6773",
+      "date": "2014-01-08T09:53:17Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "6de91e3dc5690770972f42bd41e8b2ee3f5ee4b2",
+      "date": "2014-01-08T09:46:39Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "0a065a993ac7aba227561b8a847d6f5acd679e8b",
+      "date": "2014-01-07T23:12:48Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "4da0a323665f15a9db6ef0f7f545951b5c4902a8",
+      "date": "2014-01-07T22:58:41Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "b2066ad809bd3e3f78a5ce8c8e25d1801bbd4620",
+      "date": "2014-01-07T22:52:01Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "7f6c186ae80d38340665cce8f0b3ab5bec7575f4",
+      "date": "2014-01-01T18:10:17Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "a227ef9672c40fb327080bbd4b46c4fad8bb8c73",
+      "date": "2014-01-01T18:08:59Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "d9f54e9ea373f4ada27aa2e151d10cfee5bcd692",
+      "date": "2013-12-12T08:50:57Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e3f507d8bff9336736e17a825656a8801338970b",
+      "date": "2013-12-12T08:40:38Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "77a27e5bd1bb9c786db72afba7d2df5732d52860",
+      "date": "2013-12-11T17:06:39Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "eb9fbebf93a40a7ecfd85dc2cbf22464c6d6d9a3",
+      "date": "2013-12-11T16:36:24Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "e3a875cc14608bff08c08840d25801acf494a187",
+      "date": "2013-12-11T16:34:24Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "commit",
+      "id": "c0795faea9aad38462e3b75e749c5c6faf77407d",
+      "date": "2013-12-11T13:33:58Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 31185804,
+      "date": "2013-12-24T21:46:16Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 31852350,
+      "date": "2014-01-08T16:47:10Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 31863229,
+      "date": "2014-01-08T18:31:48Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 36420355,
+      "date": "2014-03-01T09:22:34Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 36420537,
+      "date": "2014-03-01T09:36:11Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 36462984,
+      "date": "2014-03-02T19:08:40Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 39103131,
+      "date": "2014-03-31T15:37:40Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 39139148,
+      "date": "2014-03-31T20:42:38Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 40339707,
+      "date": "2014-04-14T07:32:54Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 41662227,
+      "date": "2014-04-29T10:43:58Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 41736547,
+      "date": "2014-04-29T21:47:13Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 42355637,
+      "date": "2014-05-06T20:38:43Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 42957248,
+      "date": "2014-05-13T13:52:39Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 42966833,
+      "date": "2014-05-13T15:03:23Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 43060782,
+      "date": "2014-05-14T09:37:53Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 43683977,
+      "date": "2014-05-20T21:13:43Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 45895887,
+      "date": "2014-06-12T14:10:25Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46895191,
+      "date": "2014-06-23T20:09:08Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46895276,
+      "date": "2014-06-23T20:09:48Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46895399,
+      "date": "2014-06-23T20:10:59Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 46988858,
+      "date": "2014-06-24T15:44:40Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47017298,
+      "date": "2014-06-24T19:13:04Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47017342,
+      "date": "2014-06-24T19:13:31Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47017553,
+      "date": "2014-06-24T19:15:04Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47022322,
+      "date": "2014-06-24T19:56:18Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47027784,
+      "date": "2014-06-24T20:41:07Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47083230,
+      "date": "2014-06-25T10:14:01Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47083321,
+      "date": "2014-06-25T10:15:13Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 47101711,
+      "date": "2014-06-25T13:40:34Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 61860622,
+      "date": "2014-11-05T18:52:39Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 61860676,
+      "date": "2014-11-05T18:53:00Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 66758152,
+      "date": "2014-12-12T10:50:41Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 92432500,
+      "date": "2015-04-13T17:19:41Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 92759830,
+      "date": "2015-04-14T10:32:16Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 92888135,
+      "date": "2015-04-14T14:48:54Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "com",
+      "id": 92991921,
+      "date": "2015-04-14T17:38:26Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "fog/fog",
+      "type": "com",
+      "id": 39992415,
+      "date": "2014-04-09T17:30:34Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 35,
+      "date": "2014-04-28T20:38:55Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 34,
+      "date": "2014-04-15T21:03:49Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 33,
+      "date": "2014-04-15T19:57:09Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 28,
+      "date": "2014-03-01T09:30:08Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 26,
+      "date": "2014-01-08T10:22:41Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "pr",
+      "id": 25,
+      "date": "2014-01-08T08:39:21Z"
+    },
+    {
+      "dev_id": "mindjiver",
+      "repo": "schubergphilis/vagrant-cloudstack",
+      "type": "issue",
+      "id": 27,
+      "date": "2014-03-01T09:19:08Z"
+    }
+  ]
+}

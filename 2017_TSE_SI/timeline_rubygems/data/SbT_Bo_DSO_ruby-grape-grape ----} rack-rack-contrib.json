@@ -1,0 +1,874 @@
+{
+  "user_repo": "ruby-grape/grape",
+  "dep_repo": "rack/rack-contrib",
+  "dep_date": "2014-08-13 08:43:42 UTC",
+  "dep_commit_id": "d4dcdd112ec78f936011bea057412b590e34c2d6",
+  "social_date": "2010-11-17 09:47:55 UTC",
+  "devs": [
+    "jjb",
+    "mtodd"
+  ],
+  "interactions": [
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "e5b973e88dd7399d0a9ee4b88604cf71d5b5ce44",
+      "date": "2015-06-23T15:35:29Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "bc937e84426ac668d6a7902120f589d87c5fd0ef",
+      "date": "2015-06-22T17:06:58Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "68a8da0256cbc37f9f9f20e4dcaf471432082816",
+      "date": "2014-11-05T06:58:47Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "7418c81c8c44e9c75e61c317903770f86e5c7bb7",
+      "date": "2014-11-05T06:58:11Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "16e1a8ece0445d4d88f0ef31fc0fa0d3ef6c4eea",
+      "date": "2014-11-05T06:54:26Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "21188fa067ce8fb04e191e782e71735694ca801f",
+      "date": "2014-11-02T20:30:54Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "258b49d95baf2be6fce65b04d0ed97fcddb2a898",
+      "date": "2014-11-05T06:52:32Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "8d7a72ad5ef46dc969895aa99b7cdfe4b0dc1469",
+      "date": "2014-11-02T20:47:50Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 60985208,
+      "date": "2014-10-29T19:05:50Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61287701,
+      "date": "2014-10-31T16:28:40Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61288162,
+      "date": "2014-10-31T16:31:33Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61288381,
+      "date": "2014-10-31T16:33:10Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61323879,
+      "date": "2014-10-31T20:13:32Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61324158,
+      "date": "2014-10-31T20:15:38Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419164,
+      "date": "2014-11-02T19:12:20Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419289,
+      "date": "2014-11-02T19:15:18Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419338,
+      "date": "2014-11-02T19:16:35Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419478,
+      "date": "2014-11-02T19:20:20Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419593,
+      "date": "2014-11-02T19:24:05Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419654,
+      "date": "2014-11-02T19:25:41Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419785,
+      "date": "2014-11-02T19:29:35Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61419961,
+      "date": "2014-11-02T19:34:20Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420130,
+      "date": "2014-11-02T19:38:41Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420226,
+      "date": "2014-11-02T19:41:10Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420278,
+      "date": "2014-11-02T19:42:24Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420600,
+      "date": "2014-11-02T19:50:19Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420712,
+      "date": "2014-11-02T19:53:08Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420718,
+      "date": "2014-11-02T19:53:21Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420760,
+      "date": "2014-11-02T19:54:35Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61420877,
+      "date": "2014-11-02T19:57:13Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61421581,
+      "date": "2014-11-02T20:14:38Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61421834,
+      "date": "2014-11-02T20:20:57Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61421882,
+      "date": "2014-11-02T20:22:15Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61421964,
+      "date": "2014-11-02T20:24:22Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61422015,
+      "date": "2014-11-02T20:25:31Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61422582,
+      "date": "2014-11-02T20:39:47Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61422594,
+      "date": "2014-11-02T20:40:15Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61422683,
+      "date": "2014-11-02T20:42:55Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61422925,
+      "date": "2014-11-02T20:49:19Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61423255,
+      "date": "2014-11-02T20:57:49Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61425296,
+      "date": "2014-11-02T21:47:51Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61430196,
+      "date": "2014-11-02T23:59:07Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61430214,
+      "date": "2014-11-02T23:59:41Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61430262,
+      "date": "2014-11-03T00:01:25Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61499737,
+      "date": "2014-11-03T16:00:36Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61569155,
+      "date": "2014-11-03T23:33:01Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61599505,
+      "date": "2014-11-04T06:38:46Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61599510,
+      "date": "2014-11-04T06:38:51Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61599635,
+      "date": "2014-11-04T06:40:49Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61766689,
+      "date": "2014-11-05T06:49:44Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61766867,
+      "date": "2014-11-05T06:52:09Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 61767017,
+      "date": "2014-11-05T06:54:24Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 111865910,
+      "date": "2015-06-14T19:25:39Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 112181362,
+      "date": "2015-06-15T19:30:52Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 112806422,
+      "date": "2015-06-17T13:46:39Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 112808990,
+      "date": "2015-06-17T13:52:17Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114177373,
+      "date": "2015-06-22T16:52:56Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114177633,
+      "date": "2015-06-22T16:54:16Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114180629,
+      "date": "2015-06-22T17:07:52Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114362191,
+      "date": "2015-06-23T05:19:34Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114362709,
+      "date": "2015-06-23T05:24:20Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114362882,
+      "date": "2015-06-23T05:25:53Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114364038,
+      "date": "2015-06-23T05:35:10Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114364225,
+      "date": "2015-06-23T05:37:04Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114364736,
+      "date": "2015-06-23T05:42:46Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114364910,
+      "date": "2015-06-23T05:44:51Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114367622,
+      "date": "2015-06-23T05:53:55Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114370597,
+      "date": "2015-06-23T05:58:52Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114371160,
+      "date": "2015-06-23T05:59:54Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114372040,
+      "date": "2015-06-23T06:04:24Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114372344,
+      "date": "2015-06-23T06:06:58Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114374368,
+      "date": "2015-06-23T06:11:31Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114374920,
+      "date": "2015-06-23T06:17:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114374995,
+      "date": "2015-06-23T06:17:50Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114375499,
+      "date": "2015-06-23T06:19:08Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114375706,
+      "date": "2015-06-23T06:21:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114376380,
+      "date": "2015-06-23T06:27:56Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114376450,
+      "date": "2015-06-23T06:28:40Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114548517,
+      "date": "2015-06-23T15:36:10Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114554329,
+      "date": "2015-06-23T15:50:22Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114558000,
+      "date": "2015-06-23T16:04:21Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 114718003,
+      "date": "2015-06-24T03:35:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115490475,
+      "date": "2015-06-26T03:36:22Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115490846,
+      "date": "2015-06-26T03:36:49Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115492444,
+      "date": "2015-06-26T03:48:29Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115492476,
+      "date": "2015-06-26T03:48:57Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115492524,
+      "date": "2015-06-26T03:49:32Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115665959,
+      "date": "2015-06-26T12:41:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115666939,
+      "date": "2015-06-26T12:43:16Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115922193,
+      "date": "2015-06-27T00:01:02Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115922369,
+      "date": "2015-06-27T00:03:11Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115937952,
+      "date": "2015-06-27T02:30:54Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 115937974,
+      "date": "2015-06-27T02:31:19Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "pr",
+      "id": 105,
+      "date": "2015-06-22T17:07:03Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "pr",
+      "id": 97,
+      "date": "2014-11-02T20:49:09Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "pr",
+      "id": 96,
+      "date": "2014-11-02T20:31:29Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "ruby-grape/grape",
+      "type": "issue",
+      "id": 109,
+      "date": "2012-01-03T20:23:26Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "ruby-grape/grape",
+      "type": "issue",
+      "id": 108,
+      "date": "2011-12-29T21:44:14Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "issue",
+      "id": 109,
+      "date": "2015-06-23T16:03:53Z"
+    },
+    {
+      "dev_id": "jjb",
+      "repo": "rack/rack-contrib",
+      "type": "issue",
+      "id": 104,
+      "date": "2015-06-14T19:25:25Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "9f5bcddba198f3b8a5d76d83ebb4aa3887b65be5",
+      "date": "2011-05-06T18:36:48Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "3f004dd2d8e3f62c0d0837f149f44caaffe16a6e",
+      "date": "2011-04-30T04:04:52Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "4849ed7f11aea85a7cba1f2bfd6d05d17355b751",
+      "date": "2011-04-25T16:19:46Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "2c2f6bb0c3aaa35bf6912e243e8752eb20f6d770",
+      "date": "2011-04-09T19:28:27Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "38f9a4a653f65abf488ae8ef5b6b7aa76dff234f",
+      "date": "2011-04-09T02:24:58Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "8480e96d2c706728c24028b307ff2bd502bd3ef1",
+      "date": "2011-04-09T02:20:55Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "1dba537c1aaa55d6cd9d522112339ddd187ec632",
+      "date": "2011-04-09T02:10:58Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "ffa75b46de33b0c33d7615eac66c1028e02e1cb8",
+      "date": "2011-04-06T23:32:04Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "32f92b5b62bdf270ef18bbb2d5ee6409927b3b28",
+      "date": "2011-04-06T22:50:07Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "67d5660bb0b48b693ff95d0572607894d310dbad",
+      "date": "2011-04-06T21:23:01Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "8c303380670b6e1310f92520f9849146d9376dea",
+      "date": "2008-12-02T09:08:58Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "4517c8302e67503693d111f027d2b583906307a7",
+      "date": "2008-12-02T08:44:46Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "c6d9f93aa6bf48d984c911776fc98550a093eb13",
+      "date": "2008-12-02T08:44:08Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "commit",
+      "id": "c8bbdfbf027051e271a1a4cf781a96804c2f6743",
+      "date": "2008-12-02T07:56:33Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 966669,
+      "date": "2011-04-06T23:33:11Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 970101,
+      "date": "2011-04-07T17:58:45Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 970845,
+      "date": "2011-04-07T20:58:32Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 976576,
+      "date": "2011-04-09T02:25:26Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 978019,
+      "date": "2011-04-09T19:29:21Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 1068673,
+      "date": "2011-04-28T07:43:32Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "com",
+      "id": 1112891,
+      "date": "2011-05-06T18:36:38Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "rack/rack-contrib",
+      "type": "pr",
+      "id": 33,
+      "date": "2011-04-06T23:29:59Z"
+    },
+    {
+      "dev_id": "mtodd",
+      "repo": "ruby-grape/grape",
+      "type": "issue",
+      "id": 6,
+      "date": "2010-11-17T09:47:55Z"
+    }
+  ]
+}

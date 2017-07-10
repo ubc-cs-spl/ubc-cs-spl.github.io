@@ -1,0 +1,3884 @@
+{
+  "user_repo": "ryanlecompte/redis_failover",
+  "dep_repo": "redis/redis-rb",
+  "dep_date": "2012-04-10 06:44:16 UTC",
+  "dep_commit_id": "03af476cb402dfa636adc04576f44e32b68fe6fe",
+  "social_date": "2011-06-05 20:02:20 UTC",
+  "devs": [
+    "ryanlecompte",
+    "eric"
+  ],
+  "interactions": [
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "be1208240b9b817fb0288edc7535e3f445f767cd",
+      "date": "2014-05-20T21:24:44Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f91fcd897541cc2036ed266f27ce57ba94bd8a1e",
+      "date": "2014-01-16T02:56:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "21a0bc46a6c84e8618fcf66fa55f6dfabc845094",
+      "date": "2014-01-16T02:54:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a95bb65575db65c70e740b7ce94c6cbe6bc41d90",
+      "date": "2013-11-14T05:48:41Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6d9754d09618e44c6ddab42c2871816d401b2111",
+      "date": "2013-10-15T14:52:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "15778c751c650cdf1c5315c6bf0dd25527894999",
+      "date": "2013-10-15T14:51:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f718c29e7a8d0f1e3659e0983c194bc855715ff2",
+      "date": "2013-03-20T18:23:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "91e3bed5fa6d227d4b0e76124a82c6f906c9e7b0",
+      "date": "2013-03-03T14:14:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0800964d34832dd51c2f4d1917311936d52c47f4",
+      "date": "2013-02-17T17:16:19Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2e51021e6daff253f936190e631bc66aca02e688",
+      "date": "2013-02-15T06:35:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0e86deafdc57566adf0ba64b3042df4f4e3c8c57",
+      "date": "2013-02-09T18:24:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "13157dd37414e47ecb35efe2d19fc483ee8cde53",
+      "date": "2012-11-14T17:16:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0246e502e1c73adc065452f57aab530ae3e27fd8",
+      "date": "2012-11-14T17:16:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f7a4d8127ad86dbf3ea84b70af32fb071f845be5",
+      "date": "2012-11-14T17:15:23Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "98194add72210fbd03f7fb14558f53e0bad4087c",
+      "date": "2012-11-13T19:58:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6937a1906c7d8e667dc135c07acc8dcbec8d3037",
+      "date": "2012-11-13T18:54:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1460bef94bcaad746dad8db28abda83936006a20",
+      "date": "2012-11-10T01:14:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "82964a5b88a56c37eb2c844f1f3fed771bb260b7",
+      "date": "2012-11-10T01:12:02Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7f0d3c05d84638516c63a93a6bba83bdfbf4a0d2",
+      "date": "2012-11-10T00:43:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "62fae640aa4cabedba6655a517d97d4bcd87a8c4",
+      "date": "2012-11-09T18:17:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ee7a85213fcf343ad5b2fecdb20544ec794afb7a",
+      "date": "2012-11-08T22:59:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "48bb0ade7d01f133277bff571bca611516aa42ce",
+      "date": "2012-10-17T04:55:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4f6917bc104a91477109740b8f925edb5e4074c5",
+      "date": "2012-10-17T04:52:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c4c52fa47f57339e32b754a5fc313b0bf0487821",
+      "date": "2012-10-12T16:23:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "dbc9a61c55d7d9bf88bcee1754c27a96575e6340",
+      "date": "2012-10-12T15:39:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "10723be29cd20831c09c82282c6a7dba58669cc1",
+      "date": "2012-10-11T21:54:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4ee7036fda7b0b3fc4e072df33a72de4dbcc2f88",
+      "date": "2012-10-11T17:15:58Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d70f978aaaaec92aff706beef0a8112e669b5e9c",
+      "date": "2012-10-10T16:51:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6f4ab20a7d17f9c3573bdbd551c9175786f99b6a",
+      "date": "2012-10-09T18:53:34Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cab8c463ddabda9aaceb24aca2199bfb028aea38",
+      "date": "2012-10-09T18:42:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "53143a25365fc9e33366ca765131f430d15c97a4",
+      "date": "2012-10-09T18:38:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1fedd40e3f52924948d8574fe80e35807ba8adb0",
+      "date": "2012-10-09T14:08:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "8e955180da6fc3cc823c82e8de0af8daf78928a7",
+      "date": "2012-10-08T20:13:35Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7910e0aceb332ac12f1316b21e02844238b63d68",
+      "date": "2012-10-08T20:07:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1e3b868d0ec790910bbb6ae2104347ab12ca6f56",
+      "date": "2012-10-08T19:50:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5d475dd6ce6ad34abf272ff642058833ae660f70",
+      "date": "2012-10-08T19:19:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b303ebfb09873e720b704e2af13eff1da8e4735e",
+      "date": "2012-10-08T17:30:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "47ec46c89da538651ea7eb5be1064f52b296e655",
+      "date": "2012-10-08T15:12:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e76d7a705f969df42fed155edc0306bb608d3039",
+      "date": "2012-10-08T14:43:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e2fec76a88e815796b077cd47ec6073d1589fc77",
+      "date": "2012-10-08T06:10:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1a8378e34869eddabe4b04be8d96b8efa14f254b",
+      "date": "2012-10-08T05:31:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ea0125f263c5e718bd12cb07dc7f97b3f446898a",
+      "date": "2012-10-08T00:00:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "315eb948d5b7ef985d82738836c361e53cf65f4f",
+      "date": "2012-10-07T23:12:41Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "bf33235365fa664939b498a886afbc01aba5dd24",
+      "date": "2012-10-07T15:24:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "474c12c8e65656b955b073f51c15812fa1337a50",
+      "date": "2012-10-07T08:07:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d184ce5e11747cf0b124c73b6f480e41b84d29c0",
+      "date": "2012-10-06T00:42:35Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c54d488eb6a69c01d450d91eec0031fb5e8bc476",
+      "date": "2012-10-06T00:26:46Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c4046f4981aec4530d063aa93d6dc1ba34ce8f27",
+      "date": "2012-10-05T23:33:26Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1a5b921b170c8fb12205904c791fa9cd720b3201",
+      "date": "2012-10-05T23:02:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f9a8e6c14ea61cb63928aa467b58dc2167dc3a93",
+      "date": "2012-10-05T21:41:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0c0d0915db248a8429dd531f91b9510b8b4f3081",
+      "date": "2012-10-05T19:15:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "211e208f256fd153c2e1a5725fc44ae4edad1789",
+      "date": "2012-10-05T17:53:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b4fd029f49597d73d34eaa1edd126f9e42f25f3a",
+      "date": "2012-10-05T17:39:34Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a37b6083d66b8d209c365b68828e5f4af061f924",
+      "date": "2012-10-05T07:18:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1fdbe6bc42adca41a46e2f16b74bb34a742f2190",
+      "date": "2012-10-05T07:10:46Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cf4ce5418bee9049161ac1cce66401b6cfdf9984",
+      "date": "2012-10-05T06:46:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "db1d77a9d8d0f10550d130afbcca6af41bdc95fd",
+      "date": "2012-10-05T00:51:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "63513a679ad73eee275736f1d3a7aa2c75367a8f",
+      "date": "2012-10-04T22:51:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c594189e8b0cdc2b877d2306a8861f009a82b862",
+      "date": "2012-10-04T22:05:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "062de73e74b4021dfac13efd092a88a1d136e030",
+      "date": "2012-10-04T21:28:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4c085fb228adc8c65507ead30a2bbba94cbceb22",
+      "date": "2012-10-04T18:35:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c7f96b2e3fc8c52bbb9039a0a7cff0903e810da0",
+      "date": "2012-10-04T17:58:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "75036869a162e418fa61849bf82e81a30955a2b1",
+      "date": "2012-10-04T17:58:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fdec3152a042466710fc8d448e1f59d5e097a093",
+      "date": "2012-10-04T15:38:15Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "8a7ce270c4c258e0592a00bd8407e9607e1bece4",
+      "date": "2012-10-04T15:37:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "01c875aa007f4e289ef066a66ba339466a66cc3e",
+      "date": "2012-10-04T05:49:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1160e17620acc4aa74753fb0087f3dc17fd609e2",
+      "date": "2012-10-03T19:59:46Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4be71f18b0a93e36cfb59e0746a10a85e49b15ce",
+      "date": "2012-10-03T19:06:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2350f3e95105a9a23caf8aaafa546dd88bf684c0",
+      "date": "2012-09-24T18:27:19Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d68f6cb5f2e3a9bb3f877f22129538935e138866",
+      "date": "2012-09-21T18:45:26Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e751b087286560ed80797d32a2431aaf9844e7ac",
+      "date": "2012-09-20T00:06:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4f349d912d631d50794d5ee2beb5ce33f252e288",
+      "date": "2012-09-01T20:31:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "19b48bfeb81bd48b39048df0125c8e862f4b5513",
+      "date": "2012-09-01T20:17:06Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c98f07f95b428e9876695f9312c7741180c51a3a",
+      "date": "2012-09-01T20:11:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "68b4d7d14ef88975a559042e81214088733d4466",
+      "date": "2012-09-01T15:51:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7bb5f00ccb6fc5cbf36fcb9a544ed17f1e32e8ed",
+      "date": "2012-08-31T21:04:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b833a36de01772b061e61faff702970a7c69bae7",
+      "date": "2012-08-31T20:58:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1a47633b567256c195a013d2e143df1558bb7f5a",
+      "date": "2012-08-31T20:40:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d4a8a7e3fd6f6ed8fd052113ed104107bd41ff19",
+      "date": "2012-08-31T20:06:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "defd4015ac31a88f2e460a3a3c29b118737af118",
+      "date": "2012-08-31T18:06:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "71ddec6f92fa83e420877a5f7f49cdc02e209c7d",
+      "date": "2012-08-31T17:56:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0bca513d49449685582aa7dde174985625d54c77",
+      "date": "2012-08-31T17:53:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c3118f4b2f3afa159a787c858bc5b14f9a3f3c87",
+      "date": "2012-08-31T17:16:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a7fdc4ef8a1957718c3ec42f29eedd443ca81f16",
+      "date": "2012-08-31T17:13:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e49e89e01f8bbbc74dd45e4e2eba0c3a0f8ddd71",
+      "date": "2012-08-31T17:11:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a54d10cc9c36f936e0d7597ce9aff11472d1846d",
+      "date": "2012-08-31T16:59:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f06499a4ae40c565dad5e2a6731c15d03a19dd7d",
+      "date": "2012-08-31T03:45:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4175fd5b867da6dacb528e67d046b3a8246c1c53",
+      "date": "2012-08-31T03:11:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "584fffd7acb106edbcba2d60372e0d6f8f807c24",
+      "date": "2012-08-31T03:09:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "84aab0c2aef28d7d2f17d3fa4f2304e9452cb2c1",
+      "date": "2012-08-31T02:54:11Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "51b3deddf0a96a2ae835c6b20f75e88a917fcabb",
+      "date": "2012-08-31T02:34:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1458605d5299044dc21b541bf44b94148bdd54d3",
+      "date": "2012-08-31T00:36:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b28174a30ee3618f5d7429447793dfd078e444da",
+      "date": "2012-08-31T00:35:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1c75dd91fe7cc2f414c405864e9400b78fdeaa0e",
+      "date": "2012-08-31T00:32:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3d91de3426b07d2c749e19ab6a40b1a768820734",
+      "date": "2012-08-31T00:08:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1adbe390387c55fb0bac67bf1145e68cc8aee528",
+      "date": "2012-08-31T00:04:23Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b6a4be3a39b33d2de0cd142ece872f2e8b40d241",
+      "date": "2012-08-31T00:01:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d1e1f44e0723049433b64991005680d398b1f381",
+      "date": "2012-08-30T23:54:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d30028b4a4890f256ddf9347165496c19b830b7a",
+      "date": "2012-08-30T23:52:26Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ab7b99d9f4577b68b02883a8bb4ba22b1e31cec4",
+      "date": "2012-08-30T23:49:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "977d50b672d6bb9f2d5daa8df72301786b85da37",
+      "date": "2012-08-29T19:04:49Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6ba4a2ddf076e29a9cd7d3a23fe51c7c4fcfdfd7",
+      "date": "2012-08-29T16:56:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3958e26801088134bd7edbeeae498911039c652a",
+      "date": "2012-08-29T04:09:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b2eb9fcfc751e019fe1ca77f8400490eaef67363",
+      "date": "2012-08-28T19:11:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1c4b845be2ea791252a93194c4a5c7e47f51a327",
+      "date": "2012-08-28T18:57:42Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5011c07740284332d059365424a09903c5c1bacc",
+      "date": "2012-08-27T05:54:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1fd2d02e28390ed7e18905a63c110035f6820e28",
+      "date": "2012-08-20T23:08:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9e6f8a5b06dc97bf0beb119eef7b23f8a269b0e5",
+      "date": "2012-08-20T23:04:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1f72f59fb07e65a1e4e01f6f1af3bd5ad7e73d7a",
+      "date": "2012-08-20T23:03:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "66ae615e1db2f32db90e894dccd403be3fa13cd1",
+      "date": "2012-08-19T16:59:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c9b222e7be0eda9923c4d5b6b500683a96f2b9f1",
+      "date": "2012-08-19T16:57:11Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "82dca73c1368ae4be732d1a3923b240c0fd1a534",
+      "date": "2012-08-18T15:36:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "780942432315f5185b18945812fee0c0d759f635",
+      "date": "2012-08-18T15:28:42Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "28136f37f583bcbee924dcd10ce69a1490540c2b",
+      "date": "2012-08-18T15:14:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a6df56fc695c8b34e2ada5ba1882af499029753c",
+      "date": "2012-08-18T10:28:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4c65cae5801aa1d9d49b7d26571fdc01767c1729",
+      "date": "2012-08-18T05:30:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7330fdfe970d8c3d066e61b0ed60b19a11cbf6f0",
+      "date": "2012-08-18T05:01:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fa600c80044e1c0b922c9e8d5e53c303930db22a",
+      "date": "2012-08-17T23:41:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "09e7569b57667c56bdb441ba098bfd655bca0ab2",
+      "date": "2012-08-17T22:10:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9e187dfa2ded64d4b616db2cae428b4d48801f49",
+      "date": "2012-08-17T21:19:54Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f27329dc1edf7c2c8df1accf63f16d9964eee52d",
+      "date": "2012-08-17T06:13:35Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "66f135c1dc291ea64bf576e04fa3257a0ad1b6ff",
+      "date": "2012-08-17T03:55:20Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7078cc41f591768dc824c82efbbf1c7653a45e30",
+      "date": "2012-08-16T23:52:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2562b21935f9d0f372e1a2a06e6ad699ebb686ed",
+      "date": "2012-08-16T23:35:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fd9782b5898d0d95b9e25c97fd43ccc68982d168",
+      "date": "2012-08-16T23:23:20Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d59d1f52f697f0580b86843ef754a80d4f499e97",
+      "date": "2012-08-16T23:11:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "37cd872db697b57bdd89fa6426e087173fbe638a",
+      "date": "2012-08-16T23:06:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0790716da390bed2c2a31fbb0456566c7c7bcf9f",
+      "date": "2012-08-16T22:59:23Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3c6721c678a3772fb40c87f7ea9044616c68c7bd",
+      "date": "2012-08-16T22:56:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c843e9ef26b7da28fffb4c3442b8c35d94f49a11",
+      "date": "2012-08-16T22:49:11Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "04e9ee1bbccd95a81f16f26cda0f9c87650c9496",
+      "date": "2012-08-16T22:07:46Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0f74d93761abd4d1c719f4dd15271c31c5eeb8dd",
+      "date": "2012-08-16T22:07:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "50a59a2907a9b0503357532321d2057d4c90609f",
+      "date": "2012-08-16T22:05:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "dfbea65100904f457cf12bf4953c9de5dc0bc01d",
+      "date": "2012-08-16T22:03:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "59619c413b00a3966734bc83f69abfe84174366c",
+      "date": "2012-08-16T21:42:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f053322de1e5d062dc81f8c69d5c5bc450a78a2f",
+      "date": "2012-08-16T20:35:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "862b984d0a3842d128f85d017181152dab39c8c8",
+      "date": "2012-08-16T17:34:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fa07ca586ab2abcb592f346ad0cd3ba93f16f2bb",
+      "date": "2012-08-16T16:20:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "dc806befa430664950600ae7894651403835bc6a",
+      "date": "2012-08-15T02:00:03Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9381cb4eb5368d78ab292a4f8701e99db482e731",
+      "date": "2012-08-14T00:05:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "97a9930ee038d0189fe51bdcf705fab8e87eab65",
+      "date": "2012-08-13T23:27:54Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6dce7f13f61fcb36eb76f9745e7da4d722b1b851",
+      "date": "2012-08-13T22:04:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "57e67ad11ae6537a35297499f229d04ae5491074",
+      "date": "2012-08-13T20:50:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "11f2efa2037d08563e62a019ed51f4dfc9ab3611",
+      "date": "2012-08-13T20:49:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "92a5ebaf9cbffe9e1f106587da7addbf7546c727",
+      "date": "2012-08-13T20:46:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3566089a8045a8548dec8bd6e0b6a9c50accf48f",
+      "date": "2012-08-13T17:15:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "36a2361766dc4ec318b10c82e66d0bcf578ae9e8",
+      "date": "2012-08-13T06:26:19Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "27915837a285f98959397a600e2e71ea28aa25b9",
+      "date": "2012-08-13T06:18:15Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "be57080f3cbfbf9a0ccc49fef30907d90b7416bd",
+      "date": "2012-08-13T06:04:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "09dbfd8b892bbfb93e68396817f646a7eada2aa5",
+      "date": "2012-08-13T05:34:06Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0795ffa2d2f14badb5ff4b9337c44329efbaaac7",
+      "date": "2012-08-13T05:24:54Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7f063ffc5f8ad213f7faa0c1135e38ab7167c6e3",
+      "date": "2012-08-13T03:29:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "8ef4e12e1e1a1a58e89f4baaf689494c07af1ffa",
+      "date": "2012-08-13T02:16:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c2396bfc694121605b93b34d8fe9b2458e84f564",
+      "date": "2012-08-08T17:22:41Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "aa00ec97d9cc810efc5a7eec46782ee0d5b7008a",
+      "date": "2012-08-08T17:21:02Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "bbcb9a945d05f24dedbd606794049eb15db8e35e",
+      "date": "2012-08-05T00:07:58Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6b8c7dc5bfd709c2a44263d860a42a8de1093529",
+      "date": "2012-07-31T17:01:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4526e52439f7c111bc3a7d175e135e50041197a7",
+      "date": "2012-07-29T01:38:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2e69117a2ce0f4eadce4e08077f2ffdf2a2dfabc",
+      "date": "2012-07-17T18:32:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f47a74254ab718191e654282c599e3bff9f459a0",
+      "date": "2012-07-17T17:37:52Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2d4bb2894ff9dda2967d3de22d291246ebbee11b",
+      "date": "2012-07-17T17:32:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2cfa6f4119f44ecacea84b0590fdfc3a35397bc7",
+      "date": "2012-07-11T15:08:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "857e70d9136894d3e3e54844064d8bb8b066ca77",
+      "date": "2012-07-11T06:32:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e7a9084773dedd1f99aa6d572a80b0a45a96e7cb",
+      "date": "2012-07-11T06:25:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d792607c386c0f7fc6832ba2d2041d565c7e0f7d",
+      "date": "2012-07-06T05:28:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "22971e3b19b9e4e70f3f2b1a31bfd95ab7b6b1c6",
+      "date": "2012-07-05T23:41:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "732dc778f32420b3240b4980d3f09368b826a59d",
+      "date": "2012-07-05T00:00:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a13cbabc33c501b1ce0d9a51f8dc84e44993f807",
+      "date": "2012-07-04T14:45:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "72d3bab7d7f1e7dd74d80ff28a97f29f96f90515",
+      "date": "2012-07-02T19:04:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "902d4ee244a9a481284727c03327319cafbbe545",
+      "date": "2012-06-29T17:22:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "899349d69a975a5c26193bdfc89a670be3cef03e",
+      "date": "2012-06-29T17:22:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "201a9889805c23ea0d685bf9c812bde9f29817d1",
+      "date": "2012-06-26T00:27:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6c4342ff6933e4c47eee8de3680386185576abbd",
+      "date": "2012-06-19T22:18:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6612191c32140ef65e9ba99e121e1be45a4616ac",
+      "date": "2012-06-18T15:49:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a85d36e53035e53fd6d22a5626cda12421a0f7fc",
+      "date": "2012-06-14T16:58:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "28ea930a822d6b49082188ea432ef486bec8eeb8",
+      "date": "2012-06-14T16:54:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b05fc82159bdb377b24ceeb8aa9e35048138c20e",
+      "date": "2012-06-14T16:53:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a576c4488abcb80fd48728f38e3db712fac2bf86",
+      "date": "2012-06-14T16:44:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "96af7ab0b55dfbe7805d9a6adef03ab52bc1e052",
+      "date": "2012-06-14T16:39:19Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6710dee97af12013b23e5e7b098e0dcc206126de",
+      "date": "2012-06-14T13:34:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fe87b1b73c6c827deb1d9bc6ca2df3579020446f",
+      "date": "2012-06-07T05:50:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c2a80abc3d9a9d24c339d4a5a73577682779464a",
+      "date": "2012-06-06T17:03:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3d9644325cf113166a18d8256603a3813a7bef89",
+      "date": "2012-06-06T17:01:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "418e287d9c9b35895782ebfbf20a685a60db838a",
+      "date": "2012-06-06T13:52:44Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ba17280335ea974bf1951af73af6f8faa2289bad",
+      "date": "2012-06-01T15:48:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b18ef61f0c92e9989c6301ae05db52e71617616f",
+      "date": "2012-05-19T18:37:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2a8f2dc649a8edb5d00c7b0d0a3b8e6270593dac",
+      "date": "2012-05-12T00:13:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "edcda4fe13bf0ca660acacb72cecb01c9ee22ebc",
+      "date": "2012-05-11T15:27:44Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cfac38e90f94431a2257400890d36b51d86204c2",
+      "date": "2012-05-11T15:17:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f8bbb5bf66951be90c0a46c221ee90f58b2a0b4b",
+      "date": "2012-05-11T15:10:15Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f43b561b148acca24ebec4f3e87d84b90ba0e484",
+      "date": "2012-05-11T15:05:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "040d5926f17981e892279aa033149a6197fda560",
+      "date": "2012-05-10T23:38:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a20d3ca1ad4a812c2b9d623dfd21f146301a7386",
+      "date": "2012-05-10T23:29:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6cc1e664d7245ccd69509d64c320705afd7f38f7",
+      "date": "2012-05-10T16:32:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "641b30707a5a47fe972c1566c82f3815a7e4b0d8",
+      "date": "2012-05-10T16:22:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "836276df1373708094372ff364d3dc4adce0922c",
+      "date": "2012-05-10T14:11:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "63e59d303e04bf73b921865a0b9cb88da9cb66ea",
+      "date": "2012-05-09T19:01:47Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "00badef4a241cb097bb338d43075a28dc7d8b5e1",
+      "date": "2012-05-09T18:33:11Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a698118eb76111f2398a0790e87dd17db6a27bed",
+      "date": "2012-05-07T16:38:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "435122f813420616eba8a0c397d7bbe4313ea34c",
+      "date": "2012-05-07T07:26:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0257db266f51e08c9c5fda4c6bafdb4c91184dfe",
+      "date": "2012-05-07T05:08:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7e9588effca46bb523599c6d0f77c1eb0ca568b4",
+      "date": "2012-05-07T04:01:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d315c1e46a7047c45c8c0101f315f5530ffdc5d2",
+      "date": "2012-05-02T21:16:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0e82bae8eb5d4c9abafc920a89153b74bf1de231",
+      "date": "2012-05-01T16:21:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "827ff673e84da1588318a8e11ec4d429a7129a3f",
+      "date": "2012-05-01T04:32:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "65bac82ffc4ac236b1d28211f1c9ef898185f0d1",
+      "date": "2012-05-01T02:47:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "50ad5dad2a0e67c813c8f4a6f90176c3ded42703",
+      "date": "2012-04-30T03:02:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c38469db36467eeda22b79c4139ee5e097d9a116",
+      "date": "2012-04-30T02:57:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "aea07d351bf306754a71febad17e3d6776b43c5b",
+      "date": "2012-04-28T19:29:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "503d5e5fec1dcad6d51823625a15f1ef539b5072",
+      "date": "2012-04-28T19:18:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0aebe3e3414daa307c33fab65a1a8d60d2d38de4",
+      "date": "2012-04-27T20:23:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fca1395aad2b7c9e477a441e3c40d3fe6cada27e",
+      "date": "2012-04-27T02:39:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "50de70d214396353b53de0ae2b32f5ddab75b863",
+      "date": "2012-04-25T01:07:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0495dc1d3b40248133e70051a6448042da470c65",
+      "date": "2012-04-25T00:17:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ede99b1574281c8e7a2358ef5d17f59f947fd99f",
+      "date": "2012-04-25T00:07:44Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "bd3c8948b18aa76461b937807465629dfca67511",
+      "date": "2012-04-24T06:17:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e2909fb19a857376ec5564dae02acb211b941822",
+      "date": "2012-04-24T05:41:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fc5bd207b463c28730b26ce617e71bf4a703d57f",
+      "date": "2012-04-24T03:56:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d99f319911fb9b9ef7a9dc8ad5e5b511875b975d",
+      "date": "2012-04-24T03:47:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fb5fa180470b389fa4206108ce8e376ed0dee7b0",
+      "date": "2012-04-24T01:38:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7b4f7fdececdde14b036ce7ff6ad53a81af7dcaf",
+      "date": "2012-04-24T01:24:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f1662616fa64988c82ae3a0b46889cd15e81cc7e",
+      "date": "2012-04-23T02:42:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "03190f8d81ed22d80ea0b827e8e682bbab19f5df",
+      "date": "2012-04-23T02:37:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c853a7529140523088f820f97eb0ba66d18220de",
+      "date": "2012-04-23T00:20:06Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2b5b911db5d681ab61947559fec679b44b7fc829",
+      "date": "2012-04-23T00:16:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "49670cbd10142007287b84fa68b0a61d8d98b5f9",
+      "date": "2012-04-23T00:09:47Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6acb6f4d126ae8544e955bc809d5fc8d7a475e9d",
+      "date": "2012-04-22T15:12:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "39cd9ec0c86c5d763697e6144b22b7773ca481d2",
+      "date": "2012-04-22T01:31:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "28096ad5ba0d52616ea26584728ab1dbbd005924",
+      "date": "2012-04-22T01:24:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "bf8bc79daf26420df7f2b48dcff6d9160af71600",
+      "date": "2012-04-21T18:16:20Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2691266dfe3b4adcecf9cf1d70764efcd57cd39d",
+      "date": "2012-04-21T07:31:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "818576c15aaf7fbea821ffadccf8c969d1ccd6b5",
+      "date": "2012-04-21T07:28:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "722da6aaca3acee8546793fc0292d9e7a1422015",
+      "date": "2012-04-21T05:16:54Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0df685d165dc588a146bdd0f066fbf2677bc8c95",
+      "date": "2012-04-21T02:45:34Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cf18169e01c893be5eb2ec24d43e114ccd518005",
+      "date": "2012-04-21T02:09:19Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "95eecce954ed34ccda4a106f218c82866398ec04",
+      "date": "2012-04-21T02:03:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9679b7f2e6d1dea91abc651f7b192d53e18922f1",
+      "date": "2012-04-21T02:00:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "566e01e5c821df29164e65a4e04395cf2f975650",
+      "date": "2012-04-21T01:51:18Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "654ccf077ec813e44f206ec084be6f8a77f936b1",
+      "date": "2012-04-21T01:43:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1e76cae1ccf09ac26702b3c0bb4008ca6b8a0079",
+      "date": "2012-04-20T15:31:47Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "359d3768a47f74762fc31f877a0cc77c2bb35dda",
+      "date": "2012-04-19T22:31:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6b4164a22870541339f356b35617ded95e62105c",
+      "date": "2012-04-19T22:19:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1bfe0aac9f77a404096870a689904a0fb66a0a71",
+      "date": "2012-04-19T18:58:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c3693d885397c7682ff87f5e0a49b20573bc50b3",
+      "date": "2012-04-19T18:58:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3744a93bcc293ac21b34c70dd3f85c19f4e2392e",
+      "date": "2012-04-19T18:03:46Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "95a2b2d9d0e4e4e8cbe5b48bd29ca1230fecafd1",
+      "date": "2012-04-19T16:42:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a733208a98ae1a9db3c13aa8903fba8ecfce70fa",
+      "date": "2012-04-18T23:43:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0327f8cbe5265d8730b8749d80c69a733e5ffd2d",
+      "date": "2012-04-18T18:33:06Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "064e417255a6fd7f83acf21faa9c199220ef7419",
+      "date": "2012-04-18T05:53:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cbed251243167599d09d0fc4e6f89ea2a06b8a89",
+      "date": "2012-04-18T05:49:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7da0f80315ae2b80385463e58f1144d965f4b07a",
+      "date": "2012-04-18T04:58:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9f75f1e829d269d3ad623258a8652ae569ae0e5f",
+      "date": "2012-04-18T03:24:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "519257f72a2fcbe3e43049e7ef850009bbf30df8",
+      "date": "2012-04-18T03:15:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5b8bb367c9f19cede7bf6e1479db6e3498632660",
+      "date": "2012-04-18T02:32:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4a58759d59760e002c3d9964f38423fec5e83f5d",
+      "date": "2012-04-17T20:06:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "454f02a754002f898856387d1bb3b0ced3b2f07f",
+      "date": "2012-04-17T19:35:23Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "dd46da17a77497993c936e2de9aa00e696e0018f",
+      "date": "2012-04-17T19:00:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ce224b1313e0ff28dbd52dbb0ddd09948d007f8d",
+      "date": "2012-04-17T18:29:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d10d3f4646d6742a4e0f36145e68e018a7bffe1f",
+      "date": "2012-04-17T14:21:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4f39640284772dedf0892173898bc82273171c30",
+      "date": "2012-04-17T06:29:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "763b4a7a64aa5354413e4d577a52d113e1cb716d",
+      "date": "2012-04-17T05:33:13Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "41e39ff3792f76f79b1336090fab13f29411c03f",
+      "date": "2012-04-17T04:43:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "089cd3686351c00fa995863d6c72084eb61dcfd7",
+      "date": "2012-04-17T04:34:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3f977c4c0b4494c80c2608f4ef940a39ce308d3e",
+      "date": "2012-04-17T03:41:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e4a861bec1b7be2a76e55607fc5688ef5915b574",
+      "date": "2012-04-17T03:32:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "17ab1a537896f43fb183b054bf73733cb49ca2af",
+      "date": "2012-04-17T03:03:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "4a6b2c091cd32ea4145f205ab254c5c0b8795ec8",
+      "date": "2012-04-17T02:14:35Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "df9e71adde45ab46a1990b0aa2aef0558ea688f8",
+      "date": "2012-04-17T02:05:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "8ed119f48a7fdc89e7e4e17b1235c33daa45bf8d",
+      "date": "2012-04-17T02:03:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0201d94f8295b065c276c03901c598c871e79533",
+      "date": "2012-04-17T01:58:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7ad845973544b0a9aecce4763be7eb7be0dbbbbb",
+      "date": "2012-04-17T01:55:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "077f78379c8f39594d268d9fa7f352798f18ca45",
+      "date": "2012-04-17T01:26:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a221dab3d405c1ecf6251462ffbd969603b7f837",
+      "date": "2012-04-17T00:30:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e477ee3d6277c3acc309ddee864a016224ee7ed9",
+      "date": "2012-04-17T00:23:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "083d0617dee855d0b4d21ea6867415a700dfc8f3",
+      "date": "2012-04-17T00:18:44Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7cd15d42428fbcfe2228f424fc467cd84aec45c0",
+      "date": "2012-04-16T23:41:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cf60f6cea195d04acfebe207cc0e6918da7b288e",
+      "date": "2012-04-16T22:53:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "213c2efa69be980d82ea1a2a55f42c17f5b4a420",
+      "date": "2012-04-16T22:27:58Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7928687060494bad2ac129caba0904d99ba73226",
+      "date": "2012-04-16T22:17:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a878fc6ac415f913482b4cc65c5dba0758bb36e0",
+      "date": "2012-04-16T21:58:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7a6a742e2a8635c81e50c7b1fd591df550c970ea",
+      "date": "2012-04-16T18:58:23Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fbdfe62879c84b296b752151ef4de8aee55aad4b",
+      "date": "2012-04-16T15:09:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b5103478a8a2b1879727e7f6e98e4662c621f683",
+      "date": "2012-04-16T02:51:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "16e8a00076be96e578040bf5785465e3d682f30a",
+      "date": "2012-04-16T02:29:47Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0f828df725c2650880bc9c19e4d71619811a7b65",
+      "date": "2012-04-16T02:16:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ddafb6ed988adabb408e14ab1df94ec0d7e795b0",
+      "date": "2012-04-16T02:09:54Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "39f378c10a384d4319e37e5fbce9d12cec627853",
+      "date": "2012-04-16T02:03:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ec58a3b526e23d8c290fa4564166cfe5faf56511",
+      "date": "2012-04-15T23:44:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "8c73168f94d2e7451e325d4a58d59aded73cbcf4",
+      "date": "2012-04-15T22:50:41Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a8c1ffae9ba835fd2d72ba4990310743cc42efe3",
+      "date": "2012-04-15T22:42:35Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9f1dbd3e2bca00b251c51ee21aa168a1e0d9340d",
+      "date": "2012-04-15T22:41:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a5c9eeb68325be371701576c40b4a120c2505e2c",
+      "date": "2012-04-15T22:30:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d9cf607ae1f838926f3926dfa031945e759ac1a2",
+      "date": "2012-04-15T22:22:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "56c93efd5960de0186aaed1576cfacb56ae97c77",
+      "date": "2012-04-15T22:20:46Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cd3fb6fceb16dd518a22f4878f3e00e37883f15f",
+      "date": "2012-04-15T21:52:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "eb49414bfb12b2fad9f75a29ac40303bdbed3502",
+      "date": "2012-04-15T20:41:03Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "219f15c732971eaa23b1466215dd49b74c55f0e6",
+      "date": "2012-04-15T20:38:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cf957025bb0c3e246590e24d01fa66bf563d0c1b",
+      "date": "2012-04-15T20:21:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2b074b9101d7130bdcfe7b381e6953b60092d2f4",
+      "date": "2012-04-15T20:16:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9cbe4a8aac61ba256ad5e46dcec9669f5af3c01d",
+      "date": "2012-04-15T18:54:23Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "dabdeaedf438db443b843e91c48d3c390bcc7068",
+      "date": "2012-04-15T15:10:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7bea474bc1b30f192c4a24bdaf73df51b2266379",
+      "date": "2012-04-15T15:06:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "11ef37820929def2e6b1e522c330a904c360bb7c",
+      "date": "2012-04-15T14:53:02Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1bddb3622d526b7b744f0139a4cffa1a0460fe36",
+      "date": "2012-04-15T14:48:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b4e452a6fafbb50bc60eee2e74a110038c1c4dbc",
+      "date": "2012-04-15T14:44:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d0745b1600d6113ab2a20ccbaa60ca2932271ba7",
+      "date": "2012-04-15T02:33:02Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "8500660d1dc5201e9b99f92d0410504145a6691a",
+      "date": "2012-04-15T02:00:34Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a811219615f4878a43b9ebb1e15243008e4f8e48",
+      "date": "2012-04-15T00:53:13Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c8c49e3a903b773aa328c0f25cccaa179a6b4424",
+      "date": "2012-04-15T00:36:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0373961e26dd735a1d06e6224471c6cd48351600",
+      "date": "2012-04-14T23:10:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1442f959b362a6d6d1835998290daefff394cf1e",
+      "date": "2012-04-14T19:46:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fa1929a4dc3ef0c6845f08248934a4a811c6b66c",
+      "date": "2012-04-14T18:28:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6b6c973d0ec1a9756cf8ca5eccabfb24bc6ac8d0",
+      "date": "2012-04-14T18:24:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "054ebe49e78f339117b136637ce39f86c633bb2e",
+      "date": "2012-04-14T18:20:03Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c4338e9a55be6270050cbbfa761605509b8ab048",
+      "date": "2012-04-14T17:47:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "37f6b27e6025ca3c1aa5da4592cff25ba5676872",
+      "date": "2012-04-14T13:30:41Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "73d0a13e11003da4b93ee56d887378bf87fe9095",
+      "date": "2012-04-14T13:24:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "bd2fb9a0d0ea00f5f20fc2981788b09575e52632",
+      "date": "2012-04-14T13:16:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "2c1693b04ec47468c0b4f339b7ef709fb99c6317",
+      "date": "2012-04-14T13:12:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d780b8ddc163b21562682d3f807716d713dc8a61",
+      "date": "2012-04-14T10:50:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "fa80a027e6523c047d548201469272b448a6a6c6",
+      "date": "2012-04-14T08:38:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cff5988520079e308957e4b65670a1b5d9679dea",
+      "date": "2012-04-14T06:22:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5fffafd8d68e67c7df890a102c0188454fa3e992",
+      "date": "2012-04-14T05:38:18Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7c32880c0fbac48a3c96bad8ba91dccedfbd311d",
+      "date": "2012-04-14T00:12:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "7929386f3f7c7fa85195d6adda55a12574b6fe05",
+      "date": "2012-04-13T19:12:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a95a92135ceea099e1fe228c4e89f720a10966f2",
+      "date": "2012-04-13T04:10:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "99d1145d139a46fec3150bd69bf5421f40300cf7",
+      "date": "2012-04-13T04:06:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "67af31979b9ffe54370787d2f56efa432d86ca32",
+      "date": "2012-04-13T04:03:04Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b45c8fd9b32b561ed4d81329dd12a1319f2aca83",
+      "date": "2012-04-13T03:55:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ea6250ea728236e9864399948b6dc0539ed7ab94",
+      "date": "2012-04-13T03:55:20Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c88392d18e63b4306adab0899bfe30a63362e59b",
+      "date": "2012-04-13T03:25:28Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cfa1b75ac7efc664e436c8878792e30d9a45b4fb",
+      "date": "2012-04-12T23:27:13Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "bd7d81b9b2135a773c69403af802692c5bc7f269",
+      "date": "2012-04-12T23:23:18Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "088c14297e0ce0c1ab40ce528ef27c2c37bd7aca",
+      "date": "2012-04-12T15:19:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "088a18a9325c45365cf32b1ee9dec5c058e7fac6",
+      "date": "2012-04-12T07:34:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5a83f9b37332953c1a2e59a506f3d1006708bc81",
+      "date": "2012-04-12T07:22:34Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9b0da3d6d0ef9ea4b84b08461c790d3d92d8fb75",
+      "date": "2012-04-12T07:17:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "48478bf8e5b3185443e1ea6060a12f48d9e75c44",
+      "date": "2012-04-12T07:15:58Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "a54b123621c0e169e9daece19dc665b770f0208c",
+      "date": "2012-04-12T06:38:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b27dc30329e205401a38d20208eebb44258c612f",
+      "date": "2012-04-12T06:35:49Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cc9837e9bfa1226f245c413b9436b70957bc3a0f",
+      "date": "2012-04-12T05:56:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "790e341d6622cb2cd6f7a83bbec04b02c37a4fd4",
+      "date": "2012-04-12T03:33:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ef7b418940dce2d4656fb859e8d17865f4376d8d",
+      "date": "2012-04-12T03:06:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5324918c87d46a7d858869127bc9dfd3c21132fa",
+      "date": "2012-04-11T17:43:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "ef9c925357e6482670c2f08a789626843909fa3d",
+      "date": "2012-04-11T17:43:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5f7da19653b58c5b105bf8ae8388da5fa120a789",
+      "date": "2012-04-11T16:36:54Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6eb49027b2d8df404421d8c63074e63f50a8126f",
+      "date": "2012-04-11T16:35:18Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3c03d34209333a61a94bc3cb71b96f9a50e7d628",
+      "date": "2012-04-11T16:25:20Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "cf208d734bdb23a07d6e48e0f018bec907168185",
+      "date": "2012-04-11T15:13:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "989ebc9c97d1535751e2cdb7eff47a156f93b7dd",
+      "date": "2012-04-11T08:47:58Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6ea7328d4befaeaa04f8fb06ee1a49ab74cff926",
+      "date": "2012-04-11T08:04:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "b253673625c06ee366bf5d23b87e018011e7d042",
+      "date": "2012-04-11T08:00:11Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "1a794b6551a46009cafd8691c08e592d76552804",
+      "date": "2012-04-11T07:57:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "62843603d06e6b699c519468b6ad281639d5193a",
+      "date": "2012-04-11T07:56:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "f6fe0a25bd3f2653e65fd44687df1f594f8a85c0",
+      "date": "2012-04-11T07:45:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "9ea317bec56f0c2d7645fc88aefdbc94c8e3d32d",
+      "date": "2012-04-11T07:25:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "af1425f50c79cb56fdf057b48b1ff0af22ccc989",
+      "date": "2012-04-11T03:55:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "babd889b3e484ebb444a2abad1200a2a8892d65e",
+      "date": "2012-04-11T01:10:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "3138a8519e255c715b83b620592ccde4d60c970e",
+      "date": "2012-04-11T01:01:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "319de577c500eb2121faff365de9a58c9f14af6e",
+      "date": "2012-04-10T23:10:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "363322aa737d8df9076c26ab01f06565e4fd5e99",
+      "date": "2012-04-10T22:45:15Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "e559bf7d64107cbd5a3ba9fb9751e67a77ee62ab",
+      "date": "2012-04-10T22:40:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5bba6a27bf8e1df6bb74973fc4019dc102106d92",
+      "date": "2012-04-10T22:24:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0f62eb54ecdcc047312f549b949bfe6598fffe99",
+      "date": "2012-04-10T22:07:06Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "93b40951ab8748d2b3bb3f9377b77203238ca6bf",
+      "date": "2012-04-10T22:04:49Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "207946c67c3e15b2862d0ef022d4538ef77a2a91",
+      "date": "2012-04-10T20:52:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "6b02a51e17e4f28ff52393039de4cd0f6a61026f",
+      "date": "2012-04-10T20:44:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c7c961fe1690366bb16689eb1695e4eff1f9b7ad",
+      "date": "2012-04-10T19:13:44Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "31c9234e1b8ad6b96cf3446daffa454889e58599",
+      "date": "2012-04-10T19:00:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "aaacf304d67165911cee91243c52575c51588467",
+      "date": "2012-04-10T18:42:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "5c93433b75758c0a27caf18ed354f2274ac318ee",
+      "date": "2012-04-10T18:38:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "d284e505372ff95f51f0bebb8fccd35abb8192c0",
+      "date": "2012-04-10T18:20:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "c03157994b7a9a3dc61bc7b92f2bac6f49311173",
+      "date": "2012-04-10T06:59:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "03af476cb402dfa636adc04576f44e32b68fe6fe",
+      "date": "2012-04-10T06:44:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "redis/redis-rb",
+      "type": "commit",
+      "id": "de66daad64192b2c518f54fd6f3261bc64bdb0fc",
+      "date": "2012-08-11T22:15:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5135749,
+      "date": "2012-04-15T00:00:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5135981,
+      "date": "2012-04-15T00:44:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5143698,
+      "date": "2012-04-15T23:41:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5145770,
+      "date": "2012-04-16T04:53:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5154405,
+      "date": "2012-04-16T15:12:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5164132,
+      "date": "2012-04-16T22:27:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5210492,
+      "date": "2012-04-18T22:32:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5250997,
+      "date": "2012-04-20T19:05:20Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5256187,
+      "date": "2012-04-21T01:52:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5256228,
+      "date": "2012-04-21T02:02:34Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266734,
+      "date": "2012-04-22T09:53:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266743,
+      "date": "2012-04-22T09:56:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266803,
+      "date": "2012-04-22T10:10:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266813,
+      "date": "2012-04-22T10:11:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266853,
+      "date": "2012-04-22T10:21:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5268391,
+      "date": "2012-04-22T15:16:18Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5273886,
+      "date": "2012-04-23T03:31:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5273889,
+      "date": "2012-04-23T03:32:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5295850,
+      "date": "2012-04-24T01:31:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5296026,
+      "date": "2012-04-24T01:49:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5472640,
+      "date": "2012-05-02T21:17:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5607740,
+      "date": "2012-05-09T18:34:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5608497,
+      "date": "2012-05-09T19:02:26Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5622810,
+      "date": "2012-05-10T11:23:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5623141,
+      "date": "2012-05-10T11:47:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5623248,
+      "date": "2012-05-10T11:54:47Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5623548,
+      "date": "2012-05-10T12:15:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5626145,
+      "date": "2012-05-10T14:13:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5628274,
+      "date": "2012-05-10T15:28:42Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5629247,
+      "date": "2012-05-10T16:05:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5629676,
+      "date": "2012-05-10T16:23:49Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5639684,
+      "date": "2012-05-10T23:45:26Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5648530,
+      "date": "2012-05-11T11:25:11Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5648821,
+      "date": "2012-05-11T11:47:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5652252,
+      "date": "2012-05-11T14:44:19Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5652925,
+      "date": "2012-05-11T15:11:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5653257,
+      "date": "2012-05-11T15:23:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5677525,
+      "date": "2012-05-13T16:45:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5699148,
+      "date": "2012-05-14T19:07:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5725752,
+      "date": "2012-05-15T20:00:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6151071,
+      "date": "2012-06-06T13:52:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6290393,
+      "date": "2012-06-13T01:20:11Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6291042,
+      "date": "2012-06-13T02:19:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6328053,
+      "date": "2012-06-14T13:33:45Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6333744,
+      "date": "2012-06-14T16:36:06Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6334140,
+      "date": "2012-06-14T16:49:15Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6345923,
+      "date": "2012-06-14T23:13:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6399985,
+      "date": "2012-06-18T15:49:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6400217,
+      "date": "2012-06-18T15:53:09Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6438868,
+      "date": "2012-06-19T21:58:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6439361,
+      "date": "2012-06-19T22:19:07Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6439412,
+      "date": "2012-06-19T22:20:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6439529,
+      "date": "2012-06-19T22:26:26Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6563940,
+      "date": "2012-06-26T00:27:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6605764,
+      "date": "2012-06-27T15:02:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6621671,
+      "date": "2012-06-28T04:28:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6635251,
+      "date": "2012-06-28T16:57:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6635414,
+      "date": "2012-06-28T17:03:31Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6640781,
+      "date": "2012-06-28T20:34:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6669919,
+      "date": "2012-06-29T17:36:44Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6669925,
+      "date": "2012-06-29T17:36:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6765394,
+      "date": "2012-07-04T18:18:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6765679,
+      "date": "2012-07-04T18:38:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6769577,
+      "date": "2012-07-05T00:00:47Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6769844,
+      "date": "2012-07-05T00:38:33Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6968387,
+      "date": "2012-07-13T16:38:58Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7042779,
+      "date": "2012-07-17T17:32:49Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7404728,
+      "date": "2012-07-31T17:01:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7590611,
+      "date": "2012-08-08T17:20:59Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7592167,
+      "date": "2012-08-08T18:12:41Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7698784,
+      "date": "2012-08-13T17:15:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7924612,
+      "date": "2012-08-22T04:48:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7924833,
+      "date": "2012-08-22T05:09:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7943781,
+      "date": "2012-08-22T18:16:32Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 8198442,
+      "date": "2012-08-31T17:02:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 8215951,
+      "date": "2012-09-01T19:52:18Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 8215953,
+      "date": "2012-09-01T19:52:43Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 8712875,
+      "date": "2012-09-20T00:06:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9112363,
+      "date": "2012-10-03T16:23:19Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9113182,
+      "date": "2012-10-03T16:46:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9117340,
+      "date": "2012-10-03T18:42:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9118277,
+      "date": "2012-10-03T19:07:53Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9119358,
+      "date": "2012-10-03T19:42:02Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9119982,
+      "date": "2012-10-03T20:00:35Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9188970,
+      "date": "2012-10-05T20:37:15Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9189363,
+      "date": "2012-10-05T20:49:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9189454,
+      "date": "2012-10-05T20:53:03Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9189664,
+      "date": "2012-10-05T21:00:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9189881,
+      "date": "2012-10-05T21:09:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9190025,
+      "date": "2012-10-05T21:14:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9229019,
+      "date": "2012-10-08T15:14:05Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9238161,
+      "date": "2012-10-08T19:58:26Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9238231,
+      "date": "2012-10-08T20:00:57Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9238275,
+      "date": "2012-10-08T20:02:35Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9261786,
+      "date": "2012-10-09T14:08:01Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9365792,
+      "date": "2012-10-12T03:44:39Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 9365841,
+      "date": "2012-10-12T03:48:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 10044078,
+      "date": "2012-11-03T20:50:56Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 10121317,
+      "date": "2012-11-06T18:19:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 10122800,
+      "date": "2012-11-06T18:56:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 10421086,
+      "date": "2012-11-15T19:14:12Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 10906991,
+      "date": "2012-11-30T22:42:23Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 12426147,
+      "date": "2013-01-18T15:18:52Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 12485210,
+      "date": "2013-01-21T05:41:54Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 12485326,
+      "date": "2013-01-21T05:48:06Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 13335741,
+      "date": "2013-02-09T18:24:34Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 13594349,
+      "date": "2013-02-15T06:35:10Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 13611289,
+      "date": "2013-02-15T15:23:30Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 13689300,
+      "date": "2013-02-17T17:17:42Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 13689303,
+      "date": "2013-02-17T17:18:03Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 14347430,
+      "date": "2013-03-03T14:14:37Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 15194118,
+      "date": "2013-03-20T18:23:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 18167060,
+      "date": "2013-05-20T19:26:16Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 26341051,
+      "date": "2013-10-15T14:51:22Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 26341154,
+      "date": "2013-10-15T14:52:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 28461234,
+      "date": "2013-11-14T05:48:38Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 29577578,
+      "date": "2013-12-01T17:03:36Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31349707,
+      "date": "2013-12-30T15:13:17Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31349972,
+      "date": "2013-12-30T15:18:03Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31364483,
+      "date": "2013-12-30T19:51:27Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31398122,
+      "date": "2013-12-31T15:18:48Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31711781,
+      "date": "2014-01-07T04:01:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31711799,
+      "date": "2014-01-07T04:01:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31901325,
+      "date": "2014-01-09T04:08:21Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 31904493,
+      "date": "2014-01-09T05:44:50Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 32618715,
+      "date": "2014-01-17T16:09:41Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 32725511,
+      "date": "2014-01-19T23:11:02Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 37824379,
+      "date": "2014-03-17T14:54:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 43685181,
+      "date": "2014-05-20T21:24:42Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 65647873,
+      "date": "2014-12-04T15:25:40Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 65717035,
+      "date": "2014-12-04T22:41:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 3310386,
+      "date": "2011-12-30T03:47:15Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 5581671,
+      "date": "2012-05-08T17:57:51Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "pr",
+      "id": 70,
+      "date": "2014-01-16T02:56:14Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "pr",
+      "id": 34,
+      "date": "2012-08-31T02:45:25Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "pr",
+      "id": 33,
+      "date": "2012-08-31T00:02:08Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "pr",
+      "id": 31,
+      "date": "2012-08-21T20:16:42Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "pr",
+      "id": 3,
+      "date": "2012-04-15T22:53:24Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "redis/redis-rb",
+      "type": "pr",
+      "id": 266,
+      "date": "2012-08-11T22:16:29Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 65,
+      "date": "2013-12-31T15:21:49Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 64,
+      "date": "2013-12-31T15:19:49Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 6,
+      "date": "2012-04-21T07:33:00Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 4,
+      "date": "2012-04-20T15:36:55Z"
+    },
+    {
+      "dev_id": "ryanlecompte",
+      "repo": "redis/redis-rb",
+      "type": "issue",
+      "id": 165,
+      "date": "2011-12-30T00:51:14Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "commit",
+      "id": "0b36e28f22378af6cdda9f3a6ae229cbb62f6759",
+      "date": "2012-08-30T23:43:42Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5135773,
+      "date": "2012-04-15T00:06:32Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5154091,
+      "date": "2012-04-16T14:59:05Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5154207,
+      "date": "2012-04-16T15:03:45Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5154476,
+      "date": "2012-04-16T15:15:49Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266768,
+      "date": "2012-04-22T10:01:44Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266776,
+      "date": "2012-04-22T10:03:22Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5266868,
+      "date": "2012-04-22T10:23:31Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5273106,
+      "date": "2012-04-23T01:39:24Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5295865,
+      "date": "2012-04-24T01:32:37Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 5295928,
+      "date": "2012-04-24T01:40:25Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 6290401,
+      "date": "2012-06-13T01:21:00Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 7924525,
+      "date": "2012-08-22T04:41:13Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 8178973,
+      "date": "2012-08-31T00:13:27Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 8179142,
+      "date": "2012-08-31T00:24:16Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 32432743,
+      "date": "2014-01-16T00:57:32Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 32436845,
+      "date": "2014-01-16T02:20:23Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 32437451,
+      "date": "2014-01-16T02:34:56Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 32437514,
+      "date": "2014-01-16T02:36:24Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 32438192,
+      "date": "2014-01-16T02:53:01Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 37791547,
+      "date": "2014-03-17T07:56:25Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "com",
+      "id": 37792599,
+      "date": "2014-03-17T08:14:46Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 1305817,
+      "date": "2011-06-05T20:02:20Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "redis/redis-rb",
+      "type": "com",
+      "id": 1305958,
+      "date": "2011-06-05T20:46:20Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "pr",
+      "id": 56,
+      "date": "2013-06-04T19:08:46Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "pr",
+      "id": 32,
+      "date": "2012-08-30T23:46:01Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 30,
+      "date": "2012-08-13T05:35:53Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 29,
+      "date": "2012-08-13T05:31:45Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 10,
+      "date": "2012-04-22T10:14:58Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 9,
+      "date": "2012-04-22T09:59:58Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 8,
+      "date": "2012-04-22T09:43:33Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 7,
+      "date": "2012-04-21T15:10:45Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 2,
+      "date": "2012-04-14T23:58:16Z"
+    },
+    {
+      "dev_id": "eric",
+      "repo": "ryanlecompte/redis_failover",
+      "type": "issue",
+      "id": 1,
+      "date": "2012-04-14T23:56:04Z"
+    }
+  ]
+}

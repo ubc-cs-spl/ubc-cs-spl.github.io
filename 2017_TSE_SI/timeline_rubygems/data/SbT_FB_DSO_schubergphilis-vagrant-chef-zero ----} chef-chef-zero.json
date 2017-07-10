@@ -1,0 +1,4977 @@
+{
+  "user_repo": "schubergphilis/vagrant-chef-zero",
+  "dep_repo": "chef/chef-zero",
+  "dep_date": "2013-06-13 19:59:13 UTC",
+  "dep_commit_id": "93c5037650feb907897803db8735bd8715fd44b1",
+  "social_date": "2013-06-13 19:59:13 UTC",
+  "devs": [
+    "jkeiser",
+    "andrewgross",
+    "mattray"
+  ],
+  "interactions": [
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8e016a339f02f8a71ba0d4a04d3ba163c318bec7",
+      "date": "2015-11-10T00:58:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "01a92144afbf25fffe575f123337a33c0c1f8e6a",
+      "date": "2015-09-30T21:59:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2e42b8dd7e06e997cc16e6754a83e4d0135ed0e5",
+      "date": "2015-09-30T18:18:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7b1fddaf985d87d92a4200633a043e2b657952f1",
+      "date": "2015-09-02T22:52:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2b239ae9f4d32e48f3806824e9317d74d77fbb7f",
+      "date": "2015-09-30T01:30:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e13d674d1bc81f8e62e6b08a7eefeb1dd8a64637",
+      "date": "2015-09-29T23:28:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f0ba6e88eff2a0a1cc87a0094fbdb75a325a2ea9",
+      "date": "2015-09-29T22:52:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c1fbbe7bc12b4a778cf63de083bf0d69c90bf579",
+      "date": "2015-09-02T23:01:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "50ece19c58cb8ab6f5ec98f51cb4a5358b5c3c40",
+      "date": "2015-09-02T22:15:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "28fe2928469885b0138de4d4270c6eccac8ab482",
+      "date": "2015-06-19T20:47:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "25fbb5c93d6598869466091d6ffd56fbf38988f7",
+      "date": "2015-06-19T20:47:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "20ab20591a92f52f7be11f0321a56a32eeba0ff8",
+      "date": "2015-06-19T20:31:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "84b47aebdd5c5411aa93dd7046b67b4f08182753",
+      "date": "2015-04-06T23:56:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ac485f255e71ea77837898213c7504199919b582",
+      "date": "2015-03-20T04:29:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "170fb9679f0264b2f396dce3044c2867f4e0aca9",
+      "date": "2015-02-11T23:50:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9b596f2eb89dbe4c36d2c0ce0ecb65144a42925d",
+      "date": "2015-02-11T23:48:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "76b0106cfcdb990c7d0881d1324d0e2cf61029e1",
+      "date": "2015-02-11T23:47:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "468fa7c7d3a4e2f5925305e0f7211ce54e992916",
+      "date": "2014-09-27T04:12:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ea00a7786143fd32f6b1e937ce768100ff0beece",
+      "date": "2014-09-27T04:11:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "15f4a3e533eefa59412e81c0252af3166541ede0",
+      "date": "2014-09-04T00:42:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9bf9fc62ed7cdd103f628d8f6177db5f3b2d19e8",
+      "date": "2014-09-04T00:41:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e6bb0294ce788912d6ee885685aaf8113beaa25f",
+      "date": "2014-09-04T00:40:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "3d2c4b754a2f3c4bc00df013766bcccab6a91762",
+      "date": "2014-09-03T22:34:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "fd83ac07713dc7724abcda6fa1f6912c9af5943b",
+      "date": "2014-09-03T21:18:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "5a7b8f7816bb8af52feacdd66c84636ef486fb23",
+      "date": "2014-08-29T17:08:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f04257b2c9e0fefcd3132483f51b2278eb9836f7",
+      "date": "2014-08-29T17:06:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ed903027907a0905ce8c52be4c40153690495574",
+      "date": "2014-08-29T15:08:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bb893906401b060e1b8f42c69fcc2b510d304cd9",
+      "date": "2014-08-29T04:24:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b32681bb5c8ac46f0d5ab653998f19a50581f1a9",
+      "date": "2014-08-29T03:51:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9df2bb1f842db97672704911f5193f2b414cf1b1",
+      "date": "2014-08-29T03:49:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4aa21560fada647506d5fdee2351f0373171c2b5",
+      "date": "2014-08-29T03:48:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7be3e24801f8784928f635c679854cb4bf9871da",
+      "date": "2014-08-29T00:27:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8e2071173eab890a0d52197f4da52e7ff39c8c8b",
+      "date": "2014-08-26T23:49:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "49777324414dace31aec1473d92fe75f97a5ef18",
+      "date": "2014-08-26T23:49:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e40fcd441e6e3869a6f4c6a802603085c471f740",
+      "date": "2014-08-26T19:16:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "defd2113e3b9cab2483cc6145280b434b9940880",
+      "date": "2014-08-26T16:22:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1e15f2753b295aef86fd11c3b7ca2de49f9db460",
+      "date": "2014-08-22T22:27:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "47cb607d0bb30afeeccbc4dec89814581a372e51",
+      "date": "2014-08-22T18:47:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8df541346b7aea273f99a022ec16c2731995fd56",
+      "date": "2014-08-22T16:39:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a334d4b81080dd88d41eb735a81df9762438eb1d",
+      "date": "2014-08-22T16:34:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "cf36294ecd46a9f0474daf9538e2ba199f26447e",
+      "date": "2014-08-22T16:31:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "82e0cca2733443906bde935df296b0d9fd21d6e5",
+      "date": "2014-08-22T16:19:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8e713188410f66da32244aaf1fc44e22c8f721c2",
+      "date": "2014-08-22T14:31:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1d318354a276e64742f8aa889a6ab1adedbfe351",
+      "date": "2014-08-22T13:58:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "5a6c93b69c55ec53ab8cfaf96a71e515cef4b4c2",
+      "date": "2014-08-22T04:43:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e26df5899a068c06d80e2860cc4aa7671eae423a",
+      "date": "2014-08-22T04:40:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e21113a0aabde91dbbfd7e61a7095c84589642f3",
+      "date": "2014-08-22T04:33:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4c355c78a6ccfb888d557d3b96cc268edc7a7fb4",
+      "date": "2014-08-22T04:03:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "43c0e4494bb044153a21edceacfc438443c632f6",
+      "date": "2014-08-22T04:03:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "12e86dc79d609953f5a548cb7adb7ca995c67d23",
+      "date": "2014-08-22T02:56:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0be3f9aea877bf4052ab79933180cb3f281a1e19",
+      "date": "2014-08-22T02:46:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4e1774e42d3f791ba416c7d827f0b0cecf34ecab",
+      "date": "2014-08-22T02:28:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "558451ec9113c4dea5309623b66d064d0fcdadfc",
+      "date": "2014-08-22T00:46:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "862a5b9a2ebc799ecbb20fabb8842ec55cf3353d",
+      "date": "2014-08-22T00:38:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ca6884608b43fa97dae5ecd1db8860758b3373cd",
+      "date": "2014-08-22T00:32:44Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "25c8afd9561fcee0c3f1bd0e2a5fb2dd79cb8f5d",
+      "date": "2014-08-22T00:30:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f903287e6207954c4686900f5d4d4dba7a83d0fa",
+      "date": "2014-08-22T00:16:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ebba48bf268fb7ec28cc8b0ebba04d7c64dc1dbc",
+      "date": "2014-08-21T23:26:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "965edb4205202d9c0237041f3014af8fbdaec235",
+      "date": "2014-08-21T23:20:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c5db8bb9383b6e5b94776043985714fc35196c1e",
+      "date": "2014-08-21T22:40:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c02c90532ddb6e7faa21b0642a200de2ec0f08d9",
+      "date": "2014-08-21T21:47:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a4efe10a02590f9caa21544504a2b1d6f5ffb295",
+      "date": "2014-08-21T19:37:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "57203ee3aabee96aaa5ba6437e4d6b373793d897",
+      "date": "2014-08-21T15:46:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bed28bbb47637fd47107e73fa1225fbcceee8075",
+      "date": "2014-08-21T15:13:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c29e097ec938641bc2177387dabf28a99ded59b7",
+      "date": "2014-08-21T14:45:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "3372e864b4d705a4bbca3e52e7edea4656dd89ba",
+      "date": "2014-08-21T03:45:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9da161dbb67168da835c1a36263aac61b2512810",
+      "date": "2014-08-20T23:36:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f16071f7f666bd16991344505841be30a036d81b",
+      "date": "2014-08-20T19:58:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "fb4f17f271fd68edb05617ba9725dee6cdb58027",
+      "date": "2014-08-20T19:45:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1d24016c8033d4839b3ff07a324672f434868538",
+      "date": "2014-08-20T18:53:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "21d87873e784f97aad21d92eeef9b3a059e16b67",
+      "date": "2014-08-20T17:37:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e7f99fb5214ab2b59fc5dc798e1036e12e26c88d",
+      "date": "2014-08-20T17:25:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b0556a304c8f33b73de33b471b0f41ad4bb0e3d3",
+      "date": "2014-08-20T17:16:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d3c5d4a3e266b55693c98e2f02f293ec7c70d4c3",
+      "date": "2014-08-20T16:41:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "cdf5a01eae674197132b644c9e0ee5fcea19d85e",
+      "date": "2014-08-20T16:33:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0bccfd74679ae382d04e319972353f9a692bbf30",
+      "date": "2014-08-20T06:53:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "91768b0e9a0a151635a0a7a96823113b200c67c6",
+      "date": "2014-07-25T18:34:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d55406b3c3218323d9a9751e1df267fceab08eef",
+      "date": "2014-07-25T18:34:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "050901c99b325c9cb32acbd4d8517e917664100e",
+      "date": "2014-07-25T14:52:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d03a792d33dc6ed76939398635ae54d54a0628e5",
+      "date": "2014-07-25T14:38:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "cb188062ac9676ee49ca6f8deca31582e3b8a4d6",
+      "date": "2014-07-25T05:50:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ed21f72e5988fd300fa19765451d69f62afb2855",
+      "date": "2014-07-25T05:28:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d77274c6deba896881fcc92e6fd151856852a8af",
+      "date": "2014-07-25T04:06:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2215d4cef3592d5cb9061b6ecfa3343a8d55460a",
+      "date": "2014-07-25T02:49:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "512267cdd9efd90095db8c70874727d489852e70",
+      "date": "2014-07-25T02:12:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c5a81a1d9c2d04c0c3997b1ff75ba231a1ab01d1",
+      "date": "2014-07-25T02:00:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e3502878f663c927b847a83cd7391db6695ad3e8",
+      "date": "2014-07-25T01:23:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8261c7a6d1ef05da00e3adbde5171dda8d1d0590",
+      "date": "2014-07-25T01:01:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "317d7231983fea9a6f4e59a1451e80e58e0d781a",
+      "date": "2014-07-25T00:54:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "5c6c2a6921fe8c7d091854eb644ac0f42208126e",
+      "date": "2014-07-25T00:07:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c5d40545370510f764b834ba3096d2bd4eb301e5",
+      "date": "2014-07-24T14:00:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f14e184bb5fa4de5bea75b10a0d525a5fde6b474",
+      "date": "2014-07-24T13:03:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9a443988b73b53238e1ad82a2d0330c72bc869f2",
+      "date": "2014-07-24T12:42:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "dbb7dbdee734e0735c3a060370d26a13ce0d756d",
+      "date": "2014-07-24T12:00:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "81f884800e324591c8511c7f016b65e64027da63",
+      "date": "2014-07-24T04:40:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "183ce17df5dc011ca6d295321e67ce642786eda5",
+      "date": "2014-07-24T04:37:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4aa1fcc4bb967e42a154d9a0a3df759f628195d3",
+      "date": "2014-07-24T04:20:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "3f401a6f3f19d96f65dd6b4f04e36fd0210845ee",
+      "date": "2014-07-24T04:03:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c267b63a971fb1a9b3fec38996371c6e1bdfb657",
+      "date": "2014-07-24T03:27:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "902d113f8adde03d0c9e4129aa8f56d9a8790f1a",
+      "date": "2014-07-24T03:09:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "914c8274684102c730e941a76a03daa3bf6858cf",
+      "date": "2014-07-24T03:01:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "dd2f8195ca05a4e18b91584692ab9050423de85e",
+      "date": "2014-07-24T02:30:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f72e479fb2850a653b72a9bce59f5b65831b1efe",
+      "date": "2014-07-24T02:24:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "6319b1edf1aed055704664be4909336769ac2e83",
+      "date": "2014-08-22T13:52:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "03ccf12484c19edba5b8d01f904a794b7164cefc",
+      "date": "2014-07-24T01:21:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e004ff7164065d5d9d66ae0c230ce0821650e6dd",
+      "date": "2014-07-18T05:17:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "08b2e660be71fb6a90a6638729f010429b8c3e98",
+      "date": "2014-07-17T05:37:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f8658b80828262b5356f086f6c6ea69b706dde06",
+      "date": "2014-07-17T03:18:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1e8315cf54a39f78c5b7afeff83f2cc0c1d4721b",
+      "date": "2014-07-17T03:00:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bdcfae41acd00e515e1fc2cb996a07034a61ab4c",
+      "date": "2014-07-17T01:52:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2ced823a1f634e9afb5f20875ea35b741c66d075",
+      "date": "2014-07-17T01:40:00Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "16dfd6a8016eed76834b24b5c0cb1d0926ebf109",
+      "date": "2014-07-17T00:08:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "fa62b97a687a37df2fdcca317eeca91ebd7949cb",
+      "date": "2014-07-16T22:52:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b52e96e28b46fd549dede51055205ea2b329f4ad",
+      "date": "2014-07-16T20:39:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "fcbe6e21e85498b3e04d8febaef8b0ea29cf79d6",
+      "date": "2014-07-16T20:17:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "fba7103ab8f55e324baed9841cf4f61390c1a605",
+      "date": "2014-07-16T19:27:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "271023e69a05f24f1c5a16256f4a5c00ac1de021",
+      "date": "2014-07-16T18:59:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "02756799c6c1af37638a640acf48cc4cc301afe4",
+      "date": "2014-07-16T14:59:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "de06e0941f560007fe361b13027535def7c58403",
+      "date": "2014-07-16T14:38:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e811e7aa8ffce23430453aa389da5c38f4ee087d",
+      "date": "2014-07-16T14:31:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "856e52dd7abfd78259721528254a5b30e13d9cd3",
+      "date": "2014-07-15T23:26:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4aff39dc90bb490379ef38075bf67da9cb780246",
+      "date": "2014-07-15T19:50:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d767320ff0819e355f093f548db9b7d578587c57",
+      "date": "2014-07-15T19:17:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "3e248ab68c65fd18b9ff5985e4271c3877fc21e5",
+      "date": "2014-07-09T14:11:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "37b3aa1087d385e0f844d486b31d1c217d28cf5d",
+      "date": "2014-07-09T13:58:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1b39ddbc33ce3bc4e841dae8d549c4338ad75251",
+      "date": "2014-07-07T18:17:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ad952ef22190e7447490c423d669e72d0f73a4ac",
+      "date": "2014-07-07T16:46:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "955ab1ceaa678782d63a6153d352dc6428f9f364",
+      "date": "2014-07-02T22:40:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b7deb4aa11789f53506686742fe4b32deb31dad2",
+      "date": "2014-07-01T21:20:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c3890f19214f2c234d00f7eb6140a2b06aea8871",
+      "date": "2014-07-01T21:16:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "231c3abd052e606820297a97e4bc32bdab656a02",
+      "date": "2014-06-18T23:26:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e282971458f40de3c8725ac440ff182461b65654",
+      "date": "2014-06-18T23:23:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e675050eb2f3dffe2fa646fdbbb8e2f80e93a974",
+      "date": "2014-06-12T19:37:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d60221a7e5539874516bbfe75a5701d7e3b90971",
+      "date": "2014-06-11T03:52:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "25fe70279ea8eb89b360131e95ce65f6a8696992",
+      "date": "2014-06-11T03:43:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9a15065435c16113c018fc0d6cea521bbf981df2",
+      "date": "2014-06-03T04:01:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e11c4e2566fcf813bdd96ffd98429abdbbf9f221",
+      "date": "2014-06-03T04:00:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bbfe4296542ded4e8e179734a600ff153463e19e",
+      "date": "2014-06-02T21:58:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a1d5a5d147afad5aa41c99e1b00ce0f543c33dae",
+      "date": "2014-06-02T21:56:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9a1500be6d98828454a740c77403f1b3e74e28ed",
+      "date": "2014-05-28T02:01:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4687590750dd3993ad5351f38285dedd62aa309e",
+      "date": "2014-05-28T02:00:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8632d76b1ee03ccdf258bb6b23a0dacc3e4ada46",
+      "date": "2014-05-27T21:42:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7c78d743d7867b59912da2edc30414744a4101f5",
+      "date": "2014-05-27T18:21:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b777f2ad803bf98270ece081a04b0efd6ba6c642",
+      "date": "2014-05-27T17:13:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4e80953c0c8eba632cbea441846534d4e2e0b8e9",
+      "date": "2014-05-27T17:12:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "df2f3b5bb176df112b7ece091be27736263fed61",
+      "date": "2014-05-27T17:09:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "51a1893b47ddacb086e838e965b26d0eefdf39a1",
+      "date": "2014-05-27T14:22:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a2ed7c6cfefeb94fe2831093b35196f7ac123383",
+      "date": "2014-05-27T14:21:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8c463a8424d0c028c0cb5c4ad2fadb0bfb01deb0",
+      "date": "2014-05-27T05:39:46Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "03c6ab6a20014eec84a10f02792341e84dc78d3a",
+      "date": "2014-05-27T05:20:49Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d1c2aa92003aa634af1a23ec3975e1641620b643",
+      "date": "2014-05-27T05:17:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8be4c781bc8b624dafde8eb9d5ba869c7ebf33d2",
+      "date": "2014-05-27T05:02:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e9db4a08c81038b09921a67238bc3a9d83bf7b73",
+      "date": "2014-05-27T05:01:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ca23638fb6807c8e0abb7472242746d2e3502c8b",
+      "date": "2014-05-26T19:35:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0aaab8954a2007a7bedd23a9799e76b0c03a01a4",
+      "date": "2014-05-26T19:20:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "26e36ab4cc760c032cacb4d80d65494308d29e27",
+      "date": "2014-04-24T03:38:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ce91caa1a92fe8fbab17b1b6da0854174c8cda70",
+      "date": "2014-04-23T22:46:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "6ee9dca54d7ad3e498d90ca1d25683844949b3b8",
+      "date": "2014-04-23T22:46:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c0c95d690e1bb7c17c2d141b4937a36c2072d800",
+      "date": "2014-04-22T16:45:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9a32e76ef798ad122544eaf3a5b4c0b45f8d8152",
+      "date": "2014-04-22T16:26:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "38ebd63ba03b98791375a39404c55801cea3685e",
+      "date": "2014-04-22T01:24:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "16ee59c619a0f40f17b9c64a0e2be6a19140df9d",
+      "date": "2014-04-21T22:35:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "30a1b6b918902fa526ed77c185a2928cb2a3f640",
+      "date": "2014-04-21T16:26:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e908aa35f5b62f646557a9b932189e184fc093e1",
+      "date": "2014-04-21T14:36:46Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "09de5c7174277e1d0f1b67dce4cff74daa2cbb1f",
+      "date": "2014-04-20T00:16:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "256a0186f614cff168f090727f6e45c22da354d4",
+      "date": "2014-04-20T00:10:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b746404a416e3458677bd14688eada3d89c63da4",
+      "date": "2014-04-19T02:49:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "acd80b7e3422d22bc717db40cf26598b7f4e618e",
+      "date": "2014-04-18T23:29:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e655c7857e9568ece4555e627fc7d3aa372449ae",
+      "date": "2014-04-18T20:20:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d66376d5a813fe11a6272ce890fd36bfd32ca0db",
+      "date": "2014-04-14T22:18:36Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0d5e08883fa9608c328cf57c12a77b492ddf8500",
+      "date": "2013-11-19T18:53:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "11d274d8ce43724e3d462451748c1d9ad6643e4a",
+      "date": "2013-11-03T17:06:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "87025c86c093a26d6055e2dca4359544310555f6",
+      "date": "2013-11-03T17:05:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7f01d7ba087e4ff8ec33e117cd5c7ef1d483349d",
+      "date": "2013-11-02T02:37:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7d38b042912f38e1d247e7835e3dad8d6fa7e0b3",
+      "date": "2013-11-02T02:17:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "847eb65c2247b8267d11d7131683a7c336ec6a1c",
+      "date": "2013-11-02T00:05:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ecb30496173cefb33531b09776bd348ab3f5024a",
+      "date": "2013-11-02T00:00:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7c387746375a9ae1de43aab2183e81ef0fc3acdb",
+      "date": "2013-11-01T23:21:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d8e458138011ac2ec27f6dfc549426ea53979384",
+      "date": "2013-11-01T23:03:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d3a2997410e862fd9b6b8145755033735f05cd30",
+      "date": "2013-11-01T22:56:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "63e16286e3e0550171d446ba18b765d4345246f0",
+      "date": "2013-11-01T22:52:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "adf232fad983980ba70825989c99682c0ff07975",
+      "date": "2013-10-29T14:55:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2ca63cf97647f587f6bc705657505b56962380bb",
+      "date": "2013-10-11T21:59:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f7580306cef3fe7484ab1b041352a0d374bbdf0a",
+      "date": "2013-10-11T20:36:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0cd5355c93707cae9e74368eb7d220a81215fb93",
+      "date": "2013-10-11T20:35:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1f1fe8e268906dac87865606db04c479168d80f3",
+      "date": "2013-10-11T20:24:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "31a8ec0a5abbd7fe086a451fae4916d7045f72f8",
+      "date": "2013-10-11T20:12:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9974a71ccc5345e90055a3674aa2f43025cad526",
+      "date": "2013-10-11T20:11:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9da75f9fff9814ef86224155add844fb68f7d7ba",
+      "date": "2013-10-11T17:44:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "23ab1444189e2b6617d78b305e873f3d0cc1a8f8",
+      "date": "2013-09-13T05:15:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c49a723b794d5f7f1dcfe95572c918c3d90ffc62",
+      "date": "2013-09-13T05:11:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a45e8fba0e6a068a41f57cd4347bd0a9f14eafc6",
+      "date": "2013-09-13T05:10:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "24f5669b95c1fcc035e77d88d00c6e92e94a801a",
+      "date": "2013-08-08T23:41:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "98c2f7148ccaad1af3f237094f9f664368c2a024",
+      "date": "2013-08-08T23:38:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "25ed925573c05f84c279decc8f8a039801ebccf1",
+      "date": "2013-07-19T02:46:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8d82afcfa75feddc74d8ea69bb9a30c2d2955c6b",
+      "date": "2013-07-12T16:16:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "5fc5e0d81da95b60a12ae68f73bad61397350d3e",
+      "date": "2013-07-12T16:13:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8d76496431fc219398f7c3c32fc602b440991b47",
+      "date": "2013-07-10T14:34:49Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "06a44f4310924e7dcce3392912d6149f01815aae",
+      "date": "2013-06-28T04:42:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d17390cd501742da87719d53f60f788d35591fbf",
+      "date": "2013-06-28T03:49:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9bc3e51fd40f3019b1abd3e9d6e8ffde31d12a65",
+      "date": "2013-06-28T03:47:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "83de6d950f8230f6d2accf099f56e6713689edcf",
+      "date": "2013-06-28T03:28:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "73262424cfccdfaf583129f045ab99b37db3382c",
+      "date": "2013-06-28T03:27:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "060baa2f8a3af981ace79903e265daabf9729d2f",
+      "date": "2013-06-27T14:47:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a9f0654dabb6aa0f3c59e66abc1a36bfd7767947",
+      "date": "2013-06-27T00:03:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "12c03cf782feecc9f1020cf3922b182403c2d4a0",
+      "date": "2013-06-27T00:02:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b4494482f735c10bceab767718db2e8b224a4356",
+      "date": "2013-06-19T16:47:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "273deeec186a556e74730704ff9ed269f0b87da3",
+      "date": "2013-06-19T05:33:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1603b53dbf72e8a2dc4bb9ab3c2b0b7320d24852",
+      "date": "2013-06-18T22:16:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1f73df8c816b0702793d148f1e95bde88cc3d02a",
+      "date": "2013-06-12T16:11:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e1e7020d7349ab2b4f1ce0a49926a4dc564a3067",
+      "date": "2013-06-12T05:11:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8d77a1b2a770c8712626a28c366789552365d95c",
+      "date": "2013-06-12T00:47:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1b9ce455ccb8ff95a9684fbe52b7c41843cc10a2",
+      "date": "2013-06-10T14:42:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "196a4798d09b2b93866ebfe73b96bf2daba94f5f",
+      "date": "2013-06-07T23:51:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "185271a1f37cad4f75478ddda9126e467526ee1a",
+      "date": "2013-06-07T23:49:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "baac38ed65d7d8a72348311b9e7675555f988d49",
+      "date": "2013-06-07T19:23:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8fe8992daad6e1a8fca64f8a1d90de56f8e44238",
+      "date": "2013-06-07T18:05:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "639516d4d8a5673f78d301273d450943b37e6b6b",
+      "date": "2013-06-07T18:00:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9b9997651a5c254a4657013bae92a114446c4269",
+      "date": "2013-06-07T17:59:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b0d9f09be2c7f17df9e08721a7750f9eb7827744",
+      "date": "2013-06-07T17:57:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8d1ab0a0bb6a841e0c1e18b0b11417121fffe9c3",
+      "date": "2013-06-07T17:47:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "db34a35076c92e48c043814e8b26b91e55fd379c",
+      "date": "2013-06-07T16:53:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "451bd0a12a60d697891d08f22856864bd65bad5b",
+      "date": "2013-06-06T20:07:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "1e282ca735d9790fb9dbc4f3f46253082c511fe1",
+      "date": "2013-06-06T19:43:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9257598ecc89c58f21471d3c3e47acd42d4d0723",
+      "date": "2013-06-05T17:35:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4e60564012b3e2c2c853de1ce1bf634951a1cbed",
+      "date": "2013-06-05T16:55:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ac9cfccab1b1fc15f432f6c2073ffb77c13a1e56",
+      "date": "2013-06-03T21:49:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "470f739257e587e7e86ff49db0d8166413b36135",
+      "date": "2013-06-03T21:48:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c0917a5580a4948de896ce3f13d6203d1ee157a6",
+      "date": "2013-06-03T20:51:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "79d15631b5e0c2224fa31c314cba7f629b510529",
+      "date": "2013-05-30T14:11:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "cc69935b4f34bf2f85ad8c82ceb3b16bb1d7b147",
+      "date": "2013-05-30T06:12:31Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "488d689ce2ce4c04f88afcce9a9ec50d41356e39",
+      "date": "2013-05-30T06:10:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7b436722e4a49849654ea24a501fc904b4aa208d",
+      "date": "2013-05-29T20:31:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "82a64b9d545d53ab9aa55cc12ef80105d96e766e",
+      "date": "2013-05-29T19:44:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "380015bacf1a045f84cdd25a0d0ad57ae4c38649",
+      "date": "2013-05-29T17:38:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4c7b8d973d1aeccbb8c2d2176615f1fa672051a2",
+      "date": "2013-05-29T17:36:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "6fec322a7ee49cc52c6ae32dd971ae3876539d68",
+      "date": "2013-05-29T14:41:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c0cdd564f720665de768a0aea72f1637226fd93f",
+      "date": "2013-05-29T14:41:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9a8293ea695f70a0129e705d32f17139c3f1d330",
+      "date": "2013-05-29T14:40:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8c51d4381664a4396e1934a79891e515b0ffc4e7",
+      "date": "2013-05-29T13:52:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e6b90d097a76a21aef79d060484ffe33898900a4",
+      "date": "2013-05-29T05:52:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2745fe28279784b1029ff69e7b74cd6927a077ae",
+      "date": "2013-05-29T05:49:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "331399898b52905676aa2c82fa7341fd67065d57",
+      "date": "2013-05-28T20:33:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "072349e849e255a51438e0546701e2156522ed22",
+      "date": "2013-05-28T20:28:44Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "3db27d5466b9c0335c0bc7f2e8adbc69bc1cae10",
+      "date": "2013-05-28T20:15:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7dbde11ea5d97fe29e9c824116bbcf7f2a7b7b0c",
+      "date": "2013-05-28T19:57:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f8f1892a254332c217e130e24de5b4d285bbed89",
+      "date": "2013-05-28T18:41:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "96d80aefd42fdb6ee6fd263ec7e2535b187adf8e",
+      "date": "2013-05-27T15:40:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "28042a7cda795941be677d1543bde149854feef0",
+      "date": "2013-05-27T15:38:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "08f80dd5c9cc1cd72be7d1566cce61f9754aaa4d",
+      "date": "2013-05-25T06:17:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a11dc4775634b1b179e34d32eb51685449f316ba",
+      "date": "2013-05-25T06:15:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f7f598923959b15a705ab63ce1768c2591f2ceee",
+      "date": "2013-05-23T22:29:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "67c15968fc323557cf4acffeb85a6c6ddaa5d9d0",
+      "date": "2013-05-23T21:15:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bc2fa1e839adc2bc49813df926b7ab841af3953d",
+      "date": "2013-05-23T20:40:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4d70bcfed51c619a2a62b257b76db5ac5a6133f2",
+      "date": "2013-05-20T22:49:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "27668789f8e2982ef820029c6864b714643ce45c",
+      "date": "2013-05-20T22:48:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "b0b6ad8d86796ff264d8d802d27344351e153b56",
+      "date": "2013-05-20T22:31:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "26f6f3e4564614a7968c17a6a258f4cd5cca78ca",
+      "date": "2013-05-20T05:49:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "87671fb4d93242d6f873605780feaa2a887be210",
+      "date": "2013-05-20T05:44:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "54e66f97ea973f2e21345ddb2308fd6d76b51066",
+      "date": "2013-05-20T05:36:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4f837570ebae86f96323aae02620547c7cb6e67d",
+      "date": "2013-05-20T05:12:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "282f1f1f3a6882e6aba4b43d5952efdc047d9c81",
+      "date": "2013-05-20T04:53:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "8b1d56e540be5562966bc8705ee80abc562bf4da",
+      "date": "2013-05-20T04:52:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "fe392b32bcb0b2dfe6958fe2b9d6c064e7c151b2",
+      "date": "2013-05-20T04:38:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0f3125905731ee77a38129febb7ffb2553bbc5da",
+      "date": "2013-05-20T04:13:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "69870b485dabb44eff2154a80e6fda9a2e6d1b12",
+      "date": "2013-05-19T21:20:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "eaedbe7d4fe1b2bc0b598deeb4bbeb27ae89cf87",
+      "date": "2013-05-19T21:08:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "cafbacf2236ca394044109c9c3ec2af62926bfcc",
+      "date": "2013-05-19T21:08:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c1319ac17d9195f3974c222bfb41246534cb6879",
+      "date": "2013-05-19T17:52:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c6afab3e124d8e36a690d30617b9b238e96c4741",
+      "date": "2013-05-19T17:51:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "eb915b70d128bedf331396f2909c6ef7161f86b8",
+      "date": "2013-05-16T20:48:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "90dc336891efb43256bd773cc52450faa540549a",
+      "date": "2013-05-14T20:01:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "4ec109e0661893cc0e0527be61b8d2d6d22025ef",
+      "date": "2013-05-02T06:03:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7d4ccb555d70cf84008988511417ced57aac6a03",
+      "date": "2013-05-14T17:44:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f2d8273e89e7303b1737d447a282b8f775166913",
+      "date": "2013-05-02T06:09:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "27b2bbe028488d46a2444dcd8a3e35d4a9d1f0e5",
+      "date": "2013-04-29T00:39:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "d9ec28aa4b5c87c1c11cd81c45a99868ad06b20d",
+      "date": "2013-04-28T20:27:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bae86330a3a93b793cff65a8200d51f192adc0e7",
+      "date": "2013-04-17T20:16:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ecfcccc3c7eadc4ca6ee84b449b1d1332b628485",
+      "date": "2013-04-17T19:08:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "3db49ddfc4873fb9fcd4a35bad6970468a7e6e2a",
+      "date": "2013-04-17T18:04:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c93e3186d3673afec5f7cf8ac3224cda2798c487",
+      "date": "2013-04-17T17:45:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c7f13a328d03835361fafe53e19b2357291a650c",
+      "date": "2013-04-17T17:06:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9f117b143dfeaa357e045a9aed8512cd4fec2f9d",
+      "date": "2013-01-21T06:59:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e3ffbbfc0a9523ec7353b279fa92af44460dc618",
+      "date": "2013-01-21T06:59:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0d5fc37486af0881429a0d60d2a407e9698a28d4",
+      "date": "2013-01-21T06:19:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e20a72a1eb57d8f0fb25e8c253478608fa09a8a4",
+      "date": "2013-01-18T02:22:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "90874a69d130c5993f46a2d8c793e1cc2b0a3a5b",
+      "date": "2013-01-18T02:22:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "9f5776c92c5c5c5df4f0cb909e0b772ce1ad8c54",
+      "date": "2013-01-12T05:14:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "79de8bb9f100bbbeacbf04d6328a627a0fbaac12",
+      "date": "2013-01-12T04:00:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "970e3902ae9ed4ae747d74f89a2f73e059bdabaa",
+      "date": "2013-01-12T03:59:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bcdf095525593cac4b44d73af0aaea618650b7f8",
+      "date": "2013-01-12T03:59:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "bf06271025fd583c22915ade699d0700a96dd524",
+      "date": "2013-01-04T17:42:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f25e793c732eaa373480b9b00b960d7afa293039",
+      "date": "2012-12-31T19:36:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "08778b40f3e8c0f91be1de15d4db704a4058546f",
+      "date": "2012-12-31T19:35:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a29fc6d3c23aa5a48f3ad9f3fee35085cf36d610",
+      "date": "2012-12-31T19:28:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "765cd4ac6800769d147593825d16ae4297cfdb97",
+      "date": "2012-12-24T21:00:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "a81e3179188735461ad35db523268f77aabb2f53",
+      "date": "2012-12-24T16:49:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "0a81ab3b3f0352a922414b07093440cf6ba1b433",
+      "date": "2012-12-24T16:48:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ee7f26b036e0fdfd545f1eeb73fdb0b197e6bf81",
+      "date": "2012-12-24T05:50:34Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "83a1e64fe21d09004b62e3661758aff086094fa5",
+      "date": "2012-12-24T02:06:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "5ef2a78077ef11431ef1625246ff14642ac556d3",
+      "date": "2012-12-24T00:13:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "7d1fab82ff572fdde5a53650880bee50ae214894",
+      "date": "2012-12-21T02:09:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "31e0f614eabe9f431a53ad8b8a09109f77d3d4db",
+      "date": "2012-12-21T02:08:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2cda610b0111f27ea49010130b92a913eb233541",
+      "date": "2012-12-21T02:05:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "2e546af5923cc2618b00e83f54e22337e648fbba",
+      "date": "2012-12-21T01:15:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "5d12cbf2dede123a40d3f31378282ff0221c3615",
+      "date": "2012-12-21T01:14:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "397601fc5ccb754eeeffb20b2953d13da3beeafc",
+      "date": "2012-12-21T01:13:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "e792ec1eef0e0d004561dded5304abc43e89a246",
+      "date": "2012-12-21T00:47:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "255ef3250bc2604284f56845e027200856a81d78",
+      "date": "2012-12-21T00:42:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "f0de46d1436c5ab858070d2db20d1bea9c61749a",
+      "date": "2012-12-21T00:30:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "886dbdf27c6e43ae3e6af2dc71d66f2d5f2f6dad",
+      "date": "2012-12-20T23:41:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "c4ea9e9ffacb3fd24db124bb813ddfd5f43e8d5d",
+      "date": "2012-12-20T23:40:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "ce079a21074eb0c79396ea971f9c961d35e570f4",
+      "date": "2012-12-20T23:40:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "959e70c7dfb35f171712fe6da2db878f9d1360ac",
+      "date": "2012-12-20T17:26:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "666374b272a8851a2c57530a71a6183d4d06a648",
+      "date": "2012-12-20T07:22:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19663490,
+      "date": "2013-06-19T05:15:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19701152,
+      "date": "2013-06-19T17:51:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17141242,
+      "date": "2013-04-28T19:49:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17141778,
+      "date": "2013-04-28T20:17:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17141979,
+      "date": "2013-04-28T20:28:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17146246,
+      "date": "2013-04-29T00:42:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17146418,
+      "date": "2013-04-29T00:53:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17173613,
+      "date": "2013-04-29T15:28:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17173762,
+      "date": "2013-04-29T15:30:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17514317,
+      "date": "2013-05-06T23:19:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17520002,
+      "date": "2013-05-07T02:29:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17617741,
+      "date": "2013-05-08T16:33:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17772424,
+      "date": "2013-05-12T04:34:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17892602,
+      "date": "2013-05-14T17:44:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 17901293,
+      "date": "2013-05-14T20:03:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18034704,
+      "date": "2013-05-16T23:04:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18093448,
+      "date": "2013-05-18T01:44:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18112366,
+      "date": "2013-05-19T04:43:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18126764,
+      "date": "2013-05-19T23:21:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18575709,
+      "date": "2013-05-28T19:56:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18576129,
+      "date": "2013-05-28T20:03:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18576981,
+      "date": "2013-05-28T20:16:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18577894,
+      "date": "2013-05-28T20:31:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18578050,
+      "date": "2013-05-28T20:33:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18870277,
+      "date": "2013-06-03T20:51:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18876761,
+      "date": "2013-06-03T22:14:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18877156,
+      "date": "2013-06-03T22:18:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18877300,
+      "date": "2013-06-03T22:19:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18925331,
+      "date": "2013-06-04T17:29:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18943158,
+      "date": "2013-06-04T22:14:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18944616,
+      "date": "2013-06-04T22:46:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18944702,
+      "date": "2013-06-04T22:48:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18954213,
+      "date": "2013-06-05T03:54:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18954367,
+      "date": "2013-06-05T04:00:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18987872,
+      "date": "2013-06-05T16:07:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18988274,
+      "date": "2013-06-05T16:14:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18988558,
+      "date": "2013-06-05T16:18:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18991179,
+      "date": "2013-06-05T16:51:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18993986,
+      "date": "2013-06-05T17:37:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19026817,
+      "date": "2013-06-06T06:14:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19057719,
+      "date": "2013-06-06T16:37:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19065394,
+      "date": "2013-06-06T18:38:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19070675,
+      "date": "2013-06-06T20:08:07Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19119147,
+      "date": "2013-06-07T16:54:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19202888,
+      "date": "2013-06-10T14:43:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19296631,
+      "date": "2013-06-11T22:26:54Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19647914,
+      "date": "2013-06-18T22:34:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20086563,
+      "date": "2013-06-26T23:03:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20086881,
+      "date": "2013-06-26T23:12:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20088487,
+      "date": "2013-06-26T23:51:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20089038,
+      "date": "2013-06-27T00:05:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20089062,
+      "date": "2013-06-27T00:05:59Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20124682,
+      "date": "2013-06-27T14:49:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20169100,
+      "date": "2013-06-28T03:50:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20746425,
+      "date": "2013-07-10T14:37:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20751931,
+      "date": "2013-07-10T15:50:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20824825,
+      "date": "2013-07-11T16:36:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20886858,
+      "date": "2013-07-12T16:14:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 20984838,
+      "date": "2013-07-15T17:15:08Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 21228482,
+      "date": "2013-07-19T02:46:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 21231710,
+      "date": "2013-07-19T05:08:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 22209670,
+      "date": "2013-08-06T20:42:56Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 22215393,
+      "date": "2013-08-06T22:04:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 22215803,
+      "date": "2013-08-06T22:10:41Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 22217280,
+      "date": "2013-08-06T22:37:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 22219326,
+      "date": "2013-08-06T23:21:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 22219404,
+      "date": "2013-08-06T23:23:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 22266681,
+      "date": "2013-08-07T17:05:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 23843776,
+      "date": "2013-09-05T04:53:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 23843788,
+      "date": "2013-09-05T04:54:13Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 24357885,
+      "date": "2013-09-12T21:35:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 24361462,
+      "date": "2013-09-12T22:40:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 24517232,
+      "date": "2013-09-16T15:11:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 24925069,
+      "date": "2013-09-23T14:45:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 25488817,
+      "date": "2013-10-01T20:58:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 26156402,
+      "date": "2013-10-11T17:44:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 26367577,
+      "date": "2013-10-15T20:07:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 26386717,
+      "date": "2013-10-16T01:33:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 26454811,
+      "date": "2013-10-16T20:32:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 26460009,
+      "date": "2013-10-16T21:24:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 27309739,
+      "date": "2013-10-29T14:55:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 27646278,
+      "date": "2013-11-03T15:09:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 28804899,
+      "date": "2013-11-19T16:29:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 30771170,
+      "date": "2013-12-17T17:24:52Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 30771190,
+      "date": "2013-12-17T17:25:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 32060260,
+      "date": "2014-01-10T19:59:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 32062427,
+      "date": "2014-01-10T20:24:29Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 32074197,
+      "date": "2014-01-10T22:42:15Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 32809223,
+      "date": "2014-01-21T00:00:28Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 32809466,
+      "date": "2014-01-21T00:04:48Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 32889520,
+      "date": "2014-01-21T14:32:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 32903311,
+      "date": "2014-01-21T16:42:49Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 33824624,
+      "date": "2014-01-31T17:44:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 38707450,
+      "date": "2014-03-26T16:40:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 38722198,
+      "date": "2014-03-26T18:33:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 40113952,
+      "date": "2014-04-10T17:31:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 46593607,
+      "date": "2014-06-19T17:50:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 46594082,
+      "date": "2014-06-19T17:54:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 49918456,
+      "date": "2014-07-23T18:55:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 49928291,
+      "date": "2014-07-23T20:12:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 53062502,
+      "date": "2014-08-22T13:51:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 53062593,
+      "date": "2014-08-22T13:52:26Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 53101101,
+      "date": "2014-08-22T18:18:39Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 53101270,
+      "date": "2014-08-22T18:20:00Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 53579586,
+      "date": "2014-08-27T14:24:25Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 53671861,
+      "date": "2014-08-28T04:12:18Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 57041726,
+      "date": "2014-09-27T04:11:27Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 57041730,
+      "date": "2014-09-27T04:11:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 60315581,
+      "date": "2014-10-23T21:54:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 60321256,
+      "date": "2014-10-23T22:47:40Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 63308252,
+      "date": "2014-11-17T14:03:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 64489475,
+      "date": "2014-11-25T23:20:01Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 64489552,
+      "date": "2014-11-25T23:20:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 64687456,
+      "date": "2014-11-26T18:09:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 71959093,
+      "date": "2015-01-29T02:37:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 73990100,
+      "date": "2015-02-11T23:45:58Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 76276143,
+      "date": "2015-02-26T21:22:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 76276326,
+      "date": "2015-02-26T21:23:10Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 78091819,
+      "date": "2015-03-10T16:32:50Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 86754587,
+      "date": "2015-03-26T23:38:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 87234926,
+      "date": "2015-03-28T14:23:51Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 87234987,
+      "date": "2015-03-28T14:24:11Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 88280264,
+      "date": "2015-03-31T23:17:45Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 99653190,
+      "date": "2015-05-07T00:08:55Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 101028674,
+      "date": "2015-05-11T19:46:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 101348336,
+      "date": "2015-05-12T17:00:38Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 114223642,
+      "date": "2015-06-22T19:08:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 119005098,
+      "date": "2015-07-06T21:39:09Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 132735348,
+      "date": "2015-08-19T18:36:33Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 132735383,
+      "date": "2015-08-19T18:36:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 132755508,
+      "date": "2015-08-19T19:43:23Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 132830886,
+      "date": "2015-08-20T00:12:02Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 144487675,
+      "date": "2015-09-30T17:43:06Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 144488255,
+      "date": "2015-09-30T17:45:43Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 144503738,
+      "date": "2015-09-30T18:44:03Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 166,
+      "date": "2015-09-29T22:53:37Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 164,
+      "date": "2015-09-02T22:53:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 163,
+      "date": "2015-09-02T22:28:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 144,
+      "date": "2015-06-22T19:08:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 143,
+      "date": "2015-06-19T20:34:21Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 125,
+      "date": "2015-04-06T23:58:05Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 119,
+      "date": "2015-03-26T23:11:20Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 89,
+      "date": "2014-09-03T22:35:22Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 84,
+      "date": "2014-08-22T02:34:49Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 79,
+      "date": "2014-07-17T05:44:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 78,
+      "date": "2014-07-17T03:19:04Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 77,
+      "date": "2014-07-15T19:51:16Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 75,
+      "date": "2014-07-02T22:41:47Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 67,
+      "date": "2014-06-11T03:56:24Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 66,
+      "date": "2014-06-02T21:57:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 64,
+      "date": "2014-04-22T19:58:30Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 17,
+      "date": "2013-06-07T16:00:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 7,
+      "date": "2013-06-18T22:33:17Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 6,
+      "date": "2013-06-18T22:30:44Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 165,
+      "date": "2015-09-29T22:21:12Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 90,
+      "date": "2014-09-08T21:13:32Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 73,
+      "date": "2014-06-19T17:47:14Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 72,
+      "date": "2014-06-19T17:46:57Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 71,
+      "date": "2014-06-19T17:45:53Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 70,
+      "date": "2014-06-19T17:45:42Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 69,
+      "date": "2014-06-19T17:45:35Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 68,
+      "date": "2014-06-19T17:45:19Z"
+    },
+    {
+      "dev_id": "jkeiser",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 32,
+      "date": "2013-08-16T15:24:03Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "ed2e98187783567b9a954f4721d7d2e09a468f5d",
+      "date": "2015-04-15T14:42:41Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "70b633d712cfb0f90822f4f6baed8f1a98da5637",
+      "date": "2015-04-15T14:41:28Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "ed59fbb04cea1653c3e4aaac6d4c664b857aa496",
+      "date": "2015-04-14T18:50:30Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f5b67e4d2a8515fa1eea3852d9ec89e41eae22e8",
+      "date": "2014-05-28T14:33:21Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f7f295e3e73c6bc8776e63c51a21e9020297b112",
+      "date": "2014-05-28T02:04:08Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "e0f8254d89014fd21b0a9b71e16ddcc325927169",
+      "date": "2014-05-28T02:02:16Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "ce789025118b52cf137c86b23c00e14721b510c7",
+      "date": "2014-05-28T01:42:34Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "b39c7338338b9c1c6c40e93eddd5dddbf1ac0ff2",
+      "date": "2014-05-15T14:26:47Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "fbc0eea1ba58826c5eba52c7447561ce34d65af3",
+      "date": "2014-05-09T22:57:41Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "bd93d5af5cdb1e6c93affa0405b3559f3e85dbdb",
+      "date": "2014-05-09T22:47:39Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "ce96f9e9ed87f5dbf2944fd026bdc9ed25b15354",
+      "date": "2014-05-09T22:41:51Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "0c41ec820b17bba3f9a23d5886dbca26d1ae007e",
+      "date": "2014-05-09T22:41:04Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "b34f9285731fe740f9971e8f588bf96d9f699cb7",
+      "date": "2014-05-09T22:37:21Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f7cab95d9aac3fd0bb52aedf52f21bd325318a64",
+      "date": "2014-05-09T22:34:01Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "05419bc5d11aa60408057cbe58547bb96286675e",
+      "date": "2014-05-09T22:31:48Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "ef007b1e232badbf5e6f015515aa9658432984a4",
+      "date": "2014-05-09T22:20:41Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "b202a62b1c0d51553abba8ed04d0a35933b0ba3f",
+      "date": "2014-05-09T21:57:49Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "791df52d0c83722e85b0fcbce950b737f0da7184",
+      "date": "2014-05-09T21:54:30Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "66481b3df81d20c9c99438eae566a987c8249e75",
+      "date": "2014-05-09T21:53:21Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "fc132db39fe7f1fe268a55074cb9d60d283e2906",
+      "date": "2014-05-09T21:41:41Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "6722d3ac02c1673e60da1ec1fbd0dc3fbc807157",
+      "date": "2014-05-01T02:47:57Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "0d3362b987a6075080524379fccb13fa2a3b3003",
+      "date": "2014-05-01T02:41:34Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "c7d3ca0652d6355ef40b2880f643f79cba55afe8",
+      "date": "2014-02-27T16:56:51Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "48ab4517dd448cded0d186c9f3a56d82af419780",
+      "date": "2014-01-09T23:03:06Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "68c39944650e0aaaffcf5a09c47b188419b9bba7",
+      "date": "2014-01-09T22:47:05Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "3a6fd412176dc5db0b3fa6ddcc929fb252e0c324",
+      "date": "2014-01-07T03:14:02Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "0406fa9cae7066b9f457a003352ab29f51026434",
+      "date": "2014-01-07T03:03:19Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "94aef8b4ba479155d101099c80a42f37bdd79286",
+      "date": "2014-01-07T02:00:38Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "de02a1eae331d2f7568bacd7499bda13ae779b82",
+      "date": "2013-12-26T16:49:57Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "cbbd39d9778680f3e79f050e96d5f1f002a88d68",
+      "date": "2013-12-16T02:49:25Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "73e45039799b4e1fde32a0f94d49b6d18d5b5413",
+      "date": "2013-12-16T02:47:06Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f54bfbf8ff2e2326bc16807742507f012d62e397",
+      "date": "2013-12-10T02:32:31Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "bda70d6fcf4693785d9861615f91fc7a3b82dc5a",
+      "date": "2013-11-03T02:31:59Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "235b872ad1286049cf596fce3d752c63e4ce60cc",
+      "date": "2013-09-24T22:56:36Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f7d0fe64cd5f00e1b8ff9918d1200dd390d0d290",
+      "date": "2013-09-24T22:54:32Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "fec3a13edc8b81613adf22d9defd0c911b036633",
+      "date": "2013-09-24T22:53:32Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "d8c5780a8dc2ced3a4a67c42bf262afe37e77a2a",
+      "date": "2013-09-24T20:43:55Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "2a2c6673d303f0768aec2909f19713a9f1ebb14e",
+      "date": "2013-09-09T20:48:54Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "568944fb4f75bfadaf8c8c2d5b1f9120eb6fe6b2",
+      "date": "2013-08-19T16:00:57Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f3a67b2ae6dc2cf8ce831cce3cc15cf1c8f9ee5b",
+      "date": "2013-08-19T15:45:06Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "a7c1be678fb6c6449ff9138031803fdd44b969f0",
+      "date": "2013-08-19T15:29:11Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "cbf2b941cf24c8b9dfc9507362c6f74c6a2f73f9",
+      "date": "2013-08-19T15:23:39Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "c94a1420821b3d821d7c9790b55c6d0fd6a968db",
+      "date": "2013-07-30T04:38:30Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "0ed0327ba792720419a9e70e6f7ad169e23faaea",
+      "date": "2013-07-30T04:08:40Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "8055c90011b4f2df4dafae77f10812527044b7a0",
+      "date": "2013-07-17T15:12:42Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "089ee469c028cd9517944613a9aa97176ed228b2",
+      "date": "2013-07-17T15:11:01Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "7c3bca39e8b17940c68fbfe082194b7064a10ddf",
+      "date": "2013-07-17T14:55:15Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "15611d3e4f10437a72e8a14b2a6c7f5ccead04ec",
+      "date": "2013-07-16T19:48:56Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "7f7a7c1c2134f480e2738645aec5224bf4778a31",
+      "date": "2013-07-16T19:35:30Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "de4db2efd6b551173db54d9c1c9e61d668af9835",
+      "date": "2013-07-16T18:43:42Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "8b4f0c01364501bbd49f1890e33a1f841b4936fa",
+      "date": "2013-07-16T18:40:16Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "0c3231c64143e5a017eb6f4bec8df9959c22e006",
+      "date": "2013-07-16T18:38:31Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "615c7dc950dfbd65548d1af167cfa2b4b8703691",
+      "date": "2013-07-16T18:36:44Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f157fe85a71c90eac99c28d280de103299053c18",
+      "date": "2013-07-16T15:42:47Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "be356434e8068beafc04b333c9c20d4d314df704",
+      "date": "2013-07-16T15:42:12Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "a170e6bba07aa58465fe2b689256c84d98698ea7",
+      "date": "2013-07-15T17:48:20Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "908fe5f6597e5ecf10a98b977f69cf2c89d1de74",
+      "date": "2013-07-15T17:20:50Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "e046663fdfc29f2dee0c18ea66abe7350ea77000",
+      "date": "2013-07-15T17:17:17Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "6c6400cb26ae3a312cba6bf62f2d6fff27b24b52",
+      "date": "2013-07-15T17:13:30Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "bdd9372df2d2f1418125584806808f484142c14d",
+      "date": "2013-07-15T17:11:11Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "2b5da511eaab22f649d0a68f658455c1622a010f",
+      "date": "2013-07-15T16:56:43Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f0a7398e631d411dfc2479ae8d34071b2fde3865",
+      "date": "2013-07-15T16:56:33Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "91ac85e8bb75e68a9670cecc90e69817275fd518",
+      "date": "2013-07-15T16:37:19Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "dbcf6f225dd786b5c5dbaa103e12afd1f500841a",
+      "date": "2013-07-15T16:03:56Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "43ef4fdadf7f18bb57abd41016136e1b4f24023f",
+      "date": "2013-07-15T16:02:11Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f9112b8b3915ae8ab50c3a38f31910db10e14c1a",
+      "date": "2013-07-15T16:01:39Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "48b6126fd79434a0c9054204ba04970fa16e5c50",
+      "date": "2013-07-15T15:55:42Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "a00f0551c9c7af17cb981a28816f1a7fb8ec4415",
+      "date": "2013-07-15T15:53:44Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "91c064678a7129790a8639131fa3f9f6e488edea",
+      "date": "2013-07-15T15:06:12Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "cf581ab2eabcf47b77ad8e5c815c24c323f36f5b",
+      "date": "2013-07-12T18:05:00Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "78d41ea32651dc25fb590d4776d076a87923b8df",
+      "date": "2013-07-12T17:57:10Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "d7d003633106f78803a87cadc331421b0606f479",
+      "date": "2013-06-19T05:38:37Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "3dc16b74c538093847738339e33855adf5575de4",
+      "date": "2013-06-19T05:25:57Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "ed8fd10a21e93a7d1572c6a26525e65e33f516ea",
+      "date": "2013-06-19T05:25:35Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "d051f617f132d6e48f06267ed51f8106b49bf0a4",
+      "date": "2013-06-19T05:19:17Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "7e8379bf1872057ffbaeca7ed7fe416549739fd4",
+      "date": "2013-06-18T21:20:26Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "3fd78999561b9299a505fbf7db82fabe9dc687e4",
+      "date": "2013-06-18T21:19:33Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "0fd3db62005c3adb4ef7cc958679bd6e395c4633",
+      "date": "2013-06-18T21:04:23Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "58fd7e3cc72bdc78880eb9a131c053345e9e6647",
+      "date": "2013-06-18T20:47:11Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "d97a6f660ae7113fd762935d2c5f9d6a2d7ce0f8",
+      "date": "2013-06-18T20:22:07Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "1f16d270ba98b2122e3d174d68db51e031dcc635",
+      "date": "2013-06-18T19:29:10Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "64755a6bc39b9c58492ea81567b5ff66312580ab",
+      "date": "2013-06-18T19:03:02Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "2957f2b8aeec93974acaf49d76a52596ea8feea5",
+      "date": "2013-06-18T18:58:58Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "7617db494057099c3a2c9f0b5254742770062b00",
+      "date": "2013-06-18T18:42:38Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "d0699e01119b6ab0c3415c38bb36219e5c1ea350",
+      "date": "2013-06-18T17:14:20Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "07d0cd16be984e9d932884f01bce23d4d440cec3",
+      "date": "2013-06-18T15:55:04Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "2c745a377d08f3f309041faaedc03309b4c74c07",
+      "date": "2013-06-17T22:00:14Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "2854b575541ee7071e1dd2148345257b4e473df5",
+      "date": "2013-06-17T21:56:37Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "bf3048bfa4cf28fc9a9e21499e271dbe79eed8a3",
+      "date": "2013-06-17T21:09:37Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "bac7e88aae5a4dc979bbdc0ed9047b3e41684dd2",
+      "date": "2013-06-17T19:38:15Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "6a60c2665067d2f5b6247fb56099c6030a75e501",
+      "date": "2013-06-16T21:06:00Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "6eaef7ab1aeb3d4b338b5a0988c6fed2e9da3d82",
+      "date": "2013-06-16T21:05:05Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "f64a08cd27ce016c7b62fa4db2e47fb161f2fa0e",
+      "date": "2013-06-14T02:26:17Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "5720a05d1b9110a6bcc9699ae42962a82c52a34f",
+      "date": "2013-06-14T00:52:59Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "7b8b8bfdffe93e7512398ef8be671b36a70d29e1",
+      "date": "2013-06-14T00:31:15Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "4e6c9dfbff1115c07c1aa18c89634c9e6e0e9f9a",
+      "date": "2013-06-13T23:23:01Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "93c5037650feb907897803db8735bd8715fd44b1",
+      "date": "2013-06-13T19:59:13Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "commit",
+      "id": "382c1bf196f34c8cc48f59206059dbf6d3615d26",
+      "date": "2013-06-03T19:57:24Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19625839,
+      "date": "2013-06-18T17:12:05Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19625859,
+      "date": "2013-06-18T17:12:26Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19625987,
+      "date": "2013-06-18T17:14:35Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19632092,
+      "date": "2013-06-18T18:45:20Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19633057,
+      "date": "2013-06-18T18:59:23Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19663571,
+      "date": "2013-06-19T05:18:49Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19663814,
+      "date": "2013-06-19T05:27:47Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19663911,
+      "date": "2013-06-19T05:32:31Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 19701000,
+      "date": "2013-06-19T17:48:54Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 20285375,
+      "date": "2013-07-01T14:31:29Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 20577038,
+      "date": "2013-07-07T20:34:12Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 20577533,
+      "date": "2013-07-07T21:04:59Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 20879013,
+      "date": "2013-07-12T14:17:07Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 20893247,
+      "date": "2013-07-12T18:04:11Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 20975980,
+      "date": "2013-07-15T15:09:06Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 20984745,
+      "date": "2013-07-15T17:14:03Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 21118762,
+      "date": "2013-07-17T14:58:21Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 21119957,
+      "date": "2013-07-17T15:13:52Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 21432403,
+      "date": "2013-07-23T17:45:57Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 21562363,
+      "date": "2013-07-25T15:33:05Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 21585330,
+      "date": "2013-07-25T21:17:28Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 21768547,
+      "date": "2013-07-30T04:08:38Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22710617,
+      "date": "2013-08-15T15:31:03Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22877534,
+      "date": "2013-08-19T14:52:15Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22877737,
+      "date": "2013-08-19T14:54:42Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22879162,
+      "date": "2013-08-19T15:13:44Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22880037,
+      "date": "2013-08-19T15:24:44Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22880193,
+      "date": "2013-08-19T15:26:51Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22881581,
+      "date": "2013-08-19T15:45:24Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22881849,
+      "date": "2013-08-19T15:49:10Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22881979,
+      "date": "2013-08-19T15:50:58Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 22882085,
+      "date": "2013-08-19T15:52:10Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 23426201,
+      "date": "2013-08-28T16:00:36Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 23945627,
+      "date": "2013-09-06T14:57:20Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 24162970,
+      "date": "2013-09-10T14:16:01Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 24163027,
+      "date": "2013-09-10T14:16:40Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 24321998,
+      "date": "2013-09-12T14:06:29Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 24939414,
+      "date": "2013-09-23T17:55:53Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 26427792,
+      "date": "2013-10-16T15:22:09Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 27522925,
+      "date": "2013-10-31T20:08:17Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 27522943,
+      "date": "2013-10-31T20:08:39Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 27637128,
+      "date": "2013-11-03T01:59:54Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 27637495,
+      "date": "2013-11-03T02:33:07Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 27637513,
+      "date": "2013-11-03T02:34:23Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 28732456,
+      "date": "2013-11-18T20:01:51Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 28732520,
+      "date": "2013-11-18T20:02:26Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 28732543,
+      "date": "2013-11-18T20:02:45Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 28732690,
+      "date": "2013-11-18T20:04:36Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30194345,
+      "date": "2013-12-10T02:26:22Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30194443,
+      "date": "2013-12-10T02:28:54Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30282366,
+      "date": "2013-12-11T00:13:57Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30624565,
+      "date": "2013-12-15T23:08:11Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30630399,
+      "date": "2013-12-16T02:52:02Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30630435,
+      "date": "2013-12-16T02:52:29Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30727547,
+      "date": "2013-12-17T05:40:45Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30727598,
+      "date": "2013-12-17T05:42:19Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30727716,
+      "date": "2013-12-17T05:45:52Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 30759165,
+      "date": "2013-12-17T15:20:10Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31227055,
+      "date": "2013-12-26T16:49:54Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31227126,
+      "date": "2013-12-26T16:52:16Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31227320,
+      "date": "2013-12-26T16:58:01Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31227795,
+      "date": "2013-12-26T17:11:02Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31710183,
+      "date": "2014-01-07T03:14:38Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31954702,
+      "date": "2014-01-09T17:15:19Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31963754,
+      "date": "2014-01-09T18:52:52Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31985973,
+      "date": "2014-01-09T22:54:10Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31986252,
+      "date": "2014-01-09T22:57:15Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31986475,
+      "date": "2014-01-09T23:00:05Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33619243,
+      "date": "2014-01-29T19:16:43Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33619317,
+      "date": "2014-01-29T19:17:21Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33619385,
+      "date": "2014-01-29T19:18:02Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33621254,
+      "date": "2014-01-29T19:35:36Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33621830,
+      "date": "2014-01-29T19:40:52Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33621985,
+      "date": "2014-01-29T19:42:20Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33622075,
+      "date": "2014-01-29T19:43:02Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 36260213,
+      "date": "2014-02-27T16:26:48Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 36261086,
+      "date": "2014-02-27T16:33:48Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 41237779,
+      "date": "2014-04-24T02:51:12Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 41237894,
+      "date": "2014-04-24T02:54:03Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 41874923,
+      "date": "2014-05-01T02:51:41Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 41875112,
+      "date": "2014-05-01T02:56:19Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 41878076,
+      "date": "2014-05-01T04:00:26Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 42705916,
+      "date": "2014-05-09T19:44:22Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 42714950,
+      "date": "2014-05-09T21:15:02Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 42717516,
+      "date": "2014-05-09T21:47:21Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 42717688,
+      "date": "2014-05-09T21:49:35Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 42717753,
+      "date": "2014-05-09T21:50:18Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 42717799,
+      "date": "2014-05-09T21:50:48Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 42717987,
+      "date": "2014-05-09T21:53:17Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 43216074,
+      "date": "2014-05-15T14:26:49Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 44356014,
+      "date": "2014-05-28T01:36:24Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 44356122,
+      "date": "2014-05-28T01:38:54Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 44356295,
+      "date": "2014-05-28T01:41:48Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 44356335,
+      "date": "2014-05-28T01:42:32Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 44357480,
+      "date": "2014-05-28T02:04:51Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 45663276,
+      "date": "2014-06-10T19:55:20Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 45663348,
+      "date": "2014-06-10T19:56:01Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 47672684,
+      "date": "2014-07-01T15:43:45Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 47672749,
+      "date": "2014-07-01T15:44:17Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 47672805,
+      "date": "2014-07-01T15:44:42Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 57512887,
+      "date": "2014-10-01T18:31:00Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 92941945,
+      "date": "2015-04-14T16:14:38Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18914039,
+      "date": "2013-06-04T14:50:19Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18926857,
+      "date": "2013-06-04T17:52:58Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18944644,
+      "date": "2013-06-04T22:47:05Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18945016,
+      "date": "2013-06-04T22:55:38Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18945410,
+      "date": "2013-06-04T23:04:17Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18945607,
+      "date": "2013-06-04T23:09:22Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18987500,
+      "date": "2013-06-05T16:02:16Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18989636,
+      "date": "2013-06-05T16:29:12Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 18992331,
+      "date": "2013-06-05T17:09:41Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19002006,
+      "date": "2013-06-05T19:21:16Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19042367,
+      "date": "2013-06-06T12:42:48Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19050979,
+      "date": "2013-06-06T14:58:23Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 19067388,
+      "date": "2013-06-06T19:10:41Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "pr",
+      "id": 12,
+      "date": "2013-06-03T19:57:31Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 5,
+      "date": "2013-06-17T21:00:57Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 4,
+      "date": "2013-06-17T20:59:47Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 3,
+      "date": "2013-06-17T20:59:03Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 2,
+      "date": "2013-06-17T20:58:03Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 1,
+      "date": "2013-06-17T20:56:43Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 21,
+      "date": "2013-06-17T21:36:25Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 15,
+      "date": "2013-06-05T21:30:35Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 14,
+      "date": "2013-06-04T22:33:07Z"
+    },
+    {
+      "dev_id": "andrewgross",
+      "repo": "chef/chef-zero",
+      "type": "issue",
+      "id": 13,
+      "date": "2013-06-03T21:11:12Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "commit",
+      "id": "1c0697ea72035f3bddf470b5b6054608ab1fac11",
+      "date": "2013-09-23T17:22:28Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 27516660,
+      "date": "2013-10-31T19:16:47Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 31959621,
+      "date": "2014-01-09T18:07:12Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 33171761,
+      "date": "2014-01-23T21:38:58Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "com",
+      "id": 36183925,
+      "date": "2014-02-26T22:10:40Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "chef/chef-zero",
+      "type": "com",
+      "id": 24870118,
+      "date": "2013-09-21T20:35:52Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "pr",
+      "id": 22,
+      "date": "2013-09-23T17:26:29Z"
+    },
+    {
+      "dev_id": "mattray",
+      "repo": "schubergphilis/vagrant-chef-zero",
+      "type": "issue",
+      "id": 39,
+      "date": "2014-02-26T22:30:02Z"
+    }
+  ]
+}

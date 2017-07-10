@@ -1,0 +1,2383 @@
+{
+  "user_repo": "rebelidealist/stripe-ruby-mock",
+  "dep_repo": "stripe/stripe-ruby",
+  "dep_date": "2013-04-29 06:55:02 UTC",
+  "dep_commit_id": "c613deb663406dc4ac7e89b9013bbe58ad1ee293",
+  "social_date": "2012-09-09 20:35:33 UTC",
+  "devs": [
+    "andrewpthorp",
+    "EddM",
+    "TrevorHinesley",
+    "nhocki",
+    "alexmamonchik",
+    "ecl1pse"
+  ],
+  "interactions": [
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "f78f433449ecf33ede82c9902db35af0067a15ec",
+      "date": "2013-11-27T21:11:26Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d471f792c24972dd83e6ca7910e8e17ed34c2252",
+      "date": "2013-11-12T05:31:49Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "b92b61479abfacec9a4977f24ccaa4209a39ee08",
+      "date": "2013-11-12T05:13:44Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "841a34385ae510b47dddcce5fbe541573b6d78fc",
+      "date": "2015-10-01T23:30:37Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "218178ea54521728bebc36013c90de908779cbe3",
+      "date": "2014-02-04T03:37:07Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "5029e818aac1a45673d5f65d2bb1d49b3fcf5a2e",
+      "date": "2014-02-04T03:31:33Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "0fdd8309756b01816ded7b182f2d4282c9173808",
+      "date": "2014-02-04T03:17:37Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c46d285b476370f0543f1077b372c1ac13ed388f",
+      "date": "2014-01-30T01:25:27Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "f74edde14c55c815cbfd6ed3a696ca1a7623b5ad",
+      "date": "2014-01-29T13:58:55Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "7ec8a12dff1c2c901122af1f0e4aa5bf906a9a1d",
+      "date": "2014-01-29T13:54:35Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "02b40e6637f2697be1bd451cb522eaf8dbaf2e15",
+      "date": "2014-01-27T14:44:09Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c880d6a277a5176d28b48b01d00ccae5ace8b70d",
+      "date": "2014-01-25T06:52:57Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "7275b9b951e2bbb49599fca3cdae9630a9eb29a8",
+      "date": "2014-01-25T07:37:09Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "45fe0c25912d235deedca7286e1cd7d9eada99e6",
+      "date": "2014-01-25T07:33:56Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "413939f89f37006e7acb6a6b98fdaa7eb1ecdd2f",
+      "date": "2014-01-25T06:52:57Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "e1148c9f086cf9e70c8827bb738bc5661861fdc7",
+      "date": "2014-02-04T03:17:37Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "11ed3d2d327ea37f3f030abc0adb7cd87c8fb277",
+      "date": "2014-01-30T01:50:06Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "9b3a3a020be1cafe0ecbd02064b3ede25423e966",
+      "date": "2014-01-30T01:49:41Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "90278f20d4128b1c9001e30f7321ca4e84f20eea",
+      "date": "2014-01-30T01:25:27Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "90b613e4164259f5242ab1eda7baf615669ebf4b",
+      "date": "2014-01-29T13:58:55Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "689c15fde2680749bf128d6a9cbccac419de199a",
+      "date": "2014-01-29T13:54:35Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "56e04031580cd99b292d096412b645283c0f8071",
+      "date": "2014-01-27T14:44:09Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "5331e81f5431486e601633ff5935d504d5f7e886",
+      "date": "2014-01-26T18:13:39Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "da4c93c41ce7108999110741457c665225f27812",
+      "date": "2014-01-25T06:52:57Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "f9d8dd7d12b9348e65d4dc689aab4c5b824a80fd",
+      "date": "2014-01-25T07:37:09Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "88b4afbac06e974ac7507c81ed43a155deeb2d64",
+      "date": "2014-01-25T23:26:51Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "c5edb730cbb6db7187bea8da24ae1fd7ce609969",
+      "date": "2014-01-25T23:11:08Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "8b5f7d038ccfffd839d8a37f16cb753a00a76a73",
+      "date": "2014-01-25T07:37:09Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "ebfe240ab5eabbec71a6b3ad6b3255c1344c2660",
+      "date": "2014-01-25T07:37:09Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "837461ac2895875f84b39fea6185d79fedca4024",
+      "date": "2014-01-25T07:33:56Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "9ead81b352eb5628068c332d012f73ff6e917dd0",
+      "date": "2014-01-25T07:27:25Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "e717ee711eb63f1affbe422b6e796eaa22accba7",
+      "date": "2014-01-25T06:52:57Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "8b3a00c58740f48d1c5ae66fd435960ff6eea49a",
+      "date": "2014-01-25T05:27:36Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "commit",
+      "id": "ff7595c006d21aef013a0eac4c5a99f140e8c1d0",
+      "date": "2014-01-25T04:46:08Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 27984918,
+      "date": "2013-11-07T17:10:25Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 28214433,
+      "date": "2013-11-11T16:28:58Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 29419708,
+      "date": "2013-11-27T21:00:09Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33280766,
+      "date": "2014-01-25T04:17:36Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33280999,
+      "date": "2014-01-25T04:34:15Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281018,
+      "date": "2014-01-25T04:35:34Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281051,
+      "date": "2014-01-25T04:38:04Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281162,
+      "date": "2014-01-25T04:46:05Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281626,
+      "date": "2014-01-25T05:25:19Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281682,
+      "date": "2014-01-25T05:28:45Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281683,
+      "date": "2014-01-25T05:28:56Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281684,
+      "date": "2014-01-25T05:29:10Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33281693,
+      "date": "2014-01-25T05:30:25Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33282726,
+      "date": "2014-01-25T06:53:22Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33283189,
+      "date": "2014-01-25T07:27:55Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33283828,
+      "date": "2014-01-25T08:15:18Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33283986,
+      "date": "2014-01-25T08:25:47Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33303624,
+      "date": "2014-01-25T23:10:47Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33303631,
+      "date": "2014-01-25T23:11:05Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33303717,
+      "date": "2014-01-25T23:15:14Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33304107,
+      "date": "2014-01-25T23:35:28Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33304115,
+      "date": "2014-01-25T23:35:41Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33304125,
+      "date": "2014-01-25T23:36:16Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33304362,
+      "date": "2014-01-25T23:48:12Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33304503,
+      "date": "2014-01-25T23:54:23Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33309114,
+      "date": "2014-01-26T04:37:38Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33309120,
+      "date": "2014-01-26T04:38:08Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33309167,
+      "date": "2014-01-26T04:41:47Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33309219,
+      "date": "2014-01-26T04:46:01Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33309787,
+      "date": "2014-01-26T05:31:47Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33325368,
+      "date": "2014-01-26T18:21:16Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33325440,
+      "date": "2014-01-26T18:23:32Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33557398,
+      "date": "2014-01-29T05:17:40Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33586242,
+      "date": "2014-01-29T14:00:40Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 33655479,
+      "date": "2014-01-30T02:40:29Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 34027185,
+      "date": "2014-02-04T03:19:08Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 144879446,
+      "date": "2015-10-01T23:48:40Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 46,
+      "date": "2013-11-27T21:12:04Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 43,
+      "date": "2013-11-12T05:13:33Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 312,
+      "date": "2015-10-01T23:33:24Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 110,
+      "date": "2014-01-25T23:27:39Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 109,
+      "date": "2014-01-25T23:10:11Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 106,
+      "date": "2014-01-25T07:29:50Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "pr",
+      "id": 105,
+      "date": "2014-01-25T06:55:32Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 42,
+      "date": "2013-11-11T16:26:24Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 40,
+      "date": "2013-11-07T17:09:46Z"
+    },
+    {
+      "dev_id": "andrewpthorp",
+      "repo": "stripe/stripe-ruby",
+      "type": "issue",
+      "id": 114,
+      "date": "2014-02-03T17:41:04Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "f95fb1a4e3f2e3d46f25095ed3ef69ba08a74f26",
+      "date": "2015-02-16T19:40:54Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "2a31ff16a5811a27ad561f16c8eb78286be318c3",
+      "date": "2015-02-16T19:29:04Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "56a813d255f8741ea6b8189d50713fa14c6f2300",
+      "date": "2015-02-16T19:19:48Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5b67de89fa45be4bab7a051fdbdfb61a04e374b9",
+      "date": "2015-02-16T19:06:15Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "b4a6f6fc460c10167f59489c5769947256ce1760",
+      "date": "2015-02-12T00:16:07Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "cbb6ebc8b45910709af84bf93753f4518699ba09",
+      "date": "2015-02-03T11:26:44Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d508b101619fdbde27187a8ca22ed278f2f9e59a",
+      "date": "2015-02-01T17:28:49Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "ce40864810bb65345fbeb23f5903aa6d034383b1",
+      "date": "2015-02-01T17:25:09Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5d6aae23ac8d170f739fecd10d4aed122f3af536",
+      "date": "2015-01-28T15:20:50Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "b86a17e501fcb9f285c2d77e048f37a20522e5c5",
+      "date": "2015-01-24T17:33:43Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d08a424889880fc90b3792524e94724a46505c11",
+      "date": "2015-01-24T16:54:02Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "8a3e1e90d6567de95a937ca31f9dc0013c7c7dd2",
+      "date": "2015-01-23T11:46:59Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "9953d293102eeb4e4e0c756570147e6f92cfc519",
+      "date": "2015-01-23T01:14:43Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "b763d7df5eb159f8c13cd663b913bead0b826331",
+      "date": "2015-01-22T22:00:42Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 70581386,
+      "date": "2015-01-19T23:49:38Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 70951403,
+      "date": "2015-01-22T00:41:47Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 70952542,
+      "date": "2015-01-22T00:52:51Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71107647,
+      "date": "2015-01-22T21:59:07Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71108445,
+      "date": "2015-01-22T22:04:12Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71131278,
+      "date": "2015-01-23T01:09:10Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71132422,
+      "date": "2015-01-23T01:20:43Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71182824,
+      "date": "2015-01-23T11:46:56Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71241235,
+      "date": "2015-01-23T18:36:28Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71854113,
+      "date": "2015-01-28T15:33:17Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71856072,
+      "date": "2015-01-28T15:43:46Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 71875864,
+      "date": "2015-01-28T17:21:08Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72374067,
+      "date": "2015-02-01T17:28:19Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72634828,
+      "date": "2015-02-03T11:23:45Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72635643,
+      "date": "2015-02-03T11:30:19Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72635832,
+      "date": "2015-02-03T11:31:57Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72635959,
+      "date": "2015-02-03T11:32:53Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72636163,
+      "date": "2015-02-03T11:35:04Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 73603625,
+      "date": "2015-02-09T22:23:40Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 73993531,
+      "date": "2015-02-12T00:16:03Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 74557257,
+      "date": "2015-02-16T19:05:53Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 74557355,
+      "date": "2015-02-16T19:06:33Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 74558864,
+      "date": "2015-02-16T19:18:09Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 74560892,
+      "date": "2015-02-16T19:33:34Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 74561794,
+      "date": "2015-02-16T19:40:51Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76498273,
+      "date": "2015-02-28T00:31:25Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76500087,
+      "date": "2015-02-28T00:55:31Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8409019,
+      "date": "2012-09-09T20:35:33Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8409219,
+      "date": "2012-09-09T20:55:10Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 8456098,
+      "date": "2012-09-11T11:07:23Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 172,
+      "date": "2015-01-28T14:54:28Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 168,
+      "date": "2015-01-23T18:47:43Z"
+    },
+    {
+      "dev_id": "EddM",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 167,
+      "date": "2015-01-23T17:46:49Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "a6dfda103282b68bb595ee62bdb4020b82df93f4",
+      "date": "2015-03-02T20:19:18Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "dbc5856f3b074140cf8168384172732ad748d58b",
+      "date": "2015-03-02T20:11:36Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72666845,
+      "date": "2015-02-03T15:11:49Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 75351686,
+      "date": "2015-02-21T02:35:54Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76651428,
+      "date": "2015-03-02T02:51:23Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76651865,
+      "date": "2015-03-02T02:57:30Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76653996,
+      "date": "2015-03-02T03:30:39Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76805131,
+      "date": "2015-03-02T20:12:13Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76805858,
+      "date": "2015-03-02T20:14:14Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 78206232,
+      "date": "2015-03-11T05:13:07Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 71726015,
+      "date": "2015-01-27T20:55:50Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 195,
+      "date": "2015-03-02T20:11:50Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 204,
+      "date": "2015-03-19T18:54:02Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 199,
+      "date": "2015-03-11T05:07:21Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 197,
+      "date": "2015-03-10T03:48:44Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 194,
+      "date": "2015-03-02T02:50:31Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 189,
+      "date": "2015-02-21T02:04:16Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 175,
+      "date": "2015-02-03T06:10:02Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 171,
+      "date": "2015-01-27T05:19:43Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 170,
+      "date": "2015-01-27T05:15:40Z"
+    },
+    {
+      "dev_id": "TrevorHinesley",
+      "repo": "stripe/stripe-ruby",
+      "type": "issue",
+      "id": 202,
+      "date": "2015-01-27T20:36:08Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "9f4996524d22d4b193c24c3a3a91175386cfade1",
+      "date": "2015-02-27T15:22:59Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "419ab7a7a7a44833fc78d758c7d8048f5ec568f0",
+      "date": "2015-02-27T00:45:07Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "36bded99762b4e6d9c8a73dc89281515968b18b6",
+      "date": "2015-02-27T00:40:41Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d30a8aa763822597962d9ec9e505fa6e43185fc7",
+      "date": "2015-02-27T00:38:17Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "0932a392948bddef0e4c604d123a04cf5907aa77",
+      "date": "2015-02-27T00:03:06Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "c92a7258f53001c5dcecda5b65de43a2f8c9bbad",
+      "date": "2015-02-26T23:54:43Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "28c35c1c822d85788ed5ef2021628b3ac9b50080",
+      "date": "2015-02-26T23:47:11Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "a693578b18870973ae8eb3d00bbaf754bc31441b",
+      "date": "2015-02-26T23:35:21Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "619017fe667956440b7bd954142509876ba486a0",
+      "date": "2015-02-26T23:13:32Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "485fafe94dae8a28f4348030caf11a685ad8f06f",
+      "date": "2015-02-26T23:12:27Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "de35924b2a576996b8ff5bf7eb37864f8d1fd308",
+      "date": "2015-02-26T20:19:15Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "81aaaafe4a1b1ab53d57e4f0309a31538ca1a5e2",
+      "date": "2015-02-26T20:02:51Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "24468dd32f147297eea9f8f16a2c6521e4421cb0",
+      "date": "2015-02-26T19:57:43Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "33efa3e0e7f7755e88dc432361fb591248fc7105",
+      "date": "2015-02-16T03:54:38Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "272b6dea8e3733e2a873558a51f17c57a8f4e9c6",
+      "date": "2015-02-16T03:30:46Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "3f2fddfec01f66152ce63c06d0dc23ada328b75e",
+      "date": "2015-02-16T03:24:00Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "b6972de3541c158d1391b792024e205bf03a1f06",
+      "date": "2015-02-11T19:35:15Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5ffad0dcde6c1bc6462bb44e1a07c942668990a4",
+      "date": "2015-02-10T05:58:56Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "aec7e1be0b918383d80f02ca3c05f536c1d0b4af",
+      "date": "2015-02-10T05:37:53Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "98905d3b3c04b0647bed38b725731d085a20b178",
+      "date": "2015-02-10T04:58:29Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "3a4268f1068432f9deedf6f0850ece6872b5b4d8",
+      "date": "2015-02-03T19:14:07Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 73824285,
+      "date": "2015-02-11T02:18:37Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76296707,
+      "date": "2015-02-26T23:17:11Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76309939,
+      "date": "2015-02-27T00:50:32Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 76411173,
+      "date": "2015-02-27T15:24:06Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 76411324,
+      "date": "2015-02-27T15:24:59Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 192,
+      "date": "2015-02-27T18:16:14Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 191,
+      "date": "2015-02-27T00:48:20Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 183,
+      "date": "2015-02-16T03:26:13Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 179,
+      "date": "2015-02-11T19:38:33Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 178,
+      "date": "2015-02-10T05:00:18Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 177,
+      "date": "2015-02-03T19:17:22Z"
+    },
+    {
+      "dev_id": "nhocki",
+      "repo": "stripe/stripe-ruby",
+      "type": "issue",
+      "id": 215,
+      "date": "2015-02-27T00:32:00Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "49b3c5e93abbc5d31b023993eaae91a2fddabb5e",
+      "date": "2015-11-02T06:34:34Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "50e1c80edec1eeeffcbe6fa56caeebbb7e735c37",
+      "date": "2015-11-02T06:34:22Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d5107afb4cabb37f4f541ae7f3127408e4ec888f",
+      "date": "2015-11-02T06:28:40Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "b4c8388c99ecd0b16d70675341cff0d49b551c82",
+      "date": "2015-11-02T06:16:49Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d2021688560f61b141e894e759a75aa91852fef9",
+      "date": "2015-10-24T17:48:39Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "2fa3e3cfea8747e8939038716844e7826d40c03f",
+      "date": "2015-10-24T17:35:23Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5ee66cf9e9f38b8615290fef9298b297157b0592",
+      "date": "2015-10-24T15:19:24Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "153702eba3bcf85c481b55943bfb951ad8b78972",
+      "date": "2015-10-16T18:26:48Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "2c982d4222dfe8987b449eb792f858354bfcc29f",
+      "date": "2015-10-15T21:37:15Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "a7c81c3ff04ed63817203917a6009ca66d58383d",
+      "date": "2015-10-15T21:36:36Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5453cb498b8ae67a06c1d4c316b31438bc2e19e5",
+      "date": "2015-09-28T18:44:14Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "1d0d1a49b88d24bf3815893c4c20e4049a4fdcc3",
+      "date": "2015-09-22T10:30:41Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "01b6467ff9848779da4fe78b47aa7853a197fd95",
+      "date": "2015-09-12T22:42:02Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "b8c344de9b572201ab03279ea7c75b38bac86f42",
+      "date": "2015-09-12T20:21:15Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "511b148177173e3701c74bcfa81e4fa76d081d36",
+      "date": "2015-05-25T13:47:57Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "edb78e9ae11367575f1d61477c2b756d804c42cf",
+      "date": "2015-05-25T13:27:57Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "82e85658f0436ce7d403cd115c36f865f56792dd",
+      "date": "2015-05-21T12:48:16Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5752db5b7101e4ecd85187c3894b93843987a59c",
+      "date": "2015-05-21T12:32:06Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "1ebdad453b07cfa7fb53d56fa11763c87ee7e771",
+      "date": "2015-05-21T12:14:29Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "c888d72c64cad9078834f253da437a9ca61fdd6d",
+      "date": "2015-09-23T00:45:23Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "ae20eff33ab8aaaf71cc38120a709854434d7d16",
+      "date": "2015-09-23T00:22:47Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "3dd358c57571249c55ecffe43db850195ff2bb01",
+      "date": "2015-09-22T22:02:18Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "7a0f4d45eab4cfc22f7545ac39e64470c68fc809",
+      "date": "2015-09-09T16:31:11Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5bf18d6691a6c131d894c6687b10b6df9baf347f",
+      "date": "2015-08-12T17:34:53Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "3d35a6e2e1c2da2b3ab0496863d5804195dd4108",
+      "date": "2015-07-30T11:59:07Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "51f5b050aba6801874e50cf1dd31d819600828d1",
+      "date": "2015-07-22T10:59:50Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "5695a01fc707665a1a6c85598e3a5e4e77dcf7f3",
+      "date": "2015-06-15T14:53:25Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "fa847c47215b7e70579b167b94ac435bb35ad66f",
+      "date": "2015-06-15T13:17:36Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "10e24c9c531d24a5a1027cac95afae704bb938eb",
+      "date": "2015-05-29T18:41:23Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "4132c458b970c2d945542fc22ca6495769b8cbee",
+      "date": "2015-06-12T04:12:44Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "0cb1e33267872cf5441165d3b39e770d7ae0c5e4",
+      "date": "2015-06-06T07:30:29Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "05dca56249d22ed341270610846af5c0b165afd4",
+      "date": "2015-06-01T17:37:50Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "619495e38612dba4a8e1c5627ca2f06bf2a20fd5",
+      "date": "2015-05-27T20:09:28Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "a3dddef1bd0cc1a9f9ad72962e2dea2650adf7b0",
+      "date": "2015-05-27T19:44:48Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "c01356beb721d71d65f75a7c0e19088772e90336",
+      "date": "2015-05-20T05:36:36Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d74c3b4342afb786ab4e8b40462c590c433da0d3",
+      "date": "2015-05-19T19:57:35Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "f9a6bcdb567a27fda60cfd85a9dc291315d2e56a",
+      "date": "2015-05-16T03:48:27Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "0c0f2fb1cb070cfdba0fbcb299bf77e3d918ff3f",
+      "date": "2015-05-15T20:56:59Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "3e13f5e762aa9eb0f6867b3d1541f4368d8bc2c7",
+      "date": "2015-05-10T16:10:21Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "4e7ffb930f05c09f2ad558aa8982d28c3bc21c6c",
+      "date": "2015-05-10T15:54:47Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "08ad51aea646d3dda526d7bcd4aed0ce9ecad9b1",
+      "date": "2015-05-08T07:19:14Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "9091ad1768a4f3de4b391e6917fad543e669368c",
+      "date": "2015-05-07T07:47:51Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "f7060ae042185fe7426531b52af24cc4f8951e7f",
+      "date": "2015-05-05T07:22:16Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "84f08eb216a4be86852a6c09332520da7b3c07af",
+      "date": "2015-04-18T07:16:03Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "94eddf87aadd5187fce2fcbf5dd24e3974a43d14",
+      "date": "2015-05-06T22:17:40Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d7bb2d189363c933c42bb6433cf4afd9e9737574",
+      "date": "2015-05-06T21:03:28Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "ef3b5a716a2104615c4e105d0505813aa3dfb23a",
+      "date": "2015-05-06T16:49:43Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "1dd16f8c40f5222e0f6a4a3b8ec35d6cbcc26036",
+      "date": "2015-04-12T19:56:31Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "a2659dac5995007a3d3f777fdbc061548d09f6c4",
+      "date": "2015-04-12T19:56:31Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "dda2ef30f6be00bfe6f6858c5fb11b509a58c29e",
+      "date": "2015-05-06T11:27:03Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72365703,
+      "date": "2015-02-01T13:59:02Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 72365851,
+      "date": "2015-02-01T14:02:24Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 94358618,
+      "date": "2015-04-20T05:13:16Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 99276933,
+      "date": "2015-05-06T00:45:24Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 99627799,
+      "date": "2015-05-06T22:18:25Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 100131720,
+      "date": "2015-05-08T07:23:28Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 100664050,
+      "date": "2015-05-10T16:19:34Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 100665477,
+      "date": "2015-05-10T16:35:20Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 100873416,
+      "date": "2015-05-11T11:21:18Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 100887025,
+      "date": "2015-05-11T12:04:32Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 102569052,
+      "date": "2015-05-16T03:50:36Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 104251767,
+      "date": "2015-05-21T12:12:20Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 105239808,
+      "date": "2015-05-25T14:05:52Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 106058195,
+      "date": "2015-05-27T20:09:49Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 106699885,
+      "date": "2015-05-29T06:00:36Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 106700323,
+      "date": "2015-05-29T06:05:20Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 107648952,
+      "date": "2015-06-01T17:34:04Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 109179754,
+      "date": "2015-06-05T06:54:16Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 109258441,
+      "date": "2015-06-05T11:00:16Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 110242974,
+      "date": "2015-06-09T06:24:15Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 110244085,
+      "date": "2015-06-09T06:26:53Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 113040315,
+      "date": "2015-06-18T05:12:23Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 122032298,
+      "date": "2015-07-16T17:43:24Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 122717470,
+      "date": "2015-07-19T23:27:19Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 128114233,
+      "date": "2015-08-05T19:13:55Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 128114808,
+      "date": "2015-08-05T19:15:13Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 128344224,
+      "date": "2015-08-06T12:11:10Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 129469031,
+      "date": "2015-08-10T14:12:49Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 130297189,
+      "date": "2015-08-12T13:16:20Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 130303276,
+      "date": "2015-08-12T13:33:06Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 130459714,
+      "date": "2015-08-12T21:55:45Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 130461185,
+      "date": "2015-08-12T22:04:20Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 139497281,
+      "date": "2015-09-11T09:20:32Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 139572898,
+      "date": "2015-09-11T15:17:48Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 139790973,
+      "date": "2015-09-12T16:02:27Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 140922983,
+      "date": "2015-09-16T23:15:19Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 141139669,
+      "date": "2015-09-17T16:25:17Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 142231485,
+      "date": "2015-09-22T09:54:02Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 142241606,
+      "date": "2015-09-22T10:31:33Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 142425391,
+      "date": "2015-09-22T21:17:04Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 142432943,
+      "date": "2015-09-22T21:51:46Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 142521183,
+      "date": "2015-09-23T07:45:17Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 148167962,
+      "date": "2015-10-14T19:26:56Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 148171236,
+      "date": "2015-10-14T19:37:26Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 148198267,
+      "date": "2015-10-14T20:57:23Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 148203645,
+      "date": "2015-10-14T21:16:54Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 148526176,
+      "date": "2015-10-15T21:29:08Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 148529727,
+      "date": "2015-10-15T21:44:09Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 148529876,
+      "date": "2015-10-15T21:44:22Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 150309427,
+      "date": "2015-10-22T18:10:59Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 150805251,
+      "date": "2015-10-24T12:35:55Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 150808787,
+      "date": "2015-10-24T12:47:19Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 150825861,
+      "date": "2015-10-24T15:14:24Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 150825988,
+      "date": "2015-10-24T15:17:09Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 151170115,
+      "date": "2015-10-26T15:15:55Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 151180161,
+      "date": "2015-10-26T15:48:18Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 151181757,
+      "date": "2015-10-26T15:54:23Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 152936603,
+      "date": "2015-11-02T07:00:51Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 152939510,
+      "date": "2015-11-02T07:14:38Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 156341284,
+      "date": "2015-11-13T06:43:34Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 156628890,
+      "date": "2015-11-14T04:59:08Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 156713517,
+      "date": "2015-11-14T15:50:45Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 156739647,
+      "date": "2015-11-14T19:42:28Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 156779533,
+      "date": "2015-11-15T04:31:01Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 156779591,
+      "date": "2015-11-15T04:33:13Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "stripe/stripe-ruby",
+      "type": "com",
+      "id": 151600167,
+      "date": "2015-10-27T18:25:12Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 272,
+      "date": "2015-11-02T06:23:26Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 262,
+      "date": "2015-09-23T00:55:42Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 261,
+      "date": "2015-09-23T00:27:04Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 241,
+      "date": "2015-06-15T15:18:15Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 231,
+      "date": "2015-05-27T19:57:58Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 229,
+      "date": "2015-05-19T20:15:14Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 228,
+      "date": "2015-05-16T03:40:05Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 225,
+      "date": "2015-05-10T16:05:12Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 223,
+      "date": "2015-05-06T21:49:55Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 222,
+      "date": "2015-05-06T12:02:56Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 214,
+      "date": "2015-04-18T07:20:26Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 270,
+      "date": "2015-10-15T20:33:49Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 224,
+      "date": "2015-05-09T16:27:32Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 221,
+      "date": "2015-05-06T11:24:45Z"
+    },
+    {
+      "dev_id": "alexmamonchik",
+      "repo": "stripe/stripe-ruby",
+      "type": "issue",
+      "id": 343,
+      "date": "2015-10-24T13:23:39Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "7beaa21207f74312844c316e9cd53f0e3af8ed8f",
+      "date": "2013-07-29T17:57:08Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "d26e8cab1a07f3edee42c5991adfdaabee18c447",
+      "date": "2013-07-26T02:16:08Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "commit",
+      "id": "c32be6a4129867fb7863992cb8d562ca55c60aaf",
+      "date": "2013-07-26T02:15:38Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21592973,
+      "date": "2013-07-25T23:50:42Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21596321,
+      "date": "2013-07-26T01:28:04Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21596789,
+      "date": "2013-07-26T01:44:26Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21607707,
+      "date": "2013-07-26T08:24:07Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21690602,
+      "date": "2013-07-28T20:42:05Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21690638,
+      "date": "2013-07-28T20:43:56Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21690663,
+      "date": "2013-07-28T20:45:01Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21691184,
+      "date": "2013-07-28T21:11:08Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21691515,
+      "date": "2013-07-28T21:29:48Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21739211,
+      "date": "2013-07-29T18:09:05Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21739236,
+      "date": "2013-07-29T18:09:30Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "com",
+      "id": 21739288,
+      "date": "2013-07-29T18:10:04Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 15,
+      "date": "2013-07-29T18:02:47Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 11,
+      "date": "2013-07-27T08:03:54Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "pr",
+      "id": 6,
+      "date": "2013-07-26T02:18:36Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 14,
+      "date": "2013-07-29T08:22:34Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 13,
+      "date": "2013-07-28T21:19:59Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 12,
+      "date": "2013-07-28T21:04:44Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 10,
+      "date": "2013-07-27T07:13:02Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 7,
+      "date": "2013-07-26T02:24:13Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "rebelidealist/stripe-ruby-mock",
+      "type": "issue",
+      "id": 5,
+      "date": "2013-07-25T23:11:29Z"
+    },
+    {
+      "dev_id": "ecl1pse",
+      "repo": "stripe/stripe-ruby",
+      "type": "issue",
+      "id": 80,
+      "date": "2013-07-25T23:14:25Z"
+    }
+  ]
+}

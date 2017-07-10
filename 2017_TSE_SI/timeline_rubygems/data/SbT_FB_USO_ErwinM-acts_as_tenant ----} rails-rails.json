@@ -1,0 +1,858 @@
+{
+  "user_repo": "ErwinM/acts_as_tenant",
+  "dep_repo": "rails/rails",
+  "dep_date": "2012-08-31 16:13:42 UTC",
+  "dep_commit_id": "9370379eae40ef68991f8579235b66c277e7e716",
+  "social_date": "2012-06-12 06:05:13 UTC",
+  "devs": [
+    "calebthompson",
+    "iangreenleaf",
+    "scottwillson",
+    "aaronrenner",
+    "toxaq",
+    "davekaro",
+    "pcragone"
+  ],
+  "interactions": [
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "77662ed7387317f4112e137c03c77107887c29f3",
+      "date": "2015-06-10T13:17:31Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "a978269506bccf764437b0caabc1571fd0dc9039",
+      "date": "2015-06-09T16:18:47Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "03a56b5bbfae0a1932a6189d18fb96e344ed48bd",
+      "date": "2015-06-09T16:11:41Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "17136c201320e9a041f2d98eacd299f2ce3eb154",
+      "date": "2015-01-08T18:03:17Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "382a70c875c9378991c13874c43afd958a5d3809",
+      "date": "2014-12-04T21:03:18Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "75f3584d9b87097377b312d35bd124686723ce4a",
+      "date": "2014-07-25T18:30:23Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "d5867a01a82d14216541c8bfc38e466b02580376",
+      "date": "2013-04-13T04:11:04Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "3d3fd39caa8f938a44fffc1c39bde8f0170e8f18",
+      "date": "2012-10-25T21:00:14Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 111180405,
+      "date": "2015-06-11T15:51:14Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 114516170,
+      "date": "2015-06-23T14:00:04Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 116735622,
+      "date": "2015-06-29T15:36:30Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 116798432,
+      "date": "2015-06-29T19:05:31Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 3677403,
+      "date": "2012-01-26T21:47:45Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 9795478,
+      "date": "2012-10-25T21:47:08Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 9795913,
+      "date": "2012-10-25T22:01:17Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 116,
+      "date": "2015-06-09T16:19:45Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 18406,
+      "date": "2015-01-08T18:04:15Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 17920,
+      "date": "2014-12-04T21:14:36Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 16417,
+      "date": "2014-08-07T04:30:39Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 16411,
+      "date": "2014-08-06T12:36:23Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 16410,
+      "date": "2014-08-06T12:33:07Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 16297,
+      "date": "2014-07-25T19:25:53Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 11874,
+      "date": "2013-08-13T20:32:54Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 11873,
+      "date": "2013-08-13T20:07:28Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 10244,
+      "date": "2013-04-17T02:05:44Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 10200,
+      "date": "2013-04-13T04:18:04Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 9280,
+      "date": "2013-02-14T05:18:13Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8210,
+      "date": "2012-11-13T21:38:29Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 8030,
+      "date": "2012-10-25T21:01:12Z"
+    },
+    {
+      "dev_id": "calebthompson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 4530,
+      "date": "2012-01-18T22:04:17Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "ca93e35255b6acb605674d07fd0ac700779b23d8",
+      "date": "2015-01-07T22:35:27Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "d8d1cb03917c029e597eb89f522d5536cc575f38",
+      "date": "2015-01-07T20:51:28Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "e21132531e5b0323b442b5f8842e2622743d0353",
+      "date": "2015-01-07T20:35:14Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "f4439e4acc0c14530184d29bab9f4cdd44249b60",
+      "date": "2015-01-07T20:22:22Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "fc52efd75651d2173081712a606fc6bbdc4d1e03",
+      "date": "2015-01-07T20:21:51Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "df0af34b29a22aec9225d9ba828e96f239b66866",
+      "date": "2015-01-07T20:21:00Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "79101ad3cf84a6b51c6d87aa7fae025929dcaa43",
+      "date": "2015-01-07T20:18:48Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "cb9098312012a9b8ff8f5559417bed440445015a",
+      "date": "2015-01-07T20:17:01Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "3477d49f39829efbf633253cd3b42685f5960281",
+      "date": "2015-01-07T20:14:59Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "9695d95f4988de5a0693881f453899ef7f66c7b3",
+      "date": "2015-01-07T20:14:20Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "115a099cccc39685ff684229531a4a00454fba4b",
+      "date": "2015-01-07T20:13:48Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "ef547930e751b95836e6ba7502c99bd9479e202d",
+      "date": "2015-01-05T18:52:36Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "f20d1ef54def55b1cccdd29c017779924232a9f8",
+      "date": "2015-01-05T18:48:41Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "78ec2a0ddceed62658bb2996ebd872998015cc60",
+      "date": "2015-01-04T23:11:09Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "c990a74dff6804a8786ca73a9f03ba5c7d3fd1ae",
+      "date": "2015-01-04T22:44:24Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "285f960bf79f13f3378f99390df6f73836124d07",
+      "date": "2014-12-19T01:56:14Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "1d8ff3bbc9eeb172a1b38243f958cd43b10dfeb6",
+      "date": "2014-12-19T01:07:18Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "66679c8ecd9e916cbd96745b853603bc2fed7639",
+      "date": "2012-09-17T21:57:13Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "5ff71ac9f844f2c8bcde8cdd5de767c9bdd4cc9e",
+      "date": "2011-12-05T07:20:54Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 68756057,
+      "date": "2015-01-05T18:53:34Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 68761244,
+      "date": "2015-01-05T19:25:34Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 69107169,
+      "date": "2015-01-07T22:51:00Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 71335345,
+      "date": "2015-01-24T20:17:03Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10535697,
+      "date": "2012-11-19T23:12:56Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 10537603,
+      "date": "2012-11-20T00:18:24Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 11901963,
+      "date": "2013-01-04T22:06:35Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 99,
+      "date": "2015-01-04T23:03:59Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 97,
+      "date": "2014-12-19T02:05:47Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7706,
+      "date": "2012-09-19T21:51:30Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 3873,
+      "date": "2011-12-06T07:34:23Z"
+    },
+    {
+      "dev_id": "iangreenleaf",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 18676,
+      "date": "2015-01-25T00:01:16Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "67c1c3c24aa3303da292f13ba1582338b438d680",
+      "date": "2013-06-01T14:52:49Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "25262bc280e8c9c0e875315958f82230b67cbf35",
+      "date": "2012-10-17T02:04:40Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 18649360,
+      "date": "2013-05-29T22:04:07Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 18658179,
+      "date": "2013-05-30T02:26:34Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 18768957,
+      "date": "2013-05-31T20:13:39Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 18790610,
+      "date": "2013-06-01T14:53:49Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 20829331,
+      "date": "2013-07-11T17:51:27Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 20829567,
+      "date": "2013-07-11T17:54:30Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 9513818,
+      "date": "2012-10-17T02:08:32Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 9513839,
+      "date": "2012-10-17T02:10:19Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 48,
+      "date": "2013-06-01T14:55:24Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 43,
+      "date": "2013-05-16T18:23:25Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 42,
+      "date": "2013-05-16T18:18:37Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7972,
+      "date": "2012-10-17T02:07:18Z"
+    },
+    {
+      "dev_id": "scottwillson",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7970,
+      "date": "2012-10-16T20:13:52Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "d81a7a72b0752d10a873c4a568f48ea547e0005c",
+      "date": "2012-09-20T03:35:58Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "b2d5afa707596518f59d329070a6394e53211fa2",
+      "date": "2012-09-20T03:28:52Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "48882919d9a5bf95d9fb1efeaa83cc46d71c38b3",
+      "date": "2012-08-31T17:33:02Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "9370379eae40ef68991f8579235b66c277e7e716",
+      "date": "2012-08-31T16:13:42Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "b883595e55c1cd6b5bc3ee697d5a8e2c9bc2ab1a",
+      "date": "2012-09-06T14:25:58Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "rails/rails",
+      "type": "commit",
+      "id": "8b0d5bfc77ee5d8a69f4a2121b459a7552654314",
+      "date": "2012-09-06T14:21:47Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 9653291,
+      "date": "2012-10-22T05:57:11Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 9667381,
+      "date": "2012-10-22T15:11:11Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 17,
+      "date": "2012-09-20T03:39:11Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 15,
+      "date": "2012-08-31T17:40:33Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 14,
+      "date": "2012-08-31T16:18:58Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7542,
+      "date": "2012-09-06T14:23:33Z"
+    },
+    {
+      "dev_id": "aaronrenner",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7535,
+      "date": "2012-09-05T22:07:11Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 13803837,
+      "date": "2013-02-19T22:25:30Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 13870351,
+      "date": "2013-02-21T03:01:45Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 14327366,
+      "date": "2013-03-02T12:18:50Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 53226346,
+      "date": "2014-08-25T04:42:54Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 53255402,
+      "date": "2014-08-25T12:04:15Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 54094169,
+      "date": "2014-09-01T22:05:20Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 63172181,
+      "date": "2014-11-15T13:25:54Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 63172377,
+      "date": "2014-11-15T13:31:44Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 6263634,
+      "date": "2012-06-12T06:05:13Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 86,
+      "date": "2014-08-26T03:45:35Z"
+    },
+    {
+      "dev_id": "toxaq",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "issue",
+      "id": 34,
+      "date": "2013-02-18T21:53:46Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "6da47a4637fe1dce8190238a7aa81ff4d86e7bc7",
+      "date": "2014-11-17T16:08:57Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "1f0cdfd95d3b9e0db19830e7a7667dc075b21c0b",
+      "date": "2014-05-31T20:51:33Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 63127092,
+      "date": "2014-11-14T20:51:48Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 63328733,
+      "date": "2014-11-17T16:14:26Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 63358242,
+      "date": "2014-11-17T19:14:26Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "rails/rails",
+      "type": "com",
+      "id": 7071379,
+      "date": "2012-07-18T15:01:44Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 96,
+      "date": "2014-11-17T16:09:33Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 77,
+      "date": "2014-05-31T20:56:32Z"
+    },
+    {
+      "dev_id": "davekaro",
+      "repo": "rails/rails",
+      "type": "pr",
+      "id": 7095,
+      "date": "2012-07-18T14:05:20Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "90cbf0302e39aaa68b6adb10bb57c2eeb8063b1a",
+      "date": "2012-10-22T19:30:13Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "2da17151d2babb27ebc9abafe7bfdad8922670d4",
+      "date": "2012-10-19T22:24:28Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "2ce0e7e8c1b0df19bb5168f9a3a0eeeed71c3966",
+      "date": "2012-10-19T22:22:53Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "4a8e5d7af8f417968ab51dd864e39cb260802c86",
+      "date": "2012-10-19T21:27:20Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "d68f3af2b9c6c6ff6d5aca0a9f69b077f6a37d3d",
+      "date": "2012-10-19T21:23:59Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "2ff0b6fb6c0faa9317c118dd248b03425a1552a1",
+      "date": "2012-10-19T20:11:14Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "commit",
+      "id": "09bcf587c5c467d71fd8229ccf26b86a3148f8d7",
+      "date": "2012-07-17T08:04:22Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 9667160,
+      "date": "2012-10-22T15:05:13Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "com",
+      "id": 9667479,
+      "date": "2012-10-22T15:13:14Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "ErwinM/acts_as_tenant",
+      "type": "pr",
+      "id": 19,
+      "date": "2012-10-19T22:29:11Z"
+    },
+    {
+      "dev_id": "pcragone",
+      "repo": "rails/rails",
+      "type": "issue",
+      "id": 18064,
+      "date": "2014-12-17T02:42:33Z"
+    }
+  ]
+}

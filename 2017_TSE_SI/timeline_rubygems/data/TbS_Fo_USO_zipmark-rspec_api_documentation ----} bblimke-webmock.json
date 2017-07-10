@@ -1,0 +1,4941 @@
+{
+  "user_repo": "zipmark/rspec_api_documentation",
+  "dep_repo": "bblimke/webmock",
+  "dep_date": "2011-11-28 02:02:21 UTC",
+  "dep_commit_id": "d8dcaf34f8eb4ed7651e273f80ee2c7a496cf9b8",
+  "social_date": "2012-04-02 18:53:03 UTC",
+  "devs": [
+    "oestrich",
+    "jonathanpa"
+  ],
+  "interactions": [
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fee8c2f17b2ead89457e2ecdf5819bcd8ec3e1ef",
+      "date": "2015-11-04T21:13:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8021c0927bed4cc89662d52e9b4c2b852a5123a7",
+      "date": "2015-10-21T18:03:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b3b0eba30d14326854159e99e06eadd8c817bb90",
+      "date": "2015-10-21T17:08:30Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2c8f4df5cb6e3cc1d8022fc36cdef0d41b0cdfea",
+      "date": "2015-10-01T16:05:43Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3fc9cf9f1a6e70ed51fc6d5de2772e4e34e3683a",
+      "date": "2015-10-01T15:41:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5f60c2c712072184da2601c623f5a25b4efe4651",
+      "date": "2015-09-23T16:49:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0af5fd17747c3aa86196a90b2b53cb18066f92b6",
+      "date": "2015-09-23T16:48:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1c7f9171d02d079e2dd4d9fae5712bf039a6b75d",
+      "date": "2015-09-17T11:55:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "de69a7a87adace29f39cbe937ae7bb8da9a4c9c1",
+      "date": "2015-08-12T00:38:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f96ea3f18c7cf655efba503051bd3db1f5a7bb81",
+      "date": "2015-08-12T00:30:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "067c8bb16ae82592fbeca4b1b9bd009b5a32f788",
+      "date": "2015-08-11T23:59:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8e670eaf96a29ee7e17f7e458d3d85210c9c7319",
+      "date": "2015-08-11T23:52:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8dfea4793b8ad333e03c68821984d74aafafbb69",
+      "date": "2015-08-11T15:41:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5f55530be2b0545d771a713e031796b1f0c43017",
+      "date": "2015-08-11T15:22:31Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e9e1198936acbfb0cf44b9205d0b1f5df022de9e",
+      "date": "2015-08-11T15:00:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c991e23e9e87fa0bbe077809f9e07f291aaf9249",
+      "date": "2015-08-11T14:59:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0726538bd183237fe2e9bafabab499f40ed94767",
+      "date": "2015-07-29T15:33:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b9ba8c7eda26d0adff7f876a922867da72f92acb",
+      "date": "2015-06-03T20:13:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3c2f23d7442defc326c6b8674ec614e9260bc7d8",
+      "date": "2015-04-28T20:57:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "812542d230dc6ce3d67f18a9513521ffa1b71eef",
+      "date": "2015-03-30T21:52:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2601578934d9827cd1538dc389c006ca0e7d1361",
+      "date": "2015-03-30T21:49:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4902d697d3caa2e001967482e9eceea8acaf7b39",
+      "date": "2015-03-09T21:26:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "dfc6447d731faed2c0a883a34665d9950180210d",
+      "date": "2015-03-09T21:25:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0d8149700f5ad664539b9212aaabf1fc0a41c5a4",
+      "date": "2015-03-09T21:24:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6617a33f769c4185255eb34c5036b63c9557041d",
+      "date": "2015-02-13T13:20:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "93c88c5e3d2c7a1f4b87421caaf05d6e54118ae2",
+      "date": "2015-01-17T03:34:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "dc861da3981ec0d1e808fb6dc6e43ff028233a4f",
+      "date": "2015-01-16T14:03:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7d2eced855424e5c52ae6bd54efbf80b99d6df86",
+      "date": "2014-12-16T22:44:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0659ef62e5a9d4c4599a97f4b22ad6d83499aaad",
+      "date": "2014-12-16T22:27:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2f1fe19586b75fe5afa402aeca7fb533dbbfded2",
+      "date": "2014-12-09T01:31:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4bb6af55a98175338df90eba8664e51f5afeea03",
+      "date": "2014-12-09T01:29:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f27adf636215a7615ca6e063147711f008ace23e",
+      "date": "2014-11-19T20:11:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5c494286cbdc64b2c58ae2a00a825fc699706d33",
+      "date": "2014-11-19T20:11:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4f72fcd9882c8f4c0db959aea77547cc7e210394",
+      "date": "2014-11-19T19:58:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "141edef0bc0dcb0099c766b3dd68ff7fd8e8e315",
+      "date": "2014-11-12T05:39:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a0aa0f3bf23bc5aed87deac2a5913f840e64b42e",
+      "date": "2014-11-12T05:36:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fe901e5c70739730d8f05ab4d75366a0b9a042ad",
+      "date": "2014-11-12T05:32:28Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ec070a0d9af2542c9bd738fbcae8e6b618c989dc",
+      "date": "2014-11-12T05:30:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "81f37bc0a26d2460f62c57b121f9c0c5ceccc886",
+      "date": "2014-11-12T05:30:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3506f2e639810f66caa79573ef2ce3b3dea64e18",
+      "date": "2014-11-12T05:29:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4a8c6605074390cff645c6d266ed31e4228f590f",
+      "date": "2014-11-02T20:48:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a282560fdc7253b50f0d20238bf8295e1f88d1d9",
+      "date": "2014-10-09T15:15:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1402c484f6293e2de03ce22f87c5a834cde6e203",
+      "date": "2014-10-09T15:09:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fd71bb8cf322aca7a796479b7e33bb0e2ca512c7",
+      "date": "2014-10-09T15:06:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a3b991d52f91f33f81973e86785caf9639070810",
+      "date": "2014-10-09T15:06:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "cdeea8b8b0774fc11864a41c42f15b722e669c00",
+      "date": "2014-10-09T14:56:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4e25428dd7beb28f2a1d421001a815c27ec543b6",
+      "date": "2014-10-08T21:56:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9092df7e34fa1cfe67019cc431d64f699950040a",
+      "date": "2014-10-08T17:18:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "dd3d5e8bdbdd1c0d9f5a767c39816b476678ef35",
+      "date": "2014-10-08T16:48:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0dc86f815d94192a81d405c61c45d9e9a5b74cf7",
+      "date": "2014-10-08T16:47:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "687731c54e16e04ca745aac4cb2f2b8657ba0460",
+      "date": "2014-09-30T12:24:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f84b6470409062864da3e3a55793257e71a80521",
+      "date": "2014-09-30T12:23:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a31741fa302bb59c802c81505ac2cae2925566bf",
+      "date": "2014-09-24T14:28:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "aaa78785597534849a7308a43ce4d651de92c998",
+      "date": "2014-09-24T14:25:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9f54f114dadf323c14d572156c05cae6da335a95",
+      "date": "2014-09-07T05:34:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "87b3132fc2e4d48400f636e2b149d06bba02bb72",
+      "date": "2014-08-31T15:18:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fbea2a0cc398fc4e1b8a43b6fb6887fdb035581d",
+      "date": "2014-08-13T20:51:31Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "39d2ef16a396ae80b7e46db481538047add527e0",
+      "date": "2014-08-13T20:51:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e94935400de1b1dd1eb80a356cf0d6f8200efecb",
+      "date": "2014-08-13T20:49:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a261efde409d609626d2a301dd1faf17c7edada5",
+      "date": "2014-08-13T20:46:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6756defb649441e69300563effa3558af7fe1157",
+      "date": "2014-08-13T20:28:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "13cdb4629834cdeeb21384b21d8a389a5dc9339d",
+      "date": "2014-08-05T17:56:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e01d812440adde26e5e6e2d18da745c017ff7874",
+      "date": "2014-08-04T19:59:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b8600c84c7271eb3f497f5653fcb60087e9cbee1",
+      "date": "2014-07-15T14:29:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ac91b0bc21b491f37a45c799bd27f1585681f081",
+      "date": "2014-07-15T14:16:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2e2a2b281dc2be27635b42f49ff5939ee74bf6e7",
+      "date": "2014-07-09T22:02:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "41c466c605085ca767142a03262b6c11fe95f1fe",
+      "date": "2014-07-09T22:01:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4b917bbf01fb5de69927fa01c03044d0fd35b563",
+      "date": "2014-07-09T21:55:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ed8e5d46d853640a84a26c2c083b8d6c5be342b3",
+      "date": "2014-07-09T21:17:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9019dde9321694f91311589295e5914afe7b33a9",
+      "date": "2014-06-30T21:13:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "847cd49bafa9486b3936c73eca6cb275387ee1bb",
+      "date": "2014-06-17T16:11:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "73411fde28ab37d861a41ac2d47d1137fe549e96",
+      "date": "2014-06-17T14:42:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c434b3e4b525fb48f666967d5a58bef7174dcd47",
+      "date": "2014-06-16T21:48:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "602ced673d803317005c0bcb458359037429f3ac",
+      "date": "2014-06-16T21:39:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1e741ef16bd88186fbb39a7c52a63108c9996672",
+      "date": "2014-06-16T21:31:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "dad2d6386e7372401e8d235c94bf80e8c1d90575",
+      "date": "2014-06-16T21:21:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "17483d0d5709ec5a2b98371504f5f65822b23277",
+      "date": "2014-06-16T21:04:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2ecb60533ab7712df9092c57e3e66aaa1948d918",
+      "date": "2014-06-16T20:12:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2563b9131bc518e74fa586535838e7620cdb460b",
+      "date": "2014-06-16T16:12:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9df84eae8192b1d9e89736741bf4cdd9924f039d",
+      "date": "2014-06-16T15:36:00Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "31e08bfffd631b3d1b0baa2d721b5a6115912b95",
+      "date": "2014-06-16T15:29:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fbf7983947dac8bc3ea6c0a366d9e6ef30a70a37",
+      "date": "2014-06-16T15:04:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "987381379b5e7291ff3eebb3d1e1108388bbe536",
+      "date": "2014-06-13T20:38:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a1ed3998b8386da3a7641589522a64449161cc9d",
+      "date": "2014-06-13T20:27:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a481beaf0669b3ba07302aaafb012d41ca57ae1d",
+      "date": "2014-06-13T20:25:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a507405de3b8a4e984675546c6bbb665dcceeb25",
+      "date": "2014-06-13T20:18:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "063c834ea68239529c1bde7e6ecb22fc88111f7b",
+      "date": "2014-06-13T20:17:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b34195439335ce38ebad935118aa0eb8be096cee",
+      "date": "2014-06-13T20:14:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6b96e41f581529532a08152c8b6656f2e1a53090",
+      "date": "2014-06-13T20:13:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "adfca6f4bf5651a8a51020ac7803e7d3d5513a4a",
+      "date": "2014-06-13T20:11:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "289ccd54c6cb70c326140283abcba3113557f244",
+      "date": "2014-06-13T19:59:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8890a96fb67321639bcfb312e1472465284912de",
+      "date": "2014-06-13T18:42:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fc70de448255c8f90ac892fed55f9a4fb8ffbe96",
+      "date": "2014-06-13T18:32:58Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "31936ec3dd0c10d1b0eb1932fa49dd18bb988113",
+      "date": "2014-06-13T14:20:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9eda0ab9c32d780b5ce02db7825680335508a923",
+      "date": "2014-06-13T14:08:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c968aa39b4d9e0cd3b9b7f533a23eb8899ce734c",
+      "date": "2014-06-13T14:01:05Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "000c0bd390fb9df58e5972de2d9939ddc796f82c",
+      "date": "2014-06-13T13:57:13Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "586066b61506ecd52369c349cbd874ab5df77faa",
+      "date": "2014-06-12T19:29:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "66e13b0a44745034d865c8fcd4c80950e0887204",
+      "date": "2014-06-12T19:05:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "135e697a09e711364c9cb5f8775710a8547ce167",
+      "date": "2014-06-12T17:55:13Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "cfb5cdbd4fe241f0f05132d5f846f7a550e08721",
+      "date": "2014-06-10T16:51:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e8cbdac6042d87182725e28a851ae4e5f0082f29",
+      "date": "2014-06-10T16:35:22Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9d9113a54db017c1ac6e883ddcc5470a1dfdfb93",
+      "date": "2014-06-10T16:26:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6dfd7b5b3df6fe66e620180601153f28264141a1",
+      "date": "2014-06-10T16:25:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "96c8747ce8109fd0e0cfbecd30b18a591dde9b53",
+      "date": "2014-06-10T16:02:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0715cc544b3faabb335f768db2dfe71939bb23bf",
+      "date": "2014-05-27T14:26:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "16f5f7f93cfcee62f4027bf44184822cd56c0ef4",
+      "date": "2014-05-27T14:22:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f3b34b523c7128afe9f61763d46a1f1899318df5",
+      "date": "2014-05-27T14:19:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c317e34492ac5f09fc8c72e19230d2468f80a843",
+      "date": "2014-05-27T14:21:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a4f3f1a4b7628c20f0bae42671f312c6647b4c1e",
+      "date": "2014-05-23T15:03:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "adf1831e7dd901fcc3ab141d0016f31ada550748",
+      "date": "2014-05-22T21:51:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "df1e45a94061c084fd712afe94c122db87036842",
+      "date": "2014-05-22T21:51:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "bacdea66e709e8d5d195ad577844991a99c77d86",
+      "date": "2014-05-22T21:41:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "831900b12d10c911e10172c9721bedb04db1dd28",
+      "date": "2014-05-21T21:39:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9803e1fa13816045bbeefa8fd2bf2c356d746ff1",
+      "date": "2014-05-21T21:32:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b47795f2a5a514e1bca031082de2d84ccbc18b05",
+      "date": "2014-05-21T20:32:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a772398d350e33c9575063eafe2bd277da11c92d",
+      "date": "2014-05-21T18:59:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d5ebfa2ccd93f6fb58b28bf6282e0bc8fd87d1a9",
+      "date": "2014-05-14T12:33:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "bfe91d5d806f50f9a486120bcb624cf6b5fecd33",
+      "date": "2014-05-12T23:53:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4e8831d4be5ddb0d6cbea15c18babcfb29fa5b7e",
+      "date": "2014-05-12T18:03:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4b4703521fbffb79d15209c56fac4f1694242255",
+      "date": "2014-04-18T19:43:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3327f13c266e98fd3b0b7a56783b1fd939f88c86",
+      "date": "2014-04-15T18:35:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f67d57faac666085eb741cc4977c3ef8660cbfa3",
+      "date": "2014-04-15T18:33:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "26d85fb2da78a3117ae02f161da34ded27fef95c",
+      "date": "2014-04-15T18:10:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "97b4c6ea6a67abaaa6eb3e3bf92055033753d59a",
+      "date": "2014-04-15T15:05:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a504f94482f2683b9bfaf01ae9a80ca5d3938ce2",
+      "date": "2014-03-07T00:16:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5224387ae9d83644b4364c9efc787153ff94d402",
+      "date": "2014-03-06T13:12:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2b0e4f70a72b77937d1307ac14b1e7970f9bd957",
+      "date": "2014-02-13T17:00:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "948cb11803c321f5e07d0726f69f4cfcd0270aa3",
+      "date": "2014-02-13T16:59:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "03a87b677631b4e8130721ca49489a9c4119eef7",
+      "date": "2014-02-08T16:59:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "eb6ce6392025110fc84fcf1d4b69c11583cbe090",
+      "date": "2014-02-06T20:27:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fc27d98d6cc8d0f11cf20acf61a6a26ce759e95b",
+      "date": "2014-01-21T20:29:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "44be914f617f4e9eb6347088587cef5aa50356db",
+      "date": "2014-01-21T16:53:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "539ebe4df3f75d43885055cb5b81021edf1ba00c",
+      "date": "2014-01-21T15:19:22Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "28677eefce826920341e3088564170566c34f74c",
+      "date": "2014-01-16T17:05:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9de7c78d76078eaa0620615f752e2bb868c616b8",
+      "date": "2013-11-27T20:57:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fe8bf36c69e91b6e9bf0edd8dcb722afde6d809c",
+      "date": "2013-11-27T17:01:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "25ee8b9609830d30c18804d972d84022df044659",
+      "date": "2013-11-26T21:45:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4858b5aee8dbfe285b01e74a7829edbf6d94dcde",
+      "date": "2013-11-26T21:42:22Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "87d94378472d10634fc640e99d0b94851451c144",
+      "date": "2013-11-26T21:28:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fed652601b1bed768c22b867bf29a6e99955336d",
+      "date": "2013-11-26T21:26:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "eb4d84eaae757472ff9bf8e5dc68c48616d5f568",
+      "date": "2013-11-26T21:16:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6a501b97a5280bce5b7aa959a551cff04f19d85c",
+      "date": "2013-11-26T21:14:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "40ca0b005c9b4652480b1aae0c87e02206ce6b06",
+      "date": "2013-11-26T21:13:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b6e447ce2b3f559cd3f6b47486a779d024002dc6",
+      "date": "2013-11-26T21:12:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b50abb6fac97450e8d99a8824068ecd5c0ced523",
+      "date": "2013-11-26T21:10:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "805e60721e8f28e4a7911be59416be394db2f425",
+      "date": "2013-11-26T20:54:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "876c88883a2dfbe361ef605fe646dcbacebcab5e",
+      "date": "2013-11-26T20:43:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "acc64fcbe3df258a4ad9577f97b0bef485ef6c99",
+      "date": "2013-11-26T19:21:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6d3a3908583da655da63436dd0c62c0edda233a5",
+      "date": "2013-11-26T19:20:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "efcb61ebd036d66f5af6fb985ebd153386905cd0",
+      "date": "2013-11-26T14:36:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d48c6267f66b43eae9ce254319a5723e55be29ec",
+      "date": "2013-10-29T21:23:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "843866b73824606efb1cdf31d0d00068419df2ef",
+      "date": "2013-10-29T16:57:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "358c7fa73be909a4d0af48895d66b10adf1213ed",
+      "date": "2013-10-29T16:57:28Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c2cee35c0cffcee83e8fbbe9d4b12c9868307ba3",
+      "date": "2013-10-22T21:25:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "20553aba990c5117dda36972e3faef2f0300f311",
+      "date": "2013-10-22T21:07:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2a874f16949b1a007f2c093ef01dbc2abd294333",
+      "date": "2013-10-22T20:58:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1acbb4807b4196ceac2971edfcfbce91ee3957bf",
+      "date": "2013-10-15T15:14:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "76bfc0e829ea7252975544cee7eb8fe798d26f4d",
+      "date": "2013-10-15T14:45:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "65f4075a25405408ff534ce7a11e7e7523e5b6c3",
+      "date": "2013-10-15T14:43:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f8684427a974baf33fbcc05941daa743287168db",
+      "date": "2013-10-14T21:25:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0d4554b65e1a95a5b75ae72438be35a218dd6467",
+      "date": "2013-10-14T21:20:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d72dedad4be40fae3385d9e086a114cddbbc7e2b",
+      "date": "2013-10-14T21:13:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5545bbc59a35d001f363b5582c42cf42c2a7db56",
+      "date": "2013-10-14T21:05:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "eac8414c9d725f5e0321c449a3f27cfe9b750b4f",
+      "date": "2013-09-02T13:34:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9a5c79e5e77200604eb05fcf8abb3ac539897e84",
+      "date": "2013-08-30T18:27:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b1dbdee5fd632abb4533e92c666bd447d06a1b38",
+      "date": "2013-08-28T21:42:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b036600f88565018ab4473bf941ba9cbb861cb1b",
+      "date": "2013-08-28T21:34:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6ba76c353ba11ca396e57fa91a67c6f360ad3dc9",
+      "date": "2013-08-24T14:58:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9cdd8e13359e2c3b814c90e94527b4a7537976ec",
+      "date": "2013-08-22T16:28:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ec1f98c4ed58c91a492cda5c85975bd379b9c373",
+      "date": "2013-08-14T21:59:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5038773bf36bfce0d048e5186696cec3c049c12f",
+      "date": "2013-08-14T21:54:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4155882973e540e1ad495704089e277ad16e8376",
+      "date": "2013-08-14T21:53:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "422508d3bdf4351fc28ab05fdde3a4443da31473",
+      "date": "2013-08-14T21:46:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "001d5b9bad3b695cb45f4011acf9b246f77f5d18",
+      "date": "2013-08-14T21:44:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6ba6239957cd0abb45d40f9f1b71168f29561814",
+      "date": "2013-08-12T17:51:28Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4492ef0a3e473b8a6564b4cbdecf294b3aea8d2b",
+      "date": "2013-08-12T17:49:46Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "32b65097a94b6fdce2de6c67e2d309658f0495f8",
+      "date": "2013-08-12T17:30:43Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d547ff21502a2f050f4a0372fd7a15c04364aff1",
+      "date": "2013-08-12T16:24:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "16a0e42c44f5a037a878476275a3eb559e684cce",
+      "date": "2013-08-07T23:02:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f6dc4ce31b864cdb6e0a5c36d53c8c7bac9b4a0d",
+      "date": "2013-08-07T22:56:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1fd14179f70c54785b1760b160ee39fa59d73c6c",
+      "date": "2013-08-07T22:48:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "dfebe7bc5d4577901e7b6ce6acd463d0c4a00088",
+      "date": "2013-08-07T22:48:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4e366627629ac62eb736dc216c26204d659f36a4",
+      "date": "2013-08-06T00:36:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6b937a7eeadf1a4108768ac3dee623e8b350402c",
+      "date": "2013-08-05T20:53:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9047851a2bfc7121eb8f19f38ce8fc11e3c7d707",
+      "date": "2013-08-05T19:29:28Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6ab08c3bde432c0b9d58d58cb2ae489fdc0cef5a",
+      "date": "2013-08-05T18:51:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7ae7489359791d0eda00f3a493de2c70cc572254",
+      "date": "2013-08-03T15:57:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e1f6c2c74e1052b3d193d365748de97aa9023352",
+      "date": "2013-07-30T21:51:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a668fd80ddc0d90943ce3525b2533dc0436fdcd0",
+      "date": "2013-07-30T21:37:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d9deac744da24e8616025145aeaeb5787e64b387",
+      "date": "2013-07-30T21:28:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3f9e418f217811ad821378d7485089b0e1d9b083",
+      "date": "2013-06-24T17:19:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9e0af39f40f0e8f60f81d48c49785f3c501b5dd3",
+      "date": "2013-06-24T17:12:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4f206024b06b22ad2a61835697e6de55c4412e1c",
+      "date": "2013-05-03T00:35:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8bf76eea053f0db141aa5e1349fb38215f777d49",
+      "date": "2013-05-02T23:58:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2fdcbc65b0341bb93e7b3f316965350fb51701d9",
+      "date": "2013-05-01T22:33:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "372869b53f48e318f6e6bd74146a85cb2920209c",
+      "date": "2013-04-24T15:19:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0a9902633a9cc5c65180d9843b0cc2d6ab192d3e",
+      "date": "2013-04-24T14:54:13Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7d1956da9774226f6f5e6190233d6624abc61284",
+      "date": "2013-04-24T14:46:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "84bff60b770db6537b29324af6a595f0f7e18770",
+      "date": "2013-04-24T01:06:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f19b5ac2404799b67472e03b5512d744928e87dc",
+      "date": "2013-04-23T23:59:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fc6559dee47ead1e7e3b90c0b9e8747eb09707e8",
+      "date": "2013-04-23T23:58:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c4265cf3eeea3b51ebc00761b10fc457709b25aa",
+      "date": "2013-04-23T23:53:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fbba057239601dfdc16ff3f6156edfb7d3d4feee",
+      "date": "2013-04-23T23:50:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "820488a0b409a6603a395dc961589d7af95a9a37",
+      "date": "2013-04-23T23:32:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "43580a6d862beba08e0e0c1f210e531a8412a30f",
+      "date": "2013-04-23T23:29:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1f8384644ffab984565d90670466a5759144bb14",
+      "date": "2013-04-23T23:21:30Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "388e53c81301eb9ba536a1a88c25c074974078fb",
+      "date": "2013-04-23T23:16:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2d213d9ecfabfd9901ab6b082ebcc3e4aa46234d",
+      "date": "2013-04-23T22:57:31Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a20ca94224922f3e4e555516c86037eeb072937f",
+      "date": "2013-04-23T22:04:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3aa64295538693998ef5d4b77924d25714337f06",
+      "date": "2013-04-23T21:46:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "71e3eea208dee47091acd5fc34d2a93af076f05f",
+      "date": "2013-04-23T21:21:01Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "46bb1a60c33da9e91bad3cdc3cf36ba02a18ee0a",
+      "date": "2013-04-23T21:01:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "37f330a61b92e280738611f994933d82ecfa0c51",
+      "date": "2013-04-23T21:01:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c977dda8fb7f90721f6a557f69c8afa5d06d29f6",
+      "date": "2013-04-23T20:09:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0c7e6f267945783af31be0d0a4cdf559c0f70622",
+      "date": "2013-04-04T20:50:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a344af8d21071300b02a9b4f23e0ceaf09ed05f0",
+      "date": "2013-03-28T22:16:45Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3a2921b92da23e95e6b66dc52beb9038f0492ba2",
+      "date": "2013-03-19T23:02:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9433b33f55af1c2095533d850b05108b6760d63f",
+      "date": "2013-03-19T22:58:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2e47d42a0ac11e359c281ef5fcf62de541edf367",
+      "date": "2013-03-19T22:40:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fd3e8d8bc9e81035fca07da44fcf5f7ee6d4daf5",
+      "date": "2013-03-01T21:46:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8d258f89f8764bdf1312095aacd4f0b3af1a7485",
+      "date": "2013-02-08T16:37:31Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "38071c85512ece690f67ea633a2bb64764eb9f8c",
+      "date": "2012-09-19T23:38:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4c76c40d61fde428bd012b3e559f6212b6d9e76b",
+      "date": "2012-08-24T21:45:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "bcf93786fb74218585f4fa15a7d1727a4d826902",
+      "date": "2012-08-24T21:25:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8bf5784be8bec12602c21767cc5dbd198c589375",
+      "date": "2012-08-10T19:57:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "243e1c8abd8766925ded934fcc524bcfa48bc6a6",
+      "date": "2012-08-10T19:54:00Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2d8ced3beaac04c580c8cbf98e93cd7cd7098ffb",
+      "date": "2012-08-10T19:49:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c51fba67cd5976159e5d1a8b1b73ea636ad24d46",
+      "date": "2012-08-10T19:33:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3482184114cfde48a75b615220552336b3d34ba2",
+      "date": "2012-08-10T19:09:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a8a0ccd6dc4d2698aec8f00211fda2aa2e5f2db6",
+      "date": "2012-07-20T14:20:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7fb5e93f15429ad771d6b79363293cbd3f4aa29a",
+      "date": "2012-07-11T21:53:30Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ae36304907b757e364ec6c52ef046477b8dc6340",
+      "date": "2012-07-09T12:09:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a97c0164951f99d26e16d5b36b8dbce10a6d8240",
+      "date": "2012-07-03T17:27:58Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "425f939a151d2b6b38b890d1240263a124fb842c",
+      "date": "2012-07-03T17:24:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "38d67bc4bd199eea8c7124f84b2fa477e984ce7d",
+      "date": "2012-07-03T17:23:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1f8d3b088151b5521097b7fcf78df9d1b9ce26af",
+      "date": "2012-06-04T21:33:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fedb4b7b1bfb7efdd8b54879c782588307c442da",
+      "date": "2012-06-04T21:33:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "eb4e385747b702374bc8e9c0d18b6e19b5ebf851",
+      "date": "2012-06-02T19:55:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a41684486ba71cb04d849622bdaa3d112f4b6a70",
+      "date": "2012-06-01T21:48:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "88c728c0318744fd9c78717e1d2c49141a971745",
+      "date": "2012-06-01T19:49:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fc793afb60a413c76fb498656dd05c46ba24347c",
+      "date": "2012-06-01T17:47:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ad198212809179bd38e5c3e92b7d1140dc644d3d",
+      "date": "2012-06-01T17:30:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "63f489da14bd3d46a9415310ec3040fd36642520",
+      "date": "2012-05-31T21:39:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7db5d1cdad9d2abd8dd651ce2f28feab61df9042",
+      "date": "2012-05-31T21:31:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0ba4eb53b15afb6d3058abb904dbc8c35674529c",
+      "date": "2012-05-31T21:35:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5d112140a1db894506f3346310a51b89f81e360c",
+      "date": "2012-05-23T15:22:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4692939fa43b6f1d169b18b398010d9597506c43",
+      "date": "2012-05-23T14:55:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7a71e650705ccd750d12f8eb737eaf9b9b016206",
+      "date": "2012-05-23T14:41:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ee62f812243bef0b527f7c79c67217f254236b35",
+      "date": "2012-05-22T16:38:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5c32aec0930939727553b0140d635cd853df3478",
+      "date": "2012-05-22T16:29:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b581c700be5321b20ab7d2c4c8620e05d576cc23",
+      "date": "2012-05-22T02:26:01Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6edcb1b8f0d3aa77a1dd352dce8d40fc5caf296e",
+      "date": "2012-05-21T21:42:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c80a6171303ab8b0b7aebb04a260b4dda8e67d05",
+      "date": "2012-05-21T18:46:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d25fa177332ce7497241e55676d9a91dff18613a",
+      "date": "2012-05-21T18:45:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ff1a3b4001b76d43610c25937bac2fa3e3972129",
+      "date": "2012-05-21T18:25:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a3aabad44af92fddbcaaa2ea57910226f2773b75",
+      "date": "2012-05-21T18:14:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2d5ba813d2fc900e38cf40d19e670098d445f3de",
+      "date": "2012-05-21T17:44:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0d96206acb0082c6ccb3ea4ffc6973776c914c13",
+      "date": "2012-05-21T16:20:30Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "611eada43d189fc42314e3c3a0365f263782a6b6",
+      "date": "2012-05-21T16:12:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2597cca25c3a80fe2a992c77a60d2ea190934d0f",
+      "date": "2012-05-14T19:38:43Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f759840283fbfa6561bc1f3fc6956424ba6b71cf",
+      "date": "2012-05-14T19:35:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fc17db7f2004ba19095ac649ff8dde9a5fa427ad",
+      "date": "2012-05-04T12:19:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ebae41c85d9a7d1f52cc897f75da71589e9a9aa1",
+      "date": "2012-04-27T14:58:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "20006fc5a7ef5a2e6ded78cd54c6d6169f07d66a",
+      "date": "2012-04-24T03:50:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "af2db688434d6e09543535ab25607d068aae4b33",
+      "date": "2012-04-24T02:57:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "dbac4b2f47784fb6a98b2c6618d65d9b10674c25",
+      "date": "2012-04-24T02:47:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "335dbe3f16cf73496730489066b2b0ed7fc5d751",
+      "date": "2012-04-24T00:53:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "83a2b3d844fa6dc7beaa54718e474265c1a63358",
+      "date": "2012-04-23T23:42:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "23dca71e11fa424c95d310122f9f6d4ba53af086",
+      "date": "2012-04-18T22:22:05Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b0471a8f20c4ad31c7d065544e184a4b86117aa4",
+      "date": "2012-04-18T21:56:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "726c22a018a65917ddb6be80d264faa991fe5100",
+      "date": "2012-04-08T13:26:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5c9523bd7d0a1eda33222890fa5385c60249a74b",
+      "date": "2012-04-06T16:26:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "be8391ab78e9618da3fec3f698eaf52dcbb7918f",
+      "date": "2012-04-06T15:40:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ccc6c56b746eaf3cca79aadce4adf946ab64e68a",
+      "date": "2012-04-03T00:32:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "09676c0eb02b7f176bca2b4ac1570fbe052bf407",
+      "date": "2012-04-03T00:31:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "189d526f3cb96fc8a8e2417d02b58d62cc2a853a",
+      "date": "2012-04-02T22:06:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9c5b1d43a68e1454b9da660935159e134ba34749",
+      "date": "2012-04-02T20:04:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f75e9c4fa62036e356b48a3339212de36a9c7810",
+      "date": "2012-04-02T20:03:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "17960885c0e66424f59c4ecafbc79bb1bf9823d8",
+      "date": "2012-03-28T16:53:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3325263902506c751dcda49666cda86e71750c32",
+      "date": "2012-03-28T16:52:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "30011e76fe7b1e512ac48dd17f423bccff6afb86",
+      "date": "2012-03-28T15:38:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "abfb496a279c05becac9101610ee740dc4d61e4e",
+      "date": "2012-03-28T15:28:46Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b5e00322f7db1feb5c82d36a6c171632df56c269",
+      "date": "2012-03-28T15:28:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5e0e8174eea688f5a8216e862cc8eec3ff009d47",
+      "date": "2012-03-28T14:57:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1a32e322234132429f2b1a9b52305bfafc86d594",
+      "date": "2012-03-28T14:57:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "eac74d691dca8e2bab84b30fc864dc3f65871c70",
+      "date": "2012-03-28T14:49:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e0aa06ca0df65a0c1fa269b65d51301eced04674",
+      "date": "2012-03-28T14:48:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9751c717d7e345152ef31e1a55b855dccae7cd44",
+      "date": "2012-03-28T14:48:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "13f6c67ba163ff954224c3391356f07c54d72ff1",
+      "date": "2012-03-09T15:32:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0c1cc9af1752deb89a60cfcbf55ca0ec42916589",
+      "date": "2012-03-09T15:32:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1a114ddf600dbb08d8c414d5c397eb7d0740176d",
+      "date": "2012-03-09T15:31:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fbee84966b7e58ccc0cc37bfaeff586a75fc4ad6",
+      "date": "2012-03-09T15:29:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1511a1635f161c3b36832f0bc21d02864e52c686",
+      "date": "2012-03-09T15:29:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6a821f0a506078d48e64cb932c55b873848aeefc",
+      "date": "2012-03-08T21:46:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e8f91a05f928175af376c41f6429528ba97a6adf",
+      "date": "2012-03-08T21:45:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d37665fee8ac9cb91d36017f6c72f5e13981262f",
+      "date": "2012-02-24T20:57:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2a3ff0b08128fcb2dc5d152e1f6f1ff992455d44",
+      "date": "2012-02-22T17:20:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f5d002b1a5729f71d08bbcae4b5fe16e33566d64",
+      "date": "2012-02-22T17:16:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f7fb76f264457d4c8492861df21989f1107acf94",
+      "date": "2012-02-15T20:22:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7a64310bf9ec629a69472f094d5f7e2bbacbb4be",
+      "date": "2012-02-15T20:02:13Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b257ddadfdad5add88de23ba206029875e8b8275",
+      "date": "2012-02-13T17:58:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7d783b42fe8f316d39ecd6d39c523d27f014ed29",
+      "date": "2012-02-03T16:19:22Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d67ff69007e3f1f6dd374514a7b4b08df5b87290",
+      "date": "2012-02-02T14:50:01Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "06533bd0be7f9f740b9e8c696ddedbd568e023c4",
+      "date": "2012-02-02T14:42:13Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0ae6eeadb3c427dfda2839248967a44d7cb441d2",
+      "date": "2012-02-02T04:59:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a96393d5191939cfa3721ef871c9557570279705",
+      "date": "2012-02-02T04:57:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "038ae267eecf288e52d442da10cf3b2e3c083168",
+      "date": "2012-02-02T04:41:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0f68684c096afda467b40cb692342d685acda79a",
+      "date": "2012-02-02T04:38:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "70beab5488efe849c841b74fe7995c602eabeb73",
+      "date": "2012-02-02T03:54:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2b5d2cce46a4541546f300fbc30ecf8fe4d3af8a",
+      "date": "2012-02-02T03:40:44Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "408aa1dbe659c6ab0473d5bf5339851acfdd9b9c",
+      "date": "2012-02-02T03:32:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "bfea056ecd1a85e1a7c838897f637305717118f4",
+      "date": "2012-02-02T03:20:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "03209e3c145ea99cc889494646d4c39f9d7480b8",
+      "date": "2012-02-02T03:16:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7f0cde54ff3fc3487bc4bca019abb37faed01137",
+      "date": "2012-02-02T03:13:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "73c393cdb2b5287f29e60cee7cd77c283e63a7ee",
+      "date": "2012-02-01T16:19:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "82e9ef982a6ebce201ef87360f42f7dce6041a77",
+      "date": "2012-01-31T17:20:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "76a83c3a63739de97becf0fcc7b2f5153c51152d",
+      "date": "2012-01-25T01:47:05Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "24c20896dc0264653a92a8a0a57fb055b090fb5e",
+      "date": "2012-01-25T01:45:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8d13be297ec3051f39a4ea4d61e32bca1c16f909",
+      "date": "2012-01-25T01:19:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2346a6ba97fe8e71d0713a4e7ded80eb62f77b7a",
+      "date": "2012-01-25T01:17:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e82c4de89ed269b0a4b8f1426cf74c05acf8b750",
+      "date": "2012-01-25T01:17:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fe8af1744a9bbf4c31979a65b8f6db3ba64e28da",
+      "date": "2012-01-25T00:32:01Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7831f75a02fb2692da1f07e5116f79e03997ea54",
+      "date": "2012-01-25T00:25:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c6c73961da45a5cf8d725a5c5612512f92d1a1e4",
+      "date": "2012-01-22T23:41:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9948aa972cc9bf181e368d85dc0adead0d03529e",
+      "date": "2012-01-22T23:31:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "666b51c1aec25c4729f347ce532dbecba489a017",
+      "date": "2012-01-22T23:27:00Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "93785ea7127ce76392211431078c4b130efad578",
+      "date": "2012-01-22T16:53:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e2f5475ab997098ef7ee79ea0e4de496d294e976",
+      "date": "2012-01-24T17:58:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5139e080254e15a5c6d602c47e44429f405a878a",
+      "date": "2012-01-24T04:13:43Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b8662f3bded4766dda3cef1870696bbf9bbfc948",
+      "date": "2012-01-18T22:17:28Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ec71df8d3c435d788a0aafee19f4684c952ee452",
+      "date": "2012-01-18T22:16:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c91af9ac3f80409d3b9030ae9d833f255fd65766",
+      "date": "2012-01-17T23:15:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1f41fa1ae7645b9bedf5746a9ac974b4932705d0",
+      "date": "2012-01-17T23:15:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9c49298d3fd54e9173fbae3d7c6316515f48e661",
+      "date": "2012-01-17T23:15:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "986e19c86bc1c46bd233702407eeb2361b6198be",
+      "date": "2012-01-13T22:38:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7112ee26d93e3a03e39c47552c84a68c08ed48cf",
+      "date": "2012-01-13T22:36:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ae9e48dfacd986a285cb6960ee4bcc98d3272664",
+      "date": "2012-01-13T22:34:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b305ce2b45be8a76efc59677089b416d801995bb",
+      "date": "2012-01-13T22:06:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9efadcaf7c35ee380da1b21cdd5604d293755bca",
+      "date": "2012-01-13T21:22:46Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "da443e457ff81046a99000f153fa7a00ee328f1a",
+      "date": "2012-01-13T02:54:45Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2ec66293fab3193ea351848930a89786d79bcd6e",
+      "date": "2012-01-12T04:19:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "789003f19277752ded3e22237c77f3b82c8ce5da",
+      "date": "2012-01-11T18:12:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e7be2b7d1278bf5fbad150c729fc88fef7432f8a",
+      "date": "2012-01-11T18:11:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6a87888742b2b13fa72690489e5905070cfae546",
+      "date": "2012-01-11T16:08:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "12a98199dd7735cc59f8543135e337f575d538ce",
+      "date": "2012-01-11T15:55:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "adda45490f3ab1e7c8a7f994c531cac0abab109e",
+      "date": "2012-01-11T04:47:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0e163b92d6ba141ac00fafc458422b341402c7c9",
+      "date": "2012-01-10T23:20:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "129f28761e16d9edbd1b807f08eff25a3066b39d",
+      "date": "2012-01-10T21:02:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7d43fa226a543606e3c8461931f9c88ad7a08229",
+      "date": "2012-01-10T19:21:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "af9a4a666912da9ebdebde85cd8892b236201b4f",
+      "date": "2011-12-22T02:48:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "de42c363b96c597890b3a6afdcdc9b3c92c6a259",
+      "date": "2011-12-16T22:36:58Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d0b3c6dca3af645809d3475392f7f75fb8f5ae90",
+      "date": "2011-12-16T22:30:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "60b6c3d24a8e7ab52d0d9ff69bcf999d5f951c6a",
+      "date": "2011-12-16T22:20:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "54d77f02fac2d99cbd5d3efc2f8f45e2373f7331",
+      "date": "2011-12-16T22:18:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b569c2f8548f9dc49321d83ac8801f6cc468e961",
+      "date": "2011-12-16T20:38:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7d721df28a917eb27bd13973919feac9e1c5ab60",
+      "date": "2011-12-16T20:37:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "2acf1bc1f45425dbaaeaa34f042442e0bc9b57fb",
+      "date": "2011-12-15T15:39:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "02b9b99157e1c59312b36aaee023b7c5acd8808d",
+      "date": "2011-12-15T03:36:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "aff8bf3bf2c33e8a182875e9fe0a5b52510a1a44",
+      "date": "2011-12-15T03:33:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7e81af3103f53af3b9087b3da5cdc5d8b4a35578",
+      "date": "2011-12-15T02:25:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "54a96e81fb1ff911f53cc436c9de9ed8560aae2f",
+      "date": "2011-12-15T02:24:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "6db79fc47ec7716ca6fd124a5a1cf59bb297e325",
+      "date": "2011-12-15T01:18:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5e155bb29f8174e07feb79d8603c925f6f097d74",
+      "date": "2011-12-15T00:54:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0b591419f3853e9257bf6763828340d55eb97919",
+      "date": "2011-12-13T01:32:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "8f6a44a5ea62ff40fadede9f6fadb22389ce29e4",
+      "date": "2011-12-13T01:11:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c997701de0488bd517a4c5d688c34f6ae6ae4238",
+      "date": "2011-12-12T21:47:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4d0dbba32cbb90557a4f72ec648209c6a431e6b0",
+      "date": "2011-12-12T16:03:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ad91f24c1bc9b86f911b752546f57387834b3c6e",
+      "date": "2011-12-11T23:53:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "b67f2d06446c46d77f1e55660b065a7f276a20ae",
+      "date": "2011-12-11T23:48:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a43a25630c5fb3569dd6d7d2e1a92ec29ddf1ea1",
+      "date": "2011-12-12T04:55:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "4df14bf3888612a475028859f7b7837f6181f2c8",
+      "date": "2011-12-11T20:52:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d1443f7925806343e586a8ccc2377477852fe4e7",
+      "date": "2011-12-11T20:33:46Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "707c8c15e2135ad38101eb2102b114fcb20b57b3",
+      "date": "2011-12-11T20:12:30Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e716fd6917bf9a7923e79e05e8533f23e0d25d21",
+      "date": "2011-12-11T17:16:05Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0faeed3a88e4ae1b4c69f7a1bb20b58888c4a3bf",
+      "date": "2011-12-10T18:23:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5b76545b1f220f03ef7be2870f85a225662b119e",
+      "date": "2011-12-02T18:59:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "31f13000e25e1d002d75141b8c3a56001359d0fe",
+      "date": "2011-11-29T04:00:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "41409aedfcbab1407fba819c2ff5fe5028203c20",
+      "date": "2011-11-28T02:01:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d8dcaf34f8eb4ed7651e273f80ee2c7a496cf9b8",
+      "date": "2011-11-28T01:54:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "21477f665c22a849bc8350777f444c27dfb950b5",
+      "date": "2011-11-18T22:46:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "13a4673dfe023fde397bc98282579d1c6c9946f6",
+      "date": "2011-11-18T22:35:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "216d47652015c6964cd0ea896344c7ff6a6f6f0e",
+      "date": "2011-11-18T01:05:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "28cfcc570f38c8860ebca52aa9d79bad0a328764",
+      "date": "2011-10-20T17:09:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "895828d002ef7877dfee52a17cbe3f953cafe1d2",
+      "date": "2011-10-20T17:08:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "f1a40de6048bc1f413dfcd258b8bba7ec8d459d8",
+      "date": "2011-10-20T17:07:46Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "3432871349cb787370fe8d8fb5a9c3301b5de25c",
+      "date": "2011-10-20T16:40:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0aae8eb9b495eeb8b19bcb6a21ee97938270f083",
+      "date": "2011-10-20T14:39:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "9d367ae010e03b8634cfe3c1287d420587b7fe35",
+      "date": "2011-10-20T02:03:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d8b6b7c4b6e9b7e85901f0b0edb402b90de625cb",
+      "date": "2011-10-19T20:50:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ebb3538e5327a676400cd53ab5a8e8d0bebf5232",
+      "date": "2011-10-19T20:47:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "36825b741dd36d5f5454de3a2c7d3318f6238915",
+      "date": "2011-10-19T20:43:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5b37275cf65d157ec654c7ea92e2501c7765cfa2",
+      "date": "2011-10-19T20:43:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a1a504561b796e8aa5a56b4a105d81c0b69dd676",
+      "date": "2011-10-19T20:41:28Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "eb8ac37c4210db14f8f3a30ec40ac3cf529cd089",
+      "date": "2011-10-19T20:39:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5b53e322431674dd01e90f323e81d9a953769067",
+      "date": "2011-10-19T20:27:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "fd8f5d0be79a6a82b3fb720478d624b16d64210c",
+      "date": "2011-10-14T16:56:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "0fa92e84cc557fcf3bb150d3deb18016c39f9809",
+      "date": "2011-10-14T16:52:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ed1a260ef02d62bcba168f61771b70f3e11f95ab",
+      "date": "2011-10-14T16:46:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "cd2d7aa6444f91a2950eba6e127dc7a7c8b1add5",
+      "date": "2011-10-14T16:41:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "d00cf250f94ae28e1703e765b2174334eb99d6ef",
+      "date": "2011-10-14T16:21:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "bblimke/webmock",
+      "type": "commit",
+      "id": "a2ce124ce68cd34f4961ca8b248d54e36f2fdc2e",
+      "date": "2012-04-24T02:38:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "bblimke/webmock",
+      "type": "commit",
+      "id": "56287b4368f1cf8d6c544e5be4e19814d3dbb65b",
+      "date": "2012-04-02T18:53:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 3100659,
+      "date": "2011-12-11T23:55:43Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 3435909,
+      "date": "2012-01-10T19:57:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 3539905,
+      "date": "2012-01-18T02:28:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 3782513,
+      "date": "2012-02-02T17:45:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 4892050,
+      "date": "2012-04-03T00:33:22Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 4997297,
+      "date": "2012-04-06T15:41:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5203065,
+      "date": "2012-04-18T16:43:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5210365,
+      "date": "2012-04-18T22:26:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5295307,
+      "date": "2012-04-24T00:40:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5509202,
+      "date": "2012-05-04T12:19:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5826705,
+      "date": "2012-05-21T16:15:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5838298,
+      "date": "2012-05-22T02:26:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5851916,
+      "date": "2012-05-22T16:36:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 5912832,
+      "date": "2012-05-24T17:45:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 6844754,
+      "date": "2012-07-09T12:09:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 6920989,
+      "date": "2012-07-11T21:53:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 7456832,
+      "date": "2012-08-02T14:30:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 7958177,
+      "date": "2012-08-23T02:15:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 8099144,
+      "date": "2012-08-28T17:05:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 8104625,
+      "date": "2012-08-28T19:48:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 8108053,
+      "date": "2012-08-28T21:35:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 8674679,
+      "date": "2012-09-18T23:41:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 13298835,
+      "date": "2013-02-08T16:38:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 14313360,
+      "date": "2013-03-01T21:49:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 14395511,
+      "date": "2013-03-04T18:15:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 14396456,
+      "date": "2013-03-04T18:32:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 14397107,
+      "date": "2013-03-04T18:43:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 14398505,
+      "date": "2013-03-04T19:06:45Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 15145955,
+      "date": "2013-03-19T21:56:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 15148139,
+      "date": "2013-03-19T22:40:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 15923033,
+      "date": "2013-04-04T20:51:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 16030570,
+      "date": "2013-04-08T03:11:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 16902669,
+      "date": "2013-04-24T01:07:39Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17310745,
+      "date": "2013-05-01T22:33:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17370147,
+      "date": "2013-05-02T23:01:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17371056,
+      "date": "2013-05-02T23:27:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17371863,
+      "date": "2013-05-02T23:52:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17372136,
+      "date": "2013-05-03T00:00:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17372322,
+      "date": "2013-05-03T00:06:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17373118,
+      "date": "2013-05-03T00:29:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17373376,
+      "date": "2013-05-03T00:38:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 17373630,
+      "date": "2013-05-03T00:47:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 18920900,
+      "date": "2013-06-04T16:24:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 18920964,
+      "date": "2013-06-04T16:25:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 19921118,
+      "date": "2013-06-24T17:13:00Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 20360990,
+      "date": "2013-07-02T17:21:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 21159263,
+      "date": "2013-07-18T02:41:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 21453816,
+      "date": "2013-07-23T23:27:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 21827388,
+      "date": "2013-07-30T22:19:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 21903604,
+      "date": "2013-07-31T23:22:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 21906998,
+      "date": "2013-08-01T00:42:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 21968937,
+      "date": "2013-08-01T20:54:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 22056611,
+      "date": "2013-08-03T15:34:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 22081929,
+      "date": "2013-08-05T00:13:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 22126918,
+      "date": "2013-08-05T18:36:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 22509787,
+      "date": "2013-08-12T17:22:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 22670515,
+      "date": "2013-08-14T21:58:11Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 22670775,
+      "date": "2013-08-14T22:02:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 23015947,
+      "date": "2013-08-21T13:15:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 23449537,
+      "date": "2013-08-28T21:32:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 23450295,
+      "date": "2013-08-28T21:44:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 23638062,
+      "date": "2013-09-02T02:09:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 23660524,
+      "date": "2013-09-02T13:34:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 23942627,
+      "date": "2013-09-06T14:14:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 24349484,
+      "date": "2013-09-12T19:38:00Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 24591622,
+      "date": "2013-09-17T14:20:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 24750634,
+      "date": "2013-09-19T16:01:01Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 24750823,
+      "date": "2013-09-19T16:03:28Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 24751399,
+      "date": "2013-09-19T16:10:43Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 24751912,
+      "date": "2013-09-19T16:15:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26001401,
+      "date": "2013-10-09T19:35:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26138255,
+      "date": "2013-10-11T13:50:22Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26138440,
+      "date": "2013-10-11T13:52:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26280441,
+      "date": "2013-10-14T19:08:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26286572,
+      "date": "2013-10-14T20:34:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26287007,
+      "date": "2013-10-14T20:41:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26287575,
+      "date": "2013-10-14T20:49:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26289114,
+      "date": "2013-10-14T21:10:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26341271,
+      "date": "2013-10-15T14:53:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26633046,
+      "date": "2013-10-18T21:58:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 26847717,
+      "date": "2013-10-22T20:58:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 27341369,
+      "date": "2013-10-29T20:41:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 27341809,
+      "date": "2013-10-29T20:46:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 28887415,
+      "date": "2013-11-20T13:06:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 28887849,
+      "date": "2013-11-20T13:13:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 28889508,
+      "date": "2013-11-20T13:40:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29323595,
+      "date": "2013-11-26T19:27:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29419634,
+      "date": "2013-11-27T20:58:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29530334,
+      "date": "2013-11-29T18:02:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29624108,
+      "date": "2013-12-02T15:03:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29711464,
+      "date": "2013-12-03T14:03:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29757141,
+      "date": "2013-12-03T22:13:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29819232,
+      "date": "2013-12-04T16:17:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 29990199,
+      "date": "2013-12-06T13:16:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 31842456,
+      "date": "2014-01-08T15:21:31Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 32488746,
+      "date": "2014-01-16T17:05:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 32488876,
+      "date": "2014-01-16T17:06:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 32894148,
+      "date": "2014-01-21T15:18:58Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 32894183,
+      "date": "2014-01-21T15:19:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 32894998,
+      "date": "2014-01-21T15:26:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 32904452,
+      "date": "2014-01-21T16:53:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 33494977,
+      "date": "2014-01-28T16:26:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 33495132,
+      "date": "2014-01-28T16:28:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 33703959,
+      "date": "2014-01-30T16:23:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 34329636,
+      "date": "2014-02-06T14:53:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 34344217,
+      "date": "2014-02-06T16:55:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 34351598,
+      "date": "2014-02-06T18:04:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 34367112,
+      "date": "2014-02-06T20:27:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 34549037,
+      "date": "2014-02-08T17:00:05Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 34997527,
+      "date": "2014-02-13T16:40:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 36670106,
+      "date": "2014-03-04T20:27:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 36670622,
+      "date": "2014-03-04T20:33:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 36672564,
+      "date": "2014-03-04T20:51:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 36886086,
+      "date": "2014-03-06T13:12:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 36954433,
+      "date": "2014-03-07T00:16:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 37850753,
+      "date": "2014-03-17T18:15:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 38015153,
+      "date": "2014-03-19T03:46:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 38222368,
+      "date": "2014-03-20T21:19:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 38568852,
+      "date": "2014-03-25T14:16:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 40492861,
+      "date": "2014-04-15T15:07:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 40514748,
+      "date": "2014-04-15T18:10:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 40517061,
+      "date": "2014-04-15T18:30:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 40746668,
+      "date": "2014-04-17T18:29:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 40779732,
+      "date": "2014-04-18T01:27:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 40838407,
+      "date": "2014-04-18T19:45:46Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 43074188,
+      "date": "2014-05-14T12:33:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 43777499,
+      "date": "2014-05-21T16:07:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 43818098,
+      "date": "2014-05-21T21:42:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 43940728,
+      "date": "2014-05-22T20:36:00Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 43942155,
+      "date": "2014-05-22T20:49:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 44024028,
+      "date": "2014-05-23T15:16:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 44154741,
+      "date": "2014-05-26T03:27:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 44309003,
+      "date": "2014-05-27T17:40:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 45937423,
+      "date": "2014-06-12T19:32:05Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 46020576,
+      "date": "2014-06-13T14:52:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 46328937,
+      "date": "2014-06-17T16:11:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 47157161,
+      "date": "2014-06-25T20:53:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 47588010,
+      "date": "2014-06-30T21:14:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 47790147,
+      "date": "2014-07-02T15:19:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 47937054,
+      "date": "2014-07-03T14:32:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 48466746,
+      "date": "2014-07-09T13:05:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 48540129,
+      "date": "2014-07-09T21:55:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 48541130,
+      "date": "2014-07-09T22:05:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49037331,
+      "date": "2014-07-15T14:14:43Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49040103,
+      "date": "2014-07-15T14:33:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49432146,
+      "date": "2014-07-18T13:46:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49432407,
+      "date": "2014-07-18T13:49:26Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49432494,
+      "date": "2014-07-18T13:50:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49432723,
+      "date": "2014-07-18T13:52:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49432798,
+      "date": "2014-07-18T13:53:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49433311,
+      "date": "2014-07-18T13:57:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49433752,
+      "date": "2014-07-18T14:01:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49434376,
+      "date": "2014-07-18T14:07:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49510922,
+      "date": "2014-07-19T14:27:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49619356,
+      "date": "2014-07-21T15:19:05Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 49621054,
+      "date": "2014-07-21T15:30:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 51010626,
+      "date": "2014-08-04T01:45:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 51091307,
+      "date": "2014-08-04T17:35:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 51094808,
+      "date": "2014-08-04T18:02:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 51234616,
+      "date": "2014-08-05T17:56:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 52106131,
+      "date": "2014-08-13T20:29:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 52782999,
+      "date": "2014-08-20T14:09:45Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 53878009,
+      "date": "2014-08-29T13:52:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 53990939,
+      "date": "2014-08-31T15:18:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 54711278,
+      "date": "2014-09-06T12:44:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 55065040,
+      "date": "2014-09-10T02:53:31Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 55177869,
+      "date": "2014-09-10T20:28:38Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 55179644,
+      "date": "2014-09-10T20:41:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 56241062,
+      "date": "2014-09-19T21:53:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 56660332,
+      "date": "2014-09-24T12:10:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 56660380,
+      "date": "2014-09-24T12:10:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 56678177,
+      "date": "2014-09-24T14:30:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 57305134,
+      "date": "2014-09-30T12:23:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 57305193,
+      "date": "2014-09-30T12:24:13Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58388596,
+      "date": "2014-10-08T16:47:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58389468,
+      "date": "2014-10-08T16:53:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58389586,
+      "date": "2014-10-08T16:54:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58431758,
+      "date": "2014-10-08T21:35:01Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58431900,
+      "date": "2014-10-08T21:36:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58523952,
+      "date": "2014-10-09T15:10:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58524121,
+      "date": "2014-10-09T15:11:22Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58526454,
+      "date": "2014-10-09T15:26:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 58906211,
+      "date": "2014-10-13T15:11:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 60784407,
+      "date": "2014-10-28T16:22:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 60788443,
+      "date": "2014-10-28T16:43:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 61422910,
+      "date": "2014-11-02T20:48:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 62672391,
+      "date": "2014-11-12T05:29:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 62672442,
+      "date": "2014-11-12T05:30:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 62672463,
+      "date": "2014-11-12T05:30:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 62672557,
+      "date": "2014-11-12T05:32:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 63302400,
+      "date": "2014-11-17T13:13:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 63318878,
+      "date": "2014-11-17T15:14:58Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 63701184,
+      "date": "2014-11-19T19:47:16Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 63739960,
+      "date": "2014-11-20T00:16:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 63740582,
+      "date": "2014-11-20T00:22:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 64482847,
+      "date": "2014-11-25T22:28:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 64483673,
+      "date": "2014-11-25T22:34:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 64484951,
+      "date": "2014-11-25T22:43:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 65339393,
+      "date": "2014-12-03T01:47:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 65340299,
+      "date": "2014-12-03T01:58:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 65864672,
+      "date": "2014-12-05T22:26:49Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 66220514,
+      "date": "2014-12-09T01:30:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 66220617,
+      "date": "2014-12-09T01:31:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 66548306,
+      "date": "2014-12-11T00:05:54Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 66733191,
+      "date": "2014-12-12T05:13:40Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 66734034,
+      "date": "2014-12-12T05:30:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 67006825,
+      "date": "2014-12-15T15:06:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 67240252,
+      "date": "2014-12-16T21:59:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 68928866,
+      "date": "2015-01-06T20:33:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 68944014,
+      "date": "2015-01-06T22:14:31Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 69600550,
+      "date": "2015-01-12T16:44:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 70257268,
+      "date": "2015-01-16T14:03:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 70352901,
+      "date": "2015-01-17T03:34:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 73834831,
+      "date": "2015-02-11T05:04:45Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 74252086,
+      "date": "2015-02-13T13:20:06Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 75147132,
+      "date": "2015-02-19T21:58:18Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 75149687,
+      "date": "2015-02-19T22:12:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 76977707,
+      "date": "2015-03-03T16:20:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 77959836,
+      "date": "2015-03-09T22:39:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 87842196,
+      "date": "2015-03-30T21:49:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 89146373,
+      "date": "2015-04-03T03:26:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 93544830,
+      "date": "2015-04-15T19:44:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 97207506,
+      "date": "2015-04-28T21:08:36Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 99620243,
+      "date": "2015-05-06T21:53:02Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 108601202,
+      "date": "2015-06-03T20:13:34Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 108606247,
+      "date": "2015-06-03T20:29:47Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 112898083,
+      "date": "2015-06-17T18:07:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 125991126,
+      "date": "2015-07-29T15:33:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 129928029,
+      "date": "2015-08-11T15:22:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 129928155,
+      "date": "2015-08-11T15:22:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 129928353,
+      "date": "2015-08-11T15:23:04Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 129928383,
+      "date": "2015-08-11T15:23:09Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 129938121,
+      "date": "2015-08-11T15:46:52Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 130114657,
+      "date": "2015-08-11T23:53:37Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 134240872,
+      "date": "2015-08-24T15:10:32Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 135195863,
+      "date": "2015-08-26T22:28:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 141053099,
+      "date": "2015-09-17T11:53:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 141053855,
+      "date": "2015-09-17T11:55:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 141134827,
+      "date": "2015-09-17T16:08:25Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 141701186,
+      "date": "2015-09-19T19:43:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 141701938,
+      "date": "2015-09-19T19:57:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 142659417,
+      "date": "2015-09-23T16:48:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 143318015,
+      "date": "2015-09-25T18:40:41Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 143805861,
+      "date": "2015-09-28T17:05:58Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 144161252,
+      "date": "2015-09-29T19:19:57Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 144766306,
+      "date": "2015-10-01T15:41:45Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 144909214,
+      "date": "2015-10-02T03:37:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 144909354,
+      "date": "2015-10-02T03:38:15Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 145033235,
+      "date": "2015-10-02T14:16:07Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 145098938,
+      "date": "2015-10-02T17:49:56Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 146663436,
+      "date": "2015-10-08T19:30:35Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 149922939,
+      "date": "2015-10-21T14:55:42Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 149964884,
+      "date": "2015-10-21T17:08:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 149964995,
+      "date": "2015-10-21T17:08:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 149979113,
+      "date": "2015-10-21T18:03:08Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 152286085,
+      "date": "2015-10-29T18:54:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 153867438,
+      "date": "2015-11-04T21:14:51Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 155556027,
+      "date": "2015-11-10T20:28:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 142,
+      "date": "2014-07-09T22:03:19Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 133,
+      "date": "2014-05-21T21:47:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 66,
+      "date": "2013-04-23T23:36:53Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 38,
+      "date": "2012-05-31T21:37:24Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 36,
+      "date": "2012-05-22T16:31:14Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 27,
+      "date": "2012-04-24T02:48:12Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 17,
+      "date": "2012-01-25T01:55:10Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 4,
+      "date": "2011-12-02T19:04:29Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 3,
+      "date": "2011-11-28T02:02:17Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 2,
+      "date": "2011-11-18T22:36:59Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 1,
+      "date": "2011-11-18T01:07:23Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "bblimke/webmock",
+      "type": "pr",
+      "id": 176,
+      "date": "2012-04-24T02:40:50Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "bblimke/webmock",
+      "type": "pr",
+      "id": 172,
+      "date": "2012-04-02T18:56:01Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 89,
+      "date": "2013-09-03T19:17:45Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 80,
+      "date": "2013-08-05T17:45:00Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 77,
+      "date": "2013-07-25T23:53:03Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 67,
+      "date": "2013-05-01T18:57:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 65,
+      "date": "2013-04-23T21:57:48Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 39,
+      "date": "2012-06-02T16:54:33Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 37,
+      "date": "2012-05-24T15:06:20Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 34,
+      "date": "2012-05-18T15:38:21Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 18,
+      "date": "2012-02-02T02:48:55Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 15,
+      "date": "2012-01-18T20:54:27Z"
+    },
+    {
+      "dev_id": "oestrich",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "issue",
+      "id": 14,
+      "date": "2012-01-17T23:14:10Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "637e1432748b185cf743519798379fe4df4c5069",
+      "date": "2013-08-30T09:53:22Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "c8819f6841faab5e50036ea103df80dab4e86a1e",
+      "date": "2013-08-30T09:52:45Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "5cd4d3ab3ce5dd0df13ff03547cd4f400e8601d3",
+      "date": "2013-08-30T09:52:04Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "7306126a781960d5e7a439c9799a6f004f0ebb8e",
+      "date": "2013-08-30T08:41:39Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "48690633eb74169db4b6e4188fc87f1e8706aa74",
+      "date": "2013-08-30T08:40:13Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a205f57f956f0eba504b54de8afe212e954b5fb8",
+      "date": "2013-08-30T08:08:46Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1f0563988ad7a361dbbc818e9c243aefcbe1421b",
+      "date": "2013-08-20T14:16:36Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "655329435c12a81ad52183aa46c67dfd6292a319",
+      "date": "2013-08-20T14:14:40Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1a99d050d7dbd7bc3cb08d6e6ac6d04e934cde9a",
+      "date": "2013-08-20T13:57:52Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "ae1eeb97a2a794762ce54a7dbcca69c2ddc1c754",
+      "date": "2013-08-19T07:32:40Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1e9ed3fba4c71a814cec32da0f45d49509a0e30a",
+      "date": "2013-08-18T15:17:43Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "e5defdb38618d1b950b4b20bd819ac881fa91074",
+      "date": "2013-08-18T15:13:04Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "47502e4fe39d67f3fe8ffbecca233e17ae2a3795",
+      "date": "2013-08-15T14:37:47Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1800a645dc9464b1bbe99e6f0723fb87bcc7b69b",
+      "date": "2013-08-03T16:54:05Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "a3780d1863cb21a3fd74179985243b5883ff83ee",
+      "date": "2013-07-28T17:37:19Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "commit",
+      "id": "1a74b2aa6cf3fbb31052c86b006097fc4156b990",
+      "date": "2013-07-07T22:42:27Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "com",
+      "id": 23551700,
+      "date": "2013-08-30T10:03:17Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "bblimke/webmock",
+      "type": "com",
+      "id": 113429917,
+      "date": "2015-06-19T08:28:37Z"
+    },
+    {
+      "dev_id": "jonathanpa",
+      "repo": "zipmark/rspec_api_documentation",
+      "type": "pr",
+      "id": 83,
+      "date": "2013-08-21T07:20:59Z"
+    }
+  ]
+}

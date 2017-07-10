@@ -1,0 +1,720 @@
+{
+  "user_repo": "lantins/resque-retry",
+  "dep_repo": "resque/resque-scheduler",
+  "dep_date": "2010-04-27 03:44:16 UTC",
+  "dep_commit_id": "f65c3230e745f63fa0c021c8ec0b98c12a259f68",
+  "social_date": "2013-04-04 09:09:57 UTC",
+  "devs": [
+    "gravis",
+    "davetron5000"
+  ],
+  "interactions": [
+    {
+      "dev_id": "gravis",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "475630cce40259a672cafcce7760b3f5307f621e",
+      "date": "2013-04-04T09:09:57Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "dcd55518db7c855a719a2d6e6dbb5884a6faaee0",
+      "date": "2012-11-22T10:03:46Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "e4a20cbd3231a997233f8ddf5a9da3bce4b6497a",
+      "date": "2010-04-15T12:50:36Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "899c2fa1bd43707d4965a0ef1cdd67b688a9420b",
+      "date": "2010-04-15T07:01:14Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "00f0e2ccbf691595b848447f0c0b9bc91d8ce4df",
+      "date": "2010-04-15T06:15:03Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "d204c3987a4c49b1e52d1e46870473cc8576421a",
+      "date": "2010-04-14T20:46:32Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "94a6a147d7f9c8eec431701ec70169adcf68cf76",
+      "date": "2010-03-05T11:20:25Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "e82498b5eaf62fcf736149b7e6daa276bd4bfdad",
+      "date": "2010-03-03T10:59:07Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "commit",
+      "id": "21eecf050f194366050f3155862370b6ba3f0cba",
+      "date": "2010-03-01T20:49:06Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 125658,
+      "date": "2010-02-04T09:47:18Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 128592,
+      "date": "2010-02-08T08:24:23Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 131146,
+      "date": "2010-02-10T17:48:57Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 131209,
+      "date": "2010-02-10T19:00:15Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 131253,
+      "date": "2010-02-10T19:37:45Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 131264,
+      "date": "2010-02-10T19:42:47Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 133540,
+      "date": "2010-02-12T16:18:42Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 133820,
+      "date": "2010-02-12T23:49:15Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 134243,
+      "date": "2010-02-13T14:16:35Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 134541,
+      "date": "2010-02-14T00:22:27Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 134542,
+      "date": "2010-02-14T00:23:31Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 135745,
+      "date": "2010-02-15T21:14:25Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 135746,
+      "date": "2010-02-15T21:14:57Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 135759,
+      "date": "2010-02-15T21:27:19Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 146924,
+      "date": "2010-02-28T16:31:46Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 146943,
+      "date": "2010-02-28T17:00:57Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 146968,
+      "date": "2010-02-28T17:57:35Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 146969,
+      "date": "2010-02-28T18:01:14Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 147004,
+      "date": "2010-02-28T19:17:43Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 147440,
+      "date": "2010-03-01T08:50:49Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 147881,
+      "date": "2010-03-01T18:17:48Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 147952,
+      "date": "2010-03-01T19:37:15Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 151393,
+      "date": "2010-03-05T11:22:18Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 151623,
+      "date": "2010-03-05T16:53:23Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 151625,
+      "date": "2010-03-05T16:54:46Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 151745,
+      "date": "2010-03-05T20:17:32Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 180352,
+      "date": "2010-04-07T14:57:57Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 187498,
+      "date": "2010-04-14T20:50:00Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 262439,
+      "date": "2010-06-03T08:05:40Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 10629316,
+      "date": "2012-11-22T10:06:56Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 11947777,
+      "date": "2013-01-07T11:00:08Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "lantins/resque-retry",
+      "type": "pr",
+      "id": 75,
+      "date": "2013-04-04T09:10:00Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "pr",
+      "id": 195,
+      "date": "2012-11-22T10:06:31Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "issue",
+      "id": 14,
+      "date": "2010-04-07T07:30:35Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "issue",
+      "id": 10,
+      "date": "2010-03-03T11:15:45Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "issue",
+      "id": 9,
+      "date": "2010-02-28T16:28:25Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "issue",
+      "id": 7,
+      "date": "2010-02-12T12:33:03Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "issue",
+      "id": 6,
+      "date": "2010-02-10T17:56:05Z"
+    },
+    {
+      "dev_id": "gravis",
+      "repo": "resque/resque-scheduler",
+      "type": "issue",
+      "id": 5,
+      "date": "2010-02-10T10:47:45Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "161b9d9313650783699446590658f46ba3b0ad4d",
+      "date": "2014-05-17T19:04:04Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "1454163d54bd48525aac70ca5d9eff52840d2450",
+      "date": "2014-05-13T16:03:23Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "b9f5a6a728d4d881c8b0d6705e3a7614f8c3f045",
+      "date": "2014-05-13T14:59:53Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "29fb2b6f5483d5293077e6ae30c8242fbe7f14d7",
+      "date": "2014-05-13T14:58:02Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "fb27bbd8ad3aa2d3c8a1ef3a8ef845e575544efc",
+      "date": "2014-05-13T14:51:41Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "543eb8cc30051ee0e0b47844eb7729e949e6ee88",
+      "date": "2014-05-13T14:51:17Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "5d3dd0767bce1a435f903b32e6ec57a71170859a",
+      "date": "2014-05-05T21:00:08Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "ae7661b09013b67548daa70ca7436e665c87976e",
+      "date": "2014-05-05T19:48:40Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "c4296d67185025904ddc4884eacffbb0985cfbdb",
+      "date": "2014-04-29T01:01:35Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "e0fee8a2f030dcc693fef85f56c53db6a14619fa",
+      "date": "2014-04-29T00:32:18Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "ecef752f960bff479d9570518a0345ab8661e3a3",
+      "date": "2014-04-29T00:32:08Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "de9686bf0a288070c3173eb35cff05f46f3ba29d",
+      "date": "2014-04-28T13:14:24Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "ff9a16d31b85cfcd6b7e1600619268fe195229dc",
+      "date": "2014-04-28T13:06:09Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "72ac3568d4bade04c77222183b6e2d2d71dbd8a2",
+      "date": "2014-04-25T13:02:42Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "81c16c7227b3b4ec38f444205b804e6f575ea3cf",
+      "date": "2014-04-25T13:02:34Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "c2689a26c4b06f796fd5c8aa8a0fa75f18e537f4",
+      "date": "2014-04-25T12:56:47Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "6980741e3f8c52a1d4927a65adcef2bd4d469e83",
+      "date": "2014-04-25T12:56:24Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "6500cc64922c19dbaba6740ca8633fb44fa67315",
+      "date": "2014-04-24T14:36:02Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "404ccb7149a5dc4e0dd507d18659efe69f2974ed",
+      "date": "2014-04-24T14:30:04Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "3efb105762b2cf8c7f41a127ec2b7cb021cf3733",
+      "date": "2014-04-24T14:28:54Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "d65ceea87452723b40f44c162930e34fdab9d0b9",
+      "date": "2014-04-24T14:24:28Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "ff3a8362faf7b0ba35aaa1045089e13d9ba22e59",
+      "date": "2014-04-24T14:24:18Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "409299a10b1dcf2a68856e21430679779d38e0fa",
+      "date": "2014-04-24T13:09:57Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "commit",
+      "id": "5200be320b3414716339ec6934fb480af941699c",
+      "date": "2014-04-24T12:19:58Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 40878720,
+      "date": "2014-04-19T19:43:46Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 40879413,
+      "date": "2014-04-19T20:12:21Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 40879946,
+      "date": "2014-04-19T20:35:06Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 40902361,
+      "date": "2014-04-20T19:11:35Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 40932208,
+      "date": "2014-04-21T12:27:21Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41067028,
+      "date": "2014-04-22T17:11:35Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41095251,
+      "date": "2014-04-22T21:02:08Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41154221,
+      "date": "2014-04-23T12:23:36Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41278875,
+      "date": "2014-04-24T13:22:57Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41286200,
+      "date": "2014-04-24T14:26:32Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41286740,
+      "date": "2014-04-24T14:31:07Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41390483,
+      "date": "2014-04-25T13:11:20Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41391551,
+      "date": "2014-04-25T13:23:10Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41391942,
+      "date": "2014-04-25T13:27:11Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41448307,
+      "date": "2014-04-25T23:16:36Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41556496,
+      "date": "2014-04-28T13:17:55Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41630861,
+      "date": "2014-04-29T00:34:35Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 41632347,
+      "date": "2014-04-29T01:02:20Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 42049917,
+      "date": "2014-05-02T16:23:25Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 42306262,
+      "date": "2014-05-06T14:08:03Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 42306500,
+      "date": "2014-05-06T14:09:59Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 42432176,
+      "date": "2014-05-07T14:16:46Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 42966557,
+      "date": "2014-05-13T15:01:39Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 43429665,
+      "date": "2014-05-18T02:27:48Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "com",
+      "id": 43511411,
+      "date": "2014-05-19T14:33:06Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "resque/resque-scheduler",
+      "type": "com",
+      "id": 120115864,
+      "date": "2015-07-09T19:21:04Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "pr",
+      "id": 100,
+      "date": "2014-05-05T19:57:28Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "pr",
+      "id": 99,
+      "date": "2014-04-24T13:18:23Z"
+    },
+    {
+      "dev_id": "davetron5000",
+      "repo": "lantins/resque-retry",
+      "type": "issue",
+      "id": 97,
+      "date": "2014-04-19T19:31:29Z"
+    }
+  ]
+}

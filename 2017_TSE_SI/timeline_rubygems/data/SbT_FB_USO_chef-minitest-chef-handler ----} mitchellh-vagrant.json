@@ -1,0 +1,2622 @@
+{
+  "user_repo": "chef/minitest-chef-handler",
+  "dep_repo": "mitchellh/vagrant",
+  "dep_date": "2013-03-24 18:56:38 UTC",
+  "dep_commit_id": "fb14339d6cdd948c8475d54282b5ca54657b9cad",
+  "social_date": "2011-01-13 13:20:08 UTC",
+  "devs": [
+    "lamont-granquist",
+    "calavera",
+    "acrmp",
+    "dpetzel",
+    "grosser",
+    "leifmadsen",
+    "matschaffer"
+  ],
+  "interactions": [
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "9f60abbc4726315483495a2be21cecc7f81e4b91",
+      "date": "2015-07-07T17:22:38Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "566346d068fd98f943fc1d6c7bf6701029ef7228",
+      "date": "2014-12-06T19:02:34Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "commit",
+      "id": "56a22db6e22034677795db71b4863eb15c07c881",
+      "date": "2014-05-01T22:34:34Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "commit",
+      "id": "2c9f83a69053d351c16fcea38c9378caacf1717d",
+      "date": "2014-05-01T22:26:34Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65909714,
+      "date": "2014-12-06T19:07:07Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65910464,
+      "date": "2014-12-06T19:30:10Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65946507,
+      "date": "2014-12-07T18:02:29Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65955956,
+      "date": "2014-12-07T21:28:25Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101758196,
+      "date": "2015-05-13T17:50:50Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101769946,
+      "date": "2015-05-13T18:32:45Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101770624,
+      "date": "2015-05-13T18:35:12Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 118117205,
+      "date": "2015-07-02T18:29:40Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119275925,
+      "date": "2015-07-07T17:27:44Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119276676,
+      "date": "2015-07-07T17:30:57Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119277317,
+      "date": "2015-07-07T17:33:49Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 119278674,
+      "date": "2015-07-07T17:37:00Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 41964734,
+      "date": "2014-05-01T22:33:47Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 41965095,
+      "date": "2014-05-01T22:38:04Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 67055427,
+      "date": "2014-12-15T20:01:11Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 67059602,
+      "date": "2014-12-15T20:28:12Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 67247276,
+      "date": "2014-12-16T22:46:18Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 67572023,
+      "date": "2014-12-18T22:57:36Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 67573173,
+      "date": "2014-12-18T23:07:03Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 67573324,
+      "date": "2014-12-18T23:08:22Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 85,
+      "date": "2014-12-06T19:06:24Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 3604,
+      "date": "2014-05-01T22:31:57Z"
+    },
+    {
+      "dev_id": "lamont-granquist",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 3606,
+      "date": "2014-05-01T23:24:49Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "cb13875ff1e6a584b7a5b58d15a06d6e37bfd4ea",
+      "date": "2015-02-04T00:14:13Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "f3eda599d0e39e67dffb7240eb14c9c8dab454ce",
+      "date": "2015-02-04T00:14:01Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "8c5c8bd7af8ef63121b247dda672f2bb71902b76",
+      "date": "2014-07-25T16:14:24Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "d6f10b656c5c0368d7c266a89fcc15fa0b62fc91",
+      "date": "2014-07-25T16:12:50Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "1b1d032c1dc5abb02eebe18cea6befcc5e73fbba",
+      "date": "2014-07-25T16:01:28Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "b4dc66ac2626b00d89f139a605bfbde378a098b2",
+      "date": "2013-04-25T03:49:45Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "d09feb800dd0fe4a929fee0e6d62e5d79d3585de",
+      "date": "2013-04-25T03:42:56Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "087325081ac473ed52020145c02c8a61aa7cce0a",
+      "date": "2013-03-29T19:01:35Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "d8f6a7b0729e5bafff7d8bd708e5ce5ecf252cb5",
+      "date": "2013-03-23T09:31:53Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "7df2dc0a69f86a0cb1facb3ee7d13ab28ed205b9",
+      "date": "2013-03-03T20:24:51Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "47444d76b02237f50e7ab7c187998accbc4a2b99",
+      "date": "2013-03-03T20:20:27Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "812a1c3d6efdbca9517384f0fcb892c0bd3e6714",
+      "date": "2013-03-03T20:19:50Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "1710508bc4f14a53dd31b4d0724edd98837a3d9a",
+      "date": "2013-02-08T00:34:21Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "99e2cfb23dea3270ded4bc26145562b0a5995a13",
+      "date": "2013-02-07T22:59:49Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "4da40942d2f9a295a3293d62d420a880288d609b",
+      "date": "2013-01-06T18:56:19Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "7dd6aa690e14451a1e95504e0de7aba128b637a6",
+      "date": "2012-12-02T19:36:27Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "037838387a3893db8b0cabdac138eee7525c949f",
+      "date": "2012-09-28T20:10:01Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "aae6e6aea47bd64988c1f0d4e8a33c333fbd6336",
+      "date": "2012-09-16T05:22:42Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "a725968dbc5659b1d0434548fd0be245d188ac2c",
+      "date": "2012-09-16T05:18:41Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "caa41cba162ef15d1eda212510a53f4375d3cfca",
+      "date": "2012-08-22T21:04:43Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "6007a03928ab499a58d1cd2ddb8e8178991e6cf6",
+      "date": "2012-07-13T16:36:22Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "51abbf3f79bec3421c83324cfec2a07363bafa58",
+      "date": "2012-07-10T18:50:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "51645f4cf234729a4037041f9c2b5509382f5790",
+      "date": "2012-07-10T18:49:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "bf77057539ee154ecf71e2cf30155b8802cf4269",
+      "date": "2012-07-10T17:14:11Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "548926d938ce36525eb8626c1c03df862669e62a",
+      "date": "2012-07-10T17:12:37Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "0f55f2fc598ea10b4a38caa0390ea1a03ea5b41a",
+      "date": "2012-06-25T15:29:03Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "7767b95d36dc877de706176a9eddba561da5ed9c",
+      "date": "2012-06-25T15:25:33Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "2c70d87bbd6a20d3eb19c3516048169add071946",
+      "date": "2012-06-25T15:10:33Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "700699a64e8a5ec50bf61d3c27a62e25f120debe",
+      "date": "2012-06-01T03:07:32Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "24d424e4bbb6a0928cab8db4d4fbbf14e3d24ca1",
+      "date": "2012-06-01T03:05:41Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "1fb862911f1bf586363659e69c82fbdb1f7ef4a6",
+      "date": "2012-06-01T03:05:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "79ac745cab5c9f757d9adb63cad567847f783925",
+      "date": "2012-06-01T03:00:31Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "74a4aa2ba969d01cdb62bef59382e7cefbfe7011",
+      "date": "2012-06-01T03:00:10Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "2b3ffa717eca03be7d1006b7b7c3d55d5a015fcf",
+      "date": "2012-05-02T18:22:28Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "f1d85a6d8384f6059ec0a1d7b8c0712ed8c0ca10",
+      "date": "2012-05-01T01:16:41Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "ff787201a289bd61530022542bdbf7eb5feb834e",
+      "date": "2012-04-23T04:41:26Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "ad78485aaf0f47f4d8e1d375f986942853df1ff3",
+      "date": "2012-04-20T17:04:14Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "746234b339d98faf68019084da3e7b33d823b077",
+      "date": "2012-04-20T13:57:09Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "f266c275358bbcc49816043a205997011513367d",
+      "date": "2012-04-13T00:57:42Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "e40882477f173206c3fe80fec5f23fdd1788591b",
+      "date": "2012-04-13T00:46:06Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "ccee4fcf0d03d9f69d6adb001110f83f3878118b",
+      "date": "2012-04-13T00:33:59Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "4c2b8b587949fec4e8d29383059af4f8e44d8da2",
+      "date": "2012-04-13T00:32:14Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "af5e0d73557fa8cacf21d0cae0870b2ad0489d5c",
+      "date": "2012-04-13T00:06:39Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "03044b5dd0ca8924c6cdc7e0affc169f50c056f1",
+      "date": "2012-04-10T16:42:35Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "1e17e04993c0e833e6a37216f6323d05dd6593ad",
+      "date": "2012-04-10T16:37:33Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "23740ebca7f804f078cbae25916f02dd667d3667",
+      "date": "2012-03-01T22:51:30Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "6136dc616c4a20923d51feec39e2bef01470aed4",
+      "date": "2012-02-29T18:13:35Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "c3f6e4cbfa634579f2d5c08b675f42739f44cca3",
+      "date": "2012-02-29T07:14:28Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "e9b42b742a1b55ee8a1772415dea7d3762b12035",
+      "date": "2012-02-29T00:04:01Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "a1deca579c88e04f4451b575e1feeaeb210e71c6",
+      "date": "2012-02-28T23:47:59Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "a1a3e23b581d99671f6b3d6e24dd1a368e7614f9",
+      "date": "2012-02-28T23:07:31Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "f13bcf72857f466a7a725b1ff2d07934a92375d0",
+      "date": "2012-02-28T23:04:18Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "db0e668b237c6b81a87e4e8ce431e786045dd708",
+      "date": "2012-02-28T22:57:04Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "commit",
+      "id": "e8c5cf09db53790369a8358dd5f3b9e9f95eb33a",
+      "date": "2012-04-01T01:58:02Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "commit",
+      "id": "b0e6085c0be93b09b91fd541c5fe0cd45522c4dd",
+      "date": "2012-04-01T01:50:45Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "commit",
+      "id": "73b31b5a3b4d6760d4e17304c61006d298e190f5",
+      "date": "2012-03-26T20:11:16Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "commit",
+      "id": "eb07788db19db5b29debb545eb5ff83f59ed74fe",
+      "date": "2012-03-14T04:29:38Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 4232956,
+      "date": "2012-02-29T07:14:56Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 4794025,
+      "date": "2012-03-28T23:42:41Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 4825698,
+      "date": "2012-03-29T16:52:10Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5048926,
+      "date": "2012-04-10T15:41:47Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5049157,
+      "date": "2012-04-10T15:51:32Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5050412,
+      "date": "2012-04-10T16:48:10Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5078165,
+      "date": "2012-04-11T20:28:24Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5078190,
+      "date": "2012-04-11T20:29:22Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5080390,
+      "date": "2012-04-11T22:15:45Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5082557,
+      "date": "2012-04-12T00:59:38Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5084025,
+      "date": "2012-04-12T03:44:40Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5096426,
+      "date": "2012-04-12T17:39:42Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5096440,
+      "date": "2012-04-12T17:40:29Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5096897,
+      "date": "2012-04-12T18:03:44Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5100958,
+      "date": "2012-04-12T21:19:32Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5102241,
+      "date": "2012-04-12T22:34:54Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5105511,
+      "date": "2012-04-12T23:57:31Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5106585,
+      "date": "2012-04-13T01:06:05Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5182030,
+      "date": "2012-04-17T18:16:20Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5202103,
+      "date": "2012-04-18T16:02:37Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5203182,
+      "date": "2012-04-18T16:49:29Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5244463,
+      "date": "2012-04-20T13:55:30Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5244548,
+      "date": "2012-04-20T13:59:16Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5252453,
+      "date": "2012-04-20T20:29:43Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5308096,
+      "date": "2012-04-24T16:07:00Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5308131,
+      "date": "2012-04-24T16:08:31Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5308163,
+      "date": "2012-04-24T16:09:45Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5308500,
+      "date": "2012-04-24T16:21:52Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5424901,
+      "date": "2012-04-30T19:00:02Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5432548,
+      "date": "2012-05-01T02:28:12Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5432647,
+      "date": "2012-05-01T02:38:01Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5468496,
+      "date": "2012-05-02T18:24:19Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5513902,
+      "date": "2012-05-04T16:06:46Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5881544,
+      "date": "2012-05-23T18:57:34Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5948405,
+      "date": "2012-05-26T17:41:18Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6074443,
+      "date": "2012-06-02T02:50:22Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536503,
+      "date": "2012-06-24T21:24:32Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536543,
+      "date": "2012-06-24T21:30:23Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536554,
+      "date": "2012-06-24T21:32:13Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536702,
+      "date": "2012-06-24T21:53:36Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536830,
+      "date": "2012-06-24T22:08:24Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6550607,
+      "date": "2012-06-25T15:33:10Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6867305,
+      "date": "2012-07-10T05:26:34Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6867341,
+      "date": "2012-07-10T05:30:37Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6882202,
+      "date": "2012-07-10T17:15:48Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6885011,
+      "date": "2012-07-10T18:51:06Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6920312,
+      "date": "2012-07-11T21:27:25Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6920405,
+      "date": "2012-07-11T21:31:12Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7055472,
+      "date": "2012-07-18T03:01:25Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7354689,
+      "date": "2012-07-29T17:33:41Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7358437,
+      "date": "2012-07-30T01:19:57Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7798605,
+      "date": "2012-08-16T20:39:56Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7798651,
+      "date": "2012-08-16T20:41:17Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7850499,
+      "date": "2012-08-19T04:32:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7857758,
+      "date": "2012-08-19T22:56:29Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7858605,
+      "date": "2012-08-20T00:44:51Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7950128,
+      "date": "2012-08-22T21:06:47Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8582037,
+      "date": "2012-09-15T05:25:04Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8592364,
+      "date": "2012-09-16T05:24:33Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8857084,
+      "date": "2012-09-25T14:54:06Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8991670,
+      "date": "2012-09-28T20:10:36Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9679596,
+      "date": "2012-10-22T20:37:30Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9679875,
+      "date": "2012-10-22T20:45:13Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9719029,
+      "date": "2012-10-23T21:32:38Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9909416,
+      "date": "2012-10-30T15:17:00Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10260290,
+      "date": "2012-11-10T21:49:18Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10933857,
+      "date": "2012-12-02T19:35:12Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10933896,
+      "date": "2012-12-02T19:37:42Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 11648471,
+      "date": "2012-12-23T17:44:57Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 11932426,
+      "date": "2013-01-06T18:59:53Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13267172,
+      "date": "2013-02-07T22:56:55Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13267302,
+      "date": "2013-02-07T23:00:04Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13270170,
+      "date": "2013-02-08T00:08:21Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13270247,
+      "date": "2013-02-08T00:10:47Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13319544,
+      "date": "2013-02-08T23:19:08Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13320378,
+      "date": "2013-02-08T23:32:08Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14123819,
+      "date": "2013-02-26T16:26:00Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14271164,
+      "date": "2013-03-01T03:08:41Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14271233,
+      "date": "2013-03-01T03:12:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14354314,
+      "date": "2013-03-03T20:20:08Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14354336,
+      "date": "2013-03-03T20:21:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14415378,
+      "date": "2013-03-05T00:01:37Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14421888,
+      "date": "2013-03-05T03:40:05Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15334392,
+      "date": "2013-03-23T09:39:43Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15334399,
+      "date": "2013-03-23T09:40:14Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15339994,
+      "date": "2013-03-23T16:36:30Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15340054,
+      "date": "2013-03-23T16:39:25Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15354519,
+      "date": "2013-03-24T10:50:59Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15354973,
+      "date": "2013-03-24T11:31:28Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15355057,
+      "date": "2013-03-24T11:38:28Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15655546,
+      "date": "2013-03-29T19:02:35Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 16910058,
+      "date": "2013-04-24T06:26:28Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 16987096,
+      "date": "2013-04-25T03:40:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 17585081,
+      "date": "2013-05-08T03:46:54Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 17595030,
+      "date": "2013-05-08T09:28:00Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 18306694,
+      "date": "2013-05-22T20:45:54Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 18362942,
+      "date": "2013-05-23T18:36:13Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 20313125,
+      "date": "2013-07-01T21:50:45Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 24884239,
+      "date": "2013-09-22T15:33:27Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 25025583,
+      "date": "2013-09-24T17:32:58Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 27437165,
+      "date": "2013-10-30T20:42:54Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 27437336,
+      "date": "2013-10-30T20:44:50Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 28079758,
+      "date": "2013-11-08T17:12:43Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 28093941,
+      "date": "2013-11-08T20:09:07Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 28421038,
+      "date": "2013-11-13T18:39:58Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 28670533,
+      "date": "2013-11-18T01:43:47Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 30243947,
+      "date": "2013-12-10T16:40:43Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 31487520,
+      "date": "2014-01-02T21:46:32Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 31571153,
+      "date": "2014-01-04T04:25:47Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 31571325,
+      "date": "2014-01-04T04:37:15Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 31571335,
+      "date": "2014-01-04T04:37:55Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 50169274,
+      "date": "2014-07-25T16:01:26Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 50170937,
+      "date": "2014-07-25T16:14:47Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 72764973,
+      "date": "2015-02-04T00:13:01Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101762449,
+      "date": "2015-05-13T18:10:37Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101765039,
+      "date": "2015-05-13T18:18:00Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101766476,
+      "date": "2015-05-13T18:21:43Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 101770443,
+      "date": "2015-05-13T18:34:19Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 4661653,
+      "date": "2012-03-23T15:46:30Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 4870440,
+      "date": "2012-04-01T23:32:49Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 5035952,
+      "date": "2012-04-09T23:12:58Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 5095414,
+      "date": "2012-04-12T16:51:38Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 5987805,
+      "date": "2012-05-29T16:04:41Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 13201124,
+      "date": "2013-02-06T19:45:22Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 13202384,
+      "date": "2013-02-06T20:09:09Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 10,
+      "date": "2012-04-18T16:07:52Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 876,
+      "date": "2012-04-09T17:51:13Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 855,
+      "date": "2012-04-01T23:56:27Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 854,
+      "date": "2012-04-01T03:04:23Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 853,
+      "date": "2012-04-01T01:52:20Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 807,
+      "date": "2012-03-14T04:42:33Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 806,
+      "date": "2012-03-14T04:34:26Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 87,
+      "date": "2015-02-04T00:18:09Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 14,
+      "date": "2012-04-20T22:52:31Z"
+    },
+    {
+      "dev_id": "calavera",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 2,
+      "date": "2012-03-28T22:42:26Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "63287bda91d90a27c5270b77f1238512787bcc94",
+      "date": "2013-05-07T16:37:33Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "0ae0d544b328cd9706a237c3d108f11b1a5a2fa0",
+      "date": "2012-10-22T02:10:35Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 4815290,
+      "date": "2012-03-29T12:57:51Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 4826083,
+      "date": "2012-03-29T17:10:22Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 4838150,
+      "date": "2012-03-30T08:09:11Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5097159,
+      "date": "2012-04-12T18:17:26Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5109995,
+      "date": "2012-04-13T07:48:54Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5110025,
+      "date": "2012-04-13T07:51:42Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5110030,
+      "date": "2012-04-13T07:52:05Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5203110,
+      "date": "2012-04-18T16:45:35Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5240671,
+      "date": "2012-04-20T09:30:51Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5246146,
+      "date": "2012-04-20T15:11:27Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5308751,
+      "date": "2012-04-24T16:29:28Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5311464,
+      "date": "2012-04-24T18:00:58Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5883479,
+      "date": "2012-05-23T20:18:30Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5885055,
+      "date": "2012-05-23T21:23:46Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 5899669,
+      "date": "2012-05-24T13:11:05Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6537345,
+      "date": "2012-06-24T23:21:53Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8090928,
+      "date": "2012-08-28T13:16:07Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8280833,
+      "date": "2012-09-04T22:07:22Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10480725,
+      "date": "2012-11-18T00:06:43Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10828455,
+      "date": "2012-11-28T23:39:31Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10945497,
+      "date": "2012-12-03T09:01:47Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 17594485,
+      "date": "2013-05-08T09:14:25Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 17595440,
+      "date": "2013-05-08T09:38:07Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 20704835,
+      "date": "2013-07-09T20:57:22Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 676156,
+      "date": "2011-01-13T22:26:04Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 59,
+      "date": "2013-05-07T16:44:25Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 35,
+      "date": "2012-10-22T02:21:48Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 12,
+      "date": "2012-04-20T09:30:07Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 7,
+      "date": "2012-04-12T15:03:08Z"
+    },
+    {
+      "dev_id": "acrmp",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 269,
+      "date": "2011-01-13T13:20:08Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "c73f308fcb6e513fc9013a0e9931f9e3f4eb95d8",
+      "date": "2014-12-06T16:02:37Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 65883894,
+      "date": "2014-12-06T03:36:13Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 108907460,
+      "date": "2015-06-04T13:57:44Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 108997178,
+      "date": "2015-06-04T18:17:27Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 115343592,
+      "date": "2015-06-25T17:52:24Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 9094056,
+      "date": "2012-10-03T02:39:39Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 9094904,
+      "date": "2012-10-03T03:47:33Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 23944432,
+      "date": "2013-09-06T14:40:53Z"
+    },
+    {
+      "dev_id": "dpetzel",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 84,
+      "date": "2014-12-06T16:07:33Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "bb17d7628b98fd3414b27e67863408fed778ab57",
+      "date": "2013-03-27T05:24:24Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "40a728fe4c7a50f2012c570527af58a1d6e72c6f",
+      "date": "2013-03-27T05:22:33Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "24a0e754d49dbc57792909b4561e69eb8d744844",
+      "date": "2013-03-27T01:43:55Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "fe4ed673ebcba5748bba13eed70e622c5892d879",
+      "date": "2013-03-26T05:37:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "fb14339d6cdd948c8475d54282b5ca54657b9cad",
+      "date": "2013-03-23T19:11:24Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "f391fb15cfda9bac30f3599e7c25a46cb66eead5",
+      "date": "2013-03-24T14:31:07Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "350d308ec095b175fe2f9d46816ebfecc6528867",
+      "date": "2013-03-23T15:50:46Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "fe9029f7db4a42ff8111a602844eee7291966dc4",
+      "date": "2013-02-09T05:51:18Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13320124,
+      "date": "2013-02-08T23:28:05Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13321496,
+      "date": "2013-02-08T23:55:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14271883,
+      "date": "2013-03-01T03:42:56Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14720204,
+      "date": "2013-03-11T15:37:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 14720504,
+      "date": "2013-03-11T15:42:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15339287,
+      "date": "2013-03-23T15:57:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15340999,
+      "date": "2013-03-23T17:32:19Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15341109,
+      "date": "2013-03-23T17:37:24Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15359888,
+      "date": "2013-03-24T14:36:03Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15365990,
+      "date": "2013-03-24T18:58:01Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15562152,
+      "date": "2013-03-28T00:40:03Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 15656553,
+      "date": "2013-03-29T19:25:40Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 13395337,
+      "date": "2013-02-11T18:42:25Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 14193733,
+      "date": "2013-02-27T19:28:12Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 14267299,
+      "date": "2013-03-01T00:47:04Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 14313034,
+      "date": "2013-03-01T21:41:57Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 15219858,
+      "date": "2013-03-21T05:07:24Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 15243975,
+      "date": "2013-03-21T15:08:10Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 15262312,
+      "date": "2013-03-21T20:08:55Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 15262376,
+      "date": "2013-03-21T20:10:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 15409182,
+      "date": "2013-03-25T17:49:31Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 16026322,
+      "date": "2013-04-07T22:59:12Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 16892762,
+      "date": "2013-04-23T23:14:35Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 54,
+      "date": "2013-03-27T01:48:25Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 53,
+      "date": "2013-03-23T19:12:25Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 52,
+      "date": "2013-03-23T15:55:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 46,
+      "date": "2013-02-09T05:52:08Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 45,
+      "date": "2013-02-08T22:44:21Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "pr",
+      "id": 1371,
+      "date": "2013-02-11T21:41:58Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 50,
+      "date": "2013-03-05T00:16:17Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 49,
+      "date": "2013-03-04T23:48:13Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 1492,
+      "date": "2013-03-25T00:06:14Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 1476,
+      "date": "2013-03-21T15:46:43Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 1475,
+      "date": "2013-03-21T15:27:52Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 1470,
+      "date": "2013-03-21T04:28:17Z"
+    },
+    {
+      "dev_id": "grosser",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 1369,
+      "date": "2013-02-11T17:46:23Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6534085,
+      "date": "2012-06-24T16:12:54Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6534748,
+      "date": "2012-06-24T17:28:46Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536530,
+      "date": "2012-06-24T21:28:29Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536587,
+      "date": "2012-06-24T21:36:18Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536660,
+      "date": "2012-06-24T21:47:14Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536753,
+      "date": "2012-06-24T21:59:24Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536874,
+      "date": "2012-06-24T22:14:30Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536886,
+      "date": "2012-06-24T22:16:15Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6536957,
+      "date": "2012-06-24T22:26:09Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6537779,
+      "date": "2012-06-25T00:27:50Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6537841,
+      "date": "2012-06-25T00:37:33Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6545497,
+      "date": "2012-06-25T11:59:43Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 6550647,
+      "date": "2012-06-25T15:34:48Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7403835,
+      "date": "2012-07-31T16:32:06Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8276933,
+      "date": "2012-09-04T20:10:12Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8282452,
+      "date": "2012-09-04T23:18:05Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8827183,
+      "date": "2012-09-24T17:33:29Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8833966,
+      "date": "2012-09-24T20:44:25Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8857136,
+      "date": "2012-09-25T14:55:30Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8863093,
+      "date": "2012-09-25T17:38:47Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8932932,
+      "date": "2012-09-27T11:11:37Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8933426,
+      "date": "2012-09-27T11:38:55Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8933558,
+      "date": "2012-09-27T11:46:01Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 8933984,
+      "date": "2012-09-27T12:07:13Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9020451,
+      "date": "2012-10-01T02:07:49Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9071286,
+      "date": "2012-10-02T13:49:14Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9905659,
+      "date": "2012-10-30T13:35:31Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 9909728,
+      "date": "2012-10-30T15:25:09Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10458351,
+      "date": "2012-11-16T19:15:41Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10462063,
+      "date": "2012-11-16T21:04:01Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10462210,
+      "date": "2012-11-16T21:08:59Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10488200,
+      "date": "2012-11-18T17:02:17Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10623381,
+      "date": "2012-11-22T04:21:38Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10847980,
+      "date": "2012-11-29T13:59:43Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10933774,
+      "date": "2012-12-02T19:28:45Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10933785,
+      "date": "2012-12-02T19:29:52Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10933804,
+      "date": "2012-12-02T19:31:04Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10965902,
+      "date": "2012-12-03T18:52:35Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 10968056,
+      "date": "2012-12-03T19:41:11Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 13304643,
+      "date": "2013-02-08T18:40:58Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 13407552,
+      "date": "2013-02-11T22:36:40Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 15918251,
+      "date": "2013-04-04T19:26:08Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 16110633,
+      "date": "2013-04-09T12:54:58Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 23196888,
+      "date": "2013-08-23T23:11:15Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 23208726,
+      "date": "2013-08-24T13:27:19Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 75632393,
+      "date": "2015-02-23T21:09:01Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 75759449,
+      "date": "2015-02-24T13:54:03Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 76459758,
+      "date": "2015-02-27T19:49:45Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 76474853,
+      "date": "2015-02-27T21:27:47Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 76476320,
+      "date": "2015-02-27T21:36:44Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 76476996,
+      "date": "2015-02-27T21:40:45Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 76481756,
+      "date": "2015-02-27T22:10:30Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 76503812,
+      "date": "2015-02-28T01:55:40Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 40,
+      "date": "2012-12-02T19:27:11Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 33,
+      "date": "2012-09-04T18:47:21Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 41,
+      "date": "2012-12-03T18:50:48Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 34,
+      "date": "2012-09-28T20:04:08Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 23,
+      "date": "2012-06-24T15:53:24Z"
+    },
+    {
+      "dev_id": "leifmadsen",
+      "repo": "mitchellh/vagrant",
+      "type": "issue",
+      "id": 5404,
+      "date": "2015-02-27T19:12:27Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "ace7729a6a9e31d69d04571ecfba464e6df52308",
+      "date": "2012-08-20T00:40:54Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "300ad1e1c30443be5862ef9aa45e1b686a3571bf",
+      "date": "2012-08-19T12:10:36Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "commit",
+      "id": "b16c0cedecab2ed42bf24a71ac6c8558835474b4",
+      "date": "2012-08-19T02:52:05Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7852704,
+      "date": "2012-08-19T12:11:59Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7858590,
+      "date": "2012-08-20T00:42:00Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "com",
+      "id": 7952306,
+      "date": "2012-08-22T21:18:05Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "mitchellh/vagrant",
+      "type": "com",
+      "id": 17961233,
+      "date": "2013-05-15T19:40:47Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "pr",
+      "id": 30,
+      "date": "2012-08-19T02:57:03Z"
+    },
+    {
+      "dev_id": "matschaffer",
+      "repo": "chef/minitest-chef-handler",
+      "type": "issue",
+      "id": 29,
+      "date": "2012-08-16T03:43:14Z"
+    }
+  ]
+}

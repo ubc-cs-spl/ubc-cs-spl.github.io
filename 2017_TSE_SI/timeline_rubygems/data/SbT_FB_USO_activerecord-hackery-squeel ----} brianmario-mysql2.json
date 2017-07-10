@@ -1,0 +1,2583 @@
+{
+  "user_repo": "activerecord-hackery/squeel",
+  "dep_repo": "brianmario/mysql2",
+  "dep_date": "2014-07-18 06:32:23 UTC",
+  "dep_commit_id": "321aed15986fe10256ce599bb9667f90c99659bd",
+  "social_date": "2011-03-03 10:50:52 UTC",
+  "devs": [
+    "tamird",
+    "tenderlove",
+    "simi"
+  ],
+  "interactions": [
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "f53dfcf298d5c7058fb196dd1ba503ca44db4d92",
+      "date": "2015-09-10T17:54:32Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "83d36e24d260acd13f0071db9b0bef071ecb5684",
+      "date": "2015-09-10T01:27:07Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "110d05c706c28f4495716fda5e937d0a49d04b7d",
+      "date": "2015-06-08T00:59:06Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "76dde0e4489d96dc505963b12157e416eaead4a0",
+      "date": "2015-06-10T10:32:48Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "18820d113ef95812b91b0c2069d1a54670920f85",
+      "date": "2015-06-09T15:50:11Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ac93121200760a42eb3085c0e50ef12441c2bc97",
+      "date": "2015-08-07T15:09:23Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "dfc63952604a6ff0dae54d07bab25e78a40b8f17",
+      "date": "2015-06-07T22:33:52Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "3a531112846449c7a059550c439e9330f0e854a1",
+      "date": "2015-06-07T22:28:26Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "3b5b01eeb7f58fb960c28508bb2f5bf40ff66d29",
+      "date": "2015-03-13T03:41:08Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "5b1d0952b5c42a320203961f9d76470415557cca",
+      "date": "2015-03-13T01:29:10Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "a253352b26f07d9926bfd35aada5e8cec73aeb33",
+      "date": "2015-03-13T01:11:57Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "0f56af3e619626716078a56e97479c383e47f3dd",
+      "date": "2015-03-13T01:02:30Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "97ea80d7f4f5b15274ba20526bc159c04d7d0b77",
+      "date": "2015-03-13T00:48:44Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "8f9eec4183d796246648c72f64578ae55829a409",
+      "date": "2015-03-13T00:38:07Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "bb44a011fcdc4da3401b1380bd8d22f07fc9212a",
+      "date": "2015-03-13T00:36:22Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "c5b8a1698d209982711e669a63ec3f833f73e58a",
+      "date": "2015-03-13T00:30:11Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "8c90c4c552a1f2c5a9232004fe1083c6063e9494",
+      "date": "2015-03-13T00:03:48Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "1520b2b8b8b7ba544639e2d56f6662efda16fcb7",
+      "date": "2015-06-11T18:42:04Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "5196160b1d2ed85e626166530135a8fa6a7600f7",
+      "date": "2015-06-07T23:57:44Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "cc4c63daa80e0edd7ec77aef73c06ad39748d352",
+      "date": "2015-09-06T17:39:35Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "a98b7bbfa594730e1c53c0a0591b0fada494fafa",
+      "date": "2015-06-10T14:04:29Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "5067cf0067e5681f8cb75dcecdb663f835057376",
+      "date": "2015-06-11T00:40:16Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "7dffe55058d5a0ef31db0a351bdb125744bae6ec",
+      "date": "2015-06-05T22:59:38Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "d55d27fe8e2e83c06a0296586a6c812676610be5",
+      "date": "2015-06-05T22:58:21Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "77e9e3fe038f068776acdede57d1eaf1351c30bb",
+      "date": "2015-06-05T22:55:39Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "cc3797e789228a7f988e55690fbc0c0cdc068d63",
+      "date": "2015-06-01T23:13:01Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "af040c98d7fe00ac8a5cebfba00c1f4343e34fbb",
+      "date": "2015-06-01T23:12:50Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "d5c3f662878657164272f63ec656ed1101c1e796",
+      "date": "2015-04-18T18:22:14Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "46a818788a6681b9e774422e8907d9e7576b39a8",
+      "date": "2015-04-17T18:11:27Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "3c611f99dafafa8ffe38ea8eb65010c81f5cdab0",
+      "date": "2015-04-17T17:41:56Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "85184794315cc52106b109e9c33b3a69d435ac30",
+      "date": "2015-04-17T17:41:43Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "9478363193f994459110d0df4f56e584e68c0d4a",
+      "date": "2015-04-16T17:36:26Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "f59afea65fc6397c8cc2b4f72778e0ecaf1c07e7",
+      "date": "2015-03-12T23:51:28Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "7c084cc0c8190e963beebcbd2f5dd719768d6140",
+      "date": "2015-03-12T23:14:23Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "c7725e62ff3df15ea4db4655a0e0c6806ec262ca",
+      "date": "2015-03-12T23:13:51Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "a94eac1a3822cb118187ba60d2e111c0a1777b93",
+      "date": "2015-03-12T21:33:24Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ae4a5913a10475e4d92a480755d177955bb0c238",
+      "date": "2015-03-12T21:14:17Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "66323797f8e9a6e261d2b9dfb544f0be9585e7a5",
+      "date": "2015-03-12T21:02:00Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "f9f2fb199c2bfabe19e0f8e8e8e08c0c2b76c2a4",
+      "date": "2015-03-12T19:32:24Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "7d7b6e8ea8d16c5715c96866449e972c5cce7a63",
+      "date": "2015-03-12T15:43:53Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "d78ed02ccfdd939eac7437be2b718af2cd5f2c38",
+      "date": "2015-03-12T17:46:31Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "920f229f028082c591453c0dcddfca4fa9a04be5",
+      "date": "2015-03-12T17:41:21Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ded3cc7ecb41c69818781791981f310c7943e419",
+      "date": "2015-03-12T17:41:11Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "600eea5eb021fa3739beea9ffe459628f61c2017",
+      "date": "2015-03-12T17:38:33Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "acabc42ea43ce5d4679d80a69bdfa2b61127ba2c",
+      "date": "2015-03-12T17:11:16Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "e95ed0e468e8ff4909e292a045001ff78ad43ff9",
+      "date": "2015-03-12T17:03:29Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "fdfb24e072fb861a9fe24a4c7e896676a8aa4289",
+      "date": "2015-03-12T17:02:11Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "df16fde2cd2c9ffcf96e83d64fcb94c2bc299263",
+      "date": "2015-03-12T16:57:45Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "13e5d59f0124cb57e030552bddcd69df5d32f3ff",
+      "date": "2015-03-12T15:51:13Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "92ac2608bdb832241933b7a8d7866f2cba33a253",
+      "date": "2015-03-12T15:51:30Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "90c7ce91ff2aa7027ccc14d798e1fb30f01571bd",
+      "date": "2015-03-12T03:11:53Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "3184108a9dc86d6b284304418408c8496ade7ad7",
+      "date": "2015-03-12T03:06:44Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "e5b05a9e09bfb4e6db0d27f552e1ac7d6dd44e73",
+      "date": "2015-03-12T02:53:09Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "c118d26f6a3ee3208154d2b379d5a1e0a6f3174f",
+      "date": "2015-03-12T02:47:35Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "52a6d2dc0b0e6518a7787c7044f3b66255dc662b",
+      "date": "2015-03-12T02:33:26Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "37da305212c756ed8d602897106cf74f3221075b",
+      "date": "2015-03-13T19:07:49Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "683fa560effaa8cc2faa564d983010367ecb0dbd",
+      "date": "2015-03-13T17:59:55Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "538ea5bbc4b8097e65df7b808b5afaa903536c93",
+      "date": "2015-03-11T06:10:23Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "activerecord-hackery/squeel",
+      "type": "com",
+      "id": 50428822,
+      "date": "2014-07-29T02:50:28Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 30815622,
+      "date": "2013-12-18T04:26:57Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 30886752,
+      "date": "2013-12-18T22:17:46Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 30892995,
+      "date": "2013-12-18T23:46:45Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 34674305,
+      "date": "2014-02-10T19:50:29Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55010835,
+      "date": "2014-09-09T18:10:43Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55013004,
+      "date": "2014-09-09T18:30:25Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55015997,
+      "date": "2014-09-09T18:54:30Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 77990397,
+      "date": "2015-03-10T03:34:46Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 78407196,
+      "date": "2015-03-12T01:19:42Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 78411969,
+      "date": "2015-03-12T02:14:34Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 78414199,
+      "date": "2015-03-12T02:42:11Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 78575735,
+      "date": "2015-03-12T19:14:18Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 78775423,
+      "date": "2015-03-13T03:32:04Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 79088229,
+      "date": "2015-03-13T16:13:57Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 79245676,
+      "date": "2015-03-13T18:51:05Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 79937205,
+      "date": "2015-03-14T05:40:40Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 83025055,
+      "date": "2015-03-18T15:39:50Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 86591194,
+      "date": "2015-03-26T16:01:27Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 86993916,
+      "date": "2015-03-27T16:20:49Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 87046468,
+      "date": "2015-03-27T18:34:59Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 89009604,
+      "date": "2015-04-02T18:58:58Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 93548551,
+      "date": "2015-04-15T19:55:40Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 93775866,
+      "date": "2015-04-16T16:17:43Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 93839203,
+      "date": "2015-04-16T21:04:15Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 94047481,
+      "date": "2015-04-17T18:35:30Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 95049681,
+      "date": "2015-04-22T06:41:34Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 100235275,
+      "date": "2015-05-08T13:32:16Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 100710566,
+      "date": "2015-05-10T22:36:59Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 107749937,
+      "date": "2015-06-02T00:02:20Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 107750393,
+      "date": "2015-06-02T00:07:14Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 108137308,
+      "date": "2015-06-03T00:13:15Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 109303228,
+      "date": "2015-06-05T14:02:51Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 109306612,
+      "date": "2015-06-05T14:15:58Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 109356761,
+      "date": "2015-06-05T16:37:42Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 109826814,
+      "date": "2015-06-08T02:02:40Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110181021,
+      "date": "2015-06-09T00:31:53Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110383944,
+      "date": "2015-06-09T14:38:44Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110391916,
+      "date": "2015-06-09T14:54:21Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110410393,
+      "date": "2015-06-09T15:50:58Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110443199,
+      "date": "2015-06-09T17:40:53Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110678295,
+      "date": "2015-06-10T09:59:57Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110702542,
+      "date": "2015-06-10T11:12:21Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110763648,
+      "date": "2015-06-10T13:56:37Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110765687,
+      "date": "2015-06-10T14:01:55Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110783243,
+      "date": "2015-06-10T14:52:53Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110831191,
+      "date": "2015-06-10T16:52:32Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110846151,
+      "date": "2015-06-10T17:34:55Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110856487,
+      "date": "2015-06-10T18:00:38Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110864688,
+      "date": "2015-06-10T18:28:31Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110864932,
+      "date": "2015-06-10T18:29:44Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110907583,
+      "date": "2015-06-10T20:46:51Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110917143,
+      "date": "2015-06-10T21:16:31Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110919909,
+      "date": "2015-06-10T21:25:25Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110921180,
+      "date": "2015-06-10T21:32:44Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110927297,
+      "date": "2015-06-10T21:53:58Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110952205,
+      "date": "2015-06-11T00:08:36Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110955484,
+      "date": "2015-06-11T00:38:51Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110956065,
+      "date": "2015-06-11T00:44:10Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110956103,
+      "date": "2015-06-11T00:44:35Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110958467,
+      "date": "2015-06-11T00:57:29Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110960214,
+      "date": "2015-06-11T01:06:50Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 110976205,
+      "date": "2015-06-11T02:34:35Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 111220130,
+      "date": "2015-06-11T17:46:57Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 111221186,
+      "date": "2015-06-11T17:49:27Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 111314556,
+      "date": "2015-06-12T00:33:36Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 111315616,
+      "date": "2015-06-12T00:44:59Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 112039739,
+      "date": "2015-06-15T12:13:05Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 121208003,
+      "date": "2015-07-14T11:27:52Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 128741791,
+      "date": "2015-08-07T15:46:15Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 128742128,
+      "date": "2015-08-07T15:47:10Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 128837328,
+      "date": "2015-08-07T21:26:49Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 138100793,
+      "date": "2015-09-06T17:12:17Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 138102678,
+      "date": "2015-09-06T17:28:18Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 138403018,
+      "date": "2015-09-08T01:29:43Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139043737,
+      "date": "2015-09-09T20:57:36Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139044193,
+      "date": "2015-09-09T20:59:42Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139048229,
+      "date": "2015-09-09T21:15:12Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139058697,
+      "date": "2015-09-09T22:04:02Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139075473,
+      "date": "2015-09-09T23:53:02Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139317129,
+      "date": "2015-09-10T17:24:16Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139331364,
+      "date": "2015-09-10T18:12:34Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139354210,
+      "date": "2015-09-10T19:29:23Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 139356865,
+      "date": "2015-09-10T19:39:52Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 154155765,
+      "date": "2015-11-05T19:08:15Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 154166646,
+      "date": "2015-11-05T19:34:25Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 154167284,
+      "date": "2015-11-05T19:36:09Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 154182079,
+      "date": "2015-11-05T20:33:26Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 154196622,
+      "date": "2015-11-05T21:22:43Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 154200421,
+      "date": "2015-11-05T21:37:00Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "activerecord-hackery/squeel",
+      "type": "pr",
+      "id": 324,
+      "date": "2014-07-25T13:27:07Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 695,
+      "date": "2015-11-05T19:46:55Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 680,
+      "date": "2015-09-10T17:54:49Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 666,
+      "date": "2015-09-06T17:39:50Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 643,
+      "date": "2015-07-14T14:08:15Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 634,
+      "date": "2015-06-10T14:04:52Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 632,
+      "date": "2015-06-10T11:06:43Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 628,
+      "date": "2015-06-08T01:01:02Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 596,
+      "date": "2015-03-13T01:44:44Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 595,
+      "date": "2015-03-12T03:12:54Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 592,
+      "date": "2015-03-11T06:18:17Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "issue",
+      "id": 633,
+      "date": "2015-06-10T11:08:25Z"
+    },
+    {
+      "dev_id": "tamird",
+      "repo": "brianmario/mysql2",
+      "type": "issue",
+      "id": 542,
+      "date": "2014-09-09T16:37:09Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "08b01bbe51c45622b084e4971b0c0b7921bcf5ee",
+      "date": "2010-08-20T16:16:22Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "37dcae4e2db71125e9103c44c10ad2f8012753c5",
+      "date": "2010-07-09T18:10:54Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ba76e6e6146615300030125d6a5725625064da35",
+      "date": "2010-07-09T17:46:47Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "a7011b5357677234b95efdf8f56b2e56e544791f",
+      "date": "2010-07-09T17:18:39Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ca0a61e57f956671443d25bc81fdec0e53054675",
+      "date": "2010-07-09T17:18:39Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "4506eab9a64d4c7c689c03d83bbca9b89ee26838",
+      "date": "2010-07-09T17:18:17Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ba4848229fdb24dd90291c85e3824e156cf8035e",
+      "date": "2010-07-08T23:09:21Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "7fb34d99b2353906b9e87c84e48219db01fcd1db",
+      "date": "2010-07-08T23:05:50Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "2f44199182d8fa2bb5ddb32d870abf75767d1dc3",
+      "date": "2010-07-08T22:55:16Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "1290aa226ee8365814b94564e0979436a6b5216d",
+      "date": "2010-07-07T16:47:41Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "bd421d36007c01bfa9701045278a67701f4250e7",
+      "date": "2012-12-06T00:44:17Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "cd443a94ecab37fb72bc9b9bf9f6f7537d03b838",
+      "date": "2012-03-29T20:19:14Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "a917c6a025a774b38d9487d14e3f449f7598924b",
+      "date": "2012-03-28T23:12:07Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "385ff10e06934aeda297e4e5ef7689b30d65eef2",
+      "date": "2012-03-28T19:03:53Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "443b7cb563ffcfbd621235a244afffd4e067e4d9",
+      "date": "2012-03-28T18:20:06Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "e598e0e6d86512e183e6e754647f5aa2f518287e",
+      "date": "2012-03-28T03:22:31Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "4c234978c8c2cd32edf109a9e553eadc9757761d",
+      "date": "2012-03-28T01:02:25Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "00fc49b9c247a1fef079bea1570b5767b1803e4c",
+      "date": "2011-08-16T22:42:24Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "9f2163e9aa2b63c01ba56569d40598837f2b0ec7",
+      "date": "2011-02-02T18:17:31Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "84dc998a3be87d02b0bfe0079a7320b4016d238d",
+      "date": "2010-09-18T20:36:39Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "c5f2eb7f3fcd6ff704aa041b8eb69700ab7cdb9f",
+      "date": "2010-08-20T17:14:49Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ce778998484641b5b14b7dc16828ea0f93dac9a6",
+      "date": "2010-08-20T16:56:36Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "864cf0f29140679cfdb04d1f3ed755e608a6fe99",
+      "date": "2010-08-20T16:36:15Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "a265d3657188c2a10e93e523ce43bc491d91d079",
+      "date": "2010-07-06T22:41:44Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "c38525d11a9740fc3403cb964f6a3d46236ded79",
+      "date": "2010-07-06T21:21:58Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "a6b1247ede17fb680e49e47530f49894a069d481",
+      "date": "2010-07-06T20:16:49Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "f836d0cf6834ad376419a8ff27c82a420234a1b8",
+      "date": "2010-07-05T02:36:06Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "74e99bae5f3fb19fa84ccd2821a481569d40aa36",
+      "date": "2010-07-05T02:29:12Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "e7b43a8c419b58695a4a8e2793615858802a942f",
+      "date": "2010-07-02T16:58:46Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "ff55ef5c87423c8b54172a46276e2031930aaf34",
+      "date": "2010-07-01T17:01:19Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "8c96aa1fcd340e161331d4ce348c9e758fdea104",
+      "date": "2010-06-30T20:12:47Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "6ef738200de042ba4b7dc80a47eb20e349f41cac",
+      "date": "2010-06-30T17:10:59Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "925b1b13fd5efdcc5cc7c9bb6782497f66d58bdc",
+      "date": "2010-06-30T17:04:40Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "0b36eae450fee18d28ce6fd66b2c3d90112999cc",
+      "date": "2010-06-30T16:36:42Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "3468f12a83ecbe6478371752bb43aa234ab7d619",
+      "date": "2010-06-30T00:51:27Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "04b9fe17cc0aa7864f9e75f172eb4779cf7f6e4d",
+      "date": "2010-06-30T00:06:39Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "activerecord-hackery/squeel",
+      "type": "com",
+      "id": 1512716,
+      "date": "2011-07-06T15:45:38Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "activerecord-hackery/squeel",
+      "type": "com",
+      "id": 1514144,
+      "date": "2011-07-06T18:38:07Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "activerecord-hackery/squeel",
+      "type": "com",
+      "id": 1984333,
+      "date": "2011-09-02T23:12:30Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "activerecord-hackery/squeel",
+      "type": "com",
+      "id": 1984435,
+      "date": "2011-09-02T23:34:47Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "activerecord-hackery/squeel",
+      "type": "com",
+      "id": 1984630,
+      "date": "2011-09-03T00:17:55Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "activerecord-hackery/squeel",
+      "type": "com",
+      "id": 5271538,
+      "date": "2012-04-22T21:49:22Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 1070471,
+      "date": "2011-04-28T15:44:00Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 1270614,
+      "date": "2011-05-31T22:08:31Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 1270696,
+      "date": "2011-05-31T22:20:18Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 1270851,
+      "date": "2011-05-31T22:40:35Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 1272048,
+      "date": "2011-06-01T04:19:06Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 1275210,
+      "date": "2011-06-01T15:51:45Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4744906,
+      "date": "2012-03-28T00:11:04Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4745075,
+      "date": "2012-03-28T00:12:53Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4746424,
+      "date": "2012-03-28T00:28:30Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4746531,
+      "date": "2012-03-28T00:31:29Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4746680,
+      "date": "2012-03-28T00:44:19Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4746906,
+      "date": "2012-03-28T01:04:02Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4746926,
+      "date": "2012-03-28T01:05:28Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4746951,
+      "date": "2012-03-28T01:08:30Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4746968,
+      "date": "2012-03-28T01:10:41Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4747628,
+      "date": "2012-03-28T02:22:44Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4747878,
+      "date": "2012-03-28T02:51:44Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4748101,
+      "date": "2012-03-28T03:22:58Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4748137,
+      "date": "2012-03-28T03:27:47Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4748172,
+      "date": "2012-03-28T03:31:23Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4773610,
+      "date": "2012-03-28T17:29:50Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4775008,
+      "date": "2012-03-28T17:48:57Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4775087,
+      "date": "2012-03-28T17:50:05Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4775491,
+      "date": "2012-03-28T17:55:29Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4776155,
+      "date": "2012-03-28T18:04:51Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4776514,
+      "date": "2012-03-28T18:09:49Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4776771,
+      "date": "2012-03-28T18:13:04Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4776944,
+      "date": "2012-03-28T18:15:11Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4777498,
+      "date": "2012-03-28T18:23:05Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4777607,
+      "date": "2012-03-28T18:24:33Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4778073,
+      "date": "2012-03-28T18:31:41Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4778695,
+      "date": "2012-03-28T18:40:35Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4778842,
+      "date": "2012-03-28T18:42:27Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4779149,
+      "date": "2012-03-28T18:46:26Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4779308,
+      "date": "2012-03-28T18:48:39Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4780319,
+      "date": "2012-03-28T19:04:29Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4785465,
+      "date": "2012-03-28T20:17:57Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4788795,
+      "date": "2012-03-28T21:05:37Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4789175,
+      "date": "2012-03-28T21:09:23Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4793682,
+      "date": "2012-03-28T23:15:58Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4825947,
+      "date": "2012-03-29T17:03:56Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4829973,
+      "date": "2012-03-29T20:12:11Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4830183,
+      "date": "2012-03-29T20:22:15Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4830320,
+      "date": "2012-03-29T20:28:12Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4830375,
+      "date": "2012-03-29T20:31:12Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4830648,
+      "date": "2012-03-29T20:41:45Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4830884,
+      "date": "2012-03-29T20:53:21Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4939512,
+      "date": "2012-04-03T23:03:58Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 4959129,
+      "date": "2012-04-04T17:51:51Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 7311656,
+      "date": "2012-07-27T17:51:00Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 7313188,
+      "date": "2012-07-27T18:50:14Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 7463075,
+      "date": "2012-08-02T17:58:16Z"
+    },
+    {
+      "dev_id": "tenderlove",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 29561832,
+      "date": "2013-11-30T21:49:04Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "activerecord-hackery/squeel",
+      "type": "commit",
+      "id": "1fc56a7a339a4aeed8e0acc14f5992ef95c359cc",
+      "date": "2013-07-19T13:10:40Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "activerecord-hackery/squeel",
+      "type": "commit",
+      "id": "0f89751e8cfd8c5007e648b4002adb4d94817c32",
+      "date": "2013-07-14T22:01:24Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "05c7875b854119ea8e905180e2a8f4e6fd2b818f",
+      "date": "2014-10-15T18:02:05Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "62c8c68761f08e3032a3564becbe835a64c749f5",
+      "date": "2014-02-23T07:30:59Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "30a6f94f1500465d67801b43d3414a3c35539fdc",
+      "date": "2013-11-05T16:46:53Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "cd1d5edb679ac60cd791c2f719bcec51db04f54d",
+      "date": "2013-07-29T17:37:34Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "c998b1d56a0214c52dd2f1a8314bc7de248bc273",
+      "date": "2013-07-25T01:19:41Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "89c3baebeba22dbe9597b344cc98ab65aac99562",
+      "date": "2013-07-17T13:16:22Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "b9e30bc0863b3399d63447675010489cf1fe37a9",
+      "date": "2013-07-16T10:49:52Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "commit",
+      "id": "be16e0c8f7d5d7ffe8dbfbc92b5af3da01fe553e",
+      "date": "2013-07-16T08:48:57Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 829743,
+      "date": "2011-03-03T10:55:44Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 829753,
+      "date": "2011-03-03T10:59:11Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 829984,
+      "date": "2011-03-03T12:23:03Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 830059,
+      "date": "2011-03-03T12:53:56Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 830091,
+      "date": "2011-03-03T13:04:04Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21087125,
+      "date": "2013-07-17T01:45:34Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21087169,
+      "date": "2013-07-17T01:46:47Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21146661,
+      "date": "2013-07-17T21:33:16Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21146778,
+      "date": "2013-07-17T21:35:02Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21524956,
+      "date": "2013-07-24T23:55:44Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21546983,
+      "date": "2013-07-25T11:05:50Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21547257,
+      "date": "2013-07-25T11:12:46Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21575069,
+      "date": "2013-07-25T18:37:20Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21618059,
+      "date": "2013-07-26T12:40:39Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21737004,
+      "date": "2013-07-29T17:38:36Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 21784974,
+      "date": "2013-07-30T11:38:40Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 22044546,
+      "date": "2013-08-03T00:09:04Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 22073160,
+      "date": "2013-08-04T15:09:38Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 22324281,
+      "date": "2013-08-08T13:45:19Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 22408839,
+      "date": "2013-08-09T17:04:22Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 22413625,
+      "date": "2013-08-09T18:18:14Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 25569862,
+      "date": "2013-10-02T19:37:02Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 25570739,
+      "date": "2013-10-02T19:47:39Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 25797669,
+      "date": "2013-10-07T10:16:43Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 26533521,
+      "date": "2013-10-17T18:14:29Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 26593881,
+      "date": "2013-10-18T13:07:30Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27191833,
+      "date": "2013-10-28T06:37:21Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27200225,
+      "date": "2013-10-28T10:11:58Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27792733,
+      "date": "2013-11-05T17:17:17Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27888529,
+      "date": "2013-11-06T16:30:27Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27925946,
+      "date": "2013-11-06T23:50:32Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27926129,
+      "date": "2013-11-06T23:53:25Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27926474,
+      "date": "2013-11-06T23:59:09Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27926696,
+      "date": "2013-11-07T00:02:52Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 27942399,
+      "date": "2013-11-07T07:15:49Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 28002526,
+      "date": "2013-11-07T20:20:57Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 28666343,
+      "date": "2013-11-17T22:39:56Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 28666743,
+      "date": "2013-11-17T22:55:21Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 28667402,
+      "date": "2013-11-17T23:21:28Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 28667860,
+      "date": "2013-11-17T23:43:29Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 28677610,
+      "date": "2013-11-18T06:19:38Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 29155775,
+      "date": "2013-11-24T13:55:18Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 29570076,
+      "date": "2013-12-01T09:19:32Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 30879436,
+      "date": "2013-12-18T20:50:48Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 30894787,
+      "date": "2013-12-19T00:18:01Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 34062566,
+      "date": "2014-02-04T14:15:41Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 35827326,
+      "date": "2014-02-23T09:13:29Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 35829701,
+      "date": "2014-02-23T11:42:58Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 35830172,
+      "date": "2014-02-23T12:08:21Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 38616425,
+      "date": "2014-03-25T20:29:56Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 38618613,
+      "date": "2014-03-25T20:48:54Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 38623227,
+      "date": "2014-03-25T21:28:45Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 38643215,
+      "date": "2014-03-26T02:08:38Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 38649605,
+      "date": "2014-03-26T04:45:30Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 39559268,
+      "date": "2014-04-04T12:26:51Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 39696583,
+      "date": "2014-04-07T05:08:29Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 39858340,
+      "date": "2014-04-08T14:59:42Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 41193305,
+      "date": "2014-04-23T17:55:15Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 42005239,
+      "date": "2014-05-02T08:54:23Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 44847011,
+      "date": "2014-06-02T14:54:45Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 49190060,
+      "date": "2014-07-16T16:18:45Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 49192197,
+      "date": "2014-07-16T16:34:48Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 50702519,
+      "date": "2014-07-31T01:23:49Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55522623,
+      "date": "2014-09-14T11:21:24Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55523539,
+      "date": "2014-09-14T12:06:35Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55525712,
+      "date": "2014-09-14T13:35:29Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55527048,
+      "date": "2014-09-14T14:21:18Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55527842,
+      "date": "2014-09-14T14:47:53Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 55535813,
+      "date": "2014-09-14T19:08:44Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 58094910,
+      "date": "2014-10-06T20:45:52Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 58892545,
+      "date": "2014-10-13T13:35:36Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 59252633,
+      "date": "2014-10-15T18:29:25Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 59296021,
+      "date": "2014-10-16T00:03:27Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 59297222,
+      "date": "2014-10-16T00:19:46Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 59330283,
+      "date": "2014-10-16T08:35:31Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 60374807,
+      "date": "2014-10-24T11:25:13Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 61246460,
+      "date": "2014-10-31T11:10:53Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 61528951,
+      "date": "2014-11-03T19:00:30Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 62255077,
+      "date": "2014-11-08T11:47:51Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 62308339,
+      "date": "2014-11-09T16:09:23Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 63026050,
+      "date": "2014-11-14T08:54:09Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 64317320,
+      "date": "2014-11-25T06:48:08Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 68204856,
+      "date": "2014-12-28T11:39:06Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 68212403,
+      "date": "2014-12-28T16:53:21Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 69225225,
+      "date": "2015-01-08T18:31:03Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 69452154,
+      "date": "2015-01-10T11:07:48Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 69454815,
+      "date": "2015-01-10T12:53:53Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 69454938,
+      "date": "2015-01-10T12:59:13Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 69455020,
+      "date": "2015-01-10T13:02:41Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "com",
+      "id": 95523225,
+      "date": "2015-04-23T10:06:30Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "activerecord-hackery/squeel",
+      "type": "pr",
+      "id": 258,
+      "date": "2013-07-19T13:10:48Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "activerecord-hackery/squeel",
+      "type": "pr",
+      "id": 253,
+      "date": "2013-07-14T22:01:35Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 550,
+      "date": "2014-10-15T23:56:46Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 492,
+      "date": "2014-02-23T07:31:06Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 465,
+      "date": "2013-12-19T00:13:48Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 438,
+      "date": "2013-11-05T17:14:03Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 410,
+      "date": "2013-07-25T01:23:56Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 401,
+      "date": "2013-07-17T13:23:45Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 400,
+      "date": "2013-07-16T10:51:24Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "pr",
+      "id": 399,
+      "date": "2013-07-16T08:56:22Z"
+    },
+    {
+      "dev_id": "simi",
+      "repo": "brianmario/mysql2",
+      "type": "issue",
+      "id": 131,
+      "date": "2011-03-03T10:50:52Z"
+    }
+  ]
+}

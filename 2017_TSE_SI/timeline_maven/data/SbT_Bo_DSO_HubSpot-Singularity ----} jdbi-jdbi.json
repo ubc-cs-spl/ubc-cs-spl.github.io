@@ -1,0 +1,4346 @@
+{
+  "user_repo": "HubSpot/Singularity",
+  "dep_repo": "jdbi/jdbi",
+  "dep_date": "2014-09-12 22:37:00 UTC",
+  "dep_commit_id": "f9b5b6c8f8bf82be56c40e595ff5f2fb6523df5c",
+  "social_date": "2014-08-22 17:19:29 UTC",
+  "devs": [
+    "stevenschlansker",
+    "hgschmie"
+  ],
+  "interactions": [
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "3868da9189bb05e259de0d9b272d737ea797360e",
+      "date": "2015-04-08T21:42:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d12c2fcba6a40285a1ac88560e1dcae22a5cf014",
+      "date": "2015-01-15T19:12:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "39819423350986396d3e94d1e2830c125a1e021c",
+      "date": "2014-12-23T22:44:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d56e7a07148aa482b1ba3027e00fcca34e64f74c",
+      "date": "2014-12-23T22:23:21Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "ee3a73d1cc5daf9ff1be4e849bb41a6f341a468f",
+      "date": "2014-12-23T18:48:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "916d3e4b09b96b43485fb8132949498e322beca7",
+      "date": "2014-12-10T21:59:25Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "077e6d44cbe91e60129ce602f6e1f99df7f9e49e",
+      "date": "2014-12-05T22:29:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "734563539ebe6432ef86cc905995f7d28219034d",
+      "date": "2014-12-05T22:26:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "32abb6b10722ee4608e7cef65522f06c003d1a68",
+      "date": "2014-12-05T21:49:54Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "2ae899d3eb30c327d6d29f3fcce71cd47370905b",
+      "date": "2014-12-09T00:30:04Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "ec3e5fd9c5044ee3d910b56ffc6dae5de3a79314",
+      "date": "2014-12-08T18:28:37Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "eff6b23973a137be3603af231041c84ffaecd3b4",
+      "date": "2014-11-18T21:19:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "19232d492d1906ac83eddaf6fc9a2153d032241f",
+      "date": "2014-10-27T23:32:31Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d29a779cf72e17a228ee68b7defbd4d3f9ec4843",
+      "date": "2014-10-23T22:59:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "6096ed0ade5163d3f85433903b2a1b4d1d760d31",
+      "date": "2014-10-23T18:38:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "1543d7852e9d21e3fdc300f2963e00f464dbb7b8",
+      "date": "2014-10-17T18:56:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "6a9f446ffaaf507424f2915af7a5ba8b615e0150",
+      "date": "2014-10-17T17:39:07Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "38ae99a11595e922f84ec9488340614bbe51ed0f",
+      "date": "2014-10-16T17:50:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "c8960ba3a451488abe65d61c3b0b64af6585f6b3",
+      "date": "2014-10-15T23:15:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "b62d04b9d783307e63ef022a8552d30a538e1a9e",
+      "date": "2014-10-15T22:40:39Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "281af285532cd9a6bcfa2d864a04119e6498b2a1",
+      "date": "2014-10-15T22:40:20Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "34c30deefd3b406d035d33d36d32cd6976055837",
+      "date": "2014-10-15T22:05:23Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "6e177e82319328011c820116aa115b3275794e6e",
+      "date": "2014-10-15T21:28:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "e8d0bcce3031fd3c8a4df57ee4a53cc04fd5adcb",
+      "date": "2014-10-15T21:03:29Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "1331d684efc5ea72e5b0e1773ae2e107957ebe19",
+      "date": "2014-10-15T21:03:29Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d3150c62b3b35fe671fa11f6dd403bf071454303",
+      "date": "2014-09-09T21:47:03Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "e903534bd726112f6131574b74173b8703a673e7",
+      "date": "2014-09-09T21:12:19Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "8b20c1fc926048ebc1965e36377362073cadabcd",
+      "date": "2014-09-05T20:15:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "c992d216ac3336149f42c97c6ef2f45fdca26efe",
+      "date": "2014-09-09T21:09:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "e3a48138a76cdca1eddf96ed2ccd0c057fda01af",
+      "date": "2014-09-04T22:15:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "fcef8e9304d3a062f3aa390a12ff584e5d4ad0a4",
+      "date": "2014-09-12T19:21:58Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "8192172f64bc2f033ae5c199ce5bc0c7399e7b76",
+      "date": "2014-09-12T19:21:32Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "222113e10c9dfc75661083127786d9a8e53c496b",
+      "date": "2014-08-29T18:58:32Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "9ccbcae797a235ceb2d589394546e5faa75a66aa",
+      "date": "2014-08-25T22:26:21Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "78d8f1251b7a8bfabeec123f28c00539a260e46e",
+      "date": "2014-08-25T17:31:00Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "16edb366169b136bcc8438a641e759d16acf5daa",
+      "date": "2014-08-25T17:02:42Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "1d41cd52afaae189290683021ee3e7e378147516",
+      "date": "2014-08-22T20:11:45Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d8830570f39e6791e0c57df0800cd0731e59f886",
+      "date": "2014-08-22T20:11:00Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "20850609fff67c7541b2d18a3015e6ad8f3b82f7",
+      "date": "2014-08-22T20:07:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "eb8e567ad65c938b38b5f92ac8da740983b3148b",
+      "date": "2014-08-22T20:07:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "186d539870e4c3a0789f061c1f96061b22ef7889",
+      "date": "2014-08-22T19:57:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "3d003fb1eef8d835ad3f762977d8d87336cf2a8a",
+      "date": "2014-08-22T17:26:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "196804cd61ff4441d266634a5a43e95ae989d248",
+      "date": "2014-08-22T17:19:29Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "c7556dfdd86914072a33081a40ee4408749d998e",
+      "date": "2015-04-07T21:21:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "974dd6cc9c09ea11741360de34f3d947ac3be9c2",
+      "date": "2015-04-07T21:21:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "db76d5a498315bd5c039163ac0a6e47bf905889b",
+      "date": "2015-04-07T19:03:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d123cf8f082dce7e62cbcc963eea2b4e84e3f7fc",
+      "date": "2015-04-07T17:29:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "6dda493e6051548cc9f62668d563e349db490d8e",
+      "date": "2015-04-07T17:29:39Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "65abd2e6c8fd41cc574a9bd46fe1681844f88675",
+      "date": "2015-04-07T17:25:20Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "cda0974519ba05548729e2edf18117a1dc092817",
+      "date": "2015-04-06T23:18:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4ef84d96bc3fdbd3079e8c84bb2a95d872f6b59c",
+      "date": "2015-04-06T23:18:11Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "ae9c10e8bc451baa78b6296b897851fba7f18e21",
+      "date": "2015-04-06T23:12:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "55be969ac42fb820a9eb95facc9b0a92c04e04ff",
+      "date": "2015-02-24T18:47:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "b014046dfa9ae6783e68c048c0ea841828e24a78",
+      "date": "2015-02-24T18:41:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "7b8ba821cd36f267243d4148ab0a7ef6a84616e5",
+      "date": "2015-04-06T23:06:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "0a66fa1043fd1a089a9faa243788053812c6709b",
+      "date": "2015-04-06T23:05:19Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "7e035c0f66afe1d46cb66703caf450b67045e958",
+      "date": "2015-04-06T22:57:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5e2ac24f1e5bcc2f078b6d4d0b227b849200a82c",
+      "date": "2015-04-06T23:00:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "f9605849cd227bff74ee75e0bc5635aad1ff663d",
+      "date": "2015-04-02T19:00:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5a5ce8aaec36b90f0fc58d50b45e6d64bbfb955b",
+      "date": "2015-02-06T09:51:21Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "3c9d9b632859c62ecbeb462889cdbe31ddbe4408",
+      "date": "2015-02-06T09:45:33Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "1da90f4ae6f0319d5962242a6bfbf540c929a221",
+      "date": "2015-02-05T12:53:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "90b539e7cb9bb2683b031ec0845255d0618a3a00",
+      "date": "2015-02-05T12:49:42Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "de8fcce481025deb11523be523642c1bf3ef537b",
+      "date": "2013-07-15T16:03:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "92bc74cd6264087556ac385b6b13170c52830363",
+      "date": "2013-07-15T15:05:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "ae027592386200a0166ecb5e11ae8acfe549c8c4",
+      "date": "2013-07-15T14:57:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "1833a3c36464e477ea72d3df15734a551d5a7fa7",
+      "date": "2015-02-05T08:42:43Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "02c13c9512b5488e3795e7078d5af743dd721fff",
+      "date": "2015-01-26T23:40:03Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "40a7c654a1ff59de976beea5c4b2886448bf8d18",
+      "date": "2015-01-26T22:49:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d91a4e07c6dbb4c9c0979344f62974448e576462",
+      "date": "2015-01-26T22:49:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d7d6e959eb1d1e7471506641a524bd8705f22f99",
+      "date": "2015-01-26T22:44:54Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "6a0adf314e289fa19069cf047132a67392654a9e",
+      "date": "2015-01-26T22:02:59Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d95b05367173f13f202acc701e0a6593934d23e8",
+      "date": "2015-01-09T19:14:18Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4c2eeb3792005beaabfc67b2f479dc2ee1dd3d22",
+      "date": "2015-01-03T05:06:47Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "cf3a15cd015030baf2147539ab0343469447eadd",
+      "date": "2015-01-02T22:04:37Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "a446212c3aefb0b8f333a7a51bd8f2ae3254f2c4",
+      "date": "2015-01-02T22:14:24Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "3793358edaa2d01087bb43981001bbb1c57f23d9",
+      "date": "2015-01-02T21:52:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "8d8dad0e3fb9ea0e4842ff28132f5cabfa57542d",
+      "date": "2015-01-02T19:09:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "f5291e7fbdf1fdb4a2d1fc8209b4f86a9ce5d747",
+      "date": "2015-01-01T03:42:29Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "c21374fef2e46e3827b00b0210ee75c298ef4bfb",
+      "date": "2015-01-01T00:20:58Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "7be44c1938902c13d4e7622d30b93f8e2efa0523",
+      "date": "2015-01-01T00:08:37Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "6eaf0c04c4fd8a9e94b629905f237c0053aa10e1",
+      "date": "2014-12-31T21:18:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "809c8c45bb6a160648991e8136ff7e2070f97f4b",
+      "date": "2014-12-31T21:07:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "10feeeb68ad06832cbdd7e83c4bf9c3978b4f72d",
+      "date": "2014-12-31T19:12:07Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5f2a408a56bd9ecf7858b9e697464b00316a7321",
+      "date": "2014-12-31T17:56:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "1a81b35ef67aa6f38eafdac3669bdb89b7ab7c9c",
+      "date": "2014-12-31T07:16:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "dd1e5ac25043c27f29a2509d2e64221667b530f7",
+      "date": "2014-12-04T17:50:45Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5d02939a2597035c07a0916658aced29b3ba03b5",
+      "date": "2014-12-01T22:16:26Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5bf9e0e78d5e08f9ef46b0a11c606fd9d1838727",
+      "date": "2014-10-27T22:38:57Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "61690a2e5671553cf90f985c6335cfe12934a38d",
+      "date": "2014-10-23T20:17:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "8f66fd86e39446e4d3db18b97d078b4b9f98cfea",
+      "date": "2014-10-15T19:48:57Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "af2ca6faea2747058bab8362bcc540fd7f6a6253",
+      "date": "2014-10-06T18:24:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "dbaddd4ee3b177c470bb8c47b0c50c19420bd2e1",
+      "date": "2014-09-03T16:41:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "bbe5a0d0ccdb9533531b4f202a3bc0751cb836fb",
+      "date": "2014-08-12T16:27:18Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "070627d098d2cb6d4540c7a022929fcb610d03ba",
+      "date": "2014-06-09T16:51:11Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "8aa7b832593fb73dddcec18726f1d1dce4103ce2",
+      "date": "2014-05-17T23:19:13Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "ba0eaa7a1f1a5b66acf860fb22824edac6aa0616",
+      "date": "2014-05-17T23:16:06Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "be7506cf62f79cb94151e74ccd4c0feaf8a2550c",
+      "date": "2014-04-28T17:55:35Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "2524f0fce8747129e9af0e95340d7f8cd0e7447d",
+      "date": "2014-04-28T17:49:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "133f25025a12aa18a669379d4222fa595cec5ec5",
+      "date": "2014-03-03T20:02:05Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "166e4465498ecbb9b16da7968f5fd27b10a30034",
+      "date": "2014-03-03T19:50:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "1729eda36240fc459c7b59e8ee85b537e3f0bc85",
+      "date": "2014-03-03T19:49:04Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "20b3c709abd3c092d304297b25750b87578f0230",
+      "date": "2014-03-03T19:46:46Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "88d3e9b14bcbea8764bc8736cc4a0af05ac123f4",
+      "date": "2014-01-07T14:52:32Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "0a2292fe1fd1414b04748f6c7f2dcdac2630c09f",
+      "date": "2013-12-03T18:15:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "991019be79a1a61ff79c805252327396873a69fc",
+      "date": "2013-10-07T22:30:23Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "8ea57225fd13478e1cf1fa510f432464eb61b681",
+      "date": "2013-10-07T21:19:25Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "c38a36dd026619aba8a8cc22a8bc0176ceaa259b",
+      "date": "2013-10-07T21:16:47Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "838958162ae993b34734cdd50b4185eaf05e5983",
+      "date": "2013-09-27T18:12:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d138b779b5d7129b2d71e4967949c598e6d08b57",
+      "date": "2013-07-25T20:54:53Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "22b266810d052df391fda1cd7adc64cfc2fb1833",
+      "date": "2013-07-21T00:11:13Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4c85ea49f3a3b5c7b7d3b2a730a47122bbd0ddcc",
+      "date": "2013-04-05T17:44:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4674618a2bfb91ef9f4dbaeddb447715b727bf9a",
+      "date": "2013-04-05T17:41:23Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "8f0bd27aca3b27a998748137ceb756b175e1be9a",
+      "date": "2013-04-05T17:40:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "da7b0960209368f10e67e54baab640bc4f421399",
+      "date": "2013-04-05T17:39:54Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "81e508a1fea15135a2ef961ea1e18bf94940c9c2",
+      "date": "2012-12-24T18:53:32Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "cd4c82ad531a51f726675ad6a03b2ea3a62a91c6",
+      "date": "2012-11-16T22:49:28Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "abd7742b6aeac07ff69ca764c88c270a715a3dc9",
+      "date": "2012-09-21T20:13:49Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "a0ec334d5ac05d8a55c615f9f32dd23be6d752b3",
+      "date": "2012-09-21T20:07:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "3ed9dc1619726aa9f9ee8b9a8c671753df402fbc",
+      "date": "2012-07-05T17:41:50Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "9651907245adc01bdcf987e5214b20d7baa78dc6",
+      "date": "2012-07-05T18:17:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4f24798e4ea2da8677ab94d4ded0041b0456ffdf",
+      "date": "2012-07-06T20:09:19Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "35872d9545d9cb05d6ebb707ac7a070de8fe1d71",
+      "date": "2012-07-06T18:16:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "b807652b9990e8f669fa083811e597f544cacc27",
+      "date": "2012-07-03T20:37:05Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d88a22ddb956268eefdd525fd7746aeb946f33ca",
+      "date": "2012-07-03T01:06:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5d3b19722b82b872fb1590708b9e597ea749f62f",
+      "date": "2012-07-03T00:16:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "af3e0cfd504bbe3a5a1753c5e3bb5d8faa986975",
+      "date": "2012-01-19T00:29:33Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "023a14ade2d33bf8ccfa0f68294180455233ad52",
+      "date": "2012-01-18T23:27:42Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 53118933,
+      "date": "2014-08-22T20:52:18Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 53143587,
+      "date": "2014-08-23T05:42:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 53143752,
+      "date": "2014-08-23T05:52:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 53468496,
+      "date": "2014-08-26T18:36:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54555610,
+      "date": "2014-09-04T22:38:58Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54675851,
+      "date": "2014-09-05T20:16:50Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54882404,
+      "date": "2014-09-08T20:31:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54884430,
+      "date": "2014-09-08T20:46:28Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55036812,
+      "date": "2014-09-09T21:13:59Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55145760,
+      "date": "2014-09-10T16:53:21Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55171710,
+      "date": "2014-09-10T19:45:32Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55183553,
+      "date": "2014-09-10T21:10:24Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55290829,
+      "date": "2014-09-11T16:32:31Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55435373,
+      "date": "2014-09-12T17:30:47Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55435512,
+      "date": "2014-09-12T17:31:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55442668,
+      "date": "2014-09-12T18:31:17Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55626179,
+      "date": "2014-09-15T17:29:02Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55828960,
+      "date": "2014-09-16T23:26:28Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55831194,
+      "date": "2014-09-16T23:55:46Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 56071471,
+      "date": "2014-09-18T17:13:26Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 56413591,
+      "date": "2014-09-22T18:02:01Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 56416839,
+      "date": "2014-09-22T18:23:50Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57561966,
+      "date": "2014-10-02T00:22:55Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57850181,
+      "date": "2014-10-03T20:06:37Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57860860,
+      "date": "2014-10-03T21:06:06Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57863675,
+      "date": "2014-10-03T21:19:47Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57864816,
+      "date": "2014-10-03T21:25:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57866358,
+      "date": "2014-10-03T21:35:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57867455,
+      "date": "2014-10-03T21:47:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57871739,
+      "date": "2014-10-03T22:32:20Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 58050373,
+      "date": "2014-10-06T17:04:06Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 58051675,
+      "date": "2014-10-06T17:11:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 58052170,
+      "date": "2014-10-06T17:14:22Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 58098111,
+      "date": "2014-10-06T21:02:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59077036,
+      "date": "2014-10-14T16:45:47Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59077239,
+      "date": "2014-10-14T16:47:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59077305,
+      "date": "2014-10-14T16:47:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59084543,
+      "date": "2014-10-14T17:33:17Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59282149,
+      "date": "2014-10-15T21:47:37Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59283090,
+      "date": "2014-10-15T21:54:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59283378,
+      "date": "2014-10-15T21:56:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59289927,
+      "date": "2014-10-15T22:54:54Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59440980,
+      "date": "2014-10-16T22:27:26Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59545216,
+      "date": "2014-10-17T17:16:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59552997,
+      "date": "2014-10-17T18:12:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59984320,
+      "date": "2014-10-21T19:29:47Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60122237,
+      "date": "2014-10-22T17:27:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60279797,
+      "date": "2014-10-23T17:55:07Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60288100,
+      "date": "2014-10-23T18:40:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60290607,
+      "date": "2014-10-23T18:56:39Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60291081,
+      "date": "2014-10-23T18:59:46Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60291526,
+      "date": "2014-10-23T19:03:02Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60292698,
+      "date": "2014-10-23T19:11:13Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60313848,
+      "date": "2014-10-23T21:40:35Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60327765,
+      "date": "2014-10-24T00:03:28Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60667094,
+      "date": "2014-10-27T20:52:04Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60687067,
+      "date": "2014-10-27T23:23:24Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 61301739,
+      "date": "2014-10-31T18:00:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 61886339,
+      "date": "2014-11-05T21:43:10Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62021600,
+      "date": "2014-11-06T17:55:22Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 66523345,
+      "date": "2014-12-10T21:02:07Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 66857264,
+      "date": "2014-12-13T00:49:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 66857703,
+      "date": "2014-12-13T00:56:57Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 68387207,
+      "date": "2014-12-30T19:15:27Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 73052280,
+      "date": "2015-02-05T14:16:49Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 76449588,
+      "date": "2015-02-27T18:50:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 76828495,
+      "date": "2015-03-02T21:26:23Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 77239499,
+      "date": "2015-03-04T20:24:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 6788325,
+      "date": "2012-07-05T19:32:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 6794310,
+      "date": "2012-07-06T00:13:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 6917594,
+      "date": "2012-07-11T19:53:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 10465466,
+      "date": "2012-11-16T22:51:13Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 11723234,
+      "date": "2012-12-28T01:46:50Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 15970201,
+      "date": "2013-04-05T17:45:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 18957846,
+      "date": "2013-06-05T06:29:06Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21302447,
+      "date": "2013-07-20T23:44:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21302470,
+      "date": "2013-07-20T23:46:33Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21302493,
+      "date": "2013-07-20T23:49:25Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21302555,
+      "date": "2013-07-20T23:54:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21302722,
+      "date": "2013-07-21T00:08:29Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21303639,
+      "date": "2013-07-21T01:51:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21582418,
+      "date": "2013-07-25T20:31:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21583975,
+      "date": "2013-07-25T20:54:49Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 21584039,
+      "date": "2013-07-25T20:55:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 25203047,
+      "date": "2013-09-26T20:55:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 29445736,
+      "date": "2013-11-28T08:04:39Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 35042966,
+      "date": "2014-02-14T00:18:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 41590224,
+      "date": "2014-04-28T17:49:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 45288328,
+      "date": "2014-06-05T23:36:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 45514041,
+      "date": "2014-06-09T16:51:19Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 45514060,
+      "date": "2014-06-09T16:51:31Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 54571855,
+      "date": "2014-09-05T01:38:57Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 57707183,
+      "date": "2014-10-02T21:03:37Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 57826163,
+      "date": "2014-10-03T17:20:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 57855807,
+      "date": "2014-10-03T20:32:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 57874675,
+      "date": "2014-10-03T22:54:49Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 57874866,
+      "date": "2014-10-03T22:55:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 58549684,
+      "date": "2014-10-09T17:53:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 59264735,
+      "date": "2014-10-15T19:49:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 59545400,
+      "date": "2014-10-17T17:18:11Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 60125749,
+      "date": "2014-10-22T17:49:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 60125860,
+      "date": "2014-10-22T17:50:21Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 60277060,
+      "date": "2014-10-23T17:37:13Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 60302119,
+      "date": "2014-10-23T20:17:55Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 60640860,
+      "date": "2014-10-27T18:09:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 60673694,
+      "date": "2014-10-27T21:36:07Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 63550648,
+      "date": "2014-11-18T21:43:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 65293256,
+      "date": "2014-12-02T19:54:22Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 65500648,
+      "date": "2014-12-03T22:11:39Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 65673336,
+      "date": "2014-12-04T17:55:42Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 65710924,
+      "date": "2014-12-04T21:56:31Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 65831476,
+      "date": "2014-12-05T18:20:24Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 66156556,
+      "date": "2014-12-08T17:57:11Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68469274,
+      "date": "2014-12-31T21:08:02Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68469961,
+      "date": "2014-12-31T21:22:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68476018,
+      "date": "2015-01-01T00:08:02Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68479716,
+      "date": "2015-01-01T03:41:02Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68479739,
+      "date": "2015-01-01T03:43:19Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68552876,
+      "date": "2015-01-02T19:11:31Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68567386,
+      "date": "2015-01-02T22:10:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 71547984,
+      "date": "2015-01-26T22:02:58Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 73040890,
+      "date": "2015-02-05T12:50:07Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 73208718,
+      "date": "2015-02-06T09:20:31Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 73365881,
+      "date": "2015-02-07T14:16:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 73877713,
+      "date": "2015-02-11T13:06:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 73896402,
+      "date": "2015-02-11T15:09:56Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 73911579,
+      "date": "2015-02-11T16:27:22Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 74397683,
+      "date": "2015-02-15T00:04:58Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 75818470,
+      "date": "2015-02-24T18:43:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 75818830,
+      "date": "2015-02-24T18:45:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 77252618,
+      "date": "2015-03-04T21:27:05Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 77259698,
+      "date": "2015-03-04T22:02:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 77265479,
+      "date": "2015-03-04T22:35:58Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 77441104,
+      "date": "2015-03-05T20:07:17Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 77441364,
+      "date": "2015-03-05T20:08:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 79516683,
+      "date": "2015-03-13T22:57:17Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 83112636,
+      "date": "2015-03-18T18:30:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 83112999,
+      "date": "2015-03-18T18:31:45Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 89077184,
+      "date": "2015-04-02T23:29:43Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 89084437,
+      "date": "2015-04-02T23:55:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 90274430,
+      "date": "2015-04-06T23:00:55Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 90274491,
+      "date": "2015-04-06T23:01:05Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 90278457,
+      "date": "2015-04-06T23:13:30Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 90278652,
+      "date": "2015-04-06T23:14:13Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 90650019,
+      "date": "2015-04-07T17:12:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 91042790,
+      "date": "2015-04-08T21:34:04Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 91697813,
+      "date": "2015-04-10T21:33:10Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 3751212,
+      "date": "2012-02-01T00:24:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 6723883,
+      "date": "2012-07-03T01:11:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 6743423,
+      "date": "2012-07-03T19:02:37Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 516,
+      "date": "2015-04-08T22:20:01Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 402,
+      "date": "2015-01-15T19:12:49Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 373,
+      "date": "2014-12-23T23:53:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 372,
+      "date": "2014-12-23T18:53:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 357,
+      "date": "2014-12-09T00:30:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 356,
+      "date": "2014-12-08T18:32:01Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 355,
+      "date": "2014-12-05T22:18:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 338,
+      "date": "2014-11-18T21:19:57Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 304,
+      "date": "2014-10-30T22:58:42Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 303,
+      "date": "2014-10-30T20:50:29Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 296,
+      "date": "2014-10-27T23:32:49Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 291,
+      "date": "2014-10-23T23:19:08Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 284,
+      "date": "2014-10-23T18:39:55Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 263,
+      "date": "2014-10-17T17:45:15Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 261,
+      "date": "2014-10-15T21:10:43Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 258,
+      "date": "2014-10-13T23:55:28Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 257,
+      "date": "2014-10-13T23:22:44Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 244,
+      "date": "2014-09-29T23:58:17Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 226,
+      "date": "2014-09-12T19:22:33Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 220,
+      "date": "2014-09-05T20:16:11Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 211,
+      "date": "2014-08-29T19:00:05Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 202,
+      "date": "2014-08-25T22:27:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 200,
+      "date": "2014-08-25T17:34:53Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 199,
+      "date": "2014-08-25T17:03:35Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 197,
+      "date": "2014-08-22T20:51:19Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 196,
+      "date": "2014-08-22T20:31:53Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 195,
+      "date": "2014-08-22T19:58:58Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 194,
+      "date": "2014-08-22T17:26:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 193,
+      "date": "2014-08-22T17:21:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 145,
+      "date": "2015-02-24T18:42:41Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 125,
+      "date": "2014-12-04T17:54:25Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 94,
+      "date": "2014-03-03T19:59:10Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 83,
+      "date": "2013-10-07T22:06:09Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 71,
+      "date": "2013-07-21T00:15:47Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 70,
+      "date": "2013-07-15T16:11:48Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 62,
+      "date": "2013-04-05T17:42:34Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 54,
+      "date": "2012-12-24T19:48:21Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 49,
+      "date": "2012-11-16T22:50:51Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 39,
+      "date": "2012-09-21T20:14:49Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 35,
+      "date": "2012-07-06T20:12:14Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 34,
+      "date": "2012-07-06T18:18:42Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 33,
+      "date": "2012-07-05T19:10:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 31,
+      "date": "2012-07-03T01:10:32Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 30,
+      "date": "2012-07-03T00:18:36Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 15,
+      "date": "2012-01-18T23:30:26Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 524,
+      "date": "2015-04-16T17:42:52Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 354,
+      "date": "2014-12-05T22:09:57Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 350,
+      "date": "2014-12-03T00:15:10Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 331,
+      "date": "2014-11-13T18:49:40Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 289,
+      "date": "2014-10-23T18:57:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 288,
+      "date": "2014-10-23T18:55:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 287,
+      "date": "2014-10-23T18:46:59Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 286,
+      "date": "2014-10-23T18:45:42Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 285,
+      "date": "2014-10-23T18:43:16Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 283,
+      "date": "2014-10-23T18:37:03Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 282,
+      "date": "2014-10-23T18:36:21Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 281,
+      "date": "2014-10-23T18:35:38Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 280,
+      "date": "2014-10-23T18:35:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 266,
+      "date": "2014-10-21T16:55:06Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 256,
+      "date": "2014-10-13T22:38:06Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 253,
+      "date": "2014-10-03T22:42:18Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 252,
+      "date": "2014-10-03T21:04:12Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 203,
+      "date": "2014-08-25T22:52:43Z"
+    },
+    {
+      "dev_id": "stevenschlansker",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 201,
+      "date": "2014-08-25T21:14:42Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "936dc2142101a05e9dd108fdf6497069bf8fd9be",
+      "date": "2015-02-14T02:09:05Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "29640a425f1652aabe05ed3d809b809a30bd9efa",
+      "date": "2015-01-17T00:22:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "7d7d042652b568ec00cb5762fecaef92cd3c8cd6",
+      "date": "2015-01-14T19:51:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d3453ea6b6843f0ec043af44275683fbd6cff65f",
+      "date": "2015-01-27T00:25:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "fba952e44700e28c4f5eab8108addf5cb014804b",
+      "date": "2015-01-07T01:42:22Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "fb267fecfbe8bcd77b2eeacb59bddc8e2f8572f7",
+      "date": "2015-01-07T01:39:09Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "03fce913fe897995d269c2f0914b47f406a817bc",
+      "date": "2014-11-10T23:29:30Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "83271b43a16cd15d2c03767d7c2a2aff41c2958c",
+      "date": "2015-01-16T22:57:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "a19d0625aa158ba04079cb521c53f4c19fa6e467",
+      "date": "2015-01-07T01:40:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "c5403e06293e662fdb3816352beea9dfea1ea64f",
+      "date": "2014-12-12T03:02:23Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "94cf554d654a2a360228bd1ca2e2117c7fe02446",
+      "date": "2015-01-16T18:18:13Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "6d45c876b165579af30260a2f8c65658397d36d5",
+      "date": "2015-01-15T22:15:12Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "ffa2ffaadf1387c9fb3cca7d4ba340b03f0cbcad",
+      "date": "2015-01-14T02:12:03Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "97bd7726880f0d5d122b529882a6f87b9298979a",
+      "date": "2015-01-14T01:29:46Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "27e5cfece7667742f15b4e9b946ef0891892400b",
+      "date": "2015-01-08T19:48:03Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "4f6270fd6928599a2a7f7bb0f73b0ee4b3e5f553",
+      "date": "2015-01-06T00:41:41Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d74bbbf28e8046bf841e2d080976773215350e64",
+      "date": "2014-12-09T23:25:09Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "9902776ad366c25b624cd2c3246ab0192804480f",
+      "date": "2014-12-09T01:31:15Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "91d67b996283d98ed28e4b7fd7d44ec9bfa101d0",
+      "date": "2015-01-06T00:41:41Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "27e76580b0bd122d8880b488c7754ca41a993f36",
+      "date": "2014-12-12T01:31:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "653f193c0395ffa1d65fcf5eee57e717d7afa006",
+      "date": "2014-12-12T00:55:04Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "c248d008381b158d84ea233481d4467d36d866ac",
+      "date": "2014-12-09T23:25:09Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "ef4ef092a7f50c92c6a5fa0afb8bbe1779f9942f",
+      "date": "2014-12-04T19:18:43Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "efc198d01b0fb253d6f6caa5798a6ce43f349a18",
+      "date": "2014-11-27T02:02:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "8ba4b49e5b4e588286940aa50ad42df8ebb8f5a7",
+      "date": "2014-12-09T01:47:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "16d64c2d7ce4ab13710394a41a01fad661f43487",
+      "date": "2014-11-12T19:08:32Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "1e7edd349745282360cf7dcea761f44ba8a499d3",
+      "date": "2014-11-12T19:08:32Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "3c843cf842cd91d1b96a07c2e5951707568a6deb",
+      "date": "2014-11-20T17:53:43Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "f07b00d2daa85b244cb60b8a1b50ce6b230e9506",
+      "date": "2014-11-19T01:24:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d067e70a74f9720cc729dc941d540ea5216b1030",
+      "date": "2014-11-12T22:22:55Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "f3016d5f11af0c29608d683cd262ad7f71b4f2a3",
+      "date": "2014-11-06T22:10:33Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "3f98cec73d0cfafb5c84da605208b701710f9c34",
+      "date": "2014-10-27T20:21:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "457ed2e1b1497d16fa4fe7f8309a5cb214395def",
+      "date": "2014-11-06T22:46:16Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "defc0068bc67a97efba11679d313aaa89eeaecac",
+      "date": "2014-10-25T00:59:57Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "665654db1bcbc6d86142bb2ff9f2b192fccd5992",
+      "date": "2014-10-24T00:09:38Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "423ee5aeab202c03e04f97cc1e1853eb89259ed9",
+      "date": "2014-10-25T00:58:52Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "3be8fac2dcd00d371af219ac8a5af517e40b3b57",
+      "date": "2014-10-23T18:19:48Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "3dc98999ac2459aa80ac99f9a425e7b772c5d474",
+      "date": "2014-10-23T00:43:44Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "7d772b3b69d840ec4ad16b656c0f780432ee9dd6",
+      "date": "2014-10-23T00:43:03Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "dc5bf4edf54f1fe1fada7da129a60b117aff9f9e",
+      "date": "2014-10-18T01:35:08Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "0a434817e4a2e659ce7eff84b6139dd58dc58db0",
+      "date": "2014-10-18T01:34:41Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "90e14bb19c1b0f0b447fa54b3592cc32b478956c",
+      "date": "2014-10-18T01:35:08Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "b61e30eed0a83fb476c99da18bc956400bfc75bb",
+      "date": "2014-10-18T01:34:41Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "4bc8e3aaa7946993be682621459e3e1c6992a876",
+      "date": "2014-10-17T23:41:27Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "653418372cad7e356ec0d639ae2a48096943d676",
+      "date": "2014-10-17T23:33:19Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "04c78b361b52d359d317f5b44e87ee0d3902237d",
+      "date": "2014-10-17T23:08:39Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "c787517027f84664e93c4bb03fae57fe192262a5",
+      "date": "2014-10-17T22:38:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "cfda2a2a53c7f87ac0aabcffda61a4e30368fdf2",
+      "date": "2014-10-17T21:37:55Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "a7bcabb8b93463e97dbcd4c1722ddbaff47a864f",
+      "date": "2014-10-17T21:25:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "dc5453f2fd06b0e4743696c515468e44e5c9f553",
+      "date": "2014-10-17T21:24:05Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "e837e29049082a609fa4a531cb28330a6e14b507",
+      "date": "2014-10-16T23:10:37Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "82e3f395a114e2780f94f0599dbeaa090a75e2ae",
+      "date": "2014-10-16T21:21:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "04ca9fedaab9e817a229d2ef0e0b32b421d7f7bc",
+      "date": "2014-10-15T00:00:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "5240b7efe016d9c6666dda60221824d80f85c2eb",
+      "date": "2014-10-14T23:58:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "236ff7b7cf27d38ecb8d31ebf3fdd39f4a1849a8",
+      "date": "2014-10-14T23:48:00Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "0e4300852b14b4c5a6b2d7401e4bb8d6bdb106aa",
+      "date": "2014-10-14T23:57:10Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "301feca65363033ed568d9d5cee9bb099460daeb",
+      "date": "2014-10-14T23:51:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "e628702cc141759c246348e2535dc191bd104d37",
+      "date": "2014-10-14T23:19:31Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "bc51266e33e4237aac9a5b58120492d0b4b47938",
+      "date": "2014-10-14T22:55:48Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "2f2332e47332c8a6ad71bb131a270b60a5172b3e",
+      "date": "2014-10-11T00:01:57Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "70826b1f6e8cfa8dae10f96c17da2b64ea83c40e",
+      "date": "2014-10-10T22:23:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "63604055b7ed77cdb1d216dd1ad38578075fb5d1",
+      "date": "2014-09-10T21:08:23Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "e2f1048ce6cff3f4fe13b7560ec5e5bbecf66379",
+      "date": "2014-10-03T18:35:48Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "a48e240acb5dceacab28a26371b560f0dd6de814",
+      "date": "2014-09-15T22:42:31Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "a13224a0b398b21993d08a09c1225788dd0fbdfd",
+      "date": "2014-09-05T22:15:02Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "f9b5b6c8f8bf82be56c40e595ff5f2fb6523df5c",
+      "date": "2014-09-03T00:50:43Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "6fbd33893b5513a7aa3578f25365172d7de26a68",
+      "date": "2014-09-10T23:17:00Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d1daa7e66565bc81436c7f493dc7e9161ddc7ac4",
+      "date": "2014-09-10T21:32:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "d69b0dfdf4ea660db9c6a7d047e3185575aaa6da",
+      "date": "2014-09-03T22:55:30Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "3f2ecd9f29e1fb8eb9ac90ed4854d0d0563e1f78",
+      "date": "2014-09-03T23:51:36Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "e327c0592d4c0f7819297ba47b03d6055b2464d5",
+      "date": "2014-09-03T23:32:11Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "commit",
+      "id": "0bbd019447c6ef4b0ebd942284bab92a3b95f89d",
+      "date": "2014-09-03T21:37:52Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "ea193cfad49f878d1689e5ad20e1315bb05461a3",
+      "date": "2015-01-26T23:28:00Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "307c099d2b7f7e34ba5a4831949ae4e4d4545e73",
+      "date": "2015-01-26T23:26:29Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "7c35508881b033403e82fb6c4a11d8904d68bc87",
+      "date": "2015-01-21T23:12:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "e199bdc114d293eb271ffbc7642a98546f3d69a0",
+      "date": "2015-01-21T23:12:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "367b81e85c4f2639b25875c1efce8e703c245885",
+      "date": "2015-01-21T22:45:57Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "708919017f226dd88f478df0d43fc91dc1ece354",
+      "date": "2015-01-16T21:05:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "431653465f39c9ea3f7247bccc13148271fde5ad",
+      "date": "2015-01-16T21:05:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "b37ea1adee3a7d3620022255a92ebb0a984830d0",
+      "date": "2015-01-16T21:03:52Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "bcf906028a8951188436907d967b0f9cb3372b40",
+      "date": "2015-01-03T03:18:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "7d26ae3e19f185025c31d0e332e610b71395ed70",
+      "date": "2015-01-02T21:40:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5c2d5258406be0d691631cce8290d10b646b4eb5",
+      "date": "2015-01-02T18:52:55Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "f987f8924d89e529bd5c63cc6426d727dab9defc",
+      "date": "2015-01-02T18:40:47Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "2d3d2610ea1dfd94e4935e7e4f43b4bfa6f16228",
+      "date": "2014-01-30T08:05:50Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "e22c8167b6ed4c0733afff510684390de34883b5",
+      "date": "2014-01-24T03:39:37Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "e43b07f1b5de31f43e9196e8b4705e6d6ae7328c",
+      "date": "2014-01-30T07:30:55Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "8b5e24f0b58b37cace131115ac604afec941a7cb",
+      "date": "2014-01-24T03:17:54Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "205abfaf04095953fd803d42d5b58a11b666071d",
+      "date": "2014-01-24T03:05:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "92f1fad175a6faae748ca8199513feffdfedf49e",
+      "date": "2014-01-23T05:37:02Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "13e1cda1d07d43619ba07572fdc6b1706d5285fa",
+      "date": "2014-01-23T05:35:59Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "a07a5d6c918664f88110702233294d202ab69170",
+      "date": "2013-12-27T23:53:15Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "e5adf5f0d7d6a68f5d33d5ac041f1edc6164fd07",
+      "date": "2013-12-27T23:53:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "46ca79095ecd9fb4f899f1e5d76404fc826256bb",
+      "date": "2013-12-27T23:49:22Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "112093da2d1f84cd8c25d7b22b4dc2b3b875ef99",
+      "date": "2013-12-27T18:53:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "56faff00212eb22b9893d483777ca9ed816ea7e6",
+      "date": "2013-12-27T03:06:12Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "f14d8d8ce95e45764e7c022e5ab3848303d20163",
+      "date": "2013-12-27T01:44:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "86bac61dc53419d0bad1fc9cbccc6493b6140f50",
+      "date": "2013-12-25T00:40:16Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "a7b7e8ec8c8db9cdf207cac110942b1dc9d6ac5c",
+      "date": "2013-12-24T22:06:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "58730e7bc41871b0a9e72d14626c1579358e9877",
+      "date": "2013-12-24T20:15:16Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d455a1d09f95c1f50afab696cadd3f79be9a9d07",
+      "date": "2013-10-08T01:22:17Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "a3eb4818006eb50e20ebca92e9d589389c4e24ad",
+      "date": "2013-10-08T01:22:17Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "53c57efbbe9c5de723f1c34e15f4e79b086cf1b2",
+      "date": "2013-10-06T23:22:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "fb6b25842ed4f24faf0232dc6466bf8cfa6d7067",
+      "date": "2013-09-24T15:25:12Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "1509afa447d0a35969dab4ff1f3c3499ec43ff09",
+      "date": "2013-09-24T07:11:49Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "965de7b75ae4b3d64adb8109ad08e29a5591df38",
+      "date": "2013-09-24T06:47:10Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "6c3939e2b95fb8238dc6c684292144df7b1aa3e4",
+      "date": "2013-09-24T06:37:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "7e134902152f32716d5a0ecee949afee215d8fa6",
+      "date": "2013-09-24T06:36:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "ec9bcfa51932a1673dc9490fa9340cf51697219e",
+      "date": "2013-09-23T23:39:11Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "f132f89ee6394f35efd887768a9bf852e92543f9",
+      "date": "2013-09-23T23:39:11Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "00ef12c898aa9ee83ca07c4fb5e59fdaa0b4c513",
+      "date": "2013-09-23T23:34:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4c6c1e073db13e00c96ddabc7d63412d6138b902",
+      "date": "2013-09-23T23:28:03Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "3a09f9bbbff3921f2560a0d53670c427b75de3f0",
+      "date": "2013-09-21T01:22:02Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d7e448c6ec1bd58fc5bc003aa9f1fbb4a4e87462",
+      "date": "2013-09-21T01:11:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "b4b5c11c26b17d029d00145d819ab71121a76fb8",
+      "date": "2013-09-23T23:13:59Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "8df708897330537b7ef0d060add6c29b8870031d",
+      "date": "2012-07-11T22:27:43Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "90d04524fbe0e8a3e2ac09df047bb5f13bb71d7c",
+      "date": "2012-07-11T22:27:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "2937fbe252adf85ec784eb54f1b95f07dd1a0297",
+      "date": "2012-07-11T22:25:04Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "83ccb64e109bca07c8510a5358ba5250640f379a",
+      "date": "2012-07-11T18:29:39Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "0d191721f5a1ceb0493d38254f16d48b56df650b",
+      "date": "2012-04-17T23:18:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "c49c2ea15a43b3065a94b728395b91335b609bf8",
+      "date": "2011-08-25T05:28:03Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "dc9d7e704e71adf823a9bafb76305b08e426b02e",
+      "date": "2011-08-22T20:52:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "fc8689724d443371bc2a28b8075d1e12201a6112",
+      "date": "2011-08-09T18:00:39Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "12bf95dc09c5f582dbf1a7f79aeed7c0619ab22e",
+      "date": "2011-08-09T17:29:45Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "d1bfa41eb772bd03e3f30423d5ad2508c26af8b2",
+      "date": "2011-08-09T17:28:47Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "b39882760fbbe7673c5fd3c3b493432894c9a4c3",
+      "date": "2011-08-09T17:13:15Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "1f083fa397dc7afd1fdf991438e85c4e57b22a0d",
+      "date": "2011-08-09T17:08:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "28937b0d02002d87e3211002b5cdc0587c5d83d0",
+      "date": "2011-08-09T17:07:19Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "364d8f82732e461efece845dee247d666c7fd562",
+      "date": "2011-08-09T16:30:50Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "dd9b6b68893f2e8c9b1bccd769c1d3445c7d977c",
+      "date": "2011-08-09T16:30:10Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "eaa71686de8c2fba5a03169720e2da3b4120d22e",
+      "date": "2011-08-09T16:29:46Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "529e81f20122f5cea6af08d0f0d11364cc1df804",
+      "date": "2011-08-09T16:15:31Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "c3652eabe91225532bbec70db2b8c24b45fbaae9",
+      "date": "2011-08-09T16:14:45Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "97e89130aeb8bddf42ef5353622d95ccafc35dfb",
+      "date": "2011-08-09T16:08:36Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "f51a29f9a511d6c7865235075527f088db13705b",
+      "date": "2011-08-09T02:45:46Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "e6670a87f836418392c7ba6c317e033f62d9799b",
+      "date": "2011-08-09T02:08:12Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "b6ed8da8820864c50930680ef4f7d2ac2bf91d0a",
+      "date": "2011-08-09T01:57:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "71dfec7f06aca5d04d2b236bedfcd574f34c4c4e",
+      "date": "2011-08-09T01:56:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "844b472cc7c704bfcfc695bfd60d915cccdeff85",
+      "date": "2011-08-03T22:27:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4bf272cca95256a00438ae1342f27f27c17b22f4",
+      "date": "2011-08-03T22:27:00Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "0a4e072a1eee1436dba982ca48a93bf5db4be7ab",
+      "date": "2009-07-26T22:30:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "5c7a8cffc102f3af9f3fae3920ba0cc237d6ddae",
+      "date": "2009-07-26T21:30:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4cef5b8de0cf5fde0a2f341f31f9c06ca24dce36",
+      "date": "2009-07-26T20:47:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "f5431f26b1280466984b75d6164178f62b4de170",
+      "date": "2009-05-20T19:01:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "c49af5a7dabe2eb98fc289a612a7ada5557c1c8c",
+      "date": "2009-05-20T19:00:54Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "9c092830455034f65c903cbb8414516be52b34f0",
+      "date": "2009-05-20T18:58:29Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "eca80bec382b12f3ab31318b3134c9433b9dde75",
+      "date": "2009-05-20T18:57:08Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "0d164d99b74c96cc4219d4e38d4745fbb4183369",
+      "date": "2009-05-20T18:55:23Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "421187636b4dcc4dd138bd31907aaee3d2c867b3",
+      "date": "2009-05-20T18:54:49Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "2be242456cd622bd786c4bbd55f61012b7bbcbbe",
+      "date": "2009-05-20T18:54:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "33208024527bb33e7d17f3fe471a4f63ad97c5e0",
+      "date": "2009-05-20T18:53:50Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "c800fa2d796f62172e2c028bc37aaa106a90f938",
+      "date": "2009-05-20T18:50:38Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "commit",
+      "id": "4630fc7d85d12eb72c8c30c08f8f2385c1249bec",
+      "date": "2009-05-20T18:48:53Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54370840,
+      "date": "2014-09-03T21:32:23Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54549500,
+      "date": "2014-09-04T21:40:46Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54549794,
+      "date": "2014-09-04T21:43:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54550304,
+      "date": "2014-09-04T21:48:16Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54558995,
+      "date": "2014-09-04T23:18:52Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54561495,
+      "date": "2014-09-04T23:50:55Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 54649914,
+      "date": "2014-09-05T16:40:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55184221,
+      "date": "2014-09-10T21:15:52Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55469288,
+      "date": "2014-09-12T22:36:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55469754,
+      "date": "2014-09-12T22:42:05Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 55771534,
+      "date": "2014-09-16T16:34:33Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 56207812,
+      "date": "2014-09-19T17:25:28Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57253440,
+      "date": "2014-09-30T01:01:33Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57561941,
+      "date": "2014-10-02T00:22:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57561974,
+      "date": "2014-10-02T00:22:59Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57730969,
+      "date": "2014-10-03T00:11:10Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57731080,
+      "date": "2014-10-03T00:12:54Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57735203,
+      "date": "2014-10-03T00:58:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57736801,
+      "date": "2014-10-03T01:11:53Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57855089,
+      "date": "2014-10-03T20:28:15Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57926979,
+      "date": "2014-10-05T05:14:36Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 57926992,
+      "date": "2014-10-05T05:15:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 58463428,
+      "date": "2014-10-09T05:00:05Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59126950,
+      "date": "2014-10-14T22:20:20Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59236231,
+      "date": "2014-10-15T16:42:30Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59430087,
+      "date": "2014-10-16T21:02:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59552870,
+      "date": "2014-10-17T18:11:53Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 59567039,
+      "date": "2014-10-17T20:00:44Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60164382,
+      "date": "2014-10-22T22:12:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60164980,
+      "date": "2014-10-22T22:18:08Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60284334,
+      "date": "2014-10-23T18:20:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 60662584,
+      "date": "2014-10-27T20:23:10Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 61593991,
+      "date": "2014-11-04T05:03:51Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62034343,
+      "date": "2014-11-06T19:15:42Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62056718,
+      "date": "2014-11-06T21:43:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62478283,
+      "date": "2014-11-10T23:51:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62620462,
+      "date": "2014-11-11T21:05:15Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62957100,
+      "date": "2014-11-13T20:06:29Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62967064,
+      "date": "2014-11-13T21:13:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 62967414,
+      "date": "2014-11-13T21:15:44Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 64014156,
+      "date": "2014-11-21T18:22:23Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 64014408,
+      "date": "2014-11-21T18:24:14Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 64239582,
+      "date": "2014-11-24T18:27:54Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 64240465,
+      "date": "2014-11-24T18:33:32Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 66862141,
+      "date": "2014-12-13T02:43:06Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 67370142,
+      "date": "2014-12-17T18:40:42Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 68801578,
+      "date": "2015-01-05T23:31:45Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 68938824,
+      "date": "2015-01-06T21:40:34Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 68941470,
+      "date": "2015-01-06T21:57:44Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 69852882,
+      "date": "2015-01-14T01:10:07Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 69854309,
+      "date": "2015-01-14T01:25:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 70143135,
+      "date": "2015-01-15T19:12:50Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 70143295,
+      "date": "2015-01-15T19:13:50Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 70148607,
+      "date": "2015-01-15T19:45:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 70148621,
+      "date": "2015-01-15T19:45:07Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 71567581,
+      "date": "2015-01-27T00:26:55Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "com",
+      "id": 71760197,
+      "date": "2015-01-28T00:43:31Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 8100355,
+      "date": "2012-08-28T17:42:27Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 31243325,
+      "date": "2013-12-27T01:45:59Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 33095984,
+      "date": "2014-01-23T04:22:56Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 33096102,
+      "date": "2014-01-23T04:26:11Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 56838625,
+      "date": "2014-09-25T15:45:20Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68466306,
+      "date": "2014-12-31T20:10:09Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68466444,
+      "date": "2014-12-31T20:12:37Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68472714,
+      "date": "2014-12-31T22:27:52Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68472734,
+      "date": "2014-12-31T22:28:19Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68478432,
+      "date": "2015-01-01T02:02:27Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 68564518,
+      "date": "2015-01-02T21:35:00Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "com",
+      "id": 1897305,
+      "date": "2011-08-25T05:27:55Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 443,
+      "date": "2015-02-14T02:09:54Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 409,
+      "date": "2015-01-17T00:21:53Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 408,
+      "date": "2015-01-17T00:08:19Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 407,
+      "date": "2015-01-16T23:48:07Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 406,
+      "date": "2015-01-16T23:29:30Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 403,
+      "date": "2015-01-15T22:15:42Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 401,
+      "date": "2015-01-14T20:30:35Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 397,
+      "date": "2015-01-14T02:12:30Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 396,
+      "date": "2015-01-14T01:30:41Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 387,
+      "date": "2015-01-08T19:48:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 385,
+      "date": "2015-01-08T18:29:36Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 378,
+      "date": "2015-01-06T00:51:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 368,
+      "date": "2014-12-12T23:41:58Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 366,
+      "date": "2014-12-12T01:31:52Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 365,
+      "date": "2014-12-12T00:56:02Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 360,
+      "date": "2014-12-09T23:26:10Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 359,
+      "date": "2014-12-09T01:51:20Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 358,
+      "date": "2014-12-09T01:32:30Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 351,
+      "date": "2014-12-04T19:20:32Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 346,
+      "date": "2014-11-27T02:04:04Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 344,
+      "date": "2014-11-21T01:11:40Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 343,
+      "date": "2014-11-20T19:43:24Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 340,
+      "date": "2014-11-19T01:38:32Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 328,
+      "date": "2014-11-12T22:54:49Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 327,
+      "date": "2014-11-12T22:54:39Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 326,
+      "date": "2014-11-12T22:26:13Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 324,
+      "date": "2014-11-10T23:50:42Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 322,
+      "date": "2014-11-06T22:50:18Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 295,
+      "date": "2014-10-27T20:22:56Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 293,
+      "date": "2014-10-25T01:00:39Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 278,
+      "date": "2014-10-23T18:20:18Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 276,
+      "date": "2014-10-23T00:44:46Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 275,
+      "date": "2014-10-23T00:44:27Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 270,
+      "date": "2014-10-21T20:13:38Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 269,
+      "date": "2014-10-21T20:13:23Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 251,
+      "date": "2014-10-03T20:27:12Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 250,
+      "date": "2014-10-03T18:36:50Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 233,
+      "date": "2014-09-16T18:00:49Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 231,
+      "date": "2014-09-15T22:43:25Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 224,
+      "date": "2014-09-11T00:58:02Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 223,
+      "date": "2014-09-10T22:07:01Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 222,
+      "date": "2014-09-10T21:33:54Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 217,
+      "date": "2014-09-03T23:32:53Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 216,
+      "date": "2014-09-03T23:07:43Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 215,
+      "date": "2014-09-03T21:39:09Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "pr",
+      "id": 214,
+      "date": "2014-09-03T21:23:48Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 138,
+      "date": "2015-01-26T23:26:58Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 136,
+      "date": "2015-01-21T22:46:19Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 130,
+      "date": "2015-01-03T03:22:41Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 129,
+      "date": "2015-01-02T18:54:17Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 128,
+      "date": "2015-01-02T18:54:09Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 78,
+      "date": "2013-09-21T01:23:27Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "jdbi/jdbi",
+      "type": "pr",
+      "id": 77,
+      "date": "2013-09-21T01:22:49Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 352,
+      "date": "2014-12-05T00:45:53Z"
+    },
+    {
+      "dev_id": "hgschmie",
+      "repo": "HubSpot/Singularity",
+      "type": "issue",
+      "id": 245,
+      "date": "2014-10-03T01:10:17Z"
+    }
+  ]
+}

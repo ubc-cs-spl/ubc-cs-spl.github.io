@@ -1,0 +1,4679 @@
+{
+  "user_repo": "sinatra/rack-protection",
+  "dep_repo": "rack/rack",
+  "dep_date": "2011-05-23 08:07:54 UTC",
+  "dep_commit_id": "95884e7d189a3a688adddf60e9f95eca4db33025",
+  "social_date": "2011-05-23 08:07:54 UTC",
+  "devs": [
+    "zzak",
+    "rkh",
+    "homakov",
+    "skade",
+    "pje",
+    "mkristian"
+  ],
+  "interactions": [
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "485c92c4adc3dc48491e2a9fd742c01584e36760",
+      "date": "2015-05-26T21:18:00Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "afc9b0313cdc41055b9b5dc4c0ccc6d9d94742bf",
+      "date": "2012-11-02T23:24:53Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "388990bfab38fbc9051adbaedaa9c2b7d159adb3",
+      "date": "2012-10-25T03:59:49Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1d70ecd98387f6ecf8ec5f31e12a18e07f9a9334",
+      "date": "2012-10-25T03:25:33Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 50678620,
+      "date": "2014-07-30T20:56:38Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 54338720,
+      "date": "2014-09-03T17:59:35Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 54339014,
+      "date": "2014-09-03T18:01:33Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 87302199,
+      "date": "2015-03-28T21:00:42Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 130514066,
+      "date": "2015-08-13T03:01:39Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10046443,
+      "date": "2012-11-04T01:34:31Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10046475,
+      "date": "2012-11-04T01:39:38Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46877936,
+      "date": "2014-06-23T17:46:56Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 104809332,
+      "date": "2015-05-23T01:03:18Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 104809367,
+      "date": "2015-05-23T01:03:54Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 115418425,
+      "date": "2015-06-25T22:26:10Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 148652135,
+      "date": "2015-10-16T08:30:22Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 901,
+      "date": "2015-06-19T16:29:19Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 871,
+      "date": "2015-05-26T21:25:43Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 449,
+      "date": "2012-11-02T23:20:10Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 445,
+      "date": "2012-10-25T04:01:55Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 444,
+      "date": "2012-10-25T03:28:59Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "sinatra/rack-protection",
+      "type": "issue",
+      "id": 94,
+      "date": "2015-03-27T23:49:26Z"
+    },
+    {
+      "dev_id": "zzak",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 751,
+      "date": "2014-10-24T19:59:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4504e9e9be4732d3e8aea69b4696761ed23af3a5",
+      "date": "2015-03-28T08:58:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "d8b294f1fa81830d0f36ca64b00dd479fd2651da",
+      "date": "2015-01-18T09:43:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "eddcc6dae781e995a0c594eeafe0d111fe68ac62",
+      "date": "2014-03-13T08:43:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "6d953d2379be3eb0576d5e1e1d6abbb74bd9c745",
+      "date": "2014-02-04T17:52:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "83178d130b68fd474920de94e58bf2729d7985fb",
+      "date": "2014-01-15T09:36:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "2788b23a2bb32230fb712702016c8b9cec2968b5",
+      "date": "2014-01-15T09:36:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "d9b789f11bef167ebf003eb0135d6ec484ebdee3",
+      "date": "2014-01-15T09:30:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "7ec22d0fa2e3f93ac8da5ba9592fa3b3911b4bb7",
+      "date": "2014-01-03T10:43:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "f6caeed741e3b18b4a980c207c19a5f845abf600",
+      "date": "2013-11-22T13:15:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "0c0f79f86db2600425121c6498b3626c2d5b6817",
+      "date": "2013-10-21T09:41:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "00968cea930a2d001fc6e202b7d4526ec6498d83",
+      "date": "2013-10-21T09:38:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "6532720843e8e5e100f24db1ef9a42e56cc5cf4e",
+      "date": "2013-10-21T09:34:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "3f21bc803363185e21aa72d88969b9f014dbb458",
+      "date": "2013-09-12T08:50:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ce4b08821f2da6dcebf6e353492d20ae54642fab",
+      "date": "2013-09-12T08:49:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "04335eca9a0f18d001735e627bde49046375177c",
+      "date": "2013-09-09T23:40:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "3c6bf132132125db360dfe26657341ad3abc5714",
+      "date": "2013-09-03T08:43:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c237912acb70246bbaf487eca87982309e88f5aa",
+      "date": "2013-09-03T08:42:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "b23334332b0391920dfe1ed118b50da1b0afd544",
+      "date": "2013-06-07T20:37:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "7a5e6d7e3c5fd6cc2a88cb7dc88cfad02f93652f",
+      "date": "2013-04-16T07:07:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "7c4b33b053d41326de651070081a1639117be05f",
+      "date": "2013-04-08T10:17:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "b45d31c2a5dffa125e344cde1ed033c6059b8487",
+      "date": "2013-03-25T18:51:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "16ee87a02f09c8e1abad57241eea56c709c86608",
+      "date": "2013-03-25T18:48:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "96f71070e297bacbcf9ba6c586efbac06106d168",
+      "date": "2013-03-25T18:39:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "314f3c60db371dc1c0571063b3db5e0d047672d9",
+      "date": "2013-03-13T06:39:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "38999565d49ceab9615ceac1304afe566eed252b",
+      "date": "2013-03-11T07:28:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "dac91970da37d07071819d32a7a00c4a5f636a7e",
+      "date": "2013-03-01T04:55:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "2560bb93b0896aed823431a316550c93fc6e0eac",
+      "date": "2013-03-01T04:43:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c823079365b56e902b0b7f3bf45af75eb2fa092c",
+      "date": "2013-03-01T04:36:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4f7bb3683ac8bc85d37cbe16c5d0a7afc7c6a300",
+      "date": "2013-03-01T04:23:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "e334c3a5688860802419b1553560c74c26af4f2f",
+      "date": "2013-01-21T11:24:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "515449925333ae8a8b8f0401d583f751da78f944",
+      "date": "2012-12-12T22:40:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "f2ba10000211e76c7eaa59a4720337d650066fcc",
+      "date": "2012-12-12T12:46:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "9e720f212df529de87aba09f84c9d04fdf44dbd9",
+      "date": "2012-12-12T12:41:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "5308513ed24e2835552a9648155fd21b99127cc6",
+      "date": "2012-12-12T10:21:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "9c88fadd35bc1985da4d0b0cdf63afdbb4cd2b4a",
+      "date": "2012-12-12T10:17:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "2775bf6c86309cbf31d87fd8246f135be429b0af",
+      "date": "2012-12-12T10:16:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "debff75bd7f4edd997e585324e0aaa029fbdcd41",
+      "date": "2012-12-12T10:03:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "eed241e7a324dd6e5b761648b3df57c06d122403",
+      "date": "2012-12-12T09:22:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "62e99e67cba0a38dfac69e66da7ac4a2fc1edd0e",
+      "date": "2012-12-10T21:05:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "a47d1b2e63e4788578282464008069fd9cff8b94",
+      "date": "2012-12-10T21:04:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ebcc43fbcc8d2462cec37fb8c5511d9271393749",
+      "date": "2012-12-10T21:04:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "0d1e3c54fc8e2c178d176193c9424158a90a42d9",
+      "date": "2012-12-10T21:00:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "da869d68662710cce942a7d29f8081a141c3ce90",
+      "date": "2012-12-10T15:50:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4d69af5e599e827624679146a343e8ed950e95bd",
+      "date": "2012-12-10T15:49:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "cdebda5964f855f3a1981623e3b6d963f6525902",
+      "date": "2012-12-10T15:48:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4cbe5b8e49c7372264f7dddd9e322e4bb4b5df11",
+      "date": "2012-12-10T15:42:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ec001e263810ef52e93ced754ff3dc0a0cea43d4",
+      "date": "2012-12-10T15:26:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4a771b640d70dc1acc54b93e654537a5efec0491",
+      "date": "2012-09-05T14:07:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "2b25b4276ec15e4c0eb560ecda834c5280340691",
+      "date": "2012-09-05T09:30:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "e25d8a41709b976b7635663c7cb72f46ab791356",
+      "date": "2012-08-07T09:00:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "b31d2c430161501d00fc350422fcfbb153113437",
+      "date": "2012-07-02T15:19:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "5012be07cc977c2097d7eeb556ad660100a160a1",
+      "date": "2012-06-28T12:13:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "e0a71863be708fb80ca259c8af6fecf70301d90c",
+      "date": "2012-05-28T08:35:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "1845aa3d7f8b2770e1a5b493584aa0584c548958",
+      "date": "2012-05-13T13:56:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4c46c414a4cd7c3e1a4c40af2fbe7a73bd2c54a6",
+      "date": "2012-05-12T16:08:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "f1c8b5562178c6e6474ea34aa23092c351150465",
+      "date": "2012-05-12T14:24:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "cddd6db818000108bee7ec53d9f530ec0d1136c9",
+      "date": "2011-12-30T12:07:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "b0a5eab8a26198f3f8232b981ee9b401e96eb71f",
+      "date": "2011-12-30T12:05:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ae9c33001f6ac8e3955a76e0d11c647a3081fc58",
+      "date": "2011-12-30T12:04:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "590c0e7a07938f14014dd3d831130c13a2814a14",
+      "date": "2011-11-21T16:14:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "a7710b84e536135a91d7c71ef3ab4e26bf780a10",
+      "date": "2011-11-08T15:14:10Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "a5fdccf13d838342ed9bed31d61d384a86c22f83",
+      "date": "2011-10-04T22:06:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c22fa344e6bdf163d5b6c902bbf23874b7ecf6e9",
+      "date": "2011-10-04T21:54:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "75632904137944316c13c0edbd803e0f435c21cc",
+      "date": "2011-10-04T20:36:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c0f43c5dfe05a612ca8ab6f82569807ac03a27f9",
+      "date": "2011-10-01T23:46:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "d05042af74c417faa5e28cc22156fb0291b1b498",
+      "date": "2011-10-01T23:44:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "bb0509e4c58c54ab2879801cc5bc65a4e5dedf33",
+      "date": "2011-09-30T20:52:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "d526c13ae36d9a34c968535e9b10c6bff3963626",
+      "date": "2011-09-30T20:51:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ad8564971cc3bea389584c6399ad544546a2e1e0",
+      "date": "2011-09-30T20:50:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "d864b539d95756bc90e31f306daa343aee23a28d",
+      "date": "2011-09-29T16:48:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "fff05707dfc498e2fcb8d56f67cbc93185eefaaa",
+      "date": "2011-09-17T17:40:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "a176f514c0d39292ea80977b88dbb3a9c304f427",
+      "date": "2011-09-04T04:20:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "f740c5c1fbd916749816ad560297697b201d7ef9",
+      "date": "2011-09-03T22:59:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "769e2aacfb3d833ee9c60c9e08312dc422efbcf7",
+      "date": "2011-09-03T17:45:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4a1661ab26b88a039e211de4895721a52e3e5b16",
+      "date": "2011-09-02T19:45:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "a30da4261bd24160b447858e4823844cdee0cfd9",
+      "date": "2011-09-02T19:30:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "89f9ab44d8476e52553b3165d10c3113b87c624d",
+      "date": "2011-08-11T17:41:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "644f85f209489d59f832cf0b5f37dab8ecc62832",
+      "date": "2011-06-30T16:53:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "bd8c5ff1abaef6b965ca733aa376cc365fa3395e",
+      "date": "2011-06-25T13:36:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "afd40de8fa057aba13edb0a563b87a48707fb65c",
+      "date": "2011-06-20T14:25:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "0010a85e1acda79503b9a936ba2dea9df70ae5dc",
+      "date": "2011-06-20T13:49:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "3d165f5a6d36a7106bd4b04d65fe0a88e950520d",
+      "date": "2011-06-20T13:48:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "f6fe6c565d1a3a65a3bcdb460786d4ccc1b398aa",
+      "date": "2011-06-20T13:48:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "d44c04958802270d108d99d8b5eb7347550bf3af",
+      "date": "2011-06-20T13:47:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "6b16b407e4b1c4d17750086ce01edb28420db8d1",
+      "date": "2011-06-20T13:47:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ef5add56754ee80ce615d18f6efec2501b4bace9",
+      "date": "2011-06-20T13:47:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "525f251833e84a8055a324df8984b6a4863e8fc4",
+      "date": "2011-06-20T11:08:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ac2e5f96e922f51b0a847b2300671ab609f4b369",
+      "date": "2011-06-20T07:22:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "6b5d874137353892588d713c31b9d0e1c6af443f",
+      "date": "2011-06-20T07:18:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "353cd7d39db232c958698b408097064c10bb8dee",
+      "date": "2011-06-20T07:17:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "8cb263867d64279f4e7f4fff5558f959c95bdb5c",
+      "date": "2011-06-20T07:16:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "0010cfb6ad8f1788968adbb53747ab0b404a93a1",
+      "date": "2011-06-20T07:16:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "6b964cdd8e926f9625cc4103dcdec87da96f42a8",
+      "date": "2011-06-20T07:16:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ee98dafd3912bc1daca4dd7f1d0937b7ab553267",
+      "date": "2011-06-19T13:35:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "bef34ec7f54bd898336abdb7e941c3d66fcea29f",
+      "date": "2011-06-19T13:26:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "b1cd146fed4ea280ecdcff3ac7e3c16ab6635742",
+      "date": "2011-06-19T13:26:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "66dee854c4997c3af9f1fd67e3ba3ea130e7c361",
+      "date": "2011-06-19T13:25:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c2f10a0ee9290503360c0a5cec979184aacbc987",
+      "date": "2011-06-19T13:06:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "a188806b6c61cb683c0b7be289823cf493bab2a8",
+      "date": "2011-06-19T12:54:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "7a0d93acfd631521c974f80ec08e3e46e7d23054",
+      "date": "2011-06-19T12:54:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "fa93529c1f0d9cdfe0528d5719c14fc4f1a6761d",
+      "date": "2011-05-29T11:01:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "7b857f8b246f951dc9396d9b3e02b2561941a01f",
+      "date": "2011-05-29T09:45:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "5e38643c2f4008d4068aff0ef70dd9e61125f40a",
+      "date": "2011-05-28T15:51:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "f6ad9cd9ccb929a6e948b9f62c63c17b217d2df7",
+      "date": "2011-05-28T15:49:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c8bb4332ade4533e5e8979cb96a74a1854ce4d0f",
+      "date": "2011-05-25T10:50:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "b4bb6d0856a77bfaeffd674cc7e1d14ae015fde0",
+      "date": "2011-05-25T10:48:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "ae389c4241e07dd7c8d7898d7f13e69736f20ac2",
+      "date": "2011-05-25T10:46:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "84fba7ce5dd03db93964cd8e31b217294929cac0",
+      "date": "2011-05-25T10:27:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "1c5bc068bc143df821f7441e1c7c5abbd7e6809e",
+      "date": "2011-05-25T09:57:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "7e8b1167c684920a72bad9b9d89c030a0ff77489",
+      "date": "2011-05-25T09:55:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "1953c7957c35fc4a87b331eba26affbab1b09da4",
+      "date": "2011-05-25T09:49:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "7aeb48e560e179932d122cc57d570b30bfc218f3",
+      "date": "2011-05-24T15:59:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "3faee33d00e0e5af26b778597272329dec7b0508",
+      "date": "2011-05-24T15:27:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "75ee9584f9bae4d9b9f002363cc583d2cae7dafd",
+      "date": "2011-05-24T12:32:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "49de214045635e6d233242aec60e42d808dcce6c",
+      "date": "2011-05-24T11:23:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "5f04fe797ae3d3b0ab875b4420f6b929689b694b",
+      "date": "2011-05-24T10:23:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4000082a71e64314c085d2f261be4bdd32e6f5e3",
+      "date": "2011-05-24T10:20:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4b81109d57ff5a7b78557c82fbb1f17998d74efa",
+      "date": "2011-05-24T10:16:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "b87a7f918b322c238b83c68952ddc3e7968b7293",
+      "date": "2011-05-24T09:18:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "40e457c6fa390299d49638eb9f645ebe8ca3fb76",
+      "date": "2011-05-24T09:12:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "1af1b4a239a01312dd962085b7b9fa0832022f07",
+      "date": "2011-05-24T09:09:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "e833f8b49e1d61aaa19a654d6e09a0b0faaf6e16",
+      "date": "2011-05-24T09:04:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c099a210151807650f36aa46a171a706caae347d",
+      "date": "2011-05-24T09:00:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c080aff020c54be07e846d75548dde1fcf5a9501",
+      "date": "2011-05-24T08:56:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "1bf47c90850f5b8428cb70c46ca74e4ac262beaf",
+      "date": "2011-05-24T08:56:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "e79b1c90401a94986a5fbf40585243781dbacd66",
+      "date": "2011-05-24T08:25:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "035e385435edb222a3b198e5e70a11c22f2b6077",
+      "date": "2011-05-23T15:36:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "e829d0d4ccc81f772e0fb4ed2fa373a2ebe95612",
+      "date": "2011-05-23T15:35:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "95884e7d189a3a688adddf60e9f95eca4db33025",
+      "date": "2011-05-23T08:07:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7b238fc26654863562c60c151aad13a1b4103d52",
+      "date": "2015-02-19T09:11:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "575bbcba780d9ba71f173921aa1fcb024890b867",
+      "date": "2014-10-10T15:27:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "022b0076b0eacad03eac48060198f05aa776a866",
+      "date": "2014-10-02T19:29:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ab172af1b63f0d8e91ce579dd2907c43b96cf82a",
+      "date": "2014-10-02T13:35:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "606daecacddb85fa60f740c5acbd0fea848459a8",
+      "date": "2014-06-23T07:29:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8dc31fec37f6f53a5f0f8e24274da9035abd92b2",
+      "date": "2014-01-26T22:23:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "234d6d3ca68af2019fbd330c807d7d532ce8992a",
+      "date": "2014-01-06T08:34:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1f47a4478546602d3c17902cc3faf42b106f0638",
+      "date": "2013-09-27T08:35:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bcd46f738c4333599dfa6730c52f991334cb8e9e",
+      "date": "2013-09-09T14:44:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "0adc7ceb9359426fee21d5e554dd62ec7d535e34",
+      "date": "2013-09-03T11:16:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "210167f02486ea05e55181d88b2309850879539f",
+      "date": "2013-08-25T09:58:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "89cf6256a46ff1196e53e08cedb14ec8c49308ce",
+      "date": "2013-06-16T23:51:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2d1bc944e9b8cc2160fd324d24f7b3b9b5ff6ae7",
+      "date": "2013-06-15T10:24:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9a76a1116025eed19e0220c088bd6b0bdac9a6ff",
+      "date": "2013-04-22T15:45:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "155461c4a337dcfbac014197eca9df8aece7eed4",
+      "date": "2013-04-22T15:45:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c67be4624545b4263184c4a0e8f887efd0a66320",
+      "date": "2013-04-20T14:38:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a811f12ea4e26a73ee90720c042b3dcf97c0aee0",
+      "date": "2013-04-20T14:19:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e753c6d12191041f77fd09220ef75cd4952d6a7b",
+      "date": "2013-04-20T08:05:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a04035de731422500877af339d0d02fa18b2f898",
+      "date": "2013-04-17T18:03:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "bba55fcb66e381e69ab908779d6095c66daf338f",
+      "date": "2013-04-15T10:23:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1e56bfc9d8fb7749c2d4172a58605f15e9d73f76",
+      "date": "2013-04-13T11:01:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4771a131b8eaa2bd6528b2ab8999f3e4a29881a9",
+      "date": "2013-04-13T11:00:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a2101458b8dad737aee7c80b4af23d45861649df",
+      "date": "2013-04-12T17:37:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "fb7600126436b342c8726d1346e0f662ebffcca6",
+      "date": "2013-04-12T17:03:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b0b68e18f17741caf651d8c4ba1ea22b25f3fe9c",
+      "date": "2013-04-12T16:52:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "232ed1ee3a2620e717a603319e52aa82d687554b",
+      "date": "2013-03-29T16:01:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b0e81f6155645563b2522eb2404235511d9d8a70",
+      "date": "2013-01-30T11:07:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e1a4c0094501fed6a0a893667a5e3e221a37bde2",
+      "date": "2013-01-22T14:23:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9b76e4fb58b5870ff48ba9704432787bc2e76cfb",
+      "date": "2013-01-13T15:29:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7f4a60c07dad2b1413c1ec8b54b8cea305a0be5a",
+      "date": "2012-12-29T19:05:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "285cc67a77eb924446660c981480245e50f1e3a6",
+      "date": "2012-12-29T18:51:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "72573c161cd18220f233a9cc4f63245f7ae76629",
+      "date": "2012-12-15T09:50:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8a3b6295e343339fdfc3445b9d762cb1685f5286",
+      "date": "2012-12-15T09:48:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5289aea0e7412bc351668cf264442fd0f8b6116a",
+      "date": "2012-12-12T10:37:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9f13525dc8d17e0491517939e366a9601956ffeb",
+      "date": "2012-12-12T10:13:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "fe431e753224694938ef46857486fc66c2cf990a",
+      "date": "2012-12-12T10:13:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d0fa93d2f0ce3a242af204107f84fd8d3ef2b675",
+      "date": "2012-12-12T10:04:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ea7102cbf8413724bea6eac34cebc340d2c4f13b",
+      "date": "2012-10-25T09:29:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "477020c083bed91866204c7d62d70c9d2a554da7",
+      "date": "2012-10-25T09:28:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "869c4c346a2b6bfd55a41947039b5b217b57d398",
+      "date": "2012-10-16T08:05:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ccfdaf3ecac1870d7743db5a22302944868627c5",
+      "date": "2012-09-17T08:11:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ea7ed1aeb8e6e0e5d68edca03a9d2e687a3ce388",
+      "date": "2012-09-05T10:54:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d084a14fc5be6587fb1720a4f126bae2c7e74d10",
+      "date": "2012-08-29T12:21:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1038c7e36d9701a95e32ade81a6d68d812b05d23",
+      "date": "2012-08-29T12:21:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ab67e70d82911c0c86dce737c7064d0bd6daf3d4",
+      "date": "2012-07-30T13:36:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9fffbfdbd33b5a059aa9ba2b1bfbd6c6f5378a02",
+      "date": "2012-05-12T19:21:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f38c49a0f5d7928b9a695d32b929109ba6474714",
+      "date": "2012-05-09T10:23:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f377236adcafe8483e9ea8a2a9e868d36ad0d85e",
+      "date": "2012-05-09T10:22:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6496241b25daa20fd9dd736119dc39bdac54869d",
+      "date": "2012-04-10T16:33:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1900eb7c506ec03b698feb6103cf3c49021c0c58",
+      "date": "2012-03-24T08:25:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "382c3c560f661df4fe9c1b31bb8d291721977949",
+      "date": "2012-03-11T11:56:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5dc7bac8ef84c7140900cb2986ca4f165c56ef71",
+      "date": "2012-03-11T10:40:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c442b13dc64a7b19f2c80e87ac29ca7fb3fd6229",
+      "date": "2012-03-11T10:21:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1f86db6a1e838cb111434ed0f3aa144babf32158",
+      "date": "2012-03-11T10:03:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8d2cb75f5be5d0de5b50128c37909d26a42fae93",
+      "date": "2012-03-07T07:43:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9ad30a2fa4cec24d3bfbd92a18f73a52087ee8e2",
+      "date": "2012-02-25T12:37:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2a1a4fc9a224bbdacfe682166ebe8daeeab1fce2",
+      "date": "2012-02-02T12:23:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d03553aaaa47f07bbe436b55b56b527f7bf80809",
+      "date": "2012-01-31T13:30:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "01bd05619bb546f48afb17a513b363553864a8b6",
+      "date": "2012-01-25T11:02:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9f72924cac4395fb554273447619afa4d31fa56f",
+      "date": "2012-01-23T08:24:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "62ff9ad3d5733f913a4da895bd8f2493075c32e0",
+      "date": "2012-01-18T15:43:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "9a004149f61382d0bfc0a45b81a992db695e66d6",
+      "date": "2012-01-17T22:28:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e20baec005238f9876281c0d083fe5a4e01aa034",
+      "date": "2011-12-30T11:08:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c6f08b5343c2eea7640726f7da2ec0b938f6ba54",
+      "date": "2011-12-07T08:00:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "ccb327549633dd0c028d27dd21a7fd29f58c8d45",
+      "date": "2011-11-30T11:32:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c280631c7a3f60519b36e7ed98fff4c36c407bd0",
+      "date": "2011-10-13T21:51:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "96399d348cd04741b78424c98c44efca9a0fd2d3",
+      "date": "2011-10-01T19:08:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2bab9be99c9c83f686ec712e08949a032df85d28",
+      "date": "2011-10-01T19:03:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "34521f4a14b8f33818cd1532d1757c57e16f3d4c",
+      "date": "2011-10-01T18:58:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2bdc3e1d7fb4a5c43d170aab64c342637ff3902b",
+      "date": "2011-10-01T06:59:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2fc2fc1e6542bd6bb1897579487262312b821f8e",
+      "date": "2011-09-16T20:51:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "92e5aef6d012bc4473b939a55a62ffd82cbbc69c",
+      "date": "2011-09-07T17:37:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f91a6ed7d23e832e3725b7b2f7fc5a7b3d2e878f",
+      "date": "2011-09-07T17:34:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "120225c2f597d587cec618ef613de0d1e7b0bedc",
+      "date": "2011-09-01T20:45:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "4425e374c4d1aec2aa13cc16556b577aa5df1b09",
+      "date": "2011-08-29T14:38:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "2c460e3eeaa7124940f79cc19a5e16419b2980e9",
+      "date": "2011-08-23T16:25:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "84a9d3ee76af367913aa914d045ed3006e7a6f14",
+      "date": "2011-08-23T15:35:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "cc6b31c1cdc23a147a926ff93b5eb41f3db347ac",
+      "date": "2011-08-16T04:59:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c3219ea3a0806b7e0d2c92bac34687b1b0670c73",
+      "date": "2011-08-04T06:57:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "39c5bda91c721a3b1beaf9b207492bf73fc819fb",
+      "date": "2011-08-02T10:45:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f66506dd0415a30c16c1558b11b756e3e55159d2",
+      "date": "2011-07-27T14:44:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "71c51c3db5084a4efbfdbeeb6d0a9e959ccd7e02",
+      "date": "2011-07-18T11:32:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "15eed639135dab0591c5bf52601a048ad7a6512c",
+      "date": "2011-07-18T06:34:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e30452c8e84de809733b26f80feccc65a023fed4",
+      "date": "2011-07-16T12:54:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "edee3079ba542aa65fb0b63c25ef33f6c1c7ee8d",
+      "date": "2011-07-16T08:01:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6573154f64852e952fbd7263fd374fe9b5669afb",
+      "date": "2011-07-06T10:48:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "63827213a407f3e69a99d482616cf0e572dc159d",
+      "date": "2011-07-06T10:47:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5044091e4acc71dca110da68a2e4420d9bed71a5",
+      "date": "2011-07-04T08:20:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "6d1bf83fdbac2e599375b5db01b32f4619b9e039",
+      "date": "2011-06-29T18:20:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "5aaf1bb2cb7f1f9d5e120a1f2a8450f4e9517cf7",
+      "date": "2011-06-29T18:15:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7e9dc5156a01262c5a5eece73c75afa1fe0dac6f",
+      "date": "2011-06-29T18:13:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "48192572883e49960df386b65c1d08cd24e4b1da",
+      "date": "2011-06-29T17:25:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "28842366aef7b086f251dd274251e9dc40c11d3a",
+      "date": "2011-06-27T08:59:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "d0e8aedb18a830356e4a624cf6ea36ca303a7f41",
+      "date": "2011-06-16T10:10:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b82e4f0781219b67a5f9b44faba8ffb725193153",
+      "date": "2011-06-16T09:15:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "48566079126c4db6a285a8c9ee4bfd9e642e0aac",
+      "date": "2011-06-14T07:58:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c038a7561526ff85c2c7681b5eb506ad9186678e",
+      "date": "2011-06-14T07:49:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c02443dade833d1073ebe297f0e4b23c4e3248e0",
+      "date": "2011-06-14T07:44:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "44850886ff2a0a7371e1819b88f52da87295c2a6",
+      "date": "2011-06-14T07:37:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "90ca4dfab2af8439de08dc3be682f605b1c9944f",
+      "date": "2011-06-10T15:59:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1a7751d04090162bf08a8f0a0d265288453aa880",
+      "date": "2011-06-10T15:51:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "f0a1e6fe5f206de424a64e45584de1ea3ae90d8b",
+      "date": "2011-06-09T20:14:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "30ec24ac3cd2c036705f413009d67c254faf0446",
+      "date": "2011-06-09T20:13:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "57789645095af82de33a99905bcd7060eb33ab2a",
+      "date": "2011-06-09T20:13:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "c627b71129a1399a99561c84a1beb3498db91ff0",
+      "date": "2011-06-09T19:47:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "627e482f0bd71a5b89b9a24413c0ab1353525f46",
+      "date": "2011-06-09T11:27:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b4d8c90bbedbc5de7cff15def822fd53fc3b623b",
+      "date": "2011-06-09T07:14:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "e88aa4ea9524d86b692480f7e5c9f57a3cbe240f",
+      "date": "2011-05-31T11:01:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "992a9ef7f49b8856874d196e7d6e6c09d0e0fe37",
+      "date": "2011-05-31T10:36:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "15c64da09dee5a10f4459b9f5a7085edb7255532",
+      "date": "2011-05-31T10:31:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "dec966d2931675aaa1c049244734ee87581b20ad",
+      "date": "2011-05-31T09:47:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "03a25fe97ef8c6b37d2815fec451c6fd35f5cee5",
+      "date": "2011-05-31T09:15:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a23dbb801b28fbe51988d120f821bf101481c22f",
+      "date": "2011-05-31T09:02:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "dcdb63500f01f7bf22b1dcf74e613a694d332370",
+      "date": "2011-05-04T10:04:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "b17ce2faafb2b5fdd98fadc36e996b8ededd07c3",
+      "date": "2011-05-04T09:19:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "84472fb1ca71be813114129263404f38aaaed8bb",
+      "date": "2011-05-03T12:50:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "1ce5400238de6f5cd09d446a86f64c406223a160",
+      "date": "2011-03-21T23:27:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "33e080e1af415760a86dc5e59357cb69e4267fee",
+      "date": "2011-03-21T21:00:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "dff8e34f43c2897062d5b252406398ced2d360a8",
+      "date": "2011-03-18T17:54:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "828e2ab0396c5bbf4b5ccd76e6392a475633a81f",
+      "date": "2011-03-18T14:05:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "889e2bcd658b9437d7fd5e023b59ad868e38f878",
+      "date": "2011-03-18T14:02:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "71a07b9d9c90953002452c3ed6ea48ef256fa1c9",
+      "date": "2011-03-18T13:48:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "81b4ce3e281dc5b6a2138251f4d14ef30f3ee025",
+      "date": "2011-03-18T13:35:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "64cea8ee4235cd724c2f3b66b096d4528a942264",
+      "date": "2010-09-08T12:59:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "7eb26e4a3f81921631abe48fa9577b6d9c9d3506",
+      "date": "2010-09-08T12:26:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "8179a388192f37df9456089d3855596e56a5a10d",
+      "date": "2010-09-08T11:42:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "83a965d931dca1dd4cf3bb7151e207d5f53b86dd",
+      "date": "2010-09-08T11:40:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "85a70515faf372939cc50c2bd088c551fac76ed4",
+      "date": "2010-06-08T19:06:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2240112,
+      "date": "2011-09-29T16:48:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2259681,
+      "date": "2011-10-01T23:49:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2290967,
+      "date": "2011-10-04T20:28:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2291841,
+      "date": "2011-10-04T21:50:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2291904,
+      "date": "2011-10-04T21:56:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2292017,
+      "date": "2011-10-04T22:08:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2292090,
+      "date": "2011-10-04T22:14:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2423220,
+      "date": "2011-10-16T21:42:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2423281,
+      "date": "2011-10-16T21:53:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2584752,
+      "date": "2011-10-31T23:14:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2765285,
+      "date": "2011-11-16T18:09:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2817079,
+      "date": "2011-11-21T16:14:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 2817590,
+      "date": "2011-11-21T16:52:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3312719,
+      "date": "2011-12-30T12:06:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3326575,
+      "date": "2012-01-02T00:00:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3409935,
+      "date": "2012-01-09T10:57:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3411921,
+      "date": "2012-01-09T14:10:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3412519,
+      "date": "2012-01-09T14:49:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3412552,
+      "date": "2012-01-09T14:51:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3413023,
+      "date": "2012-01-09T15:20:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 3502457,
+      "date": "2012-01-15T22:36:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 4172483,
+      "date": "2012-02-25T12:24:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 4174053,
+      "date": "2012-02-25T16:50:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 4666293,
+      "date": "2012-03-23T19:27:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 4698210,
+      "date": "2012-03-26T16:42:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 5065165,
+      "date": "2012-04-11T09:27:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 5626629,
+      "date": "2012-05-10T14:32:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 5668831,
+      "date": "2012-05-12T14:23:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 5669070,
+      "date": "2012-05-12T14:59:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 5736588,
+      "date": "2012-05-16T09:14:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 6068637,
+      "date": "2012-06-01T19:20:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 6628222,
+      "date": "2012-06-28T12:13:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 7547482,
+      "date": "2012-08-07T09:00:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 8280338,
+      "date": "2012-09-04T21:51:10Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 8280977,
+      "date": "2012-09-04T22:12:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 8292439,
+      "date": "2012-09-05T09:30:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 8292499,
+      "date": "2012-09-05T09:33:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 8292513,
+      "date": "2012-09-05T09:34:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11198946,
+      "date": "2012-12-10T15:18:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11199028,
+      "date": "2012-12-10T15:19:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11199158,
+      "date": "2012-12-10T15:21:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11217620,
+      "date": "2012-12-10T21:05:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11224631,
+      "date": "2012-12-10T23:52:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11239494,
+      "date": "2012-12-11T11:03:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11281967,
+      "date": "2012-12-12T09:24:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11283879,
+      "date": "2012-12-12T10:28:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11292369,
+      "date": "2012-12-12T15:09:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11788727,
+      "date": "2013-01-01T11:05:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11789044,
+      "date": "2013-01-01T12:24:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11921528,
+      "date": "2013-01-05T23:14:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12213167,
+      "date": "2013-01-14T10:32:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12493749,
+      "date": "2013-01-21T11:24:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12785596,
+      "date": "2013-01-28T15:03:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12965245,
+      "date": "2013-01-31T20:55:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12967001,
+      "date": "2013-01-31T21:31:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12968277,
+      "date": "2013-01-31T21:59:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 13916452,
+      "date": "2013-02-21T22:16:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 13926608,
+      "date": "2013-02-22T03:25:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 13945627,
+      "date": "2013-02-22T14:31:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 13945693,
+      "date": "2013-02-22T14:32:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14272632,
+      "date": "2013-03-01T04:23:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14272871,
+      "date": "2013-03-01T04:38:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14689334,
+      "date": "2013-03-10T21:09:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14690400,
+      "date": "2013-03-10T22:04:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14690858,
+      "date": "2013-03-10T22:28:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15163646,
+      "date": "2013-03-20T08:47:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15168541,
+      "date": "2013-03-20T10:56:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15553961,
+      "date": "2013-03-27T21:22:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15554235,
+      "date": "2013-03-27T21:28:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15884719,
+      "date": "2013-04-04T08:10:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15884737,
+      "date": "2013-04-04T08:10:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15967183,
+      "date": "2013-04-05T16:46:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15967247,
+      "date": "2013-04-05T16:47:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16005094,
+      "date": "2013-04-06T22:10:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16177581,
+      "date": "2013-04-10T14:29:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16179633,
+      "date": "2013-04-10T14:59:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16179650,
+      "date": "2013-04-10T15:00:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16183964,
+      "date": "2013-04-10T16:05:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16184260,
+      "date": "2013-04-10T16:10:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16187263,
+      "date": "2013-04-10T16:58:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16190764,
+      "date": "2013-04-10T17:55:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16190823,
+      "date": "2013-04-10T17:56:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 16191471,
+      "date": "2013-04-10T18:07:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 17364846,
+      "date": "2013-05-02T21:07:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 17801196,
+      "date": "2013-05-13T09:25:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 17837536,
+      "date": "2013-05-13T20:16:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 18285624,
+      "date": "2013-05-22T15:18:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 21237708,
+      "date": "2013-07-19T08:30:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 21246306,
+      "date": "2013-07-19T12:12:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 22553699,
+      "date": "2013-08-13T09:44:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 22762478,
+      "date": "2013-08-16T12:13:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 23155515,
+      "date": "2013-08-23T10:29:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 23855238,
+      "date": "2013-09-05T09:38:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 23973252,
+      "date": "2013-09-06T22:24:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 24303414,
+      "date": "2013-09-12T08:49:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 24362553,
+      "date": "2013-09-12T23:02:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 26703808,
+      "date": "2013-10-21T09:40:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 26768064,
+      "date": "2013-10-22T00:14:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 29278695,
+      "date": "2013-11-26T09:40:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 31649922,
+      "date": "2014-01-06T14:00:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 34087110,
+      "date": "2014-02-04T17:52:56Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 35725135,
+      "date": "2014-02-21T12:05:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 39854601,
+      "date": "2014-04-08T14:30:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 39854765,
+      "date": "2014-04-08T14:31:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 39854994,
+      "date": "2014-04-08T14:33:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 39924946,
+      "date": "2014-04-09T03:14:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 41039308,
+      "date": "2014-04-22T13:31:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 50312099,
+      "date": "2014-07-28T08:35:15Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 66126963,
+      "date": "2014-12-08T14:59:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 70401986,
+      "date": "2015-01-18T09:43:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 87194195,
+      "date": "2015-03-28T08:58:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 399116,
+      "date": "2010-09-10T10:56:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 863714,
+      "date": "2011-03-12T15:16:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 865301,
+      "date": "2011-03-13T08:01:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 865811,
+      "date": "2011-03-13T14:23:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 896572,
+      "date": "2011-03-20T23:05:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1092579,
+      "date": "2011-05-03T08:13:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095318,
+      "date": "2011-05-03T17:45:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095535,
+      "date": "2011-05-03T18:23:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095706,
+      "date": "2011-05-03T18:56:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1095741,
+      "date": "2011-05-03T19:01:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1102077,
+      "date": "2011-05-04T20:49:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1119033,
+      "date": "2011-05-08T12:57:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1205925,
+      "date": "2011-05-19T19:53:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1206636,
+      "date": "2011-05-19T21:47:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1226822,
+      "date": "2011-05-24T08:29:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1254365,
+      "date": "2011-05-28T16:12:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1262189,
+      "date": "2011-05-30T16:28:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1268708,
+      "date": "2011-05-31T17:36:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1332904,
+      "date": "2011-06-09T09:00:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1360414,
+      "date": "2011-06-13T17:25:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1364386,
+      "date": "2011-06-14T07:54:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1364641,
+      "date": "2011-06-14T08:46:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1379821,
+      "date": "2011-06-16T09:31:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1380478,
+      "date": "2011-06-16T12:10:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1400884,
+      "date": "2011-06-20T06:40:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1401020,
+      "date": "2011-06-20T07:24:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1401338,
+      "date": "2011-06-20T08:39:03Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1404027,
+      "date": "2011-06-20T16:55:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1413961,
+      "date": "2011-06-21T21:21:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1430163,
+      "date": "2011-06-24T04:05:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1440324,
+      "date": "2011-06-26T07:18:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1490804,
+      "date": "2011-07-02T22:45:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1490851,
+      "date": "2011-07-02T23:02:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1496252,
+      "date": "2011-07-04T08:09:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1537720,
+      "date": "2011-07-09T06:44:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1605132,
+      "date": "2011-07-19T07:41:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1724945,
+      "date": "2011-08-04T06:59:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1775701,
+      "date": "2011-08-10T19:10:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1813711,
+      "date": "2011-08-16T04:59:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1880685,
+      "date": "2011-08-23T15:11:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1880725,
+      "date": "2011-08-23T15:15:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1880965,
+      "date": "2011-08-23T15:36:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1881054,
+      "date": "2011-08-23T15:44:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1881170,
+      "date": "2011-08-23T15:56:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1881349,
+      "date": "2011-08-23T16:19:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 1980521,
+      "date": "2011-09-02T16:17:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2004587,
+      "date": "2011-09-05T17:12:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2022051,
+      "date": "2011-09-06T20:41:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2033156,
+      "date": "2011-09-07T20:17:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2119687,
+      "date": "2011-09-16T23:02:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2120117,
+      "date": "2011-09-17T00:07:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2246261,
+      "date": "2011-09-30T05:10:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2257211,
+      "date": "2011-10-01T14:48:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2257420,
+      "date": "2011-10-01T15:45:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2258233,
+      "date": "2011-10-01T18:36:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2267709,
+      "date": "2011-10-02T23:42:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2267741,
+      "date": "2011-10-02T23:51:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2268082,
+      "date": "2011-10-03T01:38:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2282554,
+      "date": "2011-10-04T04:58:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483033,
+      "date": "2011-10-21T16:06:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483257,
+      "date": "2011-10-21T16:26:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483502,
+      "date": "2011-10-21T16:48:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483520,
+      "date": "2011-10-21T16:49:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2483766,
+      "date": "2011-10-21T17:09:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 2504823,
+      "date": "2011-10-24T15:26:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3000487,
+      "date": "2011-12-03T12:53:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3409940,
+      "date": "2012-01-09T10:58:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 3680250,
+      "date": "2012-01-27T01:03:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4211329,
+      "date": "2012-02-28T08:12:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4309023,
+      "date": "2012-03-04T11:02:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4311350,
+      "date": "2012-03-04T17:26:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4327815,
+      "date": "2012-03-05T17:53:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4341569,
+      "date": "2012-03-06T09:54:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4347779,
+      "date": "2012-03-06T16:37:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4438118,
+      "date": "2012-03-11T10:43:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4438121,
+      "date": "2012-03-11T10:44:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4557023,
+      "date": "2012-03-17T21:00:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4636156,
+      "date": "2012-03-22T11:01:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4713243,
+      "date": "2012-03-27T10:03:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 4895952,
+      "date": "2012-04-03T07:36:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5215098,
+      "date": "2012-04-19T05:20:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5676802,
+      "date": "2012-05-13T14:56:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5678928,
+      "date": "2012-05-13T19:52:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5679288,
+      "date": "2012-05-13T20:35:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5684670,
+      "date": "2012-05-14T08:15:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5961609,
+      "date": "2012-05-28T09:10:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 5961665,
+      "date": "2012-05-28T09:14:16Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6110763,
+      "date": "2012-06-04T20:55:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6121017,
+      "date": "2012-06-05T09:11:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6122519,
+      "date": "2012-06-05T11:01:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6122561,
+      "date": "2012-06-05T11:06:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8123422,
+      "date": "2012-08-29T12:24:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8128450,
+      "date": "2012-08-29T15:07:50Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8141958,
+      "date": "2012-08-29T21:32:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8151304,
+      "date": "2012-08-30T07:23:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8222758,
+      "date": "2012-09-02T15:10:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8255102,
+      "date": "2012-09-04T07:52:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8255220,
+      "date": "2012-09-04T07:57:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8256396,
+      "date": "2012-09-04T08:47:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8261149,
+      "date": "2012-09-04T12:30:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8265414,
+      "date": "2012-09-04T14:44:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8265990,
+      "date": "2012-09-04T14:59:20Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8292842,
+      "date": "2012-09-05T09:47:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8292858,
+      "date": "2012-09-05T09:48:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8294291,
+      "date": "2012-09-05T10:54:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8294531,
+      "date": "2012-09-05T11:06:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8788369,
+      "date": "2012-09-22T12:33:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8882050,
+      "date": "2012-09-26T08:03:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10020988,
+      "date": "2012-11-02T16:54:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10021615,
+      "date": "2012-11-02T17:12:10Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 10562207,
+      "date": "2012-11-20T16:47:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11411378,
+      "date": "2012-12-15T22:27:36Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11628851,
+      "date": "2012-12-21T22:17:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11763628,
+      "date": "2012-12-30T11:19:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11921472,
+      "date": "2013-01-05T23:08:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11922436,
+      "date": "2013-01-06T00:49:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11922661,
+      "date": "2013-01-06T01:12:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11927269,
+      "date": "2013-01-06T11:35:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11929150,
+      "date": "2013-01-06T14:40:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11930757,
+      "date": "2013-01-06T16:49:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11931738,
+      "date": "2013-01-06T18:08:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11931748,
+      "date": "2013-01-06T18:09:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11931849,
+      "date": "2013-01-06T18:15:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11932326,
+      "date": "2013-01-06T18:51:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 11936300,
+      "date": "2013-01-06T23:02:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12560493,
+      "date": "2013-01-22T19:08:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12560512,
+      "date": "2013-01-22T19:08:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12836885,
+      "date": "2013-01-29T14:31:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 12884233,
+      "date": "2013-01-30T10:53:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13026833,
+      "date": "2013-02-02T09:19:13Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13028940,
+      "date": "2013-02-02T12:44:02Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13448374,
+      "date": "2013-02-12T18:43:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13448495,
+      "date": "2013-02-12T18:45:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13449283,
+      "date": "2013-02-12T18:59:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13575819,
+      "date": "2013-02-14T20:12:08Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13747233,
+      "date": "2013-02-18T22:42:27Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13987150,
+      "date": "2013-02-23T08:44:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14104472,
+      "date": "2013-02-26T10:16:11Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14104982,
+      "date": "2013-02-26T10:28:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14145781,
+      "date": "2013-02-26T23:06:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14159381,
+      "date": "2013-02-27T06:35:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14159461,
+      "date": "2013-02-27T06:38:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14219390,
+      "date": "2013-02-28T06:46:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 14219650,
+      "date": "2013-02-28T06:55:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15005594,
+      "date": "2013-03-16T14:25:19Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15026235,
+      "date": "2013-03-17T16:58:47Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15102543,
+      "date": "2013-03-19T08:27:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15334813,
+      "date": "2013-03-23T10:13:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15574081,
+      "date": "2013-03-28T08:52:58Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15640568,
+      "date": "2013-03-29T13:28:06Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15767122,
+      "date": "2013-04-02T10:14:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 15860389,
+      "date": "2013-04-03T19:54:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 16304753,
+      "date": "2013-04-12T17:06:23Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 16713183,
+      "date": "2013-04-20T23:25:29Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 16723212,
+      "date": "2013-04-21T13:36:30Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17626769,
+      "date": "2013-05-08T19:00:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17627478,
+      "date": "2013-05-08T19:12:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17768785,
+      "date": "2013-05-11T22:36:37Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17778568,
+      "date": "2013-05-12T14:16:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 17779476,
+      "date": "2013-05-12T15:20:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18386439,
+      "date": "2013-05-24T04:49:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18781838,
+      "date": "2013-06-01T01:58:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18825889,
+      "date": "2013-06-03T07:36:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18826365,
+      "date": "2013-06-03T07:49:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 18826682,
+      "date": "2013-06-03T07:57:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 19494378,
+      "date": "2013-06-15T10:24:48Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 19494596,
+      "date": "2013-06-15T10:43:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 19503530,
+      "date": "2013-06-15T21:13:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 21212147,
+      "date": "2013-07-18T20:25:54Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 21356640,
+      "date": "2013-07-22T16:28:12Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 22401790,
+      "date": "2013-08-09T15:27:45Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 22596371,
+      "date": "2013-08-13T20:49:35Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 23704554,
+      "date": "2013-09-03T11:12:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 23704741,
+      "date": "2013-09-03T11:15:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 24081844,
+      "date": "2013-09-09T14:45:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 24629121,
+      "date": "2013-09-17T22:53:34Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 24908473,
+      "date": "2013-09-23T09:41:46Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 25797974,
+      "date": "2013-10-07T10:22:53Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 26051552,
+      "date": "2013-10-10T13:04:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 26768659,
+      "date": "2013-10-22T00:26:10Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 31635875,
+      "date": "2014-01-06T09:23:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 35712270,
+      "date": "2014-02-21T09:41:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43490280,
+      "date": "2014-05-19T11:19:09Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43491222,
+      "date": "2014-05-19T11:31:18Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43491740,
+      "date": "2014-05-19T11:38:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 43492441,
+      "date": "2014-05-19T11:48:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46561234,
+      "date": "2014-06-19T13:41:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46813159,
+      "date": "2014-06-23T07:24:38Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46818646,
+      "date": "2014-06-23T08:38:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 46818713,
+      "date": "2014-06-23T08:39:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 47765987,
+      "date": "2014-07-02T11:44:52Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 53582973,
+      "date": "2014-08-27T14:45:57Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 57630131,
+      "date": "2014-10-02T13:35:49Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 57690947,
+      "date": "2014-10-02T19:20:39Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 58671673,
+      "date": "2014-10-10T15:27:44Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 63716610,
+      "date": "2014-11-19T21:26:24Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 74414252,
+      "date": "2015-02-15T11:43:42Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 75018787,
+      "date": "2015-02-19T09:11:59Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 81172772,
+      "date": "2015-03-15T17:31:07Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 78,
+      "date": "2014-04-08T14:35:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 189,
+      "date": "2011-06-09T14:04:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 188,
+      "date": "2011-06-09T07:15:14Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 182,
+      "date": "2011-05-31T11:04:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 181,
+      "date": "2011-05-31T09:56:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 180,
+      "date": "2011-05-31T09:17:28Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 179,
+      "date": "2011-05-31T09:04:43Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 156,
+      "date": "2011-05-04T09:49:31Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 155,
+      "date": "2011-05-04T09:20:25Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 154,
+      "date": "2011-05-04T09:10:32Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 136,
+      "date": "2011-03-21T22:54:00Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 132,
+      "date": "2011-03-18T17:57:33Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 131,
+      "date": "2011-03-18T14:08:55Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 130,
+      "date": "2011-03-18T13:50:40Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 129,
+      "date": "2011-03-18T13:50:04Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 50,
+      "date": "2010-09-08T13:00:51Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 49,
+      "date": "2010-09-08T12:39:22Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 48,
+      "date": "2010-09-08T11:44:21Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "issue",
+      "id": 31,
+      "date": "2012-12-10T15:15:17Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "sinatra/rack-protection",
+      "type": "issue",
+      "id": 19,
+      "date": "2012-04-20T08:09:26Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 629,
+      "date": "2013-12-05T13:49:41Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 359,
+      "date": "2012-03-08T08:14:01Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 300,
+      "date": "2011-12-30T20:39:05Z"
+    },
+    {
+      "dev_id": "rkh",
+      "repo": "rack/rack",
+      "type": "issue",
+      "id": 128,
+      "date": "2011-03-12T15:43:24Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "9cf5250a99d1524b8f8d9ef9d63de43bb0c2dc96",
+      "date": "2013-01-21T11:16:28Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "32a9d084bf75a83e4862abd7f5ebd676a82f2b1c",
+      "date": "2013-01-14T15:48:10Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "a744eb0f0bed59bbdbb1fe028eef892f6b8bd59e",
+      "date": "2013-01-13T15:15:25Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 5736948,
+      "date": "2012-05-16T09:35:39Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11777601,
+      "date": "2012-12-31T13:48:56Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11788901,
+      "date": "2013-01-01T11:46:25Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11799830,
+      "date": "2013-01-02T04:11:15Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11851364,
+      "date": "2013-01-03T17:02:23Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11909417,
+      "date": "2013-01-05T03:39:06Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 11915623,
+      "date": "2013-01-05T16:02:06Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12215378,
+      "date": "2013-01-14T11:52:07Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12496211,
+      "date": "2013-01-21T12:42:45Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6110463,
+      "date": "2012-06-04T20:42:09Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6117378,
+      "date": "2012-06-05T04:26:21Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6121801,
+      "date": "2012-06-05T10:05:41Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6122544,
+      "date": "2012-06-05T11:05:19Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6128362,
+      "date": "2012-06-05T15:47:00Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6135292,
+      "date": "2012-06-05T20:11:43Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 8036859,
+      "date": "2012-08-26T20:38:02Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 13809221,
+      "date": "2013-02-20T00:35:36Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 41,
+      "date": "2013-01-21T11:16:35Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 23,
+      "date": "2012-05-16T08:50:14Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 496,
+      "date": "2013-01-14T15:48:24Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 494,
+      "date": "2013-01-13T15:15:37Z"
+    },
+    {
+      "dev_id": "homakov",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 398,
+      "date": "2012-06-04T20:39:22Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "4775e7926df123ed60d98b9e43a46fc17276c033",
+      "date": "2013-03-10T18:09:27Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "rack/rack",
+      "type": "commit",
+      "id": "91bbcea219538e507265e4d9461c4a0e1e62c404",
+      "date": "2011-05-03T08:41:45Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 12785908,
+      "date": "2013-01-28T15:09:49Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14686868,
+      "date": "2013-03-10T19:00:54Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14690372,
+      "date": "2013-03-10T22:02:37Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14690806,
+      "date": "2013-03-10T22:25:56Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14691055,
+      "date": "2013-03-10T22:37:53Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 46,
+      "date": "2013-03-10T17:57:05Z"
+    },
+    {
+      "dev_id": "skade",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 42,
+      "date": "2013-01-28T15:02:02Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "94f79088a38e0176b983a3b5d9a3739eef475f82",
+      "date": "2013-09-06T20:55:31Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "c415d50c7ce97d35c8fae706dbed3390330b983d",
+      "date": "2013-09-04T01:26:10Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "commit",
+      "id": "85858c194c985f5cfd24c64b0a6edc38434b0bdd",
+      "date": "2013-09-09T22:26:03Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 23968796,
+      "date": "2013-09-06T20:57:50Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 23970508,
+      "date": "2013-09-06T21:28:21Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 24194654,
+      "date": "2013-09-10T21:07:26Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 6844468,
+      "date": "2012-07-09T11:53:07Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 69,
+      "date": "2013-09-09T22:37:18Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 68,
+      "date": "2013-09-05T00:25:50Z"
+    },
+    {
+      "dev_id": "pje",
+      "repo": "rack/rack",
+      "type": "pr",
+      "id": 404,
+      "date": "2012-07-09T11:02:32Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14273520,
+      "date": "2013-03-01T05:17:00Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 14273620,
+      "date": "2013-03-01T05:22:26Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15166432,
+      "date": "2013-03-20T09:58:42Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "sinatra/rack-protection",
+      "type": "com",
+      "id": 15171099,
+      "date": "2013-03-20T11:56:57Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "rack/rack",
+      "type": "com",
+      "id": 91346124,
+      "date": "2015-04-09T20:19:20Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "sinatra/rack-protection",
+      "type": "pr",
+      "id": 75,
+      "date": "2014-02-21T12:02:58Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "sinatra/rack-protection",
+      "type": "issue",
+      "id": 72,
+      "date": "2013-11-30T18:48:27Z"
+    },
+    {
+      "dev_id": "mkristian",
+      "repo": "sinatra/rack-protection",
+      "type": "issue",
+      "id": 40,
+      "date": "2013-01-18T15:22:33Z"
+    }
+  ]
+}

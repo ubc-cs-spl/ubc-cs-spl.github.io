@@ -1,0 +1,5628 @@
+{
+  "user_repo": "mhenrixon/sidekiq-unique-jobs",
+  "dep_repo": "philostler/rspec-sidekiq",
+  "dep_date": "2013-11-24 12:32:12 UTC",
+  "dep_commit_id": "7787ffc069424a4d685a6f36afc176bfebc359ad",
+  "social_date": "2013-03-23 15:57:58 UTC",
+  "devs": [
+    "philostler",
+    "philostler@gmail.com",
+    "mhenrixon"
+  ],
+  "interactions": [
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "af9d3f587f988f590a22c2d1d97225de23e8ab63",
+      "date": "2015-08-20T23:11:33Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5639f5ef371c35c004182d8c44367725af0ddbad",
+      "date": "2015-08-05T20:20:01Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "64a147b06b7c171a0c98f503ee74df24315bb608",
+      "date": "2015-08-05T20:18:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1574ebc9f6b6d891745f4b4d6b39601ff36eb25c",
+      "date": "2015-08-05T20:18:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "3fbe4955a7276d68a85595edd082baca6e609dfc",
+      "date": "2015-08-05T20:05:13Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "cdbf9c6d75ecedbdff88185ee3beb917fafe389c",
+      "date": "2015-08-05T19:58:29Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "89df249a642a26701739f39e32c668382e8398e9",
+      "date": "2015-08-05T19:57:30Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "6033c22a2076c0516725a661d4e6d5e3f51639df",
+      "date": "2015-08-05T19:52:48Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1cdbba1d35d4411ad1d0e8335fe321bca789b1e7",
+      "date": "2015-08-05T19:44:21Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "9da47d07249acae10b1613ba0ebe38487064414b",
+      "date": "2015-08-05T19:43:37Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d771da34bec3c781629b700fc3f7a17141d9faec",
+      "date": "2015-08-05T19:34:19Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5a1bdf6e0f975ad78be9df939a157eae2f76256d",
+      "date": "2015-08-05T19:33:00Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5025bd18dbe2f7afb3c83a6b2d317fa87ab0303e",
+      "date": "2015-08-05T18:09:01Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "a896f54cc2024e2642ad6e17eeb88f973203c5f9",
+      "date": "2015-08-05T18:05:38Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "97bbf1384e08a84febf0d02f3b2a0b62af91c8c4",
+      "date": "2015-06-03T23:33:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "f7cdaae65fdbab26ccc46e0af768b70bcd966454",
+      "date": "2015-06-03T23:30:00Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "38cba26735aed849e95c3057fd1a6272790ee5ed",
+      "date": "2015-06-03T23:29:53Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "19bb686592ca18c2caf33266b27a02bda0cdf076",
+      "date": "2015-06-03T23:26:49Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d9148d04c1169ef7fbca403aa702de6c4f58f78a",
+      "date": "2015-06-03T23:26:10Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "83a74a9ee77d7386aab7f4f1b7ade7e09c01c8b5",
+      "date": "2015-06-03T23:26:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "4d11424070b3fe80bc2a8ea18e77422b5bb20fc0",
+      "date": "2015-06-03T23:23:04Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "bd7c3856de2abf3b7f9253f030f2312d9e23ca7a",
+      "date": "2015-06-03T23:21:27Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ab49034f03a080dbc1b3f54a4bda83e004a7e95d",
+      "date": "2015-06-03T23:11:00Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "163f74e31d9103cbfcfb5e9a8048764555d81241",
+      "date": "2015-06-03T23:09:08Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "a0215726600b6f55261202e7825a69f76745af82",
+      "date": "2014-11-16T22:54:06Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b28bd251e48d36ad216b6fdacf9f51696e1dc3ab",
+      "date": "2014-11-16T22:53:47Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "37bec18964e67fb51214d4d6624db82501aa74ee",
+      "date": "2014-11-16T22:47:39Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "bd1bfb541885818fbe38ca9413583d1b90202ed0",
+      "date": "2014-09-24T23:55:38Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ddf94f92370957365a61f2cd10f3a1d4b1793f26",
+      "date": "2014-09-24T19:57:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "6f1ba4e318e2a42c085b06397a57af5552284530",
+      "date": "2014-09-24T19:44:27Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "6e95d3f9cd651f1ab78aafad698dfd5edddaae67",
+      "date": "2014-09-21T22:27:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "08f0758c9174d4c54e6ab6a6c0a8e88bb77cc02c",
+      "date": "2014-09-21T22:11:09Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "7ae415a70034801aa974199e6171d074b5af0523",
+      "date": "2014-09-21T22:10:11Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "3861e4bc1571493bdac6e7e05cf9a74a5245b17a",
+      "date": "2014-09-21T22:09:29Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e75c3ded69fbd7f37cfb44128d92efdf44b29268",
+      "date": "2014-09-21T22:02:53Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "34684262a2b553d5ba51a04434de80ea094cc012",
+      "date": "2014-09-21T22:02:27Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "aee37f9d1fb651c288de8287f72e23987c1c88f8",
+      "date": "2014-09-21T21:47:33Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b6fcbc61030a2ecb6b5091aa3c6bed688a217216",
+      "date": "2014-09-10T21:16:00Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "22c6da4fc6321dc046fa9bcef97c8d904368a753",
+      "date": "2014-08-19T21:18:07Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "da61292e4f470dab4e25f8909bd48b582767df61",
+      "date": "2014-08-19T21:18:07Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "25ae22d8aded877d4f03aee5c3bd8fed715ab108",
+      "date": "2014-08-19T21:11:14Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "8225bb91d014d7abde502fa38d2dfce0c35374af",
+      "date": "2014-08-19T21:10:53Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "f01a68d6bccc2667848ca57cec50f61beb4126dd",
+      "date": "2014-08-19T21:07:19Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "c5a719e7a1d0b8bd8dcb3c88bf93ce8207bc9702",
+      "date": "2014-08-19T21:07:00Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b97411c0fb5f6e8947691ec3a5f3de87407923cc",
+      "date": "2014-08-16T13:10:28Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "86b655d2bddf026a394e855c756d86e9c84884dd",
+      "date": "2014-08-12T23:15:38Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b962b9cd8e9de1eb65021b087578741a95aba154",
+      "date": "2014-08-12T23:11:45Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "8c9f95a8333cba585b0981ecf4ba3c150b7daeaf",
+      "date": "2014-08-12T23:09:58Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "dcbbc685fbb96982651ee48878be86dc38b73b16",
+      "date": "2014-08-12T23:09:41Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "3bf31238d73feb54ada90579a272663a87c77d32",
+      "date": "2014-08-12T23:01:28Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b693aca7ae759e0f26894bbb80f0ad32ea5b80c8",
+      "date": "2014-06-25T13:56:45Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "926a1da6eea3e2f8e1a29fd2911438213c8419cb",
+      "date": "2014-06-25T13:20:50Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ccb6865efc42e0ff0f9bff20fd03785d25d57f04",
+      "date": "2014-06-25T12:35:28Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "8cbda26a1c54b99f38ac5e78231dfeadc981f893",
+      "date": "2014-06-25T12:34:16Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "be43ee47162fbe12b9d6831725f99f98a0295781",
+      "date": "2014-06-25T12:34:03Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "cbadf19696cd78bfbabead624e41859a50583a5f",
+      "date": "2014-06-25T12:25:40Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "eacf82e4345a56bbcfbbfee0c6e68878b55600fc",
+      "date": "2014-06-25T12:24:25Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "54d3ca4d648e350af39e4724d8f082ad4aa89c42",
+      "date": "2014-06-25T12:23:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "a7147ebe9348dc9588d9981874ad99932095158e",
+      "date": "2014-06-25T12:22:11Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "63394c43a2bc2be6ffc329fc61a669c8db4099ed",
+      "date": "2014-06-25T12:20:02Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b6cac489a2e2a7fe6e8d4f693f53c67aa878fbe5",
+      "date": "2014-06-25T12:18:41Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b0fddaca8da8bb6f23649248fddc3f74d050b9e6",
+      "date": "2014-06-25T12:16:26Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "61f285e781731912aa1af75e2f698ec1677aed63",
+      "date": "2014-06-25T12:13:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5b9888a395d94f6fe7a2360966f79bc9507d6e8c",
+      "date": "2014-06-25T12:09:42Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "f2d93dff86eb0737ee8a987b7f7e17e013725274",
+      "date": "2014-06-25T12:07:34Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "2f5d0ebc192ec42543d80c6495bc06fe6e8916c3",
+      "date": "2014-06-25T12:03:52Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "3e3942a6478773d2b1239d5d7d8289f5fe21f0c5",
+      "date": "2014-06-25T12:03:39Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d64962c4b77a7cb531a24cd4e2729fa3134e0f13",
+      "date": "2014-03-25T20:16:42Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "0951690416725795e56619d89144e49fd233d031",
+      "date": "2014-03-25T20:09:16Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "6e2b1137d1fcccd0fac395dba9cbebbd6c4e61fc",
+      "date": "2014-03-25T20:07:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e2188d4618bfc790d38a2a0d4cdd7e863fdd9f23",
+      "date": "2014-03-25T20:07:13Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "395d4cf450d858c2e3371f92c4b321c549bec009",
+      "date": "2014-03-25T20:05:11Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "799e7fc53cb600e2ff5d1d858e464838affa1505",
+      "date": "2014-03-08T11:04:16Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "beded56e6d637196479f6ce458c013e8f3d0f1c9",
+      "date": "2014-03-06T23:33:03Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e674fbc9913cb832b10893e90f800bb43adaa1db",
+      "date": "2014-03-06T23:33:03Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "804baa16a85324115eaec356e378951b4fc6e437",
+      "date": "2013-03-25T02:15:13Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 8793448,
+      "date": "2012-09-22T22:27:04Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 15609887,
+      "date": "2013-03-28T19:38:29Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 15536930,
+      "date": "2013-03-27T17:10:43Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 15541415,
+      "date": "2013-03-27T18:05:13Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 16015235,
+      "date": "2013-04-07T13:38:27Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 16160588,
+      "date": "2013-04-10T08:03:40Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 16161424,
+      "date": "2013-04-10T08:26:30Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 16164027,
+      "date": "2013-04-10T09:31:07Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 16179608,
+      "date": "2013-04-10T14:59:28Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 16181421,
+      "date": "2013-04-10T15:25:29Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17308666,
+      "date": "2013-05-01T21:47:06Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17368750,
+      "date": "2013-05-02T22:25:48Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17371555,
+      "date": "2013-05-02T23:43:23Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17780750,
+      "date": "2013-05-12T16:39:24Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17947971,
+      "date": "2013-05-15T15:58:26Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17948072,
+      "date": "2013-05-15T15:59:46Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17949158,
+      "date": "2013-05-15T16:15:50Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17949326,
+      "date": "2013-05-15T16:18:53Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17949468,
+      "date": "2013-05-15T16:21:21Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17957216,
+      "date": "2013-05-15T18:30:55Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17965038,
+      "date": "2013-05-15T20:45:37Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17965094,
+      "date": "2013-05-15T20:46:25Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 17965261,
+      "date": "2013-05-15T20:49:19Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 21664710,
+      "date": "2013-07-27T12:27:50Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 23526848,
+      "date": "2013-08-29T21:59:31Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 23656559,
+      "date": "2013-09-02T12:08:58Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 23934488,
+      "date": "2013-09-06T11:44:39Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 24195768,
+      "date": "2013-09-10T21:23:14Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 24195873,
+      "date": "2013-09-10T21:24:46Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 25453275,
+      "date": "2013-10-01T14:19:01Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 26409741,
+      "date": "2013-10-16T11:17:41Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 27731030,
+      "date": "2013-11-04T22:50:33Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 30182431,
+      "date": "2013-12-09T22:50:55Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 30371332,
+      "date": "2013-12-11T22:32:44Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 30371511,
+      "date": "2013-12-11T22:35:00Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 30567604,
+      "date": "2013-12-14T11:41:59Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 30626831,
+      "date": "2013-12-16T00:58:48Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31050508,
+      "date": "2013-12-20T23:53:50Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31051030,
+      "date": "2013-12-21T00:07:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31051799,
+      "date": "2013-12-21T00:29:47Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31151740,
+      "date": "2013-12-24T00:17:04Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31222668,
+      "date": "2013-12-26T14:36:01Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31222884,
+      "date": "2013-12-26T14:44:48Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31262225,
+      "date": "2013-12-27T14:33:06Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 31374503,
+      "date": "2013-12-30T22:59:05Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 33541743,
+      "date": "2014-01-28T23:52:08Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 33639591,
+      "date": "2014-01-29T22:35:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 33640093,
+      "date": "2014-01-29T22:40:40Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 36737308,
+      "date": "2014-03-05T12:28:30Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 36951565,
+      "date": "2014-03-06T23:34:42Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 36951785,
+      "date": "2014-03-06T23:38:00Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 36951975,
+      "date": "2014-03-06T23:40:21Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 36952220,
+      "date": "2014-03-06T23:43:33Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 37516815,
+      "date": "2014-03-13T10:09:36Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 38614387,
+      "date": "2014-03-25T20:12:28Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 42490205,
+      "date": "2014-05-07T22:13:26Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 42494945,
+      "date": "2014-05-07T23:13:19Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 45433886,
+      "date": "2014-06-08T10:50:16Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 45433980,
+      "date": "2014-06-08T10:56:01Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 45434009,
+      "date": "2014-06-08T10:57:28Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 45434128,
+      "date": "2014-06-08T11:04:08Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 45434187,
+      "date": "2014-06-08T11:07:47Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 47093968,
+      "date": "2014-06-25T12:27:02Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 47097589,
+      "date": "2014-06-25T13:04:31Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 47104527,
+      "date": "2014-06-25T14:03:04Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 51989789,
+      "date": "2014-08-12T23:03:55Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 52700947,
+      "date": "2014-08-19T21:22:20Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 54008675,
+      "date": "2014-09-01T01:50:41Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 55010710,
+      "date": "2014-09-09T18:09:32Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 55090740,
+      "date": "2014-09-10T09:23:26Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 55184323,
+      "date": "2014-09-10T21:16:37Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 55918760,
+      "date": "2014-09-17T16:15:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 56314070,
+      "date": "2014-09-21T21:51:01Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 63243442,
+      "date": "2014-11-16T22:47:16Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 63746572,
+      "date": "2014-11-20T01:25:04Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 63747226,
+      "date": "2014-11-20T01:32:13Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 65775132,
+      "date": "2014-12-05T10:59:48Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 71728292,
+      "date": "2015-01-27T21:08:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 77858567,
+      "date": "2015-03-09T14:03:45Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 77859271,
+      "date": "2015-03-09T14:07:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 93804853,
+      "date": "2015-04-16T18:09:06Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 108640821,
+      "date": "2015-06-03T23:08:56Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 108641930,
+      "date": "2015-06-03T23:12:26Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 108644677,
+      "date": "2015-06-03T23:24:06Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 108646429,
+      "date": "2015-06-03T23:31:38Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 108646979,
+      "date": "2015-06-03T23:35:31Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 108652748,
+      "date": "2015-06-04T00:07:03Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 128132655,
+      "date": "2015-08-05T20:06:57Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 128140210,
+      "date": "2015-08-05T20:34:48Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 128992769,
+      "date": "2015-08-08T15:48:28Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 133208873,
+      "date": "2015-08-20T23:14:51Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 133817307,
+      "date": "2015-08-23T11:02:23Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 133817334,
+      "date": "2015-08-23T11:03:09Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "pr",
+      "id": 3,
+      "date": "2012-09-21T00:03:02Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "pr",
+      "id": 70,
+      "date": "2015-06-03T23:26:34Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 56,
+      "date": "2014-06-08T11:11:18Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 37,
+      "date": "2013-12-27T13:40:33Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 28,
+      "date": "2013-12-05T01:30:35Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 27,
+      "date": "2013-12-05T01:25:02Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 26,
+      "date": "2013-12-05T01:24:18Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 25,
+      "date": "2013-12-05T01:20:35Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 24,
+      "date": "2013-12-05T01:19:16Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 23,
+      "date": "2013-12-05T01:07:38Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 9,
+      "date": "2013-04-13T12:16:02Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 8,
+      "date": "2013-04-13T12:08:17Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 5,
+      "date": "2013-04-07T13:41:48Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 4,
+      "date": "2013-04-07T13:31:22Z"
+    },
+    {
+      "dev_id": "philostler",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "issue",
+      "id": 1,
+      "date": "2013-03-24T01:03:49Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9c96d5b50206e8ea9d6ed17ca2ac0465937b2b50",
+      "date": "2012-09-20T23:59:28Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e7cddc903aba087b7fa5279a4d04d83e4cc1c744",
+      "date": "2014-01-21T01:01:32Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "62bbc04bf98bf6c30d083dcfb704c377e5c9cf53",
+      "date": "2014-01-21T00:55:24Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "66e88697bffc12c26aea06f03a9a78c6fa1bd7a5",
+      "date": "2014-01-21T00:54:35Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "608abaa35544dd1872080fa74c1a267bb55a8bee",
+      "date": "2014-01-21T00:39:51Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "556cd43e30b82cbff3be3c11b0e544ccb2bc484f",
+      "date": "2014-01-21T00:35:58Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "55123962d3d5adeb07e6ff4e31443bc3d105980d",
+      "date": "2014-01-20T23:47:33Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "3c850af536d6773be9091ffe545b871cbea98152",
+      "date": "2014-01-20T23:46:56Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "f712b9f8188749be7e50ed3a7ce0d4a0a5d67eba",
+      "date": "2014-01-20T22:36:42Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "7a78444041895e168c6b8829cbd727a768afd1bb",
+      "date": "2014-01-20T22:30:59Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "801a93fbd2d7689fce25af3f8257ab29255847cf",
+      "date": "2014-01-20T22:16:38Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "995095d152b3f0d62026f3a9574cae0682ae29ce",
+      "date": "2014-01-20T22:06:37Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "0ea29be7801e8f91d82e8e30cb682672e7d674c4",
+      "date": "2014-01-19T18:56:51Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "16a8aa5df552646189421655a87fd0a73c10aa0d",
+      "date": "2014-01-19T18:56:12Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "eac7005ee419e24690ef0ab4186030cbd9b98a83",
+      "date": "2014-01-19T18:39:54Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "16f8a4e8e5244a70932445f18561a6ef1ff8e383",
+      "date": "2014-01-19T18:32:19Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ae099a6d347c0f1297faa63b31eb9b55cd0755e3",
+      "date": "2014-01-19T18:09:45Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1a650ce8f10ea4cc4c198888a3454e50c59051b2",
+      "date": "2014-01-19T02:21:34Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "0c299fe5245d3c21ec0c7427b76458e3d2e5d117",
+      "date": "2014-01-18T23:51:04Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "4b9692cfdc627c879b480d92d2ba309bc9487812",
+      "date": "2014-01-02T20:40:14Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "4c2a2b34d0ea3b4042bb6185049e99fa8b4c7ec4",
+      "date": "2013-12-31T16:06:25Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "c943eaf12f904fc16a95b8b8a6232ffd1eca3ac7",
+      "date": "2013-12-31T01:00:51Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "75e1e446da503f8b225d39182388238e20bcdb6d",
+      "date": "2013-12-30T23:19:13Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "11ad8d1e3aa07715ae4fd679a09436484d641570",
+      "date": "2013-12-30T23:04:22Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1d8b7cee9a4d7853853c662e1f86633f571e0dd2",
+      "date": "2013-12-30T23:02:31Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "85f05ea23f7082b6831861df9088ff6b7aebc379",
+      "date": "2013-12-30T23:04:14Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1897468d973d6feed2d2694202b08c1016a92fe4",
+      "date": "2013-12-27T14:48:10Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "3bd37e0bd307ac925ebc2786630578b0a403f3ce",
+      "date": "2013-12-30T22:35:48Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ef23ab650af55a057c4fb13c0d9b76b5d03a5f6b",
+      "date": "2013-12-27T14:42:50Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "6456385b6d7b3b734c7ce1f776c637a7a86d6604",
+      "date": "2013-12-27T14:41:53Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "2c36868f651467062b00d47136f34a390ceaad08",
+      "date": "2013-12-27T14:27:38Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e470ad5a3740bddec963d8e01b7f3b6641d4d228",
+      "date": "2013-12-27T14:25:19Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e5e728c0419836d0f6bab17660b1933dcc9e030f",
+      "date": "2013-12-27T14:21:49Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "529892c6edf1ff049d11d1854de89b0112e26289",
+      "date": "2013-12-27T14:24:04Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "92935e91ab5fc138294fba0e611a7ec86ae12c08",
+      "date": "2013-12-27T13:58:20Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "8174cf9bdb93a52a050943afdbfaca9f18bf89a7",
+      "date": "2013-12-27T13:27:56Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "0678e48dbe897f5bc3fa28cc3569fd8ea1c351d5",
+      "date": "2013-12-27T13:25:16Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "7e701ad26022e244f830ced4594acd217da94a9f",
+      "date": "2013-12-27T00:52:39Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "2dc52a297ecf175b850131a94fbf592e2b675dc3",
+      "date": "2013-12-27T00:33:54Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "05e8b6bbf01d937916d05591a1db2edbd5882c08",
+      "date": "2013-12-27T00:24:59Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "9e6b313361780fdd9b2f0052171cfe8b1a5cf386",
+      "date": "2013-12-26T15:46:46Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "257f1aecd83dc77806f45b6bf447642eb4bba4ee",
+      "date": "2013-12-24T09:33:27Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "bbc5eddca88e6fcea58a339ddde01e8bf924e426",
+      "date": "2013-12-24T00:03:57Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "8d2d1d16f7828ee03c61c7a7ff9b4aaf9a7fa9fe",
+      "date": "2013-12-21T11:35:57Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "67fa78a953de334026d7de1091dab5c1c7726a0e",
+      "date": "2013-12-21T11:35:33Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b57f258d5066190082cabf70ed64d4e0b8f318b1",
+      "date": "2013-12-21T11:35:16Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "dfa6dfbb0f7556085a83e54b619b81c484eeecad",
+      "date": "2013-12-21T10:41:26Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e30242e57c9e72b33295e50306dca8dca4fcc54e",
+      "date": "2013-12-20T23:53:56Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d99953b1bc2fb487055e2e560774cdab8c2e3ed8",
+      "date": "2013-12-16T00:57:42Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "18f7d1c86706d5667ff57548e78be184b137258c",
+      "date": "2013-12-11T21:35:22Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "6b848c393d3d6685f1bf7395fcb6e966a6beb009",
+      "date": "2013-12-06T13:42:48Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1b1b0899633536102cbab81ef197f486f3e45433",
+      "date": "2013-11-20T15:57:04Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d53aa8c992ba422c765599900cc05825daa57d9d",
+      "date": "2013-11-11T00:04:10Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d2b9fffb56d1f845849c00b0324e77f5a2eb1646",
+      "date": "2013-11-10T23:54:41Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5b1d43c590f54dabb9b317ee00da3183f14c5d2c",
+      "date": "2013-11-10T23:46:51Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "33088b02dd8e080b81a3ffc50eab12c2208a3b53",
+      "date": "2013-11-10T23:42:43Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ac12d2093778b7aa7c82146c9d2b7afad14e730f",
+      "date": "2013-11-10T23:41:35Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "6f12c0a0f576f95f6605cfbdd0c2c9ef73299c01",
+      "date": "2013-11-10T23:28:39Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "bbc3069a27f500bdd2226acc3bf43b2b356c9286",
+      "date": "2013-09-10T21:30:00Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ec233a1d23d5f51a3cfbd62d2aa1020c4fcd7aa4",
+      "date": "2013-09-10T21:29:08Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5668d003f1fada0ecc99a2bf626f3b4985996049",
+      "date": "2013-09-10T21:23:28Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "dc058d7bcb98a7d222a500c78a42de54df8eb17d",
+      "date": "2013-09-02T11:56:24Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ae02f2ff7fd9b831e60287e18c41cb8ca0683713",
+      "date": "2013-09-02T11:56:00Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "0b7f1d5b509ecca1c83d942480c6d3bfce09b733",
+      "date": "2013-09-02T11:28:02Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e493305fc6d7270662575fa9142ce7330ca6c5a6",
+      "date": "2013-09-01T23:45:07Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "56d48e3c0e933b163a460877b4ddfd678e978715",
+      "date": "2013-08-12T19:14:34Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e1d37056e352686bca02ef279ffffe8bf2c28361",
+      "date": "2013-08-12T19:09:35Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "f6d2bc88ebd1581886c87471b4fbceefc2533eaf",
+      "date": "2013-08-12T19:05:34Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ca2619f44f0be29a2765b3b72019a8358ef650ad",
+      "date": "2013-07-16T16:32:19Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "f0db8b018e99b78a33ded30d65b51c9d82328309",
+      "date": "2013-06-05T09:33:35Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "79623702f9bed95479af239c72265a964e5a217d",
+      "date": "2013-05-15T20:55:38Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "77f615b17767f93768469a987d5315af985fa33a",
+      "date": "2013-05-15T20:43:05Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "a36d3e38e5a97567619b51038b4d2fe4f35353c6",
+      "date": "2013-05-15T20:33:12Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5f53322f3cb0ab987d50f5e1c0087fdeae0b67fb",
+      "date": "2013-05-15T19:36:39Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "66167acd4831deea829bec92af34d2f6d6503515",
+      "date": "2013-05-15T19:36:26Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1e270ba4b106cd3988793b011ce3f5dee50b0a59",
+      "date": "2013-05-15T19:35:32Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "84526eeccbc5f0e8f5b575577455dbea9d88d293",
+      "date": "2013-05-15T18:57:04Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b6ff30360497a06d5068af9820472aca44f8dfef",
+      "date": "2013-05-15T18:56:36Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "8241c9740d861218604a54035fa981837e40107f",
+      "date": "2013-05-15T18:02:31Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "94b9a4eb64426a38fed0766e42478b5892d8fee1",
+      "date": "2013-04-20T15:44:07Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "eff9101c02bb3881a28e4ac3a978c03a95631a15",
+      "date": "2013-04-13T12:47:34Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "9eaa61ae5990af626482eabbe612fcfa24a3a51c",
+      "date": "2013-04-13T12:34:23Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "1d026232a7ad62f0764db99c1fd63d71ded0eb6f",
+      "date": "2013-04-10T09:02:51Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "a465ad8ad1e9f2abd5735eaf404cde8f4a36cdbf",
+      "date": "2013-04-09T19:05:39Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "a228ae9234e386e2b2aa05a2e06a36b79015db5f",
+      "date": "2013-04-09T18:26:51Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "9190185ec4413b5c478bba9de95a94183aafcc60",
+      "date": "2013-04-09T18:16:57Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "251e3f66201236f1bef13164bc135b6f4109e80b",
+      "date": "2013-04-09T18:03:46Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "772f035ad83362015ac79f44b96dcf63fffb18c2",
+      "date": "2013-04-07T23:47:33Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "733cb291baa910dded97c8f4c867030b1d2aeccc",
+      "date": "2013-04-07T23:41:22Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "7137ffe1003089b159599d61f1bf56d8d804d8fd",
+      "date": "2013-04-07T13:34:58Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "46ffc6fe210b86f83bdaac3a6797595bd4e8cb05",
+      "date": "2013-04-05T15:45:56Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "150109478ffcb6ab4b0e90a9a204947d1fd66e61",
+      "date": "2013-03-28T17:27:07Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "c99436ce5fb63e4e7aaf53d3346033003b451f86",
+      "date": "2013-03-28T17:26:39Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5a25df0d288662aebb107a332ff7aceabc9dab16",
+      "date": "2013-03-27T02:27:24Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "fe62975a89c71392360a53bf1b52b352c712208f",
+      "date": "2013-03-27T01:02:19Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "3f5aab98145903fc73bf0e03edbb9d2fde62bf4a",
+      "date": "2013-03-26T22:56:19Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "82bdecf8b7a015385203e59938eb6f5d5ae1fa55",
+      "date": "2013-03-25T02:49:41Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "0e6f90f414744ab3e6689729cfd45c06b58514cd",
+      "date": "2013-03-25T02:28:51Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "79002cf520677848b98354fa8271d5680059ceff",
+      "date": "2013-03-25T02:09:36Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "7fd30924d28e9eb6bd8390d2af15b33916562476",
+      "date": "2013-03-25T02:06:30Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d9f7627d57fd34d4d63081ffa34aab89d909a4f4",
+      "date": "2013-03-25T01:31:02Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "4889ec6e35752effb2644098b24f70c1a910d460",
+      "date": "2013-03-25T01:29:17Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "42a105386e00899436a36e46cc289e55416754d1",
+      "date": "2013-03-25T01:05:33Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ccd234541999c5d7972ddc5877d54600279ba30a",
+      "date": "2013-03-24T03:07:02Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "ba835266c56918b9001af1055eb4100b2b4dfa13",
+      "date": "2013-03-24T02:54:13Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "30bf0bd88c15be3b9b80a0ec9ed3295a4c4e4374",
+      "date": "2013-03-24T02:49:22Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "181287f141c6d1c6cf6a4c594b63771f89de1e3b",
+      "date": "2013-03-24T02:46:38Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "0d940af9ac4aa12fae197f903eed912d68a5fc0f",
+      "date": "2013-03-24T02:37:36Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "2527f86c2e9f977a02891134a8a92f3b5701a585",
+      "date": "2013-03-24T02:30:30Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "9ce08819f1d78e9143467b196170e9b3f2774a1f",
+      "date": "2013-03-24T02:21:40Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "5ca6fe24252b264dffdff3dcac43db8d627bbed3",
+      "date": "2013-03-24T02:01:30Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "98841397cdac1c4105dc8584f2f7d13fa54d9605",
+      "date": "2013-03-24T02:01:00Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "fba7110e4910ead53a99580cd62c8241ad8f34eb",
+      "date": "2013-03-24T01:27:04Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "b2600d1e7083c9dde9ae35cc1b6ea29b3f7634c6",
+      "date": "2013-03-24T00:54:14Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "e50c1a2e2abba1b03b8147c3ca1acc6440553142",
+      "date": "2013-03-23T20:01:49Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "d8a1e927b061eb1f3048daa42859558e370dddc6",
+      "date": "2013-03-23T19:26:37Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "7605ed8f8ec603e75de4ce8dac33df69bc0fee52",
+      "date": "2013-03-23T18:51:42Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "de79b129a253537857a63dfd955bd904d37e7b7e",
+      "date": "2013-03-23T18:00:04Z"
+    },
+    {
+      "dev_id": "philostler@gmail.com",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "commit",
+      "id": "024e9b6d66ae72ff8df4e4c29ce61f7f7a4e5a97",
+      "date": "2013-03-23T15:57:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "44010e84eb6db411c3699e6b02acae0ffe84f2e1",
+      "date": "2015-11-14T13:01:03Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "57fb3d1e5c85d0f30165e7d7533032004621e500",
+      "date": "2015-11-14T13:00:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e98c89a1ca913a1d48a7963bee477eaefb494c02",
+      "date": "2015-11-14T13:00:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "21b84714e98bcf983dea8fbcf1462873555c1d9d",
+      "date": "2015-11-14T12:57:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e4ae4ff34a5755c4d64a6f4cbf6c6301883cd5dc",
+      "date": "2015-11-14T12:57:24Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "045ca8935bb3e68d064c3c57987bcaa1c20dfe27",
+      "date": "2015-11-14T00:51:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "8be33d3d7f2fc4382c41999d9c20596ed060ee62",
+      "date": "2015-11-14T00:14:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f3dacc1d43897f7bda541af2ab8b4428ae3f8639",
+      "date": "2015-11-14T00:14:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c292d8734bd43afee79b145f40913c3c3a9b707a",
+      "date": "2015-11-14T00:03:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "999c216e5541f2e333ea28cca4ad060a4de56331",
+      "date": "2015-11-08T00:47:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "d5cbe415365cdabe67cccada012e05953f0b131e",
+      "date": "2015-11-08T00:31:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "55b6f0f80aad38d9d410575d334990f4eef4d26d",
+      "date": "2015-11-08T00:27:11Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "aad0b32aea56d49f726722284c3d553e0ae62a82",
+      "date": "2015-11-07T20:20:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a20fff011cea7e5c33f27276d4015b6e716172a5",
+      "date": "2015-11-07T20:18:36Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f09bb7264cd9934023070da3bb73eb3aa940b6c2",
+      "date": "2015-11-07T20:17:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e27b4a448896cd98a16f3965b3341a17d372a8ec",
+      "date": "2015-11-07T11:21:13Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "17db3f34631812dca38dac59b9d7027b488f2d10",
+      "date": "2015-11-07T11:20:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c92f4277ed1fe060e36e21c84f0adcaaf1220c0e",
+      "date": "2015-11-07T11:15:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "fd7e79df5460e1a35c93a696e865b4772428235d",
+      "date": "2015-10-31T09:16:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "fc835aeda58e5f50bc900a8c27e44dcf92e78cbc",
+      "date": "2015-10-31T09:10:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5c76fa8bd5f84c2364bdc960691fc0e29eed6976",
+      "date": "2015-10-31T09:02:55Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ba21b4091c7a89133e3d8b15be6aa591c2cec384",
+      "date": "2015-10-31T08:58:41Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c19bd765eb750df337522efba88432ca9c3b9ac9",
+      "date": "2015-10-31T08:58:15Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a9543af5822238ddc64a4ebacb7c543e3e678eac",
+      "date": "2015-10-31T08:56:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "fdf0ee0502f1642162c02de206cd2f9f6762a574",
+      "date": "2015-10-31T08:54:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "4df4da6a10b0390f2f6ed22959f5e1db16a8f0ef",
+      "date": "2015-10-19T08:38:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f0b288df084012d8f624ed7c55e6672d5b232f56",
+      "date": "2015-10-16T16:33:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "cfb27683dc2c99e3462167e10ab09360af4ed276",
+      "date": "2015-10-14T16:54:09Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "fb979029ede834ffe2d5b0e230e2b9fb9fe4500b",
+      "date": "2015-10-14T16:54:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ea5382cac121b28f078e7615a53ce0c3d28883d9",
+      "date": "2015-10-14T04:25:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "458179a6951b8738fd70027e1105adfb3409b841",
+      "date": "2015-10-14T04:20:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5d71265340b24221a791e78bd25ec40ed06d716e",
+      "date": "2015-10-14T04:18:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3a093293909e444bb7dadeb84b265990d2382027",
+      "date": "2015-10-14T04:17:55Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c0ae54e6b3e110cf5a2faeecf986f256f7ad748a",
+      "date": "2015-10-13T21:02:30Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "69540b850d09ed6e0c69ab47e7437dc55b4a1ed5",
+      "date": "2015-10-13T18:12:15Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0ec642c25e101f3def8ad685c0489f39bc580c27",
+      "date": "2015-10-12T18:32:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "6f3156d17d89ce035e41ff9054ac0316b93ddd9f",
+      "date": "2015-10-12T18:29:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7897ed17201ec6d89595e9879ea50c5ce07e7026",
+      "date": "2015-10-12T18:23:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "02f273883c622308bffcb3c0332ecdf766959866",
+      "date": "2015-10-12T18:00:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "cd1954248474c2c31f35c4fab4a2e8820b3b0a8b",
+      "date": "2015-10-12T17:55:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c59ed2ff9c7b51be5c0e15008eb44365ed03b69a",
+      "date": "2015-10-12T16:52:26Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "56dd719a45b48a103e33030d2cd835a6076f2994",
+      "date": "2015-10-09T04:28:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "1180ef0f02221f25da9e0411352f371e2eb62d7e",
+      "date": "2015-10-09T04:27:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2320d300d3fc344c39c45f1315d1d3916d00ce07",
+      "date": "2015-10-09T04:27:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "eb6987c3c461050fc96b7e192e83bb06bce1f33f",
+      "date": "2015-10-09T03:54:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "4cdfc1e52cbcaae0f6d99dffdacc5a9b358ec6cf",
+      "date": "2015-10-08T19:52:32Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "234f77ac3086ea2b0721d3cd33379637f1c8eeff",
+      "date": "2015-10-08T19:29:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "59844f89d054c807bc541057d158e9d35e47594a",
+      "date": "2015-10-08T18:11:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9c618bcaf1e210392fc36738255d5709040b4b5c",
+      "date": "2015-10-08T18:03:57Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "18dd6dccaf20b171d17824132381de3950e1c342",
+      "date": "2015-10-08T18:02:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5652b1e23c87470804e97403a9d47f0febbe6c8f",
+      "date": "2015-10-08T18:01:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "8729f2a53bcc8c809e1d89db125097ee3459d2a4",
+      "date": "2015-10-08T18:01:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ffb441ff04ebc84772654c9aa58cf11a5a24727f",
+      "date": "2015-10-07T20:29:56Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2e1fa80859c17893c34ef23af9e4a759411e73e8",
+      "date": "2015-10-07T19:47:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e91a07b8dffa1e4e97a3a5aaebbb1879cf06c07f",
+      "date": "2015-10-07T19:47:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "89de22f1eca6725038c2994d8b776b299d9c306c",
+      "date": "2015-10-07T18:41:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "be3362ad5538aee44d9a4c35cdec67655ff6e7bc",
+      "date": "2015-10-07T10:54:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "4277109da01551a0ed13bc949152eb88601aa052",
+      "date": "2015-10-07T06:18:13Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "018f7ba14694d0d27ebdb36adad0e28cc2e39f70",
+      "date": "2015-10-06T20:12:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9200373a9c76b1d6c4d1b7ade2d07dc4b7c57095",
+      "date": "2015-10-06T20:11:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "1ed54d27b668d4c54eb71b5b1e6d767ec8256341",
+      "date": "2015-10-06T06:16:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0a626cb266565784f9b75be3db43f2896b76aff9",
+      "date": "2015-10-06T05:58:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ebbf1bbcc5ac6dea9f08af020a01570cb43ed365",
+      "date": "2015-10-06T05:26:43Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2f71dcc205aba0efd72b3a7e20d426266adcc206",
+      "date": "2015-10-05T19:31:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ff79661e6d199a57a827ab115ce05a015d727c01",
+      "date": "2015-10-05T19:28:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "204fc1d50b3e9dc381d05a75fcb919d42e64c71c",
+      "date": "2015-10-05T19:22:09Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9c830c975e084d83ad1e70b2eba99d574c0acd5c",
+      "date": "2015-10-05T19:18:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "25c36a4af96118f94964c305da5b71a775c6171e",
+      "date": "2015-10-05T19:02:03Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "23b3350a025a5ea3c52900175f9519f5d9897625",
+      "date": "2015-10-05T19:00:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9e10e7498d79c3ff0637373238312fadde566670",
+      "date": "2015-10-05T18:55:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "331ac991d99f1400bd80cf0954a8ca08e22dd123",
+      "date": "2015-10-05T18:54:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "71da7807b7b8baa7b193c22ad9d57ea45e3cd4c5",
+      "date": "2015-10-05T18:52:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2551a0c2b1c155324705f0b7c7193bffea9f78c4",
+      "date": "2015-10-05T18:40:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "6cdb3e35cc621347e301343ed96fcc15f8ff09f2",
+      "date": "2015-10-05T16:20:56Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a5bdf43928a39014219e0e83d126c9efe41a262f",
+      "date": "2015-10-05T16:20:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "27842b84e894642a229e3e7cf69a245c794c1151",
+      "date": "2015-10-03T09:59:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7c37ccc5a05dff40edde5ba6920871824c1d543b",
+      "date": "2015-10-03T05:28:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e3d3437e2705b9c219c67ae9cc1f2235a2387603",
+      "date": "2015-09-30T18:22:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a5840a5e83dde382588252179606652ab42ebc59",
+      "date": "2015-09-30T18:16:11Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2eaa565c2a0357c269e8eae1682ee2a06697246c",
+      "date": "2015-09-30T17:41:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "400a21025937c22eea73a94ab021ebb3cbf03379",
+      "date": "2015-09-06T14:19:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "1ab43a3ccb995545eba789a99aef9ffbbc327dc2",
+      "date": "2015-09-06T14:19:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f69050d60da466fdb7fd97bf9d51cb5efbecf293",
+      "date": "2015-09-06T14:09:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "66ebc3ee674bb92e50b966069142fee57e8d58fa",
+      "date": "2015-09-06T14:00:59Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "58b265eeb47d66edf54d5ea345f24269656b0cb7",
+      "date": "2015-09-06T14:00:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e100538e8b82cb184f6abf76a0486fe4c2c1605d",
+      "date": "2015-09-06T13:16:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "1d409ad03e5ad26e6181b60a963d0495b4202693",
+      "date": "2015-09-06T12:55:36Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5897c114da32ce9351344d55c3954974a277f02f",
+      "date": "2015-09-06T12:50:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "db0b8941070ba3aea4c461966f93d300bc953b07",
+      "date": "2015-09-06T12:46:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "37ac32ca28bd0d6fd8fd71fe6943e6a53e865200",
+      "date": "2015-09-06T12:43:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "310ed4ece42c7e0bf3da7d59903ec333d146054e",
+      "date": "2015-09-06T11:45:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5bc351a2bc3ce349ba7198ad4850e775b87c25b5",
+      "date": "2015-09-06T11:45:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "b0d5f984986991acf0209db7cc6d9f6010ba421e",
+      "date": "2015-09-06T11:45:24Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "44babdbdfe10efc512c732942cfb3029e8603885",
+      "date": "2015-09-06T11:26:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f4404ed6d26add06f51619525fe1f047932681cb",
+      "date": "2015-09-06T11:25:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f9e51505d7a8386aa7856bf7756f2fb00cbeef47",
+      "date": "2015-09-06T11:21:57Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "d7dc6a6040151164384c3fb76d4da151d9548d93",
+      "date": "2015-09-06T10:42:30Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "915ce4395887b32aace402fc94e2ae3e37631347",
+      "date": "2015-08-30T10:28:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ee8adc1a8f6712ed7146dae2421162d2465afbb0",
+      "date": "2015-08-30T10:26:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "72d45654696f720d07e51a81063c46ccc9dddef1",
+      "date": "2015-08-30T08:55:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "93188248a6c969dc565302b9beb5bd04522455d2",
+      "date": "2015-08-30T08:55:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ae61eabaf3e1b60e5159631601d65cc459c26087",
+      "date": "2015-08-30T08:55:11Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a68c9453dd15c76a417337d8730c7665ca363e10",
+      "date": "2015-08-30T08:37:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "46947d780664426802163fda1533038083b5fa8f",
+      "date": "2015-08-30T08:24:14Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "cc53b14c2188e9e6fc4d52727616e9c1223eb0c8",
+      "date": "2015-08-30T08:21:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a1567d2a0ca4523e1b98c8dc9556a733dfdf4972",
+      "date": "2015-08-30T08:04:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "732f34385bc2dcd7099ebe087917376a199e3de7",
+      "date": "2015-08-30T07:20:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0c3205b7e858f88c84ec25281fd56b9cd6367371",
+      "date": "2015-08-29T14:01:30Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "6a1f27dd37d9f8660df9341258843911684e844d",
+      "date": "2015-08-29T14:00:26Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "25d2939d13bc25b13564e3e5eb7769be5a37dfe5",
+      "date": "2015-08-29T13:51:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "745ebea4d130658b5ef7206b126a42c434ee184b",
+      "date": "2015-08-29T13:49:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a5181083f3ba7b4506c6643bfcb44c845e56368b",
+      "date": "2015-08-19T20:56:30Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3706aa6129e1ff9d8f2b5c3b1d35ac517767ed76",
+      "date": "2015-08-19T20:55:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "11f21254787e8c721e0a7c20dad2b63e0746a3fc",
+      "date": "2015-08-19T20:51:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7c9cf8647bf442c639d7b0783aa2b8c75bda669a",
+      "date": "2015-08-19T20:51:51Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f3273b406fc31bac849421837cb5aa9f9c543813",
+      "date": "2015-08-19T20:51:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9f4a96437fc4d1596545792ad22251d4cef70637",
+      "date": "2015-08-11T04:41:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7aadc3289310993c9b80a9a83c39d0eecf64c21f",
+      "date": "2015-07-31T18:36:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "dc94837e08267333a5359f3ee275bc9692be2622",
+      "date": "2015-07-31T18:30:59Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9401c99b8fe440c5bd1b5c2528565af4dc44b89e",
+      "date": "2015-07-31T14:46:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "107bcda5042fa6eb1e0086ca42286d8581143a05",
+      "date": "2015-07-31T03:25:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e9202dd8744cf00d45f3ddd0cfdf68ae00e256a7",
+      "date": "2015-07-31T03:18:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "578bdfe6eb5e3a7b40e9b49c077029f7ae66be7a",
+      "date": "2015-07-31T03:14:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "d08cb30a8ed7862159b782faeb7920ac301e528e",
+      "date": "2015-07-31T03:13:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "947be4d19a7ea6018080b35186751c04f502b612",
+      "date": "2015-07-30T20:28:29Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "779a2be5c87b4aee1e6d7163b4be5ea1db2d594a",
+      "date": "2015-07-30T20:20:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "feb99727a96958455f17d4a0b8e2368c8f2c5c2f",
+      "date": "2015-07-27T15:56:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e8f92fb193dedc4fce2aef40d428042467851bdc",
+      "date": "2015-07-27T15:56:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2dd90440031f1197e8428ffdedc11bcb41597702",
+      "date": "2015-06-26T10:59:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2915242f192283fc5d01d4c72e648c37c91cc057",
+      "date": "2015-06-26T10:55:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "4fab6e38120cdf4cc6f19315fa5cd153474e8f88",
+      "date": "2015-06-26T10:54:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "38db0fe044075e3da19eb686f7ea8407f7f78b4f",
+      "date": "2015-06-26T10:54:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "fbc93a32e903232b6139c00fedc6fc89b0f5cb81",
+      "date": "2015-06-26T10:51:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "057b606b1ec5b0872d67be0af9e7578dbc035af3",
+      "date": "2015-06-26T10:37:15Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "12ab3ec36f94bb5dc0a9913d7b63f12130ad2ff7",
+      "date": "2015-06-22T11:54:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0526549aa99e2552f60a56d2defd70f9444a19ea",
+      "date": "2015-06-22T11:51:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "4843b89d6c5b8bf03392bab7a1d328964790d4e2",
+      "date": "2015-06-22T11:40:27Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7ff73c753f280c0c41379e3d58c2d801513ca4c4",
+      "date": "2015-05-05T08:22:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c953ea6167e0854ce9900ad74119efa38bc5e2bb",
+      "date": "2015-05-05T06:57:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "29d2a046567fbedfee353187c126e9cbf7aad03f",
+      "date": "2015-05-05T06:57:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "686b7d7235796d7d30b8a7310dc23c5e7c74719e",
+      "date": "2015-05-05T06:57:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "4eba35052b90affa99f3163a97d28c39e1527502",
+      "date": "2015-05-05T06:53:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "16ea1b54117a2c7247a3c14ae74a75f9f3809dcd",
+      "date": "2015-05-05T06:52:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ee6a95738b41b5e79888ec458a0476eb9de7379d",
+      "date": "2015-05-05T06:48:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3b1f7b560728ec0b0102b1aefbe7f8820f869d1c",
+      "date": "2015-05-05T06:40:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a4b231a2b51d8a5f95a20be9ba2a1de1d4d0bd93",
+      "date": "2015-05-05T06:38:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "81db9a305d2f067261c24b40db5299a68e022a43",
+      "date": "2015-04-20T10:27:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "dd1f4bd43ff41573f72f60c24afed03bf7ddc4b6",
+      "date": "2015-04-20T10:27:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "748aa31ce8955ca1b608f43e9c39f1208e485eda",
+      "date": "2015-04-20T10:26:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "8f2f25f1116a2661163080f3b05cd50b1c37d6a2",
+      "date": "2015-04-20T10:20:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "278388d34bf5f9cdfd0b0a4ed02637b69b5d8478",
+      "date": "2015-05-05T06:35:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "41391aec6ee60ece17f4362834ee3ff0c9fc7e9d",
+      "date": "2015-04-20T10:27:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ea9a8da9290428f4825d124357e92fa1713e34cb",
+      "date": "2015-04-20T10:26:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f90220fb4fae076df180edc1d6cffee5a88fd879",
+      "date": "2015-04-20T10:20:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "b85367d638c286c7670bf70dae15225dfa907dd7",
+      "date": "2015-04-20T10:27:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "b69fd0572f792a01a11238bf94415f7c2027b27a",
+      "date": "2015-04-20T10:26:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "58ead97a8e926e0f0beb36539f622a0f62e93a8f",
+      "date": "2015-04-20T10:20:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "99fb31e789ad7706f263e4cdcce9686d0756f3b7",
+      "date": "2015-05-04T21:58:57Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "41a33e04813fb2ff884dce848ecbaacbd3423df1",
+      "date": "2015-04-20T10:08:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7b2e61936e5164c12d44219f8c4644319497f3c3",
+      "date": "2015-02-24T09:26:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "1e8d96166957a14056718e3085a73d7eb1deefb2",
+      "date": "2014-12-15T19:07:03Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9aac1049a5ad43c53e272e2af0422b269478d73b",
+      "date": "2014-12-15T19:06:59Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "30bf145b4c71c4fcc3cf49df3e76c17b58fb8043",
+      "date": "2014-12-15T19:05:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2e97461112e0cd137242c69ea27888e162298c14",
+      "date": "2014-11-19T08:24:32Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f53c741e215946bf8a4511ff6b9e567041da7e6a",
+      "date": "2014-11-19T08:24:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "606298f29c33eb048eaca5e016108ae87bb432a8",
+      "date": "2014-11-18T14:37:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "bd8a4a7dc8ffd060c951f59cad4ad27c26942073",
+      "date": "2014-11-18T14:33:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a140e6ad0cb3c30fc789cb97dc6563da8168c939",
+      "date": "2014-11-17T09:03:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "831889f49fdd6a40eee136042a4eedf91257622d",
+      "date": "2014-11-05T14:27:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3db7bac57816a32016dd4ed9a55aae9b7f76801a",
+      "date": "2014-11-05T14:27:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e8100cd3b4a0f8ce0e54ce7eedc9911453c20108",
+      "date": "2014-11-04T09:12:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "1b6c9b7156e995f722ccdc01c25c3d464990180f",
+      "date": "2014-11-04T09:08:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "50839cabbb1824d0ed713dd23c79ca645f701e3f",
+      "date": "2014-11-04T09:00:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "17fe1047c2fac1bc093a24f46c941208ef10c07b",
+      "date": "2014-11-03T23:52:03Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3de3d662707900f1612613e8d4271893ffdb1656",
+      "date": "2014-11-03T23:12:55Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9a05af3bf396b6889fe45daf6c7ccb324a3c50fb",
+      "date": "2014-11-03T23:12:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "32ada3cad60fa46fcc1649dd1312c5556604df07",
+      "date": "2014-11-03T23:08:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3cebb83a128fc951364ec762289cd02c439cbb05",
+      "date": "2014-11-03T23:08:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "b87280d0d1be593f31d4b54c33b6bea5280b075d",
+      "date": "2014-11-03T23:07:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7cec136bfe4b83352312d173b802bad3e5d2f634",
+      "date": "2014-11-03T22:45:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "26e52888b0ccc4f935de71ab1a00b40271b912f7",
+      "date": "2014-11-03T22:45:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f0ed55a2d30e9282ffdc3c50500842625a6c9e61",
+      "date": "2014-11-03T22:19:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ece8349326d5efa2ca05913a68d9bbc7cde787fa",
+      "date": "2014-11-03T22:11:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3fd7623651c287ff17b69fa030f917ee7671ad90",
+      "date": "2014-11-03T21:37:56Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f7fc14cd3863e71116f0d9c21f36b9953df0f84e",
+      "date": "2014-11-03T15:17:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2c3e55b92fa2d20ae78570d044406ff2ee961162",
+      "date": "2014-11-03T15:16:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9ec5a6c49c9441557383469240daed44d242028a",
+      "date": "2014-11-03T11:40:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "eb2faf77a43f5e55a57dd4501fe9fc5e32817056",
+      "date": "2014-11-03T11:23:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "96de629730b6f8c8ba41aa0b146237667e7fd94d",
+      "date": "2014-11-03T10:58:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7bf3392120db4c5ba44938fea07f6b160d95602d",
+      "date": "2014-11-03T10:52:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ddffe1b5fc31df97da2b9f34f646316a0657fdb3",
+      "date": "2014-11-03T10:41:56Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9ccfe50fbeb13ba33d6a9142250763d75d9a1230",
+      "date": "2014-11-03T10:41:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "6f4d4a9616b50b2a5e3533c739c5a11ab54c28ec",
+      "date": "2014-11-03T10:24:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "20f3bf58871b3076bb452f10b6c077d925434f99",
+      "date": "2014-10-19T06:36:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "99b4db8f4710e11e962a037a69255bc6dbcf0acb",
+      "date": "2014-06-08T11:16:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "15c214273e9369d8478291fb9eb7621dacc7fbbf",
+      "date": "2014-06-08T11:13:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "b347577c2ebdd62257a7c9ecfc45616180a96d08",
+      "date": "2014-06-08T11:11:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "dc25a86ea9fe4b791e5755f9c1785cb4a6c43ed5",
+      "date": "2014-05-11T07:54:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "64aa513bd6ab4f607a02cef37990f195e5eda117",
+      "date": "2014-05-10T10:46:55Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "07b1a0eb2a1e7607ebe6001624711a27e9eec59a",
+      "date": "2014-05-10T10:45:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5c0e9537a06ab6376ba64843fc5ded4febb56310",
+      "date": "2014-04-28T18:22:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f992ba4e4dac0648d7cf0600b8c60c1d5091c85b",
+      "date": "2014-04-28T18:21:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0770479a238fb6d64950cca600d1671b031b5f11",
+      "date": "2014-02-06T09:40:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7e5f82cd21c3e6a9bea5f04ab5fe42ed27c73424",
+      "date": "2014-01-27T12:26:41Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "fc386fa08902f5b75f6ddc66743b211763af29ce",
+      "date": "2014-01-27T09:31:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "b77f6a5ab8843656a10912bcff3a17fd46a68b76",
+      "date": "2014-01-27T09:15:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3a94d0f421a38f84e8783948214fb64d67a353e1",
+      "date": "2014-01-27T07:40:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0419c2e963ca09fffa6c4833f0b6aaf600ab7de3",
+      "date": "2014-01-27T07:17:26Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f2a67d34d38b327b59273b00148483952d861f17",
+      "date": "2014-01-27T06:48:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5f6be027f842f0cbb6c0a5129f43fc24803e6548",
+      "date": "2014-01-27T06:02:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c4bade7fc8278a1dcd2cacad497f595054632edd",
+      "date": "2013-11-24T12:50:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9199cb36a2e83d06f03cd7222c1a27495f1a8a3a",
+      "date": "2013-11-24T12:45:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "b9d6481ff4ea9cd4ed918de0f71a97d10d6a00e1",
+      "date": "2013-11-24T12:38:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0d75e28d814f88e4d051c7d62d60d7d022c4fcb0",
+      "date": "2013-11-24T12:35:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7787ffc069424a4d685a6f36afc176bfebc359ad",
+      "date": "2013-11-24T10:36:27Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "11ddb8d17f162f30236313957ad35e7aa301aa6f",
+      "date": "2013-08-30T09:48:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "5e33d14e50f618435baf947b79614964eba772e5",
+      "date": "2013-08-30T09:47:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "58b27e3b2595e7481e0b2c08d87b1eab7f9c8ffb",
+      "date": "2013-08-30T09:29:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "098c20e4286eeafb5ff4ee493b1893bae22a869e",
+      "date": "2013-08-28T06:47:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c04602988a5c22bedc36f817aaa0b49c40324e5c",
+      "date": "2013-06-23T19:34:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "0d19454ef641ee7a4816a81e696f305dd3113540",
+      "date": "2013-06-17T08:46:29Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f39819dd7e76fc2baeed5428d4b0e9d2e33fd385",
+      "date": "2013-03-09T19:14:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "04cfffe618612db79c822a2276abbf7145336b20",
+      "date": "2013-03-09T17:48:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "bc1b33d6daa36ff3a9551307f80b440051306e67",
+      "date": "2013-03-09T17:40:30Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "cfa4e8ce9b16475b00750400d506e45bce1415b9",
+      "date": "2013-03-09T17:26:15Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "1cf978f47efbbf4191e416b80b913e95ddba3926",
+      "date": "2013-03-09T17:25:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "d65977d9317c96120f30bd7618f9efe107368c1a",
+      "date": "2013-03-09T12:57:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "61b79bce2b7300969620fb302ebeb196799ff924",
+      "date": "2013-03-09T12:53:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "69b58a1ff83af4ae6870c8d96524b58be261d0da",
+      "date": "2013-03-09T11:56:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3c5be0ea4e19c22a894826065c806a75536343e7",
+      "date": "2013-03-09T11:55:46Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f386d580cd08b9e87f7a3644ba96e06c30dda8ae",
+      "date": "2013-03-09T11:43:41Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "cc405f7f2aa5c4a69c9769ed9bee5fd0118eeb8b",
+      "date": "2013-03-09T11:39:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "e489d0314a3854884a7d2edc15429cd3850fa8bc",
+      "date": "2013-03-09T11:34:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "d6cdc29ce9c76ca2422f8b893eba4338c8344487",
+      "date": "2013-03-09T11:25:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "a460cfae4ecd106f10b7dc74976986c5d2985b3a",
+      "date": "2013-03-09T11:25:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "66675b928f9a93745c5f4d9b850ccacc5e2a62d9",
+      "date": "2013-01-23T13:52:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "59884144704044c187fcb586b76f57a1adbe250c",
+      "date": "2012-12-18T20:30:41Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ea06539afd0f126bd934b8018cfa557b2f6cf095",
+      "date": "2012-10-02T21:07:26Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3fbdbec12194b9fd74489e0e41bf8d0e8dfc7570",
+      "date": "2012-09-27T18:57:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c1528c964fd0b73190b5bc4fecdbf00497ce060b",
+      "date": "2012-09-27T18:42:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "14868290c2ed27680b768424c83d12b9e17d11ea",
+      "date": "2012-09-21T17:30:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f89097e966ae31c200e4c911cca2277f291040ca",
+      "date": "2012-08-19T09:38:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3ca8d7786b14a61dd69eb8ecb83f5804a6b86669",
+      "date": "2012-08-19T09:37:32Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "39bc0f9f5e0382dff96e1361d34bc7860a3602fd",
+      "date": "2012-08-19T09:36:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "826194c043f89cc5e41ea9a209d8d0d56d3c2477",
+      "date": "2012-08-19T08:37:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "7fc316c0c0781d53d3c7903639035fb87da6b5d9",
+      "date": "2012-08-19T08:37:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "9a2de3ce2dbd2c53234ebdbca1ae2e42c9fab6b1",
+      "date": "2012-08-17T08:08:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "3c65cafffb30f970521aea4fdc997de082cbaafc",
+      "date": "2012-08-17T08:08:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c9ab835b3c7a14b176ef29e4fecff57d05baa587",
+      "date": "2012-08-17T07:59:59Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "f368cb4996e75575bbac6d0296b63425b653955e",
+      "date": "2012-08-17T07:58:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "c545ca7625bb9c4c75b69f70d5067b6717f73c6c",
+      "date": "2012-08-08T06:41:59Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "46039ef107fdacf91fd3b79c2cab788e0f180785",
+      "date": "2012-08-07T07:55:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "21e4cb6178321460d2d7964ba975bb9ef6ac31f5",
+      "date": "2012-08-07T07:52:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "ad96b0b3daf1fb58bc3381674cdd6ee213fa5410",
+      "date": "2012-08-07T07:22:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "6c000ad63c1876c2ceb4c10efd41bf191912421d",
+      "date": "2012-08-07T07:19:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "2206e6a4d337e19249758ba746b0fc899076692f",
+      "date": "2012-07-26T06:55:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "04c9134270e360ed78f5e4454a889b960c501086",
+      "date": "2012-07-26T06:44:57Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "commit",
+      "id": "03d8c0ebb6b5978a4604b179ec0cd70b6ba4662a",
+      "date": "2012-07-26T06:29:56Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 7687321,
+      "date": "2012-08-13T09:42:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 7851441,
+      "date": "2012-08-19T08:30:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 7851519,
+      "date": "2012-08-19T08:42:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 7851835,
+      "date": "2012-08-19T09:40:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 8809152,
+      "date": "2012-09-24T07:18:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 8948760,
+      "date": "2012-09-27T18:42:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 8949106,
+      "date": "2012-09-27T18:52:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 8951354,
+      "date": "2012-09-27T19:44:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 9086456,
+      "date": "2012-10-02T20:51:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 9114975,
+      "date": "2012-10-03T17:35:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 9116896,
+      "date": "2012-10-03T18:29:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 9345493,
+      "date": "2012-10-11T15:48:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 11503698,
+      "date": "2012-12-18T20:30:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 12596207,
+      "date": "2013-01-23T13:53:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 14661178,
+      "date": "2013-03-09T10:49:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 14661185,
+      "date": "2013-03-09T10:50:14Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 14661194,
+      "date": "2013-03-09T10:50:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 14661204,
+      "date": "2013-03-09T10:51:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 14932282,
+      "date": "2013-03-14T22:04:30Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 15919737,
+      "date": "2013-04-04T19:52:46Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 15942960,
+      "date": "2013-04-05T07:52:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 17039576,
+      "date": "2013-04-25T20:51:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 17040152,
+      "date": "2013-04-25T21:02:03Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 19799662,
+      "date": "2013-06-21T05:51:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 19799708,
+      "date": "2013-06-21T05:54:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 19879758,
+      "date": "2013-06-23T19:39:43Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 23394601,
+      "date": "2013-08-28T06:47:29Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 28681930,
+      "date": "2013-11-18T08:38:14Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 28681963,
+      "date": "2013-11-18T08:38:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 28682046,
+      "date": "2013-11-18T08:40:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 28879107,
+      "date": "2013-11-20T11:04:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 29126624,
+      "date": "2013-11-23T05:57:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 31388670,
+      "date": "2013-12-31T09:19:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 31388855,
+      "date": "2013-12-31T09:29:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 31388878,
+      "date": "2013-12-31T09:30:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 31740840,
+      "date": "2014-01-07T14:24:14Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 33342999,
+      "date": "2014-01-27T05:32:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 33346512,
+      "date": "2014-01-27T07:32:04Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 33347107,
+      "date": "2014-01-27T07:48:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 33937785,
+      "date": "2014-02-03T10:06:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 33970229,
+      "date": "2014-02-03T16:16:36Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 35540088,
+      "date": "2014-02-19T19:48:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 41912246,
+      "date": "2014-05-01T14:03:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 42738541,
+      "date": "2014-05-10T10:46:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 42764539,
+      "date": "2014-05-11T07:56:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 42764736,
+      "date": "2014-05-11T08:08:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 42765008,
+      "date": "2014-05-11T08:26:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 45434297,
+      "date": "2014-06-08T11:13:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 59186652,
+      "date": "2014-10-15T10:32:41Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 59186982,
+      "date": "2014-10-15T10:36:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 59187093,
+      "date": "2014-10-15T10:37:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 59187225,
+      "date": "2014-10-15T10:38:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 59187610,
+      "date": "2014-10-15T10:42:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 59190328,
+      "date": "2014-10-15T11:11:14Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61459598,
+      "date": "2014-11-03T10:24:03Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61461664,
+      "date": "2014-11-03T10:45:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61461834,
+      "date": "2014-11-03T10:47:04Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61461995,
+      "date": "2014-11-03T10:48:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61462103,
+      "date": "2014-11-03T10:49:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61509536,
+      "date": "2014-11-03T16:57:32Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61509697,
+      "date": "2014-11-03T16:58:32Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61554688,
+      "date": "2014-11-03T21:46:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61561136,
+      "date": "2014-11-03T22:26:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61565267,
+      "date": "2014-11-03T22:58:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61567157,
+      "date": "2014-11-03T23:14:13Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61567183,
+      "date": "2014-11-03T23:14:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61610225,
+      "date": "2014-11-04T08:57:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61610364,
+      "date": "2014-11-04T08:58:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61793826,
+      "date": "2014-11-05T11:26:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61795035,
+      "date": "2014-11-05T11:38:57Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61795108,
+      "date": "2014-11-05T11:39:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61795247,
+      "date": "2014-11-05T11:41:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61795509,
+      "date": "2014-11-05T11:43:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61795627,
+      "date": "2014-11-05T11:44:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61795694,
+      "date": "2014-11-05T11:45:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61800542,
+      "date": "2014-11-05T12:34:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 61815856,
+      "date": "2014-11-05T14:38:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63276243,
+      "date": "2014-11-17T09:03:57Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63277856,
+      "date": "2014-11-17T09:20:41Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63277895,
+      "date": "2014-11-17T09:21:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63333436,
+      "date": "2014-11-17T16:41:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63334426,
+      "date": "2014-11-17T16:46:36Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63354821,
+      "date": "2014-11-17T18:54:04Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63439599,
+      "date": "2014-11-18T08:57:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 63479059,
+      "date": "2014-11-18T14:33:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 64821483,
+      "date": "2014-11-27T18:45:55Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 67046112,
+      "date": "2014-12-15T19:02:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 67047115,
+      "date": "2014-12-15T19:09:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 67748504,
+      "date": "2014-12-20T20:29:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 67748562,
+      "date": "2014-12-20T20:31:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 67825180,
+      "date": "2014-12-22T10:59:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 68650691,
+      "date": "2015-01-04T21:48:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 88372825,
+      "date": "2015-04-01T07:02:56Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 88373721,
+      "date": "2015-04-01T07:09:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 88375029,
+      "date": "2015-04-01T07:13:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 94144551,
+      "date": "2015-04-18T08:41:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 95635166,
+      "date": "2015-04-23T16:06:36Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98753114,
+      "date": "2015-05-04T15:27:56Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98862870,
+      "date": "2015-05-04T22:02:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98863097,
+      "date": "2015-05-04T22:03:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98864336,
+      "date": "2015-05-04T22:07:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98865650,
+      "date": "2015-05-04T22:13:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98990843,
+      "date": "2015-05-05T08:19:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98991000,
+      "date": "2015-05-05T08:20:46Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 98991405,
+      "date": "2015-05-05T08:23:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 100645784,
+      "date": "2015-05-10T14:04:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 108573885,
+      "date": "2015-06-03T18:53:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 114075448,
+      "date": "2015-06-22T11:41:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 115646897,
+      "date": "2015-06-26T11:00:32Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 116259013,
+      "date": "2015-06-28T11:11:44Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 116337431,
+      "date": "2015-06-28T21:18:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 125260860,
+      "date": "2015-07-27T16:17:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 125261283,
+      "date": "2015-07-27T16:18:59Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 125261848,
+      "date": "2015-07-27T16:21:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126471886,
+      "date": "2015-07-30T20:24:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126475096,
+      "date": "2015-07-30T20:31:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126551556,
+      "date": "2015-07-31T03:03:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126555514,
+      "date": "2015-07-31T03:24:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126711751,
+      "date": "2015-07-31T14:44:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126713517,
+      "date": "2015-07-31T14:48:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126718156,
+      "date": "2015-07-31T14:55:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126718340,
+      "date": "2015-07-31T14:56:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126747144,
+      "date": "2015-07-31T16:38:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126779265,
+      "date": "2015-07-31T18:37:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126779359,
+      "date": "2015-07-31T18:38:24Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126779619,
+      "date": "2015-07-31T18:39:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126779826,
+      "date": "2015-07-31T18:40:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126780199,
+      "date": "2015-07-31T18:42:34Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126826336,
+      "date": "2015-07-31T22:20:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126827453,
+      "date": "2015-07-31T22:26:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126827791,
+      "date": "2015-07-31T22:29:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 126858562,
+      "date": "2015-08-01T04:08:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 129096648,
+      "date": "2015-08-09T02:40:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 129528230,
+      "date": "2015-08-10T17:07:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 129696656,
+      "date": "2015-08-11T04:08:15Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 129700770,
+      "date": "2015-08-11T04:38:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 130067088,
+      "date": "2015-08-11T20:49:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 131946455,
+      "date": "2015-08-17T20:11:11Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 133331910,
+      "date": "2015-08-21T08:36:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 135988930,
+      "date": "2015-08-29T14:04:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 137684479,
+      "date": "2015-09-04T09:06:47Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 138071185,
+      "date": "2015-09-06T11:18:46Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 138071205,
+      "date": "2015-09-06T11:19:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 138664949,
+      "date": "2015-09-08T18:42:08Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 139035972,
+      "date": "2015-09-09T20:25:01Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 139039331,
+      "date": "2015-09-09T20:40:24Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 139737929,
+      "date": "2015-09-12T07:16:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 139753477,
+      "date": "2015-09-12T12:32:29Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 141830921,
+      "date": "2015-09-20T20:20:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 141911786,
+      "date": "2015-09-21T08:45:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145633460,
+      "date": "2015-10-05T19:04:45Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145633582,
+      "date": "2015-10-05T19:05:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145633719,
+      "date": "2015-10-05T19:05:55Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145633956,
+      "date": "2015-10-05T19:06:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145634066,
+      "date": "2015-10-05T19:07:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145634136,
+      "date": "2015-10-05T19:07:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145634280,
+      "date": "2015-10-05T19:08:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145634392,
+      "date": "2015-10-05T19:08:46Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145634503,
+      "date": "2015-10-05T19:09:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145744871,
+      "date": "2015-10-06T05:27:21Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 145988301,
+      "date": "2015-10-06T20:21:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146086693,
+      "date": "2015-10-07T06:08:13Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146087755,
+      "date": "2015-10-07T06:10:26Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146089299,
+      "date": "2015-10-07T06:22:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146090485,
+      "date": "2015-10-07T06:32:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146090530,
+      "date": "2015-10-07T06:32:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146264538,
+      "date": "2015-10-07T17:09:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146418493,
+      "date": "2015-10-08T04:42:07Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146447130,
+      "date": "2015-10-08T07:44:51Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146457745,
+      "date": "2015-10-08T08:33:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146457804,
+      "date": "2015-10-08T08:34:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146459980,
+      "date": "2015-10-08T08:42:24Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146641612,
+      "date": "2015-10-08T18:09:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146662021,
+      "date": "2015-10-08T19:23:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146664375,
+      "date": "2015-10-08T19:33:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146745203,
+      "date": "2015-10-09T03:18:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146753728,
+      "date": "2015-10-09T04:33:36Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 146960269,
+      "date": "2015-10-09T18:53:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147118149,
+      "date": "2015-10-10T19:14:35Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147118511,
+      "date": "2015-10-10T19:22:25Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147200754,
+      "date": "2015-10-11T14:17:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147387678,
+      "date": "2015-10-12T12:47:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147395384,
+      "date": "2015-10-12T13:14:39Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147459493,
+      "date": "2015-10-12T16:52:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147619641,
+      "date": "2015-10-13T06:38:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147803703,
+      "date": "2015-10-13T18:25:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147853193,
+      "date": "2015-10-13T21:03:13Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147911247,
+      "date": "2015-10-14T03:06:22Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147923827,
+      "date": "2015-10-14T03:44:13Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147926953,
+      "date": "2015-10-14T03:52:03Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147930601,
+      "date": "2015-10-14T04:18:33Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147930756,
+      "date": "2015-10-14T04:19:54Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 147935624,
+      "date": "2015-10-14T04:59:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 148115298,
+      "date": "2015-10-14T16:55:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 148115581,
+      "date": "2015-10-14T16:56:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 148334516,
+      "date": "2015-10-15T09:36:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 148950267,
+      "date": "2015-10-17T20:51:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149145853,
+      "date": "2015-10-19T08:38:18Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149148393,
+      "date": "2015-10-19T08:47:14Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149335952,
+      "date": "2015-10-19T20:25:04Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149337625,
+      "date": "2015-10-19T20:30:05Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149842157,
+      "date": "2015-10-21T09:54:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149849886,
+      "date": "2015-10-21T10:33:43Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149853607,
+      "date": "2015-10-21T10:55:02Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149975281,
+      "date": "2015-10-21T17:48:31Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149978871,
+      "date": "2015-10-21T18:02:12Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 149997202,
+      "date": "2015-10-21T19:11:50Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150019057,
+      "date": "2015-10-21T20:44:16Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150032369,
+      "date": "2015-10-21T21:37:52Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150108710,
+      "date": "2015-10-22T05:09:11Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150109344,
+      "date": "2015-10-22T05:10:53Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150109836,
+      "date": "2015-10-22T05:13:36Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150128040,
+      "date": "2015-10-22T07:11:24Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150130137,
+      "date": "2015-10-22T07:23:27Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150131238,
+      "date": "2015-10-22T07:29:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150131618,
+      "date": "2015-10-22T07:31:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150136262,
+      "date": "2015-10-22T07:48:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150302385,
+      "date": "2015-10-22T17:43:28Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150303624,
+      "date": "2015-10-22T17:46:29Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150303889,
+      "date": "2015-10-22T17:47:40Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150494832,
+      "date": "2015-10-23T07:14:00Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 150494905,
+      "date": "2015-10-23T07:14:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 151229604,
+      "date": "2015-10-26T18:05:48Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 152146502,
+      "date": "2015-10-29T10:57:20Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 152177832,
+      "date": "2015-10-29T13:23:58Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 152716712,
+      "date": "2015-10-31T09:00:13Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 154691318,
+      "date": "2015-11-07T11:00:10Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 154707178,
+      "date": "2015-11-07T13:49:37Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 154767387,
+      "date": "2015-11-08T00:26:06Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 154767870,
+      "date": "2015-11-08T00:41:17Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 156594313,
+      "date": "2015-11-14T00:05:26Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 156594766,
+      "date": "2015-11-14T00:08:19Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 156597257,
+      "date": "2015-11-14T00:22:42Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 156597962,
+      "date": "2015-11-14T00:26:26Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 156600327,
+      "date": "2015-11-14T00:42:49Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "com",
+      "id": 156600570,
+      "date": "2015-11-14T00:45:55Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 30364148,
+      "date": "2013-12-11T21:08:51Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 30371556,
+      "date": "2013-12-11T22:35:38Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "philostler/rspec-sidekiq",
+      "type": "com",
+      "id": 156591307,
+      "date": "2015-11-13T23:40:23Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "issue",
+      "id": 103,
+      "date": "2015-08-17T17:06:27Z"
+    },
+    {
+      "dev_id": "mhenrixon",
+      "repo": "mhenrixon/sidekiq-unique-jobs",
+      "type": "issue",
+      "id": 39,
+      "date": "2014-05-11T08:32:27Z"
+    }
+  ]
+}

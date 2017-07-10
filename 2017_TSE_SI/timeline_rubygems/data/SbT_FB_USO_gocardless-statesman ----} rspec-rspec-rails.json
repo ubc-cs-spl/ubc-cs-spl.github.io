@@ -1,0 +1,4474 @@
+{
+  "user_repo": "gocardless/statesman",
+  "dep_repo": "rspec/rspec-rails",
+  "dep_date": "2015-06-16 09:41:19 UTC",
+  "dep_commit_id": "e425e2a90440e4e1f05b3ed5e0252fdc934c684f",
+  "social_date": "2012-08-07 12:53:08 UTC",
+  "devs": [
+    "justinko",
+    "alan",
+    "isaacseymour",
+    "greysteil"
+  ],
+  "interactions": [
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "ebd891f5f833b1a87809bd7b4b49f2a16c6a09b9",
+      "date": "2012-06-24T03:57:02Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "dbbec246c2dbe1436eb77c8cbfe8b350929ecb2e",
+      "date": "2012-06-24T03:54:58Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "cf11980622f5f1d353234ade75efe2a7bab1da93",
+      "date": "2012-06-24T03:40:34Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "1a9d160150b57bd13eb21bcd1eddf12b182239a5",
+      "date": "2012-06-24T03:30:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "2fc6473e4d49bcfbe617c1a5a7272a0e7fb22e21",
+      "date": "2012-06-24T03:30:02Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "489bebc11ffbd4e4bc90251e7159bf4f14311c5c",
+      "date": "2012-06-24T03:11:41Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "b4b26085cc3f403f5f400a28e4258e75be65909e",
+      "date": "2012-06-24T02:59:24Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "1f58ed92258ad2bf10b0b8609a7bedb85d5b8823",
+      "date": "2012-06-23T18:52:48Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "34cbadc21780f00bcdd806dbf112fc17513970bb",
+      "date": "2012-06-23T17:16:39Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "454364bd41cbd21c7fd102f31cb9f8d5ee3ccd05",
+      "date": "2012-06-23T17:15:21Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "f067d8f05694b8da20e247339b2b89cfe2e8a34b",
+      "date": "2012-06-23T17:12:17Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "248ce66898d8fca1d5aca4da1e09859a45680e39",
+      "date": "2012-06-23T15:55:15Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "9abdc0a588a78d3cd50bb58ce719ce72f9af34e1",
+      "date": "2012-06-09T06:04:00Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "7579c6e1d1c0649bc9d43a22ca8bc19b87fab2d0",
+      "date": "2012-06-09T05:55:24Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "654367d307569e79ea535974c47ba86ca6da4a1e",
+      "date": "2012-06-02T08:00:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "2a684525df38ebdbfb3fad0501766dbe57d9afd4",
+      "date": "2012-06-02T07:57:03Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "e09f6e5e1b620981f4a9f4fdd65c98e0b35efd18",
+      "date": "2012-06-02T06:04:01Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "68787f73f77a46e88c6e97eed99f230da54e8709",
+      "date": "2012-06-02T05:53:05Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "f8990836ec46a220bb3fb75efbabe6ecfcc74983",
+      "date": "2012-06-01T10:06:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "10bba448dbf46d5d3b62d078a8beb9ab727a8b0b",
+      "date": "2012-04-18T10:38:04Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "3562f8f6cfbb06ad8df5e6156030535bb9e8d576",
+      "date": "2012-04-13T06:55:13Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "b11800fd7c611a8adffb5e0de08049a5ed54209a",
+      "date": "2012-04-01T21:20:29Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "df4ef8ad1effec5921d1ca2c09a6a5d073babd5e",
+      "date": "2012-04-01T20:57:42Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "002f1da5101d9dfe30d606621ebe57b808f27c00",
+      "date": "2012-03-31T00:14:03Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "72b6d52008fcacbdf91bca419325e0ef055c74a6",
+      "date": "2012-03-31T00:09:48Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "7419039a195954c951d07657be3d8df3b1f6c3c0",
+      "date": "2012-03-31T00:05:35Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "e833a27b39a987cd9decd7909673c22dd2b55f14",
+      "date": "2012-03-17T23:07:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "ed5787d291116f3eeb702a33081e8038f10386dc",
+      "date": "2012-03-17T22:55:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "46a1a60bbd1f7b98003af222bce0264ea3836f90",
+      "date": "2012-03-08T05:08:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "ddccef1158877030c383dd65e19bdcb18ac34480",
+      "date": "2012-03-08T05:06:59Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "86eabe1453b2929eea56c408edd49e6fc2b3b95c",
+      "date": "2012-03-08T04:59:08Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "a281271c91b1c17b28fd38176af01645fabd811e",
+      "date": "2012-02-21T06:22:29Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "1e2ac1905e7f5f7fc5985d4f3154cd23c82f60e1",
+      "date": "2012-02-13T06:10:22Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "7616042fd3c5214ae7112cad8640041d5263adca",
+      "date": "2012-01-09T06:48:51Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "364fbb0a24ff073db076304a1900441e0640f189",
+      "date": "2011-10-25T20:47:51Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "0b9b1531c17fca0141152ccd93697f57e1c6891f",
+      "date": "2011-10-25T20:23:14Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "b6022dc2d4bac9138e6c3def0ca7fd4a2bd2629e",
+      "date": "2011-10-25T20:16:24Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "1416314deb29ba3e47a457090b863e78a4734d2a",
+      "date": "2011-10-25T20:14:41Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "1b8c8862f262d8951ce6e437cba4dbdbd796e0d3",
+      "date": "2011-09-23T11:18:20Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "98054681919dcb26b9f4e0936726a805b4903cec",
+      "date": "2011-09-23T10:55:07Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "c7388ebe6f4d5bed141b9b0c15950040b5ff40b2",
+      "date": "2011-09-01T20:22:23Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "99526fde7e0e50339e3672a5adab954f8804abf1",
+      "date": "2011-08-19T15:48:03Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "8dfd952517af7ec4221ab11e821bd70235b328bb",
+      "date": "2011-08-19T13:44:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "9fef2f54b37317b1980cc5002f033387c365db52",
+      "date": "2011-08-03T14:29:49Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "097cf620178e69c90108b84e12ab92ca7fe77bd3",
+      "date": "2011-06-28T17:25:07Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "465cb3e9dfefb33c210d6146a650fa1c01968c3c",
+      "date": "2011-06-26T16:13:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "9dae6f9bb60ee46b56a89ce51b6e00a99af55500",
+      "date": "2011-06-24T20:48:32Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "327eecd6140c43efdda0c003ba316e3550edb115",
+      "date": "2011-06-24T01:23:01Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "0f62775198b34528160d8086ce9c6cbd31ff66a5",
+      "date": "2011-06-24T00:41:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "cf044fc04e47f7c5fc87cc6dc1e9502c2810bca2",
+      "date": "2011-06-22T03:36:36Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "fff2a23dc7ded7191bd375c8569de241ef14889f",
+      "date": "2011-06-22T03:28:39Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "53147d6f91fa9da282d2908de44a140d7606c3d9",
+      "date": "2011-06-22T03:28:34Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "9b8d14d20801ec1d833216833c3e105510b1c0d8",
+      "date": "2011-06-22T03:21:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "11f5cda14b5936e0c1d74a73f08e8294a14491a1",
+      "date": "2011-06-09T23:14:43Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "bcfdbe55a26e5a846e2bf09bff4f709ad5b91ef7",
+      "date": "2011-06-09T23:14:43Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "78790a20c73f56dc4852ecc5b39ebcf34a60bc6e",
+      "date": "2011-06-09T23:07:01Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "ee24a727fe6a168cb2bf85c0cba963d4cc5314ff",
+      "date": "2011-05-30T21:15:17Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "8e784e82cf35273f21e7b853b6dfab0a9c479156",
+      "date": "2011-05-30T21:04:23Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "67bbae74ce46a8a41b5b5d97ffe852a7ef150332",
+      "date": "2011-05-30T19:48:42Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "4303e7791f74429ac4649b4ef95d2c4bd907cfa9",
+      "date": "2011-05-30T19:47:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "09b76dc51908c7af95f019cdb26017a8bc31d26b",
+      "date": "2011-05-30T19:18:24Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "4ac10d847db7f217a4309a05f8800c250610eee9",
+      "date": "2011-05-30T19:12:49Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "43743f988c491e45079dac79a34d87f761c86e3a",
+      "date": "2011-05-30T18:51:04Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "6385228bbbf76ba27c6a8eff2089bbe3140d1f29",
+      "date": "2011-04-24T00:19:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "7716caf11efdba4f3d2fa177384972e5731db20d",
+      "date": "2011-04-21T04:25:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "646c00e62ce6e2b5f936d6d898e7019ac469e3c5",
+      "date": "2011-04-21T04:18:30Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "3c53e96aec1283e377ccebdec8031fae916ff4fa",
+      "date": "2011-04-17T18:15:05Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "abf5d57536b081fe82f33b06f135e66b88289741",
+      "date": "2011-03-23T17:07:01Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "7356356965ee8f7257eb4c579c0d53048910c483",
+      "date": "2011-02-25T07:00:42Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "1f7addeeca7fb0f31dfa752a48419bba67fcc2af",
+      "date": "2010-08-18T03:09:15Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "393a06e484a5dc73b65cf17a4f96c889e40f9160",
+      "date": "2010-08-18T13:19:05Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "67da5ae3a29f6b666d92f5403ee82c216e9c060f",
+      "date": "2010-08-15T23:34:47Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "5391bcd1c8afa1961a6c57a82f26a0034f3d9169",
+      "date": "2010-08-15T23:34:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "efbb299f0ec9f0bee40ef9b7906c235cf9cf549a",
+      "date": "2010-08-15T09:14:33Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "8ee0b90579770917d0051c80e5fc50818c631d68",
+      "date": "2010-08-15T07:13:52Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "72ecc0351500d25c73bdc601e4e730b323293337",
+      "date": "2010-08-14T20:59:45Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "108e9bccd2693feac46bce3b2b24c427e6c1abdf",
+      "date": "2010-08-11T00:29:16Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "d4ff873441cad75e9dd6e7dd1dfccf532bb4febf",
+      "date": "2010-08-06T12:17:11Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "6f8276bcec31b926c326e84b01b4f830e370f436",
+      "date": "2010-08-04T21:48:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "commit",
+      "id": "d771619fc6da49d5f9b656f36224ca6e5bfc031d",
+      "date": "2010-08-04T00:31:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 51206855,
+      "date": "2014-08-05T14:41:59Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 51436037,
+      "date": "2014-08-07T06:33:22Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 51448337,
+      "date": "2014-08-07T09:11:54Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 51451401,
+      "date": "2014-08-07T09:45:33Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 51455029,
+      "date": "2014-08-07T10:28:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 51498907,
+      "date": "2014-08-07T16:49:09Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 57217950,
+      "date": "2014-09-29T19:49:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 340001,
+      "date": "2010-08-03T20:48:34Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 340478,
+      "date": "2010-08-04T06:01:14Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 340496,
+      "date": "2010-08-04T06:13:24Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 340533,
+      "date": "2010-08-04T06:51:21Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 341664,
+      "date": "2010-08-04T21:56:25Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 342242,
+      "date": "2010-08-05T09:28:22Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 342783,
+      "date": "2010-08-05T17:54:50Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 343414,
+      "date": "2010-08-06T03:57:19Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 343505,
+      "date": "2010-08-06T05:27:52Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 344163,
+      "date": "2010-08-06T16:38:27Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 349430,
+      "date": "2010-08-10T22:57:20Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 349519,
+      "date": "2010-08-11T00:31:16Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 353605,
+      "date": "2010-08-13T13:48:58Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 355397,
+      "date": "2010-08-15T07:16:29Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 355484,
+      "date": "2010-08-15T09:15:54Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 358922,
+      "date": "2010-08-17T16:38:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 359537,
+      "date": "2010-08-18T01:03:02Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 365596,
+      "date": "2010-08-22T07:25:00Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 365697,
+      "date": "2010-08-22T11:05:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 366450,
+      "date": "2010-08-23T04:58:50Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 379416,
+      "date": "2010-08-30T19:15:36Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 383422,
+      "date": "2010-09-01T17:05:12Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 383664,
+      "date": "2010-09-01T18:57:54Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 385892,
+      "date": "2010-09-02T21:24:58Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 811010,
+      "date": "2011-02-25T20:45:56Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 906562,
+      "date": "2011-03-23T07:14:17Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 948187,
+      "date": "2011-04-02T06:19:10Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 948214,
+      "date": "2011-04-02T06:58:04Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 950425,
+      "date": "2011-04-03T06:34:23Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 967383,
+      "date": "2011-04-07T04:23:53Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 984523,
+      "date": "2011-04-11T16:23:10Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 984925,
+      "date": "2011-04-11T17:37:50Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 987280,
+      "date": "2011-04-12T02:08:58Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 987649,
+      "date": "2011-04-12T04:15:51Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1003992,
+      "date": "2011-04-14T22:08:34Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1027259,
+      "date": "2011-04-19T15:09:32Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1027484,
+      "date": "2011-04-19T15:49:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1107277,
+      "date": "2011-05-05T18:17:59Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1107312,
+      "date": "2011-05-05T18:24:13Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1148780,
+      "date": "2011-05-12T19:34:03Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1161242,
+      "date": "2011-05-14T05:07:30Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1166828,
+      "date": "2011-05-15T18:18:43Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1167005,
+      "date": "2011-05-15T19:11:56Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1168336,
+      "date": "2011-05-16T02:09:09Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1234547,
+      "date": "2011-05-25T10:31:09Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1240221,
+      "date": "2011-05-26T05:10:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1252146,
+      "date": "2011-05-27T22:36:59Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1257478,
+      "date": "2011-05-29T17:04:36Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1262562,
+      "date": "2011-05-30T17:44:07Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1268118,
+      "date": "2011-05-31T16:12:25Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1269693,
+      "date": "2011-05-31T19:56:14Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1297757,
+      "date": "2011-06-03T16:21:05Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1335432,
+      "date": "2011-06-09T16:37:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1335636,
+      "date": "2011-06-09T17:07:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1337965,
+      "date": "2011-06-09T23:00:11Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1338046,
+      "date": "2011-06-09T23:16:33Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1338055,
+      "date": "2011-06-09T23:18:34Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1404267,
+      "date": "2011-06-20T17:29:49Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1415543,
+      "date": "2011-06-22T03:35:02Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1419906,
+      "date": "2011-06-22T18:04:55Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1429568,
+      "date": "2011-06-24T00:50:49Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1429669,
+      "date": "2011-06-24T01:19:51Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1429831,
+      "date": "2011-06-24T02:11:23Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1435009,
+      "date": "2011-06-24T20:33:45Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1586026,
+      "date": "2011-07-16T06:04:57Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1643266,
+      "date": "2011-07-25T03:22:16Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1643286,
+      "date": "2011-07-25T03:28:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1715526,
+      "date": "2011-08-03T05:00:15Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1715664,
+      "date": "2011-08-03T05:43:54Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1715880,
+      "date": "2011-08-03T06:46:58Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1763527,
+      "date": "2011-08-09T14:05:00Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1765786,
+      "date": "2011-08-09T18:05:08Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1765817,
+      "date": "2011-08-09T18:07:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1768091,
+      "date": "2011-08-09T22:27:43Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1769732,
+      "date": "2011-08-10T04:13:35Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1772146,
+      "date": "2011-08-10T12:44:54Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1772174,
+      "date": "2011-08-10T12:48:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1772201,
+      "date": "2011-08-10T12:51:43Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1772216,
+      "date": "2011-08-10T12:53:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1772333,
+      "date": "2011-08-10T13:11:49Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1798524,
+      "date": "2011-08-13T18:52:11Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1812507,
+      "date": "2011-08-16T00:31:56Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1843861,
+      "date": "2011-08-18T22:53:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1844037,
+      "date": "2011-08-18T23:18:45Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1844056,
+      "date": "2011-08-18T23:22:02Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1844179,
+      "date": "2011-08-18T23:44:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1928977,
+      "date": "2011-08-29T10:31:16Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 1929006,
+      "date": "2011-08-29T10:39:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2036006,
+      "date": "2011-09-08T02:28:48Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2148980,
+      "date": "2011-09-20T19:43:37Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2158451,
+      "date": "2011-09-21T17:17:24Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2206681,
+      "date": "2011-09-27T02:53:44Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2208409,
+      "date": "2011-09-27T08:24:41Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2239306,
+      "date": "2011-09-29T16:05:27Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2251729,
+      "date": "2011-09-30T16:59:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2254644,
+      "date": "2011-09-30T22:58:57Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2255206,
+      "date": "2011-10-01T01:00:14Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2267541,
+      "date": "2011-10-02T22:55:00Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2268115,
+      "date": "2011-10-03T01:47:12Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2298870,
+      "date": "2011-10-05T15:03:41Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2595700,
+      "date": "2011-11-01T20:48:20Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2597568,
+      "date": "2011-11-01T23:18:32Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2658585,
+      "date": "2011-11-07T19:50:29Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 2977793,
+      "date": "2011-12-01T17:43:55Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3117901,
+      "date": "2011-12-13T02:36:24Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3125661,
+      "date": "2011-12-13T16:52:25Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3126040,
+      "date": "2011-12-13T17:16:15Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3128205,
+      "date": "2011-12-13T19:33:45Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3306632,
+      "date": "2011-12-29T23:35:41Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3407571,
+      "date": "2012-01-09T05:42:53Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3437659,
+      "date": "2012-01-10T21:47:13Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3438114,
+      "date": "2012-01-10T22:12:56Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3438592,
+      "date": "2012-01-10T22:42:30Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3439361,
+      "date": "2012-01-10T23:36:16Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3506535,
+      "date": "2012-01-16T05:59:03Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3518919,
+      "date": "2012-01-16T21:49:23Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3556806,
+      "date": "2012-01-19T02:00:58Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3583988,
+      "date": "2012-01-20T14:12:15Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3609959,
+      "date": "2012-01-23T07:06:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3643904,
+      "date": "2012-01-25T00:54:30Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3649234,
+      "date": "2012-01-25T11:39:44Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 3840229,
+      "date": "2012-02-07T00:53:25Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4101964,
+      "date": "2012-02-22T11:04:57Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4211079,
+      "date": "2012-02-28T07:46:38Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4227087,
+      "date": "2012-02-28T22:21:15Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4227941,
+      "date": "2012-02-28T23:06:36Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4323891,
+      "date": "2012-03-05T14:45:12Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4385046,
+      "date": "2012-03-08T05:14:26Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4385337,
+      "date": "2012-03-08T05:52:50Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4654374,
+      "date": "2012-03-23T06:40:11Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 4853254,
+      "date": "2012-03-31T00:14:23Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5109625,
+      "date": "2012-04-13T07:16:12Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5195877,
+      "date": "2012-04-18T10:40:05Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5195916,
+      "date": "2012-04-18T10:42:35Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5196252,
+      "date": "2012-04-18T11:11:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5647098,
+      "date": "2012-05-11T09:34:15Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5674135,
+      "date": "2012-05-13T05:35:18Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5674191,
+      "date": "2012-05-13T05:48:25Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5674289,
+      "date": "2012-05-13T06:15:37Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5674323,
+      "date": "2012-05-13T06:26:53Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5674479,
+      "date": "2012-05-13T07:06:02Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5674886,
+      "date": "2012-05-13T08:44:56Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5758848,
+      "date": "2012-05-17T06:03:57Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5759222,
+      "date": "2012-05-17T06:42:46Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5863175,
+      "date": "2012-05-23T01:30:43Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5864065,
+      "date": "2012-05-23T02:51:56Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5866091,
+      "date": "2012-05-23T06:31:43Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5884486,
+      "date": "2012-05-23T20:59:20Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5893645,
+      "date": "2012-05-24T06:16:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5939706,
+      "date": "2012-05-25T20:38:11Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5940026,
+      "date": "2012-05-25T20:55:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5945755,
+      "date": "2012-05-26T09:38:37Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5951797,
+      "date": "2012-05-27T06:43:48Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5951898,
+      "date": "2012-05-27T07:14:32Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5952025,
+      "date": "2012-05-27T07:55:37Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5952060,
+      "date": "2012-05-27T08:05:52Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5952070,
+      "date": "2012-05-27T08:08:51Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 5955873,
+      "date": "2012-05-27T19:51:18Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6003245,
+      "date": "2012-05-30T06:44:06Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6057633,
+      "date": "2012-06-01T10:30:18Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6074949,
+      "date": "2012-06-02T04:56:04Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6075222,
+      "date": "2012-06-02T06:02:59Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6159457,
+      "date": "2012-06-06T19:00:16Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6217425,
+      "date": "2012-06-09T06:09:09Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6320339,
+      "date": "2012-06-14T04:52:35Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6399617,
+      "date": "2012-06-18T15:40:46Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6435910,
+      "date": "2012-06-19T20:03:45Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6436511,
+      "date": "2012-06-19T20:28:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6479692,
+      "date": "2012-06-21T11:08:31Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6513887,
+      "date": "2012-06-22T17:43:39Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6621572,
+      "date": "2012-06-28T04:17:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6744116,
+      "date": "2012-07-03T19:32:25Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 6966815,
+      "date": "2012-07-13T15:51:23Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7071852,
+      "date": "2012-07-18T15:19:30Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 11815075,
+      "date": "2013-01-02T16:57:41Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "gocardless/statesman",
+      "type": "issue",
+      "id": 69,
+      "date": "2014-08-05T03:43:40Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 1048,
+      "date": "2014-05-30T02:19:13Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 457,
+      "date": "2011-10-30T02:39:37Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 363,
+      "date": "2011-05-05T18:08:41Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 186,
+      "date": "2010-08-28T02:08:19Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 177,
+      "date": "2010-08-22T07:22:16Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 170,
+      "date": "2010-08-18T03:10:06Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 167,
+      "date": "2010-08-16T16:02:17Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 166,
+      "date": "2010-08-15T23:49:28Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 165,
+      "date": "2010-08-15T09:10:09Z"
+    },
+    {
+      "dev_id": "justinko",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 162,
+      "date": "2010-08-13T11:18:14Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "eef3401bf73715982e4f05f33eb3bbde2d9c156f",
+      "date": "2014-09-30T08:24:24Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "01f703d7f2b171ca64aa81ce75b79bb4e094782e",
+      "date": "2014-05-20T17:37:47Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "3ca92da2c86b1c9147dfaeaa69ca3662524c7d2e",
+      "date": "2013-10-01T14:08:14Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "56c2d2b5aa73df0fd3406ca5c40a29139c8e64d1",
+      "date": "2013-10-01T14:03:33Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "20fff134c26869863789ab0d2e3cbd656d177a8c",
+      "date": "2013-10-01T13:45:58Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 25242857,
+      "date": "2013-09-27T12:54:58Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 25487181,
+      "date": "2013-10-01T20:38:10Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 26802002,
+      "date": "2013-10-22T13:23:39Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 30305964,
+      "date": "2013-12-11T09:34:26Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 36164770,
+      "date": "2014-02-26T19:17:29Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 49173043,
+      "date": "2014-07-16T14:26:45Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 52618511,
+      "date": "2014-08-19T11:05:06Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 56641358,
+      "date": "2014-09-24T08:45:50Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58640026,
+      "date": "2014-10-10T10:48:07Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 63846650,
+      "date": "2014-11-20T17:32:37Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 67619707,
+      "date": "2014-12-19T10:06:51Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85592341,
+      "date": "2015-03-24T16:41:55Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85597640,
+      "date": "2015-03-24T17:01:11Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7552244,
+      "date": "2012-08-07T12:56:30Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7552832,
+      "date": "2012-08-07T13:18:32Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7553326,
+      "date": "2012-08-07T13:35:08Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7553533,
+      "date": "2012-08-07T13:42:02Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7553702,
+      "date": "2012-08-07T13:47:37Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7554041,
+      "date": "2012-08-07T13:58:29Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 7554591,
+      "date": "2012-08-07T14:15:26Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 51,
+      "date": "2014-05-21T08:30:47Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 2,
+      "date": "2013-10-01T14:02:20Z"
+    },
+    {
+      "dev_id": "alan",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 595,
+      "date": "2012-08-07T12:53:08Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "87759db9111b01f110e4b59736dc0365928ebfc1",
+      "date": "2015-06-20T12:35:29Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "9bdb7cf0d92eb9e57c974ecef52adc37b4a360c8",
+      "date": "2015-06-17T21:48:23Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "b8f4f1eb698c621342093a62c91a00856554a59c",
+      "date": "2015-06-16T16:05:39Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "64c4171f38024865ad91302212685f0673c2a850",
+      "date": "2015-06-16T08:56:37Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "e425e2a90440e4e1f05b3ed5e0252fdc934c684f",
+      "date": "2015-06-16T09:28:10Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "d20d541f1ab111d19d468a5ca8f5ce375e122bb0",
+      "date": "2015-03-26T09:41:48Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "29af6a42157fba832fd726a705fbccd1618e8ed2",
+      "date": "2015-03-24T19:44:18Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "88fac6637da2363e7a2752f0ba58bfcecf65cac7",
+      "date": "2015-03-24T11:22:32Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "98c7368e42e06b8c956842ab51c030680560adcd",
+      "date": "2015-03-24T10:54:19Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 54809279,
+      "date": "2014-09-08T12:16:11Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55492466,
+      "date": "2014-09-13T12:24:22Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55492584,
+      "date": "2014-09-13T12:29:28Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55495270,
+      "date": "2014-09-13T14:20:14Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55495739,
+      "date": "2014-09-13T14:38:16Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55498290,
+      "date": "2014-09-13T16:03:41Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55499619,
+      "date": "2014-09-13T16:46:33Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55500089,
+      "date": "2014-09-13T17:02:21Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55501277,
+      "date": "2014-09-13T17:47:48Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55501486,
+      "date": "2014-09-13T17:56:16Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55501652,
+      "date": "2014-09-13T18:02:42Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55507831,
+      "date": "2014-09-13T21:46:20Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55529654,
+      "date": "2014-09-14T15:48:38Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 55530467,
+      "date": "2014-09-14T16:18:11Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 56190184,
+      "date": "2014-09-19T15:10:39Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 56190698,
+      "date": "2014-09-19T15:14:14Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 56741534,
+      "date": "2014-09-24T21:26:25Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 57147210,
+      "date": "2014-09-29T11:22:51Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58010114,
+      "date": "2014-10-06T12:31:40Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58011244,
+      "date": "2014-10-06T12:43:32Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58012908,
+      "date": "2014-10-06T12:59:02Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58013907,
+      "date": "2014-10-06T13:07:33Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58360509,
+      "date": "2014-10-08T13:54:41Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58549541,
+      "date": "2014-10-09T17:53:05Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 58876850,
+      "date": "2014-10-13T11:08:54Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 59384472,
+      "date": "2014-10-16T15:53:37Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 59384905,
+      "date": "2014-10-16T15:56:12Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 60743659,
+      "date": "2014-10-28T11:48:47Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 60746843,
+      "date": "2014-10-28T12:22:10Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 61025275,
+      "date": "2014-10-29T23:51:37Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 61678985,
+      "date": "2014-11-04T17:23:47Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 61682707,
+      "date": "2014-11-04T17:47:03Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 62876006,
+      "date": "2014-11-13T11:13:31Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 64915530,
+      "date": "2014-11-28T17:26:38Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 64929747,
+      "date": "2014-11-28T21:32:23Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 64933048,
+      "date": "2014-11-28T22:50:52Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 64980921,
+      "date": "2014-11-30T10:07:10Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 65453854,
+      "date": "2014-12-03T17:44:55Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 67334263,
+      "date": "2014-12-17T15:03:01Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 67350990,
+      "date": "2014-12-17T16:40:26Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 67377813,
+      "date": "2014-12-17T19:25:54Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 67581323,
+      "date": "2014-12-19T00:28:41Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68854772,
+      "date": "2015-01-06T11:28:50Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68865077,
+      "date": "2015-01-06T13:32:09Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68873615,
+      "date": "2015-01-06T14:46:33Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68873830,
+      "date": "2015-01-06T14:48:09Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68875438,
+      "date": "2015-01-06T14:59:56Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68889952,
+      "date": "2015-01-06T16:34:04Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68890265,
+      "date": "2015-01-06T16:35:58Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68891551,
+      "date": "2015-01-06T16:44:11Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 68892331,
+      "date": "2015-01-06T16:48:52Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 70813730,
+      "date": "2015-01-21T10:17:41Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 70839766,
+      "date": "2015-01-21T13:51:25Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 71186324,
+      "date": "2015-01-23T12:23:11Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 71189905,
+      "date": "2015-01-23T13:00:36Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 72493310,
+      "date": "2015-02-02T16:59:50Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 73260651,
+      "date": "2015-02-06T16:07:43Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 73862249,
+      "date": "2015-02-11T10:43:14Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 73872834,
+      "date": "2015-02-11T12:21:47Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74375700,
+      "date": "2015-02-14T13:52:16Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74375934,
+      "date": "2015-02-14T13:58:39Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74383810,
+      "date": "2015-02-14T17:26:13Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74387863,
+      "date": "2015-02-14T19:10:09Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 75475814,
+      "date": "2015-02-23T00:42:57Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 75475857,
+      "date": "2015-02-23T00:43:52Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 76633109,
+      "date": "2015-03-01T21:50:19Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 76983092,
+      "date": "2015-03-03T16:45:12Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77010028,
+      "date": "2015-03-03T18:57:16Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77540573,
+      "date": "2015-03-06T10:48:44Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 78721315,
+      "date": "2015-03-13T00:49:08Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 82840976,
+      "date": "2015-03-18T09:18:15Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 83237440,
+      "date": "2015-03-19T00:42:02Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85203974,
+      "date": "2015-03-23T21:22:48Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85449285,
+      "date": "2015-03-24T10:55:06Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85455546,
+      "date": "2015-03-24T11:25:27Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85586767,
+      "date": "2015-03-24T16:17:18Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85597070,
+      "date": "2015-03-24T16:58:47Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85613205,
+      "date": "2015-03-24T17:39:15Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85650768,
+      "date": "2015-03-24T19:13:10Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85665299,
+      "date": "2015-03-24T19:45:03Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 86487071,
+      "date": "2015-03-26T12:18:52Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 87412333,
+      "date": "2015-03-29T13:19:27Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 89367759,
+      "date": "2015-04-03T17:26:16Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 90569614,
+      "date": "2015-04-07T14:04:00Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 90884699,
+      "date": "2015-04-08T11:30:21Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 90924346,
+      "date": "2015-04-08T13:56:28Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92071004,
+      "date": "2015-04-12T14:33:07Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92078371,
+      "date": "2015-04-12T15:18:02Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92079011,
+      "date": "2015-04-12T15:22:34Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92082431,
+      "date": "2015-04-12T15:44:54Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92138865,
+      "date": "2015-04-12T21:51:12Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 97135668,
+      "date": "2015-04-28T16:53:05Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 99232097,
+      "date": "2015-05-05T21:42:17Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 111936240,
+      "date": "2015-06-15T06:04:39Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 111993792,
+      "date": "2015-06-15T09:31:59Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112150798,
+      "date": "2015-06-15T17:44:43Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112346433,
+      "date": "2015-06-16T08:58:19Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112348480,
+      "date": "2015-06-16T09:04:44Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112480451,
+      "date": "2015-06-16T16:03:37Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112746030,
+      "date": "2015-06-17T10:18:06Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112747245,
+      "date": "2015-06-17T10:27:03Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112754679,
+      "date": "2015-06-17T11:02:10Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112777453,
+      "date": "2015-06-17T12:12:37Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112794319,
+      "date": "2015-06-17T13:11:43Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112963701,
+      "date": "2015-06-17T22:04:20Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 114925794,
+      "date": "2015-06-24T16:03:09Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 128330700,
+      "date": "2015-08-06T11:12:36Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 128358344,
+      "date": "2015-08-06T13:11:47Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 130564697,
+      "date": "2015-08-13T07:30:01Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 131373991,
+      "date": "2015-08-15T13:23:35Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 133360186,
+      "date": "2015-08-21T09:59:47Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 134233260,
+      "date": "2015-08-24T14:55:20Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 134304087,
+      "date": "2015-08-24T17:09:50Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 135388669,
+      "date": "2015-08-27T11:12:49Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 147799636,
+      "date": "2015-10-13T18:12:27Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 148478857,
+      "date": "2015-10-15T18:20:06Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 153368691,
+      "date": "2015-11-03T14:18:31Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 153430813,
+      "date": "2015-11-03T17:48:17Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 94712011,
+      "date": "2015-04-21T09:01:32Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 172,
+      "date": "2015-06-17T22:01:25Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 166,
+      "date": "2015-06-16T09:29:02Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 165,
+      "date": "2015-06-16T08:57:57Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 148,
+      "date": "2015-03-26T12:13:42Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 145,
+      "date": "2015-03-24T10:54:41Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 120,
+      "date": "2015-01-23T12:22:09Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 117,
+      "date": "2015-01-06T16:43:59Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 115,
+      "date": "2015-01-06T13:55:48Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 111,
+      "date": "2014-12-18T13:21:18Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 109,
+      "date": "2014-12-09T10:06:36Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 101,
+      "date": "2014-11-29T22:31:52Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 98,
+      "date": "2014-11-18T18:05:34Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 91,
+      "date": "2014-10-10T10:43:57Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 87,
+      "date": "2014-10-04T12:56:07Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 83,
+      "date": "2014-09-13T17:06:50Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 82,
+      "date": "2014-09-13T14:11:46Z"
+    },
+    {
+      "dev_id": "isaacseymour",
+      "repo": "gocardless/statesman",
+      "type": "issue",
+      "id": 99,
+      "date": "2014-11-18T18:31:25Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "c958d3838cb2a1ea4ac9ceae80bb493b6bdc8b92",
+      "date": "2015-09-30T15:39:03Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "80a023f62995bdc1cd7546f71cf52930335b909a",
+      "date": "2015-09-30T14:59:16Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "926f45417f59a76af9fc3f143c657f3cde0cdcc1",
+      "date": "2015-09-30T14:43:00Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "ea57656fe2975392b735986b80afa061d9c06c8d",
+      "date": "2015-08-27T13:26:52Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "d17313a988fad26b8760085a1fec0d39a5da4997",
+      "date": "2015-08-27T13:20:13Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "280d7811dbee367ad730ce5afebaeb3a5d889a52",
+      "date": "2015-08-27T10:19:06Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "9e8aeb661edc55a9bafdf4eec557242043963840",
+      "date": "2015-08-27T09:34:45Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "1fae6ac44bd2ff65856ba463855ce3ed8a1e29bd",
+      "date": "2015-08-20T23:22:23Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "ed0cec1f08680fa8c46c86d7755948ca278c6a55",
+      "date": "2015-08-14T10:51:58Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "7a20758ba5152207e1094f92d10bdf820fdfedf4",
+      "date": "2015-08-14T10:50:35Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "656603b5f2eff054f14a6232099c6a2acc3a55dc",
+      "date": "2015-08-12T23:49:54Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "5f37b3174267847a906f730670159148377ebff8",
+      "date": "2015-07-02T15:55:00Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "00b0a5d0a9e27b1936dfc8c115b6ac64cce94cac",
+      "date": "2015-07-02T15:17:45Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "7ca49f247a5ef96e3531f50b9034a88d106531e7",
+      "date": "2015-07-02T15:11:30Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "3d3c703c49a92b9b362902623809e993c66a51b4",
+      "date": "2015-07-02T10:39:23Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "ec6979a76fffc4f5b5efc35e25762cf16110f055",
+      "date": "2015-07-01T20:40:57Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "e9b578f30828023ad4deedc19299096c2fa3e234",
+      "date": "2015-06-23T09:41:33Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "cc1e0fabc8377301c2b28eb558105099f122b19a",
+      "date": "2015-06-17T11:15:52Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "e9efc4b4e540ec78fe3566328a6451ec724a2c42",
+      "date": "2015-06-17T11:15:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "290067def56bed9cb56506b6929ba4bed08b9f88",
+      "date": "2015-06-17T11:09:22Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "0d63c91795c1391d7e0767320d6da4658bbb3f15",
+      "date": "2015-05-09T16:51:55Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "15f8b35509ce17b192403504a5a64d561ca4df50",
+      "date": "2015-05-09T16:50:56Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "dee53da422950249da57777c6d8a2ebaf3791e00",
+      "date": "2015-04-14T16:05:57Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "918d633e1f02237290bd2df8b6eb3b9760b60180",
+      "date": "2015-04-14T16:03:28Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "ed6441371d7bdd35de506985a09dfb0f6a87843b",
+      "date": "2015-04-12T20:53:08Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "c7f12659c99ab7b0feb7e188e1df3e9388879476",
+      "date": "2015-04-08T21:44:21Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "1a1a69442edae0e6e2017285c0325bff86832469",
+      "date": "2015-04-08T21:42:57Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "fbd36deb3dc7bccb17a478610e51db8f01224c57",
+      "date": "2015-04-08T21:42:18Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "e018b8e360e31788133544f7f4ba7dbae94f6993",
+      "date": "2015-04-08T21:23:09Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "83ff2a514a81a8b734c7f04614cf8953500f89fa",
+      "date": "2015-04-08T21:21:19Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "3d82dec78c41b0e34416840a801376c4ed451ab8",
+      "date": "2015-04-07T21:22:29Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "fc7ce8a80844ca02311f3ed2854f55f434570c83",
+      "date": "2015-04-06T19:47:36Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "878050ccd51dde19657b72bafc0144041a00e85e",
+      "date": "2015-03-31T21:50:11Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "34625e3e7519a2ba6b43ffcf4cb69a23d4c94999",
+      "date": "2015-03-31T21:49:59Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "5e5061e5b8f891ad76e8cd556f11323c07234c93",
+      "date": "2015-03-19T09:30:33Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "8ac29f102420e51f0e74f986fe9a0fed82686d2d",
+      "date": "2015-03-19T01:38:27Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "b0e3755f3e57985fd00e076cca47fd514ffb9393",
+      "date": "2015-03-19T01:39:34Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "e754eef02e9f3617408a081e009f47626399caa3",
+      "date": "2015-03-19T01:30:19Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "86dad84474c3869d2026c0cf8f3e2ff32774a0c0",
+      "date": "2015-03-19T00:19:03Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "5eb40a75293eaaa51df97f3b43a4c488c95037f6",
+      "date": "2015-03-19T01:20:05Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "4ff31d068a527157138110d8551028e9bda4717d",
+      "date": "2015-03-18T14:07:57Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "9b24b95c4e12434286fbbc4832282b61ccaf7c8b",
+      "date": "2015-03-18T14:05:28Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "837765b9f617efb0ecc773863eb6325e79e11e18",
+      "date": "2015-03-18T11:48:40Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "40d59632f1db0492c9c7f2ae6117035eb459b5e3",
+      "date": "2015-03-18T01:20:51Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "1b12d25c454c1c5555caf3d950ccd008e57ecca6",
+      "date": "2015-03-17T23:42:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "43eea7cb263c6e29bff0677798de6e07a7368cbf",
+      "date": "2015-03-17T21:25:23Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "a19b71cb9ba64c4cbe99f368ac5541021ff55906",
+      "date": "2015-03-17T18:29:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "81259f07c2d8b0129190f6ac62928869520b4715",
+      "date": "2015-03-17T17:29:26Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "c55196c34cadd34e720d37e145ceff226e14d685",
+      "date": "2015-03-16T18:45:16Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "98cd4ae5f1c30bd15178883554c47a945eac69f5",
+      "date": "2015-03-08T22:59:38Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "dcf50896c425ac746ce13f35d0692ecae4ba1bd3",
+      "date": "2015-03-13T08:07:58Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "5dff58a632d02ed39d44d11ba170d6ad61dfb7e7",
+      "date": "2015-03-13T00:44:44Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "9e832e74c686dd8c2117a836141a1b6c5ba2a126",
+      "date": "2015-03-10T18:30:22Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "1f6af7998c2fe5872ba803266edd07ceec89390c",
+      "date": "2015-03-10T17:41:33Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "0bd8da3a56d91bdeff2f5015063b5db898fc37b4",
+      "date": "2015-02-15T10:11:38Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "89422f7ead35b6df1aa4c2981cd1658a63fe8168",
+      "date": "2015-02-15T10:11:03Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "3d6690b55ee1652a91e74b5bb6489914f96072f8",
+      "date": "2015-02-14T18:15:58Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "8f971a6d8b8b5423645f418424bc4feeb6eb6b68",
+      "date": "2015-02-14T17:04:03Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "f3abdb93469f290cc427c905f28daaf282cdd6ef",
+      "date": "2015-02-14T16:55:27Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "8b29623dc404e7ae6fa9f88568b2f02ef9040646",
+      "date": "2014-12-09T10:12:45Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "146d09073a042de159eb237bc8aa85ee31c00ad8",
+      "date": "2014-12-08T17:16:56Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "d86f2860e4b30dda43badfd99ecf543f9c0d4f87",
+      "date": "2014-12-08T13:30:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "e62d89df380a7b53c9f7ab86c367d220c92f3851",
+      "date": "2014-12-08T12:37:27Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "7dc996e4a35461506ca1c905abb018527924bc51",
+      "date": "2014-12-08T12:08:53Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "631739d533d34e74a52ca14977ea03a158161d03",
+      "date": "2014-12-08T11:59:11Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "c4f4c3b6555ca41d2cc7f706d2c244d53a3a273c",
+      "date": "2014-12-08T11:48:51Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "1abb694578c1a15afad352aae0095aa44998f591",
+      "date": "2014-12-08T11:34:01Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "38c15d5f64277ce5f76f8f3180a0e93275ac3d1e",
+      "date": "2014-12-08T11:40:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "fa2237bb97281cf6c2ef36ee0b0ce55cd4f2ef66",
+      "date": "2014-12-07T11:02:00Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "465a94fb481c532cb874080424b443b00605bc91",
+      "date": "2014-12-07T02:40:56Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "7af981160610e3746a8f09234564985347ff5df8",
+      "date": "2014-10-01T21:13:00Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "d86d76e06c50e881bd003cb783b0f66bc342928a",
+      "date": "2014-07-25T16:03:25Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "2783ca2f182397a5a6bfe8ad45b4b7fbe45bb78a",
+      "date": "2014-07-29T09:21:18Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "8699540b17541acd34ccd47f36b420e404e84e97",
+      "date": "2014-07-28T21:05:28Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "efc74a03867b76f28b0b7f9ff0f12650dccaba49",
+      "date": "2014-07-16T16:45:16Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "6865134136f0832f6162ac1246a6380fe394417a",
+      "date": "2014-07-16T16:44:23Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "c7a1d49bbfd188a83a1e5035ec5a3a4d0a400b52",
+      "date": "2014-07-15T23:59:11Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "commit",
+      "id": "b94f1cf357dd99ce869bd07a83c8de20b59682c9",
+      "date": "2014-06-12T15:44:59Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 38997620,
+      "date": "2014-03-29T14:49:56Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 38999481,
+      "date": "2014-03-29T15:53:25Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 49168329,
+      "date": "2014-07-16T13:55:05Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 49193552,
+      "date": "2014-07-16T16:45:12Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 50170051,
+      "date": "2014-07-25T16:08:02Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 50170808,
+      "date": "2014-07-25T16:13:46Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 50341721,
+      "date": "2014-07-28T14:01:45Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 50354678,
+      "date": "2014-07-28T15:33:54Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 50414574,
+      "date": "2014-07-28T23:05:58Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 50453543,
+      "date": "2014-07-29T09:23:27Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 50454052,
+      "date": "2014-07-29T09:28:44Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 56105675,
+      "date": "2014-09-18T21:26:01Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 56439151,
+      "date": "2014-09-22T20:38:38Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 57540099,
+      "date": "2014-10-01T21:17:10Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 57947014,
+      "date": "2014-10-05T18:29:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 65923178,
+      "date": "2014-12-07T01:58:11Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 65932875,
+      "date": "2014-12-07T10:29:42Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 66105664,
+      "date": "2014-12-08T11:45:04Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 66106692,
+      "date": "2014-12-08T11:55:58Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 66110505,
+      "date": "2014-12-08T12:38:20Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 66151558,
+      "date": "2014-12-08T17:26:15Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 66260434,
+      "date": "2014-12-09T10:12:11Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 67528548,
+      "date": "2014-12-18T18:08:42Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 67582064,
+      "date": "2014-12-19T00:37:41Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74382928,
+      "date": "2015-02-14T17:04:53Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74385800,
+      "date": "2015-02-14T18:17:04Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74385842,
+      "date": "2015-02-14T18:18:01Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74386097,
+      "date": "2015-02-14T18:25:07Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 74411556,
+      "date": "2015-02-15T10:12:17Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77784536,
+      "date": "2015-03-09T00:27:55Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77784562,
+      "date": "2015-03-09T00:28:30Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77784593,
+      "date": "2015-03-09T00:29:07Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77785809,
+      "date": "2015-03-09T00:52:37Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77864660,
+      "date": "2015-03-09T14:37:22Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 77979236,
+      "date": "2015-03-10T01:25:20Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 78102887,
+      "date": "2015-03-10T17:22:28Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 78720439,
+      "date": "2015-03-13T00:46:13Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 80398170,
+      "date": "2015-03-14T12:15:25Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 82937408,
+      "date": "2015-03-18T12:06:05Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 83232390,
+      "date": "2015-03-19T00:20:23Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 83237560,
+      "date": "2015-03-19T00:43:13Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 83247818,
+      "date": "2015-03-19T01:21:17Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 83253311,
+      "date": "2015-03-19T01:39:17Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 85452634,
+      "date": "2015-03-24T11:09:15Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 90736346,
+      "date": "2015-04-07T21:22:27Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 90737346,
+      "date": "2015-04-07T21:27:15Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91016119,
+      "date": "2015-04-08T19:48:47Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91037382,
+      "date": "2015-04-08T21:06:14Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91037729,
+      "date": "2015-04-08T21:07:59Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91037982,
+      "date": "2015-04-08T21:09:19Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91040874,
+      "date": "2015-04-08T21:23:51Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91043443,
+      "date": "2015-04-08T21:37:31Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91043576,
+      "date": "2015-04-08T21:38:07Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91043643,
+      "date": "2015-04-08T21:38:29Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 91171157,
+      "date": "2015-04-09T09:19:29Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92107647,
+      "date": "2015-04-12T19:48:15Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92130494,
+      "date": "2015-04-12T21:09:56Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92135280,
+      "date": "2015-04-12T21:19:49Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92149935,
+      "date": "2015-04-12T23:13:23Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 92150476,
+      "date": "2015-04-12T23:17:38Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 93108367,
+      "date": "2015-04-14T23:22:18Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 108070843,
+      "date": "2015-06-02T19:37:05Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112756870,
+      "date": "2015-06-17T11:09:18Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 112759480,
+      "date": "2015-06-17T11:18:46Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 113325513,
+      "date": "2015-06-19T00:20:10Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 114422392,
+      "date": "2015-06-23T09:41:01Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 115241151,
+      "date": "2015-06-25T12:49:21Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 117043851,
+      "date": "2015-06-30T07:49:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 117819323,
+      "date": "2015-07-01T20:43:19Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 117994391,
+      "date": "2015-07-02T10:39:20Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 117996158,
+      "date": "2015-07-02T10:49:03Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 118013839,
+      "date": "2015-07-02T12:29:21Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 118064169,
+      "date": "2015-07-02T15:13:28Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 118066888,
+      "date": "2015-07-02T15:23:30Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 118066974,
+      "date": "2015-07-02T15:23:41Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 128921158,
+      "date": "2015-08-08T05:43:30Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 131630448,
+      "date": "2015-08-16T21:50:47Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 133222286,
+      "date": "2015-08-21T00:04:39Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 135372932,
+      "date": "2015-08-27T10:20:30Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 144350872,
+      "date": "2015-09-30T10:39:22Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 144433440,
+      "date": "2015-09-30T14:44:01Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 156812995,
+      "date": "2015-11-15T13:52:56Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "com",
+      "id": 157012188,
+      "date": "2015-11-16T12:24:42Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "rspec/rspec-rails",
+      "type": "com",
+      "id": 111719344,
+      "date": "2015-06-13T15:24:30Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 185,
+      "date": "2015-08-27T10:20:24Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 184,
+      "date": "2015-08-27T09:51:54Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 182,
+      "date": "2015-08-21T00:02:43Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 180,
+      "date": "2015-08-12T23:51:08Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 177,
+      "date": "2015-07-01T20:43:00Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 158,
+      "date": "2015-04-12T21:09:37Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 156,
+      "date": "2015-04-08T21:22:26Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 143,
+      "date": "2015-03-19T01:39:03Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 142,
+      "date": "2015-03-19T01:20:32Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 141,
+      "date": "2015-03-19T00:20:10Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 135,
+      "date": "2015-03-13T00:46:03Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 133,
+      "date": "2015-03-10T17:41:50Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 132,
+      "date": "2015-03-09T00:18:12Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 127,
+      "date": "2015-02-14T18:16:56Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 126,
+      "date": "2015-02-14T17:04:45Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 108,
+      "date": "2014-12-08T17:25:18Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 107,
+      "date": "2014-12-08T12:38:12Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 106,
+      "date": "2014-12-08T11:59:38Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 105,
+      "date": "2014-12-08T11:55:49Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 104,
+      "date": "2014-12-08T11:35:38Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 103,
+      "date": "2014-12-07T02:42:06Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 86,
+      "date": "2014-10-01T21:17:02Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 84,
+      "date": "2014-09-18T21:25:47Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 68,
+      "date": "2014-07-29T09:23:18Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 67,
+      "date": "2014-07-28T23:02:42Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 65,
+      "date": "2014-07-25T16:07:48Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 64,
+      "date": "2014-07-16T13:54:43Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "gocardless/statesman",
+      "type": "pr",
+      "id": 60,
+      "date": "2014-06-12T15:45:14Z"
+    },
+    {
+      "dev_id": "greysteil",
+      "repo": "rspec/rspec-rails",
+      "type": "issue",
+      "id": 1394,
+      "date": "2015-06-13T11:12:39Z"
+    }
+  ]
+}
